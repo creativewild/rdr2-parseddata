@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <minigames>
+    <minigame id="MINIGAME_MP_POKER_BLACKWATER">
+      <instance UNK_FB277C36="2500" UNK_B2834059="MINIGAME_MP_POKER_PUBLIC_CHIP" id="MINIGAME_MP_POKER_PUBLIC" type="PUBLIC" />
+      <instance UNK_FB277C36="500" UNK_B2834059="MINIGAME_MP_POKER_PRIVATE_CHIP" id="MINIGAME_MP_POKER_PRIVATE" type="PRIVATE" />
+      <cameras>
+        <camera fov="48.4977" id="0" position="[-810.8986, -1317.095, 47.8503]" rotation="[-56.5683, 18.4348, 72.0852]" />
+        <camera fov="46.7163" id="1" position="[-810.9435, -1317.08, 47.7788]" rotation="[-56.5683, 16.4055, 72.0852]" />
+      </cameras>
+    </minigame>
+    <minigame id="MINIGAME_MP_POKER_SAINT_DENIS">
+      <instance UNK_FB277C36="2500" UNK_B2834059="MINIGAME_MP_POKER_PUBLIC_CHIP" id="MINIGAME_MP_POKER_PUBLIC" type="PUBLIC" />
+      <instance UNK_FB277C36="500" UNK_B2834059="MINIGAME_MP_POKER_PRIVATE_CHIP" id="MINIGAME_MP_POKER_PRIVATE" type="PRIVATE" />
+      <cameras>
+        <camera fov="53.7878" id="0" position="[2627.741, -1225.778, 54.3595]" rotation="[-15.7822, 0.0, -94.3151]" />
+        <camera fov="52.1049" id="1" position="[2627.741, -1225.778, 54.3595]" rotation="[-16.4537, 0.0, -94.9246]" />
+      </cameras>
+    </minigame>
+    <minigame id="MINIGAME_MP_POKER_SWANSONS_STATION">
+      <instance UNK_FB277C36="2500" UNK_B2834059="MINIGAME_MP_POKER_PUBLIC_CHIP" id="MINIGAME_MP_POKER_PUBLIC" type="PUBLIC" />
+      <instance UNK_FB277C36="500" UNK_B2834059="MINIGAME_MP_POKER_PRIVATE_CHIP" id="MINIGAME_MP_POKER_PRIVATE" type="PRIVATE" />
+      <cameras>
+        <camera fov="38.6032" id="0" position="[-333.4032, -359.1883, 90.7436]" rotation="[-24.3053, 0.0, -79.9703]" />
+        <camera fov="37.1094" id="1" position="[-333.3683, -359.1823, 90.7276]" rotation="[-24.4407, 0.0, -79.5973]" />
+      </cameras>
+    </minigame>
+    <minigame id="MINIGAME_MP_POKER_TUMBLEWEED">
+      <instance UNK_FB277C36="2500" UNK_B2834059="MINIGAME_MP_POKER_PUBLIC_CHIP" id="MINIGAME_MP_POKER_PUBLIC" type="PUBLIC" />
+      <instance UNK_FB277C36="500" UNK_B2834059="MINIGAME_MP_POKER_PRIVATE_CHIP" id="MINIGAME_MP_POKER_PRIVATE" type="PRIVATE" />
+      <cameras>
+        <camera fov="35.8514" id="0" position="[-5516.567, -2914.611, 3.3029]" rotation="[-15.5214, 0.0, -84.1087]" />
+        <camera fov="34.5986" id="1" position="[-5516.567, -2914.611, 3.3029]" rotation="[-15.5214, 0.0, -83.4104]" />
+      </cameras>
+    </minigame>
+    <minigame id="MINIGAME_MP_POKER_VALENTINE">
+      <instance UNK_FB277C36="2500" UNK_B2834059="MINIGAME_MP_POKER_PUBLIC_CHIP" id="MINIGAME_MP_POKER_PUBLIC" type="PUBLIC" />
+      <instance UNK_FB277C36="500" UNK_B2834059="MINIGAME_MP_POKER_PRIVATE_CHIP" id="MINIGAME_MP_POKER_PRIVATE" type="PRIVATE" />
+      <cameras>
+        <camera fov="51.2562" id="0" position="[-302.7436, 798.9423, 120.3456]" rotation="[-22.18, 0.0, 41.4537]" />
+        <camera fov="49.3566" id="1" position="[-302.7436, 798.9423, 120.3456]" rotation="[-22.8604, 0.0, 41.2476]" />
+      </cameras>
+    </minigame>
+  </minigames>
+</root>

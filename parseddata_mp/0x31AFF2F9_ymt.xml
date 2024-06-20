@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_1AF9B630 id="ST_HORSE_FENCE_MP">
+    <region id="REGION_SCM_RHODES">
+      <vector data="[1326.2, -1250.7, 79.9]" id="scene_approach_cam_pos" />
+      <vector data="[-20.0879, 0.0008, 22.5063]" id="scene_approach_cam_rot" />
+      <float data="51.3" id="scene_approach_cam_fov" />
+      <vector data="[1325.144, -1246.491, 76.8234]" id="scene_approach_shopkeeper_pos" />
+      <float data="252.4364" id="scene_approach_shopkeeper_heading" />
+      <vector data="[1322.3, -1244.3, 78.0]" id="scene_approach_helper_pos" />
+      <float data="253.0862" id="scene_approach_helper_heading" />
+      <vector data="[1327.506, -1245.058, 77.5138]" id="scene_approach_helper_task_pos" />
+      <float data="221.7003" id="scene_approach_helper_task_heading" />
+      <vector data="[1327.506, -1245.058, 77.5138]" id="scene_approach_horse_pos" />
+      <float data="221.7003" id="scene_approach_horse_heading" />
+      <vector data="[1326.0, -1241.9, 79.7]" id="scene_cam_pos" />
+      <vector data="[-20.4983, 0.0, 165.6421]" id="scene_cam_rot" />
+      <float data="51.3" id="scene_cam_fov" />
+      <vector data="[1325.144, -1246.491, 76.8234]" id="scene_shopkeeper_pos" />
+      <float data="252.4364" id="scene_shopkeeper_heading" />
+      <vector data="[1327.506, -1245.058, 77.5138]" id="scene_horse_pos" />
+      <float data="221.7003" id="scene_horse_heading" />
+      <vector data="[1325.69, -1244.502, 77.8288]" id="scene_helper_pos" />
+      <float data="147.4686" id="scene_helper_heading" />
+      <vector data="[1324.92, -1266.314, 76.6898]" id="scene_ride_to_pos" />
+    </region>
+    <region id="REGION_BAY_SAINT_DENIS">
+      <vector data="[2661.386, -1042.39, 46.4637]" id="scene_approach_cam_pos" />
+      <vector data="[-3.9106, 0.0, 179.7503]" id="scene_approach_cam_rot" />
+      <float data="48.0" id="scene_approach_cam_fov" />
+      <vector data="[2661.031, -1045.048, 45.10538]" id="scene_approach_shopkeeper_pos" />
+      <float data="47.66278" id="scene_approach_shopkeeper_heading" />
+      <vector data="[2659.439, -1050.124, 45.3754]" id="scene_approach_helper_pos" />
+      <float data="44.748" id="scene_approach_helper_heading" />
+      <vector data="[2658.022, -1045.322, 45.09361]" id="scene_approach_helper_task_pos" />
+      <float data="0.0" id="scene_approach_helper_task_heading" />
+      <vector data="[2662.186, -1043.428, 45.01802]" id="scene_approach_horse_pos" />
+      <float data="0.0" id="scene_approach_horse_heading" />
+      <vector data="[2657.951, -1043.993, 46.5855]" id="scene_cam_pos" />
+      <vector data="[-3.2617, 0.0, -87.9849]" id="scene_cam_rot" />
+      <float data="48.0" id="scene_cam_fov" />
+      <vector data="[2661.031, -1045.048, 45.10538]" id="scene_shopkeeper_pos" />
+      <float data="47.66278" id="scene_shopkeeper_heading" />
+      <vector data="[2661.778, -1041.896, 44.89817]" id="scene_horse_pos" />
+      <float data="0.0" id="scene_horse_heading" />
+      <vector data="[2660.896, -1042.391, 44.90402]" id="scene_helper_pos" />
+      <float data="0.0" id="scene_helper_heading" />
+      <vector data="[2658.587, -1038.981, 44.62222]" id="scene_ride_to_pos" />
+    </region>
+    <region id="REGION_HRT_VALENTINE">
+      <vector data="[-319.3718, 697.0161, 116.3544]" id="scene_approach_cam_pos" />
+      <vector data="[-2.6243, 0.0, 64.372]" id="scene_approach_cam_rot" />
+      <float data="48.0" id="scene_approach_cam_fov" />
+      <vector data="[-322.885, 698.202, 114.995]" id="scene_approach_shopkeeper_pos" />
+      <float data="0.0" id="scene_approach_shopkeeper_heading" />
+      <vector data="[-326.7875, 700.3761, 115.3482]" id="scene_approach_helper_pos" />
+      <float data="304.0361" id="scene_approach_helper_heading" />
+      <vector data="[-322.567, 699.7947, 114.874]" id="scene_approach_helper_task_pos" />
+      <float data="115.8747" id="scene_approach_helper_task_heading" />
+      <vector data="[-321.1545, 696.3019, 114.9314]" id="scene_approach_horse_pos" />
+      <float data="63.8387" id="scene_approach_horse_heading" />
+      <vector data="[-321.3071, 700.2708, 116.399]" id="scene_cam_pos" />
+      <vector data="[1.0158, -0.0002, 151.7003]" id="scene_cam_rot" />
+      <float data="48.0" id="scene_cam_fov" />
+      <vector data="[-322.885, 698.202, 114.995]" id="scene_shopkeeper_pos" />
+      <float data="0.0" id="scene_shopkeeper_heading" />
+      <vector data="[-321.1545, 696.3019, 114.9314]" id="scene_horse_pos" />
+      <float data="63.8387" id="scene_horse_heading" />
+      <vector data="[-321.2943, 697.1105, 114.9045]" id="scene_helper_pos" />
+      <float data="190.6669" id="scene_helper_heading" />
+      <vector data="[-316.42, 705.4517, 114.3809]" id="scene_ride_to_pos" />
+    </region>
+    <region id="REGION_HRT_CORNWALLKEROSENE">
+      <vector data="[547.3328, 632.004, 109.8736]" id="scene_approach_cam_pos" />
+      <vector data="[1.0172, 0.0, -162.8179]" id="scene_approach_cam_rot" />
+      <float data="48.0" id="scene_approach_cam_fov" />
+      <vector data="[548.2063, 628.9953, 108.4814]" id="scene_approach_shopkeeper_pos" />
+      <float data="80.684" id="scene_approach_shopkeeper_heading" />
+      <vector data="[549.892, 624.043, 108.8862]" id="scene_approach_helper_pos" />
+      <float data="80.684" id="scene_approach_helper_heading" />
+      <vector data="[547.2936, 628.0294, 108.4376]" id="scene_approach_helper_task_pos" />
+      <float data="0.0" id="scene_approach_helper_task_heading" />
+      <vector data="[548.9372, 631.4153, 108.5576]" id="scene_approach_horse_pos" />
+      <float data="181.0544" id="scene_approach_horse_heading" />
+      <vector data="[544.7928, 627.9954, 109.976]" id="scene_cam_pos" />
+      <vector data="[-2.1765, 0.0, -64.8623]" id="scene_cam_rot" />
+      <float data="48.0" id="scene_cam_fov" />
+      <vector data="[548.2063, 628.9953, 108.4814]" id="scene_shopkeeper_pos" />
+      <float data="80.684" id="scene_shopkeeper_heading" />
+      <vector data="[547.7848, 631.5997, 108.5118]" id="scene_horse_pos" />
+      <float data="243.2268" id="scene_horse_heading" />
+      <vector data="[547.7393, 630.8322, 108.4892]" id="scene_helper_pos" />
+      <float data="348.6576" id="scene_helper_heading" />
+      <vector data="[540.3785, 631.0934, 108.4404]" id="scene_ride_to_pos" />
+    </region>
+    <region id="REGION_HRT_EMERALDRANCH">
+      <vector data="[1422.98, 363.0408, 89.3269]" id="scene_approach_cam_pos" />
+      <vector data="[1.0787, 0.0003, 39.1916]" id="scene_approach_cam_rot" />
+      <float data="48.0" id="scene_approach_cam_fov" />
+      <vector data="[1421.052, 365.723, 88.066]" id="scene_approach_shopkeeper_pos" />
+      <float data="0.0" id="scene_approach_shopkeeper_heading" />
+      <vector data="[1418.286, 370.3988, 88.521]" id="scene_approach_helper_pos" />
+      <float data="284.7114" id="scene_approach_helper_heading" />
+      <vector data="[1422.702, 367.0876, 88.0408]" id="scene_approach_helper_task_pos" />
+      <float data="172.3546" id="scene_approach_helper_task_heading" />
+      <vector data="[1421.257, 363.1131, 87.9318]" id="scene_approach_horse_pos" />
+      <float data="24.962" id="scene_approach_horse_heading" />
+      <vector data="[1423.041, 367.328, 89.8514]" id="scene_cam_pos" />
+      <vector data="[-6.2368, -0.0011, 142.4113]" id="scene_cam_rot" />
+      <float data="48.0" id="scene_cam_fov" />
+      <vector data="[1421.052, 365.723, 88.066]" id="scene_shopkeeper_pos" />
+      <float data="0.0" id="scene_shopkeeper_heading" />
+      <vector data="[1422.172, 362.8985, 87.938]" id="scene_horse_pos" />
+      <float data="81.7201" id="scene_horse_heading" />
+      <vector data="[1422.022, 363.7622, 87.9653]" id="scene_helper_pos" />
+      <float data="150.5151" id="scene_helper_heading" />
+      <vector data="[1426.839, 365.7975, 87.7832]" id="scene_ride_to_pos" />
+    </region>
+    <region id="REGION_BAY_LAGRAS">
+      <vector data="[2061.104, -570.4, 42.4841]" id="scene_approach_cam_pos" />
+      <vector data="[-4.466, -0.0718, 121.3433]" id="scene_approach_cam_rot" />
+      <float data="48.0" id="scene_approach_cam_fov" />
+      <vector data="[2058.441, -571.702, 40.82048]" id="scene_approach_shopkeeper_pos" />
+      <float data="0.0" id="scene_approach_shopkeeper_heading" />
+      <vector data="[2053.835, -572.5225, 40.6349]" id="scene_approach_helper_pos" />
+      <float data="322.9654" id="scene_approach_helper_heading" />
+      <vector data="[2058.207, -570.1272, 40.7247]" id="scene_approach_helper_task_pos" />
+      <float data="298.3441" id="scene_approach_helper_task_heading" />
+      <vector data="[2061.149, -571.905, 40.7478]" id="scene_approach_horse_pos" />
+      <float data="106.0325" id="scene_approach_horse_heading" />
+      <vector data="[2057.634, -569.2689, 42.3033]" id="scene_cam_pos" />
+      <vector data="[-3.5022, 0.001, -149.3251]" id="scene_cam_rot" />
+      <float data="48.0" id="scene_cam_fov" />
+      <vector data="[2058.441, -571.702, 40.82048]" id="scene_shopkeeper_pos" />
+      <float data="0.0" id="scene_shopkeeper_heading" />
+      <vector data="[2061.463, -571.624, 40.7064]" id="scene_horse_pos" />
+      <float data="143.9046" id="scene_horse_heading" />
+      <vector data="[2060.581, -571.1978, 40.7185]" id="scene_helper_pos" />
+      <float data="248.0478" id="scene_helper_heading" />
+      <vector data="[2054.103, -562.3951, 40.7832]" id="scene_ride_to_pos" />
+    </region>
+    <region id="REGION_ROA_ANNESBURG">
+      <vector data="[2903.593, 1241.023, 45.4921]" id="scene_approach_cam_pos" />
+      <vector data="[-5.1318, 0.0, -176.8669]" id="scene_approach_cam_rot" />
+      <float data="48.0" id="scene_approach_cam_fov" />
+      <vector data="[2903.993, 1238.222, 43.92266]" id="scene_approach_shopkeeper_pos" />
+      <float data="65.172" id="scene_approach_shopkeeper_heading" />
+      <vector data="[2901.596, 1233.024, 43.87302]" id="scene_approach_helper_pos" />
+      <float data="35.813" id="scene_approach_helper_heading" />
+      <vector data="[2901.866, 1237.973, 44.21483]" id="scene_approach_helper_task_pos" />
+      <float data="0.0" id="scene_approach_helper_task_heading" />
+      <vector data="[2905.131, 1239.839, 43.8952]" id="scene_approach_horse_pos" />
+      <float data="163.841" id="scene_approach_horse_heading" />
+      <vector data="[2900.97, 1238.235, 45.554]" id="scene_cam_pos" />
+      <vector data="[-5.0389, 0.0, -80.8246]" id="scene_cam_rot" />
+      <float data="48.0" id="scene_cam_fov" />
+      <vector data="[2903.993, 1238.222, 43.92266]" id="scene_shopkeeper_pos" />
+      <float data="65.172" id="scene_shopkeeper_heading" />
+      <vector data="[2904.879, 1241.121, 43.96497]" id="scene_horse_pos" />
+      <float data="0.0" id="scene_horse_heading" />
+      <vector data="[2904.443, 1240.612, 43.98916]" id="scene_helper_pos" />
+      <float data="0.0" id="scene_helper_heading" />
+      <vector data="[2899.467, 1240.792, 44.06099]" id="scene_ride_to_pos" />
+    </region>
+    <region id="REGION_ROA_VANHORNPOST">
+      <vector data="[2964.889, 554.6407, 44.8585]" id="scene_approach_cam_pos" />
+      <vector data="[-1.988, -0.0002, -154.9611]" id="scene_approach_cam_rot" />
+      <float data="48.0" id="scene_approach_cam_fov" />
+      <vector data="[2966.145, 551.869, 43.45702]" id="scene_approach_shopkeeper_pos" />
+      <float data="79.439" id="scene_approach_shopkeeper_heading" />
+      <vector data="[2967.821, 546.5086, 43.16336]" id="scene_approach_helper_pos" />
+      <float data="79.439" id="scene_approach_helper_heading" />
+      <vector data="[2965.03, 550.7112, 43.38942]" id="scene_approach_helper_task_pos" />
+      <float data="0.0" id="scene_approach_helper_task_heading" />
+      <vector data="[2966.136, 554.2302, 43.47912]" id="scene_approach_horse_pos" />
+      <float data="0.0" id="scene_approach_horse_heading" />
+      <vector data="[2963.74, 550.5988, 45.0168]" id="scene_cam_pos" />
+      <vector data="[-2.4328, 0.0001, -50.6869]" id="scene_cam_rot" />
+      <float data="48.0" id="scene_cam_fov" />
+      <vector data="[2966.145, 551.869, 43.45702]" id="scene_shopkeeper_pos" />
+      <float data="79.439" id="scene_shopkeeper_heading" />
+      <vector data="[2965.882, 554.851, 43.41959]" id="scene_horse_pos" />
+      <float data="0.0" id="scene_horse_heading" />
+      <vector data="[2965.737, 553.8893, 43.41018]" id="scene_helper_pos" />
+      <float data="0.0" id="scene_helper_heading" />
+      <vector data="[2961.036, 551.7072, 43.62119]" id="scene_ride_to_pos" />
+    </region>
+    <region id="REGION_ROA_BUTCHERCREEK">
+      <vector data="[2583.771, 742.9124, 82.3626]" id="scene_approach_cam_pos" />
+      <vector data="[-9.2948, 0.0, 117.5246]" id="scene_approach_cam_rot" />
+      <float data="48.0" id="scene_approach_cam_fov" />
+      <vector data="[2581.489, 741.2914, 80.48071]" id="scene_approach_shopkeeper_pos" />
+      <float data="0.0" id="scene_approach_shopkeeper_heading" />
+      <vector data="[2575.651, 740.3333, 79.18291]" id="scene_approach_helper_pos" />
+      <float data="0.0" id="scene_approach_helper_heading" />
+      <vector data="[2580.184, 742.745, 79.92405]" id="scene_approach_helper_task_pos" />
+      <float data="0.0" id="scene_approach_helper_task_heading" />
+      <vector data="[2583.162, 741.1328, 80.90211]" id="scene_approach_horse_pos" />
+      <float data="102.549" id="scene_approach_horse_heading" />
+      <vector data="[2579.283, 744.2236, 81.8244]" id="scene_cam_pos" />
+      <vector data="[3.5245, 0.0, -148.5885]" id="scene_cam_rot" />
+      <float data="48.0" id="scene_cam_fov" />
+      <vector data="[2581.489, 741.2914, 80.48071]" id="scene_shopkeeper_pos" />
+      <float data="0.0" id="scene_shopkeeper_heading" />
+      <vector data="[2583.892, 741.6443, 81.01059]" id="scene_horse_pos" />
+      <float data="156.675" id="scene_horse_heading" />
+      <vector data="[2583.273, 741.819, 80.85223]" id="scene_helper_pos" />
+      <float data="0.0" id="scene_helper_heading" />
+      <vector data="[2581.589, 745.692, 80.03267]" id="scene_ride_to_pos" />
+    </region>
+    <region id="REGION_BGV_STRAWBERRY">
+      <vector data="[-1803.6, -445.8, 158.0]" id="scene_approach_cam_pos" />
+      <vector data="[-3.6318, 0.0, 71.0887]" id="scene_approach_cam_rot" />
+      <float data="51.3" id="scene_approach_cam_fov" />
+      <vector data="[-1805.879, -444.9785, 156.4595]" id="scene_approach_shopkeeper_pos" />
+      <float data="170.3051" id="scene_approach_shopkeeper_heading" />
+      <vector data="[-1809.819, -443.3573, 158.3413]" id="scene_approach_helper_pos" />
+      <float data="167.4757" id="scene_approach_helper_heading" />
+      <vector data="[-1808.734, -448.6656, 157.9404]" id="scene_approach_helper_task_pos" />
+      <float data="262.5593" id="scene_approach_helper_task_heading" />
+      <vector data="[-1802.6, -447.5, 157.3]" id="scene_approach_horse_pos" />
+      <float data="258.6199" id="scene_approach_horse_heading" />
+      <vector data="[-1809.2, -446.6, 158.9]" id="scene_cam_pos" />
+      <vector data="[-17.6968, 0.0, -70.4122]" id="scene_cam_rot" />
+      <float data="51.3" id="scene_cam_fov" />
+      <vector data="[-1805.879, -444.9785, 156.4595]" id="scene_shopkeeper_pos" />
+      <float data="170.3051" id="scene_shopkeeper_heading" />
+      <vector data="[-1803.3, -445.0, 157.2]" id="scene_horse_pos" />
+      <float data="200.5596" id="scene_horse_heading" />
+      <vector data="[-1803.782, -446.2752, 157.2735]" id="scene_helper_pos" />
+      <float data="295.7255" id="scene_helper_heading" />
+      <vector data="[-1799.693, -458.4305, 159.8526]" id="scene_ride_to_pos" />
+    </region>
+    <region id="REGION_GRT_BLACKWATER">
+      <vector data="[-860.1453, -1321.09, 43.6721]" id="scene_approach_cam_pos" />
+      <vector data="[3.0473, 0.0, -40.8006]" id="scene_approach_cam_rot" />
+      <float data="48.0" id="scene_approach_cam_fov" />
+      <vector data="[-858.6259, -1319.37, 42.18139]" id="scene_approach_shopkeeper_pos" />
+      <float data="0.0" id="scene_approach_shopkeeper_heading" />
+      <vector data="[-854.925, -1316.344, 42.21644]" id="scene_approach_helper_pos" />
+      <float data="0.0" id="scene_approach_helper_heading" />
+      <vector data="[-857.5042, -1320.305, 42.18716]" id="scene_approach_helper_task_pos" />
+      <float data="109.695" id="scene_approach_helper_task_heading" />
+      <vector data="[-860.6274, -1319.708, 42.11181]" id="scene_approach_horse_pos" />
+      <float data="0.0" id="scene_approach_horse_heading" />
+      <vector data="[-857.2277, -1321.167, 43.6492]" id="scene_cam_pos" />
+      <vector data="[-0.0114, 0.0, 53.4494]" id="scene_cam_rot" />
+      <float data="48.0" id="scene_cam_fov" />
+      <vector data="[-858.6259, -1319.37, 42.18139]" id="scene_shopkeeper_pos" />
+      <float data="0.0" id="scene_shopkeeper_heading" />
+      <vector data="[-861.3792, -1320.141, 42.06377]" id="scene_horse_pos" />
+      <float data="0.0" id="scene_horse_heading" />
+      <vector data="[-860.4792, -1320.141, 42.06377]" id="scene_helper_pos" />
+      <float data="90.0" id="scene_helper_heading" />
+      <vector data="[-855.613, -1324.295, 42.3864]" id="scene_ride_to_pos" />
+    </region>
+    <region id="REGION_TAL_MANZANITAPOST">
+      <vector data="[-1946.589, -1665.095, 118.1322]" id="scene_approach_cam_pos" />
+      <vector data="[-2.6679, 0.0, 60.845]" id="scene_approach_cam_rot" />
+      <float data="48.0" id="scene_approach_cam_fov" />
+      <vector data="[-1948.997, -1664.295, 116.6853]" id="scene_approach_shopkeeper_pos" />
+      <float data="0.0" id="scene_approach_shopkeeper_heading" />
+      <vector data="[-1952.31, -1659.28, 116.308]" id="scene_approach_helper_pos" />
+      <float data="0.0" id="scene_approach_helper_heading" />
+      <vector data="[-1948.056, -1662.787, 116.6617]" id="scene_approach_helper_task_pos" />
+      <float data="0.0" id="scene_approach_helper_task_heading" />
+      <vector data="[-1948.17, -1666.045, 116.8297]" id="scene_approach_horse_pos" />
+      <float data="53.348" id="scene_approach_horse_heading" />
+      <vector data="[-1947.284, -1662.388, 118.091]" id="scene_cam_pos" />
+      <vector data="[2.0694, 0.0, 159.0241]" id="scene_cam_rot" />
+      <float data="48.0" id="scene_cam_fov" />
+      <vector data="[-1948.997, -1664.295, 116.6853]" id="scene_shopkeeper_pos" />
+      <float data="0.0" id="scene_shopkeeper_heading" />
+      <vector data="[-1947.115, -1666.958, 116.8897]" id="scene_horse_pos" />
+      <float data="93.35" id="scene_horse_heading" />
+      <vector data="[-1947.184, -1666.262, 116.8428]" id="scene_helper_pos" />
+      <float data="0.0" id="scene_helper_heading" />
+      <vector data="[-1944.191, -1659.157, 116.6433]" id="scene_ride_to_pos" />
+    </region>
+    <region id="REGION_RIO_BENEDICT_POINT">
+      <vector data="[-5227.5, -3521.2, -20.8]" id="scene_approach_cam_pos" />
+      <vector data="[-11.1027, 0.0, 142.6862]" id="scene_approach_cam_rot" />
+      <float data="51.3" id="scene_approach_cam_fov" />
+      <vector data="[-5229.326, -3522.597, -22.9]" id="scene_approach_shopkeeper_pos" />
+      <float data="40.66278" id="scene_approach_shopkeeper_heading" />
+      <vector data="[-5234.901, -3526.35, -23.0]" id="scene_approach_helper_pos" />
+      <float data="22.9429" id="scene_approach_helper_heading" />
+      <vector data="[-5232.859, -3520.905, -23.0]" id="scene_approach_helper_task_pos" />
+      <float data="304.1901" id="scene_approach_helper_task_heading" />
+      <vector data="[-5230.264, -3520.754, -23.0]" id="scene_approach_horse_pos" />
+      <float data="264.85" id="scene_approach_horse_heading" />
+      <vector data="[-5233.6, -3521.4, -20.8]" id="scene_cam_pos" />
+      <vector data="[-18.1829, 0.0, -109.375]" id="scene_cam_rot" />
+      <float data="51.3" id="scene_cam_fov" />
+      <vector data="[-5229.326, -3522.597, -22.9]" id="scene_shopkeeper_pos" />
+      <float data="40.66278" id="scene_shopkeeper_heading" />
+      <vector data="[-5227.16, -3520.753, -23.0]" id="scene_horse_pos" />
+      <float data="235.8288" id="scene_horse_heading" />
+      <vector data="[-5227.88, -3521.753, -23.0]" id="scene_helper_pos" />
+      <float data="325.7549" id="scene_helper_heading" />
+      <vector data="[-5227.797, -3512.656, -23.0]" id="scene_ride_to_pos" />
+    </region>
+  </UNK_1AF9B630>
+</root>

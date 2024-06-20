@@ -1,0 +1,898 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data>
+    <UNK_FCAC7D18>
+      <UNK_AD305933 id="STANDARD">
+        <text id="SHARD_TEAM_PRIMARY_INTRO" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_SHARD_PRIMARY" />
+        <text id="SHARD_TEAM_PRIMARY_PASS" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_SHARD_PRIMARY_PASS" />
+        <text id="SHARD_TEAM_PRIMARY_FAIL" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_SHARD_PRIMARY_FAIL" />
+        <text id="SHARD_DESTROYED" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_SHARD_DESTROYED" />
+        <text id="SHARD_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_POSSE_ABANDONED" />
+        <text id="SHARD_YOUR_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOUR_POSSE_ABANDONED" />
+        <text id="SHARD_YOU_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOU_ABANDONED" />
+        <text id="HELP_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_HELP" />
+        <text id="HELP_FOLLOW_PED_HOGTIED_GO_TO" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_HELP_HOGTIED_GO_TO_MARCEL" />
+        <text id="HELP_FOLLOW_PED_HOGTIED_APPROACH" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_HELP_HOGTIED_APPROACH_MARCEL" />
+        <text id="HELP_MISSION_FAIL" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_HELP_MISSION_FAIL" />
+        <text id="HELP_FOLLOW_PED_FOLLOWING_PLAYER" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_HELP_FOLLOW" />
+        <text id="HELP_FOLLOW_PED_CAN_TAKE_CONTROL" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_HELP_TAKE_CONTROL" />
+        <text id="OBJ_GO_TO_0" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_OBJ_GO_TO_0" />
+        <text id="OBJ_KILL_ATTACKERS" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_OBJ_FREE_MARCEL" />
+        <text id="OBJ_UNTIE" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_OBJ_UNTIE" />
+        <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_OBJ_RESCUE_MARCEL" />
+        <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_OBJ_RESCUE_MARCEL" />
+        <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_OBJ_RETURN_MARCEL" />
+        <text id="OBJ_ESCORT_DEFEND" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_OBJ_DEFEND" />
+        <text id="OBJ_GET_ON_MOUNT" UNK_EC4B42F9="FETCH_OBJ_GET_ON_MOUNT" />
+        <text id="SCORETIMER_ESCORT_TEAM_PRIMARY_YOU" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_SCORETIMER_ESCORT_TEAM_PRIMARY_YOU" />
+        <text id="SCORETIMER_ESCORT_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_SCORETIMER_ESCORT_TEAM_PRIMARY" />
+        <text id="SCORETIMER_FOLLOWER_GOAL_COMPLETE" UNK_EC4B42F9="FETCH_MOONSHINE_RESCUE_COOK_SCORETIMER_FOLLOWER_GOAL_COMPLETE" />
+      </UNK_AD305933>
+    </UNK_FCAC7D18>
+    <locations>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_FB3BD5B7="false" id="MOONSHINE_SETUP_RESCUE_COOK_SILTWATER_1" UNK_7C1FCD5E="MODEL_CONFIG_SCARLETT_MEADOWS" UNK_C0F9D21B="MUSIC_MS_RESCUE_COOK" UNK_68A6C8C6="true" UNK_E603B9D2="300000" UNK_5AB5EF23="900000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_6E9EE4FB="FETCH_BLIP_RIVAL_MOONSHINE_CAMP" position="[754.1, -1112.1, 55.4]" rotation="[0.0, 0.0, 0.0]" scale="[40.0, 40.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_PLAYER_APPROACHES">
+            <config position="[754.1, -1112.1, 55.4]" rotation="[0.0, 0.0, 0.0]" scale="[57.0, 57.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_0">
+            <config position="[754.1, -1112.1, 55.4]" rotation="[0.0, 0.0, 0.0]" scale="[16.0, 16.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_PLAYER_NEAR_MARCEL">
+            <config position="[759.4, -1107.4, 55.4]" rotation="[0.0, 0.0, 0.0]" scale="[7.0, 7.0, 2.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_PLAYER_TOO_CLOSE_TO_MARCEL" role="TRESPASS">
+            <config position="[759.4, -1107.4, 55.4]" rotation="[0.0, 0.0, 0.0]" scale="[1.5, 1.5, 2.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_6E9EE4FB="FETCH_BLIP_MOONSHINE_PROPERTY" UNK_7FD08239="FETCH_GOTO_MOONSHINE_PROPERTY" position="[1788.2, -818.7, 42.4]" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 20.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="CLEAR_AMBIENT_PEDS" id="VOL_CLEAR_AREA_0">
+            <config position="[1467.874, -808.2949, 50.12907]" rotation="[0.0, 0.0, 0.0]" scale="[32.0, 32.0, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_AMBIENT_AVOIDANCE_0">
+            <config position="[1467.874, -808.2949, 50.12907]" rotation="[0.0, 0.0, 0.0]" scale="[32.0, 32.0, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_ROADBLOCK_0">
+            <config position="[1496.0, -724.0, 46.9]" rotation="[0.0, 0.0, 0.0]" scale="[8.5, 8.5, 5.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_ROADBLOCK_PED_AVOIDANCE">
+            <config position="[1496.0, -724.0, 46.9]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="CLEAR_AMBIENT_PEDS" id="VOL_ROADBLOCK_PED_CLEAN_UP">
+            <config position="[1496.0, -724.0, 46.9]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_ROADBLOCK_GOES_AGGRO">
+            <config position="[1496.0, -724.0, 46.9]" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 20.0, 20.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_BROKEN_WAGON_04_NO_SNAP" spawn_position="[1491.48, -730.38, 47.78]" UNK_100B5E15="[90.0, 0.0, -41.25]" />
+          <static_prop config="AMBIENT_BROKEN_WAGON_05" spawn_position="[1498.3, -720.21, 47.82]" UNK_100B5E15="[0.0, 0.0, 24.99]" />
+        </UNK_69FD74EB>
+        <UNK_5D1EFC39>
+          <prop_set config="MOONSHINE_RESCUE_COOK_CAMPSITE" placement_type="ALIGN_TO_GROUND" spawn_heading="200.0" spawn_position="[754.1369, -1112.189, 55.4176]" />
+        </UNK_5D1EFC39>
+        <UNK_CAA33602 spawn_position="[-2054.0, 408.2, 122.5]" />
+        <triggers>
+          <trigger id="APPROACH_CAMP" role="PLAYER_IN_VOLUME_OR_AGGRO" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger id="ENTERED_COMBAT" role="SHOULD_GO_AGGRO" />
+          <trigger id="APPROACH_HOGTIED_MARCEL" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_NEAR_MARCEL" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="MARCEL_UNTIED" role="LINKED_PED_UNTIED_BY_PLAYER" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ENEMIES_DEFEATED" UNK_E01B972B="0" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger id="COMPLETED" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="OUTRO_CUTSCENE" role="OBJECTIVE_TURNED_IN_AND_RELATIVE_SPAWN_ENTITIES_PLACED" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ROADBLOCK_AGGRO" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_ROADBLOCK_GOES_AGGRO">
+            <UNK_1331CF2C action="SET_AGGRO_GROUP_AGGROED" UNK_FBFA9394="1" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective UNK_15BA74F5="false" config="OBJECTIVE_MOONSHINE_RESCUE_COOK_HOGTIED" UNK_F5D3F1EC="PED" UNK_7AFEC79B="true" UNK_7BA579E4="CS_MP_CAMP_COOK" UNK_895487CA="10.0" UNK_B9EC07F1="true" outfit="META_OUTFIT_KIDNAPPED" spawn_heading="60.63" spawn_position="[759.45, -1107.46, 55.46]">
+            <UNK_6AC736F6 name="MARCEL">
+              <conversations>
+                <conversation UNK_BB273982="ENTERED_COMBAT" UNK_615C7D65="true" UNK_E9EDC3EB="APPROACH_CAMP" root="COOK_RC_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="APPROACH_HOGTIED_MARCEL" UNK_615C7D65="true" UNK_E9EDC3EB="ENTERED_COMBAT" root="COOK_RC_IDLE" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="MARCEL_UNTIED" UNK_615C7D65="true" UNK_E9EDC3EB="APPROACH_HOGTIED_MARCEL" root="COOK_RC_MARCEL" type="ON_TRIGGER" />
+                <conversation UNK_615C7D65="false" UNK_E9EDC3EB="MARCEL_UNTIED" root="COOK_RC_UNTYB" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ENEMIES_DEFEATED" UNK_615C7D65="true" UNK_E9EDC3EB="MARCEL_UNTIED" root="COOK_RC_UNTYING" type="ON_TRIGGER" />
+                <conversation UNK_615C7D65="true" UNK_E9EDC3EB="ENEMIES_DEFEATED" root="COOK_RC_ALLDEAD" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="20" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="false" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME" root="COOK_RC_BANT" UNK_CC16AB34="30" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_316996C8="70" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="false" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME" root="COOK_RC_PROPRTY" type="WITHIN_DIST_TO_VOL" />
+                <conversation UNK_615C7D65="true" UNK_E9EDC3EB="COMPLETED" root="COOK_RC_DROPOFF" type="ON_TRIGGER" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_HORSE" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="STATIONARY_HORSE" />
+                <conversation UNK_6536569E="PLAYER_STOPS_WAGON" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="STATIONARY_WAGON" />
+                <conversation UNK_6536569E="PLAYER_LOOTS_PED" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="PLAYER_LOOTING_PED" />
+                <conversation UNK_6536569E="PLAYER_NOT_SHOOTING" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="PLAYER_NOT_SHOOTING_IN_COMBAT" />
+              </conversations>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" spawn_heading="0.091" spawn_position="[754.69, -1114.67, 55.12]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" spawn_heading="271.05" spawn_position="[751.48, -1111.98, 55.63]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" spawn_heading="153.03" spawn_position="[754.22, -1109.88, 55.66]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STERNGUY_IDLES" UNK_CA822909="VOL_GUARD_0" spawn_heading="94.55" spawn_position="[760.62, -1106.97, 55.41]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REPEATER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_BADASS" UNK_CA822909="VOL_GUARD_0" UNK_7638799D="5000" UNK_726F3B00="3000" UNK_7C35C06D="1" spawn_heading="297.62" spawn_position="[743.86, -1110.37, 56.47]" UNK_B59BB1D4="15.0" UNK_7BC2D902="NET_FETCH_MOONSHINE_SETUP_RESCUE_COOK_SILTWATER_1" UNK_4F2F1B6="false" />
+          <guard config="MOONSHINE_HORSE_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_ANIMAL_HORSE_GRAZING_CAMP" spawn_heading="141.48" spawn_position="[749.44, -1126.84, 55.22]" />
+          <guard config="MOONSHINE_HORSE_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_ANIMAL_HORSE_GRAZING_DOMESTIC" spawn_heading="155.79" spawn_position="[747.44, -1125.95, 55.17]" />
+          <guard config="MOONSHINE_HORSE_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_ANIMAL_HORSE_RESTING" spawn_heading="250.58" spawn_position="[742.94, -1126.93, 55.35]" />
+        </guards>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_3E31B71D="true" UNK_BB512F7B="90000" UNK_55FBDEA6="true" UNK_2A950F7A="150.0">
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REPEATER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REVOLVER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REPEATER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_SHOTGUN_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="4" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REPEATER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="4" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <UNK_554382DA>
+          <UNK_76F238FD spawn_position="[1228.399, -864.4694, 69.8901]" UNK_FEBAD66A="85.0">
+            <UNK_1C7D3F9C accuracy="10" UNK_8C18419D="AMBUSH_MOUNTED_PURSUIT_NEAR" config="AMBUSHER_BANDIT_REVOLVER_MOUNTED_NO_LOS" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" spawn_heading="48.3694" spawn_position="[1284.996, -873.0687, 68.5125]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C accuracy="10" UNK_8C18419D="AMBUSH_MOUNTED_PURSUIT_NEAR" config="AMBUSHER_BANDIT_REVOLVER_MOUNTED_NO_LOS" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" spawn_heading="43.6254" spawn_position="[1289.562, -874.5867, 68.5665]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C accuracy="10" UNK_8C18419D="AMBUSH_MOUNTED_PURSUIT_NEAR" config="AMBUSHER_BANDIT_SHOTGUN_MOUNTED_NO_LOS" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" spawn_heading="59.6253" spawn_position="[1295.935, -875.2909, 68.9749]" UNK_B78360CD="true" />
+          </UNK_76F238FD>
+          <UNK_76F238FD spawn_position="[1492.914, -731.0955, 47.1733]" UNK_FEBAD66A="110.0">
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REVOLVER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="1" spawn_heading="136.227" spawn_position="[1492.914, -731.0955, 47.1733]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="1" spawn_heading="131.5108" spawn_position="[1490.986, -729.2234, 47.1527]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="1" spawn_heading="131.3513" spawn_position="[1492.692, -722.1105, 47.1991]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REVOLVER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="2" spawn_heading="116.6068" spawn_position="[1502.45, -727.9454, 46.4839]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="4" spawn_heading="143.1" spawn_position="[1500.4, -720.2524, 47.0975]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="6" spawn_heading="112.2831" spawn_position="[1499.175, -717.8728, 47.2619]" />
+          </UNK_76F238FD>
+        </UNK_554382DA>
+        <cutscenes>
+          <cutscene UNK_633329DE="MOONSHINE_SETUP_RESCUE_COOK_SILTWATER_1_ROLLING_INTRO" id="ROLLING_START" type="MOONSHINE_ROLLING_START" />
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="OUTRO_CUTSCENE" type="MOONSHINE_SET_UP_OUTRO">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="VIP_1" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near25mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[3.3, -23.9, -0.7]" UNK_A4678354="TURN_IN_VOL" UNK_42EA33CB="[5.04, -6.48, -218.16]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_242C8C4="[1783.876, -822.8221, 41.8922]" id="VIP_1" />
+                  <actor action="GO_TO_POINT" UNK_242C8C4="[1783.876, -822.8221, 41.8922]" id="PLAYER_0" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_1" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_2" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_3" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_4" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_5" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_6" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="109.6691" UNK_EEFDFFA3="[1770.172, -810.7571, 41.084]" />
+                  <actor id="PLAYER_1" UNK_DDA8C3D3="33.326" UNK_EEFDFFA3="[1774.148, -808.6606, 41.7146]" />
+                  <actor id="PLAYER_2" UNK_DDA8C3D3="81.6639" UNK_EEFDFFA3="[1762.419, -814.7186, 41.2246]" />
+                  <actor id="PLAYER_3" UNK_DDA8C3D3="129.2645" UNK_EEFDFFA3="[1771.951, -817.363, 40.8367]" />
+                  <actor id="PLAYER_4" UNK_DDA8C3D3="161.2638" UNK_EEFDFFA3="[1771.939, -822.8716, 40.8646]" />
+                  <actor id="PLAYER_5" UNK_DDA8C3D3="178.6785" UNK_EEFDFFA3="[1775.685, -831.4637, 41.0136]" />
+                  <actor id="PLAYER_6" UNK_DDA8C3D3="150.2399" UNK_EEFDFFA3="[1782.8, -842.1951, 41.0419]" />
+                  <actor UNK_5E233F16="true" id="VIP_1" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot anim_scene="cutscene@moon_ext" UNK_3B142F79="FADE_IN_AND_OUT">
+                <playlists>
+                  <playlist name="moon_ext" />
+                </playlists>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR_CLOSE" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_FB3BD5B7="false" id="MOONSHINE_SETUP_RESCUE_COOK_GRIZZLIES_1" UNK_7C1FCD5E="MODEL_CONFIG_GRIZZLIES" UNK_C0F9D21B="MUSIC_MS_RESCUE_COOK" UNK_68A6C8C6="true" UNK_E603B9D2="300000" UNK_5AB5EF23="900000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_6E9EE4FB="FETCH_BLIP_RIVAL_MOONSHINE_CAMP" position="[-2054.0, 408.2, 122.5]" rotation="[0.0, 0.0, 0.0]" scale="[40.0, 40.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_PLAYER_APPROACHES">
+            <config position="[-2054.0, 408.2, 122.5]" rotation="[0.0, 0.0, 0.0]" scale="[57.0, 57.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_0">
+            <config position="[-2054.0, 408.2, 122.5]" rotation="[0.0, 0.0, 0.0]" scale="[16.0, 16.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_PLAYER_NEAR_MARCEL">
+            <config position="[-2047.0, 409.8, 122.0]" rotation="[0.0, 0.0, 0.0]" scale="[7.0, 7.0, 2.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_PLAYER_TOO_CLOSE_TO_MARCEL" role="TRESPASS">
+            <config position="[-2047.0, 409.8, 122.0]" rotation="[0.0, 0.0, 0.0]" scale="[1.5, 1.5, 2.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_6E9EE4FB="FETCH_BLIP_MOONSHINE_PROPERTY" UNK_7FD08239="FETCH_GOTO_MOONSHINE_PROPERTY" position="[-1090.8, 711.5, 104.7]" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 20.0, 10.0]" type="CYLINDER">
+              <UNK_7007E78D>
+                <UNK_15FC714F position="[-1397.527, 415.9365, 101.6719]" radius="12.0" />
+              </UNK_7007E78D>
+            </config>
+          </volume>
+          <volume id="VOL_ROADBLOCK_0">
+            <config position="[-1158.0, 543.7, 65.1]" rotation="[0.0, 0.0, 0.0]" scale="6.0, 6.0 5.0" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_ROADBLOCK_PED_AVOIDANCE">
+            <config position="[-1158.0, 541.6, 64.6]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="CLEAR_AMBIENT_PEDS" id="VOL_ROADBLOCK_PED_CLEAN_UP">
+            <config position="[-1158.0, 541.6, 64.6]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_ROADBLOCK_GOES_AGGRO">
+            <config position="[-1158.0, 543.7, 65.1]" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 20.0, 20.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_BROKEN_WAGON_04_NO_SNAP" spawn_position="[-1156.75, 538.36, 64.47]" UNK_100B5E15="[-70.0, 0.0, 14.9]" />
+          <static_prop config="AMBIENT_BROKEN_WAGON_05" spawn_position="[-1158.23, 551.8, 67.03]" UNK_100B5E15="[-0.6, -14.21, 100.73]" />
+        </UNK_69FD74EB>
+        <UNK_5D1EFC39>
+          <prop_set config="MOONSHINE_RESCUE_COOK_CAMPSITE" placement_type="ALIGN_TO_GROUND" spawn_heading="225.0" spawn_position="[-2054.0, 408.2, 122.5]" />
+        </UNK_5D1EFC39>
+        <UNK_CAA33602 spawn_position="[-2054.0, 408.2, 122.5]" />
+        <triggers>
+          <trigger id="APPROACH_CAMP" role="PLAYER_IN_VOLUME_OR_AGGRO" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger id="ENTERED_COMBAT" role="SHOULD_GO_AGGRO" />
+          <trigger id="APPROACH_HOGTIED_MARCEL" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_NEAR_MARCEL" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="MARCEL_UNTIED" role="LINKED_PED_UNTIED_BY_PLAYER" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ENEMIES_DEFEATED" UNK_E01B972B="0" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger id="COMPLETED" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="OUTRO_CUTSCENE" role="OBJECTIVE_TURNED_IN_AND_RELATIVE_SPAWN_ENTITIES_PLACED" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ROADBLOCK_AGGRO" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_ROADBLOCK_GOES_AGGRO">
+            <UNK_1331CF2C action="SET_AGGRO_GROUP_AGGROED" UNK_FBFA9394="1" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective UNK_15BA74F5="false" config="OBJECTIVE_MOONSHINE_RESCUE_COOK_HOGTIED" UNK_F5D3F1EC="PED" UNK_7AFEC79B="true" UNK_7BA579E4="CS_MP_CAMP_COOK" UNK_895487CA="10.0" UNK_B9EC07F1="true" outfit="META_OUTFIT_KIDNAPPED" spawn_heading="119.7" spawn_position="[-2047.0, 409.8, 122.0]">
+            <UNK_6AC736F6 name="MARCEL">
+              <conversations>
+                <conversation UNK_BB273982="ENTERED_COMBAT" UNK_615C7D65="true" UNK_E9EDC3EB="APPROACH_CAMP" root="COOK_RC_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="APPROACH_HOGTIED_MARCEL" UNK_615C7D65="true" UNK_E9EDC3EB="ENTERED_COMBAT" root="COOK_RC_IDLE" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="MARCEL_UNTIED" UNK_615C7D65="true" UNK_E9EDC3EB="APPROACH_HOGTIED_MARCEL" root="COOK_RC_MARCEL" type="ON_TRIGGER" />
+                <conversation UNK_615C7D65="false" UNK_E9EDC3EB="MARCEL_UNTIED" root="COOK_RC_UNTYB" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ENEMIES_DEFEATED" UNK_615C7D65="true" UNK_E9EDC3EB="MARCEL_UNTIED" root="COOK_RC_UNTYING" type="ON_TRIGGER" />
+                <conversation UNK_615C7D65="true" UNK_E9EDC3EB="ENEMIES_DEFEATED" root="COOK_RC_ALLDEAD" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="20" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="false" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME" root="COOK_RC_BANT" UNK_CC16AB34="30" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_316996C8="70" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="false" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME" root="COOK_RC_PROPRTY" type="WITHIN_DIST_TO_VOL" />
+                <conversation UNK_615C7D65="true" UNK_E9EDC3EB="COMPLETED" root="COOK_RC_DROPOFF" type="ON_TRIGGER" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_HORSE" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="STATIONARY_HORSE" />
+                <conversation UNK_6536569E="PLAYER_STOPS_WAGON" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="STATIONARY_WAGON" />
+                <conversation UNK_6536569E="PLAYER_LOOTS_PED" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="PLAYER_LOOTING_PED" />
+                <conversation UNK_6536569E="PLAYER_NOT_SHOOTING" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="PLAYER_NOT_SHOOTING_IN_COMBAT" />
+              </conversations>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" spawn_heading="47.65" spawn_position="[-2052.29, 406.32, 122.81]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" spawn_heading="296.2" spawn_position="[-2056.44, 407.53, 122.75]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" spawn_heading="189.83" spawn_position="[-2054.43, 410.79, 122.08]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STERNGUY_IDLES" UNK_CA822909="VOL_GUARD_0" spawn_heading="59.32" spawn_position="[-2046.39, 408.76, 122.34]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REPEATER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_BADASS" UNK_CA822909="VOL_GUARD_0" UNK_7638799D="5000" UNK_726F3B00="3000" UNK_7C35C06D="1" spawn_heading="129.11" spawn_position="[-2042.9, 399.55, 124.6]" UNK_B59BB1D4="15.0" UNK_7BC2D902="NET_FETCH_MOONSHINE_SETUP_RESCUE_COOK_GRIZZLIES_1" UNK_4F2F1B6="false" />
+          <guard config="MOONSHINE_HORSE_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_ANIMAL_HORSE_GRAZING_CAMP" spawn_heading="343.72" spawn_position="[-2055.183, 420.0315, 120.62]" />
+          <guard config="MOONSHINE_HORSE_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_ANIMAL_HORSE_GRAZING_DOMESTIC" spawn_heading="343.14" spawn_position="[-2052.926, 419.5505, 120.74]" />
+          <guard config="MOONSHINE_HORSE_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_ANIMAL_HORSE_RESTING" spawn_heading="52.59" spawn_position="[-2049.09, 420.3893, 120.73]" />
+        </guards>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_3E31B71D="true" UNK_BB512F7B="90000" UNK_55FBDEA6="true" UNK_2A950F7A="0.0">
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REPEATER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REVOLVER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REPEATER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_SHOTGUN_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="4" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REPEATER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="4" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <UNK_554382DA>
+          <UNK_76F238FD spawn_position="[-1693.34, 412.54, 106.34]" UNK_FEBAD66A="100.0">
+            <UNK_1C7D3F9C accuracy="10" UNK_8C18419D="AMBUSH_MOUNTED_PURSUIT_NEAR" config="AMBUSHER_BANDIT_REVOLVER_MOUNTED_NO_LOS" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" spawn_heading="158.65" spawn_position="[-1664.48, 461.28, 109.96]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C accuracy="10" UNK_8C18419D="AMBUSH_MOUNTED_PURSUIT_NEAR" config="AMBUSHER_BANDIT_REVOLVER_MOUNTED_NO_LOS" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" spawn_heading="154.15" spawn_position="[-1666.31, 464.39, 110.25]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C accuracy="10" UNK_8C18419D="AMBUSH_MOUNTED_PURSUIT_NEAR" config="AMBUSHER_BANDIT_SHOTGUN_MOUNTED_NO_LOS" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" spawn_heading="153.03" spawn_position="[-1671.84, 461.54, 110.08]" UNK_B78360CD="true" />
+          </UNK_76F238FD>
+          <UNK_76F238FD spawn_position="[-1158.48, 546.58, 66.95]" UNK_FEBAD66A="100.0">
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REVOLVER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="1" spawn_heading="194.5765" spawn_position="[-1155.704, 540.8433, 64.3822]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="1" spawn_heading="188.942" spawn_position="[-1158.29, 539.7645, 64.3563]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="1" spawn_heading="204.3019" spawn_position="[-1163.537, 543.7252, 66.6087]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REVOLVER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="2" spawn_heading="177.5571" spawn_position="[-1154.271, 544.6685, 65.7417]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="4" spawn_heading="193.0547" spawn_position="[-1157.941, 549.1722, 66.4617]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="6" spawn_heading="193.0547" spawn_position="[-1160.708, 547.8329, 66.4448]" />
+          </UNK_76F238FD>
+        </UNK_554382DA>
+        <cutscenes>
+          <cutscene UNK_633329DE="MOONSHINE_SETUP_RESCUE_COOK_GRIZZLIES_1_ROLLING_INTRO" id="ROLLING_START" type="MOONSHINE_ROLLING_START" />
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="OUTRO_CUTSCENE" type="MOONSHINE_SET_UP_OUTRO">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="VIP_1" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near25mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[12.9, -15.9, -2.9]" UNK_A4678354="TURN_IN_VOL" UNK_42EA33CB="[-22.32, 15.84, -189.36]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_242C8C4="[-1088.739, 707.1827, 103.5156]" id="VIP_1" />
+                  <actor action="GO_TO_POINT" UNK_242C8C4="[-1088.739, 707.1827, 103.5156]" id="PLAYER_0" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_1" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_2" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_3" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_4" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_5" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_6" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="182.0" UNK_EEFDFFA3="[-1086.208, 697.0577, 103.7575]" />
+                  <actor id="PLAYER_1" UNK_DDA8C3D3="189.5666" UNK_EEFDFFA3="[-1081.115, 694.5996, 104.1455]" />
+                  <actor id="PLAYER_2" UNK_DDA8C3D3="183.6109" UNK_EEFDFFA3="[-1091.572, 691.2791, 103.7014]" />
+                  <actor id="PLAYER_3" UNK_DDA8C3D3="110.8782" UNK_EEFDFFA3="[-1099.508, 689.4462, 103.5898]" />
+                  <actor id="PLAYER_4" UNK_DDA8C3D3="96.3752" UNK_EEFDFFA3="[-1103.342, 694.3844, 103.3234]" />
+                  <actor id="PLAYER_5" UNK_DDA8C3D3="71.6301" UNK_EEFDFFA3="[-1105.34, 707.8576, 103.5635]" />
+                  <actor id="PLAYER_6" UNK_DDA8C3D3="48.2199" UNK_EEFDFFA3="[-1093.781, 728.097, 104.4865]" />
+                  <actor UNK_5E233F16="true" id="VIP_1" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot anim_scene="cutscene@moon_ext" UNK_3B142F79="FADE_IN_AND_OUT">
+                <playlists>
+                  <playlist name="moon_ext" />
+                </playlists>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR_CLOSE" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_FB3BD5B7="false" id="MOONSHINE_SETUP_RESCUE_COOK_GREENHOLLOW_1" UNK_7C1FCD5E="MODEL_CONFIG_NEW_AUSTIN" UNK_C0F9D21B="MUSIC_MS_RESCUE_COOK" UNK_68A6C8C6="true" UNK_E603B9D2="300000" UNK_5AB5EF23="900000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_6E9EE4FB="FETCH_BLIP_RIVAL_MOONSHINE_CAMP" position="[-3914.1, -3144.2, 4.2]" rotation="[0.0, 0.0, 0.0]" scale="[40.0, 40.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_PLAYER_APPROACHES">
+            <config position="[-3914.1, -3144.2, 4.2]" rotation="[0.0, 0.0, 0.0]" scale="[57.0, 57.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_0">
+            <config position="[-3914.1, -3144.2, 4.2]" rotation="[0.0, 0.0, 0.0]" scale="[16.0, 16.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_PLAYER_NEAR_MARCEL">
+            <config position="[-3905.88, -3142.93, 3.31]" rotation="[0.0, 0.0, 0.0]" scale="[7.0, 7.0, 2.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_PLAYER_TOO_CLOSE_TO_MARCEL" role="TRESPASS">
+            <config position="[-3905.88, -3142.93, 3.31]" rotation="[0.0, 0.0, 0.0]" scale="[1.5, 1.5, 2.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_6E9EE4FB="FETCH_BLIP_MOONSHINE_PROPERTY" UNK_7FD08239="FETCH_GOTO_MOONSHINE_PROPERTY" position="[-2774.1, -3045.7, 11.8]" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 20.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="CLEAR_AMBIENT_PEDS" id="VOL_CLEAR_AREA_0">
+            <config position="[-3090.977, -3146.463, -0.0682]" rotation="[0.0, 0.0, 0.0]" scale="[32.0, 32.0, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_AMBIENT_AVOIDANCE_0">
+            <config position="[-3090.977, -3146.463, -0.0682]" rotation="[0.0, 0.0, 0.0]" scale="[32.0, 32.0, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_ROADBLOCK_0">
+            <config position="[-3103.39, -3126.33, 2.63]" rotation="[0.0, 0.0, 0.0]" scale="6.0, 6.0 5.0" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_ROADBLOCK_PED_AVOIDANCE">
+            <config position="[-3103.39, -3126.33, 2.63]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="CLEAR_AMBIENT_PEDS" id="VOL_ROADBLOCK_PED_CLEAN_UP">
+            <config position="[-3103.39, -3126.33, 2.63]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_ROADBLOCK_GOES_AGGRO">
+            <config position="[-3103.39, -3126.33, 2.63]" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 20.0, 20.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <UNK_1D77EF7D UNK_FD038381="100.0" UNK_B64B4E75="125.0" />
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_BROKEN_WAGON_04_NO_SNAP" spawn_position="[-3102.41, -3126.32, 1.63]" UNK_100B5E15="[100.0, 0.0, 34.95]" />
+          <static_prop config="AMBIENT_BROKEN_WAGON_05" spawn_position="[-3097.44, -3124.14, 1.92]" UNK_100B5E15="[0.0, 0.0, -60.16]" />
+        </UNK_69FD74EB>
+        <UNK_5D1EFC39>
+          <prop_set config="MOONSHINE_RESCUE_COOK_CAMPSITE" placement_type="ALIGN_TO_GROUND" spawn_heading="140.0" spawn_position="[-3914.65, -3141.83, 4.38]" />
+        </UNK_5D1EFC39>
+        <UNK_CAA33602 spawn_position="[-3914.65, -3141.83, 4.38]" />
+        <triggers>
+          <trigger id="APPROACH_CAMP" role="PLAYER_IN_VOLUME_OR_AGGRO" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger id="ENTERED_COMBAT" role="SHOULD_GO_AGGRO" />
+          <trigger id="APPROACH_HOGTIED_MARCEL" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_NEAR_MARCEL" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="MARCEL_UNTIED" role="LINKED_PED_UNTIED_BY_PLAYER" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ENEMIES_DEFEATED" UNK_E01B972B="0" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger id="COMPLETED" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="OUTRO_CUTSCENE" role="OBJECTIVE_TURNED_IN_AND_RELATIVE_SPAWN_ENTITIES_PLACED" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ROADBLOCK_AGGRO" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_ROADBLOCK_GOES_AGGRO">
+            <UNK_1331CF2C action="SET_AGGRO_GROUP_AGGROED" UNK_FBFA9394="1" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective UNK_15BA74F5="false" config="OBJECTIVE_MOONSHINE_RESCUE_COOK_HOGTIED" UNK_F5D3F1EC="PED" UNK_7AFEC79B="true" UNK_7BA579E4="CS_MP_CAMP_COOK" UNK_895487CA="10.0" UNK_B9EC07F1="true" outfit="META_OUTFIT_KIDNAPPED" spawn_heading="24.96" spawn_position="[-3905.88, -3142.93, 3.31]">
+            <UNK_6AC736F6 name="MARCEL">
+              <conversations>
+                <conversation UNK_BB273982="ENTERED_COMBAT" UNK_615C7D65="true" UNK_E9EDC3EB="APPROACH_CAMP" root="COOK_RC_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="APPROACH_HOGTIED_MARCEL" UNK_615C7D65="true" UNK_E9EDC3EB="ENTERED_COMBAT" root="COOK_RC_IDLE" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="MARCEL_UNTIED" UNK_615C7D65="true" UNK_E9EDC3EB="APPROACH_HOGTIED_MARCEL" root="COOK_RC_MARCEL" type="ON_TRIGGER" />
+                <conversation UNK_615C7D65="false" UNK_E9EDC3EB="MARCEL_UNTIED" root="COOK_RC_UNTYB" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ENEMIES_DEFEATED" UNK_615C7D65="true" UNK_E9EDC3EB="MARCEL_UNTIED" root="COOK_RC_UNTYING" type="ON_TRIGGER" />
+                <conversation UNK_615C7D65="true" UNK_E9EDC3EB="ENEMIES_DEFEATED" root="COOK_RC_ALLDEAD" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="20" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="false" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME" root="COOK_RC_BANT" UNK_CC16AB34="30" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_316996C8="70" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="false" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME" root="COOK_RC_PROPRTY" type="WITHIN_DIST_TO_VOL" />
+                <conversation UNK_615C7D65="true" UNK_E9EDC3EB="COMPLETED" root="COOK_RC_DROPOFF" type="ON_TRIGGER" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_HORSE" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="STATIONARY_HORSE" />
+                <conversation UNK_6536569E="PLAYER_STOPS_WAGON" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="STATIONARY_WAGON" />
+                <conversation UNK_6536569E="PLAYER_LOOTS_PED" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="PLAYER_LOOTING_PED" />
+                <conversation UNK_6536569E="PLAYER_NOT_SHOOTING" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="PLAYER_NOT_SHOOTING_IN_COMBAT" />
+              </conversations>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" spawn_heading="284.98" spawn_position="[-3916.3, -3143.77, 4.5]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" spawn_heading="188.39" spawn_position="[-3915.68, -3139.44, 4.49]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" spawn_heading="112.51" spawn_position="[-3912.26, -3141.03, 4.16]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STERNGUY_IDLES" UNK_CA822909="VOL_GUARD_0" spawn_heading="90.02" spawn_position="[-3904.56, -3142.37, 2.95]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REPEATER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_BADASS" UNK_CA822909="VOL_GUARD_0" UNK_7638799D="5000" UNK_726F3B00="3000" UNK_7C35C06D="1" spawn_heading="129.11" spawn_position="[-3903.56, -3143.37, 2.95]" UNK_B59BB1D4="15.0" UNK_7BC2D902="NET_FETCH_MOONSHINE_SETUP_RESCUE_COOK_GREENHOLLOW_1" UNK_4F2F1B6="false" />
+          <guard config="MOONSHINE_HORSE_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_ANIMAL_HORSE_GRAZING_CAMP" spawn_heading="20.06" spawn_position="[-3912.19, -3127.07, 2.77]" />
+          <guard config="MOONSHINE_HORSE_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_ANIMAL_HORSE_GRAZING_DOMESTIC" spawn_heading="53.54" spawn_position="[-3910.24, -3123.5, 1.91]" />
+          <guard config="MOONSHINE_HORSE_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_ANIMAL_HORSE_RESTING" spawn_heading="153.88" spawn_position="[-3905.43, -3122.49, 1.29]" />
+        </guards>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_3E31B71D="true" UNK_BB512F7B="30000" UNK_55FBDEA6="true" UNK_2A950F7A="50.0">
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REPEATER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REVOLVER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REPEATER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_SHOTGUN_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="4" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REPEATER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="4" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <UNK_554382DA>
+          <UNK_76F238FD spawn_position="[-3529.56, -3086.23, 11.49]" UNK_FEBAD66A="85.0">
+            <UNK_1C7D3F9C accuracy="10" UNK_8C18419D="AMBUSH_MOUNTED_PURSUIT_NEAR" config="AMBUSHER_BANDIT_REVOLVER_MOUNTED_NO_LOS" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" spawn_heading="304.67" spawn_position="[-3438.96, -3114.86, -3.82]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C accuracy="10" UNK_8C18419D="AMBUSH_MOUNTED_PURSUIT_NEAR" config="AMBUSHER_BANDIT_REVOLVER_MOUNTED_NO_LOS" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" spawn_heading="194.77" spawn_position="[-3475.58, -3027.62, 2.99]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C accuracy="10" UNK_8C18419D="AMBUSH_MOUNTED_PURSUIT_NEAR" config="AMBUSHER_BANDIT_SHOTGUN_MOUNTED_NO_LOS" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" spawn_heading="343.48" spawn_position="[-3430.65, -3119.74, -7.44]" UNK_B78360CD="true" />
+          </UNK_76F238FD>
+          <UNK_76F238FD spawn_position="[-3102.077, -3128.634, 0.9727]" UNK_FEBAD66A="100.0">
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REVOLVER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="1" spawn_heading="31.0489" spawn_position="[-3102.077, -3128.634, 0.9727]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="1" spawn_heading="28.6574" spawn_position="[-3094.871, -3125.116, 1.0542]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="1" spawn_heading="204.3019" spawn_position="[-3100.161, -3126.909, 0.9394]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REVOLVER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="2" spawn_heading="14.763" spawn_position="[-3110.668, -3129.117, 1.0974]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="4" spawn_heading="44.4432" spawn_position="[-3096.907, -3127.126, 1.0145]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="6" spawn_heading="53.8724" spawn_position="[-3094.206, -3123.271, 0.9036]" />
+          </UNK_76F238FD>
+        </UNK_554382DA>
+        <cutscenes>
+          <cutscene UNK_633329DE="MOONSHINE_SETUP_RESCUE_COOK_GREENHOLLOW_1_ROLLING_INTRO" id="ROLLING_START" type="MOONSHINE_ROLLING_START" />
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="OUTRO_CUTSCENE" type="MOONSHINE_SET_UP_OUTRO">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="VIP_1" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near35mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[13.4, 12.9, 0.5]" UNK_A4678354="TURN_IN_VOL" UNK_42EA33CB="[-6.48, -2.88, -16.56]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_242C8C4="[-2767.811, -3049.604, 10.41442]" id="VIP_1" />
+                  <actor action="GO_TO_POINT" UNK_242C8C4="[-2767.811, -3049.604, 10.41442]" id="PLAYER_0" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_1" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_2" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_3" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_4" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_5" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_6" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="275.4199" UNK_EEFDFFA3="[-2763.932, -3056.364, 9.8102]" />
+                  <actor id="PLAYER_1" UNK_DDA8C3D3="275.3726" UNK_EEFDFFA3="[-2742.715, -3054.496, 7.658]" />
+                  <actor id="PLAYER_2" UNK_DDA8C3D3="300.1881" UNK_EEFDFFA3="[-2766.997, -3056.771, 10.0954]" />
+                  <actor id="PLAYER_3" UNK_DDA8C3D3="185.1646" UNK_EEFDFFA3="[-2773.319, -3071.091, 11.2922]" />
+                  <actor id="PLAYER_4" UNK_DDA8C3D3="200.6833" UNK_EEFDFFA3="[-2785.977, -3078.926, 12.539]" />
+                  <actor id="PLAYER_5" UNK_DDA8C3D3="184.5956" UNK_EEFDFFA3="[-2791.252, -3068.187, 12.583]" />
+                  <actor id="PLAYER_6" UNK_DDA8C3D3="118.4834" UNK_EEFDFFA3="[-2807.846, -3068.709, 13.4341]" />
+                  <actor UNK_5E233F16="true" id="VIP_1" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot anim_scene="cutscene@moon_ext" UNK_3B142F79="FADE_IN_AND_OUT">
+                <playlists>
+                  <playlist name="moon_ext" />
+                </playlists>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR_CLOSE" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_FB3BD5B7="false" id="MOONSHINE_SETUP_RESCUE_COOK_NEW_HANOVER_1" UNK_7C1FCD5E="MODEL_CONFIG_SCARLETT_MEADOWS" UNK_C0F9D21B="MUSIC_MS_RESCUE_COOK" UNK_68A6C8C6="true" UNK_E603B9D2="300000" UNK_5AB5EF23="900000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_6E9EE4FB="FETCH_BLIP_RIVAL_MOONSHINE_CAMP" position="[2595.7, 185.0, 62.2]" rotation="[0.0, 0.0, 0.0]" scale="[40.0, 40.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_PLAYER_APPROACHES">
+            <config position="[2595.7, 185.0, 62.2]" rotation="[0.0, 0.0, 0.0]" scale="[57.0, 57.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_0">
+            <config position="[2595.7, 185.0, 62.2]" rotation="[0.0, 0.0, 0.0]" scale="[16.0, 16.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_PLAYER_NEAR_MARCEL">
+            <config position="[2596.37, 176.48, 61.21]" rotation="[0.0, 0.0, 0.0]" scale="[7.0, 7.0, 2.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_PLAYER_TOO_CLOSE_TO_MARCEL" role="TRESPASS">
+            <config position="[2596.37, 176.48, 61.21]" rotation="[0.0, 0.0, 0.0]" scale="[1.5, 1.5, 2.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_6E9EE4FB="FETCH_BLIP_MOONSHINE_PROPERTY" UNK_7FD08239="FETCH_GOTO_MOONSHINE_PROPERTY" position="[1630.3, 828.7, 145.4]" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 20.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="CLEAR_AMBIENT_PEDS" id="VOL_CLEAR_AREA_0">
+            <config position="[1779.737, 572.7962, 105.6411]" rotation="[0.0, 0.0, 0.0]" scale="[30.0, 30.0, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_AMBIENT_AVOIDANCE_0">
+            <config position="[1779.737, 572.7962, 105.6411]" rotation="[0.0, 0.0, 0.0]" scale="[30.0, 30.0, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_ROADBLOCK_0">
+            <config position="1865.00, 500.39 112.17" rotation="[0.0, 0.0, 0.0]" scale="11.0, 11.0 11.0" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_ROADBLOCK_PED_AVOIDANCE">
+            <config position="[1865.0, 500.39, 112.17]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="CLEAR_AMBIENT_PEDS" id="VOL_ROADBLOCK_PED_CLEAN_UP">
+            <config position="[1865.0, 500.39, 112.17]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_ROADBLOCK_GOES_AGGRO">
+            <config position="1865.00, 500.39 112.17" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 20.0, 20.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_BROKEN_WAGON_04_NO_SNAP" spawn_position="[1873.71, 499.69, 115.19]" UNK_100B5E15="[80.0, -2.0, 48.7]" />
+          <static_prop config="AMBIENT_BROKEN_WAGON_05" spawn_position="[1863.67, 505.48, 112.09]" UNK_100B5E15="[0.0, -10.0, -39.53]" />
+        </UNK_69FD74EB>
+        <UNK_5D1EFC39>
+          <prop_set config="MOONSHINE_RESCUE_COOK_CAMPSITE" placement_type="ALIGN_TO_GROUND" spawn_heading="72.61" spawn_position="[2595.76, 185.04, 62.25]" />
+        </UNK_5D1EFC39>
+        <UNK_CAA33602 spawn_position="[2595.76, 185.04, 62.25]" />
+        <triggers>
+          <trigger id="APPROACH_CAMP" role="PLAYER_IN_VOLUME_OR_AGGRO" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger id="ENTERED_COMBAT" role="SHOULD_GO_AGGRO" />
+          <trigger id="APPROACH_HOGTIED_MARCEL" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_NEAR_MARCEL" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="MARCEL_UNTIED" role="LINKED_PED_UNTIED_BY_PLAYER" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ENEMIES_DEFEATED" UNK_E01B972B="0" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger id="COMPLETED" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="OUTRO_CUTSCENE" role="OBJECTIVE_TURNED_IN_AND_RELATIVE_SPAWN_ENTITIES_PLACED" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ROADBLOCK_AGGRO" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_ROADBLOCK_GOES_AGGRO">
+            <UNK_1331CF2C action="SET_AGGRO_GROUP_AGGROED" UNK_FBFA9394="1" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective UNK_15BA74F5="false" config="OBJECTIVE_MOONSHINE_RESCUE_COOK_HOGTIED" UNK_F5D3F1EC="PED" UNK_7AFEC79B="true" UNK_7BA579E4="CS_MP_CAMP_COOK" UNK_895487CA="10.0" UNK_B9EC07F1="true" outfit="META_OUTFIT_KIDNAPPED" spawn_heading="297.87" spawn_position="[2596.37, 176.48, 61.21]">
+            <UNK_6AC736F6 name="MARCEL">
+              <conversations>
+                <conversation UNK_BB273982="ENTERED_COMBAT" UNK_615C7D65="true" UNK_E9EDC3EB="APPROACH_CAMP" root="COOK_RC_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="APPROACH_HOGTIED_MARCEL" UNK_615C7D65="true" UNK_E9EDC3EB="ENTERED_COMBAT" root="COOK_RC_IDLE" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="MARCEL_UNTIED" UNK_615C7D65="true" UNK_E9EDC3EB="APPROACH_HOGTIED_MARCEL" root="COOK_RC_MARCEL" type="ON_TRIGGER" />
+                <conversation UNK_615C7D65="false" UNK_E9EDC3EB="MARCEL_UNTIED" root="COOK_RC_UNTYB" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ENEMIES_DEFEATED" UNK_615C7D65="true" UNK_E9EDC3EB="MARCEL_UNTIED" root="COOK_RC_UNTYING" type="ON_TRIGGER" />
+                <conversation UNK_615C7D65="true" UNK_E9EDC3EB="ENEMIES_DEFEATED" root="COOK_RC_ALLDEAD" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="20" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="false" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME" root="COOK_RC_BANT" UNK_CC16AB34="30" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_316996C8="70" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="false" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME" root="COOK_RC_PROPRTY" type="WITHIN_DIST_TO_VOL" />
+                <conversation UNK_615C7D65="true" UNK_E9EDC3EB="COMPLETED" root="COOK_RC_DROPOFF" type="ON_TRIGGER" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_HORSE" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="STATIONARY_HORSE" />
+                <conversation UNK_6536569E="PLAYER_STOPS_WAGON" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="STATIONARY_WAGON" />
+                <conversation UNK_6536569E="PLAYER_LOOTS_PED" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="PLAYER_LOOTING_PED" />
+                <conversation UNK_6536569E="PLAYER_NOT_SHOOTING" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="PLAYER_NOT_SHOOTING_IN_COMBAT" />
+              </conversations>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" spawn_heading="257.4" spawn_position="[2593.49, 186.05, 62.24]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" spawn_heading="149.86" spawn_position="[2597.54, 186.87, 62.37]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" spawn_heading="42.91" spawn_position="[2597.65, 182.86, 62.09]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STERNGUY_IDLES" UNK_CA822909="VOL_GUARD_0" spawn_heading="357.85" spawn_position="[2596.92, 175.51, 61.12]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REPEATER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_BADASS" UNK_CA822909="VOL_GUARD_0" UNK_7638799D="5000" UNK_726F3B00="3000" UNK_7C35C06D="1" spawn_heading="183.51" spawn_position="[2586.3, 195.81, 62.38]" UNK_B59BB1D4="15.0" UNK_7BC2D902="NET_FETCH_MOONSHINE_SETUP_RESCUE_COOK_NEW_HANOVER_1" UNK_4F2F1B6="false" />
+          <guard config="MOONSHINE_HORSE_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_ANIMAL_HORSE_GRAZING_CAMP" spawn_heading="243.98" spawn_position="[2607.95, 177.01, 61.5]" />
+          <guard config="MOONSHINE_HORSE_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_ANIMAL_HORSE_GRAZING_DOMESTIC" spawn_heading="244.76" spawn_position="[2605.59, 174.07, 61.41]" />
+          <guard config="MOONSHINE_HORSE_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_ANIMAL_HORSE_RESTING" spawn_heading="346.79" spawn_position="[2604.42, 169.52, 61.22]" />
+        </guards>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_3E31B71D="true" UNK_BB512F7B="60000" UNK_55FBDEA6="true" UNK_2A950F7A="0.0">
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REPEATER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REVOLVER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REPEATER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_SHOTGUN_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="4" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REPEATER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="4" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <UNK_554382DA>
+          <UNK_76F238FD spawn_position="[2368.628, 272.0326, 52.9617]" UNK_FEBAD66A="85.0">
+            <UNK_1C7D3F9C accuracy="10" UNK_8C18419D="AMBUSH_MOUNTED_PURSUIT_NEAR" config="AMBUSHER_BANDIT_REVOLVER_MOUNTED_NO_LOS" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" spawn_heading="173.2027" spawn_position="[2300.478, 380.9951, 49.3196]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C accuracy="10" UNK_8C18419D="AMBUSH_MOUNTED_PURSUIT_NEAR" config="AMBUSHER_BANDIT_REVOLVER_MOUNTED_NO_LOS" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" spawn_heading="297.7325" spawn_position="[2281.623, 305.1681, 44.9946]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C accuracy="10" UNK_8C18419D="AMBUSH_MOUNTED_PURSUIT_NEAR" config="AMBUSHER_BANDIT_SHOTGUN_MOUNTED_NO_LOS" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" spawn_heading="152.9135" spawn_position="[2392.195, 349.9745, 58.6332]" UNK_B78360CD="true" />
+          </UNK_76F238FD>
+          <UNK_76F238FD spawn_position="[1874.22, 501.1571, 114.1842]" UNK_FEBAD66A="100.0">
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REVOLVER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="1" spawn_heading="229.0041" spawn_position="[1874.22, 501.1571, 114.1842]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="1" spawn_heading="229.0041" spawn_position="[1871.883, 499.1979, 113.856]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="1" spawn_heading="261.7213" spawn_position="[1864.49, 494.5432, 112.9048]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REVOLVER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="2" spawn_heading="252.3601" spawn_position="[1862.557, 507.7562, 110.6302]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="4" spawn_heading="244.961" spawn_position="[1861.535, 503.7679, 111.0818]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="6" spawn_heading="257.5091" spawn_position="[1859.084, 499.7816, 111.39]" />
+          </UNK_76F238FD>
+        </UNK_554382DA>
+        <cutscenes>
+          <cutscene UNK_633329DE="MOONSHINE_SETUP_RESCUE_COOK_NEW_HANOVER_1_ROLLING_INTRO" id="ROLLING_START" type="MOONSHINE_ROLLING_START" />
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="OUTRO_CUTSCENE" type="MOONSHINE_SET_UP_OUTRO">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="VIP_1" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near25mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[-7.2, -15.9, -0.1]" UNK_A4678354="TURN_IN_VOL" UNK_42EA33CB="[-12.24, 10.08, -144.72]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_242C8C4="[1627.107, 821.0034, 144.0568]" id="VIP_1" />
+                  <actor action="GO_TO_POINT" UNK_242C8C4="[1627.107, 821.0034, 144.0568]" id="PLAYER_0" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_1" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_2" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_3" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_4" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_5" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_6" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="87.1015" UNK_EEFDFFA3="[1603.56, 836.7001, 139.8212]" />
+                  <actor id="PLAYER_1" UNK_DDA8C3D3="99.158" UNK_EEFDFFA3="[1608.303, 849.5519, 139.2147]" />
+                  <actor id="PLAYER_2" UNK_DDA8C3D3="93.3738" UNK_EEFDFFA3="[1606.388, 835.0507, 140.6914]" />
+                  <actor id="PLAYER_3" UNK_DDA8C3D3="83.0681" UNK_EEFDFFA3="[1604.044, 828.3018, 140.2544]" />
+                  <actor id="PLAYER_4" UNK_DDA8C3D3="119.1959" UNK_EEFDFFA3="[1605.351, 821.1891, 140.1204]" />
+                  <actor id="PLAYER_5" UNK_DDA8C3D3="168.8046" UNK_EEFDFFA3="[1610.25, 819.7369, 141.2001]" />
+                  <actor id="PLAYER_6" UNK_DDA8C3D3="138.8627" UNK_EEFDFFA3="[1624.607, 813.996, 142.8782]" />
+                  <actor UNK_5E233F16="true" id="VIP_1" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot anim_scene="cutscene@moon_ext" UNK_3B142F79="FADE_IN_AND_OUT">
+                <playlists>
+                  <playlist name="moon_ext" />
+                </playlists>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR_CLOSE" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_FB3BD5B7="false" id="MOONSHINE_SETUP_RESCUE_COOK_TALL_TREES_1" UNK_7C1FCD5E="MODEL_CONFIG_TALL_TREES" UNK_C0F9D21B="MUSIC_MS_RESCUE_COOK" UNK_68A6C8C6="true" UNK_E603B9D2="300000" UNK_5AB5EF23="900000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_6E9EE4FB="FETCH_BLIP_RIVAL_MOONSHINE_CAMP" position="[-2043.8, -512.5, 149.9]" rotation="[0.0, 0.0, 0.0]" scale="[40.0, 40.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_PLAYER_APPROACHES">
+            <config position="[-2043.8, -512.5, 149.9]" rotation="[0.0, 0.0, 0.0]" scale="[57.0, 57.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_0">
+            <config position="[-2043.8, -512.5, 149.9]" rotation="[0.0, 0.0, 0.0]" scale="[16.0, 16.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_PLAYER_NEAR_MARCEL">
+            <config position="[-2046.19, -501.2, 149.48]" rotation="[0.0, 0.0, 0.0]" scale="[7.0, 7.0, 2.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_PLAYER_TOO_CLOSE_TO_MARCEL" role="TRESPASS">
+            <config position="[-2046.19, -501.2, 149.48]" rotation="[0.0, 0.0, 0.0]" scale="[1.5, 1.5, 2.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_6E9EE4FB="FETCH_BLIP_RIVAL_MOONSHINE_CABIN" UNK_7FD08239="FETCH_GOTO_MOONSHINE_PROPERTY" position="[-1864.4, -1726.9, 109.7]" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 20.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_ROADBLOCK_0">
+            <config position="[-1990.54, -1509.13, 112.83]" rotation="[0.0, 0.0, 0.0]" scale="[11.0, 11.0, 11.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_ROADBLOCK_PED_AVOIDANCE">
+            <config position="[-1992.5, -1503.3, 112.9]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="CLEAR_AMBIENT_PEDS" id="VOL_ROADBLOCK_PED_CLEAN_UP">
+            <config position="[-1992.5, -1503.3, 112.9]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_ROADBLOCK_GOES_AGGRO">
+            <config position="[-1992.5, -1503.3, 112.9]" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 20.0, 20.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_BROKEN_WAGON_04_NO_SNAP" spawn_position="[-1993.62, -1497.85, 113.42]" UNK_100B5E15="[100.0, 0.0, 12.03]" />
+          <static_prop config="AMBIENT_BROKEN_WAGON_05" spawn_position="[-1990.16, -1512.57, 113.85]" UNK_100B5E15="[0.0, 0.0, -75.7]" />
+        </UNK_69FD74EB>
+        <UNK_5D1EFC39>
+          <prop_set config="MOONSHINE_RESCUE_COOK_CAMPSITE" placement_type="ALIGN_TO_GROUND" spawn_heading="180.0" spawn_position="[-2039.06, -512.11, 149.78]" />
+        </UNK_5D1EFC39>
+        <UNK_CAA33602 spawn_position="[-2039.06, -512.11, 149.78]" />
+        <triggers>
+          <trigger id="APPROACH_CAMP" role="PLAYER_IN_VOLUME_OR_AGGRO" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger id="ENTERED_COMBAT" role="SHOULD_GO_AGGRO" />
+          <trigger id="APPROACH_HOGTIED_MARCEL" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_NEAR_MARCEL" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="MARCEL_UNTIED" role="LINKED_PED_UNTIED_BY_PLAYER" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ENEMIES_DEFEATED" UNK_E01B972B="0" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger id="COMPLETED" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="OUTRO_CUTSCENE" role="OBJECTIVE_TURNED_IN_AND_RELATIVE_SPAWN_ENTITIES_PLACED" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ROADBLOCK_AGGRO" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_ROADBLOCK_GOES_AGGRO">
+            <UNK_1331CF2C action="SET_AGGRO_GROUP_AGGROED" UNK_FBFA9394="1" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective UNK_15BA74F5="false" config="OBJECTIVE_MOONSHINE_RESCUE_COOK_HOGTIED" UNK_F5D3F1EC="PED" UNK_7AFEC79B="true" UNK_7BA579E4="CS_MP_CAMP_COOK" UNK_895487CA="10.0" UNK_B9EC07F1="true" outfit="META_OUTFIT_KIDNAPPED" spawn_heading="149.7" spawn_position="[-2046.19, -501.2, 149.48]">
+            <UNK_6AC736F6 name="MARCEL">
+              <conversations>
+                <conversation UNK_BB273982="ENTERED_COMBAT" UNK_615C7D65="true" UNK_E9EDC3EB="APPROACH_CAMP" root="COOK_RC_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="APPROACH_HOGTIED_MARCEL" UNK_615C7D65="true" UNK_E9EDC3EB="ENTERED_COMBAT" root="COOK_RC_IDLE" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="MARCEL_UNTIED" UNK_615C7D65="true" UNK_E9EDC3EB="APPROACH_HOGTIED_MARCEL" root="COOK_RC_MARCEL" type="ON_TRIGGER" />
+                <conversation UNK_615C7D65="false" UNK_E9EDC3EB="MARCEL_UNTIED" root="COOK_RC_UNTYB" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ENEMIES_DEFEATED" UNK_615C7D65="true" UNK_E9EDC3EB="MARCEL_UNTIED" root="COOK_RC_UNTYING" type="ON_TRIGGER" />
+                <conversation UNK_615C7D65="true" UNK_E9EDC3EB="ENEMIES_DEFEATED" root="COOK_RC_ALLDEAD" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="20" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="false" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME" root="COOK_RC_BANT" UNK_CC16AB34="30" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_316996C8="70" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="false" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME" root="COOK_RC_PROPRTY" type="WITHIN_DIST_TO_VOL" />
+                <conversation UNK_615C7D65="true" UNK_E9EDC3EB="COMPLETED" root="COOK_RC_DROPOFF" type="ON_TRIGGER" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_HORSE" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="STATIONARY_HORSE" />
+                <conversation UNK_6536569E="PLAYER_STOPS_WAGON" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="STATIONARY_WAGON" />
+                <conversation UNK_6536569E="PLAYER_LOOTS_PED" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="PLAYER_LOOTING_PED" />
+                <conversation UNK_6536569E="PLAYER_NOT_SHOOTING" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="COOK_RC_ALLDEAD" type="PLAYER_NOT_SHOOTING_IN_COMBAT" />
+              </conversations>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" spawn_heading="343.84" spawn_position="[-2039.41, -514.73, 149.74]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" spawn_heading="245.66" spawn_position="[-2041.62, -510.74, 150.09]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" spawn_heading="159.22" spawn_position="[-2037.45, -509.46, 149.72]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STERNGUY_IDLES" UNK_CA822909="VOL_GUARD_0" spawn_heading="239.2" spawn_position="[-2046.99, -500.67, 149.39]" UNK_B59BB1D4="15.0" />
+          <guard UNK_FBFA9394="0" UNK_583FB58E="NEAR" config="GUARD_WARN_BANDIT_REPEATER" UNK_441CA122="false" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_BADASS" UNK_CA822909="VOL_GUARD_0" UNK_7638799D="5000" UNK_726F3B00="3000" UNK_7C35C06D="1" spawn_heading="334.66" spawn_position="[-2034.66, -521.68, 148.55]" UNK_B59BB1D4="15.0" UNK_7BC2D902="NET_FETCH_MOONSHINE_SETUP_RESCUE_COOK_TALL_TREES_1" UNK_4F2F1B6="false" />
+          <guard config="MOONSHINE_HORSE_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_ANIMAL_HORSE_GRAZING_CAMP" spawn_heading="60.33" spawn_position="[-2052.83, -507.61, 149.73]" />
+          <guard config="MOONSHINE_HORSE_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_ANIMAL_HORSE_GRAZING_DOMESTIC" spawn_heading="151.3" spawn_position="[-2059.6, -499.58, 148.07]" />
+          <guard config="MOONSHINE_HORSE_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_ANIMAL_HORSE_RESTING" spawn_heading="67.31" spawn_position="[-2054.45, -492.14, 148.47]" />
+        </guards>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_3E31B71D="true" UNK_BB512F7B="75000" UNK_55FBDEA6="true" UNK_2A950F7A="150.0">
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REPEATER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REVOLVER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REPEATER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_SHOTGUN_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="4" />
+            <UNK_17F0D181 accuracy="15" config="CHASER_BANDIT_MOUNTED_REPEATER_ETA" UNK_F5D3F1EC="PED" UNK_7C35C06D="4" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <UNK_554382DA>
+          <UNK_76F238FD spawn_position="[-1983.757, -627.679, 123.0264]" UNK_FEBAD66A="100.0">
+            <UNK_1C7D3F9C accuracy="10" UNK_8C18419D="AMBUSH_MOUNTED_PURSUIT_NEAR" config="AMBUSHER_BANDIT_REVOLVER_MOUNTED_NO_LOS" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" spawn_heading="342.6136" spawn_position="[-1995.316, -661.037, 114.4921]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C accuracy="10" UNK_8C18419D="AMBUSH_MOUNTED_PURSUIT_NEAR" config="AMBUSHER_BANDIT_REVOLVER_MOUNTED_NO_LOS" UNK_F5D3F1EC="PED" UNK_7C35C06D="1" spawn_heading="344.6928" spawn_position="[-1990.849, -662.6496, 114.6722]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C accuracy="10" UNK_8C18419D="AMBUSH_MOUNTED_PURSUIT_NEAR" config="AMBUSHER_BANDIT_SHOTGUN_MOUNTED_NO_LOS" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" spawn_heading="344.6928" spawn_position="[-1993.088, -666.8724, 113.8941]" UNK_B78360CD="true" />
+          </UNK_76F238FD>
+          <UNK_76F238FD spawn_position="[-1994.306, -1500.08, 112.7607]" UNK_FEBAD66A="150.0">
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REVOLVER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="1" spawn_heading="10.8342" spawn_position="[-1991.754, -1499.426, 112.8334]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="1" spawn_heading="10.8342" spawn_position="[-1994.166, -1499.51, 112.7308]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="1" spawn_heading="14.6642" spawn_position="[-1988.511, -1514.681, 112.902]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REVOLVER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="2" spawn_heading="14.6642" spawn_position="[-1990.92, -1514.723, 112.9316]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="4" spawn_heading="356.1584" spawn_position="[-1999.579, -1501.113, 113.5039]" />
+            <UNK_1C7D3F9C UNK_FBFA9394="1" UNK_EF3AC127="true" UNK_294503B7="DEFENSIVE" config="AMBUSHER_BANDIT_REPEATER_COVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_ROADBLOCK_0" UNK_7C35C06D="6" spawn_heading="347.2981" spawn_position="[-1997.327, -1512.937, 113.911]" />
+          </UNK_76F238FD>
+        </UNK_554382DA>
+        <cutscenes>
+          <cutscene UNK_633329DE="MOONSHINE_SETUP_RESCUE_COOK_TALL_TREES_1_ROLLING_INTRO" id="ROLLING_START" type="MOONSHINE_ROLLING_START" />
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="OUTRO_CUTSCENE" type="MOONSHINE_SET_UP_OUTRO">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="VIP_1" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near25mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[-0.9, -7.4, -5.8]" UNK_A4678354="TURN_IN_VOL" UNK_42EA33CB="[0.0, -6.48, 63.36]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_242C8C4="[-1860.844, -1720.926, 108.3751]" id="VIP_1" />
+                  <actor action="GO_TO_POINT" UNK_242C8C4="[-1860.844, -1720.926, 108.3751]" id="PLAYER_0" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_1" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_2" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_3" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_4" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_5" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_6" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="184.8564" UNK_EEFDFFA3="[-1869.528, -1743.976, 110.6835]" />
+                  <actor id="PLAYER_1" UNK_DDA8C3D3="193.0351" UNK_EEFDFFA3="[-1861.438, -1742.287, 109.4468]" />
+                  <actor id="PLAYER_2" UNK_DDA8C3D3="203.1563" UNK_EEFDFFA3="[-1850.483, -1749.406, 107.8558]" />
+                  <actor id="PLAYER_3" UNK_DDA8C3D3="6.0857" UNK_EEFDFFA3="[-1850.504, -1714.739, 107.1494]" />
+                  <actor id="PLAYER_4" UNK_DDA8C3D3="17.083" UNK_EEFDFFA3="[-1865.146, -1708.455, 107.2914]" />
+                  <actor id="PLAYER_5" UNK_DDA8C3D3="321.5003" UNK_EEFDFFA3="[-1828.396, -1708.34, 105.0919]" />
+                  <actor id="PLAYER_6" UNK_DDA8C3D3="292.9995" UNK_EEFDFFA3="[-1821.366, -1714.177, 105.4438]" />
+                  <actor UNK_5E233F16="true" id="VIP_1" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot anim_scene="cutscene@moon_ext" UNK_3B142F79="FADE_IN_AND_OUT">
+                <playlists>
+                  <playlist name="moon_ext" />
+                </playlists>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR_CLOSE" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_137E9F2B="LAST_SHOT_PAN_DOWN_INFRONT_ACTOR" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+    </locations>
+  </data>
+</root>

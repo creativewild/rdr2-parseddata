@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_5C10FC04>
+    <UNK_64F349EF>
+      <UNK_6441901D name="MORALE_TINY_DECREASE" value="0" />
+      <UNK_6441901D name="MORALE_SMALL_DECREASE" value="0" />
+      <UNK_6441901D name="MORALE_NORMAL_DECREASE" value="0" />
+      <UNK_6441901D name="MORALE_LARGE_DECREASE" value="0" />
+      <UNK_6441901D name="MORALE_TINY_INCREASE" value="5" />
+      <UNK_6441901D name="MORALE_SMALL_INCREASE" value="10" />
+      <UNK_6441901D name="MORALE_NORMAL_INCREASE" value="20" />
+      <UNK_6441901D name="MORALE_LARGE_INCREASE" value="50" />
+    </UNK_64F349EF>
+    <UNK_6EFF7C96>
+      <UNK_4A72B2A name="MCAP_CHAPTER_ONE" value="400" />
+      <UNK_4A72B2A name="MCAP_CHAPTER_TWO" value="600" />
+      <UNK_4A72B2A name="MCAP_CHAPTER_THREE" value="1000" />
+      <UNK_4A72B2A name="MCAP_CHAPTER_FIVE" value="450" />
+      <UNK_4A72B2A name="MCAP_CHAPTER_SIX" value="650" />
+      <UNK_4A72B2A name="MCAP_MAX" value="1000" />
+    </UNK_6EFF7C96>
+    <UNK_2ADF8D94>
+      <UNK_FA0B84F8 name="MORALE_LOW" value="0" />
+      <UNK_FA0B84F8 name="MORALE_MEDIUM" value="333" />
+      <UNK_FA0B84F8 name="MORALE_HIGH" value="666" />
+      <UNK_FA0B84F8 name="MORALE_MAX" value="1000" />
+    </UNK_2ADF8D94>
+  </UNK_5C10FC04>
+</root>

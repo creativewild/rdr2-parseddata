@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <supplies>
+    <camp id="hso" UNK_E87AAD6C="[-150.6123, -25.1217, 94.9407]" UNK_A4A56636="[-0.0733, 10.0387, 166.1171]">
+      <UNK_53C887C2>
+        <item model="s_cMountainBitters_Sl" offset="[0.23, -3.74, 1.39]" rotation="[0.0, 0.0, 28.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-0.92, -4.545, 1.042]" rotation="[0.0, 0.0, 25.0]" />
+        <item model="s_inv_gin01x" offset="[-0.665, -4.145, 1.081]" rotation="[0.0, 0.0, 32.0]" />
+        <item model="s_inv_gin01x" offset="[-0.2, -3.475, 1.99]" rotation="[0.0, 0.0, 373.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.315, -3.79, 1.6]" rotation="[0.0, 0.0, 35.0]" />
+        <item model="s_craft_horseStimulant05x" offset="[-1.27, -4.385, 0.892]" rotation="[0.0, 0.0, -20.0]" unlock="CIR_KIERAN_BURDOCK_ROOT" />
+        <item model="S_INV_MEDICINE01X" offset="[-0.84, -4.395, 1.052]" rotation="[0.0, 0.0, 57.0]" unlock="CIR_TILLY_NECKLACE" />
+        <item model="s_inv_rum01x" offset="[-1.205, -4.225, 0.902]" rotation="[0.0, 0.0, -90.0]" unlock="CIR_PEARSON_NAVAL_COMPASS" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_cMountainBitters_Sl" offset="[0.23, -3.74, 1.39]" rotation="[0.0, 0.0, 28.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-0.92, -4.545, 1.042]" rotation="[0.0, 0.0, 25.0]" />
+        <item model="s_inv_gin01x" offset="[-0.665, -4.145, 1.081]" rotation="[0.0, 0.0, 32.0]" />
+        <item model="s_inv_gin01x" offset="[-0.2, -3.475, 1.99]" rotation="[0.0, 0.0, 373.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.315, -3.79, 1.6]" rotation="[0.0, 0.0, 35.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-0.975, -4.61, 1.032]" rotation="[0.0, 0.0, -20.0]" />
+        <item model="S_INV_GIN01X" offset="[-0.18, -3.79, 1.62]" rotation="[0.0, 0.0, 6.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.055, -3.775, 1.645]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[0.495, -3.675, 1.69]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[0.59, -3.69, 1.705]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[0.025, -3.745, 1.66]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[0.7, 0.395, 0.705]" rotation="[0.0, 0.0, 165.0]" />
+        <item model="s_craft_horseStimulant05x" offset="[-1.27, -4.385, 0.892]" rotation="[0.0, 0.0, -20.0]" unlock="CIR_KIERAN_BURDOCK_ROOT" />
+        <item model="S_INV_MEDICINE01X" offset="[-0.84, -4.395, 1.052]" rotation="[0.0, 0.0, 57.0]" unlock="CIR_TILLY_NECKLACE" />
+        <item model="s_inv_rum01x" offset="[-1.205, -4.225, 0.902]" rotation="[0.0, 0.0, -90.0]" unlock="CIR_PEARSON_NAVAL_COMPASS" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_cMountainBitters_Sl" offset="[0.23, -3.74, 1.39]" rotation="[0.0, 0.0, 28.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-0.92, -4.545, 1.042]" rotation="[0.0, 0.0, 25.0]" />
+        <item model="s_inv_gin01x" offset="[-0.665, -4.145, 1.081]" rotation="[0.0, 0.0, 32.0]" />
+        <item model="s_inv_rum01x" offset="[-0.2, -3.475, 1.99]" rotation="[0.0, 0.0, 373.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.315, -3.79, 1.6]" rotation="[0.0, 0.0, 35.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-0.975, -4.61, 1.032]" rotation="[0.0, 0.0, -20.0]" />
+        <item model="s_inv_rum01x" offset="[-0.18, -3.79, 1.62]" rotation="[0.0, 0.0, 6.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.055, -3.775, 1.645]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[0.495, -3.675, 1.69]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[0.59, -3.69, 1.705]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[0.025, -3.745, 1.66]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[0.7, 0.395, 0.705]" rotation="[0.0, 0.0, 165.0]" />
+        <item model="s_inv_gin01x" offset="[-0.455, -3.785, 1.575]" rotation="[0.0, 0.0, 13.0]" />
+        <item model="s_inv_whiskey01x" offset="[0.695, -3.685, 1.72]" rotation="[0.0, 0.0, -13.0]" />
+        <item model="s_inv_whiskey01x" offset="[0.6, -3.62, 1.705]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_inv_tonic01x" offset="[-0.79, -4.32, 1.06]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_tonic01x" offset="[0.4, -3.695, 1.42]" rotation="[0.0, 0.0, -33.0]" />
+        <item model="S_INV_MEDICINE01X" offset="[-0.735, -4.24, 1.07]" rotation="[0.0, 0.0, 15.0]" />
+        <item model="s_craft_horseStimulant05x" offset="[-1.27, -4.385, 0.892]" rotation="[0.0, 0.0, -20.0]" unlock="CIR_KIERAN_BURDOCK_ROOT" />
+        <item model="S_INV_MEDICINE01X" offset="[-0.84, -4.395, 1.052]" rotation="[0.0, 0.0, 57.0]" unlock="CIR_TILLY_NECKLACE" />
+        <item model="s_inv_rum01x" offset="[-1.205, -4.225, 0.902]" rotation="[0.0, 0.0, -90.0]" unlock="CIR_PEARSON_NAVAL_COMPASS" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_cMountainBitters_Sl" offset="[0.29, -3.77, 1.405]" rotation="[0.0, 0.0, -52.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-0.92, -4.545, 1.042]" rotation="[0.0, 0.0, 25.0]" />
+        <item model="s_inv_supertonic01x" offset="[-0.665, -4.145, 1.08]" rotation="[0.0, 0.0, 32.0]" />
+        <item model="s_inv_rum01x" offset="[-0.2, -3.475, 1.99]" rotation="[0.0, 0.0, 373.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.315, -3.79, 1.6]" rotation="[0.0, 0.0, 35.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-0.975, -4.61, 1.032]" rotation="[0.0, 0.0, -20.0]" />
+        <item model="s_inv_rum01x" offset="[-0.18, -3.79, 1.62]" rotation="[0.0, 0.0, 6.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.055, -3.775, 1.645]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[0.495, -3.675, 1.69]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[0.59, -3.69, 1.705]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[0.025, -3.745, 1.66]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[0.7, 0.395, 0.705]" rotation="[0.0, 0.0, 165.0]" />
+        <item model="s_inv_gin01x" offset="[-0.455, -3.785, 1.575]" rotation="[0.0, 0.0, 13.0]" />
+        <item model="s_inv_whiskey01x" offset="[0.695, -3.685, 1.72]" rotation="[0.0, 0.0, -13.0]" />
+        <item model="s_inv_whiskey01x" offset="[0.6, -3.62, 1.705]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_inv_tonic01x" offset="[-0.79, -4.32, 1.06]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_tonic01x" offset="[0.43, -3.705, 1.425]" rotation="[0.0, 0.0, -77.0]" />
+        <item model="s_inv_medicine_fty" offset="[-0.735, -4.24, 1.07]" rotation="[0.0, 0.0, 15.0]" />
+        <item model="s_inv_medicine_fty" offset="[-0.019, -3.655, 1.65]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_supertonic01x" offset="[0.785, 0.255, 0.72]" rotation="[0.0, 0.0, 101.0]" />
+        <item model="s_craft_horseStimulant05x" offset="[-1.27, -4.42, 0.917]" rotation="[0.0, 0.0, -20.0]" unlock="CIR_KIERAN_BURDOCK_ROOT" />
+        <item model="S_INV_MEDICINE01X" offset="[-0.84, -4.395, 1.052]" rotation="[0.0, 0.0, 57.0]" unlock="CIR_TILLY_NECKLACE" />
+        <item model="s_inv_rum01x" offset="[-1.205, -4.225, 0.917]" rotation="[0.0, 0.0, -90.0]" unlock="CIR_PEARSON_NAVAL_COMPASS" />
+      </UNK_53C887C2>
+    </camp>
+    <camp id="clm" UNK_E87AAD6C="[654.5831, -1231.956, 43.0767]" UNK_A4A56636="[-0.7657, 0.1606, 128.6686]">
+      <UNK_53C887C2>
+        <item model="s_cMountainBitters_Sl" offset="[0.425, -3.74, 1.175]" rotation="[0.0, 0.0, -34.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-1.285, -4.545, 1.005]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="S_INV_GIN01X" offset="[-1.05, -4.145, 1.003]" rotation="[0.0, 0.0, -38.0]" />
+        <item model="S_INV_GIN01X" offset="[-0.675, -3.675, 1.945]" rotation="[0.0, 0.0, -25.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.435, -3.79, 1.6]" rotation="[0.0, 0.0, 35.0]" />
+        <item model="s_craft_horseStimulant05x" offset="[-1.59, -4.31, 0.9448]" rotation="[0.0, 0.0, -105.0]" unlock="CIR_KIERAN_BURDOCK_ROOT" />
+        <item model="s_inv_medicine01x" offset="[-1.215, -4.4, 1.004]" rotation="[0.0, 0.0, 29.0]" unlock="CIR_TILLY_NECKLACE" />
+        <item model="s_inv_rum01x" offset="[-1.56, -4.235, 1.147]" rotation="[0.0, 0.0, -76.0]" unlock="CIR_PEARSON_NAVAL_COMPASS" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_cMountainBitters_Sl" offset="[0.425, -3.74, 1.175]" rotation="[0.0, 0.0, -34.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-1.285, -4.545, 1.005]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="S_INV_GIN01X" offset="[-1.05, -4.145, 1.003]" rotation="[0.0, 0.0, -38.0]" />
+        <item model="S_INV_GIN01X" offset="[-0.675, -3.675, 1.945]" rotation="[0.0, 0.0, -25.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.435, -3.79, 1.6]" rotation="[0.0, 0.0, 35.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-1.315, -4.61, 1.007]" rotation="[0.0, 0.0, -40.0]" />
+        <item model="S_INV_GIN01X" offset="[-0.22, -3.725, 1.6]" rotation="[0.0, 0.0, -2.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.345, -3.785, 1.6]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[-0.374, -3.815, 1.205]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[0.16, -3.69, 1.19]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[0.075, -3.745, 1.195]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[-0.465, -3.655, 1.95]" rotation="[0.0, 0.0, -15.0]" />
+        <item model="s_craft_horseStimulant05x" offset="[-1.59, -4.31, 0.9448]" rotation="[0.0, 0.0, -105.0]" unlock="CIR_KIERAN_BURDOCK_ROOT" />
+        <item model="s_inv_medicine01x" offset="[-1.215, -4.4, 1.004]" rotation="[0.0, 0.0, 29.0]" unlock="CIR_TILLY_NECKLACE" />
+        <item model="s_inv_rum01x" offset="[-1.56, -4.235, 1.147]" rotation="[0.0, 0.0, -76.0]" unlock="CIR_PEARSON_NAVAL_COMPASS" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_cMountainBitters_Sl" offset="[0.425, -3.74, 1.175]" rotation="[0.0, 0.0, -34.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-1.285, -4.545, 1.005]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="S_INV_GIN01X" offset="[-1.05, -4.145, 1.003]" rotation="[0.0, 0.0, -38.0]" />
+        <item model="S_INV_GIN01X" offset="[-0.675, -3.675, 1.945]" rotation="[0.0, 0.0, -25.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.435, -3.79, 1.6]" rotation="[0.0, 0.0, 35.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-1.315, -4.61, 1.007]" rotation="[0.0, 0.0, -40.0]" />
+        <item model="s_inv_rum01x" offset="[-0.22, -3.725, 1.6]" rotation="[0.0, 0.0, -2.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.345, -3.785, 1.6]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[-0.374, -3.815, 1.205]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[0.16, -3.69, 1.19]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[0.075, -3.745, 1.195]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[-0.465, -3.655, 1.95]" rotation="[0.0, 0.0, -15.0]" />
+        <item model="s_inv_rum01x" offset="[-0.57, -3.82, 1.597]" rotation="[0.0, 0.0, 340.0]" />
+        <item model="s_inv_whiskey01x" offset="[-0.625, -3.86, 1.2]" rotation="[0.0, 0.0, -13.0]" />
+        <item model="s_inv_whiskey01x" offset="[0.265, -3.67, 1.185]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_inv_tonic01x" offset="[-1.18, -4.32, 1.005]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_tonic01x" offset="[0.365, -3.705, 1.183]" rotation="[0.0, 0.0, -56.0]" />
+        <item model="s_inv_medicine_fty" offset="[-1.12, -4.24, 1.005]" rotation="[0.0, 0.0, 15.0]" />
+        <item model="s_craft_horseStimulant05x" offset="[-1.59, -4.31, 0.9448]" rotation="[0.0, 0.0, -105.0]" unlock="CIR_KIERAN_BURDOCK_ROOT" />
+        <item model="s_inv_medicine01x" offset="[-1.215, -4.4, 1.004]" rotation="[0.0, 0.0, 29.0]" unlock="CIR_TILLY_NECKLACE" />
+        <item model="s_inv_rum01x" offset="[-1.56, -4.235, 1.147]" rotation="[0.0, 0.0, -76.0]" unlock="CIR_PEARSON_NAVAL_COMPASS" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_cMountainBitters_Sl" offset="[0.425, -3.74, 1.175]" rotation="[0.0, 0.0, -34.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-1.285, -4.545, 1.005]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_supertonic01x" offset="[-1.05, -4.145, 1.003]" rotation="[0.0, 0.0, -38.0]" />
+        <item model="S_INV_GIN01X" offset="[-0.675, -3.675, 1.945]" rotation="[0.0, 0.0, -25.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.435, -3.79, 1.6]" rotation="[0.0, 0.0, 35.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-1.315, -4.61, 1.007]" rotation="[0.0, 0.0, -40.0]" />
+        <item model="s_inv_rum01x" offset="[-0.22, -3.725, 1.6]" rotation="[0.0, 0.0, -2.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.345, -3.785, 1.6]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[-0.374, -3.815, 1.205]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[0.16, -3.69, 1.19]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[0.075, -3.745, 1.195]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[-0.465, -3.655, 1.95]" rotation="[0.0, 0.0, -15.0]" />
+        <item model="s_inv_rum01x" offset="[-0.57, -3.82, 1.597]" rotation="[0.0, 0.0, 340.0]" />
+        <item model="s_inv_whiskey01x" offset="[-0.625, -3.86, 1.2]" rotation="[0.0, 0.0, -13.0]" />
+        <item model="s_inv_whiskey01x" offset="[0.265, -3.67, 1.185]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_inv_tonic01x" offset="[-1.18, -4.32, 1.005]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_tonic01x" offset="[0.365, -3.705, 1.183]" rotation="[0.0, 0.0, -56.0]" />
+        <item model="s_inv_medicine_fty" offset="[-1.12, -4.24, 1.005]" rotation="[0.0, 0.0, 15.0]" />
+        <item model="s_inv_medicine_fty" offset="[-0.014, -3.75, 1.195]" rotation="[0.0, 0.0, 50.0]" />
+        <item model="s_inv_supertonic01x" offset="[-0.494, -3.84, 1.2]" rotation="[0.0, 0.0, -25.0]" />
+        <item model="s_craft_horseStimulant05x" offset="[-1.59, -4.31, 0.9609]" rotation="[0.0, -2.0, -105.0]" unlock="CIR_KIERAN_BURDOCK_ROOT" />
+        <item model="s_inv_medicine01x" offset="[-1.215, -4.4, 1.004]" rotation="[0.0, 0.0, 29.0]" unlock="CIR_TILLY_NECKLACE" />
+        <item model="s_inv_rum01x" offset="[-1.56, -4.235, 1.147]" rotation="[0.0, 0.0, -76.0]" unlock="CIR_PEARSON_NAVAL_COMPASS" />
+      </UNK_53C887C2>
+    </camp>
+    <camp id="sdb" UNK_E87AAD6C="[1890.835, -1882.48, 41.7655]" UNK_A4A56636="[-0.7657, 0.1605, -56.3637]">
+      <UNK_53C887C2>
+        <item model="s_cMountainBitters_Sl" offset="[0.425, -3.74, 1.175]" rotation="[0.0, 0.0, 138.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-1.285, -4.545, 1.005]" rotation="[0.0, 0.0, 190.0]" />
+        <item model="s_inv_gin01x" offset="[-1.05, -4.145, 1.005]" rotation="[0.0, 0.0, 147.0]" />
+        <item model="S_INV_GIN01X" offset="[-0.675, -3.675, 1.945]" rotation="[0.0, 0.0, -205.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.435, -3.79, 1.6]" rotation="[0.0, 0.0, 135.0]" />
+        <item model="s_craft_horseStimulant05x" offset="[-1.655, -4.23, 0.9459]" rotation="[0.0, 0.0, 37.0]" unlock="CIR_KIERAN_BURDOCK_ROOT" />
+        <item model="s_inv_medicine01x" offset="[-1.215, -4.4, 1.004]" rotation="[0.0, 0.0, 208.0]" unlock="CIR_TILLY_NECKLACE" />
+        <item model="s_inv_rum01x" offset="[-1.495, -4.385, 0.947]" rotation="[0.0, 0.0, 63.0]" unlock="CIR_PEARSON_NAVAL_COMPASS" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_cMountainBitters_Sl" offset="[0.425, -3.74, 1.175]" rotation="[0.0, 0.0, 138.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-1.285, -4.545, 1.005]" rotation="[0.0, 0.0, 190.0]" />
+        <item model="S_INV_GIN01X" offset="[-1.05, -4.145, 1.003]" rotation="[0.0, 0.0, 147.0]" />
+        <item model="S_INV_GIN01X" offset="[-0.675, -3.675, 1.945]" rotation="[0.0, 0.0, -205.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.435, -3.79, 1.6]" rotation="[0.0, 0.0, 135.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-1.315, -4.61, 1.007]" rotation="[0.0, 0.0, 120.0]" />
+        <item model="S_INV_GIN01X" offset="[-0.22, -3.725, 1.6]" rotation="[0.0, 0.0, 188.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.345, -3.785, 1.6]" rotation="[0.0, 0.0, 165.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[-0.374, -3.815, 1.205]" rotation="[0.0, 0.0, 155.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[0.16, -3.69, 1.19]" rotation="[0.0, 0.0, 150.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[0.075, -3.745, 1.2]" rotation="[0.0, 0.0, 125.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[-0.465, -3.655, 1.95]" rotation="[0.0, 0.0, 165.0]" />
+        <item model="s_craft_horseStimulant05x" offset="[-1.655, -4.23, 0.9459]" rotation="[0.0, 0.0, 37.0]" unlock="CIR_KIERAN_BURDOCK_ROOT" />
+        <item model="s_inv_medicine01x" offset="[-1.215, -4.4, 1.004]" rotation="[0.0, 0.0, 208.0]" unlock="CIR_TILLY_NECKLACE" />
+        <item model="s_inv_rum01x" offset="[-1.495, -4.385, 0.947]" rotation="[0.0, 0.0, 63.0]" unlock="CIR_PEARSON_NAVAL_COMPASS" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_cMountainBitters_Sl" offset="[0.425, -3.74, 1.175]" rotation="[0.0, 0.0, 138.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-1.285, -4.545, 1.005]" rotation="[0.0, 0.0, 190.0]" />
+        <item model="S_INV_GIN01X" offset="[-1.05, -4.145, 1.003]" rotation="[0.0, 0.0, 147.0]" />
+        <item model="S_INV_GIN01X" offset="[-0.675, -3.675, 1.945]" rotation="[0.0, 0.0, -205.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.435, -3.79, 1.6]" rotation="[0.0, 0.0, 135.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-1.315, -4.61, 1.007]" rotation="[0.0, 0.0, 120.0]" />
+        <item model="s_inv_rum01x" offset="[-0.22, -3.725, 1.6]" rotation="[0.0, 0.0, 188.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.345, -3.785, 1.6]" rotation="[0.0, 0.0, 165.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[-0.374, -3.815, 1.205]" rotation="[0.0, 0.0, 155.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[0.16, -3.69, 1.19]" rotation="[0.0, 0.0, 150.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[0.075, -3.745, 1.2]" rotation="[0.0, 0.0, 125.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[-0.465, -3.655, 1.95]" rotation="[0.0, 0.0, 165.0]" />
+        <item model="s_inv_rum01x" offset="[-0.57, -3.84, 1.6]" rotation="[0.0, 0.0, 150.0]" />
+        <item model="s_inv_whiskey01x" offset="[-0.625, -3.86, 1.2]" rotation="[0.0, 0.0, -13.0]" />
+        <item model="s_inv_whiskey01x" offset="[0.265, -3.67, 1.185]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_inv_tonic01x" offset="[-1.18, -4.32, 1.003]" rotation="[0.0, 0.0, 170.0]" />
+        <item model="s_inv_tonic01x" offset="[0.365, -3.705, 1.178]" rotation="[0.0, 0.0, 94.0]" />
+        <item model="s_inv_medicine_fty" offset="[-1.12, -4.24, 1.004]" rotation="[0.0, 0.0, 185.0]" />
+        <item model="s_craft_horseStimulant05x" offset="[-1.655, -4.23, 0.9459]" rotation="[0.0, 0.0, 37.0]" unlock="CIR_KIERAN_BURDOCK_ROOT" />
+        <item model="s_inv_medicine01x" offset="[-1.215, -4.4, 1.004]" rotation="[0.0, 0.0, 208.0]" unlock="CIR_TILLY_NECKLACE" />
+        <item model="s_inv_rum01x" offset="[-1.495, -4.385, 0.947]" rotation="[0.0, 0.0, 63.0]" unlock="CIR_PEARSON_NAVAL_COMPASS" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_cMountainBitters_Sl" offset="[0.425, -3.74, 1.18]" rotation="[0.0, 0.0, 138.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-1.285, -4.545, 1.005]" rotation="[0.0, 0.0, 190.0]" />
+        <item model="s_inv_supertonic01x" offset="[-1.05, -4.145, 1.003]" rotation="[0.0, 0.0, 147.0]" />
+        <item model="S_INV_GIN01X" offset="[-0.675, -3.675, 1.945]" rotation="[0.0, 0.0, -205.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.435, -3.79, 1.6]" rotation="[0.0, 0.0, 135.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-1.315, -4.61, 1.007]" rotation="[0.0, 0.0, 120.0]" />
+        <item model="s_inv_rum01x" offset="[-0.22, -3.725, 1.6]" rotation="[0.0, 0.0, 188.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.345, -3.785, 1.6]" rotation="[0.0, 0.0, 165.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[-0.374, -3.815, 1.205]" rotation="[0.0, 0.0, 155.0]" />
+        <item model="s_cMountainBitters_Tl" offset="[0.16, -3.69, 1.19]" rotation="[0.0, 0.0, 150.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[0.075, -3.745, 1.2]" rotation="[0.0, 0.0, 125.0]" />
+        <item model="s_inv_SnakeOil01x" offset="[-0.465, -3.655, 1.95]" rotation="[0.0, 0.0, 165.0]" />
+        <item model="s_inv_rum01x" offset="[-0.57, -3.84, 1.6]" rotation="[0.0, 0.0, 150.0]" />
+        <item model="s_inv_whiskey01x" offset="[-0.625, -3.86, 1.2]" rotation="[0.0, 0.0, -13.0]" />
+        <item model="s_inv_whiskey01x" offset="[0.265, -3.67, 1.185]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_inv_tonic01x" offset="[-1.18, -4.32, 1.003]" rotation="[0.0, 0.0, 170.0]" />
+        <item model="s_inv_tonic01x" offset="[0.365, -3.705, 1.183]" rotation="[0.0, 0.0, 94.0]" />
+        <item model="s_inv_medicine_fty" offset="[-1.12, -4.24, 1.004]" rotation="[0.0, 0.0, 185.0]" />
+        <item model="s_inv_medicine_fty" offset="[-0.014, -3.75, 1.195]" rotation="[0.0, 0.0, 230.0]" />
+        <item model="s_inv_supertonic01x" offset="[-0.494, -3.84, 1.2]" rotation="[0.0, 0.0, 165.0]" />
+        <item model="s_craft_horseStimulant05x" offset="[-1.655, -4.23, 0.9459]" rotation="[0.0, 0.0, 37.0]" unlock="CIR_KIERAN_BURDOCK_ROOT" />
+        <item model="s_inv_medicine01x" offset="[-1.215, -4.4, 1.004]" rotation="[0.0, 0.0, 208.0]" unlock="CIR_TILLY_NECKLACE" />
+        <item model="s_inv_rum01x" offset="[-1.495, -4.385, 0.947]" rotation="[0.0, 0.0, 63.0]" unlock="CIR_PEARSON_NAVAL_COMPASS" />
+      </UNK_53C887C2>
+    </camp>
+    <camp id="bvh" UNK_E87AAD6C="[2354.913, 1342.611, 104.5543]" UNK_A4A56636="[-1.4948, 4.2615, -135.4311]">
+      <UNK_53C887C2>
+        <item model="s_cMountainBitters_Sl" offset="[0.39, -3.715, 1.183]" rotation="[0.0, -2.0, 48.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-0.21, -3.625, 1.194]" rotation="[0.0, 0.0, 340.0]" />
+        <item model="s_inv_gin01x" offset="[-0.35, -3.65, 1.194]" rotation="[0.0, 3.0, 207.0]" />
+        <item model="s_inv_gin01x" offset="[0.47, -3.615, 1.183]" rotation="[0.0, 4.0, 543.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.435, -3.7, 1.191]" rotation="[0.0, 0.0, 75.0]" />
+        <item model="s_craft_horseStimulant05x" offset="[-0.83, -3.775, 1.185]" rotation="[0.0, 0.0, 87.0]" unlock="CIR_KIERAN_BURDOCK_ROOT" />
+        <item model="s_inv_medicine01x" offset="[-0.775, -3.795, 1.198]" rotation="[90.0, 90.0, 647.0]" unlock="CIR_TILLY_NECKLACE" />
+        <item model="s_inv_rum01x" offset="[-0.785, -3.675, 1.184]" rotation="[0.0, 0.0, 72.0]" unlock="CIR_PEARSON_NAVAL_COMPASS" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_cMountainBitters_Sl" offset="[0.39, -3.715, 1.183]" rotation="[0.0, -2.0, 48.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-0.21, -3.625, 1.194]" rotation="[0.0, 0.0, 340.0]" />
+        <item model="s_inv_gin01x" offset="[-0.35, -3.65, 1.194]" rotation="[0.0, 3.0, 207.0]" />
+        <item model="s_inv_gin01x" offset="[0.47, -3.615, 1.183]" rotation="[0.0, 4.0, 543.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.435, -3.7, 1.191]" rotation="[0.0, 0.0, 75.0]" />
+        <item model="s_craft_horseStimulant05x" offset="[-0.83, -3.775, 1.185]" rotation="[0.0, 0.0, 87.0]" unlock="CIR_KIERAN_BURDOCK_ROOT" />
+        <item model="s_inv_medicine01x" offset="[-0.775, -3.795, 1.198]" rotation="[90.0, 90.0, 647.0]" unlock="CIR_TILLY_NECKLACE" />
+        <item model="s_inv_rum01x" offset="[-0.785, -3.675, 1.184]" rotation="[0.0, 0.0, 72.0]" unlock="CIR_PEARSON_NAVAL_COMPASS" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_cMountainBitters_Sl" offset="[0.39, -3.715, 1.183]" rotation="[0.0, -2.0, 48.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-0.21, -3.625, 1.194]" rotation="[0.0, 0.0, 340.0]" />
+        <item model="s_inv_gin01x" offset="[-0.35, -3.65, 1.194]" rotation="[0.0, 3.0, 207.0]" />
+        <item model="s_inv_gin01x" offset="[0.47, -3.615, 1.183]" rotation="[0.0, 4.0, 543.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.435, -3.7, 1.191]" rotation="[0.0, 0.0, 75.0]" />
+        <item model="s_craft_horseStimulant05x" offset="[-0.83, -3.775, 1.185]" rotation="[0.0, 0.0, 87.0]" unlock="CIR_KIERAN_BURDOCK_ROOT" />
+        <item model="s_inv_medicine01x" offset="[-0.775, -3.795, 1.198]" rotation="[90.0, 90.0, 647.0]" unlock="CIR_TILLY_NECKLACE" />
+        <item model="s_inv_rum01x" offset="[-0.785, -3.675, 1.184]" rotation="[0.0, 0.0, 72.0]" unlock="CIR_PEARSON_NAVAL_COMPASS" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_cMountainBitters_Sl" offset="[0.39, -3.715, 1.183]" rotation="[0.0, -2.0, 48.0]" />
+        <item model="s_cMountainBitters_Sl" offset="[-0.21, -3.625, 1.194]" rotation="[0.0, 0.0, 340.0]" />
+        <item model="s_inv_gin01x" offset="[-0.35, -3.65, 1.194]" rotation="[0.0, 3.0, 207.0]" />
+        <item model="s_inv_gin01x" offset="[0.47, -3.615, 1.183]" rotation="[0.0, 4.0, 543.0]" />
+        <item model="s_inv_medicine01x" offset="[-0.435, -3.7, 1.191]" rotation="[0.0, 0.0, 75.0]" />
+        <item model="s_craft_horseStimulant05x" offset="[-0.83, -3.775, 1.185]" rotation="[0.0, 0.0, 87.0]" unlock="CIR_KIERAN_BURDOCK_ROOT" />
+        <item model="s_inv_medicine01x" offset="[-0.775, -3.795, 1.198]" rotation="[90.0, 90.0, 647.0]" unlock="CIR_TILLY_NECKLACE" />
+        <item model="s_inv_rum01x" offset="[-0.785, -3.675, 1.184]" rotation="[0.0, 0.0, 72.0]" unlock="CIR_PEARSON_NAVAL_COMPASS" />
+      </UNK_53C887C2>
+    </camp>
+  </supplies>
+</root>

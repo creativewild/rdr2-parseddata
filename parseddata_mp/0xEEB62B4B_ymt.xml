@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_D6CBE97>
+    <ability card="ABILITY_CARD_A_MOMENT_TO_RECUPERATE" category="DEADEYE" id="NET_PLAYER_ABILITY__A_MOMENT_TO_RECUPERATE" txd="ability_cards_set_a">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__A_MOMENT_TO_RECUPERATE_TIER_1">
+          <UNK_3A06C547>
+            <flag active="false" id="TAGGING_ENABLED" />
+            <flag active="false" id="PERFECT_ACCURACY" />
+            <flag active="true" id="ALLOW_IN_MELEE" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="true" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="true" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="true" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="false" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+        <tier id="1" UNK_7414182B="ABILITY_CARD__A_MOMENT_TO_RECUPERATE_TIER_2">
+          <UNK_3A06C547>
+            <flag active="false" id="TAGGING_ENABLED" />
+            <flag active="false" id="PERFECT_ACCURACY" />
+            <flag active="true" id="ALLOW_IN_MELEE" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="true" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="true" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="true" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="false" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+        <tier id="2" UNK_7414182B="ABILITY_CARD__A_MOMENT_TO_RECUPERATE_TIER_3">
+          <UNK_3A06C547>
+            <flag active="false" id="TAGGING_ENABLED" />
+            <flag active="false" id="PERFECT_ACCURACY" />
+            <flag active="true" id="ALLOW_IN_MELEE" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="true" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="true" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="true" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="false" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_COLD_BLOODED" category="RECOVERY" id="NET_PLAYER_ABILITY__COLD_BLOODED" txd="ability_cards_set_b">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__COLD_BLOODED_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__COLD_BLOODED_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__COLD_BLOODED_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_COME_BACK_STRONGER" category="RECOVERY" id="NET_PLAYER_ABILITY__COME_BACK_STRONGER" txd="ability_cards_set_b">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__COME_BACK_STRONGER_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__COME_BACK_STRONGER_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__COME_BACK_STRONGER_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_EYE_FOR_AN_EYE" category="RECOVERY" id="NET_PLAYER_ABILITY__EYE_FOR_AN_EYE" txd="ability_cards_set_b">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__EYE_FOR_AN_EYE_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__EYE_FOR_AN_EYE_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__EYE_FOR_AN_EYE_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_FOCUS_FIRE" category="DEADEYE" id="NET_PLAYER_ABILITY__FOCUS_FIRE" txd="ability_cards_set_a">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__FOCUS_FIRE_TIER_1">
+          <UNK_3A06C547>
+            <flag active="false" id="TAGGING_ENABLED" />
+            <flag active="false" id="PERFECT_ACCURACY" />
+            <flag active="true" id="ALLOW_IN_MELEE" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="true" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="true" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="true" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+        <tier id="1" UNK_7414182B="ABILITY_CARD__FOCUS_FIRE_TIER_2">
+          <UNK_3A06C547>
+            <flag active="false" id="TAGGING_ENABLED" />
+            <flag active="false" id="PERFECT_ACCURACY" />
+            <flag active="true" id="ALLOW_IN_MELEE" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="true" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="true" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="true" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+        <tier id="2" UNK_7414182B="ABILITY_CARD__FOCUS_FIRE_TIER_3">
+          <UNK_3A06C547>
+            <flag active="false" id="TAGGING_ENABLED" />
+            <flag active="false" id="PERFECT_ACCURACY" />
+            <flag active="true" id="ALLOW_IN_MELEE" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="true" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="true" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="true" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_HANGMAN" category="COMBAT" id="NET_PLAYER_ABILITY__HANGMAN" txd="ability_cards_set_c">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__HANGMAN_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__HANGMAN_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__HANGMAN_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_HORSEMAN" category="COMBAT" id="NET_PLAYER_ABILITY__HORSEMAN" txd="ability_cards_set_c">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__HORSEMAN_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__HORSEMAN_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__HORSEMAN_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_HUNKER_DOWN" category="DEFENSE" id="NET_PLAYER_ABILITY__HUNKER_DOWN" txd="ability_cards_set_d">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__HUNKER_DOWN_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__HUNKER_DOWN_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__HUNKER_DOWN_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_LANDONS_PATIENCE" category="COMBAT" id="NET_PLAYER_ABILITY__LANDONS_PATIENCE" txd="ability_cards_set_c">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__LANDONS_PATIENCE_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__LANDONS_PATIENCE_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__LANDONS_PATIENCE_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_NECESSITY_BREEDS" category="COMBAT" id="NET_PLAYER_ABILITY__NECESSITY_BREEDS" txd="ability_cards_set_c">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__NECESSITY_BREEDS_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__NECESSITY_BREEDS_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__NECESSITY_BREEDS_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_NEVER_WITHOUT_ONE" category="DEFENSE" id="NET_PLAYER_ABILITY__NEVER_WITHOUT_ONE" txd="ability_cards_set_d">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__NEVER_WITHOUT_ONE_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__NEVER_WITHOUT_ONE_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__NEVER_WITHOUT_ONE_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_OF_SINGLE_PURPOSE" category="DEFENSE" id="NET_PLAYER_ABILITY__OF_SINGLE_PURPOSE" txd="ability_cards_set_d">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__OF_SINGLE_PURPOSE_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__OF_SINGLE_PURPOSE_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__OF_SINGLE_PURPOSE_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_PAINT_IT_BLACK" category="DEADEYE" id="NET_PLAYER_ABILITY__PAINT_IT_BLACK" txd="ability_cards_set_a">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__PAINT_IT_BLACK_TIER_1">
+          <UNK_3A06C547>
+            <flag active="true" id="TAGGING_ENABLED" />
+            <flag active="true" id="PERFECT_ACCURACY" />
+            <flag active="false" id="ALLOW_IN_MELEE" />
+            <flag active="false" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="false" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="false" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="false" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="false" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+        <tier id="1" UNK_7414182B="ABILITY_CARD__PAINT_IT_BLACK_TIER_2">
+          <UNK_3A06C547>
+            <flag active="true" id="TAGGING_ENABLED" />
+            <flag active="true" id="PERFECT_ACCURACY" />
+            <flag active="false" id="ALLOW_IN_MELEE" />
+            <flag active="false" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="false" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="false" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="false" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="false" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+        <tier id="2" UNK_7414182B="ABILITY_CARD__PAINT_IT_BLACK_TIER_3">
+          <UNK_3A06C547>
+            <flag active="true" id="TAGGING_ENABLED" />
+            <flag active="true" id="PERFECT_ACCURACY" />
+            <flag active="false" id="ALLOW_IN_MELEE" />
+            <flag active="false" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="false" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="false" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="false" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="false" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_PEAK_CONDITION" category="RECOVERY" id="NET_PLAYER_ABILITY__PEAK_CONDITION" txd="ability_cards_set_b">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__PEAK_CONDITION_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__PEAK_CONDITION_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__PEAK_CONDITION_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_QUITE_AN_INSPIRATION" category="DEADEYE" id="NET_PLAYER_ABILITY__QUITE_AN_INSPIRATION" txd="ability_cards_set_a">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__QUITE_AN_INSPIRATION_TIER_1">
+          <UNK_3A06C547>
+            <flag active="false" id="TAGGING_ENABLED" />
+            <flag active="false" id="PERFECT_ACCURACY" />
+            <flag active="true" id="ALLOW_IN_MELEE" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="true" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="true" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="true" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+        <tier id="1" UNK_7414182B="ABILITY_CARD__QUITE_AN_INSPIRATION_TIER_2">
+          <UNK_3A06C547>
+            <flag active="false" id="TAGGING_ENABLED" />
+            <flag active="false" id="PERFECT_ACCURACY" />
+            <flag active="true" id="ALLOW_IN_MELEE" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="true" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="true" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="true" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+        <tier id="2" UNK_7414182B="ABILITY_CARD__QUITE_AN_INSPIRATION_TIER_3">
+          <UNK_3A06C547>
+            <flag active="false" id="TAGGING_ENABLED" />
+            <flag active="false" id="PERFECT_ACCURACY" />
+            <flag active="true" id="ALLOW_IN_MELEE" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="true" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="true" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="true" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_SLIPPERY_BASTARD" category="DEADEYE" id="NET_PLAYER_ABILITY__SLIPPERY_BASTARD" txd="ability_cards_set_a">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__SLIPPERY_BASTARD_TIER_1">
+          <UNK_3A06C547>
+            <flag active="false" id="TAGGING_ENABLED" />
+            <flag active="false" id="PERFECT_ACCURACY" />
+            <flag active="true" id="ALLOW_IN_MELEE" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="true" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="true" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="true" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+        <tier id="1" UNK_7414182B="ABILITY_CARD__SLIPPERY_BASTARD_TIER_2">
+          <UNK_3A06C547>
+            <flag active="false" id="TAGGING_ENABLED" />
+            <flag active="false" id="PERFECT_ACCURACY" />
+            <flag active="true" id="ALLOW_IN_MELEE" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="true" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="true" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="true" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+        <tier id="2" UNK_7414182B="ABILITY_CARD__SLIPPERY_BASTARD_TIER_3">
+          <UNK_3A06C547>
+            <flag active="false" id="TAGGING_ENABLED" />
+            <flag active="false" id="PERFECT_ACCURACY" />
+            <flag active="true" id="ALLOW_IN_MELEE" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="true" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="true" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="true" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_SLOW_AND_STEADY" category="DEADEYE" id="NET_PLAYER_ABILITY__SLOW_AND_STEADY" txd="ability_cards_set_a">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__SLOW_AND_STEADY_TIER_1">
+          <UNK_3A06C547>
+            <flag active="false" id="TAGGING_ENABLED" />
+            <flag active="false" id="PERFECT_ACCURACY" />
+            <flag active="true" id="ALLOW_IN_MELEE" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="true" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="true" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="true" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+        <tier id="1" UNK_7414182B="ABILITY_CARD__SLOW_AND_STEADY_TIER_2">
+          <UNK_3A06C547>
+            <flag active="false" id="TAGGING_ENABLED" />
+            <flag active="false" id="PERFECT_ACCURACY" />
+            <flag active="true" id="ALLOW_IN_MELEE" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="true" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="true" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="true" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+        <tier id="2" UNK_7414182B="ABILITY_CARD__SLOW_AND_STEADY_TIER_3">
+          <UNK_3A06C547>
+            <flag active="false" id="TAGGING_ENABLED" />
+            <flag active="false" id="PERFECT_ACCURACY" />
+            <flag active="true" id="ALLOW_IN_MELEE" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="true" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="true" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="true" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_STRANGE_MEDICINE" category="RECOVERY" id="NET_PLAYER_ABILITY__STRANGE_MEDICINE" txd="ability_cards_set_b">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__STRANGE_MEDICINE_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__STRANGE_MEDICINE_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__STRANGE_MEDICINE_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_TAKE_THE_PAIN_AWAY" category="DEFENSE" id="NET_PLAYER_ABILITY__TAKE_THE_PAIN_AWAY" txd="ability_cards_set_d">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__TAKE_THE_PAIN_AWAY_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__TAKE_THE_PAIN_AWAY_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__TAKE_THE_PAIN_AWAY_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_THE_GIFT_OF_FOCUS" category="RECOVERY" id="NET_PLAYER_ABILITY__THE_GIFT_OF_FOCUS" txd="ability_cards_set_b">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__THE_GIFT_OF_FOCUS_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__THE_GIFT_OF_FOCUS_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__THE_GIFT_OF_FOCUS_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_THE_SHORT_GAME" category="COMBAT" id="NET_PLAYER_ABILITY__THE_SHORT_GAME" txd="ability_cards_set_c">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__THE_SHORT_GAME_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__THE_SHORT_GAME_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__THE_SHORT_GAME_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_THE_UNBLINKING_EYE" category="DEFENSE" id="NET_PLAYER_ABILITY__THE_UNBLINKING_EYE" txd="ability_cards_set_d">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__THE_UNBLINKING_EYE_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__THE_UNBLINKING_EYE_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__THE_UNBLINKING_EYE_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_TO_FIGHT_ANOTHER_DAY" category="DEFENSE" id="NET_PLAYER_ABILITY__TO_FIGHT_ANOTHER_DAY" txd="ability_cards_set_d">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__TO_FIGHT_ANOTHER_DAY_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__TO_FIGHT_ANOTHER_DAY_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__TO_FIGHT_ANOTHER_DAY_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_WINNING_STREAK" category="COMBAT" id="NET_PLAYER_ABILITY__WINNING_STREAK" txd="ability_cards_set_c">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__WINNING_STREAK_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__WINNING_STREAK_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__WINNING_STREAK_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_KICK_IN_THE_BUTT" category="RECOVERY" id="NET_PLAYER_ABILITY__KICK_IN_THE_BUTT" txd="ability_cards_set_b">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__KICK_IN_THE_BUTT_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__KICK_IN_THE_BUTT_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__KICK_IN_THE_BUTT_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_LIVE_FOR_THE_FIGHT" category="RECOVERY" id="NET_PLAYER_ABILITY__LIVE_FOR_THE_FIGHT" txd="ability_cards_set_b">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__LIVE_FOR_THE_FIGHT_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__LIVE_FOR_THE_FIGHT_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__LIVE_FOR_THE_FIGHT_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_SHARPSHOOTER" category="COMBAT" id="NET_PLAYER_ABILITY__SHARPSHOOTER" txd="ability_cards_set_c">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__SHARPSHOOTER_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__SHARPSHOOTER_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__SHARPSHOOTER_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_STRENGTH_IN_NUMBERS" category="DEFENSE" id="NET_PLAYER_ABILITY__STRENGTH_IN_NUMBERS" txd="ability_cards_set_d">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__STRENGTH_IN_NUMBERS_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__STRENGTH_IN_NUMBERS_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__STRENGTH_IN_NUMBERS_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_IRON_LUNG" category="RECOVERY" id="NET_PLAYER_ABILITY__IRON_LUNG" txd="ability_cards_set_b">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__IRON_LUNG_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__IRON_LUNG_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__IRON_LUNG_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_FRIENDS_FOR_LIFE" category="DEFENSE" id="NET_PLAYER_ABILITY__FRIENDS_FOR_LIFE" txd="ability_cards_set_d">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__FRIENDS_FOR_LIFE_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__FRIENDS_FOR_LIFE_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__FRIENDS_FOR_LIFE_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_FOOL_ME_ONCE" category="DEFENSE" id="NET_PLAYER_ABILITY__FOOL_ME_ONCE" txd="ability_cards_set_d">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__FOOL_ME_ONCE_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__FOOL_ME_ONCE_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__FOOL_ME_ONCE_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_RIDE_LIKE_THE_WIND" category="RECOVERY" id="NET_PLAYER_ABILITY__RIDE_LIKE_THE_WIND" txd="ability_cards_set_b">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__RIDE_LIKE_THE_WIND_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD__RIDE_LIKE_THE_WIND_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD__RIDE_LIKE_THE_WIND_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_GUNSLINGERS_CHOICE" category="COMBAT" id="NET_PLAYER_ABILITY__GUNSLINGERS_CHOICE" txd="ability_cards_set_c">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD_GUNSLINGERS_CHOICE_TIER_1" />
+        <tier id="1" UNK_7414182B="ABILITY_CARD_GUNSLINGERS_CHOICE_TIER_2" />
+        <tier id="2" UNK_7414182B="ABILITY_CARD_GUNSLINGERS_CHOICE_TIER_3" />
+      </UNK_9FA6FA9A>
+    </ability>
+    <ability card="ABILITY_CARD_PAINT_IT_BLACK" category="DEADEYE" id="NET_PLAYER_ABILITY__OVERRIDE_REVENGE_SLOW_TIME" override="true" txd="ability_cards_set_a">
+      <UNK_9FA6FA9A>
+        <tier id="0" UNK_7414182B="ABILITY_CARD__OVERRIDE_REVENGE_SLOW_TIME">
+          <UNK_3A06C547>
+            <flag active="true" id="TAGGING_ENABLED" />
+            <flag active="true" id="PERFECT_ACCURACY" />
+            <flag active="true" id="ALLOW_IN_MELEE" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_COVER" />
+            <flag active="true" id="CONT_DEADEYE_ON_RAGDOLL" />
+            <flag active="true" id="CONT_DEADEYE_ON_RELOAD" />
+            <flag active="true" id="CONT_DEADEYE_ON_SPRINTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_SHOOTING" />
+            <flag active="true" id="CONT_DEADEYE_ON_EXITING_AIM" />
+            <flag active="true" id="CONT_DEADEYE_ON_TAKING_DAMAGE" />
+          </UNK_3A06C547>
+        </tier>
+      </UNK_9FA6FA9A>
+    </ability>
+  </UNK_D6CBE97>
+</root>

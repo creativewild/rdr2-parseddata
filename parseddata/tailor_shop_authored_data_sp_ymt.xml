@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_1AF9B630 id="ST_TAILOR">
+    <region id="REGION_GRT_BLACKWATER">
+      <vector data="[-767.9513, -1294.627, 42.8348]" id="catClothingPos" />
+      <float data="250.1529" id="catClothingHeading" />
+      <vector data="[-765.8421, -1295.704, 44.2847]" id="catClothingCamPos" />
+      <vector data="[-11.685, 0.0, 74.2483]" id="catClothingCamRot" />
+      <int data="0" id="wardrobeLocationName" />
+      <vector data="[-766.549, -1293.269, 42.8356]" id="wardrobeTriggerPos" />
+      <float data="168.3994" id="wardrobeTriggerHeading" />
+      <vector data="[-767.9513, -1294.627, 42.8348]" id="wardrobeUsePos" />
+      <float data="250.1529" id="wardrobeUseHeading" />
+      <vector data="[-766.549, -1293.269, 42.8356]" id="wardrobeExitPos" />
+      <float data="348.3994" id="wardrobeExitHeading" />
+      <vector data="[-765.8421, -1295.704, 44.2847]" id="wardrobeCamPos" />
+      <vector data="[-11.685, 0.0, 74.2483]" id="wardrobeCamRot" />
+    </region>
+    <region id="REGION_BAY_SAINT_DENIS">
+      <vector data="[2555.5, -1161.0, 52.73]" id="catClothingPos" />
+      <float data="310.3705" id="catClothingHeading" />
+      <vector data="[2557.368, -1159.54, 53.8285]" id="catClothingCamPos" />
+      <vector data="[-3.3642, 0.0, 136.8694]" id="catClothingCamRot" />
+      <int data="0" id="wardrobeLocationName" />
+      <vector data="[2553.287, -1161.064, 52.6835]" id="wardrobeTriggerPos" />
+      <float data="269.6036" id="wardrobeTriggerHeading" />
+      <vector data="[2555.5, -1161.0, 52.73]" id="wardrobeUsePos" />
+      <float data="310.3705" id="wardrobeUseHeading" />
+      <vector data="[2553.285, -1161.101, 52.6835]" id="wardrobeExitPos" />
+      <float data="96.7028" id="wardrobeExitHeading" />
+      <vector data="[2557.368, -1159.54, 53.8285]" id="wardrobeCamPos" />
+      <vector data="[-3.3642, 0.0, 136.8694]" id="wardrobeCamRot" />
+    </region>
+  </UNK_1AF9B630>
+</root>

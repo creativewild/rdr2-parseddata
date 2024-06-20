@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <variants>
+    <variant id="COMPONENT_LONGARM_FRAME_ENGRAVING_BOLTACTION_BOUNTY">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_RIFLE_BOLTACTION_GRIP_BOUNTY" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_LONGARM_FRAME_ENGRAVING_BOLTACTION_BOUNTY" />
+      <component UNK_A3B8CC7D="false" id="2" item="COMPONENT_RIFLE_BOLTACTION_WRAP" />
+      <component UNK_A3B8CC7D="false" id="3" item="COMPONENT_RIFLE_BOLTACTION_WRAP2" />
+      <component UNK_A3B8CC7D="false" id="4" item="COMPONENT_RIFLE_BOLTACTION_WRAP3" />
+      <component UNK_A3B8CC7D="false" id="5" item="COMPONENT_RIFLE_BOLTACTION_WRAP4" />
+      <component UNK_A3B8CC7D="false" id="6" item="COMPONENT_RIFLE_BOLTACTION_WRAP5" />
+      <component UNK_A3B8CC7D="false" id="7" item="COMPONENT_RIFLE_BOLTACTION_WRAP6" />
+    </variant>
+    <variant id="COMPONENT_LONGARM_FRAME_ENGRAVING_WINCHESTER_COLLECTOR">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_REPEATER_WINCHESTER_GRIP_COLLECTOR" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_REPEATER_WINCHESTER_WRAP_COLLECTOR" />
+      <component UNK_A3B8CC7D="true" id="2" item="COMPONENT_LONGARM_FRAME_ENGRAVING_WINCHESTER_COLLECTOR" />
+    </variant>
+    <variant id="COMPONENT_LONGARM_ROLE_ENGRAVING_VARMINT_NATURALIST">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_RIFLE_VARMINT_GRIP_NATURALIST" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_RIFLE_VARMINT_CLIP_NATURALIST" />
+      <component UNK_A3B8CC7D="true" id="2" item="COMPONENT_RIFLE_VARMINT_SIGHT_NATURALIST" />
+      <component UNK_A3B8CC7D="true" id="3" item="COMPONENT_LONGARM_ROLE_ENGRAVING_VARMINT_NATURALIST" />
+      <component UNK_A3B8CC7D="false" id="4" item="COMPONENT_RIFLE_VARMINT_WRAP1" />
+      <component UNK_A3B8CC7D="false" id="5" item="COMPONENT_RIFLE_VARMINT_WRAP2" />
+      <component UNK_A3B8CC7D="false" id="6" item="COMPONENT_RIFLE_VARMINT_WRAP3" />
+      <component UNK_A3B8CC7D="false" id="7" item="COMPONENT_RIFLE_VARMINT_WRAP4" />
+      <component UNK_A3B8CC7D="false" id="8" item="COMPONENT_RIFLE_VARMINT_WRAP5" />
+      <component UNK_A3B8CC7D="false" id="9" item="COMPONENT_RIFLE_VARMINT_WRAP6" />
+    </variant>
+    <variant id="COMPONENT_LONGARM_ROLE_ENGRAVING_ROLLINGBLOCK_REAPER">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_SNIPERRIFLE_ROLLINGBLOCK_GRIP_REAPER" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_LONGARM_ROLE_ENGRAVING_ROLLINGBLOCK_REAPER" />
+      <component UNK_A3B8CC7D="false" id="2" item="COMPONENT_RIFLE_ROLLINGBLOCK_WRAP1" />
+      <component UNK_A3B8CC7D="false" id="3" item="COMPONENT_RIFLE_ROLLINGBLOCK_WRAP2" />
+      <component UNK_A3B8CC7D="false" id="4" item="COMPONENT_RIFLE_ROLLINGBLOCK_WRAP3" />
+      <component UNK_A3B8CC7D="false" id="5" item="COMPONENT_RIFLE_ROLLINGBLOCK_WRAP4" />
+      <component UNK_A3B8CC7D="false" id="6" item="COMPONENT_RIFLE_ROLLINGBLOCK_WRAP5" />
+    </variant>
+    <variant id="COMPONENT_LONGARM_ROLE_ENGRAVING_EVANS_WINTER">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_REPEATER_EVANS_GRIP_WINTER" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_REPEATER_EVANS_SIGHT_WINTER" />
+      <component UNK_A3B8CC7D="true" id="2" item="COMPONENT_REPEATER_EVANS_WRAP_WINTER" />
+      <component UNK_A3B8CC7D="true" id="3" item="COMPONENT_LONGARM_ROLE_ENGRAVING_EVANS_WINTER" />
+    </variant>
+    <variant id="COMPONENT_SHORTARM_FRAME_ENGRAVING_SCHOFIELD_BOUNTY">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_REVOLVER_SCHOFIELD_GRIP_BOUNTY" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_REVOLVER_SCHOFIELD_BARREL_BOUNTY" />
+      <component UNK_A3B8CC7D="true" id="2" item="COMPONENT_REVOLVER_SCHOFIELD_SIGHT_BOUNTY" />
+      <component UNK_A3B8CC7D="true" id="3" item="COMPONENT_SHORTARM_FRAME_ENGRAVING_SCHOFIELD_BOUNTY" />
+    </variant>
+    <variant id="COMPONENT_SHORTARM_FRAME_ENGRAVING_VOLCANIC_COLLECTOR">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_PISTOL_VOLCANIC_GRIP_COLLECTOR" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_PISTOL_VOLCANIC_BARREL_COLLECTOR" />
+      <component UNK_A3B8CC7D="true" id="2" item="COMPONENT_PISTOL_VOLCANIC_SIGHT_COLLECTOR" />
+      <component UNK_A3B8CC7D="true" id="3" item="COMPONENT_SHORTARM_FRAME_ENGRAVING_VOLCANIC_COLLECTOR" />
+    </variant>
+    <variant id="COMPONENT_SHORTARM_ROLE_ENGRAVING_LEMAT_BOUNTY">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_REVOLVER_LEMAT_BARREL_BOUNTY" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_REVOLVER_LEMAT_GRIP_BOUNTY" />
+      <component UNK_A3B8CC7D="true" id="2" item="COMPONENT_REVOLVER_LEMAT_SIGHT_BOUNTY" />
+      <component UNK_A3B8CC7D="true" id="3" item="COMPONENT_SHORTARM_ROLE_ENGRAVING_LEMAT_BOUNTY" />
+    </variant>
+    <variant id="COMPONENT_SHORTARM_ROLE_ENGRAVING_MAUSER_AZTEC">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_PISTOL_MAUSER_GRIP_AZTEC" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_PISTOL_MAUSER_BARREL_AZTEC" />
+      <component UNK_A3B8CC7D="true" id="2" item="COMPONENT_SHORTARM_ROLE_ENGRAVING_MAUSER_AZTEC" />
+    </variant>
+    <variant id="COMPONENT_SHORTARM_ROLE_ENGRAVING_CATTLEMAN_LEGENDARY">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_REVOLVER_CATTLEMAN_GRIP_LEGENDARY" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_REVOLVER_CATTLEMAN_BARREL_LEGENDARY" />
+      <component UNK_A3B8CC7D="true" id="2" item="COMPONENT_SHORTARM_ROLE_ENGRAVING_CATTLEMAN_LEGENDARY" />
+    </variant>
+    <variant id="COMPONENT_SHOTGUN_FRAME_ENGRAVING_PUMP_TRADER">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_SHOTGUN_PUMP_GRIP_TRADER" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_SHOTGUN_PUMP_CLIP_TRADER" />
+      <component UNK_A3B8CC7D="true" id="2" item="COMPONENT_SHOTGUN_FRAME_ENGRAVING_PUMP_TRADER" />
+      <component UNK_A3B8CC7D="false" id="0" item="COMPONENT_SHOTGUN_PUMP_WRAP1" />
+      <component UNK_A3B8CC7D="false" id="1" item="COMPONENT_SHOTGUN_PUMP_WRAP2" />
+      <component UNK_A3B8CC7D="false" id="2" item="COMPONENT_SHOTGUN_PUMP_WRAP3" />
+      <component UNK_A3B8CC7D="false" id="3" item="COMPONENT_SHOTGUN_PUMP_WRAP4" />
+      <component UNK_A3B8CC7D="false" id="4" item="COMPONENT_SHOTGUN_PUMP_WRAP5" />
+      <component UNK_A3B8CC7D="false" id="5" item="COMPONENT_SHOTGUN_PUMP_WRAP6" />
+    </variant>
+    <variant id="COMPONENT_LONGARM_ROLE_ENGRAVING_PUMP_HALLOWEEN">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_SHOTGUN_PUMP_GRIP_HALLOWEEN" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_SHOTGUN_PUMP_CLIP_HALLOWEEN" />
+      <component UNK_A3B8CC7D="true" id="2" item="COMPONENT_SHOTGUN_PUMP_BARREL_HALLOWEEN" />
+      <component UNK_A3B8CC7D="true" id="3" item="COMPONENT_LONGARM_ROLE_ENGRAVING_PUMP_HALLOWEEN" />
+      <component UNK_A3B8CC7D="false" id="4" item="COMPONENT_SHOTGUN_PUMP_WRAP1" />
+      <component UNK_A3B8CC7D="false" id="5" item="COMPONENT_SHOTGUN_PUMP_WRAP2" />
+      <component UNK_A3B8CC7D="false" id="6" item="COMPONENT_SHOTGUN_PUMP_WRAP3" />
+      <component UNK_A3B8CC7D="false" id="7" item="COMPONENT_SHOTGUN_PUMP_WRAP4" />
+      <component UNK_A3B8CC7D="false" id="8" item="COMPONENT_SHOTGUN_PUMP_WRAP5" />
+      <component UNK_A3B8CC7D="false" id="9" item="COMPONENT_SHOTGUN_PUMP_WRAP6" />
+    </variant>
+    <variant id="COMPONENT_LONGARM_ROLE_ENGRAVING_DOUBLEBARREL_KRAMPUS">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_SHOTGUN_DOUBLEBARREL_GRIP_KRAMPUS" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_SHOTGUN_DOUBLEBARREL_BARREL_KRAMPUS" />
+      <component UNK_A3B8CC7D="true" id="2" item="COMPONENT_LONGARM_ROLE_ENGRAVING_DOUBLEBARREL_KRAMPUS" />
+      <component UNK_A3B8CC7D="false" id="3" item="COMPONENT_SHOTGUN_DOUBLEBARREL_WRAP1" />
+      <component UNK_A3B8CC7D="false" id="4" item="COMPONENT_SHOTGUN_DOUBLEBARREL_WRAP2" />
+      <component UNK_A3B8CC7D="false" id="5" item="COMPONENT_SHOTGUN_DOUBLEBARREL_WRAP3" />
+      <component UNK_A3B8CC7D="false" id="6" item="COMPONENT_SHOTGUN_DOUBLEBARREL_WRAP4" />
+      <component UNK_A3B8CC7D="false" id="7" item="COMPONENT_SHOTGUN_DOUBLEBARREL_WRAP5" />
+      <component UNK_A3B8CC7D="false" id="8" item="COMPONENT_SHOTGUN_DOUBLEBARREL_WRAP6" />
+    </variant>
+    <variant id="COMPONENT_LONGARM_ROLE_ENGRAVING_SAWEDOFF_MOONSHINER">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_SHOTGUN_SAWEDOFF_GRIP_MOONSHINER" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_SHOTGUN_SAWED_SIGHT_MOONSHINER" />
+      <component UNK_A3B8CC7D="true" id="2" item="COMPONENT_LONGARM_ROLE_ENGRAVING_SAWEDOFF_MOONSHINER" />
+      <component UNK_A3B8CC7D="false" id="3" item="COMPONENT_SHOTGUN_SAWEDOFF_WRAP1" />
+      <component UNK_A3B8CC7D="false" id="4" item="COMPONENT_SHOTGUN_SAWEDOFF_WRAP2" />
+      <component UNK_A3B8CC7D="false" id="5" item="COMPONENT_SHOTGUN_SAWEDOFF_WRAP3" />
+      <component UNK_A3B8CC7D="false" id="6" item="COMPONENT_SHOTGUN_SAWEDOFF_WRAP4" />
+      <component UNK_A3B8CC7D="false" id="7" item="COMPONENT_SHOTGUN_SAWEDOFF_WRAP5" />
+    </variant>
+    <variant id="COMPONENT_BOW_ROLE_ENGRAVING_IMPROVED_ALLIGATOR">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_BOW_IMPROVED_GRIP_ALLIGATOR" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_BOW_ROLE_ENGRAVING_IMPROVED_ALLIGATOR" />
+    </variant>
+    <variant id="COMPONENT_BOW_ROLE_ENGRAVING_IMPROVED_HORNED">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_BOW_IMPROVED_GRIP_HORNED" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_BOW_ROLE_ENGRAVING_IMPROVED_HORNED" />
+    </variant>
+    <variant id="COMPONENT_BOW_ROLE_ENGRAVING_IMPROVED_JAGUAR">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_BOW_IMPROVED_GRIP_JAGUAR" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_BOW_ROLE_ENGRAVING_IMPROVED_JAGUAR" />
+    </variant>
+    <variant id="COMPONENT_BOW_ROLE_ENGRAVING_IMPROVED_WOODEN_INLAY">
+      <component UNK_A3B8CC7D="true" id="0" item="COMPONENT_BOW_IMPROVED_GRIP_WOODEN_INLAY" />
+      <component UNK_A3B8CC7D="true" id="1" item="COMPONENT_BOW_ROLE_ENGRAVING_IMPROVED_WOODEN_INLAY" />
+    </variant>
+  </variants>
+</root>

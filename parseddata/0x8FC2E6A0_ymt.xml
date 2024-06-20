@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4A1A2EA>
+    <camp name="SCM_0" pos="[1626.055, -1658.548, 56.10492]" zone="1">
+      <preset recipe="CFRT_RANCHER_LRG1" />
+    </camp>
+    <camp name="SCM_3" pos="[1394.134, -584.3384, 74.10042]" zone="2">
+      <preset recipe="CFRT_HERBALIST_MED1" />
+    </camp>
+    <camp name="SCM_4" pos="[923.0688, -566.3171, 89.0189]" zone="2">
+      <preset recipe="CFRT_GENERIC_LRG" />
+    </camp>
+    <camp name="SCM_5" pos="[921.17, -440.3918, 88.38271]" zone="1">
+      <preset recipe="CFRT_GENERIC_LRG_LIGHT" />
+    </camp>
+    <camp name="SCM_6" pos="[952.2379, -369.3737, 87.23822]" zone="1">
+      <preset recipe="CFRT_MINER_LRG1" />
+    </camp>
+    <camp camper="Rough" name="SCM_8" pos="[1470.638, -2146.619, 47.70845]" zone="1">
+      <preset cluster="pg_ambient_camp_add_debrisVeg01" core="pg_ambient_campfire01ax" id="SCM_8" tent="pg_ambcamp01x_tent_wagon_debris" travel="pg_ambient_camp_add_pack02" />
+    </camp>
+    <camp camper="Rough" name="SCM_9" pos="[1670.983, -1804.796, 52.07475]" zone="1">
+      <preset cluster="pg_ambient_camp_add_games01" core="pg_ambient_campfire01ax" id="SCM_9" tent="pg_ambcamp01x_tent_oilskin_lean01" travel="pg_ambient_camp_add_pack02" />
+    </camp>
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_bay_story_copperhead" name="SCM_10 STY-Copperhead" pos="[2038.507, -1639.98, 40.93686]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_2" story="CSH_COPPERHEAD_STORY" tint="CTSG_PUP_SWAMP_1" />
+    <camp base="HASH_PROPSET_1" UNK_D43B0E78="amb_camp_scm_story_murfee" name="SCM_11 STY-Murfree" pos="[729.6482, -1435.01, 48.36016]" story="CSH_MURFREE_STORY" />
+    <camp name="SCM_12" pos="[919.5746, -1327.29, 60.56889]" zone="2">
+      <preset recipe="CFRT_FOLIAGE_DECIDUOUS_LRG1" />
+    </camp>
+    <camp UNK_DA3CFFD1="true" name="SCM_13 Robbery" pos="[852.2303, -1221.726, 53.26948]" zone="1">
+      <preset recipe="CFRT_FANCY_MED2" />
+    </camp>
+    <camp name="SCM_14" pos="[749.083, -1102.881, 56.0517]" zone="2">
+      <preset recipe="CFRT_ROUGH_LRG1" />
+    </camp>
+    <camp name="SCM_15" pos="[852.2966, -1086.833, 57.03275]" zone="1">
+      <preset recipe="CFRT_HOBO_LRG1" />
+    </camp>
+    <camp name="SCM_16" pos="[703.065, -953.9896, 54.20256]" zone="1">
+      <preset recipe="CFRT_HOBO_LRG1" />
+    </camp>
+    <camp name="SCM_17" pos="[739.686, -894.792, 50.06968]" zone="2">
+      <preset recipe="CFRT_RANCHER_LRG1" />
+    </camp>
+    <camp name="SCM_18" pos="[698.0555, -801.6302, 48.64518]" zone="2">
+      <preset recipe="CFRT_HUNTER_MED1" />
+    </camp>
+    <camp name="SCM_19" pos="[744.9461, -805.8724, 54.31242]" zone="2">
+      <preset recipe="CFRT_GENERIC_LRG_BED" />
+    </camp>
+    <camp base="HASH_PROPSET_1_A" name="SCM_21 STY-BlackBelle" pos="[1679.453, -613.0103, 43.58567]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_25" story="CSH_BLACK_BELLE_STORY" UNK_7BF5E826="VegMod_STY_BlackBelle" />
+    <camp name="SCM_22" pos="[949.0311, -532.064, 86.19527]" zone="1">
+      <preset recipe="CFRT_GROUND_WET_LRG1" />
+    </camp>
+    <camp UNK_DA3CFFD1="true" name="SCM_23 Robbery" pos="[1808.82, -495.8035, 41.36158]" zone="1">
+      <preset recipe="CFRT_HERBALIST_LRG1" />
+    </camp>
+    <camp name="SCM_24" pos="[1610.838, -198.5922, 77.62068]" zone="1">
+      <preset recipe="CFRT_FOLIAGE_DECIDUOUS_LRG1" />
+    </camp>
+    <camp name="SCM_25" pos="[1083.14, -294.7145, 96.46477]" zone="1">
+      <preset recipe="CFRT_HOBO_MED1" />
+    </camp>
+    <camp name="SCM_26" pos="[1041.584, -399.3868, 90.18402]" zone="2">
+      <preset recipe="CFRT_DBL_HUNTER" />
+    </camp>
+  </UNK_B4A1A2EA>
+</root>

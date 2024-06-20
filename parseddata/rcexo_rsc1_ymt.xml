@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_55DB8A90>
+    <versions>
+      <version id="1.04" />
+    </versions>
+    <zones>
+      <zone UNK_71E6DE57="1" UNK_3940B253="false" UNK_35412499="false" UNK_B656FEB3="false" UNK_848B9EBE="false" UNK_6031B378="false" UNK_65F530C4="false" UNK_DF3CAE74="false" UNK_E17B2EE9="false" UNK_DEDEDA7E="false" UNK_C92DFDA="false" UNK_E73C69B1="0.0" UNK_D9D1CEDC="0.0" UNK_EFA67A81="0.0" UNK_88ACFA4E="4.0" UNK_D1CC2184="5.0" UNK_94DF8573="0.0" height="3.0" UNK_97B41572="0" index="0" UNK_C6CB964C="false" playlist="Multistart" UNK_7B5351BD="" UNK_B4A9F4D4="" UNK_9EA26942="0.0" UNK_70498C91="0.0" UNK_8DF6CE7B="false" x1="2587.721" x2="2.0" UNK_43F130B3="2587.721" UNK_7F247680="0.0" UNK_6DE3D3FF="50.0" UNK_8281CFBE="0.0" UNK_A0DF3421="43.2" UNK_6B79C957="110.0" UNK_3D66C993="43.2" />
+    </zones>
+    <scenes>
+      <scene UNK_4324D7B0="0" UNK_C45F9BF2="0" scenename="script@rcm@EXO@LEADIN@RSC1@leadin" UNK_5EA95DD1="false" />
+    </scenes>
+    <entities>
+      <entity UNK_C09EB2D9="false" UNK_552BFC3F="false" UNK_766694D3="0.0" UNK_C43F6820="false" UNK_C9B3C137="0" UNK_36291705="0" index="0" model="225514697" UNK_3809BF34="" weapon="0" />
+      <entity UNK_C09EB2D9="false" UNK_552BFC3F="false" UNK_766694D3="0.0" UNK_C43F6820="false" UNK_C9B3C137="0" UNK_36291705="0" index="1" model="1507038616" UNK_3809BF34="" weapon="0" />
+      <entity UNK_C09EB2D9="false" UNK_552BFC3F="false" UNK_766694D3="0.0" UNK_C43F6820="false" UNK_C9B3C137="0" UNK_36291705="0" index="2" model="1850987651" UNK_3809BF34="" weapon="0" />
+    </entities>
+    <cutscenes>
+      <cutscene cutname="RCEXO_RSC1" UNK_3FEFC338="MultiStart" />
+    </cutscenes>
+    <behaviours>
+      <behaviour animscene="0" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" UNK_83F039D8="1.0" index="0" UNK_DC71B730="false" UNK_77360A2F="0" UNK_69F7ED75="0" UNK_357E105B="0" loop="false" master="true" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_B276C570="false" what="13" when="2" who="0" zone="0" />
+    </behaviours>
+    <UNK_8D93FA2 text="" />
+    <cameras>
+      <camera UNK_C933A461="false" UNK_CD09389="true" UNK_52210C37="false" UNK_289D1FC2="false" UNK_A6BDB3BE="true" UNK_14427759="false" UNK_C0B599F8="0.0" UNK_A1FA2DD1="0.0" UNK_13A79B86="1" index="0" UNK_5DFF861C="default_leadin_camera" UNK_11686C3A="CAMERA_LEADIN_ILO_LOCK_ON_REQUEST" />
+    </cameras>
+  </UNK_55DB8A90>
+</root>

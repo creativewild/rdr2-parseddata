@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <regions>
+    <region>
+      <name text="REGION_BAY_SAINT_DENIS" />
+      <UNK_241AFC68 value="1.0" />
+      <UNK_D28CB9B9 value="1.55" />
+      <UNK_9B9925FF text="NEWBORDEAUX" />
+    </region>
+    <region>
+      <name text="REGION_BGV_STRAWBERRY" />
+      <UNK_241AFC68 value="1.0" />
+      <UNK_D28CB9B9 value="3.0" />
+      <UNK_9B9925FF text="STRAWBERRY" />
+    </region>
+    <region>
+      <name text="REGION_GRT_BLACKWATER" />
+      <UNK_241AFC68 value="1.0" />
+      <UNK_D28CB9B9 value="1.55" />
+      <UNK_9B9925FF text="BLACKWATER" />
+    </region>
+    <region>
+      <name text="REGION_GAP_TUMBLEWEED" />
+      <UNK_241AFC68 value="1.0" />
+      <UNK_D28CB9B9 value="2.0" />
+      <UNK_9B9925FF text="TUMBLEWEED" />
+    </region>
+    <region>
+      <name text="REGION_GUA_MANICATO" />
+      <UNK_241AFC68 value="1.0" />
+      <UNK_D28CB9B9 value="0.0" />
+      <UNK_9B9925FF text="DEFAULT" />
+    </region>
+    <region>
+      <name text="REGION_HRT_VALENTINE" />
+      <UNK_241AFC68 value="1.0" />
+      <UNK_D28CB9B9 value="3.0" />
+      <UNK_9B9925FF text="VALENTINE" />
+    </region>
+    <region>
+      <name text="REGION_ROA_ANNESBURG" />
+      <UNK_241AFC68 value="1.0" />
+      <UNK_D28CB9B9 value="0.0" />
+      <UNK_9B9925FF text="DEFAULT" />
+    </region>
+    <region>
+      <name text="REGION_ROA_VANHORNPOST" />
+      <UNK_241AFC68 value="1.0" />
+      <UNK_D28CB9B9 value="1.5" />
+      <UNK_9B9925FF text="VANHORN" />
+    </region>
+    <region>
+      <name text="REGION_SCM_RHODES" />
+      <UNK_241AFC68 value="1.0" />
+      <UNK_D28CB9B9 value="0.0" />
+      <UNK_9B9925FF text="RHODES" />
+    </region>
+  </regions>
+</root>

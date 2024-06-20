@@ -1,0 +1,1475 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <train_routes>
+    <UNK_8B495BBB>
+      <track name="TRAINS_INTERSECTION1_ANN">
+        <item>
+          <UNK_BF8468C5 name="JUNC_ANN1" position="[2940.86, 1374.45, 43.0859]" />
+        </item>
+      </track>
+      <track name="FREIGHT_GROUP">
+        <item>
+          <UNK_BF8468C5 name="JUNC_NBX" position="[2493.36, -1482.21, 45.1455]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_NBX_1_2" position="[2765.426, -1421.804, 44.995]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_NBX_1_2_MERGE" position="[2855.339, -1314.459, 44.9091]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_NBX_MERGE" position="[2861.719, -1307.032, 44.90522]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_TO_ANN_OR_ABE" position="[2659.782, -435.5804, 43.97608]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_ANNESBURG" position="[2875.04, 1201.41, 44.2277]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_ANNESBURG_2" position="[3031.41, 1480.921, 42.77056]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_BACCHUS" position="[610.2053, 1662.207, 186.5918]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_BACCHUS_2" position="[556.6404, 1726.071, 187.089]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_APPLESEED" position="[-1375.542, -137.2014, 99.87807]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_APPLESEED_2" position="[-1307.346, -291.3971, 99.91407]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_TO_RHD_OR_VAL" position="[-281.2, -319.7, 89.0]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_TO_APP_OR_VAL" position="[69.47677, -375.7084, 90.94578]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_FREIGHT_TO_NB1" position="[2588.54, -1482.19, 45.2241]" />
+        </item>
+      </track>
+      <track name="TRAINS_NB1">
+        <item>
+          <UNK_BF8468C5 name="JUNC_NBX_2" position="[2654.346, -1477.19, 45.04671]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_NBX_2_MERGE" position="[2748.558, -1434.11, 45.00003]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_SDN_MARKET" position="[2855.358, -1314.71, 45.20003]" />
+        </item>
+      </track>
+      <track name="TRAINS3">
+        <item>
+          <UNK_BF8468C5 name="JUNC_TO_APP_OR_RHD" position="[39.37809, -10.60542, 101.7918]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_CORNWALL" position="[358.1019, 596.1545, 114.9715]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_CORNWALL_2" position="[613.3156, 683.345, 114.5682]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_TO_ABE_OR_EML" position="[1483.209, 647.1526, 91.52025]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_TO_CKT_OR_EML" position="[1692.865, 544.3154, 98.6196]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_TO_CENTRAL_UNION" position="[1483.17, 647.116, 91.4573]" />
+        </item>
+      </track>
+      <track name="TRAINS_INTERSECTION2_3">
+        <item>
+          <UNK_BF8468C5 name="JUNC_TO_ABE_OR_CKT" position="[1529.585, 518.6091, 109.0415]" />
+        </item>
+      </track>
+      <track name="BRAITHWAITES2_TRACK_CONFIG">
+        <item>
+          <UNK_BF8468C5 name="JUNC_TO_RHD_OR_EMR" position="[2480.14, -1480.58, 44.8609]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_TO_ABE_OR_CKT" position="[1529.585, 518.6091, 109.0415]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_SDN_IND" position="[2464.65, -1475.73, 45.1415]" />
+        </item>
+      </track>
+      <track name="TRAINS_NB2">
+        <item>
+          <UNK_BF8468C5 name="JUNC_NBX_1_2_MERGE" position="[2855.339, -1314.459, 44.9091]" />
+        </item>
+      </track>
+      <track name="TRAINS_INTERSECTION3_COR">
+        <item>
+          <UNK_BF8468C5 name="JUNC_CORNWALL_2" position="[464.4556, 652.645, 114.6682]" />
+        </item>
+      </track>
+      <track name="TROLLEY3">
+        <item>
+          <UNK_BF8468C5 name="JUNC_NB_UPPER1" position="2600.56 -1137.48 50.4323" />
+        </item>
+      </track>
+      <track name="NB_TROLLEY_TRACK_CONFIG_TEMP">
+        <item>
+          <UNK_BF8468C5 name="JUNC_NB_UPPER2" position="[2608.456, -1254.674, 51.66554]" />
+        </item>
+      </track>
+      <track name="TROLLEY4">
+        <item>
+          <UNK_BF8468C5 name="JUNC_NB_INNER1" position="[2624.776, -1284.847, 51.34457]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_NB_INNER3" position="2709.0 -1151.07 49.4518" />
+        </item>
+      </track>
+      <track name="NB_TROLLEY_TRACK_CONFIG">
+        <item>
+          <UNK_BF8468C5 name="JUNC_NB_INNER2" position="2701.58 -1140.01 49.4393" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_NB_TROLLY1" position="[2774.8, -1350.44, 45.3054]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_NB_TROLLY2" position="[2720.86, -1390.53, 45.1754]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_NB_TROLLY3" position="[2621.12, -1295.28, 51.1928]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_NB_TROLLY4" position="2609.53 -1264.66 51.7187" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_NB_TROLLY5" position="[2608.72, -1153.3, 50.7375]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="JUNC_NB_TROLLY6" position="2608.46 -1254.66 51.6083" />
+        </item>
+      </track>
+      <track name="TRAINS_OLD_WEST01">
+        <item>
+          <UNK_BF8468C5 name="TRAINS_OLD_WEST_INTERSECTION01" position="[-2174.164, -2508.482, 64.79784]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="TRAINS_OLD_WEST01_TO_02" position="[-2175.864, -2533.982, 65.70784]" />
+        </item>
+      </track>
+      <track name="TRAINS_OLD_WEST02">
+        <item>
+          <UNK_BF8468C5 name="TRAINS_OLD_WEST_INTERSECTION01" position="[-2214.398, -2519.699, 64.72971]" />
+        </item>
+        <item>
+          <UNK_BF8468C5 name="TRAINS_OLD_WEST_INTERSECTION02" position="[-4848.854, -3086.51, -16.73606]" />
+        </item>
+      </track>
+      <track name="TRAINS_OLD_WEST03">
+        <item>
+          <UNK_BF8468C5 name="TRAINS_OLD_WEST_INTERSECTION02" position="[-4916.636, -3008.723, -19.346]" />
+        </item>
+      </track>
+    </UNK_8B495BBB>
+    <train name="AMBIENT_ANN_TRAIN_2">
+      <UNK_BF8468C5 name="JUNC_ANN1" switch="true" />
+    </train>
+    <train name="AMBIENT_TRAIN_PASSENGER_1">
+      <UNK_BF8468C5 name="JUNC_APPLESEED" switch="false" />
+      <UNK_BF8468C5 name="JUNC_APPLESEED_2" switch="false" />
+      <UNK_BF8468C5 name="JUNC_TO_RHD_OR_VAL" switch="false" />
+      <UNK_BF8468C5 name="JUNC_TO_APP_OR_VAL" switch="false" />
+      <UNK_BF8468C5 name="JUNC_TO_RHD_OR_EMR" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NBX" switch="false" />
+      <UNK_BF8468C5 name="JUNC_FREIGHT_TO_NB1" switch="true" />
+      <UNK_BF8468C5 name="JUNC_NBX_2" switch="true" />
+      <UNK_BF8468C5 name="JUNC_NBX_1_2_MERGE" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NBX_MERGE" switch="false" />
+      <UNK_BF8468C5 name="JUNC_TO_ANN_OR_ABE" switch="false" />
+      <UNK_BF8468C5 name="JUNC_ANNESBURG" switch="false" />
+      <UNK_BF8468C5 name="JUNC_ANNESBURG_2" switch="false" />
+      <UNK_BF8468C5 name="JUNC_BACCHUS" switch="false" />
+      <UNK_BF8468C5 name="JUNC_BACCHUS_2" switch="false" />
+    </train>
+    <train name="AMBIENT_TRAIN_PASSENGER_2">
+      <UNK_BF8468C5 name="JUNC_APPLESEED" switch="false" />
+      <UNK_BF8468C5 name="JUNC_APPLESEED_2" switch="false" />
+      <UNK_BF8468C5 name="JUNC_TO_RHD_OR_VAL" switch="true" />
+      <UNK_BF8468C5 name="JUNC_TO_APP_OR_RHD" switch="false" />
+      <UNK_BF8468C5 name="JUNC_CORNWALL" switch="true" />
+      <UNK_BF8468C5 name="JUNC_CORNWALL_2" switch="true" />
+      <UNK_BF8468C5 name="JUNC_TO_ABE_OR_EML" switch="true" />
+      <UNK_BF8468C5 name="JUNC_TO_ABE_OR_CKT" switch="true" />
+      <UNK_BF8468C5 name="JUNC_TO_RHD_OR_EMR" switch="false" />
+      <UNK_BF8468C5 name="JUNC_SDN_IND" switch="false" />
+      <UNK_BF8468C5 name="JUNC_FREIGHT_TO_NB1" switch="true" />
+      <UNK_BF8468C5 name="JUNC_NBX_2" switch="true" />
+      <UNK_BF8468C5 name="JUNC_NBX_1_2_MERGE" switch="true" />
+      <UNK_BF8468C5 name="JUNC_SDN_MARKET" switch="true" />
+      <UNK_BF8468C5 name="JUNC_TO_ANN_OR_ABE" switch="false" />
+      <UNK_BF8468C5 name="JUNC_ANNESBURG" switch="false" />
+      <UNK_BF8468C5 name="JUNC_ANNESBURG_2" switch="false" />
+      <UNK_BF8468C5 name="JUNC_BACCHUS" switch="false" />
+      <UNK_BF8468C5 name="JUNC_BACCHUS_2" switch="false" />
+    </train>
+    <train name="AMBIENT_TRAIN_FREIGHT_1">
+      <UNK_BF8468C5 name="JUNC_APPLESEED" switch="false" />
+      <UNK_BF8468C5 name="JUNC_APPLESEED_2" switch="false" />
+      <UNK_BF8468C5 name="JUNC_TO_RHD_OR_VAL" switch="false" />
+      <UNK_BF8468C5 name="JUNC_TO_APP_OR_VAL" switch="false" />
+      <UNK_BF8468C5 name="JUNC_TO_RHD_OR_EMR" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NBX" switch="false" />
+      <UNK_BF8468C5 name="JUNC_FREIGHT_TO_NB1" switch="true" />
+      <UNK_BF8468C5 name="JUNC_NBX_2" switch="true" />
+      <UNK_BF8468C5 name="JUNC_NBX_1_2_MERGE" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NBX_MERGE" switch="false" />
+      <UNK_BF8468C5 name="JUNC_TO_ANN_OR_ABE" switch="false" />
+      <UNK_BF8468C5 name="JUNC_ANNESBURG" switch="false" />
+      <UNK_BF8468C5 name="JUNC_ANNESBURG_2" switch="false" />
+      <UNK_BF8468C5 name="JUNC_BACCHUS" switch="false" />
+      <UNK_BF8468C5 name="JUNC_BACCHUS_2" switch="false" />
+    </train>
+    <train name="AMBIENT_TRAIN_FREIGHT_2">
+      <UNK_BF8468C5 name="JUNC_APPLESEED" switch="false" />
+      <UNK_BF8468C5 name="JUNC_APPLESEED_2" switch="false" />
+      <UNK_BF8468C5 name="JUNC_TO_RHD_OR_VAL" switch="true" />
+      <UNK_BF8468C5 name="JUNC_TO_APP_OR_RHD" switch="false" />
+      <UNK_BF8468C5 name="JUNC_CORNWALL" switch="true" />
+      <UNK_BF8468C5 name="JUNC_CORNWALL_2" switch="true" />
+      <UNK_BF8468C5 name="JUNC_TO_ABE_OR_EML" switch="true" />
+      <UNK_BF8468C5 name="JUNC_TO_ABE_OR_CKT" switch="true" />
+      <UNK_BF8468C5 name="JUNC_TO_RHD_OR_EMR" switch="false" />
+      <UNK_BF8468C5 name="JUNC_SDN_IND" switch="false" />
+      <UNK_BF8468C5 name="JUNC_FREIGHT_TO_NB1" switch="true" />
+      <UNK_BF8468C5 name="JUNC_NBX_2" switch="true" />
+      <UNK_BF8468C5 name="JUNC_NBX_1_2_MERGE" switch="true" />
+      <UNK_BF8468C5 name="JUNC_SDN_MARKET" switch="true" />
+      <UNK_BF8468C5 name="JUNC_TO_ANN_OR_ABE" switch="false" />
+      <UNK_BF8468C5 name="JUNC_ANNESBURG" switch="false" />
+      <UNK_BF8468C5 name="JUNC_ANNESBURG_2" switch="false" />
+      <UNK_BF8468C5 name="JUNC_BACCHUS" switch="false" />
+      <UNK_BF8468C5 name="JUNC_BACCHUS_2" switch="false" />
+    </train>
+    <train name="AMBIENT_NBX_TROLLEY_UPPER">
+      <UNK_BF8468C5 name="JUNC_NB_UPPER1" switch="true" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY5" switch="true" />
+    </train>
+    <train name="AMBIENT_NBX_TROLLEY">
+      <UNK_BF8468C5 name="JUNC_NB_INNER2" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY1" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY2" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY3" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY4" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY5" switch="false" />
+    </train>
+    <train name="AMBIENT_NBX_TROLLEY_1">
+      <UNK_BF8468C5 name="JUNC_NB_INNER2" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY1" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY2" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY3" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY4" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY5" switch="false" />
+    </train>
+    <train name="AMBIENT_NBX_TROLLEY_2">
+      <UNK_BF8468C5 name="JUNC_NB_INNER2" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY1" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY2" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY3" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY4" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY5" switch="false" />
+    </train>
+    <train name="AMBIENT_NBX_TROLLEY_INNER">
+      <UNK_BF8468C5 name="JUNC_NB_INNER2" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY1" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY2" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY3" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY4" switch="false" />
+      <UNK_BF8468C5 name="JUNC_NB_TROLLY5" switch="false" />
+    </train>
+    <train name="AMBIENT_OLD_MAP_TRAIN_1">
+      <UNK_BF8468C5 name="TRAINS_OLD_WEST_INTERSECTION01" switch="true" />
+      <UNK_BF8468C5 name="TRAINS_OLD_WEST01_TO_02" switch="true" />
+      <UNK_BF8468C5 name="TRAINS_OLD_WEST_INTERSECTION02" switch="true" />
+    </train>
+    <UNK_36DD0411>
+      <train name="AMBIENT_TRAIN_PASSENGER_1">
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[947.3101, -874.3, 67.1375]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="0" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[1185.91, -1270.5, 75.2375]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="1" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="true" position="[1307.31, -1382.5, 75.3375]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="2" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[1340.31, -1410.6, 75.1375]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="3" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[1570.65, -1580.75, 64.99199]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="4" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[1570.65, -1580.75, 64.99199]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="5" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2448.25, -1490.35, 44.99199]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="6" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2772.65, -1405.25, 45.2192]" track="TRAINS_NB1" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="7" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2825.239, 474.041, 56.003]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="8" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2825.239, 1077.841, 45.503]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="9" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2825.239, 1077.841, 45.503]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="10" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="true" position="[2978.22, 1344.3, 42.9411]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="11" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2312.839, 2000.641, 179.003]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="12" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[1787.18, 1805.832, 190.2841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="13" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[797.1799, 1596.432, 192.2841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="14" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-289.3799, 1593.432, 167.1841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="15" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1281.38, 472.132, 92.9841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="16" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1475.08, 276.932, 100.1841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="17" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1497.08, 40.63201, 103.5841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="18" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1314.14, -239.042, 100.096]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="19" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1244.05, -455.95, 95.7192]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="20" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="true" position="[-1062.33, -606.894, 77.5911]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="21" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-688.0, -526.204, 75.58511]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="22" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="true" position="[-322.992, -340.903, 87.2806]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="23" minute="0" />
+            </time>
+          </times>
+        </item>
+      </train>
+      <train name="AMBIENT_TRAIN_PASSENGER_2">
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1497.08, 40.63201, 103.5841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="0" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1314.15, -239.05, 100.1192]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="1" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1244.05, -455.95, 95.7192]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="2" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="true" position="[-1062.33, -606.894, 77.5911]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="3" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-688.0, -526.204, 75.58511]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="4" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="true" position="[-322.99, -340.904, 87.28511]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="5" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-200.72, 556.2001, 112.6411]" track="TRAINS3" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="6" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="true" position="[-136.92, 659.5001, 112.7411]" track="TRAINS3" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="7" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[765.52, 727.1, 113.1411]" track="TRAINS3" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="8" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[1446.62, 674.9, 91.3411]" track="TRAINS3" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="9" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="true" UNK_C79DAB7B="true" position="[1529.35, 396.362, 89.3841]" track="BRAITHWAITES2_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="10" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="true" UNK_C79DAB7B="false" position="[1464.21, -485.407, 72.6321]" track="BRAITHWAITES2_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="11" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="true" UNK_C79DAB7B="false" position="[2203.26, -1290.704, 43.11098]" track="BRAITHWAITES2_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="12" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2772.65, -1405.25, 45.2192]" track="TRAINS_NB1" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="13" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2825.239, 474.041, 56.003]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="14" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2825.239, 1077.841, 45.503]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="15" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2825.239, 1077.841, 45.503]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="16" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="true" position="[2978.239, 1344.341, 43.003]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="17" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2312.839, 2000.641, 179.003]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="18" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[1787.18, 1805.832, 190.2841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="19" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[797.1799, 1596.432, 192.2841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="20" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-289.3799, 1593.432, 167.1841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="21" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1281.38, 472.132, 92.9841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="22" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1475.08, 276.932, 100.1841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="23" minute="0" />
+            </time>
+          </times>
+        </item>
+      </train>
+      <train name="AMBIENT_TRAIN_FREIGHT_1">
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2312.839, 2000.641, 179.003]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="0" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[1787.18, 1805.832, 190.2841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="1" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[797.1799, 1596.432, 192.2841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="2" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-289.3799, 1593.432, 167.1841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="3" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1281.38, 472.132, 92.9841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="4" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1475.08, 276.932, 100.1841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="5" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1497.08, 40.63201, 103.5841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="6" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1314.14, -239.042, 100.096]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="7" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1244.05, -455.95, 95.7192]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="8" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="true" position="[-1062.33, -606.894, 77.5911]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="9" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-688.0, -526.204, 75.58511]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="10" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="true" position="[-322.992, -340.903, 87.2806]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="11" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[328.61, -490.8, 80.1375]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="12" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[947.3101, -874.3, 67.1375]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="13" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[1185.91, -1270.5, 75.2375]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="14" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="true" position="[1307.31, -1382.5, 75.3375]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="15" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[1340.31, -1410.6, 75.1375]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="16" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[1570.65, -1580.75, 64.99199]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="17" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2448.25, -1490.35, 44.99199]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="18" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2772.65, -1405.25, 45.2192]" track="TRAINS_NB1" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="19" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2825.239, 474.041, 56.003]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="20" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2825.239, 1077.841, 45.503]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="21" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2825.239, 1077.841, 45.503]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="22" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="true" position="[2978.22, 1344.3, 42.9411]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="23" minute="0" />
+            </time>
+          </times>
+        </item>
+      </train>
+      <train name="AMBIENT_TRAIN_FREIGHT_2">
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[1446.62, 674.9, 91.3411]" track="TRAINS3" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="0" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="true" UNK_C79DAB7B="true" position="[1529.35, 396.362, 89.3841]" track="BRAITHWAITES2_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="1" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="true" UNK_C79DAB7B="false" position="[1464.21, -485.407, 72.6321]" track="BRAITHWAITES2_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="2" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="true" UNK_C79DAB7B="false" position="[2203.26, -1290.704, 43.11098]" track="BRAITHWAITES2_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="3" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2772.65, -1405.25, 45.2192]" track="TRAINS_NB1" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="4" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2825.239, 474.041, 56.003]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="5" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2825.239, 474.041, 56.003]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="6" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2825.239, 1077.841, 45.503]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="7" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="true" position="[2978.239, 1344.341, 43.003]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="8" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[2312.839, 2000.641, 179.003]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="9" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[1787.18, 1805.832, 190.2841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="10" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[797.1799, 1596.432, 192.2841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="11" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-289.3799, 1593.432, 167.1841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="12" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1281.38, 472.132, 92.9841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="13" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1475.08, 276.932, 100.1841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="14" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1497.08, 40.63201, 103.5841]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="15" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1314.15, -239.05, 100.1192]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="16" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-1244.05, -455.95, 95.7192]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="17" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="true" position="[-1062.33, -606.894, 77.5911]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="18" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-688.0, -526.204, 75.58511]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="19" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="true" position="[-322.99, -340.904, 87.28511]" track="FREIGHT_GROUP" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="20" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[-200.72, 556.2001, 112.6411]" track="TRAINS3" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="21" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="true" position="[-136.92, 659.5001, 112.7411]" track="TRAINS3" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="22" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="false" UNK_C79DAB7B="false" position="[765.52, 727.1, 113.1411]" track="TRAINS3" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="23" minute="0" />
+            </time>
+          </times>
+        </item>
+      </train>
+      <train name="AMBIENT_NBX_TROLLEY_UPPER">
+        <item>
+          <station position="[2497.67, -1204.08, 48.062]" track="TROLLEY3" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="5" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="10" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="15" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="20" minute="10" />
+            </time>
+          </times>
+        </item>
+      </train>
+      <train name="AMBIENT_NBX_TROLLEY">
+        <item>
+          <station position="[2651.55, -1343.49, 48.0194]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="5" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="10" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="15" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="20" minute="10" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station position="[2609.99, -1266.77, 51.6705]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="6" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="11" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="16" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="21" minute="10" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station position="[2768.65, -1167.57, 47.4109]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="7" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="12" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="17" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="22" minute="10" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station position="[2794.51, -1325.6, 45.3033]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="8" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="13" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="18" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="23" minute="10" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station position="[2724.37, -1388.84, 45.1822]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="9" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="14" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="19" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="24" minute="10" />
+            </time>
+          </times>
+        </item>
+      </train>
+      <train name="AMBIENT_NBX_TROLLEY_1">
+        <item>
+          <station position="[2768.65, -1167.57, 47.4109]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="5" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="10" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="14" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="20" minute="10" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station position="[2794.51, -1325.6, 45.3033]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="6" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="11" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="15" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="21" minute="10" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station position="[2724.37, -1388.84, 45.1822]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="7" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="12" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="16" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="22" minute="10" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station position="[2651.55, -1343.49, 48.0194]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="8" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="13" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="18" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="23" minute="10" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station position="[2609.99, -1266.77, 51.6705]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="9" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="14" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="19" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="24" minute="10" />
+            </time>
+          </times>
+        </item>
+      </train>
+      <train name="AMBIENT_NBX_TROLLEY_2">
+        <item>
+          <station position="[2794.51, -1325.6, 45.3033]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="5" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="10" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="14" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="20" minute="10" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station position="[2724.37, -1388.84, 45.1822]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="6" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="11" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="15" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="21" minute="10" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station position="[2651.55, -1343.49, 48.0194]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="7" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="12" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="16" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="22" minute="10" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station position="[2609.99, -1266.77, 51.6705]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="8" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="13" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="17" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="23" minute="10" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station position="[2768.65, -1167.57, 47.4109]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="9" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="14" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="18" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="24" minute="10" />
+            </time>
+          </times>
+        </item>
+      </train>
+      <train name="AMBIENT_NBX_TROLLEY_INNER">
+        <item>
+          <station position="[2609.99, -1266.77, 51.6705]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="5" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="10" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="14" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="20" minute="10" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station position="[2768.65, -1167.57, 47.4109]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="6" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="11" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="15" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="21" minute="10" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station position="[2794.51, -1325.6, 45.3033]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="7" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="12" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="16" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="22" minute="10" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station position="[2724.37, -1388.84, 45.1822]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="8" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="13" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="17" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="23" minute="10" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station position="[2651.55, -1343.49, 48.0194]" track="NB_TROLLEY_TRACK_CONFIG" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="9" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="14" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="18" minute="10" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="24" minute="10" />
+            </time>
+          </times>
+        </item>
+      </train>
+      <train name="AMBIENT_OLD_MAP_TRAIN_1">
+        <item>
+          <station direction="true" UNK_C79DAB7B="true" position="[-2509.47, -2400.88, 59.4121]" track="TRAINS_OLD_WEST02" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="20" minute="0" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="8" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="true" UNK_C79DAB7B="true" position="[-3749.3, -2645.55, -14.7647]" track="TRAINS_OLD_WEST02" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="16" minute="0" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="4" minute="0" />
+            </time>
+          </times>
+        </item>
+        <item>
+          <station direction="true" UNK_C79DAB7B="true" position="[-5242.14, -3510.72, -22.0345]" track="TRAINS_OLD_WEST03" />
+          <times>
+            <time>
+              <UNK_1FCBC695 hour="12" minute="0" />
+            </time>
+            <time>
+              <UNK_1FCBC695 hour="0" minute="0" />
+            </time>
+          </times>
+        </item>
+      </train>
+    </UNK_36DD0411>
+  </train_routes>
+</root>

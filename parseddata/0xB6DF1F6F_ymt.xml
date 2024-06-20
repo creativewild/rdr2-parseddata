@@ -1,0 +1,2534 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_A324AF98>
+    <vignettes>
+      <vignette UNK_B3D82180="18" UNK_B322932A="14" name="VIG_AV_BUTCHER_BLEED_DEER" UNK_982A14D4="cv_amb_butcher_bleed_deer" size="1.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="14" name="VIG_AV_BUTCHER_HANG_CARCASS" UNK_982A14D4="cv_amb_butcher_hang_carcass" size="1.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="14" UNK_B322932A="9" name="VIG_AV_DOG_BED_JUMP_DOWN" UNK_982A14D4="cv_amb_dog_jump_bed" size="3.0" weight="1">
+        <companion hash="HASH_COMPANION_DOG" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="10" name="VIG_AV_DOG_JUMP_AND_LICK" UNK_982A14D4="cv_amb_dog_jump_and_lick" size="3.0" weight="1">
+        <companion hash="HASH_COMPANION_DOG" />
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="10" name="VIG_AV_DOG_PET_SITTING_FEMALE" UNK_982A14D4="cv_amb_dog_pet_sitting" size="3.0" weight="1">
+        <companion hash="HASH_COMPANION_DOG" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="10" name="VIG_AV_DOG_PET_SITTING_MALE" UNK_982A14D4="cv_amb_dog_pet_sitting" size="3.0" weight="1">
+        <companion hash="HASH_COMPANION_DOG" />
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="12" name="VIG_AV_DOG_LICK_TABLE" UNK_982A14D4="cv_amb_dog_lick_table" size="3.0" weight="1">
+        <companion hash="HASH_COMPANION_DOG" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="15" name="VIG_AV_DROP_RABBIT_TABLE" UNK_982A14D4="cv_amb_drop_rabbit_table" size="3.0" weight="1">
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="11" UNK_B322932A="9" name="VIG_AV_BUTCHER_FEED_DOG_P2" UNK_982A14D4="cv_amb_butcher_feed_dog" size="3.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_DOG" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="9" name="VIG_AV_DONATE_MALE" UNK_982A14D4="cv_amb_comp_donate" size="1.0" weight="1">
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="9" name="VIG_AV_DONATE_LOOK_MALE" UNK_982A14D4="cv_amb_comp_donate_look" size="1.0" weight="1">
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="18" name="VIG_AV_DRUNK_CAMPFIRE_D" UNK_982A14D4="cv_amb_drunk_campfire" size="3.0" weight="1">
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="12" UNK_B322932A="7" name="VIG_AV_FIRE_BLOW" UNK_982A14D4="cv_amb_fire_starter" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="12" UNK_B322932A="7" name="VIG_AV_FIRE_POKE" UNK_982A14D4="cv_amb_fire_starter" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="12" UNK_B322932A="7" name="VIG_AV_FIRE_START" UNK_982A14D4="cv_amb_fire_starter" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="17" UNK_B322932A="13" name="VIG_AV_JACK_LOOK_POT" UNK_982A14D4="cv_amb_jack_look_pot" size="1.0" weight="1">
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="VIG_AV_JACK_POKE_FIRE" UNK_982A14D4="cv_amb_jack_poke_fire" size="1.0" weight="1">
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="12" name="VIG_AV_LIGHT_SMOKE" UNK_982A14D4="cv_amb_light_smoke" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="12" name="VIG_AV_START_PHONOGRAPH" UNK_982A14D4="cv_amb_start_phonograph" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="VIG_AV_SORE_JOINTS_FEMALE" UNK_982A14D4="cv_amb_sore_joints" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="VIG_AV_SORE_JOINTS_MALE" UNK_982A14D4="cv_amb_sore_joints" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="15" name="VIG_AV_WHISPER_SIT" UNK_982A14D4="cv_amb_whisper_sit" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="VIG_AV_WHISPER_STAND" UNK_982A14D4="cv_amb_whisper_stand" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCABI_CNV_1" UNK_982A14D4="cv_cc_abi_01" size="10.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="8" name="CCABI_CNV_2" UNK_982A14D4="cv_cc_abi_02" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCABI_CNV_3" UNK_982A14D4="cv_cc_abi_03" size="7.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="9" name="CCABI_CNV_4" UNK_982A14D4="cv_cc_abi_04" size="10.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="8" name="CCABI_CNV_5" UNK_982A14D4="cv_cc_abi_05" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCABI_CNV_6" UNK_982A14D4="cv_cc_abi_06" size="10.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="12" name="CCABI_CNV_7" UNK_982A14D4="cv_cc_abi_07" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="14" UNK_B322932A="7" name="CCABI_CNV_8" UNK_982A14D4="cv_cc_abi_08" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCABI_CNV_9" UNK_982A14D4="cv_cc_abi_09" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCABI_CNV_10" UNK_982A14D4="cv_cc_abi_10" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="7" name="CCABI_CNV_11" UNK_982A14D4="cv_cc_abi_11" size="7.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCABI_CNV_12" UNK_982A14D4="cv_cc_abi_12" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="8" name="CCABI_CNV_13" UNK_982A14D4="cv_cc_abi_13" size="10.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCABI_CNV_14" UNK_982A14D4="cv_cc_abi_14" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="7" name="CCABI_CNV_15" UNK_982A14D4="cv_cc_abi_15" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="16" name="CCABI_CNV_16" UNK_982A14D4="cv_cc_abi_16" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="6" name="CCABI_CNV_17" UNK_982A14D4="cv_cc_abi_17" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="8" name="CCABI_CNV_19" UNK_982A14D4="cv_cc_abi_19" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="12" name="CCABI_CNV_20" UNK_982A14D4="cv_cc_abi_20" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCABI_CNV_21" UNK_982A14D4="cv_cc_abi_21" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCABI_CNV_23" UNK_982A14D4="cv_cc_abi_23" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="7" name="CCAM_CONF_CNV_1" UNK_982A14D4="cv_cc_am_cnf_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="7" name="CCAM_CONF_CNV_2" UNK_982A14D4="cv_cc_am_cnf_02" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="7" name="CCAM_CONF_CNV_3" UNK_982A14D4="cv_cc_am_cnf_03" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="7" name="CCAM_CONF_CNV_4" UNK_982A14D4="cv_cc_am_cnf_04" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="7" name="CCAM_CONF_CNV_5" UNK_982A14D4="cv_cc_am_cnf_05" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCAM_CLN_CNV_1" UNK_982A14D4="cv_cc_am_cln_shared" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCAM_CLN_CNV_2" UNK_982A14D4="cv_cc_am_cln_shared" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCAM_CLN_CNV_3" UNK_982A14D4="cv_cc_am_cln_shared" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="12" name="CCBLL_CNV_4" UNK_982A14D4="cv_cc_bll_04" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="12" name="CCBLL_CNV_5" UNK_982A14D4="cv_cc_bll_05" size="10.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="8" name="CCBLL_CNV_6" UNK_982A14D4="cv_cc_bll_06" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_LENNY" />
+      </vignette>
+      <vignette UNK_B3D82180="17" UNK_B322932A="10" name="CCBLL_CNV_8" UNK_982A14D4="cv_cc_bll_08" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_LENNY" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CCBLL_CNV_9" UNK_982A14D4="cv_cc_bll_09" size="10.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="22" name="CCBLL_CNV_10" UNK_982A14D4="cv_cc_bll_10" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCBLL_CNV_11" UNK_982A14D4="cv_cc_bll_11" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="12" name="CCBLL_CNV_13" UNK_982A14D4="cv_cc_bll_13" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_LENNY" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="8" name="CCBLL_CNV_14" UNK_982A14D4="cv_cc_bll_14" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="12" name="CCBLL_CNV_15" UNK_982A14D4="cv_cc_bll_15" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="19" UNK_B322932A="10" name="CCCHR_CNV_1" UNK_982A14D4="cv_cc_chr_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_CHARLES" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="19" UNK_B322932A="10" name="CCCHR_CNV_2" UNK_982A14D4="cv_cc_chr_02" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_CHARLES" />
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="16" name="CCCHR_CNV_3" UNK_982A14D4="cv_cc_chr_03" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_CHARLES" />
+        <companion hash="HASH_COMPANION_LENNY" />
+      </vignette>
+      <vignette UNK_B3D82180="19" UNK_B322932A="10" name="CCCHR_CNV_5" UNK_982A14D4="cv_cc_chr_05" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_CHARLES" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCDNA_CNV_1" UNK_982A14D4="cv_cc_dna_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCDNH_CNV_1" UNK_982A14D4="cv_cc_dnh_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCDNH_CNV_2" UNK_982A14D4="cv_cc_dnh_02" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCDNH_CNV_3" UNK_982A14D4="cv_cc_dnh_03" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCDNH_CNV_4" UNK_982A14D4="cv_cc_dnh_04" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="12" name="CCDNH_CNV_5" UNK_982A14D4="cv_cc_dnh_05" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="17" UNK_B322932A="10" name="CCDNH_CNV_6" UNK_982A14D4="cv_cc_dnh_06" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCDNH_CNV_7" UNK_982A14D4="cv_cc_dnh_07" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="6" name="CCDNH_CNV_8" UNK_982A14D4="cv_cc_dnh_08" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCDNH_CNV_9" UNK_982A14D4="cv_cc_dnh_09" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCDNH_CNV_10" UNK_982A14D4="cv_cc_dnh_10" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCDNH_CNV_11" UNK_982A14D4="cv_cc_dnh_11" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCDNH_CNV_12" UNK_982A14D4="cv_cc_dnh_12" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCDNJ_CNV_1" UNK_982A14D4="cv_cc_dnj_01" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="12" name="CCDNJ_CNV_2" UNK_982A14D4="cv_cc_dnj_02" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCDNJ_CNV_3" UNK_982A14D4="cv_cc_dnj_03" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="8" name="CCDNJ_CNV_4" UNK_982A14D4="cv_cc_dnj_04" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCDNJ_CNV_5" UNK_982A14D4="cv_cc_dnj_05" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCDNJ_CNV_6" UNK_982A14D4="cv_cc_dnj_06" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCDNJ_CNV_7" UNK_982A14D4="cv_cc_dnj_07" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCDNK_CNV_1" UNK_982A14D4="cv_cc_dnk_01" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="8" name="CCDNK_CNV_2" UNK_982A14D4="cv_cc_dnk_02" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCDNK_CNV_3" UNK_982A14D4="cv_cc_dnk_03" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCDNK_CNV_4" UNK_982A14D4="cv_cc_dnk_04" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="7" name="CCDNL_CNV_1" UNK_982A14D4="cv_cc_dnl_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_LENNY" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="7" name="CCDNL_CNV_2" UNK_982A14D4="cv_cc_dnl_02" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_LENNY" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCDNM_CNV_1" UNK_982A14D4="cv_cc_dnm_01" size="10.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_MOLLY_OSHEA" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCDNM_CNV_2" UNK_982A14D4="cv_cc_dnm_02" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_MOLLY_OSHEA" />
+      </vignette>
+      <vignette UNK_B3D82180="6" UNK_B322932A="22" name="CCDNM_CNV_3" UNK_982A14D4="cv_cc_dnm_03" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_MOLLY_OSHEA" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="8" name="CCDNV_CNV_2" UNK_982A14D4="cv_cc_dnv_02" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="6" name="CCDOG_CNV_1" UNK_982A14D4="cv_cc_dog_01" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="7" name="CCDOG_CNV_4" UNK_982A14D4="cv_cc_dog_04" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DOG" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCDOG_CNV_5" UNK_982A14D4="cv_cc_dog_05" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DOG" />
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCDOG_CNV_6" UNK_982A14D4="cv_cc_dog_06" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="17" UNK_B322932A="8" name="CCDOG_CNV_8" UNK_982A14D4="cv_cc_dog_08" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="8" name="CCDTC_CNV_3" UNK_982A14D4="cv_cc_dtc_03" size="6.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="14" UNK_B322932A="9" name="CCDTC_CNV_4" UNK_982A14D4="cv_cc_dtc_04" size="10.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="7" name="CCDTC_CNV_6" UNK_982A14D4="cv_cc_dtc_shared" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="7" name="CCDTC_CNV_7" UNK_982A14D4="cv_cc_dtc_shared" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="7" name="CCDTC_CNV_8" UNK_982A14D4="cv_cc_dtc_shared" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="19" name="CCDTC_CNV_10" UNK_982A14D4="cv_cc_dtc_10" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="7" name="CCDTC_CNV_11" UNK_982A14D4="cv_cc_dtc_shared" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="7" name="CCDTC_CNV_12" UNK_982A14D4="cv_cc_dtc_shared" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="7" name="CCDTC_CNV_13" UNK_982A14D4="cv_cc_dtc_shared" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="7" name="CCDTC_CNV_14" UNK_982A14D4="cv_cc_dtc_14" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="7" name="CCDTC_CNV_15" UNK_982A14D4="cv_cc_dtc_15" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="7" name="CCDTC_CNV_17" UNK_982A14D4="cv_cc_dtc_17" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCDTC_CNV_18" UNK_982A14D4="cv_cc_dtc_18" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="8" name="CCDTC_CNV_19" UNK_982A14D4="cv_cc_dtc_19" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="7" name="CCDTC_CNV_20" UNK_982A14D4="cv_cc_dtc_shared" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="9" name="CCDTC_CNV_21" UNK_982A14D4="cv_cc_dtc_21" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCDTC_CNV_22" UNK_982A14D4="cv_cc_dtc_22" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_MOLLY_OSHEA" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCDTC_CNV_23" UNK_982A14D4="cv_cc_dtc_23" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_JOHN" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCDTC_CNV_24" UNK_982A14D4="cv_cc_dtc_24" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCDTC_CNV_25" UNK_982A14D4="cv_cc_dtc_25" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="14" UNK_B322932A="11" name="CCDTC_CNV_28" UNK_982A14D4="cv_cc_dtc_28" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCDTC_CNV_29" UNK_982A14D4="cv_cc_dtc_29" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="15" name="CCDTC_CNV_30" UNK_982A14D4="cv_cc_dtc_30" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="8" name="CCDTC_CNV_31" UNK_982A14D4="cv_cc_dtc_31" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="17" name="CCDTC_CNV_32" UNK_982A14D4="cv_cc_dtc_32" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_MOLLY_OSHEA" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="17" name="CCDTC_CNV_33" UNK_982A14D4="cv_cc_dtc_33" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCDTC_CNV_34" UNK_982A14D4="cv_cc_dtc_34" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCHSH_CNV_1" UNK_982A14D4="cv_cc_hsh_01" size="8.0" weight="1">
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCHSH_CNV_3" UNK_982A14D4="cv_cc_hsh_03" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCHSH_CNV_4" UNK_982A14D4="cv_cc_hsh_04" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCHSH_CNV_6" UNK_982A14D4="cv_cc_hsh_06" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="7" name="CCHSH_CNV_7" UNK_982A14D4="cv_cc_hsh_07" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="18" name="CCHSH_CNV_8" UNK_982A14D4="cv_cc_hsh_08" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_JOHN" />
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCHSH_CNV_9" UNK_982A14D4="cv_cc_hsh_09" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCHSH_CNV_11" UNK_982A14D4="cv_cc_hsh_11" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCHSH_CNV_12" UNK_982A14D4="cv_cc_hsh_12" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCHSH_CNV_13" UNK_982A14D4="cv_cc_hsh_13" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCHSH_CNV_14" UNK_982A14D4="cv_cc_hsh_14" size="0.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCHSH_CNV_15" UNK_982A14D4="cv_cc_hsh_15" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_LENNY" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCHSH_CNV_16" UNK_982A14D4="cv_cc_hsh_16" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCHSH_CNV_17" UNK_982A14D4="cv_cc_hsh_17" size="10.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCHSH_CNV_18" UNK_982A14D4="cv_cc_hsh_18" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCHSH_CNV_19" UNK_982A14D4="cv_cc_hsh_19" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCJAV_CNV_1" UNK_982A14D4="cv_cc_jav_01" size="10.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCJAV_CNV_2" UNK_982A14D4="cv_cc_jav_02" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="18" name="CCJAV_CNV_3" UNK_982A14D4="cv_cc_jav_03" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCJAV_CNV_4" UNK_982A14D4="cv_cc_jav_04" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="10" UNK_B322932A="7" name="CCJAV_CNV_5" UNK_982A14D4="cv_cc_jav_05" size="8.0" weight="1">
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCJAV_CNV_7" UNK_982A14D4="cv_cc_jav_07" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCJAV_CNV_8" UNK_982A14D4="cv_cc_jav_08" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCJAV_CNV_9" UNK_982A14D4="cv_cc_jav_09" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="12" name="CCJAV_CNV_10" UNK_982A14D4="cv_cc_jav_10" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="14" UNK_B322932A="8" name="CCJAV_CNV_11" UNK_982A14D4="cv_cc_jav_11" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="17" UNK_B322932A="9" name="CCJCK_CNV_1" UNK_982A14D4="cv_cc_jck_01" size="7.0" weight="2">
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCJCK_CNV_2" UNK_982A14D4="cv_cc_jck_02" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCJCK_CNV_3" UNK_982A14D4="cv_cc_jck_03" size="4.0" weight="2">
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_JOHN" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCJCK_CNV_4" UNK_982A14D4="cv_cc_jck_04" size="4.0" weight="2">
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCJCK_CNV_5" UNK_982A14D4="cv_cc_jck_05" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="22" name="CCJCK_PAR_CNV1" UNK_982A14D4="cv_cc_jck_par_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_JOHN" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_LENNY" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="4" UNK_B322932A="22" name="CCJHN_CNV_1" UNK_982A14D4="cv_cc_jhn_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_JOHN" />
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCJHN_CNV_2" UNK_982A14D4="cv_cc_jhn_02" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="16" name="CCJHN_CNV_3" UNK_982A14D4="cv_cc_jhn_03" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_JOHN" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="14" UNK_B322932A="9" name="CCJHN_CNV_4" UNK_982A14D4="cv_cc_jhn_04" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_JOHN" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="14" UNK_B322932A="9" name="CCJHN_CNV_5" UNK_982A14D4="cv_cc_jhn_05" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_JOHN" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="16" name="CCJHN_CNV_6" UNK_982A14D4="cv_cc_jhn_06" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_JOHN" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCJHN_CNV_7" UNK_982A14D4="cv_cc_jhn_07" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_JOHN" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCJHN_CNV_9" UNK_982A14D4="cv_cc_jhn_09" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_JOHN" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="14" UNK_B322932A="10" name="CCJHN_CNV_10" UNK_982A14D4="cv_cc_jhn_10" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_JOHN" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCJHN_CNV_8" UNK_982A14D4="cv_cc_jhn_08" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_JOHN" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCKAR_CNV_1" UNK_982A14D4="cv_cc_kar_01" size="7.0" weight="2">
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_TILLY" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCKAR_CNV_2" UNK_982A14D4="cv_cc_kar_02" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="16" name="CCKAR_CNV_3" UNK_982A14D4="cv_cc_kar_03" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCKAR_CNV_4" UNK_982A14D4="cv_cc_kar_04" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCKAR_CNV_5" UNK_982A14D4="cv_cc_kar_05" size="10.0" weight="2">
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="16" name="CCKAR_CNV_6" UNK_982A14D4="cv_cc_kar_06" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="9" name="CCKAR_CNV_7" UNK_982A14D4="cv_cc_kar_07" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="16" name="CCKAR_CNV_8" UNK_982A14D4="cv_cc_kar_08" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="16" name="CCKAR_CNV_9" UNK_982A14D4="cv_cc_kar_09" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="8" name="CCKAR_CNV_10" UNK_982A14D4="cv_cc_kar_10" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="8" name="CCKAR_CNV_11" UNK_982A14D4="cv_cc_kar_11" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="8" name="CCKAR_CNV_12" UNK_982A14D4="cv_cc_kar_12" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCKAR_CNV_13" UNK_982A14D4="cv_cc_kar_13" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="6" UNK_B322932A="22" name="CCKAR_PAR_CNV2" UNK_982A14D4="cv_cc_kar_par_02" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="6" UNK_B322932A="22" name="CCKAR_PAR_CNV3" UNK_982A14D4="cv_cc_kar_par_03" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="7" name="CCKIE_CNV_1" UNK_982A14D4="cv_cc_kie_01" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="6" name="CCKIE_CNV_4" UNK_982A14D4="cv_cc_kie_04" size="1.0" weight="1">
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="6" name="CCKIE_CNV_5" UNK_982A14D4="cv_cc_kie_05" size="1.0" weight="1">
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="22" name="CCKIE_CNV_7" UNK_982A14D4="cv_cc_kie_07" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+        <companion hash="HASH_COMPANION_SADIE_ADLER" />
+      </vignette>
+      <vignette UNK_B3D82180="14" UNK_B322932A="6" name="CCKIE_CNV_8" UNK_982A14D4="cv_cc_kie_08" size="3.0" weight="1">
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+      </vignette>
+      <vignette UNK_B3D82180="14" UNK_B322932A="6" name="CCKIE_CNV_9" UNK_982A14D4="cv_cc_kie_09" size="3.0" weight="1">
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="21" name="CCKIE_CNV_10" UNK_982A14D4="cv_cc_kie_10" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCKIE_CNV_11" UNK_982A14D4="cv_cc_kie_11" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="9" name="CCKIE_CNV_12" UNK_982A14D4="cv_cc_kie_12" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="9" name="CCKIE_CNV_13" UNK_982A14D4="cv_cc_kie_13" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="9" name="CCKIE_CNV_14" UNK_982A14D4="cv_cc_kie_14" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="13" name="CCKIE_CNV_15" UNK_982A14D4="cv_cc_kie_15" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="16" name="CCLEN_CNV_1" UNK_982A14D4="cv_cc_len_01" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_LENNY" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="8" name="CCLEN_CNV_2" UNK_982A14D4="cv_cc_len_02" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_LENNY" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="8" name="CCLEN_CNV_3" UNK_982A14D4="cv_cc_len_03" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_LENNY" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCLEN_CNV_4" UNK_982A14D4="cv_cc_len_04" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_LENNY" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCLEN_CNV_5" UNK_982A14D4="cv_cc_len_05" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_LENNY" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="16" name="CCLEN_CNV_6" UNK_982A14D4="cv_cc_len_06" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_LENNY" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="16" name="CCLEN_CNV_7" UNK_982A14D4="cv_cc_len_07" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_LENNY" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCLEN_CNV_8" UNK_982A14D4="cv_cc_len_08" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_LENNY" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="16" name="CCLNSNM_CNV_1" UNK_982A14D4="cv_cc_lnsnm_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_LENNY" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="10" name="CCMCH_CNV_2" UNK_982A14D4="cv_cc_mch_02" size="3.0" weight="1">
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="10" name="CCMCH_CNV_3" UNK_982A14D4="cv_cc_mch_03" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="12" name="CCMCH_CNV_5" UNK_982A14D4="cv_cc_mch_05" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="19" name="CCMCH_CNV_6" UNK_982A14D4="cv_cc_mch_06" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="CCMCH_CNV_7" UNK_982A14D4="cv_cc_mch_07" size="7.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCMCH_CNV_8" UNK_982A14D4="cv_cc_mch_08" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCMCH_CNV_10" UNK_982A14D4="cv_cc_mch_10" size="7.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCMCH_CNV_11" UNK_982A14D4="cv_cc_mch_11" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCMCH_CNV_12" UNK_982A14D4="cv_cc_mch_12" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="1" UNK_B322932A="18" name="CCMCH_CNV_13" UNK_982A14D4="cv_cc_mch_13" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCMCH_CNV_15" UNK_982A14D4="cv_cc_mch_15" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCMCH_CNV_16" UNK_982A14D4="cv_cc_mch_16" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_LENNY" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="21" name="CCMCH_CNV_17" UNK_982A14D4="cv_cc_mch_17" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCMCH_CNV_18" UNK_982A14D4="cv_cc_mch_18" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCMCH_CNV_19" UNK_982A14D4="cv_cc_mch_19" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCMCH_CNV_20" UNK_982A14D4="cv_cc_mch_20" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCMCH_CNV_21" UNK_982A14D4="cv_cc_mch_21" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="10" UNK_B322932A="7" name="CCMCH_CNV_22" UNK_982A14D4="cv_cc_mch_22" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCMCH_CNV_24" UNK_982A14D4="cv_cc_mch_24" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="16" name="CCMCH_CNV_25" UNK_982A14D4="cv_cc_mch_25" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCMCH_CNV_26" UNK_982A14D4="cv_cc_mch_26" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCMCH_CNV_27" UNK_982A14D4="cv_cc_mch_27" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCMCH_CNV_28" UNK_982A14D4="cv_cc_mch_28" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="15" name="CCMCH_CNV_29" UNK_982A14D4="cv_cc_mch_29" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="18" name="CCMCH_CNV_30" UNK_982A14D4="cv_cc_mch_30" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="9" name="CCMCH_CNV_31" UNK_982A14D4="cv_cc_mch_31" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCMCH_CNV_32" UNK_982A14D4="cv_cc_mch_32" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="21" UNK_B322932A="17" name="CCMCH_CNV_33" UNK_982A14D4="cv_cc_mch_33" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCMLL_CNV_1" UNK_982A14D4="cv_cc_mll_01" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_MOLLY_OSHEA" />
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="17" UNK_B322932A="9" name="CCMLL_CNV_2" UNK_982A14D4="cv_cc_mll_02" size="10.0" weight="2">
+        <companion hash="HASH_COMPANION_MOLLY_OSHEA" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="12" name="CCMLL_CNV_3" UNK_982A14D4="cv_cc_mll_03" size="7.0" weight="2">
+        <companion hash="HASH_COMPANION_MOLLY_OSHEA" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="12" name="CCMLL_CNV_4" UNK_982A14D4="cv_cc_mll_04" size="7.0" weight="2">
+        <companion hash="HASH_COMPANION_MOLLY_OSHEA" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="9" name="CCMLL_CNV_5" UNK_982A14D4="cv_cc_mll_05" size="7.0" weight="2">
+        <companion hash="HASH_COMPANION_MOLLY_OSHEA" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="9" name="CCMLL_CNV_6" UNK_982A14D4="cv_cc_mll_06" size="7.0" weight="2">
+        <companion hash="HASH_COMPANION_MOLLY_OSHEA" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCMLL_CNV_7" UNK_982A14D4="cv_cc_mll_07" size="7.0" weight="2">
+        <companion hash="HASH_COMPANION_MOLLY_OSHEA" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="11" name="CCMLL_CNV_8" UNK_982A14D4="cv_cc_mll_08" size="7.0" weight="2">
+        <companion hash="HASH_COMPANION_MOLLY_OSHEA" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCMLL_CNV_9" UNK_982A14D4="cv_cc_mll_09" size="7.0" weight="2">
+        <tag name="VIG_TAG_CAMP_SPECIFIC" />
+        <companion hash="HASH_COMPANION_MOLLY_OSHEA" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="6" name="CCMRB_CNV_1" UNK_982A14D4="cv_cc_mrb_01" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="6" name="CCMRB_CNV_2" UNK_982A14D4="cv_cc_mrb_02" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="12" UNK_B322932A="10" name="CCMRB_CNV_3" UNK_982A14D4="cv_cc_mrb_03" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCMRB_CNV_4" UNK_982A14D4="cv_cc_mrb_04" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="6" name="CCMRB_CNV_5" UNK_982A14D4="cv_cc_mrb_05" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_SADIE_ADLER" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCMRB_CNV_6" UNK_982A14D4="cv_cc_mrb_06" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCMRB_CNV_7" UNK_982A14D4="cv_cc_mrb_07" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCMRB_CNV_8" UNK_982A14D4="cv_cc_mrb_08" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCMRB_CNV_9" UNK_982A14D4="cv_cc_mrb_09" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="9" name="CCMRB_CNV_10" UNK_982A14D4="cv_cc_mrb_10" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="9" name="CCMRB_CNV_11" UNK_982A14D4="cv_cc_mrb_11" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="9" name="CCMRB_CNV_12" UNK_982A14D4="cv_cc_mrb_12" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="12" UNK_B322932A="9" name="CCPRS_CNV_1" UNK_982A14D4="cv_cc_prs_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="12" UNK_B322932A="9" name="CCPRS_CNV_2" UNK_982A14D4="cv_cc_prs_02" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="12" UNK_B322932A="9" name="CCPRS_CNV_3" UNK_982A14D4="cv_cc_prs_03" size="6.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="12" UNK_B322932A="9" name="CCPRS_CNV_4" UNK_982A14D4="cv_cc_prs_04" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="12" UNK_B322932A="9" name="CCPRS_CNV_5" UNK_982A14D4="cv_cc_prs_05" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="17" UNK_B322932A="16" name="CCPRS_CNV_7" UNK_982A14D4="cv_cc_prs_callover" size="1.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="17" UNK_B322932A="16" name="CCPRS_CNV_8" UNK_982A14D4="cv_cc_prs_callover" size="1.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="17" UNK_B322932A="16" name="CCPRS_CNV_9" UNK_982A14D4="cv_cc_prs_callover" size="1.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="17" UNK_B322932A="16" name="CCPRS_CNV_10" UNK_982A14D4="cv_cc_prs_callover" size="1.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="17" UNK_B322932A="16" name="CCPRS_CNV_11" UNK_982A14D4="cv_cc_prs_callover" size="1.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="17" UNK_B322932A="16" name="CCPRS_CNV_12" UNK_982A14D4="cv_cc_prs_callover" size="1.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="12" UNK_B322932A="9" name="CCPRS_CNV_13" UNK_982A14D4="cv_cc_prs_13" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="9" name="CCPRS_CNV_14" UNK_982A14D4="cv_cc_prs_14" size="7.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="12" UNK_B322932A="8" name="CCPRS_CNV_15" UNK_982A14D4="cv_cc_prs_15" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="12" UNK_B322932A="9" name="CCPRS_CNV_16" UNK_982A14D4="cv_cc_prs_16" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="9" name="CCPRS_CNV_17" UNK_982A14D4="cv_cc_prs_17" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="5" UNK_B322932A="20" name="CCPRS_PAR_CNV1" UNK_982A14D4="cv_cc_prs_par_01" size="1.0" weight="2">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCSAD_CNV_1" UNK_982A14D4="cv_cc_sad_01" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_SADIE_ADLER" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="9" name="CCSAD_CNV_2" UNK_982A14D4="cv_cc_sad_02" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_SADIE_ADLER" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="9" name="CCSAD_CNV_3" UNK_982A14D4="cv_cc_sad_03" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_SADIE_ADLER" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="21" name="CCSEN_CNV_1" UNK_982A14D4="cv_cc_sen_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_LENNY" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="16" name="CCSEN_CNV_2" UNK_982A14D4="cv_cc_sen_02" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="21" name="CCSEN_CNV_3" UNK_982A14D4="cv_cc_sen_03" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_LENNY" />
+      </vignette>
+      <vignette UNK_B3D82180="17" UNK_B322932A="9" name="CCSEN_CNV_4" UNK_982A14D4="cv_cc_sen_04" size="3.0" weight="1">
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="9" name="CCSEN_CNV_5" UNK_982A14D4="cv_cc_sen_05" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="9" name="CCSEN_CNV_6" UNK_982A14D4="cv_cc_sen_06" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCSEN_CNV_7" UNK_982A14D4="cv_cc_sen_07" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="8" name="CCSEN_CNV_8" UNK_982A14D4="cv_cc_sen_08" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCSEN_CNV_9" UNK_982A14D4="cv_cc_sen_09" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="13" name="CCSEN_CNV_10" UNK_982A14D4="cv_cc_sen_10" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="9" name="CCSEN_CNV_11" UNK_982A14D4="cv_cc_sen_11" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCSEN_CNV_12" UNK_982A14D4="cv_cc_sen_12" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_LENNY" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="11" name="CCSEN_CNV_13" UNK_982A14D4="cv_cc_sen_13" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_LENNY" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCSEN_CNV_14" UNK_982A14D4="cv_cc_sen_14" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="1" UNK_B322932A="19" name="CCSEN_CNV_15" UNK_982A14D4="cv_cc_sen_15" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="17" UNK_B322932A="9" name="CCSEN_CNV_16" UNK_982A14D4="cv_cc_sen_16" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCSEN_CNV_17" UNK_982A14D4="cv_cc_sen_17" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="22" name="CCSNK_PAR_CNV1" UNK_982A14D4="cv_cc_snk_par_01" size="0.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="4" UNK_B322932A="22" name="CCSNK_PAR_CNV2" UNK_982A14D4="cv_cc_snk_par_02" size="7.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="12" UNK_B322932A="7" name="CCSNK_PAR_CNV3" UNK_982A14D4="cv_cc_snk_par_03" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="8" name="CCSSN_CNV_1" UNK_982A14D4="cv_cc_ssn_01" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCSSN_CNV_2" UNK_982A14D4="cv_cc_ssn_02" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCSSN_CNV_3" UNK_982A14D4="cv_cc_ssn_03" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCSSN_CNV_4" UNK_982A14D4="cv_cc_ssn_04" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="14" UNK_B322932A="9" name="CCSSN_CNV_5" UNK_982A14D4="cv_cc_ssn_05" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="CCSSN_CNV_7" UNK_982A14D4="cv_cc_ssn_07" size="4.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="7" name="CCSSN_CNV_8" UNK_982A14D4="cv_cc_ssn_08" size="4.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="7" name="CCSSN_CNV_10" UNK_982A14D4="cv_cc_ssn_10" size="10.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="7" name="CCSSN_CNV_11" UNK_982A14D4="cv_cc_ssn_11" size="4.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_STRAUSS" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="7" name="CCSSN_CNV_12" UNK_982A14D4="cv_cc_ssn_12" size="4.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="7" name="CCSSN_CNV_13" UNK_982A14D4="cv_cc_ssn_13" size="4.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="7" name="CCSSN_CNV_14" UNK_982A14D4="cv_cc_ssn_14" size="12.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="8" name="CCSSN_CNV_16" UNK_982A14D4="cv_cc_ssn_16" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="CCSSNUNC_CNV_1" UNK_982A14D4="cv_cc_ssnunc_01" size="4.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="21" UNK_B322932A="17" name="CCSTR_CNV_2" UNK_982A14D4="cv_cc_str_02" size="10.0" weight="2">
+        <companion hash="HASH_COMPANION_STRAUSS" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="17" name="CCSTR_CNV_3" UNK_982A14D4="cv_cc_str_03" size="10.0" weight="2">
+        <companion hash="HASH_COMPANION_STRAUSS" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCSWN_CNV_6" UNK_982A14D4="cv_cc_swn_06" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCSWN_CNV_7" UNK_982A14D4="cv_cc_swn_07" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="9" name="CCSWN_CNV_8" UNK_982A14D4="cv_cc_swn_08" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <companion hash="HASH_COMPANION_STRAUSS" />
+      </vignette>
+      <vignette UNK_B3D82180="21" UNK_B322932A="17" name="CCSWN_CNV_9" UNK_982A14D4="cv_cc_swn_09" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="12" UNK_B322932A="7" name="CCSWN_CNV_10" UNK_982A14D4="cv_cc_swn_10" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCSWN_CNV_11" UNK_982A14D4="cv_cc_swn_11" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="17" UNK_B322932A="11" name="CCSWN_CNV_12" UNK_982A14D4="cv_cc_swn_12" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCSWN_CNV_13" UNK_982A14D4="cv_cc_swn_13" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCSWN_CNV_14" UNK_982A14D4="cv_cc_swn_14" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCSWN_CNV_15" UNK_982A14D4="cv_cc_swn_15" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <companion hash="HASH_COMPANION_STRAUSS" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCSWN_CNV_16" UNK_982A14D4="cv_cc_swn_16" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCSWN_CNV_17" UNK_982A14D4="cv_cc_swn_17" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCSWN_CNV_19" UNK_982A14D4="cv_cc_swn_19" size="4.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="17" UNK_B322932A="11" name="CCSWN_CNV_21" UNK_982A14D4="cv_cc_swn_21" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="17" name="CCSWN_CNV_22" UNK_982A14D4="cv_cc_swn_22" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="10" UNK_B322932A="7" name="CCTLL_CNV_1" UNK_982A14D4="cv_cc_tll_01" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCTLL_CNV_2" UNK_982A14D4="cv_cc_tll_02" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCTLL_CNV_3" UNK_982A14D4="cv_cc_tll_03" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_TILLY" />
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="8" name="CCTLL_CNV_4" UNK_982A14D4="cv_cc_tll_04" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_TILLY" />
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCTLL_CNV_5" UNK_982A14D4="cv_cc_tll_05" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_TILLY" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCTLL_CNV_6" UNK_982A14D4="cv_cc_tll_06" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_TILLY" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCTRL_CNV_1" UNK_982A14D4="cv_cc_trl_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_TRELAWNY" />
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCTRL_CNV_3" UNK_982A14D4="cv_cc_trl_03" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_TRELAWNY" />
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="21" UNK_B322932A="10" name="CCUNC_CNV_1" UNK_982A14D4="cv_cc_unc_01" size="3.0" weight="1">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="21" UNK_B322932A="10" name="CCUNC_CNV_2" UNK_982A14D4="cv_cc_unc_02" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_JOHN" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="16" name="CCUNC_CNV_3" UNK_982A14D4="cv_cc_unc_03" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="16" name="CCUNC_CNV_4" UNK_982A14D4="cv_cc_unc_04" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCUNC_CNV_5" UNK_982A14D4="cv_cc_unc_05" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCUNC_CNV_6" UNK_982A14D4="cv_cc_unc_06" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="10" name="CCUNC_CNV_7" UNK_982A14D4="cv_cc_unc_07" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="21" UNK_B322932A="17" name="CCUNC_CNV_8" UNK_982A14D4="cv_cc_unc_08" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFAM_CNV_1" UNK_982A14D4="cv_cf_am_01" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFAR_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFAR_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFBW_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFBW_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFBW_CNV_3" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFBW_CNV_4" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFBW_CNV_5" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="19" name="CFBW_CNV_6" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFBLLMCH_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFCH_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_CHARLES" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFDV_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFDV_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFDV_CNV_3" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFDTCBLL_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFDTCJMBLL_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_JOHN" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <UNK_45B3DD87 num="0" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="20" name="CFHM_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="20" name="CFHM_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="20" name="CFHM_CNV_3" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="20" name="CFHM_CNV_4" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="20" name="CFHM_CNV_5" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="20" name="CFHM_CNV_6" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="20" name="CFHM_CNV_7" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="20" name="CFHM_CNV_8" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="20" name="CFHM_CNV_9" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="20" name="CFHS_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_STRAUSS" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="20" name="CFHSHUNC_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="19" name="CFHSHUNC_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="19" name="CFHSHUNC_CNV_3" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFJE_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFJE_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFJE_CNV_3" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFJE_CNV_4" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFJE_CNV_5" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFJM_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JOHN" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFJM_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JOHN" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFJM_CNV_3" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JOHN" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFJM_CNV_4" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JOHN" />
+        <UNK_45B3DD87 num="3" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFJM_CNV_5" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JOHN" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFJM_CNV_6" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JOHN" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFKIESEN_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFKIESEN_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+        <UNK_45B3DD87 num="0" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFKIESEN_CNV_3" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+        <UNK_45B3DD87 num="0" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFLN_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_LENNY" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFLN_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_LENNY" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFMB_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFMB_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFMB_CNV_3" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFMB_CNV_4" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFMB_CNV_5" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <UNK_45B3DD87 num="3" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFMB_CNV_6" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFMP_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFMP_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFMP_CNV_3" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFRS_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFRS_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFRS_CNV_3" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFRS_CNV_4" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFRS_CNV_5" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFSG_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <UNK_45B3DD87 num="3" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFSG_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFSENLEN_CNV_1" UNK_982A14D4="cv_cf_shared" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_LENNY" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFSN_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFSN_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFSN_CNV_3" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFSSNBLL_CNV_1" UNK_982A14D4="cv_cf_shared" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_BILL" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="19" name="CFSSNUNC_CNV_1" UNK_982A14D4="cv_cf_shared" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFTL_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_TILLY" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFTL_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_TILLY" />
+        <UNK_45B3DD87 num="3" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFTL_CNV_3" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_TILLY" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="19" name="CFTRLUNC_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_TRELAWNY" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFUN_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFUN_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFUN_CNV_3" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFUN_CNV_4" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFUN_CNV_5" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <UNK_45B3DD87 num="3" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="19" name="CFUN_CNV_6" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFUNCBLL_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_BILL" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="19" name="CFUNCBLL_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_BILL" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFUNCBLL_CNV_3" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_BILL" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFUNCHR_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFUNCDTC_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFUNMCH_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_MICAH" />
+        <UNK_45B3DD87 num="1" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFUNMCH_CNV_2" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_MICAH" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CFUNCPRS_CNV_1" UNK_982A14D4="cv_cf_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCABIJCK_SNG1_ES_HELL_BOUND_TRAIN" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCABIJCK_SNG1_ES_LITTLE_JOE_WRANGLER" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCABIJCK_SNG1_ES_NEVER_GET_DRUNK" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCABIJCK_SNG1_ES_WILD_ROVER" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCCHR_HARM_SNG_4" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_CHARLES" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCJAV_GUIT_SNG1" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCJAV_GUIT_SNG2" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCJAV_GUIT_SNG4" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCJAV_GUIT_SNG5" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCJAV_GUIT_SNG6" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCJCK_SNG1_ES_CLEMENTINE" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCJCK_SNG1_ES_LILY_OF_THE_VALLEY" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCJCK_SNG1_ES_OH_SHENENDOH" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCJCK_SNG1_ES_OH_SUSANNA" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCJCK_SNG1_ES_YELLOW_ROSE_OF_TEXAS" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCKAR_SNG1" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CCKNSNUNJ_SNG1" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCPNKNJ_SNG1" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCPNS_CONC_SNG1" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCPNS_CONC_SNG4" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCPNS_CONC_SNG7" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCPRS_CONC_SNG5" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCPRS_CONC_SNG8" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="19" name="CCPSN_SNG1" UNK_982A14D4="cv_mus_shared" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CCSEN_SNG1_SPRIG_OF_SHILLELAH" UNK_982A14D4="cv_mus_shared" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCSNK_SNG2" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCSNK_SNG3" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCSNKNJ_SNG1" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCSNKNJ_SNG2" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="0" name="CCSWN_SNG1_SIT_SING" UNK_982A14D4="cv_mus_swn_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="0" name="CCSWN_SNG1_SIT_SING_SLEEP" UNK_982A14D4="cv_mus_swn_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="0" name="CCSWN_SNG1_WANDER" UNK_982A14D4="cv_mus_swn_01" size="1.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="0" name="CCSWN_SNG1_WNT" UNK_982A14D4="cv_mus_swn_01" size="1.0" weight="1">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CCUNC_SNG1_DRUNK" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="12" name="CCUNC_SNG1_SOBER" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCUNC_SNG2" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCUNJNSNK_SNG1" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCUNSNKNS_SNG1" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCUNP_SNG1" UNK_982A14D4="cv_mus_shared" size="9.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCUNPNKNJ_SNG1" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCUNPNKNS_SNG1" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCUNPNSNJ_SNG2" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCUNPNSNJ_SNG3" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCUNS_SNG2" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCUNS_SNG3" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCUNSNJ_SNG1" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_SEAN" />
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCUNSNK_SNG1" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCUNSNKNJ_SNG1" UNK_982A14D4="cv_mus_shared" size="6.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCBLL_WRK_CNV_1" UNK_982A14D4="cv_wrk_bll_01" size="4.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCBLL_WRK_CNV_2" UNK_982A14D4="cv_wrk_bll_02" size="4.0" weight="2">
+        <companion hash="HASH_COMPANION_BILL" />
+        <companion hash="HASH_COMPANION_LENNY" />
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCHSH_WRK_CNV_1_P1" UNK_982A14D4="cv_wrk_hsh_01" size="4.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCHSH_WRK_CNV_2" UNK_982A14D4="cv_wrk_hsh_02" size="4.0" weight="2">
+        <companion hash="HASH_COMPANION_HOSEA" />
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="10" name="CCJAV_WRK_CNV_1" UNK_982A14D4="cv_wrk_jav_01" size="4.0" weight="2">
+        <companion hash="HASH_COMPANION_JAVIER" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCMCH_WRK_CNV_1" UNK_982A14D4="cv_wrk_mch_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCMCH_WRK_CNV_2" UNK_982A14D4="cv_wrk_mch_02" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCSWN_WRK_CNV_1" UNK_982A14D4="cv_wrk_swn_01" size="4.0" weight="2">
+        <companion hash="HASH_COMPANION_SWANSON" />
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCDTC_SPEECH_BVH_CNV1" UNK_982A14D4="cv_sph_dtc_bvh_01" size="4.0" weight="5">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCDTC_SPEECH_CLM_CNV1" UNK_982A14D4="cv_sph_dtc_clm_01" size="4.0" weight="5">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCDTC_SPEECH_SDB_CNV1" UNK_982A14D4="cv_sph_dtc_sdb_01" size="6.0" weight="5">
+        <companion hash="HASH_COMPANION_DUTCH" />
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="9" name="CCPRS_SPEECH_LOW_FOOD_CNV1" UNK_982A14D4="cv_sph_prs_low_food_01" size="4.0" weight="5">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="8" name="CCSEN_SPEECH_HSO_CNV1" UNK_982A14D4="cv_sph_sen_hso_01" size="4.0" weight="5">
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCSSN_SPEECH_LOW_FOOD_CNV1" UNK_982A14D4="cv_sph_ssn_low_food_01" size="4.0" weight="5">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCABI_ITM_CNV_1" UNK_982A14D4="cv_itm_abi_01" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCBLL_ITM_CNV_1" UNK_982A14D4="cv_itm_bll_01" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCCHR_ITM_CNV_1" UNK_982A14D4="cv_itm_chr_01" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCCHR_ITM_CNV_2" UNK_982A14D4="cv_itm_chr_02" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCCHR_ITM_CNV_3" UNK_982A14D4="cv_itm_chr_03" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCDTC_ITM_CNV_1_GET" UNK_982A14D4="cv_itm_dtc_01" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCDTC_ITM_CNV_1_GOT" UNK_982A14D4="cv_itm_dtc_01" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCHSH_ITM_CNV_1" UNK_982A14D4="cv_itm_hsh_01" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCJAV_ITM_CNV_1" UNK_982A14D4="cv_itm_jav_01" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCJCK_WLK_HSO_ITM_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="4" UNK_B322932A="22" name="CCKAR_ITM_CNV_1" UNK_982A14D4="cv_itm_kar_01" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_KAREN" />
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="9" name="CCKIE_ITM_CNV_1" UNK_982A14D4="cv_itm_kie_01" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CCLEN_ITM_CNV_2" UNK_982A14D4="cv_cf_shared" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_LENNY" />
+        <UNK_45B3DD87 num="2" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCMLL_ITM_CNV_1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_MOLLY_OSHEA" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCMRB_ITM_CNV_2" UNK_982A14D4="cv_itm_mrb_02" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="12" UNK_B322932A="10" name="CCPRS_ITM_CNV_1" UNK_982A14D4="cv_itm_prs_01" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCSEN_ITM_CNV_1" UNK_982A14D4="cv_itm_sen_01" size="4.0" weight="1">
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCSSN_ITM_CNV_2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCUNC_ITM_CNV_1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="BCABI_WLK_GEN_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="BCABI_WLK_GEN_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="BCABI_WLK_GEN_CNV3" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="BCCHR_WLK_GEN_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="BCCHR_WLK_GEN_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="BCUNC_WLK_GEN_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="6" name="BCUNC_WLK_GEN_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="6" name="BCUNC_WLK_GEN_CNV3" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="6" name="BCUNC_WLK_GEN_CNV4" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="7" name="CCABI_WLK_BVH_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="7" name="CCABI_WLK_BVH_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="6" name="CCABI_WLK_HSO_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCABI_WLK_HSO_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCBLL_WLK_BVH_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCBLL_WLK_BVH_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCBLL_WLK_BVH_CNV3" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCBLL_WLK_BVH_CNV4" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="6" name="CCBLL_WLK_COL_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCBLL_WLK_GEN_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCBLL_WLK_GEN_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCBLL_WLK_REP_SOFT_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_BILL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCCHR_WLK_GEN_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCDTC_CNV_9" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCDTC_CNV_26" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCDTC_CNV_27" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCDTC_WLK_AWAY_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCDTC_WLK_CLM_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCDTC_WLK_CLM_CNV3" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="12" name="CCDTC_WLK_CLM_CNV4" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="12" name="CCDTC_WLK_DRK_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCDTC_WLK_GRF_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCDTC_WLK_GRF_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="7" name="CCDTC_WLK_HSO_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="7" name="CCDTC_WLK_HSO_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCDTC_WLK_HSO_CNV3" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCDTC_WLK_DOWNES1" UNK_982A14D4="cv_wnt_dtc_downes01" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="7" name="CCDTC_WLK_MUD4" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCDTC_WLK_MAYHEM_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="2" UNK_B322932A="20" name="CCDTC_WLK_PAR_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCDTC_WLK_REP_CRAZY_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCDTC_WLK_REP_CRAZY_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="8" name="CCDTC_WLK_SDB_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCDTC_WLK_TITHE_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_DUTCH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCHSH_WLK_CLM_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="7" name="CCHSH_WLK_HSO_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCHSH_WLK_HSO_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="7" name="CCHSH_WLK_SDB_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_HOSEA" />
+      </vignette>
+      <vignette UNK_B3D82180="21" UNK_B322932A="8" name="CCJAV_WLK_BVH_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="8" name="CCJAV_WLK_BVH_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="8" name="CCJAV_WLK_CLM_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCJAV_WLK_SDB_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_JAVIER" />
+      </vignette>
+      <vignette UNK_B3D82180="21" UNK_B322932A="8" name="CCKAR_WLK_CLM_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCKAR_WLK_GEN_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="12" name="CCKAR_WLK_GEN_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="9" name="CCKAR_WLK_GEN_CNV3" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_KAREN" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCKIE_WLK_HSO_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="22" name="CCKIE_WLK_PAR_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCKIE_WLK_GEN_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_ODRISCOLL" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCLEN_WLK_COL_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_LENNY" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="6" name="CCMCH_WLK_BVH_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="6" name="CCMCH_WLK_CLM_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="6" name="CCMCH_WLK_COL_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCMCH_WLK_GEN_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="9" name="CCMCH_WLK_GEN_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCMCH_WLK_GEN_CNV3" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCMCH_WLK_GEN_CNV4" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCMCH_WLK_GEN_CNV5" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="8" name="CCMCH_WLK_REP_SOFT_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="8" name="CCMCH_WLK_REP_SOFT_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="8" name="CCMCH_WLK_REP_SOFT_CNV3" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_MICAH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="14" name="CCMRB_WLK_GEN_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="9" name="CCMRB_WLK_HSO_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCMRB_WLK_HSO_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="9" name="CCMRB_WLK_SDB_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_MARY_BETH" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="12" name="CCPRS_WLK_GEN_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCPRS_WLK_LOW_FOOD_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCPRS_WLK_LOW_FOOD_URG_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_PEARSON" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="8" name="CCSAD_WLK_BVH_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SADIE_ADLER" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="14" name="CCSAD_WLK_HSO_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SADIE_ADLER" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="20" name="CCSEN_WLK_PAR_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SEAN" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCSSN_CNV_6" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCSSN_WLK_AWAY_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCSSN_WLK_AWAY_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCSSN_WLK_BVH_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCSSN_WLK_BVH_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCSSN_WLK_BVH_CNV3" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCSSN_WLK_GEN_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCSSN_WLK_GRF_MAYHEM_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="0" name="CCSSN_WLK_HOMEROB_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCSSN_WLK_HSO_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="7" name="CCSSN_WLK_HSO_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="7" name="CCSSN_WLK_HSO_CNV3" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCSSN_WLK_HSO_CNV4" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCSSN_WLK_HSO_CNV5" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCSSN_WLK_HSO_CNV6" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCSSN_WLK_HSO_CNV7" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="CCSSN_WLK_LOW_FOOD_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCSSN_WLK_SDB_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="7" name="CCSSN_WLK_SDB_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="21" UNK_B322932A="7" name="CCSSN_WLK_REP_CRAZY_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="21" UNK_B322932A="7" name="CCSSN_WLK_REP_CRAZY_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="21" UNK_B322932A="7" name="CCSSN_WLK_REP_CRAZY_CNV3" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="7" name="CCSSN_WLK_TITHE_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SUSAN_GRIMSHAW" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="5" name="CCSTR_CNV_4" UNK_982A14D4="cv_wnt_str_04" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_STRAUSS" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCSWN_CNV_18" UNK_982A14D4="cv_wnt_swn_18" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="9" name="CCSWN_WLK_BVH_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCSWN_WLK_GEN_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="9" name="CCSWN_WLK_GEN_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCSWN_WLK_GEN_CNV4" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="9" name="CCSWN_WLK_GEN_CNV5" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCSWN_WLK_HSO_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCSWN_WLK_HSO_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCSWN_WLK_HSO_CNV3" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="9" name="CCSWN_WLK_SDB_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="0" name="CCSWN_WLK_SDB_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_SWANSON" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="10" name="CCTLL_WLK_GEN_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="9" name="CCTLL_WLK_GEN_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="8" name="CCTLL_WLK_HSO_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_TILLY" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCTRL_WLK_BVH_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_TRELAWNY" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCTRL_WLK_CLM_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_TRELAWNY" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="8" name="CCTRL_WLK_CLM_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_TRELAWNY" />
+      </vignette>
+      <vignette UNK_B3D82180="18" UNK_B322932A="9" name="CCTRL_WLK_CLM_CNV3" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_TRELAWNY" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="8" name="CCTRL_WLK_GEN_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_TRELAWNY" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="10" name="CCUNC_WLK_CLM_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="22" UNK_B322932A="9" name="CCUNC_WLK_BVH_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="21" UNK_B322932A="9" name="CCUNC_WLK_GEN_CNV1" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="CCUNC_WLK_GEN_CNV2" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="16" UNK_B322932A="9" name="CCUNC_WLK_GEN_CNV3" UNK_982A14D4="cv_wnt_shared" size="0.0" weight="1">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="7" name="BCABI_CNV_1" UNK_982A14D4="cv_end_abi_01" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="7" name="BCABI_CNV_2" UNK_982A14D4="cv_end_abi_02" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="7" name="BCABI_CNV_4" UNK_982A14D4="cv_end_abi_04" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="BCABI_CNV_5" UNK_982A14D4="cv_end_abi_05" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="7" name="BCABI_CNV_6" UNK_982A14D4="cv_end_abi_06" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_DOG" />
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="21" UNK_B322932A="20" name="BCABI_CNV_7" UNK_982A14D4="cv_end_abi_07" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="22" name="BCABI_SLP_CNV_1" UNK_982A14D4="cv_end_abi_slp_shared" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="22" name="BCABI_SLP_CNV_2" UNK_982A14D4="cv_end_abi_slp_shared" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="22" name="BCABI_SLP_CNV_3" UNK_982A14D4="cv_end_abi_slp_shared" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="3" UNK_B322932A="22" name="BCABI_SLP_CNV_4" UNK_982A14D4="cv_end_abi_slp_shared" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="10" name="BCANC_CNV_1" UNK_982A14D4="cv_end_anc_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="BCANJ_CNV_1" UNK_982A14D4="cv_end_anj_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="20" name="BCANJ_CNV_2" UNK_982A14D4="cv_end_anj_02" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="23" UNK_B322932A="20" name="BCANJ_CNV_3" UNK_982A14D4="cv_end_anj_03" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="10" name="BCANJ_CNV_4" UNK_982A14D4="cv_end_anj_04" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_DOG" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="BCANU_CNV_1" UNK_982A14D4="cv_end_anu_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="7" name="BCCHR_CNV_1" UNK_982A14D4="cv_end_chr_01" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="6" name="BCCHR_CNV_2" UNK_982A14D4="cv_wnt_shared" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="10" name="BCCHR_CNV_3" UNK_982A14D4="cv_end_chr_03" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="6" name="BCCHR_CNV_5" UNK_982A14D4="cv_end_chr_05" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_CHARLES" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="6" name="BCCNU_CNV_1" UNK_982A14D4="cv_end_cnu_01" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_CHARLES" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="6" name="BCCNU_CNV_2" UNK_982A14D4="cv_end_cnu_02" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_CHARLES" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="0" UNK_B322932A="6" name="BCCNU_CNV_3" UNK_982A14D4="cv_end_cnu_03" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_CHARLES" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="10" name="BCCNU_CNV_4" UNK_982A14D4="cv_end_cnu_04" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_CHARLES" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="6" name="BCCNU_CNV_5" UNK_982A14D4="cv_end_cnu_05" size="3.0" weight="2">
+        <companion hash="HASH_COMPANION_CHARLES" />
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="9" name="BCCNJ_CNV_1" UNK_982A14D4="cv_end_cnj_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_CHARLES" />
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="BCJCK_CNV_1" UNK_982A14D4="cv_end_jck_01" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="BCJCK_CNV_3" UNK_982A14D4="cv_end_jck_03" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="BCJCK_CNV_4" UNK_982A14D4="cv_end_jck_04" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="BCJCK_CNV_5" UNK_982A14D4="cv_end_jck_05" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="7" name="BCJCK_CNV_6" UNK_982A14D4="cv_end_jck_06" size="8.0" weight="2">
+        <companion hash="HASH_COMPANION_JACK" />
+        <companion hash="HASH_COMPANION_ABIGAIL" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="11" name="BCUNC_CNV_1" UNK_982A14D4="cv_end_unc_01" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="BCUNC_CNV_2" UNK_982A14D4="cv_end_unc_02" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="BCUNC_CNV_4" UNK_982A14D4="cv_end_unc_04" size="5.0" weight="1">
+        <companion hash="HASH_COMPANION_UNCLE" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="9" name="BCUNC_CNV_6" UNK_982A14D4="cv_end_unc_06" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="20" UNK_B322932A="8" name="BCUNC_CNV_7" UNK_982A14D4="cv_end_unc_07" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+      <vignette UNK_B3D82180="15" UNK_B322932A="8" name="BCUNJ_CNV_1" UNK_982A14D4="cv_end_unj_01" size="5.0" weight="2">
+        <companion hash="HASH_COMPANION_UNCLE" />
+        <companion hash="HASH_COMPANION_JACK" />
+      </vignette>
+    </vignettes>
+  </UNK_A324AF98>
+</root>

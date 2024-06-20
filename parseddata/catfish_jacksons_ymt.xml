@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <location center="" id="CATFISH_JACKSONS">
+    <volumes>
+      <house>
+        <placement id="volBox" size="[10.5, 14.3, 3.0]" spawn_heading="35.0" spawn_position="[1320.281, -2281.215, 50.57144]" />
+      </house>
+      <blocking>
+        <placement id="volBox" size="[10.5, 14.3, 3.0]" spawn_heading="35.0" spawn_position="[1320.281, -2281.215, 50.57144]" />
+      </blocking>
+    </volumes>
+  </location>
+</root>

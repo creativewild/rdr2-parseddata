@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_C86D1421>
+    <UNK_B23F3CC8 activate="ALLY_ENTER_DEADEYE" deactivate="ALLY_EXIT_DEADEYE" id="BUFF__FOCUS_FIRE_TIER_ONE">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="MDAMAGE__ALL_WEAPONS" impact="0.05" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_WEAPON_DAMAGE" />
+        <icon id="BUFF_DEADEYE_REGEN" />
+      </UNK_85FF729F>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ALLY_ENTER_DEADEYE" deactivate="ALLY_EXIT_DEADEYE" id="BUFF__FOCUS_FIRE_TIER_TWO">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="MDAMAGE__ALL_WEAPONS" impact="0.1" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_WEAPON_DAMAGE" />
+        <icon id="BUFF_DEADEYE_REGEN" />
+      </UNK_85FF729F>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ALLY_ENTER_DEADEYE" deactivate="ALLY_EXIT_DEADEYE" id="BUFF__FOCUS_FIRE_TIER_THREE">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="MDAMAGE__ALL_WEAPONS" impact="0.15" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_WEAPON_DAMAGE" />
+        <icon id="BUFF_DEADEYE_REGEN" />
+      </UNK_85FF729F>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ALLY_ENTER_DEADEYE" deactivate="ALLY_EXIT_DEADEYE" id="BUFF__HOLD_THE_LINE_TIER_ONE">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="MDEFENSE__MELEE" impact="0.05" />
+        <UNK_BCE468C1 id="MDEFENSE__RANGED" impact="0.05" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_DEFENSE_BULLET" />
+        <icon id="BUFF_HEALTH_REGEN" />
+      </UNK_85FF729F>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ALLY_ENTER_DEADEYE" deactivate="ALLY_EXIT_DEADEYE" id="BUFF__HOLD_THE_LINE_TIER_TWO">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="MDEFENSE__MELEE" impact="0.075" />
+        <UNK_BCE468C1 id="MDEFENSE__RANGED" impact="0.075" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_DEFENSE_BULLET" />
+        <icon id="BUFF_HEALTH_REGEN" />
+      </UNK_85FF729F>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ALLY_ENTER_DEADEYE" deactivate="ALLY_EXIT_DEADEYE" id="BUFF__HOLD_THE_LINE_TIER_THREE">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="MDEFENSE__MELEE" impact="0.1" />
+        <UNK_BCE468C1 id="MDEFENSE__RANGED" impact="0.1" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_DEFENSE_BULLET" />
+        <icon id="BUFF_HEALTH_REGEN" />
+      </UNK_85FF729F>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ALLY_ENTER_DEADEYE" deactivate="ALLY_EXIT_DEADEYE" id="BUFF__QUITE_AN_INSPIRATION_TIER_ONE">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="AHEALTH__ALTER_PER_SECOND_PERCENT" impact="0.01" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_HEALTH_REGEN" />
+      </UNK_85FF729F>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ALLY_ENTER_DEADEYE" deactivate="ALLY_EXIT_DEADEYE" id="BUFF__QUITE_AN_INSPIRATION_TIER_TWO">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="AHEALTH__ALTER_PER_SECOND_PERCENT" impact="0.02" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_HEALTH_REGEN" />
+      </UNK_85FF729F>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ALLY_ENTER_DEADEYE" deactivate="ALLY_EXIT_DEADEYE" id="BUFF__QUITE_AN_INSPIRATION_TIER_THREE">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="AHEALTH__ALTER_PER_SECOND_PERCENT" impact="0.03" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_HEALTH_REGEN" />
+      </UNK_85FF729F>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ALLY_ENTER_DEADEYE" deactivate="ALLY_EXIT_DEADEYE" id="BUFF__WATCH_AND_LEARN_TIER_ONE">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="ADEADEYE__ALTER_PER_SECOND_PERCENT" impact="0.01" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_DEADEYE_REGEN" />
+      </UNK_85FF729F>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ALLY_ENTER_DEADEYE" deactivate="ALLY_EXIT_DEADEYE" id="BUFF__WATCH_AND_LEARN_TIER_TWO">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="ADEADEYE__ALTER_PER_SECOND_PERCENT" impact="0.02" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_DEADEYE_REGEN" />
+      </UNK_85FF729F>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ALLY_ENTER_DEADEYE" deactivate="ALLY_EXIT_DEADEYE" id="BUFF__WATCH_AND_LEARN_TIER_THREE">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="ADEADEYE__ALTER_PER_SECOND_PERCENT" impact="0.03" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_DEADEYE_REGEN" />
+      </UNK_85FF729F>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ALLY_START" deactivate="ALLY_END" id="BUFF__BORN_LEADER_TIER_ONE">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="MHEALTH__REGEN_RATE" impact="0.05" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_HEALTH_REGEN" />
+      </UNK_85FF729F>
+      <UNK_EAC25FE8>
+        <UNK_C9212F76 id="HEALTH__MODIFIERS" />
+      </UNK_EAC25FE8>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ALLY_START" deactivate="ALLY_END" id="BUFF__BORN_LEADER_TIER_TWO">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="MHEALTH__REGEN_RATE" impact="0.1" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_HEALTH_REGEN" />
+      </UNK_85FF729F>
+      <UNK_EAC25FE8>
+        <UNK_C9212F76 id="HEALTH__MODIFIERS" />
+      </UNK_EAC25FE8>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ALLY_START" deactivate="ALLY_END" id="BUFF__BORN_LEADER_TIER_THREE">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="MHEALTH__REGEN_RATE" impact="0.15" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_HEALTH_REGEN" />
+      </UNK_85FF729F>
+      <UNK_EAC25FE8>
+        <UNK_C9212F76 id="HEALTH__MODIFIERS" />
+      </UNK_EAC25FE8>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="FORMATION_ENTER" deactivate="FORMATION_EXIT" id="BUFF__POSSE_FORMATION">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="MHEALTH__REGEN_RATE" impact="0.05" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_HEALTH_REGEN" />
+      </UNK_85FF729F>
+      <UNK_EAC25FE8>
+        <UNK_C9212F76 id="HEALTH__MODIFIERS" />
+      </UNK_EAC25FE8>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ON_KILL" duration="2000" id="BUFF__COLD_BLOODED_TIER_ONE">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="MHEALTH__REGEN_RATE" impact="0.05" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_HEALTH_REGEN" />
+      </UNK_85FF729F>
+      <UNK_A5EC447>
+        <flag id="FORCE_HEALTH_REGEN" />
+      </UNK_A5EC447>
+      <UNK_EAC25FE8>
+        <UNK_C9212F76 id="HEALTH__MODIFIERS" />
+      </UNK_EAC25FE8>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ON_KILL" duration="3000" id="BUFF__COLD_BLOODED_TIER_TWO">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="MHEALTH__REGEN_RATE" impact="0.1" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_HEALTH_REGEN" />
+      </UNK_85FF729F>
+      <UNK_A5EC447>
+        <flag id="FORCE_HEALTH_REGEN" />
+      </UNK_A5EC447>
+      <UNK_EAC25FE8>
+        <UNK_C9212F76 id="HEALTH__MODIFIERS" />
+      </UNK_EAC25FE8>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ON_KILL" duration="4000" id="BUFF__COLD_BLOODED_TIER_THREE">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="MHEALTH__REGEN_RATE" impact="0.15" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_HEALTH_REGEN" />
+      </UNK_85FF729F>
+      <UNK_A5EC447>
+        <flag id="FORCE_HEALTH_REGEN" />
+      </UNK_A5EC447>
+      <UNK_EAC25FE8>
+        <UNK_C9212F76 id="HEALTH__MODIFIERS" />
+      </UNK_EAC25FE8>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ON_REVIVED" duration="4000" id="BUFF__TAKE_THE_PAIN_AWAY_TIER_ONE">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="MDEFENSE__MELEE" impact="0.1" />
+        <UNK_BCE468C1 id="MDEFENSE__RANGED" impact="0.1" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_DEFENSE_BULLET" />
+      </UNK_85FF729F>
+      <UNK_EAC25FE8>
+        <UNK_C9212F76 id="DEFENSE__ALL_WEAPONS" />
+      </UNK_EAC25FE8>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ON_REVIVED" duration="4000" id="BUFF__TAKE_THE_PAIN_AWAY_TIER_TWO">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="MDEFENSE__MELEE" impact="0.15" />
+        <UNK_BCE468C1 id="MDEFENSE__RANGED" impact="0.15" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_DEFENSE_BULLET" />
+      </UNK_85FF729F>
+      <UNK_EAC25FE8>
+        <UNK_C9212F76 id="DEFENSE__ALL_WEAPONS" />
+      </UNK_EAC25FE8>
+    </UNK_B23F3CC8>
+    <UNK_B23F3CC8 activate="ON_REVIVED" duration="4000" id="BUFF__TAKE_THE_PAIN_AWAY_TIER_THREE">
+      <UNK_F39ED29B>
+        <UNK_BCE468C1 id="MDEFENSE__MELEE" impact="0.2" />
+        <UNK_BCE468C1 id="MDEFENSE__RANGED" impact="0.2" />
+      </UNK_F39ED29B>
+      <UNK_85FF729F>
+        <icon id="BUFF_DEFENSE_BULLET" />
+      </UNK_85FF729F>
+      <UNK_EAC25FE8>
+        <UNK_C9212F76 id="DEFENSE__ALL_WEAPONS" />
+      </UNK_EAC25FE8>
+    </UNK_B23F3CC8>
+  </UNK_C86D1421>
+</root>

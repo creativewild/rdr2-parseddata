@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_A52D9005>
+    <UNK_AA570C5F id="NONE" />
+    <UNK_AA570C5F id="FREEMODE">
+      <UNK_D6048C19>
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__DEBUG_POSITIVE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__DEBUG_NEGATIVE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__REVIVE_POSSE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__REVIVE_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__REVIVE_MULTI" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_CARE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_CARE_CLEAN" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_CARE_FULL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_CARE_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__RESOURCEFUL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__CLEAR_HIDEOUT" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__CLEAR_AMBUSH" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GFH_LAWFUL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GFH_LAWFUL_PVP" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__FREEROAM_HIDEOUT_SAVE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_ANIMAL_ATTACK_SAVE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_WILDMAN_FEED" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_KIDNAPPED_RESCUE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MERCY_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_TIED_UP_RESCUE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_ARROWHEAD_INJURY_MERCY_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_PHOTOGRAPHY_ASSIST" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_RUNAWAY_WAGON_ASSIST" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_RUNAWAY_WAGON_RETURN" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__FME_BOUNTY_RETURNED_ALIVE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_BEGGAR_DONATE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_SUSPENSION_TRAP_SAVE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__REVIVE_SEDATED_ANIMAL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MURDER_BUTCHER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MURDER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MURDER_CAMP_FOLLOWER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MURDER_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MURDER_RAMPAGE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MURDER_MISSION_PEDS" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MELEE_ATTACK_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MELEE_ATTACK_PLAYER_UNARMED" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HOGTIE_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__EXECUTION_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__WATCH_BLEED_OUT" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MURDER_HORSE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__SLAUGHTER_PETS" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_THIEF_AI" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__WAGON_THIEF_AI" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__WAGON_THIEF_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_THIEF_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MURDER_HORSE_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__TRAMPLE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__LOOTING_BODIES" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__UNPROVOKED_ANTAGONIZATION" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GRIEFING" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__IGNORE_MISSION" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__FREEROAM_HIDEOUT_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__FREEROAM_HIDEOUT_SAVE_THEN_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GFH_CRIMINAL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GFH_CRIMINAL_PVP" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__RUSTLING" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HERDING_STEAL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__LOOTING" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__THEFT" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__ANIMAL_CRUELTY" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__ARSON" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__VANDALISM_LOW" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_KIDNAPPED_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_WILDMAN_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_GRAVEROBBER_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_GRAVEROBBER_ACCEPT" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_TREASURE_HUNTER_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_RIVAL_COLLECTOR_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_RIVAL_COLLECTOR_LOOT" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_ARROWHEAD_INJURY_BLEED_OUT" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_PHOTOGRAPHY_MURDER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_ANIMAL_ATTACK_MURDER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__FME_BOUNTY_RETURNED_DEAD" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_RANDOM_EVENT_MURDER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_BEGGAR_ASSAULT" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__BOUNTY_BRIBE_GUARD" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_HOBO_DOG_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__NB_HOBO_DOG_LOOT_BODY" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__KILL_SEDATED_ANIMAL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__KILL_CAGED_ANIMAL" />
+      </UNK_D6048C19>
+    </UNK_AA570C5F>
+    <UNK_AA570C5F id="FREEMODE_EVENT">
+      <UNK_D6048C19>
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__DEBUG_POSITIVE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__DEBUG_NEGATIVE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__REVIVE_POSSE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__REVIVE_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__REVIVE_MULTI" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_CARE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_CARE_CLEAN" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_CARE_FULL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_CARE_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__RESOURCEFUL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__CLEAR_HIDEOUT" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__CLEAR_AMBUSH" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GFH_LAWFUL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GFH_LAWFUL_PVP" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__FREEROAM_HIDEOUT_SAVE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MERCY_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GRIEFING" />
+      </UNK_D6048C19>
+    </UNK_AA570C5F>
+    <UNK_AA570C5F id="INSTANCED_STORY">
+      <UNK_D6048C19>
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__REVIVE_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__REVIVE_MULTI" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MURDER_HORSE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MURDER_HORSE_PLAYER" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_GVO_INTRO_POS" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_GUNSLINGER" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_FIVE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_TEN" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_FIFTEEN" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_TWENTY" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_TWENTYFIVE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_THIRTY" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_THIRTYFIVE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_FORTY" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_FORTYFIVE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_FIFTY" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_GVO_INTRO_NEG" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_OUTLAW" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_FIVE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_TEN" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_FIFTEEN" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_TWENTY" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_TWENTYFIVE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_THIRTY" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_THIRTYFIVE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_FORTY" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_FORTYFIVE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_FIFTY" />
+      </UNK_D6048C19>
+    </UNK_AA570C5F>
+    <UNK_AA570C5F id="INSTANCED_GENERAL">
+      <UNK_D6048C19>
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_FIVE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_TEN" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_FIFTEEN" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_TWENTY" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_TWENTYFIVE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_THIRTY" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_THIRTYFIVE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_FORTY" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_FORTYFIVE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_POS_FIFTY" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_FIVE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_TEN" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_FIFTEEN" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_TWENTY" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_TWENTYFIVE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_THIRTY" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_THIRTYFIVE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_FORTY" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_FORTYFIVE" />
+        <UNK_C039931F automatic="false" id="PERSONA_HONOR_ACTION__MISSION_NEG_FIFTY" />
+      </UNK_D6048C19>
+    </UNK_AA570C5F>
+    <UNK_AA570C5F id="CAN_KILL">
+      <UNK_D6048C19>
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__DEBUG_POSITIVE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__DEBUG_NEGATIVE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__REVIVE_POSSE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__REVIVE_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__REVIVE_MULTI" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_CARE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_CARE_CLEAN" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_CARE_FULL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_CARE_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__RESOURCEFUL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__CLEAR_HIDEOUT" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__CLEAR_AMBUSH" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GFH_LAWFUL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GFH_LAWFUL_PVP" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__FREEROAM_HIDEOUT_SAVE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MERCY_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MURDER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MURDER_CAMP_FOLLOWER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GRIEFING" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__IGNORE_MISSION" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__FREEROAM_HIDEOUT_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__FREEROAM_HIDEOUT_SAVE_THEN_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GFH_CRIMINAL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GFH_CRIMINAL_PVP" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__RUSTLING" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HERDING_STEAL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__KILL_CAGED_ANIMAL" />
+      </UNK_D6048C19>
+    </UNK_AA570C5F>
+    <UNK_AA570C5F id="CANNOT_KILL">
+      <UNK_D6048C19>
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__DEBUG_POSITIVE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__DEBUG_NEGATIVE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__REVIVE_POSSE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__REVIVE_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__REVIVE_MULTI" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_CARE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_CARE_CLEAN" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_CARE_FULL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HORSE_CARE_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__RESOURCEFUL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GFH_LAWFUL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GFH_LAWFUL_PVP" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__FREEROAM_HIDEOUT_SAVE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MERCY_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MURDER_BUTCHER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MURDER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MURDER_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MURDER_CAMP_FOLLOWER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MURDER_RAMPAGE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MURDER_MISSION_PEDS" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MELEE_ATTACK_PLAYER" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__MELEE_ATTACK_PLAYER_UNARMED" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__WATCH_BLEED_OUT" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__SLAUGHTER_PETS" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__TRAMPLE" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__LOOTING_BODIES" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__UNPROVOKED_ANTAGONIZATION" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GRIEFING" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__IGNORE_MISSION" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__FREEROAM_HIDEOUT_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__FREEROAM_HIDEOUT_SAVE_THEN_KILL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GFH_CRIMINAL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__GFH_CRIMINAL_PVP" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__RUSTLING" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__HERDING_STEAL" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__LOOTING" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__THEFT" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__ANIMAL_CRUELTY" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__ARSON" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__VANDALISM_LOW" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__KILL_CAGED_ANIMAL" />
+      </UNK_D6048C19>
+    </UNK_AA570C5F>
+    <UNK_AA570C5F id="MP_INTRO">
+      <UNK_D6048C19>
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__INTRO_MISSION_POS" />
+        <UNK_C039931F automatic="true" id="PERSONA_HONOR_ACTION__INTRO_MISSION_NEG" />
+      </UNK_D6048C19>
+    </UNK_AA570C5F>
+  </UNK_A52D9005>
+</root>

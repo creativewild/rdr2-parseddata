@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <missions>
+    <mission UNK_813B03CC="Assassination (PvP - Player)" type="ASSASSINATION_PVP_PLAYER">
+      <location UNK_813B03CC="Flaco 1" id="AS_PVP_PLAYER_FLACO_1" position="[-964.7808, 2185.111, 339.8205]" />
+      <location UNK_813B03CC="Flaco 2" id="AS_PVP_PLAYER_FLACO_2" position="[-1022.107, 1690.943, 243.3094]" />
+      <location UNK_813B03CC="Mama Watson 1" id="AS_PVP_PLAYER_MAMA_WATSON_1" position="[-1810.697, 646.4261, 130.0526]" />
+      <location UNK_813B03CC="Tilly 1" id="AS_PVP_PLAYER_TILLY_1" position="[479.0171, 612.1906, 109.6009]" />
+      <location UNK_813B03CC="Tilly 2" id="AS_PVP_PLAYER_TILLY_2" position="[-375.8708, 743.1915, 114.6009]" />
+      <location UNK_813B03CC="Tilly 3" id="AS_PVP_PLAYER_TILLY_3" position="[-347.1263, -315.114, 88.7375]" />
+      <location UNK_813B03CC="Joe" id="AS_PVP_PLAYER_JOE" position="[1887.17, 303.703, 76.074]" />
+      <location UNK_813B03CC="Moonshiner 1" id="AS_PVP_PLAYER_MOONSHINER_1" position="[3019.646, 1758.062, 82.9144]" />
+      <location UNK_813B03CC="Moonshiner 2" id="AS_PVP_PLAYER_MOONSHINER_2" position="[1992.719, 1182.79, 170.1422]" />
+      <location UNK_813B03CC="Black Belle 1" id="AS_PVP_PLAYER_BLACK_BELLE_1" position="[1389.033, -2080.326, 53.25142]" />
+      <location UNK_813B03CC="Black Belle 2" id="AS_PVP_PLAYER_BLACK_BELLE_2" position="[2653.083, -1238.918, 53.1994]" />
+      <location UNK_813B03CC="Braithwaite" id="AS_PVP_PLAYER_BRAITHWAITE" position="[1436.686, -1359.971, 80.634]" />
+      <location UNK_813B03CC="Sean Macguire 1" id="AS_PVP_PLAYER_SEAN_MACGUIRE_1" position="[-2377.008, -1589.276, 153.8826]" />
+      <location UNK_813B03CC="Sean Macguire 2" id="AS_PVP_PLAYER_SEAN_MACGUIRE_2" position="[-1158.057, -1822.122, 60.8308]" />
+      <location UNK_813B03CC="Langton 1" id="AS_PVP_PLAYER_LANGTON_1" position="[-3401.989, -3289.402, -7.3762]" />
+      <location UNK_813B03CC="Langton 2" id="AS_PVP_PLAYER_LANGTON_2" position="[-2665.562, -2219.307, 79.5105]" />
+      <location UNK_813B03CC="Shaky 1" id="AS_PVP_PLAYER_SHAKY_1" position="[-1387.791, -2337.139, 41.9252]" />
+      <location UNK_813B03CC="Shaky 2" id="AS_PVP_PLAYER_SHAKY_2" position="[-5582.712, -3880.106, -31.3478]" />
+      <location UNK_813B03CC="Shaky 3" id="AS_PVP_PLAYER_SHAKY_3" position="[-4171.834, -2532.546, 1.9443]" />
+    </mission>
+    <mission UNK_813B03CC="Assassination (PvP - Posse)" type="ASSASSINATION_PVP_POSSE">
+      <location UNK_813B03CC="Flaco 1" id="AS_PVP_POSSE_FLACO_1" position="[-964.7808, 2185.111, 339.8205]" />
+      <location UNK_813B03CC="Flaco 2" id="AS_PVP_POSSE_FLACO_2" position="[-1022.107, 1690.943, 243.3094]" />
+      <location UNK_813B03CC="Mama Watson 1" id="AS_PVP_POSSE_MAMA_WATSON_1" position="[-1810.697, 646.4261, 130.0526]" />
+      <location UNK_813B03CC="Tilly 1" id="AS_PVP_POSSE_TILLY_1" position="[479.0171, 612.1906, 109.6009]" />
+      <location UNK_813B03CC="Tilly 2" id="AS_PVP_POSSE_TILLY_2" position="[-375.8708, 743.1915, 114.6009]" />
+      <location UNK_813B03CC="Tilly 3" id="AS_PVP_POSSE_TILLY_3" position="[-347.1263, -315.114, 88.7375]" />
+      <location UNK_813B03CC="Joe" id="AS_PVP_POSSE_JOE" position="[1887.17, 303.703, 76.074]" />
+      <location UNK_813B03CC="Moonshiner 1" id="AS_PVP_POSSE_MOONSHINER_1" position="[3019.646, 1758.062, 82.9144]" />
+      <location UNK_813B03CC="Moonshiner 2" id="AS_PVP_POSSE_MOONSHINER_2" position="[1992.719, 1182.79, 170.1422]" />
+      <location UNK_813B03CC="Black Belle 1" id="AS_PVP_POSSE_BLACK_BELLE_1" position="[1389.033, -2080.326, 53.25142]" />
+      <location UNK_813B03CC="Black Belle 2" id="AS_PVP_POSSE_BLACK_BELLE_2" position="[2653.083, -1238.918, 53.1994]" />
+      <location UNK_813B03CC="Braithwaite" id="AS_PVP_POSSE_BRAITHWAITE" position="[1436.686, -1359.971, 80.634]" />
+      <location UNK_813B03CC="Sean Macguire 1" id="AS_PVP_POSSE_SEAN_MACGUIRE_1" position="[-2377.008, -1589.276, 153.8826]" />
+      <location UNK_813B03CC="Sean Macguire 2" id="AS_PVP_POSSE_SEAN_MACGUIRE_2" position="[-1158.057, -1822.122, 60.8308]" />
+      <location UNK_813B03CC="Langton 1" id="AS_PVP_POSSE_LANGTON_1" position="[-3401.989, -3289.402, -7.3762]" />
+      <location UNK_813B03CC="Langton 2" id="AS_PVP_POSSE_LANGTON_2" position="[-2665.562, -2219.307, 79.5105]" />
+      <location UNK_813B03CC="Shaky 1" id="AS_PVP_POSSE_SHAKY_1" position="[-1387.791, -2337.139, 41.9252]" />
+      <location UNK_813B03CC="Shaky 2" id="AS_PVP_POSSE_SHAKY_2" position="[-5582.712, -3880.106, -31.3478]" />
+      <location UNK_813B03CC="Shaky 3" id="AS_PVP_POSSE_SHAKY_3" position="[-4171.834, -2532.546, 1.9443]" />
+    </mission>
+    <mission UNK_813B03CC="Assassination (Standard)" type="ASSASSINATION">
+      <location UNK_813B03CC="Benedict Point" id="AS_BENEDICT_POINT" position="[-5233.5, -3497.849, -22.3984]" />
+      <location UNK_813B03CC="Blackwater Drug Runners" id="AS_BLACKWATER01" position="[-1622.922, -872.5034, 88.1664]" />
+      <location UNK_813B03CC="Braithwaite Manor" id="AS_SCARLETT_BRAITHWAITES01" position="[1027.266, -1868.021, 47.3874]" />
+      <location UNK_813B03CC="Cholla Springs Camp" id="AS_CHOLLA_SPRINGS_CAMP" position="[-4385.835, -2847.149, -15.9545]" />
+      <location UNK_813B03CC="Civil War Fort" id="AS_CIVIL_WAR_FORT01" position="[2445.21, 293.7838, 69.3587]" />
+      <location UNK_813B03CC="Fort Mercer" id="AS_FORT_MERCER" position="[-4204.267, -3439.747, 36.0879]" />
+      <location UNK_813B03CC="Gaptooth Breach" id="AS_GAPTOOTH_BREACH" position="[-5984.606, -3260.401, -21.09227]" />
+      <location UNK_813B03CC="Hamlin's Passing Camp" id="AS_HAMLINS_PASSING_CAMP" position="[-5351.6, -2617.068, -11.159]" />
+      <location UNK_813B03CC="Pike's Basin" id="AS_PIKES_BASIN" position="[-2887.409, -2402.954, 70.2788]" />
+      <location UNK_813B03CC="Pleasance" id="AS_PLEASANCE" position="[1754.745, -413.5277, 47.1946]" />
+      <location UNK_813B03CC="Saint Denis Graveyard" id="AS_SAINTDENIS_GRAVEYARD" position="[2652.087, -1239.934, 52.2043]" />
+      <location UNK_813B03CC="Saint Denis Police Station" id="AS_SAINTDENIS_POLICE_STATION01" position="[2489.35, -1320.702, 47.7086]" />
+      <location UNK_813B03CC="Saint Denis Wedding" id="AS_SAINTDENIS_WEDDING" position="[2652.087, -1239.934, 52.2043]" />
+      <location UNK_813B03CC="Shady Belle" id="AS_SHADY_BELLE_ASSAULT" position="[1808.953, -1803.744, 47.6636]" />
+      <location UNK_813B03CC="Stillwater Creek" id="AS_STILLWATER_CREEK" position="[-1702.229, -2625.46, 64.5183]">
+        <UNK_31870B95>
+          <UNK_6807AA00 position="[-1815.997, -2397.28, 42.16]" />
+        </UNK_31870B95>
+      </location>
+      <location UNK_813B03CC="Two Crows" id="AS_TWO_CROWS" position="[-3837.146, -3002.683, -7.829]" />
+      <location UNK_813B03CC="Braithwaite Manor" id="AS_SCARLETT_BRAITHWAITES01" position="[1143.266, -1857.021, 47.3874]" />
+      <location UNK_813B03CC="Shady Belle Assault" id="AS_SHADY_BELLE_ASSAULT" position="[1933.661, -1861.53, 40.6538]" />
+    </mission>
+    <mission UNK_813B03CC="Assassination (Standard) Intro" type="ASSASSINATION_INTRO">
+      <location UNK_813B03CC="Civil War Fort" id="AS_CIVIL_WAR_FORT01" position="[2445.21, 293.7838, 69.3587]" />
+      <location UNK_813B03CC="Two Crows" id="AS_TWO_CROWS" position="[-3837.146, -3002.683, -7.829]" />
+    </mission>
+    <mission UNK_813B03CC="Assassination (Tracking)" type="ASSASSINATION_TRACKING">
+      <location UNK_813B03CC="Ambarino Tracking" id="AS_AMBARINO_TRACKING" position="[-1438.979, 3039.257, 437.7193]" />
+      <location UNK_813B03CC="Bristlebush" id="AS_BRISTLEBUSH" position="[-2029.79, -2830.09, 25.7743]" />
+      <location UNK_813B03CC="Elysian Pool" id="AS_ELYSIAN_POOL" position="[2379.97, 897.03, 75.0]" />
+      <location UNK_813B03CC="Hagen Orchards" id="AS_HAGEN_ORCHARDS" position="[2068.436, -834.3069, 41.7307]" />
+      <location UNK_813B03CC="Lake Isabella" id="AS_LAKE_ISABELLA" position="[-1712.158, 1743.478, 234.5325]" />
+      <location UNK_813B03CC="Tall Trees" id="AS_TALL_TREES" position="[-2131.115, -1881.417, 118.2941]" />
+      <location UNK_813B03CC="Elysian Pool" id="AS_ELYSIAN_POOL" position="[2379.97, 897.03, 75.0]" />
+      <location UNK_813B03CC="Hagen Orchards" id="AS_HAGEN_ORCHARDS" position="[2018.842, -825.3033, 41.2369]" />
+    </mission>
+    <mission UNK_813B03CC="Assassination (Tracking) Intro" type="ASSASSINATION_TRACKING_INTRO">
+      <location UNK_813B03CC="Bristlebush" id="AS_BRISTLEBUSH" position="[-1935.152, -2828.262, 77.02]" />
+      <location UNK_813B03CC="Elysian Pool" id="AS_ELYSIAN_POOL" position="[2379.97, 897.03, 75.0]" />
+      <location UNK_813B03CC="Lake Isabella" id="AS_LAKE_ISABELLA" position="[-1712.158, 1743.478, 234.5325]" />
+    </mission>
+  </missions>
+</root>

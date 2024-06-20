@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4DD949B>
+    <story id="STORY_TEMPLATE">
+      <section ambient="true" branch="1" context="CALL" delay="0" UNK_FE1F0007="true" extra="RT_HEADS_UP_FRIENDLY_CAMP" UNK_EE6AA354="true" UNK_254A4989="true" index="0" speech="x_call" type="CALL" />
+      <section UNK_999A2A3C="x_intro_neg" UNK_89105257="x_intro_pos" branch="2" UNK_D1B3CEF8="3" context="INTRO" delay="0" index="1" input="true" UNK_269B006E="x_intro_neg_j" UNK_35F9DB1D="x_intro_pos_j" speech="x_intro" type="INTRO" />
+      <section branch="4" delay="0" index="2" speech="x_int_pos_a" type="INTRO_POS" />
+      <section branch="13" delay="0" index="3" speech="x_int_neg_end" type="INTRO_NEG" />
+      <section branch="5" UNK_D1B3CEF8="6" delay="0" index="4" input="true" UNK_1B72FA0C="true" speech="x_a" type="A" />
+      <section branch="7" delay="0" index="5" speech="x_ab_pos" type="AB_POS" />
+      <section branch="7" delay="0" index="6" speech="x_ab_neg" type="AB_NEG" />
+      <section branch="8" UNK_D1B3CEF8="9" delay="0" index="7" input="true" UNK_1B72FA0C="true" speech="x_b" type="B" />
+      <section branch="10" delay="0" index="8" speech="x_bc_pos" type="BC_POS" />
+      <section branch="10" delay="0" index="9" speech="x_bc_neg" type="BC_NEG" />
+      <section branch="12" UNK_D1B3CEF8="11" delay="0" index="10" input="true" speech="x_c" type="C" />
+      <section branch="13" delay="0" index="11" speech="x_neg_end" type="END_NEG" />
+      <section branch="13" delay="0" index="12" speech="x_d" type="D" />
+      <section UNK_136BE222="x_exit_day" UNK_5ABE3D6B="x_exit_night" index="13" type="EXIT" />
+    </story>
+    <story id="CSH_CHELONIAN_STORY">
+      <section branch="1" context="CALL" delay="4" UNK_FE1F0007="true" index="0" speech="977_CALL" type="CALL" />
+      <section UNK_999A2A3C="977_INTRO_NEG" UNK_89105257="977_INTRO_POS" branch="3" UNK_D1B3CEF8="2" context="INTRO" delay="4" index="1" input="true" UNK_269B006E="977_INTRO_NEG_J" UNK_35F9DB1D="977_INTRO_POS_J" speech="977_INTRO" type="INTRO" />
+      <section branch="3" delay="2" index="2" speech="977_INTRO_END" type="INTRO_NEG" />
+      <section branch="4" UNK_D1B3CEF8="5" delay="0.5" index="3" input="true" UNK_1B72FA0C="true" speech="977_A" type="A" />
+      <section branch="6" delay="1" index="4" speech="977_AB_BCH_POS" type="AB_POS" />
+      <section branch="6" delay="1.5" index="5" speech="977_AB_BCH_NEG" type="AB_NEG" />
+      <section branch="7" UNK_D1B3CEF8="8" delay="0.5" index="6" input="true" UNK_1B72FA0C="true" speech="977_B" type="B" />
+      <section branch="9" delay="1.5" index="7" speech="977_BC_BCH_POS" type="BC_POS" />
+      <section branch="9" delay="2" index="8" speech="977_BC_BCH_NEG" type="BC_NEG" />
+      <section branch="11" UNK_D1B3CEF8="10" delay="0.5" index="9" input="true" speech="977_C" type="C" />
+      <section branch="12" delay="2" index="10" speech="977_CD_BCH_NEG" type="END_NEG" />
+      <section branch="12" delay="2" index="11" speech="977_D" type="D" />
+      <section UNK_136BE222="977_EXIT_DAY" UNK_5ABE3D6B="977_EXIT_NIGHT" index="12" type="EXIT" />
+    </story>
+    <story id="CSH_CREEPER_STORY">
+      <section branch="1" context="CALL" delay="4" extra="RT_HELP_YOURSELF" index="0" speech="ACF_CALL" type="CALL" />
+      <section UNK_999A2A3C="ACF_INTRO_NEG" UNK_89105257="ACF_INTRO_POS" branch="2" context="INTRO" delay="4" index="1" input="true" UNK_269B006E="ACF_INTRO_NEG_J" UNK_35F9DB1D="ACF_INTRO_POS_J" speech="ACF_INTRO" type="INTRO" />
+      <section branch="3" UNK_D1B3CEF8="4" delay="0.5" index="2" input="true" UNK_1B72FA0C="true" speech="ACF_A" type="A" />
+      <section branch="5" delay="1.5" index="3" speech="ACF_AB_BCH_POS" type="AB_POS" />
+      <section branch="5" delay="4" index="4" speech="ACF_AB_BCH_NEG" type="AB_NEG" />
+      <section branch="6" UNK_D1B3CEF8="7" delay="0.5" index="5" input="true" speech="ACF_B" type="B" />
+      <section branch="8" delay="4" index="6" speech="ACF_BC_BCH_POS" type="BC_POS" />
+      <section branch="0" delay="0" index="7" speech="ACF_BC_BCH_NEG" type="BC_NEG" />
+      <section UNK_136BE222="ACF_EXIT_DAY" UNK_5ABE3D6B="ACF_EXIT_NIGHT" index="8" type="EXIT" />
+    </story>
+    <story id="CSH_CANNIBAL_STORY">
+      <section branch="1" context="CALL" delay="2.5" UNK_FE1F0007="true" extra="RT_HEADS_UP_FRIENDLY_CAMP" index="0" speech="192_CALL" type="CALL" />
+      <section UNK_999A2A3C="192_INTRO_NEG" UNK_89105257="192_INTRO_POS" branch="2" context="INTRO" delay="3" index="1" input="true" UNK_269B006E="192_INTRO_NEG_J" UNK_35F9DB1D="192_INTRO_POS_J" speech="192_INTRO" type="INTRO" />
+      <section branch="3" UNK_D1B3CEF8="4" delay="0.5" index="2" input="true" UNK_1B72FA0C="true" speech="192_A" type="A" />
+      <section branch="5" delay="1.5" index="3" speech="192_AB_BCH_POS" type="AB_POS" />
+      <section branch="5" delay="4" index="4" speech="192_AB_BCH_NEG" type="AB_NEG" />
+      <section branch="6" UNK_D1B3CEF8="7" delay="0.5" index="5" input="true" speech="192_B" type="B" />
+      <section branch="8" delay="4" index="6" speech="192_BC_BCH_POS" type="BC_POS" />
+      <section branch="0" delay="0" index="7" speech="192_BC_BCH_NEG" type="BC_NEG" />
+      <section UNK_136BE222="192_EXIT_DAY" UNK_5ABE3D6B="192_EXIT_NIGHT" index="8" type="EXIT" />
+    </story>
+    <story id="CSH_COPPERHEAD_STORY">
+      <section ambient="true" branch="1" context="CALL" delay="2.5" extra="RT_FRIENDLY_STAY_ALL_DAY_LONG" index="0" speech="GREET_RT_FRIENDLY" type="CALL" />
+      <section UNK_999A2A3C="963_INTRO_NEG" UNK_89105257="963_INTRO_POS" branch="2" context="INTRO" delay="3" index="1" input="true" UNK_269B006E="963_INTRO_NEG_J" UNK_35F9DB1D="963_INTRO_POS_J" speech="963_INTRO" type="INTRO" />
+      <section branch="3" UNK_D1B3CEF8="4" delay="0.5" index="2" input="true" UNK_1B72FA0C="true" speech="963_A" type="A" />
+      <section branch="5" delay="1.5" index="3" speech="963_AB_BCH_POS" type="AB_POS" />
+      <section branch="5" delay="4" index="4" speech="963_AB_BCH_NEG" type="AB_NEG" />
+      <section branch="6" UNK_D1B3CEF8="7" delay="0.5" index="5" input="true" UNK_1B72FA0C="true" speech="963_B" type="B" />
+      <section branch="8" delay="1.5" index="6" speech="963_BC_BCH_POS" type="BC_POS" />
+      <section branch="8" delay="4" index="7" speech="963_BC_BCH_NEG" type="BC_NEG" />
+      <section branch="10" UNK_D1B3CEF8="9" delay="0.5" index="8" input="true" speech="963_C" type="C" />
+      <section branch="0" delay="0" index="9" speech="963_CD_BCH_NEG" type="END_NEG" />
+      <section branch="11" delay="0.5" index="10" speech="963_D" type="D" />
+      <section UNK_136BE222="963_EXIT_DAY" UNK_5ABE3D6B="963_EXIT_NIGHT" index="11" type="EXIT" />
+    </story>
+    <story id="CSH_VALENTINE_STORY">
+      <section ambient="true" branch="1" context="CALL" delay="2" extra="RT_HEADS_UP_FRIENDLY_CAMP" UNK_254A4989="true" index="0" speech="GREET_GENERAL_STRANGER" type="CALL" />
+      <section branch="2" UNK_D1B3CEF8="3" context="INTRO" delay="0.5" index="1" input="true" UNK_1B72FA0C="true" speech="966_INTRO" type="INTRO" />
+      <section branch="4" delay="1.0" index="2" speech="966_INT_BCH_POS" type="INTRO_POS" />
+      <section branch="4" delay="3" index="3" speech="966_INT_BCH_NEG" type="INTRO_NEG" />
+      <section branch="5" UNK_D1B3CEF8="6" delay="0.5" index="4" input="true" UNK_1B72FA0C="true" speech="966_A" type="A" />
+      <section branch="7" delay="1.0" index="5" speech="966_AB_BCH_POS" type="AB_POS" />
+      <section branch="7" delay="3" index="6" speech="966_AB_BCH_NEG" type="AB_NEG" />
+      <section branch="9" UNK_D1B3CEF8="8" delay="0.5" index="7" input="true" speech="966_B" type="B" />
+      <section branch="0" delay="0" index="8" speech="966_BC_BCH_NEG" type="BC_POS" />
+      <section branch="10" delay="0.5" index="9" speech="966_C" type="D" />
+      <section UNK_136BE222="966_EXIT_DAY" UNK_5ABE3D6B="966_EXIT_NIGHT" index="10" type="EXIT" />
+    </story>
+    <story id="CSH_MURFREE_STORY">
+      <section UNK_999A2A3C="964_INTRO_NEG" UNK_89105257="964_INTRO_POS" branch="1" UNK_D1B3CEF8="2" context="CALL" delay="4" UNK_FE1F0007="true" index="0" input="true" UNK_269B006E="964_INTRO_NEG_J" UNK_35F9DB1D="964_INTRO_POS_J" UNK_1B72FA0C="true" speech="964_INTRO" type="INTRO" />
+      <section branch="3" context="INVITE" delay="1" index="1" speech="964_INT_BCH_POS" type="INTRO_POS" />
+      <section branch="0" delay="0" index="2" speech="964_INT_BCH_NEG" type="INTRO_NEG" />
+      <section branch="4" UNK_D1B3CEF8="5" context="INTRO" delay="0.5" index="3" input="true" UNK_1B72FA0C="true" speech="964_A" type="A" />
+      <section branch="6" delay="1" index="4" speech="964_AB_BCH_POS" type="AB_POS" />
+      <section branch="6" delay="1.5" index="5" speech="964_AB_BCH_NEG" type="AB_NEG" />
+      <section branch="7" UNK_D1B3CEF8="8" delay="0.5" index="6" input="true" UNK_1B72FA0C="true" speech="964_B" type="B" />
+      <section branch="9" delay="1" index="7" speech="964_BC_BCH_POS" type="BC_POS" />
+      <section branch="9" delay="1.5" index="8" speech="964_BC_BCH_NEG" type="BC_NEG" />
+      <section branch="11" UNK_D1B3CEF8="10" delay="0.5" index="9" input="true" speech="964_C" type="C" />
+      <section branch="12" delay="5" index="10" speech="964_CD_BCH_NEG" type="END_NEG" />
+      <section branch="12" delay="0.5" index="11" speech="964_D" type="D" />
+      <section UNK_136BE222="964_EXIT_DAY" UNK_5ABE3D6B="964_EXIT_NIGHT" index="12" type="EXIT" />
+    </story>
+    <story id="CSH_RHODES_STORY">
+      <section ambient="true" branch="1" context="CALL" delay="2" extra="RT_HELP_YOURSELF" index="0" speech="GREET_GENERAL_STRANGER" type="CALL" />
+      <section UNK_999A2A3C="965_INTRO_NEG" UNK_89105257="965_INTRO_POS" branch="3" UNK_D1B3CEF8="2" context="INTRO" delay="1.5" index="1" input="true" UNK_269B006E="965_INTRO_NEG_J" UNK_35F9DB1D="965_INTRO_POS_J" speech="965_INTRO" type="INTRO" />
+      <section branch="3" delay="1.5" index="2" speech="965_INT_BCH_NEG" type="INTRO_NEG" />
+      <section branch="4" UNK_D1B3CEF8="5" delay="1.5" index="3" input="true" UNK_1B72FA0C="true" speech="965_A" type="A" />
+      <section branch="6" delay="0.5" index="4" speech="965_AB_BCH_POS" type="AB_POS" />
+      <section branch="6" delay="2" index="5" speech="965_AB_BCH_NEG" type="AB_NEG" />
+      <section branch="7" UNK_D1B3CEF8="8" delay="1.5" index="6" input="true" UNK_1B72FA0C="true" speech="965_B" type="B" />
+      <section branch="9" delay="1.5" index="7" speech="965_BC_BCH_POS" type="BC_POS" />
+      <section branch="9" delay="2" index="8" speech="965_BC_BCH_NEG" type="BC_NEG" />
+      <section branch="11" UNK_D1B3CEF8="10" delay="1.5" index="9" input="true" speech="965_C" type="C" />
+      <section branch="0" delay="0" index="10" speech="965_CD_BCH_NEG" type="END_NEG" />
+      <section branch="12" delay="0.5" index="11" speech="965_D" type="D" />
+      <section UNK_136BE222="965_EXIT_DAY" UNK_5ABE3D6B="965_EXIT_NIGHT" index="12" type="EXIT" />
+    </story>
+    <story id="CSH_PIG_FARM_STORY">
+      <section ambient="true" branch="1" context="CALL" delay="2" UNK_FE1F0007="true" extra="RT_HEADS_UP_FRIENDLY_CAMP" index="0" speech="GREET_GENERAL_STRANGER" type="CALL" />
+      <section UNK_999A2A3C="967_INTRO_NEG" UNK_89105257="967_INTRO_POS" branch="3" UNK_D1B3CEF8="2" context="INTRO" delay="4" index="1" input="true" UNK_269B006E="967_INTRO_NEG_J" UNK_35F9DB1D="967_INTRO_POS_J" speech="967_INTRO" type="INTRO" />
+      <section branch="3" delay="2" index="2" speech="967_INT_BCH_NEG" type="INTRO_NEG" />
+      <section branch="4" UNK_D1B3CEF8="5" delay="0.5" index="3" input="true" UNK_1B72FA0C="true" speech="967_A" type="A" />
+      <section branch="6" delay="2" index="4" speech="967_AB_BCH_POS" type="AB_POS" />
+      <section branch="6" delay="3" index="5" speech="967_AB_BCH_NEG" type="AB_NEG" />
+      <section branch="7" UNK_D1B3CEF8="8" delay="0.5" index="6" input="true" UNK_1B72FA0C="true" speech="967_B" type="B" />
+      <section branch="9" delay="2" index="7" speech="967_BC_BCH_POS" type="BC_POS" />
+      <section branch="9" delay="3" index="8" speech="967_BC_BCH_NEG" type="BC_NEG" />
+      <section branch="11" UNK_D1B3CEF8="10" delay="0.5" index="9" input="true" speech="967_C" type="C" />
+      <section branch="12" delay="8" index="10" speech="967_CD_BCH_NEG" type="END_NEG" />
+      <section branch="12" delay="4" index="11" speech="967_D" type="D" />
+      <section UNK_136BE222="967_EXIT_DAY" UNK_5ABE3D6B="967_EXIT_NIGHT" index="12" type="EXIT" />
+    </story>
+    <story id="CSH_PRINCESS_STORY">
+      <section branch="1" context="CALL" delay="2.5" index="0" speech="968_CALL" type="CALL" />
+      <section UNK_999A2A3C="968_INTRO_NEG" UNK_89105257="968_INTRO_POS" branch="2" UNK_D1B3CEF8="3" delay="4" index="1" input="true" UNK_269B006E="968_INTRO_NEG_J" UNK_35F9DB1D="968_INTRO_POS_J" speech="968_INTRO" type="INTRO" />
+      <section branch="4" context="INVITE" delay="2.5" index="2" speech="968_INTRO_A" type="INTRO_POS" />
+      <section branch="0" delay="0" index="3" speech="968_INTRO_END" type="INTRO_NEG" />
+      <section branch="5" UNK_D1B3CEF8="6" context="INTRO" delay="0.5" index="4" input="true" UNK_1B72FA0C="true" speech="968_A" type="A" />
+      <section branch="7" delay="1.5" index="5" speech="968_AB_BCH_POS" type="AB_POS" />
+      <section branch="7" delay="2" index="6" speech="968_AB_BCH_NEG" type="AB_NEG" />
+      <section branch="8" UNK_D1B3CEF8="9" delay="1" index="7" input="true" speech="968_B" type="B" />
+      <section branch="10" delay="2" index="8" speech="968_BC_BCH_POS" type="BC_POS" />
+      <section branch="0" delay="0" index="9" speech="968_BC_BCH_NEG" type="BC_NEG" />
+      <section UNK_136BE222="968_EXIT_DAY" UNK_5ABE3D6B="968_EXIT_NIGHT" index="10" type="EXIT" />
+    </story>
+    <story id="CSH_TREASURE_STORY">
+      <section ambient="true" branch="1" context="CALL" delay="2.5" UNK_FE1F0007="true" extra="RT_HEADS_UP_FRIENDLY_CAMP" index="0" speech="GREET_GENERAL_FAMILIAR" type="CALL" />
+      <section UNK_999A2A3C="969_INTRO_NEG" UNK_89105257="969_INTRO_POS" branch="3" UNK_D1B3CEF8="2" context="INTRO" delay="4" index="1" input="true" UNK_269B006E="969_INTRO_NEG_J" UNK_35F9DB1D="969_INTRO_POS_J" speech="969_INTRO" type="INTRO" />
+      <section branch="3" delay="2" index="2" speech="969_INTRO_END" type="INTRO_NEG" />
+      <section branch="4" UNK_D1B3CEF8="5" delay="0.5" index="3" input="true" UNK_1B72FA0C="true" speech="969_A" type="A" />
+      <section branch="6" delay="1.5" index="4" speech="969_AB_BCH_POS" type="AB_POS" />
+      <section branch="6" delay="3" index="5" speech="969_AB_BCH_NEG" type="AB_NEG" />
+      <section branch="7" UNK_D1B3CEF8="8" delay="1" index="6" input="true" speech="969_B" type="B" />
+      <section branch="9" delay="6" index="7" speech="969_BC_BCH_POS" type="BC_POS" />
+      <section branch="9" delay="6" index="8" speech="969_BC_BCH_NEG" type="BC_NEG" />
+      <section UNK_136BE222="969_EXIT_DAY" UNK_5ABE3D6B="969_EXIT_NIGHT" index="9" type="EXIT" />
+    </story>
+    <story id="CSH_MANZANITA_STORY">
+      <section ambient="true" branch="1" context="CALL" delay="2.5" extra="RT_HEADS_UP_FRIENDLY_CAMP" index="0" speech="GREET_GENERAL_STRANGER" type="CALL" />
+      <section UNK_999A2A3C="971_INTRO_NEG" UNK_89105257="971_INTRO_POS" branch="2" context="INTRO" delay="4" index="1" input="true" UNK_269B006E="971_INTRO_NEG_J" UNK_35F9DB1D="971_INTRO_POS_J" speech="971_INTRO" type="INTRO" />
+      <section branch="3" UNK_D1B3CEF8="4" delay="0.5" index="2" input="true" UNK_1B72FA0C="true" speech="971_A" type="A" />
+      <section branch="5" delay="0.5" index="3" speech="971_AB_BCH_POS" type="AB_POS" />
+      <section branch="5" delay="4" index="4" speech="971_AB_BCH_NEG" type="AB_NEG" />
+      <section branch="6" UNK_D1B3CEF8="7" delay="0.5" index="5" input="true" speech="971_B" type="B" />
+      <section branch="8" delay="1" index="6" speech="971_BC_BCH_POS" type="BC_POS" />
+      <section branch="0" delay="0" index="7" speech="971_BC_BCH_NEG" type="BC_NEG" />
+      <section UNK_136BE222="971_EXIT_DAY" UNK_5ABE3D6B="971_EXIT_NIGHT" index="8" type="EXIT" />
+    </story>
+    <story id="CSH_BAY_PANTHER_STORY">
+      <section ambient="true" branch="1" context="CALL" delay="2.5" extra="RT_FRIENDLY_STAY_ALL_DAY_LONG" index="0" speech="GREET_GENERAL_STRANGER" type="CALL" />
+      <section branch="2" UNK_D1B3CEF8="3" context="INTRO" delay="0.5" index="1" input="true" UNK_1B72FA0C="true" speech="972_INTRO" type="INTRO" />
+      <section branch="4" delay="1" index="2" speech="972_INTRO_POS" type="INTRO_POS" />
+      <section branch="4" delay="2" index="3" speech="972_INTRO_NEG" type="INTRO_NEG" />
+      <section branch="6" UNK_D1B3CEF8="5" delay="0.5" index="4" input="true" speech="972_A" type="A" />
+      <section branch="0" delay="0" index="5" speech="972_AB_BCH_NEG" type="AB_NEG" />
+      <section branch="7" delay="1" index="6" speech="972_B" type="B" />
+      <section UNK_136BE222="972_EXIT_DAY" UNK_5ABE3D6B="972_EXIT_NIGHT" index="7" type="EXIT" />
+    </story>
+    <story id="CSH_BAYOU_GHOST_STORY">
+      <section ambient="true" branch="1" context="CALL" delay="2.5" extra="RT_HEADS_UP_FRIENDLY_CAMP" UNK_254A4989="true" index="0" speech="GREET_GENERAL_STRANGER" type="CALL" />
+      <section UNK_999A2A3C="045_INTR_NEG" UNK_89105257="045_INTR_POS" branch="3" UNK_D1B3CEF8="2" context="INTRO" delay="4" index="1" input="true" UNK_269B006E="045_INTR_NEGJ" UNK_35F9DB1D="045_INTR_POSJ" speech="045_INTR" type="INTRO" />
+      <section branch="3" delay="4" index="2" speech="045_INTR_NEGRES" type="INTRO_NEG" />
+      <section branch="4" UNK_D1B3CEF8="5" delay="1.5" index="3" input="true" UNK_1B72FA0C="true" speech="045_STRY_1" type="A" />
+      <section branch="6" delay="1" index="4" speech="045_STRY1_POSR" type="AB_POS" />
+      <section branch="6" delay="2" index="5" speech="045_STRY1_NEGR" type="AB_NEG" />
+      <section branch="7" UNK_D1B3CEF8="8" delay="1.5" index="6" input="true" UNK_1B72FA0C="true" speech="045_STRY_2" type="B" />
+      <section branch="9" delay="1" index="7" speech="045_STRY2_POSR" type="BC_POS" />
+      <section branch="9" delay="1" index="8" speech="045_STRY2_NEGR" type="BC_NEG" />
+      <section branch="11" UNK_D1B3CEF8="10" delay="1.5" index="9" input="true" speech="045_STRY_3" type="C" />
+      <section branch="12" delay="6" index="10" speech="045_NEG_END" type="END_NEG" />
+      <section branch="12" delay="4" index="11" speech="045_STRY_4" type="D" />
+      <section UNK_136BE222="045_EXIT_DAY" UNK_5ABE3D6B="045_EXIT_NIGHT" index="12" type="EXIT" />
+    </story>
+    <story id="CSH_RED_HARLOW_STORY">
+      <section ambient="true" branch="1" context="CALL" delay="2.5" extra="RT_HEADS_UP_FRIENDLY_CAMP" UNK_254A4989="true" index="0" speech="GREET_GENERAL_STRANGER" type="CALL" />
+      <section UNK_999A2A3C="973_INTRO_NEG" UNK_89105257="973_INTRO_POS" branch="2" context="INTRO" delay="4" index="1" input="true" UNK_269B006E="973_INTRO_NEG_J" UNK_35F9DB1D="973_INTRO_POS_J" speech="973_INTRO" type="INTRO" />
+      <section branch="3" UNK_D1B3CEF8="4" delay="0.5" index="2" input="true" UNK_1B72FA0C="true" speech="973_A" type="A" />
+      <section branch="5" delay="1" index="3" speech="973_AB_BCH_POS" type="AB_POS" />
+      <section branch="5" delay="3" index="4" speech="973_AB_BCH_NEG" type="AB_NEG" />
+      <section branch="6" UNK_D1B3CEF8="7" delay="0.5" index="5" input="true" speech="973_B" type="B" />
+      <section branch="8" delay="2" index="6" speech="973_BC_BCH_POS" type="BC_POS" />
+      <section branch="8" delay="4" index="7" speech="973_BC_BCH_NEG" type="BC_NEG" />
+      <section UNK_136BE222="973_EXIT_DAY" UNK_5ABE3D6B="973_EXIT_NIGHT" index="8" type="EXIT" />
+    </story>
+    <story id="CSH_STD_STATUE_STORY">
+      <section ambient="true" branch="1" context="CALL" delay="2.5" UNK_FE1F0007="true" extra="RT_HELP_YOURSELF" index="0" speech="RT_HEADS_UP_FRIENDLY_CAMP" type="CALL" />
+      <section UNK_999A2A3C="975_INTRO_NEG" UNK_89105257="975_INTRO_POS" branch="2" context="INTRO" delay="4" index="1" input="true" UNK_269B006E="975_INTRO_NEG_J" UNK_35F9DB1D="975_INTRO_POS_J" speech="975_INTRO" type="INTRO" />
+      <section branch="3" UNK_D1B3CEF8="4" delay="0.5" index="2" input="true" UNK_1B72FA0C="true" speech="975_A" type="A" />
+      <section branch="5" delay="2" index="3" speech="975_AB_BCH_POS" type="AB_POS" />
+      <section branch="5" delay="2" index="4" speech="975_AB_BCH_NEG" type="AB_NEG" />
+      <section branch="6" UNK_D1B3CEF8="7" delay="0.5" index="5" input="true" speech="975_B" type="B" />
+      <section branch="8" delay="4" index="6" speech="975_BC_BCH_POS" type="BC_POS" />
+      <section branch="0" delay="0" index="7" speech="975_BC_BCH_NEG" type="BC_NEG" />
+      <section UNK_136BE222="975_EXIT_DAY" UNK_5ABE3D6B="975_EXIT_NIGHT" index="8" type="EXIT" />
+    </story>
+    <story id="CSH_EMR_STORY">
+      <section ambient="true" branch="1" context="CALL" delay="2.5" extra="RT_HEADS_UP_FRIENDLY_CAMP" UNK_254A4989="true" index="0" speech="GREET_GENERAL_STRANGER" type="CALL" />
+      <section UNK_999A2A3C="976_INTRO_NEG" UNK_89105257="976_INTRO_POS" branch="2" context="INTRO" delay="3" index="1" input="true" UNK_269B006E="976_INTRO_NEG_J" UNK_35F9DB1D="976_INTRO_POS_J" speech="976_INTRO" type="INTRO" />
+      <section branch="3" UNK_D1B3CEF8="4" delay="0.5" index="2" input="true" UNK_1B72FA0C="true" speech="976_A" type="A" />
+      <section branch="5" delay="1" index="3" speech="976_AB_BCH_POS" type="AB_POS" />
+      <section branch="5" delay="2" index="4" speech="976_AB_BCH_NEG" type="AB_NEG" />
+      <section branch="6" UNK_D1B3CEF8="7" delay="0.5" index="5" input="true" speech="976_B" type="B" />
+      <section branch="8" delay="4" index="6" speech="976_BC_BCH_POS" type="BC_POS" />
+      <section branch="8" delay="4" index="7" speech="976_BC_BCH_NEG" type="BC_NEG" />
+      <section UNK_136BE222="976_EXIT_DAY" UNK_5ABE3D6B="976_EXIT_NIGHT" index="8" type="EXIT" />
+    </story>
+    <story id="CSH_BLACK_BELLE_STORY">
+      <section ambient="true" branch="1" context="CALL" delay="2.5" extra="RT_HEADS_UP_FRIENDLY_CAMP" UNK_254A4989="true" index="0" speech="GREET_GENERAL_STRANGER" type="CALL" />
+      <section UNK_999A2A3C="1049_INT_NEG_A" UNK_89105257="1049_INT_POS_A" branch="2" context="INTRO" delay="4" index="1" input="true" UNK_269B006E="1049_INT_NEG_J" UNK_35F9DB1D="1049_INT_POS_J" speech="1049_INTRO" type="INTRO" />
+      <section branch="3" UNK_D1B3CEF8="4" delay="0.5" index="2" input="true" UNK_1B72FA0C="true" speech="1049_STORY_P1" type="A" />
+      <section branch="5" delay="1" index="3" speech="1049_STORY_P1_P" type="AB_POS" />
+      <section branch="5" delay="2.5" index="4" speech="1049_STORY_P1_N" type="AB_NEG" />
+      <section branch="6" UNK_D1B3CEF8="7" delay="0.5" index="5" input="true" UNK_1B72FA0C="true" speech="1049_STORY_P2" type="B" />
+      <section branch="8" delay="1.5" index="6" speech="1049_STORY_P2_P" type="BC_POS" />
+      <section branch="8" delay="2.5" index="7" speech="1049_STORY_P2_N" type="BC_NEG" />
+      <section branch="10" UNK_D1B3CEF8="9" delay="0.5" index="8" input="true" speech="1049_STORY_P3" type="C" />
+      <section branch="0" delay="0" index="9" speech="1049_STORY_P3_N" type="END_NEG" />
+      <section branch="11" delay="3" index="10" speech="1049_STORY_P4" type="D" />
+      <section UNK_136BE222="1049_END_DAY" UNK_5ABE3D6B="1049_END_NIGHT" index="11" type="EXIT" />
+    </story>
+    <story id="CSH_NIGHTFOLK_STORY">
+      <section ambient="true" branch="1" context="CALL" delay="2.5" extra="RT_HEADS_UP_FRIENDLY_CAMP" UNK_254A4989="true" index="0" speech="GREET_GENERAL_STRANGER" type="CALL" />
+      <section UNK_999A2A3C="C1050_NEG_A" UNK_89105257="C1050_POS_A" branch="2" context="INTRO" delay="4" index="1" input="true" UNK_269B006E="C1050_NEG_J" UNK_35F9DB1D="C1050_POS_J" speech="C1050_INTRO" type="INTRO" />
+      <section branch="3" UNK_D1B3CEF8="4" delay="0.5" index="2" input="true" UNK_1B72FA0C="true" speech="C1050_STORY_P1" type="A" />
+      <section branch="5" delay="1.5" index="3" speech="C1050_POS_RES_1" type="AB_POS" />
+      <section branch="5" delay="1.5" index="4" speech="C1050_NEG_RES_1" type="AB_NEG" />
+      <section branch="7" UNK_D1B3CEF8="6" delay="0.5" index="5" input="true" speech="C1050_STORY_P2" type="B" />
+      <section branch="0" delay="0" index="6" speech="C1050_NEG_RES_2" type="BC_NEG" />
+      <section branch="8" delay="3" index="7" speech="C1050_STORY_P3" type="C" />
+      <section UNK_136BE222="C1050_EXIT_DAY" UNK_5ABE3D6B="C1050_EXIT_NGHT" index="8" type="EXIT" />
+    </story>
+    <story id="CSH_TUMBLEWEED_STORY">
+      <section ambient="true" branch="1" context="CALL" delay="2.5" UNK_FE1F0007="true" extra="RT_HEADS_UP_FRIENDLY_CAMP" UNK_254A4989="true" index="0" speech="RT_HEADS_UP_FRIENDLY_CAMP" type="CALL" />
+      <section UNK_999A2A3C="1088_INT_NEG_A" UNK_89105257="1088_INT_POS_A" branch="3" UNK_D1B3CEF8="2" context="INTRO" delay="4" index="1" input="true" UNK_269B006E="1088_INT_NEG_J" UNK_35F9DB1D="1088_INT_POS_J" speech="1088_INTRO" type="INTRO" />
+      <section branch="3" delay="2" index="2" speech="1088_RESPNS_NEG" type="INTRO_NEG" />
+      <section branch="4" UNK_D1B3CEF8="5" delay="0.5" index="3" input="true" UNK_1B72FA0C="true" speech="1088_STORY_P1" type="A" />
+      <section branch="6" delay="1" index="4" speech="1088_STORY_P1_P" type="AB_POS" />
+      <section branch="6" delay="2" index="5" speech="1088_STORY_P1_N" type="AB_NEG" />
+      <section branch="8" UNK_D1B3CEF8="7" delay="0.5" index="6" input="true" speech="1088_STORY_P2" type="B" />
+      <section branch="0" delay="0" index="7" speech="1088_STORY_P2_N" type="END_NEG" />
+      <section branch="9" delay="3" index="8" speech="1088_STORY_P3" type="D" />
+      <section UNK_136BE222="1088_END_DAY" UNK_5ABE3D6B="1088_END_NIGHT" index="9" type="EXIT" />
+    </story>
+    <story id="CSH_ARMADILLO_STORY">
+      <section ambient="true" branch="1" context="CALL" delay="2.5" UNK_FE1F0007="true" extra="RT_HEADS_UP_FRIENDLY_CAMP" UNK_254A4989="true" index="0" speech="GREET_GENERAL_STRANGER" type="CALL" />
+      <section branch="2" UNK_D1B3CEF8="3" context="INTRO" delay="0.5" index="1" input="true" UNK_1B72FA0C="true" speech="C1089_STORY_P1" type="A" />
+      <section branch="4" delay="1" index="2" speech="C1089_POS_RES_1" type="AB_POS" />
+      <section branch="4" delay="1" index="3" speech="C1089_NEG_RES_1" type="AB_NEG" />
+      <section branch="6" UNK_D1B3CEF8="5" delay="0.5" index="4" input="true" speech="C1089_STORY_P2" type="B" />
+      <section branch="0" delay="0" index="5" speech="C1089_NEG_RES_2" type="BC_NEG" />
+      <section branch="7" delay="3" index="6" speech="C1089_STORY_P3" type="C" />
+      <section UNK_136BE222="C1089_EXIT_DAY" UNK_5ABE3D6B="C1089_EXIT_NGHT" index="7" type="EXIT" />
+    </story>
+  </UNK_B4DD949B>
+</root>

@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4A1A2EA>
+    <propset id="HASH_PROPSET_1">
+      <schedule id="HSID_DEFAULT">
+        <volumes>
+          <volume offset="[0.0, 0.0, 0.0]" size="[10.0, 10.0, 10.0]" />
+        </volumes>
+        <peds>
+          <ped>
+            <UNK_9E1FDD86 endhour="7" starthour="23" UNK_CDB21805="0" />
+            <UNK_9E1FDD86 endhour="23" starthour="7" UNK_CDB21805="0" />
+          </ped>
+        </peds>
+      </schedule>
+      <schedule id="HSID_FISHERMAN_3">
+        <volumes>
+          <volume index="0" offset="[0.0, 0.0, 0.0]" size="[30.0, 30.0, 30.0]" />
+        </volumes>
+        <peds>
+          <ped>
+            <UNK_9E1FDD86 endhour="9" starthour="23" UNK_CDB21805="0" />
+            <UNK_9E1FDD86 endhour="23" starthour="9" UNK_CDB21805="0" />
+          </ped>
+        </peds>
+      </schedule>
+      <schedule id="HSID_SQ_MACOMB">
+        <volumes>
+          <volume index="0" size="[7.274837, 7.956089, 20.0]" worldpos="[1895.526, -742.4401, 26.61164]" />
+          <volume index="1" size="[11.66551, 7.956089, 20.0]" worldpos="[1909.2, -738.3381, 26.61164]" />
+          <volume index="2" size="[1.535397, 1.832445, 20.0]" worldpos="[1890.863, -771.2888, 26.61164]" />
+          <volume index="3" size="[5.892065, 3.609958, 20.0]" worldpos="[1877.886, -738.3381, 26.61164]" />
+          <volume index="4" size="[3.523254, 3.793201, 20.0]" worldpos="[1883.301, -751.1123, 26.61164]" />
+        </volumes>
+        <peds>
+          <ped>
+            <UNK_9E1FDD86 endhour="6" starthour="19" UNK_CDB21805="0" />
+            <UNK_9E1FDD86 endhour="8" starthour="6" UNK_CDB21805="1" />
+            <UNK_9E1FDD86 endhour="11" starthour="8" UNK_CDB21805="2" />
+            <UNK_9E1FDD86 endhour="15" starthour="11" UNK_CDB21805="0" />
+            <UNK_9E1FDD86 endhour="17" starthour="15" UNK_CDB21805="3" />
+            <UNK_9E1FDD86 endhour="19" starthour="17" UNK_CDB21805="4" />
+          </ped>
+        </peds>
+      </schedule>
+      <schedule id="HSID_FORAGER_1">
+        <volumes>
+          <volume offset="[0.0, 0.0, 0.0]" size="[30.0, 30.0, 30.0]" />
+        </volumes>
+        <peds>
+          <ped>
+            <UNK_9E1FDD86 endhour="9" starthour="23" UNK_CDB21805="0" />
+            <UNK_9E1FDD86 endhour="23" starthour="9" UNK_CDB21805="0" />
+          </ped>
+          <ped>
+            <UNK_9E1FDD86 endhour="9" starthour="23" UNK_CDB21805="0" />
+            <UNK_9E1FDD86 endhour="23" starthour="9" UNK_CDB21805="0" />
+          </ped>
+        </peds>
+      </schedule>
+      <schedule id="HSID_HIKER_CAVE">
+        <volumes>
+          <volume index="0" size="[4.802873, 3.800865, 1.381956]" worldpos="[-1529.88, -307.8095, 141.4873]" />
+          <volume index="1" size="[15.0, 15.0, 3.0]" worldpos="[-1529.88, -307.8095, 141.4873]" />
+        </volumes>
+        <peds>
+          <ped>
+            <UNK_9E1FDD86 endhour="9" starthour="23" UNK_CDB21805="0" />
+            <UNK_9E1FDD86 endhour="23" starthour="9" UNK_CDB21805="0" />
+          </ped>
+          <ped>
+            <UNK_9E1FDD86 endhour="9" starthour="23" UNK_CDB21805="1" />
+            <UNK_9E1FDD86 endhour="23" starthour="9" UNK_CDB21805="1" />
+          </ped>
+        </peds>
+      </schedule>
+      <schedule id="HSID_CHELONIAN">
+        <volumes>
+          <volume heading="30" size="[15.0, 40.0, 5.0]" worldpos="[-693.0, -459.0, 43.0]" />
+        </volumes>
+        <peds>
+          <ped>
+            <UNK_9E1FDD86 endhour="9" starthour="23" UNK_CDB21805="0" />
+            <UNK_9E1FDD86 endhour="23" starthour="9" UNK_CDB21805="0" />
+          </ped>
+          <ped>
+            <UNK_9E1FDD86 endhour="9" starthour="23" UNK_CDB21805="0" />
+            <UNK_9E1FDD86 endhour="23" starthour="9" UNK_CDB21805="0" />
+          </ped>
+        </peds>
+      </schedule>
+    </propset>
+    <propset id="HASH_PROPSET_2">
+      <schedule id="HSID_DEFAULT">
+        <volumes>
+          <volume offset="[0.0, 0.0, 0.0]" size="[10.0, 10.0, 10.0]" />
+        </volumes>
+        <peds>
+          <ped>
+            <UNK_9E1FDD86 endhour="7" starthour="23" UNK_CDB21805="0" />
+            <UNK_9E1FDD86 endhour="23" starthour="7" UNK_CDB21805="0" />
+          </ped>
+        </peds>
+      </schedule>
+      <schedule id="HSID_FRIENDLY">
+        <volumes>
+          <volume index="0" offset="[0.0, 0.0, 0.0]" size="[10.0, 10.0, 10.0]" />
+          <volume index="1" offset="[-2.167, -1.799, 1.0]" size="[1.0, 1.0, 2.0]" />
+          <volume index="2" offset="[-0.899, -0.671, 1.0]" size="[1.0, 1.0, 2.0]" />
+          <volume index="3" size="[10.0, 10.0, 10.0]" worldpos="[-683.23, -489.33, 40.54]" />
+        </volumes>
+        <peds>
+          <ped>
+            <UNK_9E1FDD86 endhour="23" starthour="7" UNK_CDB21805="1" />
+            <UNK_9E1FDD86 endhour="23" starthour="7" UNK_CDB21805="2" />
+            <UNK_9E1FDD86 endhour="23" starthour="7" UNK_CDB21805="3" />
+            <UNK_9E1FDD86 endhour="7" starthour="23" UNK_CDB21805="0" />
+          </ped>
+        </peds>
+      </schedule>
+    </propset>
+    <propset id="HASH_PROPSET_3">
+      <schedule id="HSID_DEFAULT">
+        <volumes>
+          <volume offset="[0.0, 0.0, 0.0]" size="[10.0, 10.0, 10.0]" />
+        </volumes>
+        <peds>
+          <ped>
+            <UNK_9E1FDD86 endhour="7" starthour="23" UNK_CDB21805="0" />
+            <UNK_9E1FDD86 endhour="23" starthour="7" UNK_CDB21805="0" />
+          </ped>
+          <ped>
+            <UNK_9E1FDD86 endhour="7" starthour="23" UNK_CDB21805="0" />
+            <UNK_9E1FDD86 endhour="23" starthour="7" UNK_CDB21805="0" />
+          </ped>
+        </peds>
+      </schedule>
+    </propset>
+    <propset id="HASH_PROPSET_4">
+      <schedule id="HSID_DEFAULT">
+        <volumes>
+          <volume offset="[0.0, 0.0, 0.0]" size="[10.0, 10.0, 10.0]" />
+        </volumes>
+        <peds>
+          <ped>
+            <UNK_9E1FDD86 endhour="7" starthour="23" UNK_CDB21805="0" />
+            <UNK_9E1FDD86 endhour="23" starthour="7" UNK_CDB21805="0" />
+          </ped>
+          <ped>
+            <UNK_9E1FDD86 endhour="7" starthour="23" UNK_CDB21805="0" />
+            <UNK_9E1FDD86 endhour="23" starthour="7" UNK_CDB21805="0" />
+          </ped>
+        </peds>
+      </schedule>
+    </propset>
+    <propset id="HASH_PROPSET_5">
+      <schedule id="HSID_DEFAULT">
+        <volumes>
+          <volume offset="[0.0, 0.0, 0.0]" size="[20.0, 20.0, 20.0]" />
+        </volumes>
+        <peds>
+          <ped>
+            <UNK_9E1FDD86 endhour="7" starthour="23" UNK_CDB21805="0" />
+            <UNK_9E1FDD86 endhour="23" starthour="7" UNK_CDB21805="0" />
+          </ped>
+          <ped>
+            <UNK_9E1FDD86 endhour="7" starthour="23" UNK_CDB21805="0" />
+            <UNK_9E1FDD86 endhour="23" starthour="7" UNK_CDB21805="0" />
+          </ped>
+        </peds>
+      </schedule>
+    </propset>
+  </UNK_B4A1A2EA>
+</root>

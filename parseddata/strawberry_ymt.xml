@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <location center="[-1780.3, -426.6, 155.9]" id="STRAWBERRY">
+    <volumes text="" />
+    <props>
+      <UNK_BA392662>
+        <UNK_16C66C34>
+          <placement id="S_GALLOWSSTAIRS03X" spawn_position="[-1806.162, -334.0109, 166.6229]" />
+        </UNK_16C66C34>
+      </UNK_BA392662>
+    </props>
+    <doors>
+      <prison>
+        <cells id="P_DOOR48X" spawn_position="[-1814.743, -355.0565, 160.4597]" />
+      </prison>
+    </doors>
+  </location>
+</root>

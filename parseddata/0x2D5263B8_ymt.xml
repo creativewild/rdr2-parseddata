@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4A1A2EA>
+    <camp name="BAY_1" pos="[1703.017, -1193.477, 40.87114]" zone="1">
+      <preset recipe="CFRT_FISHERMAN_LRG1" />
+    </camp>
+    <camp name="BAY_3" pos="[1843.409, -848.2139, 41.4866]" zone="1">
+      <preset recipe="CFRT_GROUND_WET_LRG1" />
+    </camp>
+    <camp name="BAY_4" pos="[2271.136, -880.5488, 40.67368]" zone="2">
+      <preset recipe="CFRT_FISHERMAN_LRG1" />
+    </camp>
+    <camp base="HASH_PROPSET_1_A" horse="false" UNK_D43B0E78="amb_camp_bay_squat_macomb" name="BAY_5 SQT-Macomb" pos="[1894.264, -746.6217, 40.8667]" schedule="HSID_SQ_MACOMB" />
+    <camp name="BAY_6" pos="[1800.8, -650.0999, 41.79465]" zone="1">
+      <preset recipe="CFRT_UNIQUE_TREE_SCAFF1" />
+    </camp>
+    <camp name="BAY_8" pos="[1965.484, -534.3154, 40.79573]" zone="3">
+      <preset recipe="CFRT_HOBO_LRG1" />
+    </camp>
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_bay_story_specter" name="BAY_9 STY-Spectre" pos="[2073.305, -410.2393, 43.86857]" story="CSH_BAYOU_GHOST_STORY" />
+    <camp name="BAY_10" pos="[2388.503, -804.0573, 40.40003]" zone="1">
+      <preset recipe="CFRT_HOBO_SML1" />
+    </camp>
+    <camp name="BLU_3" pos="[2394.699, -629.6008, 41.0268]" zone="2">
+      <preset recipe="CFRT_FOLIAGE_DECIDUOUS_LRG1" />
+    </camp>
+    <camp camper="Rough" name="SCM_9" pos="[1670.983, -1804.796, 52.07475]" zone="1">
+      <preset cluster="pg_ambient_camp_add_games01" core="pg_ambient_campfire01ax" id="SCM_9" tent="pg_ambcamp01x_tent_oilskin_lean01" travel="pg_ambient_camp_add_pack02" />
+    </camp>
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_bay_story_copperhead" name="SCM_10 STY-Copperhead" pos="[2038.507, -1639.98, 40.9369]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_2" story="CSH_COPPERHEAD_STORY" tint="CTSG_PUP_SWAMP_1" />
+  </UNK_B4A1A2EA>
+</root>

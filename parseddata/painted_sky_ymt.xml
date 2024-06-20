@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <location center="[-680.4, -52.4, 83.9]" id="PAINTED_SKY">
+    <volumes>
+      <ranch>
+        <placement id="volBox" size="[140.0, 100.0, 50.0]" spawn_heading="0.0" spawn_position="[-618.2824, -37.22625, 83.73042]" />
+      </ranch>
+    </volumes>
+  </location>
+</root>

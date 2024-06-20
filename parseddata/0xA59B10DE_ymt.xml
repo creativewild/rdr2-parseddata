@@ -1,0 +1,1046 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <root>
+    <town id="REGION_ROA_ANNESBURG">
+      <UNK_BF19D25B id="TSTAG_NO_TAGS">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Annesburg_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_FIRST_VISIT">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Annesburg_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_RAIN">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Annesburg_DEFAULT" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="ASB_GUNSMITH" schedule="Annesburg/Rain/Asb_Gunsmith" />
+          <UNK_41F8F66 id="ASB_SHERIFF" schedule="Annesburg/Rain/Asb_Sheriff" />
+          <UNK_41F8F66 id="ASB_DEPUTY" schedule="Annesburg/Rain/Asb_Deputy" />
+          <UNK_41F8F66 id="ASB_GUARD_01" schedule="Annesburg/Rain/Asb_Guard_01" />
+          <UNK_41F8F66 id="ASB_GUARD_02" schedule="Annesburg/Rain/Asb_Guard_02" />
+          <UNK_41F8F66 id="ASB_GUARD_03" schedule="Annesburg/Rain/Asb_Guard_03" />
+          <UNK_41F8F66 id="ASB_GUARD_04" schedule="Annesburg/Rain/Asb_Guard_04" />
+          <UNK_41F8F66 id="ASB_GUARD_05" schedule="Annesburg/Rain/Asb_Guard_05" />
+          <UNK_41F8F66 id="ASB_GUARD_06" schedule="Annesburg/Rain/Asb_Guard_06" />
+          <UNK_41F8F66 id="ASB_GUARD_07" schedule="Annesburg/Rain/Asb_Guard_07" />
+          <UNK_41F8F66 id="ASB_HORSES_01" schedule="Annesburg/Rain/ASB_HORSES_01" />
+          <UNK_41F8F66 id="ASB_LUMBER_WORKER_01" schedule="Annesburg/Rain/Asb_Lumber_Worker_01" />
+          <UNK_41F8F66 id="ASB_LUMBER_WORKER_02" schedule="Annesburg/Rain/Asb_Lumber_Worker_02" />
+          <UNK_41F8F66 id="ASB_LUMBER_WORKER_03" schedule="Annesburg/Rain/Asb_Lumber_Worker_03" />
+          <UNK_41F8F66 id="ASB_PLANT_WORKER_01" schedule="Annesburg/Rain/Asb_Plant_Worker_01" />
+          <UNK_41F8F66 id="ASB_PLANT_WORKER_02" schedule="Annesburg/Rain/Asb_Plant_Worker_02" />
+          <UNK_41F8F66 id="ASB_PLANT_WORKER_03" schedule="Annesburg/Rain/Asb_Plant_Worker_03" />
+          <UNK_41F8F66 id="ASB_PLANT_WORKER_04" schedule="Annesburg/Rain/Asb_Plant_Worker_04" />
+          <UNK_41F8F66 id="ASB_PLANT_WORKER_05" schedule="Annesburg/Rain/Asb_Plant_Worker_05" />
+          <UNK_41F8F66 id="ASB_PLANT_WORKER_06" schedule="Annesburg/Rain/Asb_Plant_Worker_06" />
+          <UNK_41F8F66 id="ASB_MINE_WORKER_01" schedule="Annesburg/Rain/Asb_Mine_Worker_01" />
+          <UNK_41F8F66 id="ASB_MINE_WORKER_02" schedule="Annesburg/Rain/Asb_Mine_Worker_02" />
+          <UNK_41F8F66 id="ASB_MINE_WORKER_03" schedule="Annesburg/Rain/Asb_Mine_Worker_03" />
+          <UNK_41F8F66 id="ASB_MINE_WORKER_04" schedule="Annesburg/Rain/Asb_Mine_Worker_04" />
+          <UNK_41F8F66 id="ASB_MINE_WORKER_05" schedule="Annesburg/Rain/Asb_Mine_Worker_05" />
+          <UNK_41F8F66 id="ASB_MINE_WORKER_06" schedule="Annesburg/Rain/Asb_Mine_Worker_06" />
+          <UNK_41F8F66 id="ASB_MINE_WORKER_07" schedule="Annesburg/Rain/Asb_Mine_Worker_07" />
+          <UNK_41F8F66 id="ASB_MINE_WORKER_08" schedule="Annesburg/Rain/Asb_Mine_Worker_08" />
+          <UNK_41F8F66 id="ASB_MINE_WORKER_09" schedule="Annesburg/Rain/Asb_Mine_Worker_09" />
+          <UNK_41F8F66 id="ASB_MINE_WORKER_10" schedule="Annesburg/Rain/Asb_Mine_Worker_10" />
+          <UNK_41F8F66 id="ASB_MINE_WORKER_11" schedule="Annesburg/Rain/Asb_Mine_Worker_11" />
+          <UNK_41F8F66 id="ASB_MINE_WORKER_12" schedule="Annesburg/Rain/Asb_Mine_Worker_12" />
+          <UNK_41F8F66 id="ASB_WORKER_WIFE_01" schedule="Annesburg/Rain/Asb_Worker_Wife_01" />
+          <UNK_41F8F66 id="ASB_WORKER_WIFE_02" schedule="Annesburg/Rain/Asb_Worker_Wife_02" />
+          <UNK_41F8F66 id="ASB_WORKER_WIFE_03" schedule="Annesburg/Rain/Asb_Worker_Wife_03" />
+          <UNK_41F8F66 id="ASB_WORKER_WIFE_04" schedule="Annesburg/Rain/Asb_Worker_Wife_04" />
+          <UNK_41F8F66 id="ASB_WORKER_WIFE_05" schedule="Annesburg/Rain/Asb_Worker_Wife_05" />
+          <UNK_41F8F66 id="ASB_WORKER_WIFE_06" schedule="Annesburg/Rain/Asb_Worker_Wife_06" />
+          <UNK_41F8F66 id="ASB_WORKER_WIFE_07" schedule="Annesburg/Rain/Asb_Worker_Wife_07" />
+          <UNK_41F8F66 id="ASB_WORKER_WIFE_08" schedule="Annesburg/Rain/Asb_Worker_Wife_08" />
+          <UNK_41F8F66 id="ASB_WORKER_WIFE_09" schedule="Annesburg/Rain/Asb_Worker_Wife_09" />
+          <UNK_41F8F66 id="ASB_WORKER_WIFE_10" schedule="Annesburg/Rain/Asb_Worker_Wife_10" />
+          <UNK_41F8F66 id="ASB_WORKER_WIFE_11" schedule="Annesburg/Rain/Asb_Worker_Wife_11" />
+          <UNK_41F8F66 id="ASB_WORKER_WIFE_12" schedule="Annesburg/Rain/Asb_Worker_Wife_12" />
+          <UNK_41F8F66 id="ASB_WORKER_WIFE_13" schedule="Annesburg/Rain/Asb_Worker_Wife_13" />
+          <UNK_41F8F66 id="ASB_WORKER_WIFE_14" schedule="Annesburg/Rain/Asb_Worker_Wife_14" />
+        </schedules>
+      </UNK_BF19D25B>
+    </town>
+    <town id="REGION_CHO_ARMADILLO">
+      <UNK_BF19D25B id="TSTAG_NO_TAGS">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Armadillo_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_FIRST_VISIT">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Armadillo_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_LOCKDOWN_SALOON">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Armadillo_DEFAULT" />
+        </UNK_587DA382>
+      </UNK_BF19D25B>
+    </town>
+    <town id="REGION_GRT_BLACKWATER">
+      <UNK_BF19D25B id="TSTAG_NO_TAGS">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Blackwater_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_FIRST_VISIT">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Blackwater_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_LOCKDOWN_SALOON">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Blackwater_DEFAULT" />
+        </UNK_587DA382>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_RAIN">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Blackwater_DEFAULT" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="BLW_BARBER_ASSISTANT" schedule="Blackwater/Rain/BLW_Barber_Assistant" />
+          <UNK_41F8F66 id="BLW_BLACKSMITH" schedule="Blackwater/Rain/BLW_Blacksmith" />
+          <UNK_41F8F66 id="BLW_CARRIAGE_HOUSE" schedule="Blackwater/Rain/BLW_Carriage_House" />
+          <UNK_41F8F66 id="BLW_CHEF" schedule="Blackwater/Rain/BLW_Chef" />
+          <UNK_41F8F66 id="BLW_CONSTRUCTION_01" schedule="Blackwater/Rain/BLW_Construction_01" />
+          <UNK_41F8F66 id="BLW_CONSTRUCTION_02" schedule="Blackwater/Rain/BLW_Construction_02" />
+          <UNK_41F8F66 id="BLW_CONSTRUCTION_03" schedule="Blackwater/Rain/BLW_Construction_03" />
+          <UNK_41F8F66 id="BLW_CONSTRUCTION_04" schedule="Blackwater/Rain/BLW_Construction_04" />
+          <UNK_41F8F66 id="BLW_CONSTRUCTION_ASSISTANT" schedule="Blackwater/Rain/BLW_Construction_Assistant" />
+          <UNK_41F8F66 id="BLW_CONSTRUCTION_BOSS" schedule="Blackwater/Rain/BLW_Construction_Boss" />
+          <UNK_41F8F66 id="BLW_CONSTRUCTION_FOREMAN_1" schedule="Blackwater/Rain/BLW_Construction_Foreman_1" />
+          <UNK_41F8F66 id="BLW_CONSTRUCTION_FOREMAN_2" schedule="Blackwater/Rain/BLW_Construction_Foreman_2" />
+          <UNK_41F8F66 id="BLW_GENERAL_STORE" schedule="Blackwater/Rain/BLW_General_Store" />
+          <UNK_41F8F66 id="BLW_GROCERY_FARMER" schedule="Blackwater/Rain/BLW_Grocery_Farmer" />
+          <UNK_41F8F66 id="BLW_HANDYMAN_1" schedule="Blackwater/Rain/BLW_Handyman_1" />
+          <UNK_41F8F66 id="BLW_HANDYMAN_2" schedule="Blackwater/Rain/BLW_Handyman_2" />
+          <UNK_41F8F66 id="BLW_HOMEOWNER_1" schedule="Blackwater/Rain/BLW_Homeowner_1" />
+          <UNK_41F8F66 id="BLW_HOMEOWNER_2" schedule="Blackwater/Rain/BLW_Homeowner_2" />
+          <UNK_41F8F66 id="BLW_LIVERY_WORKER" schedule="Blackwater/Rain/BLW_Livery_Worker" />
+          <UNK_41F8F66 id="BLW_SLUM_01" schedule="Blackwater/Rain/BLW_Slum_01" />
+          <UNK_41F8F66 id="BLW_SLUM_WIFE_01" schedule="Blackwater/Rain/BLW_Slum_Wife_01" />
+          <UNK_41F8F66 id="BLW_TENT_CHEF" schedule="Blackwater/Rain/BLW_Tent_Chef" />
+          <UNK_41F8F66 id="BLW_TENT_CHEF_WIFE" schedule="Blackwater/Rain/BLW_Tent_Chef_Wife" />
+        </schedules>
+      </UNK_BF19D25B>
+    </town>
+    <town id="REGION_ROA_BUTCHERCREEK">
+      <UNK_BF19D25B id="TSTAG_NO_TAGS">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="ButcherCreek_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_FIRST_VISIT">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="ButcherCreek_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_RAIN">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="ButcherCreek_DEFAULT" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="BUT_CONSTRUCTION_DRUNK_2" schedule="ButchersCreek/Rain/BUT_Construction_Drunk_2" />
+          <UNK_41F8F66 id="BUT_FISHERMAN" schedule="ButchersCreek/Rain/BUT_Fisherman" />
+          <UNK_41F8F66 id="BUT_FISHERMAN_FRIEND" schedule="ButchersCreek/Rain/BUT_Fisherman_Friend" />
+          <UNK_41F8F66 id="BUT_RESIDENT_MALE_2" schedule="ButchersCreek/Rain/BUT_RESIDENT_Male_2" />
+          <UNK_41F8F66 id="BUT_RESIDENT_MOTHER" schedule="ButchersCreek/Rain/BUT_Res_Mother" />
+          <UNK_41F8F66 id="BUT_RESIDENT_SON" schedule="ButchersCreek/Rain/BUT_Res_Son" />
+          <UNK_41F8F66 id="BUT_SHACK_MAID_2" schedule="ButchersCreek/Rain/BUT_Shack_Maid_2" />
+          <UNK_41F8F66 id="BUT_SUPPLY_SHACK_CIV_1" schedule="ButchersCreek/Rain/BUT_Supply_Shack_Civ1" />
+          <UNK_41F8F66 id="BUT_SUPPLY_SHACK_CIV_2" schedule="ButchersCreek/Rain/BUT_Supply_Shack_Civ2" />
+          <UNK_41F8F66 id="BUT_SUPPLY_SHACK_CIV_3" schedule="ButchersCreek/Rain/BUT_Supply_Shack_Civ3" />
+        </schedules>
+      </UNK_BF19D25B>
+    </town>
+    <town id="REGION_HRT_CORNWALLKEROSENE">
+      <UNK_BF19D25B id="TSTAG_NO_TAGS">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="CornwallKerosene_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_FIRST_VISIT">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="CornwallKerosene_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_RAIN">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="CornwallKerosene_DEFAULT" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="CKT_WORKER" schedule="CornwallKerosene/Rain/Ckt_Worker" />
+          <UNK_41F8F66 id="CKT_WORKER_2" schedule="CornwallKerosene/Rain/Ckt_Worker_2" />
+          <UNK_41F8F66 id="CKT_FOREMAN_2" schedule="CornwallKerosene/Rain/Ckt_Foreman_2" />
+          <UNK_41F8F66 id="HTL_FOREMAN" schedule="CornwallKerosene/Rain/Htl_Foreman" />
+        </schedules>
+      </UNK_BF19D25B>
+    </town>
+    <town id="REGION_BAY_LAGRAS">
+      <UNK_BF19D25B id="TSTAG_NO_TAGS">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Lagras_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_FIRST_VISIT">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Lagras_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_RAIN">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Lagras_DEFAULT" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="LAG_FATHER1" schedule="lagras/rain/lag_father1" />
+          <UNK_41F8F66 id="LAG_FISHERMAN1" schedule="lagras/rain/lag_fisherman1" />
+          <UNK_41F8F66 id="LAG_FISHERMAN2" schedule="lagras/rain/lag_fisherman2" />
+          <UNK_41F8F66 id="LAG_FISHERMAN3" schedule="lagras/rain/lag_fisherman3" />
+          <UNK_41F8F66 id="LAG_FISHERMAN4" schedule="lagras/rain/lag_fisherman4" />
+          <UNK_41F8F66 id="LAG_GRANDMOTHER1" schedule="lagras/rain/lag_grandmother1" />
+          <UNK_41F8F66 id="LAG_F_TEEN1" schedule="lagras/rain/lag_f_teen1" />
+          <UNK_41F8F66 id="LAG_F_TEEN2" schedule="lagras/rain/lag_f_teen2" />
+          <UNK_41F8F66 id="LAG_MOTHER1" schedule="lagras/rain/lag_mother1" />
+          <UNK_41F8F66 id="LAG_MOTHER2" schedule="lagras/rain/lag_mother2" />
+          <UNK_41F8F66 id="LAG_MOTHER3" schedule="lagras/rain/lag_mother3" />
+        </schedules>
+      </UNK_BF19D25B>
+    </town>
+    <town id="REGION_TAL_MANZANITAPOST">
+      <UNK_BF19D25B id="TSTAG_NO_TAGS">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="ManzanitaPost_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_FIRST_VISIT">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="ManzanitaPost_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_RAIN">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="ManzanitaPost_DEFAULT" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="MAP_BLACKSMITH" schedule="manzanitapost/rain/map_blacksmith" />
+          <UNK_41F8F66 id="MAP_BLACKSMITH_WIFE" schedule="manzanitapost/rain/map_blacksmith_wife" />
+          <UNK_41F8F66 id="MAP_WORKER" schedule="manzanitapost/rain/map_worker" />
+          <UNK_41F8F66 id="MAP_WORKER_WIFE" schedule="manzanitapost/rain/map_worker_wife" />
+          <UNK_41F8F66 id="MAP_DOG_1" schedule="manzanitapost/rain/map_dog_1" />
+        </schedules>
+      </UNK_BF19D25B>
+    </town>
+    <town id="REGION_SCM_RHODES">
+      <UNK_BF19D25B id="TSTAG_NO_TAGS">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Rhodes_DEFAULT" />
+          <UNK_7CEB63B0 enable="true" id="RHO_SALOON_FRONT_AMBIENT" />
+          <UNK_7CEB63B0 enable="false" id="Rhodes_FEUD1" />
+          <UNK_7CEB63B0 enable="false" id="Rhodes_SADIE1" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_FIRST_VISIT">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Rhodes_DEFAULT" />
+          <UNK_7CEB63B0 enable="true" id="RHO_SALOON_FRONT_AMBIENT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_RHD_SADIE1_ACTIVE">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Rhodes_SADIE1" />
+          <UNK_7CEB63B0 enable="true" id="Rhodes_DEFAULT" />
+          <UNK_7CEB63B0 enable="true" id="RHO_SALOON_FRONT_AMBIENT" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="RHD_WHITE_SLUMS_1" schedule="Rhodes/Sadie1/RHD_WHITE_SLUMS_1" />
+          <UNK_41F8F66 id="RHD_WHITE_SLUMS_2" schedule="Rhodes/Sadie1/RHD_WHITE_SLUMS_2" />
+          <UNK_41F8F66 id="RHD_GRAYS_GANG_1" schedule="Rhodes/Sadie1/rhd_grays_gang_1" />
+          <UNK_41F8F66 id="RHD_DELIVERY_WORKER_1" schedule="Rhodes/Sadie1/rhd_delivery_worker_1" />
+          <UNK_41F8F66 id="RHD_DELIVERY_WORKER_2" schedule="Rhodes/Sadie1/rhd_delivery_worker_2" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_RHD_FEUD1_ACTIVE">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Rhodes_FEUD1" />
+          <UNK_7CEB63B0 enable="true" id="Rhodes_DEFAULT" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="RHD_MANSION_WORKER_1" schedule="Rhodes/Feud1/rhd_mansion_worker_1" />
+          <UNK_41F8F66 id="RHD_PARLOR_WORKER_1" schedule="Rhodes/Feud1/rhd_parlor_worker_1" />
+          <UNK_41F8F66 id="RHD_GUNSMITH" schedule="Rhodes/Feud1/rhd_gunsmith" />
+          <UNK_41F8F66 id="RHD_GRAYS_GANG_4" schedule="Rhodes/Feud1/rhd_grays_gang_4" />
+          <UNK_41F8F66 id="RHD_MAIN_STRIP_DOG" schedule="Rhodes/Feud1/rhd_main_strip_dog" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_LOCKDOWN_SALOON">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Rhodes_DEFAULT" />
+          <UNK_7CEB63B0 enable="false" id="RHO_SALOON_FRONT_AMBIENT" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="RHD_BUTCHER" schedule="Rhodes/Saloon_Lockdown/rhd_Butcher" />
+          <UNK_41F8F66 id="GLO_RHD_SDN_DRIVER_1" schedule="Rhodes/Saloon_Lockdown/rhd_cotton_driver_1" />
+          <UNK_41F8F66 id="GLO_RHD_SDN_DRIVER_2" schedule="Rhodes/Saloon_Lockdown/rhd_cotton_driver_2" />
+          <UNK_41F8F66 id="RHD_COTTON_SUPERVISOR" schedule="Rhodes/Saloon_Lockdown/rhd_cotton_supervisor" />
+          <UNK_41F8F66 id="RHD_GENERAL_STORE" schedule="Rhodes/Saloon_Lockdown/rhd_general_store" />
+          <UNK_41F8F66 id="RHD_GRAYS_GANG_1" schedule="Rhodes/Saloon_Lockdown/rhd_grays_gang_1" />
+          <UNK_41F8F66 id="RHD_GRAYS_GANG_2" schedule="Rhodes/Saloon_Lockdown/rhd_grays_gang_2" />
+          <UNK_41F8F66 id="RHD_GUNSMITH" schedule="Rhodes/Saloon_Lockdown/rhd_gunsmith" />
+          <UNK_41F8F66 id="RHD_HOTEL_OWNER" schedule="Rhodes/Saloon_Lockdown/rhd_hotel_owner" />
+          <UNK_41F8F66 id="RHD_LARGE_MALE_1" schedule="Rhodes/Saloon_Lockdown/rhd_large_male_1" />
+          <UNK_41F8F66 id="RHD_MANSION_FEMALE_1" schedule="Rhodes/Saloon_Lockdown/rhd_mansion_female_1" />
+          <UNK_41F8F66 id="RHD_MANSION_FEMALE_2" schedule="Rhodes/Saloon_Lockdown/rhd_mansion_female_2" />
+          <UNK_41F8F66 id="RHD_MANSION_MALE_1" schedule="Rhodes/Saloon_Lockdown/rhd_mansion_male_1" />
+          <UNK_41F8F66 id="RHD_MANSION_MALE_2" schedule="Rhodes/Saloon_Lockdown/rhd_mansion_male_2" />
+          <UNK_41F8F66 id="RHD_PARLOR_WORKER_1" schedule="Rhodes/Saloon_Lockdown/rhd_parlor_worker_1" />
+          <UNK_41F8F66 id="RHD_SHERIFF" schedule="Rhodes/Saloon_Lockdown/rhd_sheriff" />
+          <UNK_41F8F66 id="RHD_UNDERTAKER" schedule="Rhodes/Saloon_Lockdown/rhd_undertaker" />
+          <UNK_41F8F66 id="SCM_CALIGA_GUARD_1" schedule="Rhodes/Saloon_Lockdown/SCM_Caliga_Guard_1" />
+          <UNK_41F8F66 id="SCM_CALIGA_GUARD_2" schedule="Rhodes/Saloon_Lockdown/SCM_Caliga_Guard_2" />
+        </schedules>
+      </UNK_BF19D25B>
+    </town>
+    <town id="REGION_BAY_SAINT_DENIS">
+      <UNK_BF19D25B id="TSTAG_NO_TAGS">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="SaintDenis_DEFAULT" />
+          <UNK_7CEB63B0 enable="true" id="SDN_Docks_Rain" />
+          <UNK_7CEB63B0 enable="false" id="SDN_Garden_NoRain" />
+          <UNK_7CEB63B0 enable="true" id="SDN_Garden_Rain" />
+          <UNK_7CEB63B0 enable="false" id="SDN_Slums_NoRain" />
+          <UNK_7CEB63B0 enable="true" id="SDN_Slums_Rain" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_FIRST_VISIT">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="SaintDenis_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_LOCKDOWN_SALOON">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="SaintDenis_DEFAULT" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 schedule="SaintDenis/LockdownSaloon/SDN_Artist" id="SDN_Artist" />
+          <UNK_41F8F66 schedule="SaintDenis/LockdownSaloon/SDN_Garden_Drinker_1" id="SDN_Garden_Drinker_1" />
+          <UNK_41F8F66 schedule="SaintDenis/LockdownSaloon/SDN_Garden_Drinker_2" id="SDN_Garden_Drinker_2" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_LOCKDOWN_SALOON_SLUMS">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="SaintDenis_DEFAULT" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 schedule="SaintDenis/LockdownSlumsSaloon/SDN_Slums_Artist" id="SDN_Slums_Artist" />
+          <UNK_41F8F66 schedule="SaintDenis/LockdownSlumsSaloon/SDN_Bartender_Slums" id="SDN_Bartender_Slums" />
+          <UNK_41F8F66 schedule="SaintDenis/LockdownSlumsSaloon/SDN_Slums_Prostitute_1" id="SDN_Slums_Prostitute_1" />
+          <UNK_41F8F66 schedule="SaintDenis/LockdownSlumsSaloon/SDN_Slums_Saloon_1" id="SDN_Slums_Saloon_1" />
+          <UNK_41F8F66 schedule="SaintDenis/LockdownSlumsSaloon/SDN_Slums_Saloon_2" id="SDN_Slums_Saloon_2" />
+          <UNK_41F8F66 schedule="SaintDenis/LockdownSlumsSaloon/SDN_Slums_Saloon_Piano" id="SDN_Slums_Saloon_Piano" />
+          <UNK_41F8F66 schedule="SaintDenis/LockdownSlumsSaloon/SDN_Slums_Shady" id="SDN_Slums_Shady" />
+          <UNK_41F8F66 schedule="SaintDenis/LockdownSlumsSaloon/SDN_Wagon_Delivery_1" id="SDN_Wagon_Delivery_1" />
+          <UNK_41F8F66 schedule="SaintDenis/LockdownSlumsSaloon/SDN_Wagon_Delivery_2" id="SDN_Wagon_Delivery_2" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_RAIN">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="SaintDenis_DEFAULT" />
+          <UNK_7CEB63B0 enable="true" id="SDN_Docks_Rain" />
+          <UNK_7CEB63B0 enable="false" id="SDN_Garden_NoRain" />
+          <UNK_7CEB63B0 enable="true" id="SDN_Garden_Rain" />
+          <UNK_7CEB63B0 enable="false" id="SDN_Slums_NoRain" />
+          <UNK_7CEB63B0 enable="true" id="SDN_Slums_Rain" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 schedule="SaintDenis/Rain/SDN_Com_Church_Worker_1" id="SDN_COM_CHURCH_WORKER_1" />
+          <UNK_41F8F66 schedule="SaintDenis/Rain/SDN_Newspaper_Vendor" id="SDN_NEWSPAPER_VENDOR" />
+          <UNK_41F8F66 schedule="SaintDenis/Rain/SDN_Dock_Constr_1" id="SDN_DOCK_CONSTR_1" />
+          <UNK_41F8F66 schedule="SaintDenis/Rain/SDN_Dock_Constr_2" id="SDN_DOCK_CONSTR_2" />
+          <UNK_41F8F66 schedule="SaintDenis/Rain/SDN_Dock_Constr_3" id="SDN_DOCK_CONSTR_3" />
+          <UNK_41F8F66 id="SDN_ARTIST" schedule="SaintDenis/Rain/SDN_Artist" />
+          <UNK_41F8F66 id="SDN_COURTYARD_LADY_01" schedule="SaintDenis/Rain/SDN_Courtyard_Lady_01" />
+          <UNK_41F8F66 id="SDN_COURTYARD_LADY_02" schedule="SaintDenis/Rain/SDN_Courtyard_Lady_02" />
+          <UNK_41F8F66 id="SDN_FRENCH_LOWERCLASS_WOMAN" schedule="SaintDenis/Rain/SDN_French_Lowerclass_Woman" />
+          <UNK_41F8F66 id="SDN_FRENCH_RAKER" schedule="SaintDenis/Rain/SDN_French_Raker" />
+          <UNK_41F8F66 id="SDN_FRENCH_SWEEPER" schedule="SaintDenis/Rain/SDN_French_Sweeper" />
+          <UNK_41F8F66 id="SDN_FRENCH_TRUMPET_MALE_1" schedule="SaintDenis/Rain/SDN_French_Trumpet_Male_1" />
+          <UNK_41F8F66 id="SDN_Park_Caretaker_2" schedule="SaintDenis/Rain/SDN_Park_Caretaker_2" />
+          <UNK_41F8F66 id="SDN_Park_Caretaker_3" schedule="SaintDenis/Rain/SDN_Park_Caretaker_3" />
+          <UNK_41F8F66 id="SDN_TOURIST_FEMALE_1" schedule="SaintDenis/Rain/SDN_Tourist_Female_1" />
+          <UNK_41F8F66 id="SDN_TOURIST_MALE_1" schedule="SaintDenis/Rain/SDN_Tourist_Male_1" />
+          <UNK_41F8F66 id="SDN_SOUP_KITCHEN_1" schedule="SaintDenis/Rain/SDN_Soup_Kitchen_1" />
+          <UNK_41F8F66 id="SDN_SOUP_KITCHEN_2" schedule="SaintDenis/Rain/SDN_Soup_Kitchen_2" />
+          <UNK_41F8F66 id="SDN_SOUP_KITCHEN_3" schedule="SaintDenis/Rain/SDN_Soup_Kitchen_3" />
+          <UNK_41F8F66 id="SDN_SOUP_KITCHEN_4" schedule="SaintDenis/Rain/SDN_Soup_Kitchen_4" />
+          <UNK_41F8F66 id="SDN_SOUP_KITCHEN_5" schedule="SaintDenis/Rain/SDN_Soup_Kitchen_5" />
+          <UNK_41F8F66 id="SDN_SOUP_KITCHEN_6" schedule="SaintDenis/Rain/SDN_Soup_Kitchen_6" />
+          <UNK_41F8F66 id="SDN_FLOWER_ENTHUSIAST" schedule="SaintDenis/Rain/SDN_Flower_Enthusiast" />
+          <UNK_41F8F66 id="SDN_FLOWER_ENTHUSIAST_2" schedule="SaintDenis/Rain/SDN_Flower_Enthusiast_2" />
+          <UNK_41F8F66 id="SDN_GARDEN_CAT" schedule="SaintDenis/Rain/SDN_Garden_Cat" />
+          <UNK_41F8F66 id="SDN_GARDEN_DRINKER_1" schedule="SaintDenis/Rain/SDN_Garden_Drinker_1" />
+          <UNK_41F8F66 id="SDN_GARDEN_DRINKER_2" schedule="SaintDenis/Rain/SDN_Garden_Drinker_2" />
+          <UNK_41F8F66 id="SDN_GROUNDS_KEEPER_2" schedule="SaintDenis/Rain/SDN_Grounds_Keeper_2" />
+          <UNK_41F8F66 id="SDN_GROUNDS_KEEPER_3" schedule="SaintDenis/Rain/SDN_Grounds_Keeper_3" />
+          <UNK_41F8F66 id="SDN_GROUNDS_KEEPER_4" schedule="SaintDenis/Rain/SDN_Grounds_Keeper_4" />
+          <UNK_41F8F66 id="SDN_GROUNDS_KEEPER_5" schedule="SaintDenis/Rain/SDN_Grounds_Keeper_5" />
+          <UNK_41F8F66 id="SDN_Homeowner_1" schedule="SaintDenis/Rain/SDN_Homeowner_1" />
+          <UNK_41F8F66 id="SDN_Homeowner_2" schedule="SaintDenis/Rain/SDN_Homeowner_2" />
+          <UNK_41F8F66 id="SDN_Park_Caretaker_1" schedule="SaintDenis/Rain/SDN_Park_Caretaker_1" />
+          <UNK_41F8F66 id="SDN_MARKET_VENDOR1" schedule="SaintDenis/Rain/SDN_Market_Vendor1" />
+          <UNK_41F8F66 id="SDN_MARKET_VENDOR2" schedule="SaintDenis/Rain/SDN_Market_Vendor2" />
+          <UNK_41F8F66 id="SDN_SLUMSMARKET_FEMALE_1" schedule="SaintDenis/Rain/SDN_Slumsmarket_Female_1" />
+          <UNK_41F8F66 id="SDN_CHURCH_KEEPER" schedule="SaintDenis/Rain/SDN_Church_Keeper" />
+          <UNK_41F8F66 id="SDN_SLUMS_ARTIST" schedule="SaintDenis/Rain/SDN_Slums_Artist" />
+          <UNK_41F8F66 id="SDN_SLUMS_DOG_1" schedule="SaintDenis/Rain/SDN_Slums_Dog_1" />
+          <UNK_41F8F66 id="SDN_SLUMS_DOG_2" schedule="SaintDenis/Rain/SDN_Slums_Dog_2" />
+          <UNK_41F8F66 id="SDN_SLUMS_DOG_3" schedule="SaintDenis/Rain/SDN_Slums_Dog_3" />
+          <UNK_41F8F66 id="SDN_SLUMS_DOG_5" schedule="SaintDenis/Rain/SDN_Slums_Dog_5" />
+          <UNK_41F8F66 id="SDN_SLUMS_FEMALE_RES_1" schedule="SaintDenis/Rain/SDN_Slums_Female_Res_1" />
+          <UNK_41F8F66 id="SDN_SLUMS_FEMALE_RES_2" schedule="SaintDenis/Rain/SDN_Slums_Female_Res_2" />
+          <UNK_41F8F66 id="SDN_SLUMS_FISHERMAN" schedule="SaintDenis/Rain/SDN_Slums_Fisherman" />
+          <UNK_41F8F66 id="SDN_SLUMS_MALE_RES_1" schedule="SaintDenis/Rain/SDN_Slums_Male_Res_1" />
+          <UNK_41F8F66 id="SDN_SLUMS_MALE_RES_2" schedule="SaintDenis/Rain/SDN_Slums_Male_Res_2" />
+          <UNK_41F8F66 id="SDN_SLUMS_MALE_RES_3" schedule="SaintDenis/Rain/SDN_Slums_Male_Res_3" />
+          <UNK_41F8F66 id="SDN_SLUMS_PROSTITUTE_1" schedule="SaintDenis/Rain/SDN_Slums_Prostitute_1" />
+          <UNK_41F8F66 id="SDN_SLUMS_SHADY" schedule="SaintDenis/Rain/SDN_Slums_Shady" />
+        </schedules>
+      </UNK_BF19D25B>
+    </town>
+    <town id="REGION_BGV_STRAWBERRY">
+      <UNK_BF19D25B id="TSTAG_NO_TAGS">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Strawberry_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_FIRST_VISIT">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Strawberry_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_LOCKDOWN_SALOON">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Strawberry_DEFAULT" />
+        </UNK_587DA382>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_RAIN">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Strawberry_DEFAULT" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="STR_BUTCHER" schedule="Strawberry/Rain/STR_Butcher" />
+          <UNK_41F8F66 id="STR_CONSTR_WIFE_1" schedule="Strawberry/Rain/STR_Constr_Wife_1" />
+          <UNK_41F8F66 id="STR_CONSTR_WIFE_2" schedule="Strawberry/Rain/STR_Constr_Wife_2" />
+          <UNK_41F8F66 id="STR_CONSTRUCTION_1" schedule="Strawberry/Rain/STR_Construction_1" />
+          <UNK_41F8F66 id="STR_CONSTRUCTION_2" schedule="Strawberry/Rain/STR_Construction_2" />
+          <UNK_41F8F66 id="STR_CONSTRUCTION_3" schedule="Strawberry/Rain/STR_Construction_3" />
+          <UNK_41F8F66 id="STR_FISHERMAN" schedule="Strawberry/Rain/STR_Fisherman" />
+          <UNK_41F8F66 id="STR_GENERAL_STORE" schedule="Strawberry/Rain/STR_General_Store" />
+          <UNK_41F8F66 id="STR_LAZY_WORKER" schedule="Strawberry/Rain/STR_Lazy_Worker" />
+          <UNK_41F8F66 id="STR_MAYOR" schedule="Strawberry/Rain/STR_Mayor" />
+          <UNK_41F8F66 id="STR_RANCHER" schedule="Strawberry/Rain/STR_Rancher" />
+          <UNK_41F8F66 id="STR_TOURIST_FEMALE_1" schedule="Strawberry/Rain/STR_Tourist_Female_1" />
+          <UNK_41F8F66 id="STR_TOURIST_FEMALE_2" schedule="Strawberry/Rain/STR_Tourist_Female_2" />
+          <UNK_41F8F66 id="STR_TOURIST_MALE_1" schedule="Strawberry/Rain/STR_Tourist_Male_1" />
+          <UNK_41F8F66 id="STR_TOURIST_MALE_2" schedule="Strawberry/Rain/STR_Tourist_Male_2" />
+          <UNK_41F8F66 id="STR_TOWN_CAT" schedule="Strawberry/Rain/STR_Town_Cat" />
+          <UNK_41F8F66 id="STR_TOWN_DOG" schedule="Strawberry/Rain/STR_Town_Dog" />
+          <UNK_41F8F66 id="STR_TOWN_WORKER_1" schedule="Strawberry/Rain/STR_Town_Worker_1" />
+          <UNK_41F8F66 id="STR_TOWN_WORKER_2" schedule="Strawberry/Rain/STR_Town_Worker_2" />
+          <UNK_41F8F66 id="STR_TOWN_WORKER_3" schedule="Strawberry/Rain/STR_Town_Worker_3" />
+          <UNK_41F8F66 id="STR_WOOD_CHOP_WIFE" schedule="Strawberry/Rain/STR_Wood_Chop_Wife" />
+          <UNK_41F8F66 id="STR_WOOD_CHOPPER_1" schedule="Strawberry/Rain/STR_Wood_Chopper_1" />
+          <UNK_41F8F66 id="STR_WOOD_CHOPPER_1" schedule="Strawberry/Rain/STR_Wood_Chopper_1" />
+        </schedules>
+      </UNK_BF19D25B>
+    </town>
+    <town id="REGION_GAP_TUMBLEWEED">
+      <UNK_BF19D25B id="TSTAG_NO_TAGS">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Tumbleweed_DEFAULT" />
+          <UNK_7CEB63B0 enable="true" id="TBL_SALOON_LOCKDOWN_INACTIVE" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_FIRST_VISIT">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Tumbleweed_DEFAULT" />
+          <UNK_7CEB63B0 enable="true" id="TBL_SALOON_LOCKDOWN_INACTIVE" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_LOCKDOWN_SALOON">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Tumbleweed_DEFAULT" />
+          <UNK_7CEB63B0 enable="false" id="TBL_SALOON_LOCKDOWN_INACTIVE" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="TBL_DELIVERY_RESIDENT" schedule="Tumbleweed/SaloonLockdown/TBL_DELIVERY_RESIDENT" />
+          <UNK_41F8F66 id="TBL_DELIVERY_RESIDENT_2" schedule="Tumbleweed/SaloonLockdown/TBL_DELIVERY_RESIDENT_2" />
+          <UNK_41F8F66 id="TBL_RANCH_WORKER_1" schedule="Tumbleweed/SaloonLockdown/TBL_RANCH_WORKER_1" />
+          <UNK_41F8F66 id="TBL_RANCH_WORKER_2" schedule="Tumbleweed/SaloonLockdown/TBL_RANCH_WORKER_2" />
+          <UNK_41F8F66 id="TBL_SCAVENGER" schedule="Tumbleweed/SaloonLockdown/TBL_SCAVENGER" />
+          <UNK_41F8F66 id="TBL_SHERRIF_DEPUTY_3" schedule="Tumbleweed/SaloonLockdown/TBL_SHERRIF_DEPUTY_3" />
+        </schedules>
+      </UNK_BF19D25B>
+    </town>
+    <town id="REGION_HRT_VALENTINE">
+      <UNK_BF19D25B id="TSTAG_NO_TAGS">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Valentine_DEFAULT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_FIRST_VISIT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_RAIN" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_LOCKDOWN" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_Mud3" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_Mud4" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_Mud4_Church" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_Mud4_Saloon" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_Mud5" />
+          <UNK_7CEB63B0 enable="true" id="valentine_SlumsSaloonAmb" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="VAL_SHERIFF" schedule="Valentine/VAL_SHERIFF" />
+          <UNK_41F8F66 id="VAL_SHERIFF_HELPER" schedule="Valentine/VAL_SHERIFF_HELPER" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_FIRST_VISIT">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="false" id="Valentine_DEFAULT" />
+          <UNK_7CEB63B0 enable="true" id="Valentine_FIRST_VISIT" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="VAL_AUCTION_BOSS" schedule="Valentine/FirstVisit/Val_Auction_Boss" />
+          <UNK_41F8F66 id="VAL_AUCTION_HANDYMAN" schedule="Valentine/FirstVisit/VAL_AUCTION_HANDYMAN" />
+          <UNK_41F8F66 id="VAL_RANCHER_1" schedule="Valentine/FirstVisit/VAL_RANCHER_1" />
+          <UNK_41F8F66 id="VAL_BARBER" schedule="Valentine/FirstVisit/VAL_BARBER" />
+          <UNK_41F8F66 id="VAL_BLACKSMITH" schedule="Valentine/FirstVisit/VAL_BLACKSMITH" />
+          <UNK_41F8F66 id="VAL_DOCTOR" schedule="Valentine/FirstVisit/VAL_DOCTOR" />
+          <UNK_41F8F66 id="VAL_HOTEL_OWNER" schedule="Valentine/FirstVisit/VAL_HOTEL_OWNER" />
+          <UNK_41F8F66 id="VAL_LIVERY" schedule="Valentine/FirstVisit/VAL_LIVERY" />
+          <UNK_41F8F66 id="VAL_PIANO_PLAYER" schedule="Valentine/VAL_PIANO_PLAYER" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_1" schedule="Valentine/FirstVisit/VAL_PROSTITUTE_1" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_2" schedule="Valentine/FirstVisit/VAL_PROSTITUTE_2" />
+          <UNK_41F8F66 id="VAL_RANCHER_2" schedule="Valentine/FirstVisit/VAL_RANCHER_2" />
+          <UNK_41F8F66 id="VAL_SHERIFF" schedule="Valentine/VAL_SHERIFF" />
+          <UNK_41F8F66 id="VAL_SHERIFF_HELPER" schedule="Valentine/VAL_SHERIFF_HELPER" />
+          <UNK_41F8F66 id="VAL_TOWN_FARMER" schedule="Valentine/FirstVisit/VAL_TOWN_FARMER" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_3" schedule="Valentine/FirstVisit/VAL_TOWN_WORKER_3" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_4" schedule="Valentine/FirstVisit/VAL_TOWN_WORKER_4" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_5" schedule="Valentine/FirstVisit/VAL_TOWN_WORKER_5" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_6" schedule="Valentine/FirstVisit/VAL_TOWN_WORKER_6" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_ENDLESS_SUMMER">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Valentine_DEFAULT" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_3" schedule="Valentine/EndlessSummer/VAL_TOWN_WORKER_3" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_4" schedule="Valentine/EndlessSummer/VAL_TOWN_WORKER_4" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_5" schedule="Valentine/EndlessSummer/VAL_TOWN_WORKER_5" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_6" schedule="Valentine/EndlessSummer/VAL_TOWN_WORKER_6" />
+          <UNK_41F8F66 id="VAL_SHERIFF" schedule="Valentine/VAL_SHERIFF" />
+          <UNK_41F8F66 id="VAL_SHERIFF_HELPER" schedule="Valentine/VAL_SHERIFF_HELPER" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_FLOW_PRE_BOUNTY_1">
+        <UNK_587DA382 text="" />
+        <schedules>
+          <UNK_41F8F66 id="VAL_SHERIFF" schedule="Valentine/PreBounty1/VAL_SHERIFF" />
+          <UNK_41F8F66 id="VAL_SHERIFF_HELPER" schedule="Valentine/PreBounty1/VAL_SHERIFF_HELPER" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_LOCKDOWN">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="false" id="Valentine_DEFAULT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_FIRST_VISIT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_RAIN" />
+          <UNK_7CEB63B0 enable="true" id="Valentine_LOCKDOWN" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="VAL_AUCTION_BOSS" schedule="Valentine/Lockdown/Val_Auction_Boss" />
+          <UNK_41F8F66 id="VAL_AUCTION_HAND" schedule="Valentine/Lockdown/VAL_AUCTION_HAND" />
+          <UNK_41F8F66 id="VAL_AUCTION_HANDYMAN" schedule="Valentine/Lockdown/VAL_AUCTION_HANDYMAN" />
+          <UNK_41F8F66 id="VAL_RANCHER_1" schedule="Valentine/Lockdown/VAL_RANCHER_1" />
+          <UNK_41F8F66 id="VAL_BARBER" schedule="Valentine/Lockdown/VAL_BARBER" />
+          <UNK_41F8F66 id="VAL_BARTENDER" schedule="Valentine/Lockdown/VAL_BARTENDER" />
+          <UNK_41F8F66 id="VAL_BLACKSMITH" schedule="Valentine/Lockdown/VAL_BLACKSMITH" />
+          <UNK_41F8F66 id="VAL_DELIVERY_MAN" schedule="Valentine/Lockdown/VAL_DELIVERY_MAN" />
+          <UNK_41F8F66 id="VAL_DOCTOR" schedule="Valentine/Lockdown/VAL_DOCTOR" />
+          <UNK_41F8F66 id="VAL_GENERAL_STORE" schedule="Valentine/Lockdown/VAL_GENERAL_STORE" />
+          <UNK_41F8F66 id="VAL_HEAD_PROSTITUTE" schedule="Valentine/Lockdown/VAL_HEAD_PROSTITUTE" />
+          <UNK_41F8F66 id="Val_Horse_Rider_1" schedule="Valentine/LockdownSlumsSaloon/Val_Horse_Rider_1" />
+          <UNK_41F8F66 id="Val_Horse_Rider_2" schedule="Valentine/LockdownSlumsSaloon/Val_Horse_Rider_2" />
+          <UNK_41F8F66 id="VAL_HOTEL_OWNER" schedule="Valentine/Lockdown/VAL_HOTEL_OWNER" />
+          <UNK_41F8F66 id="VAL_LIVERY" schedule="Valentine/Lockdown/VAL_LIVERY" />
+          <UNK_41F8F66 id="VAL_PIANO_PLAYER" schedule="Valentine/Lockdown/VAL_PIANO_PLAYER" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_1" schedule="Valentine/Lockdown/VAL_PROSTITUTE_1" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_2" schedule="Valentine/Lockdown/VAL_PROSTITUTE_2" />
+          <UNK_41F8F66 id="VAL_RANCHER_2" schedule="Valentine/Lockdown/VAL_RANCHER_2" />
+          <UNK_41F8F66 id="VAL_SALOON_CLEANER" schedule="Valentine/Lockdown/VAL_SALOON_CLEANER" />
+          <UNK_41F8F66 id="VAL_SHERIFF" schedule="Valentine/Lockdown/VAL_SHERIFF" />
+          <UNK_41F8F66 id="VAL_SHERIFF_HELPER" schedule="Valentine/VAL_SHERIFF_HELPER" />
+          <UNK_41F8F66 id="VAL_TOWN_FARMER" schedule="Valentine/Lockdown/VAL_TOWN_FARMER" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_1" schedule="Valentine/Lockdown/VAL_TOWN_WORKER_1" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_2" schedule="Valentine/Lockdown/VAL_TOWN_WORKER_2" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_3" schedule="Valentine/Lockdown/VAL_TOWN_WORKER_3" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_4" schedule="Valentine/Lockdown/VAL_TOWN_WORKER_4" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_5" schedule="Valentine/Lockdown/VAL_TOWN_WORKER_5" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_6" schedule="Valentine/Lockdown/VAL_TOWN_WORKER_6" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_9" schedule="Valentine/Lockdown/VAL_TOWN_WORKER_9" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_LOCKDOWN_PARTIAL">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Valentine_DEFAULT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_FIRST_VISIT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_RAIN" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_LOCKDOWN" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_Mud3" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_Mud4" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_Mud4_Church" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_Mud4_Saloon" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_Mud5" />
+        </UNK_587DA382>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_LOCKDOWN_SALOON">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="false" id="Valentine_DEFAULT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_FIRST_VISIT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_RAIN" />
+          <UNK_7CEB63B0 enable="true" id="Valentine_LOCKDOWN" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="VAL_AUCTION_BOSS" schedule="Valentine/Lockdown/Val_Auction_Boss" />
+          <UNK_41F8F66 id="VAL_AUCTION_HAND" schedule="Valentine/Lockdown/VAL_AUCTION_HAND" />
+          <UNK_41F8F66 id="VAL_AUCTION_HANDYMAN" schedule="Valentine/Lockdown/VAL_AUCTION_HANDYMAN" />
+          <UNK_41F8F66 id="VAL_RANCHER_1" schedule="Valentine/Lockdown/VAL_RANCHER_1" />
+          <UNK_41F8F66 id="VAL_BARBER" schedule="Valentine/Lockdown/VAL_BARBER" />
+          <UNK_41F8F66 id="VAL_BARTENDER" schedule="Valentine/Lockdown/VAL_BARTENDER" />
+          <UNK_41F8F66 id="VAL_BLACKSMITH" schedule="Valentine/Lockdown/VAL_BLACKSMITH" />
+          <UNK_41F8F66 id="VAL_DELIVERY_MAN" schedule="Valentine/Lockdown/VAL_DELIVERY_MAN" />
+          <UNK_41F8F66 id="VAL_DOCTOR" schedule="Valentine/Lockdown/VAL_DOCTOR" />
+          <UNK_41F8F66 id="VAL_GENERAL_STORE" schedule="Valentine/Lockdown/VAL_GENERAL_STORE" />
+          <UNK_41F8F66 id="VAL_HEAD_PROSTITUTE" schedule="Valentine/Lockdown/VAL_HEAD_PROSTITUTE" />
+          <UNK_41F8F66 id="Val_Horse_Rider_1" schedule="Valentine/LockdownSlumsSaloon/Val_Horse_Rider_1" />
+          <UNK_41F8F66 id="Val_Horse_Rider_2" schedule="Valentine/LockdownSlumsSaloon/Val_Horse_Rider_2" />
+          <UNK_41F8F66 id="VAL_HOTEL_OWNER" schedule="Valentine/Lockdown/VAL_HOTEL_OWNER" />
+          <UNK_41F8F66 id="VAL_LIVERY" schedule="Valentine/Lockdown/VAL_LIVERY" />
+          <UNK_41F8F66 id="VAL_PIANO_PLAYER" schedule="Valentine/Lockdown/VAL_PIANO_PLAYER" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_1" schedule="Valentine/Lockdown/VAL_PROSTITUTE_1" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_2" schedule="Valentine/Lockdown/VAL_PROSTITUTE_2" />
+          <UNK_41F8F66 id="VAL_RANCHER_2" schedule="Valentine/Lockdown/VAL_RANCHER_2" />
+          <UNK_41F8F66 id="VAL_SALOON_CLEANER" schedule="Valentine/Lockdown/VAL_SALOON_CLEANER" />
+          <UNK_41F8F66 id="VAL_SHERIFF" schedule="Valentine/Lockdown/VAL_SHERIFF" />
+          <UNK_41F8F66 id="VAL_SHERIFF_HELPER" schedule="Valentine/VAL_SHERIFF_HELPER" />
+          <UNK_41F8F66 id="VAL_TOWN_FARMER" schedule="Valentine/Lockdown/VAL_TOWN_FARMER" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_1" schedule="Valentine/Lockdown/VAL_TOWN_WORKER_1" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_2" schedule="Valentine/Lockdown/VAL_TOWN_WORKER_2" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_3" schedule="Valentine/Lockdown/VAL_TOWN_WORKER_3" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_4" schedule="Valentine/Lockdown/VAL_TOWN_WORKER_4" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_5" schedule="Valentine/Lockdown/VAL_TOWN_WORKER_5" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_6" schedule="Valentine/Lockdown/VAL_TOWN_WORKER_6" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_9" schedule="Valentine/Lockdown/VAL_TOWN_WORKER_9" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_LOCKDOWN_SALOON_SLUMS">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="false" id="valentine_SlumsSaloonAmb" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="Val_Handyman" schedule="Valentine/LockdownSlumsSaloon/Val_Handyman" />
+          <UNK_41F8F66 id="Val_Horse_Rider_1" schedule="Valentine/LockdownSlumsSaloon/Val_Horse_Rider_1" />
+          <UNK_41F8F66 id="Val_Horse_Rider_2" schedule="Valentine/LockdownSlumsSaloon/Val_Horse_Rider_2" />
+          <UNK_41F8F66 id="Val_Slum_Bartender" schedule="Valentine/LockdownSlumsSaloon/Val_Slum_Bartender" />
+          <UNK_41F8F66 id="Val_Town_Drunk" schedule="Valentine/LockdownSlumsSaloon/Val_Town_Drunk" />
+          <UNK_41F8F66 id="Val_Town_Worker_7" schedule="Valentine/LockdownSlumsSaloon/Val_Town_Worker_7" />
+          <UNK_41F8F66 id="Val_Town_Worker_8" schedule="Valentine/LockdownSlumsSaloon/Val_Town_Worker_8" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_RAIN">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Valentine_DEFAULT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_FIRST_VISIT" />
+          <UNK_7CEB63B0 enable="true" id="Valentine_RAIN" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="VAL_AUCTION_BOSS" schedule="Valentine/Rain/Val_Auction_Boss" />
+          <UNK_41F8F66 id="VAL_AUCTION_HAND" schedule="Valentine/Rain/Val_Auction_Hand" />
+          <UNK_41F8F66 id="VAL_AUCTION_HAND_2" schedule="Valentine/Rain/Val_Auction_Hand_2" />
+          <UNK_41F8F66 id="VAL_AUCTION_HANDYMAN" schedule="Valentine/Rain/Val_Auction_Handyman" />
+          <UNK_41F8F66 id="VAL_RANCHER_1" schedule="Valentine/Rain/VAL_RANCHER_1" />
+          <UNK_41F8F66 id="VAL_BLACKSMITH" schedule="Valentine/Rain/Val_Blacksmith" />
+          <UNK_41F8F66 id="VAL_BUTCHER" schedule="Valentine/Rain/Val_Butcher" />
+          <UNK_41F8F66 id="VAL_HANDYMAN" schedule="Valentine/Rain/Val_Handyman" />
+          <UNK_41F8F66 id="VAL_HANDYMANS_WIFE" schedule="Valentine/Rain/Val_Handymans_Wife" />
+          <UNK_41F8F66 id="VAL_HEAD_PROSTITUTE" schedule="Valentine/Rain/Val_Head_Prostitute" />
+          <UNK_41F8F66 id="VAL_HORSE_SHOP_OWNER" schedule="Valentine/Rain/Val_Horse_Shop_Owner" />
+          <UNK_41F8F66 id="VAL_HOTEL_CLEANER" schedule="Valentine/Rain/VAL_HOTEL_CLEANER" />
+          <UNK_41F8F66 id="VAL_LIVERY" schedule="Valentine/Rain/VAL_LIVERY" />
+          <UNK_41F8F66 id="VAL_NEWSPAPER_VENDOR" schedule="Valentine/Rain/VAL_NEWSPAPER_VENDOR" />
+          <UNK_41F8F66 id="VAL_PIANO_PLAYER" schedule="Valentine/Rain/VAL_PIANO_PLAYER" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_1" schedule="Valentine/Rain/VAL_PROSTITUTE_1" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_2" schedule="Valentine/Rain/VAL_PROSTITUTE_2" />
+          <UNK_41F8F66 id="VAL_RANCHER_2" schedule="Valentine/Rain/VAL_RANCHER_2" />
+          <UNK_41F8F66 id="VAL_SHERIFF" schedule="Valentine/Rain/VAL_SHERIFF" />
+          <UNK_41F8F66 id="VAL_SHERIFF_HELPER" schedule="Valentine/VAL_SHERIFF_HELPER" />
+          <UNK_41F8F66 id="VAL_TOWN_DOG_1" schedule="Valentine/Rain/VAL_TOWN_DOG_1" />
+          <UNK_41F8F66 id="VAL_TOWN_DOG_2" schedule="Valentine/Rain/VAL_TOWN_DOG_2" />
+          <UNK_41F8F66 id="VAL_TOWN_DOG_3" schedule="Valentine/Rain/VAL_TOWN_DOG_3" />
+          <UNK_41F8F66 id="VAL_TOWN_FARMER" schedule="Valentine/Rain/VAL_TOWN_FARMER" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_1" schedule="Valentine/Rain/VAL_TOWN_WORKER_1" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_2" schedule="Valentine/Rain/VAL_TOWN_WORKER_2" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_3" schedule="Valentine/Rain/VAL_TOWN_WORKER_3" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_4" schedule="Valentine/Rain/VAL_TOWN_WORKER_4" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_5" schedule="Valentine/Rain/VAL_TOWN_WORKER_5" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_6" schedule="Valentine/Rain/VAL_TOWN_WORKER_6" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_7" schedule="Valentine/Rain/VAL_TOWN_WORKER_7" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_8" schedule="Valentine/Rain/VAL_TOWN_WORKER_8" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_9" schedule="Valentine/Rain/VAL_TOWN_WORKER_9" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_VAL_MUD3_ACTIVE_RIDE_TO_VAL">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Valentine_DEFAULT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_FIRST_VISIT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_RAIN" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_LOCKDOWN" />
+          <UNK_7CEB63B0 enable="true" id="Valentine_Mud3" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="VAL_AUCTION_HAND" schedule="Valentine/Mudtown3/Val_Auction_Hand" />
+          <UNK_41F8F66 id="VAL_BANK_GUARD" schedule="Valentine/Mudtown3/VAL_BANK_GUARD" />
+          <UNK_41F8F66 id="VAL_BANK_MANAGER" schedule="Valentine/Mudtown3/VAL_BANK_MANAGER" />
+          <UNK_41F8F66 id="VAL_BARBER" schedule="Valentine/Mudtown3/VAL_BARBER" />
+          <UNK_41F8F66 id="VAL_BARTENDER" schedule="Valentine/Mudtown3/VAL_BARTENDER" />
+          <UNK_41F8F66 id="VAL_BLACKSMITH" schedule="Valentine/Mudtown3/VAL_BLACKSMITH" />
+          <UNK_41F8F66 id="VAL_RANCHER_1" schedule="Valentine/Mudtown3/VAL_RANCHER_1" />
+          <UNK_41F8F66 id="VAL_DELIVERY_MAN" schedule="Valentine/Mudtown3/VAL_DELIVERY_MAN" />
+          <UNK_41F8F66 id="VAL_DOCTOR" schedule="Valentine/Mudtown3/Val_Doctor" />
+          <UNK_41F8F66 id="VAL_GUNSMITH" schedule="Valentine/Mudtown3/VAL_GUNSMITH" />
+          <UNK_41F8F66 id="VAL_HANDYMAN" schedule="Valentine/Mudtown3/VAL_HANDYMAN" />
+          <UNK_41F8F66 id="VAL_HEAD_PROSTITUTE" schedule="Valentine/Mudtown3/Val_Head_Prostitute" />
+          <UNK_41F8F66 id="VAL_HOTEL_CLEANER" schedule="Valentine/Mudtown3/Val_Hotel_Cleaner" />
+          <UNK_41F8F66 id="VAL_HORSE_SHOP_OWNER" schedule="Valentine/Mudtown3/VAL_HORSE_SHOP_OWNER" />
+          <UNK_41F8F66 id="VAL_PRISONER_1" schedule="Valentine/Mudtown3/VAL_PRISONER_1" />
+          <UNK_41F8F66 id="VAL_PRISONER_2" schedule="Valentine/Mudtown3/VAL_PRISONER_2" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_1" schedule="Valentine/Mudtown3/Val_Prostitute_1" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_2" schedule="Valentine/Mudtown3/Val_Prostitute_2" />
+          <UNK_41F8F66 id="VAL_RANCHER_2" schedule="Valentine/Mudtown3/VAL_RANCHER_2" />
+          <UNK_41F8F66 id="VAL_SHERIFF" schedule="Valentine/Mudtown3/Val_Sheriff" />
+          <UNK_41F8F66 id="VAL_SHERIFF_HELPER" schedule="Valentine/Mudtown3/Val_Sheriff_Helper" />
+          <UNK_41F8F66 id="VAL_SLUM_BARTENDER" schedule="Valentine/Mudtown3/VAL_SLUM_BARTENDER" />
+          <UNK_41F8F66 id="VAL_TOWN_DOG_1" schedule="Valentine/Mudtown3/VAL_TOWN_DOG_1" />
+          <UNK_41F8F66 id="VAL_TOWN_DRUNK" schedule="Valentine/Mudtown3/VAL_TOWN_DRUNK" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_3" schedule="Valentine/Mudtown3/VAL_TOWN_WORKER_3" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_4" schedule="Valentine/Mudtown3/VAL_TOWN_WORKER_4" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_6" schedule="Valentine/Mudtown3/VAL_TOWN_WORKER_6" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_7" schedule="Valentine/Mudtown3/VAL_TOWN_WORKER_7" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_9" schedule="Valentine/Mudtown3/VAL_TOWN_WORKER_9" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_VAL_MUD3_ACTIVE_GO_TO_STORE">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Valentine_DEFAULT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_FIRST_VISIT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_RAIN" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_LOCKDOWN" />
+          <UNK_7CEB63B0 enable="true" id="Valentine_Mud3" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="VAL_AUCTION_HAND" schedule="Valentine/Mudtown3/Val_Auction_Hand" />
+          <UNK_41F8F66 id="VAL_BANK_GUARD" schedule="Valentine/Mudtown3/VAL_BANK_GUARD" />
+          <UNK_41F8F66 id="VAL_BANK_MANAGER" schedule="Valentine/Mudtown3/VAL_BANK_MANAGER" />
+          <UNK_41F8F66 id="VAL_BARBER" schedule="Valentine/Mudtown3/VAL_BARBER" />
+          <UNK_41F8F66 id="VAL_BARTENDER" schedule="Valentine/Mudtown3/VAL_BARTENDER" />
+          <UNK_41F8F66 id="VAL_BLACKSMITH" schedule="Valentine/Mudtown3/VAL_BLACKSMITH" />
+          <UNK_41F8F66 id="VAL_RANCHER_1" schedule="Valentine/Mudtown3/VAL_RANCHER_1" />
+          <UNK_41F8F66 id="VAL_DELIVERY_MAN" schedule="Valentine/Mudtown3/VAL_DELIVERY_MAN" />
+          <UNK_41F8F66 id="VAL_DOCTOR" schedule="Valentine/Mudtown3/Val_Doctor" />
+          <UNK_41F8F66 id="VAL_GUNSMITH" schedule="Valentine/Mudtown3/VAL_GUNSMITH" />
+          <UNK_41F8F66 id="VAL_HANDYMAN" schedule="Valentine/Mudtown3/VAL_HANDYMAN" />
+          <UNK_41F8F66 id="VAL_HEAD_PROSTITUTE" schedule="Valentine/Mudtown3/Val_Head_Prostitute" />
+          <UNK_41F8F66 id="VAL_HOTEL_CLEANER" schedule="Valentine/Mudtown3/Val_Hotel_Cleaner" />
+          <UNK_41F8F66 id="VAL_HORSE_SHOP_OWNER" schedule="Valentine/Mudtown3/VAL_HORSE_SHOP_OWNER" />
+          <UNK_41F8F66 id="VAL_PRISONER_1" schedule="Valentine/Mudtown3/VAL_PRISONER_1" />
+          <UNK_41F8F66 id="VAL_PRISONER_2" schedule="Valentine/Mudtown3/VAL_PRISONER_2" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_1" schedule="Valentine/Mudtown3/Val_Prostitute_1" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_2" schedule="Valentine/Mudtown3/Val_Prostitute_2" />
+          <UNK_41F8F66 id="VAL_RANCHER_2" schedule="Valentine/Mudtown3/VAL_RANCHER_2" />
+          <UNK_41F8F66 id="VAL_SHERIFF" schedule="Valentine/Mudtown3/Val_Sheriff" />
+          <UNK_41F8F66 id="VAL_SHERIFF_HELPER" schedule="Valentine/Mudtown3/Val_Sheriff_Helper" />
+          <UNK_41F8F66 id="VAL_SLUM_BARTENDER" schedule="Valentine/Mudtown3/VAL_SLUM_BARTENDER" />
+          <UNK_41F8F66 id="VAL_TOWN_DOG_1" schedule="Valentine/Mudtown3/VAL_TOWN_DOG_1" />
+          <UNK_41F8F66 id="VAL_TOWN_DRUNK" schedule="Valentine/Mudtown3/VAL_TOWN_DRUNK" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_3" schedule="Valentine/Mudtown3/VAL_TOWN_WORKER_3" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_4" schedule="Valentine/Mudtown3/VAL_TOWN_WORKER_4" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_6" schedule="Valentine/Mudtown3/VAL_TOWN_WORKER_6" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_7" schedule="Valentine/Mudtown3/VAL_TOWN_WORKER_7" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_9" schedule="Valentine/Mudtown3/VAL_TOWN_WORKER_9" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_VAL_MUD3_ACTIVE_CHASE">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Valentine_DEFAULT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_FIRST_VISIT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_RAIN" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_LOCKDOWN" />
+          <UNK_7CEB63B0 enable="true" id="Valentine_Mud3" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="VAL_AUCTION_BOSS" schedule="Valentine/Mudtown3/Val_Auction_Boss" />
+          <UNK_41F8F66 id="VAL_AUCTION_HAND" schedule="Valentine/Mudtown3/Val_Auction_Hand" />
+          <UNK_41F8F66 id="VAL_AUCTION_HANDYMAN" schedule="Valentine/Mudtown3/Val_Auction_Handyman" />
+          <UNK_41F8F66 id="VAL_RANCHER_1" schedule="Valentine/Mudtown3/VAL_RANCHER_1" />
+          <UNK_41F8F66 id="VAL_DELIVERY_MAN" schedule="Valentine/Mudtown3/VAL_DELIVERY_MAN" />
+          <UNK_41F8F66 id="VAL_DOCTOR" schedule="Valentine/Mudtown3/Val_Doctor" />
+          <UNK_41F8F66 id="VAL_HEAD_PROSTITUTE" schedule="Valentine/Mudtown3/Val_Head_Prostitute" />
+          <UNK_41F8F66 id="VAL_HOTEL_CLEANER" schedule="Valentine/Mudtown3/Val_Hotel_Cleaner" />
+          <UNK_41F8F66 id="VAL_LIVERY" schedule="Valentine/Mudtown3/Val_Livery" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_1" schedule="Valentine/Mudtown3/Val_Prostitute_1" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_2" schedule="Valentine/Mudtown3/Val_Prostitute_2" />
+          <UNK_41F8F66 id="VAL_SHERIFF" schedule="Valentine/Mudtown3/Val_Sheriff" />
+          <UNK_41F8F66 id="VAL_SHERIFF_HELPER" schedule="Valentine/Mudtown3/Val_Sheriff_Helper" />
+          <UNK_41F8F66 id="VAL_TOWN_DOG_3" schedule="Valentine/Mudtown3/VAL_TOWN_DOG_3" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_3" schedule="Valentine/Mudtown3/VAL_TOWN_WORKER_3" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_4" schedule="Valentine/Mudtown3/VAL_TOWN_WORKER_4" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_6" schedule="Valentine/Mudtown3/VAL_TOWN_WORKER_6" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_VAL_MUD4_ACTIVE_WALK_WITH_JOHN">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Valentine_DEFAULT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_FIRST_VISIT" />
+          <UNK_7CEB63B0 enable="true" id="Valentine_Mud4" />
+          <UNK_7CEB63B0 enable="true" id="Valentine_Mud4_Church" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_Mud4_Saloon" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="VAL_AUCTION_HAND" schedule="Valentine/Mudtown4/Val_Auction_Hand" />
+          <UNK_41F8F66 id="VAL_AUCTION_HAND_2" schedule="Valentine/Mudtown4/Val_Auction_Hand_2" />
+          <UNK_41F8F66 id="VAL_AUCTION_HANDYMAN" schedule="Valentine/Mudtown4/Val_Auction_Handyman" />
+          <UNK_41F8F66 id="VAL_RANCHER_1" schedule="Valentine/Mudtown4/VAL_RANCHER_1" />
+          <UNK_41F8F66 id="VAL_BANK_GUARD" schedule="Valentine/Mudtown4/VAL_BANK_GUARD" />
+          <UNK_41F8F66 id="VAL_BARBER" schedule="Valentine/Mudtown4/VAL_BARBER" />
+          <UNK_41F8F66 id="VAL_BARTENDER" schedule="Valentine/Mudtown4/VAL_BARTENDER" />
+          <UNK_41F8F66 id="VAL_DELIVERY_MAN" schedule="Valentine/Mudtown4/VAL_DELIVERY_MAN" />
+          <UNK_41F8F66 id="VAL_DOCTOR" schedule="Valentine/Mudtown4/Val_Doctor" />
+          <UNK_41F8F66 id="VAL_GUNSMITH" schedule="Valentine/Mudtown4/VAL_GUNSMITH" />
+          <UNK_41F8F66 id="VAL_HANDYMANS_WIFE" schedule="Valentine/Mudtown4/Val_Handymans_Wife" />
+          <UNK_41F8F66 id="VAL_NEWSPAPER_VENDOR" schedule="Valentine/Mudtown4/VAL_NEWSPAPER_VENDOR" />
+          <UNK_41F8F66 id="VAL_RANCHER_2" schedule="Valentine/Mudtown4/VAL_RANCHER_2" />
+          <UNK_41F8F66 id="VAL_SHERIFF_HELPER" schedule="Valentine/Mudtown4/Val_Sheriff_Helper" />
+          <UNK_41F8F66 id="VAL_TOWN_DOG_1" schedule="Valentine/Mudtown4/VAL_TOWN_DOG_1" />
+          <UNK_41F8F66 id="VAL_TOWN_DOG_2" schedule="Valentine/Mudtown4/VAL_TOWN_DOG_2" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_3" schedule="Valentine/Mudtown4/VAL_TOWN_WORKER_3" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_8" schedule="Valentine/Mudtown4/VAL_TOWN_WORKER_8" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_9" schedule="Valentine/Mudtown4/VAL_TOWN_WORKER_9" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_VAL_MUD4_ACTIVE_GO_TO_SALOON">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Valentine_DEFAULT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_FIRST_VISIT" />
+          <UNK_7CEB63B0 enable="true" id="Valentine_Mud4" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_Mud4_Church" />
+          <UNK_7CEB63B0 enable="true" id="Valentine_Mud4_Saloon" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="VAL_AUCTION_HAND" schedule="Valentine/Mudtown4/Val_Auction_Hand" />
+          <UNK_41F8F66 id="VAL_AUCTION_HAND_2" schedule="Valentine/Mudtown4/Val_Auction_Hand_2" />
+          <UNK_41F8F66 id="VAL_AUCTION_HANDYMAN" schedule="Valentine/Mudtown4/Val_Auction_Handyman" />
+          <UNK_41F8F66 id="VAL_RANCHER_1" schedule="Valentine/Mudtown4/VAL_RANCHER_1" />
+          <UNK_41F8F66 id="VAL_DELIVERY_MAN" schedule="Valentine/Mudtown4/VAL_DELIVERY_MAN" />
+          <UNK_41F8F66 id="VAL_DOCTOR" schedule="Valentine/Mudtown4/Val_Doctor" />
+          <UNK_41F8F66 id="VAL_HANDYMANS_WIFE" schedule="Valentine/Mudtown4/Val_Handymans_Wife_Saloon_Walk" />
+          <UNK_41F8F66 id="VAL_NEWSPAPER_VENDOR" schedule="Valentine/Mudtown4/VAL_NEWSPAPER_VENDOR" />
+          <UNK_41F8F66 id="VAL_PRISONER_1" schedule="Valentine/Mudtown4/VAL_Prisoner_1" />
+          <UNK_41F8F66 id="VAL_PRISONER_2" schedule="Valentine/Mudtown4/VAL_Prisoner_2" />
+          <UNK_41F8F66 id="VAL_SHERIFF_HELPER" schedule="Valentine/Mudtown4/Val_Sheriff_Helper" />
+          <UNK_41F8F66 id="VAL_TOWN_DOG_1" schedule="Valentine/Mudtown4/VAL_TOWN_DOG_1" />
+          <UNK_41F8F66 id="VAL_TOWN_DOG_2" schedule="Valentine/Mudtown4/VAL_TOWN_DOG_2" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_3" schedule="Valentine/Mudtown4/VAL_TOWN_WORKER_3" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_8" schedule="Valentine/Mudtown4/VAL_TOWN_WORKER_8_Saloon_Walk" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_VAL_MUD5_ACTIVE">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="false" id="Valentine_DEFAULT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_FIRST_VISIT" />
+          <UNK_7CEB63B0 enable="true" id="Valentine_Mud5" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="VAL_AUCTION_BOSS" schedule="Valentine/Mudtown5/VAL_AUCTION_BOSS" />
+          <UNK_41F8F66 id="VAL_AUCTION_HAND" schedule="Valentine/Mudtown5/Val_Auction_Hand" />
+          <UNK_41F8F66 id="VAL_AUCTION_HAND_2" schedule="Valentine/Mudtown5/Val_Auction_Hand_2" />
+          <UNK_41F8F66 id="VAL_AUCTION_HANDYMAN" schedule="Valentine/Mudtown5/Val_Auction_Handyman" />
+          <UNK_41F8F66 id="VAL_RANCHER_1" schedule="Valentine/Mudtown5/Val_Rancher_1" />
+          <UNK_41F8F66 id="VAL_BARBER" schedule="Valentine/Mudtown5/Val_Barber" />
+          <UNK_41F8F66 id="VAL_DOCTOR" schedule="Valentine/Mudtown5/Stealth/Val_Doctor" />
+          <UNK_41F8F66 id="VAL_HANDYMANS_WIFE" schedule="Valentine/Mudtown5/Val_Handymans_Wife" />
+          <UNK_41F8F66 id="VAL_HEAD_PROSTITUTE" schedule="Valentine/Mudtown5/Val_Head_Prostitute" />
+          <UNK_41F8F66 id="VAL_HORSE_RIDER_1" schedule="Valentine/Mudtown5/VAL_HORSE_RIDER_1" />
+          <UNK_41F8F66 id="VAL_HORSE_RIDER_2" schedule="Valentine/Mudtown5/VAL_HORSE_RIDER_2" />
+          <UNK_41F8F66 id="VAL_LIVERY" schedule="Valentine/Mudtown5/VAL_LIVERY" />
+          <UNK_41F8F66 id="VAL_NEWSPAPER_VENDOR" schedule="Valentine/Mudtown5/VAL_NEWSPAPER_VENDOR" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_1" schedule="Valentine/Mudtown5/Val_Prostitute_1" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_2" schedule="Valentine/Mudtown5/Val_Prostitute_2" />
+          <UNK_41F8F66 id="VAL_SHEEP_6" schedule="Valentine/Mudtown5/VAL_TRAIN_SHEEP_1" />
+          <UNK_41F8F66 id="VAL_SHEEP_7" schedule="Valentine/Mudtown5/VAL_TRAIN_SHEEP_2" />
+          <UNK_41F8F66 id="VAL_SHEEP_8" schedule="Valentine/Mudtown5/VAL_TRAIN_SHEEP_3" />
+          <UNK_41F8F66 id="VAL_SHERIFF" schedule="Valentine/Mudtown5/Val_Sheriff" />
+          <UNK_41F8F66 id="VAL_SHERIFF_HELPER" schedule="Valentine/Mudtown5/Val_Sheriff_Helper" />
+          <UNK_41F8F66 id="VAL_SLUM_BARTENDER" schedule="Valentine/Mudtown3/VAL_SLUM_BARTENDER" />
+          <UNK_41F8F66 id="VAL_TOWN_DOG_1" schedule="Valentine/Mudtown5/VAL_TOWN_DOG_1" />
+          <UNK_41F8F66 id="VAL_TOWN_DOG_2" schedule="Valentine/Mudtown5/VAL_TOWN_DOG_2" />
+          <UNK_41F8F66 id="VAL_TOWN_DOG_3" schedule="Valentine/Mudtown5/VAL_TOWN_DOG_3" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_3" schedule="Valentine/Mudtown5/VAL_TOWN_WORKER_3" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_5" schedule="Valentine/Mudtown5/VAL_TOWN_WORKER_5" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_7" schedule="Valentine/Mudtown5/VAL_TOWN_WORKER_7" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_8" schedule="Valentine/Mudtown5/VAL_TOWN_WORKER_8" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_9" schedule="Valentine/Mudtown5/VAL_TOWN_WORKER_9" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_VAL_MUD5_ACTIVE_STEALTH_EXIT">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="false" id="Valentine_DEFAULT" />
+          <UNK_7CEB63B0 enable="false" id="Valentine_FIRST_VISIT" />
+          <UNK_7CEB63B0 enable="true" id="Valentine_Mud5" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="VAL_BARBER" schedule="Valentine/Mudtown5/Stealth/Val_Barber" />
+          <UNK_41F8F66 id="VAL_BARTENDER" schedule="Valentine/Mudtown5/Stealth/Val_Bartender" />
+          <UNK_41F8F66 id="VAL_DOCTOR" schedule="Valentine/Mudtown5/Stealth/Val_Doctor" />
+          <UNK_41F8F66 id="VAL_GENERAL_STORE" schedule="Valentine/Mudtown5/Stealth/VAL_GENERAL_STORE" />
+          <UNK_41F8F66 id="VAL_HEAD_PROSTITUTE" schedule="Valentine/Mudtown5/Val_Head_Prostitute" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_1" schedule="Valentine/Mudtown5/Val_Prostitute_1" />
+          <UNK_41F8F66 id="VAL_PROSTITUTE_2" schedule="Valentine/Mudtown5/Val_Prostitute_2" />
+          <UNK_41F8F66 id="VAL_SHERIFF" schedule="Valentine/Mudtown5/Stealth/Val_Sheriff" />
+          <UNK_41F8F66 id="VAL_TOWN_DOG_2" schedule="Valentine/Mudtown5/Stealth/VAL_TOWN_DOG_2" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_3" schedule="Valentine/Mudtown5/Stealth/VAL_TOWN_WORKER_3" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_5" schedule="Valentine/Mudtown5/Stealth/VAL_TOWN_WORKER_5" />
+          <UNK_41F8F66 id="VAL_TOWN_WORKER_8" schedule="Valentine/Mudtown5/VAL_TOWN_WORKER_8" />
+        </schedules>
+      </UNK_BF19D25B>
+    </town>
+    <town id="REGION_ROA_VANHORNPOST">
+      <UNK_BF19D25B id="TSTAG_NO_TAGS">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="VanHorn_Default" />
+          <UNK_7CEB63B0 enable="true" id="VHT_SALOON_FRONT_AMBIENT" />
+          <UNK_7CEB63B0 enable="false" id="VanHorn_OddFellows" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_FIRST_VISIT">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="VanHorn_Default" />
+          <UNK_7CEB63B0 enable="true" id="VHT_SALOON_FRONT_AMBIENT" />
+          <UNK_7CEB63B0 enable="false" id="VanHorn_OddFellows" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_VHT_ODD_FELLOWS_1_ACTIVE">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="VanHorn_Default" />
+          <UNK_7CEB63B0 enable="true" id="VHT_SALOON_FRONT_AMBIENT" />
+          <UNK_7CEB63B0 enable="true" id="VanHorn_OddFellows" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="VHT_MUSICIAN" schedule="VanHornTradingPost/The_Odd_Fellows/vht_musician" />
+          <UNK_41F8F66 id="VHT_PROSTITUTE_2" schedule="VanHornTradingPost/The_Odd_Fellows/VHT_PROSTITUTE_2" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_LOCKDOWN_SALOON">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="VanHorn_Default" />
+          <UNK_7CEB63B0 enable="false" id="VHT_SALOON_FRONT_AMBIENT" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="vht_station_clerk" schedule="VanHornTradingPost/Saloon_Lockdown/vht_station_clerk" />
+          <UNK_41F8F66 id="VHT_EXOTIC_STORE" schedule="VanHornTradingPost/Saloon_Lockdown/vht_exotic_store" />
+          <UNK_41F8F66 id="VHT_TOWN_RESIDENT_1" schedule="VanHornTradingPost/Saloon_Lockdown/VHT_RESIDENT_1" />
+          <UNK_41F8F66 id="VHT_TOWN_RESIDENT_2" schedule="VanHornTradingPost/Saloon_Lockdown/VHT_RESIDENT_2" />
+          <UNK_41F8F66 id="VHT_TOWN_RESIDENT_3" schedule="VanHornTradingPost/Saloon_Lockdown/VHT_RESIDENT_3" />
+          <UNK_41F8F66 id="VHT_PEASANT_PRINCESS" schedule="VanHornTradingPost/Saloon_Lockdown/vht_peasant_princess" />
+          <UNK_41F8F66 id="VHT_TOWN_RESIDENT_1" schedule="VanHornTradingPost/Saloon_Lockdown/VHT_RESIDENT_1" />
+          <UNK_41F8F66 id="VHT_TOWN_RESIDENT_2" schedule="VanHornTradingPost/Saloon_Lockdown/VHT_RESIDENT_2" />
+          <UNK_41F8F66 id="VHT_TOWN_RESIDENT_3" schedule="VanHornTradingPost/Saloon_Lockdown/VHT_RESIDENT_3" />
+          <UNK_41F8F66 id="VHT_PEASANT_PRINCESS" schedule="VanHornTradingPost/Saloon_Lockdown/vht_peasant_princess" />
+          <UNK_41F8F66 id="VHT_SQUATTER_1" schedule="VanHornTradingPost/Saloon_Lockdown/VHT_SQUATTER_1" />
+          <UNK_41F8F66 id="VHT_SQUATTER_2" schedule="VanHornTradingPost/Saloon_Lockdown/VHT_SQUATTER_2" />
+        </schedules>
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_RAIN">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="VanHorn_Default" />
+          <UNK_7CEB63B0 enable="true" id="VanHorn_Rain" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="VHT_HARMONICA_PLAYER" schedule="VanHornTradingPost/Rain/vht_harmonica_player" />
+          <UNK_41F8F66 id="VHT_SALOON_PATRON_1" schedule="VanHornTradingPost/Rain/vht_saloon_patron_1" />
+          <UNK_41F8F66 id="VHT_SALOON_PATRON_4" schedule="VanHornTradingPost/Rain/vht_saloon_patron_4" />
+          <UNK_41F8F66 id="VHT_SQUATTER_1" schedule="VanHornTradingPost/Rain/vht_squatter_1" />
+          <UNK_41F8F66 id="VHT_SQUATTER_2" schedule="VanHornTradingPost/Rain/vht_squatter_2" />
+          <UNK_41F8F66 id="VHT_SQUATTER_3" schedule="VanHornTradingPost/Rain/vht_squatter_3" />
+          <UNK_41F8F66 id="VHT_TOWN_RESIDENT_1" schedule="VanHornTradingPost/Rain/vht_town_resident_1" />
+          <UNK_41F8F66 id="VHT_TOWN_RESIDENT_2" schedule="VanHornTradingPost/Rain/vht_town_resident_2" />
+          <UNK_41F8F66 id="VHT_TOWN_RESIDENT_3" schedule="VanHornTradingPost/Rain/vht_town_resident_3" />
+          <UNK_41F8F66 id="VHT_PROSTITUTE_1" schedule="VanHornTradingPost/Rain/VHT_PROSTITUTE_1" />
+          <UNK_41F8F66 id="VHT_PROSTITUTE_2" schedule="VanHornTradingPost/Rain/VHT_PROSTITUTE_2" />
+          <UNK_41F8F66 id="VHT_SCAVENGER" schedule="VanHornTradingPost/Rain/VHT_SCAVENGER" />
+        </schedules>
+      </UNK_BF19D25B>
+    </town>
+    <town id="REGION_GRZ_WAPITI">
+      <UNK_BF19D25B id="TSTAG_NO_TAGS">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Wapiti_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_FIRST_VISIT">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Wapiti_DEFAULT" />
+        </UNK_587DA382>
+        <schedules text="" />
+      </UNK_BF19D25B>
+      <UNK_BF19D25B id="TSTAG_RAIN">
+        <UNK_587DA382>
+          <UNK_7CEB63B0 enable="true" id="Wapiti_Default" />
+        </UNK_587DA382>
+        <schedules>
+          <UNK_41F8F66 id="WAP_HEADBRAVE" schedule="Wapiti/Rain/wap_headbrave" />
+          <UNK_41F8F66 id="WAP_MEDICINEMAN" schedule="Wapiti/Rain/wap_medicineman" />
+          <UNK_41F8F66 id="WAP_SHOPKEEPER" schedule="Wapiti/Rain/wap_shopkeeper" />
+          <UNK_41F8F66 id="WAP_SIOUXCHEF" schedule="Wapiti/Rain/wap_siouxchef" />
+        </schedules>
+      </UNK_BF19D25B>
+    </town>
+  </root>
+</root>

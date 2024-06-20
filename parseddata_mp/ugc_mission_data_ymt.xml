@@ -1,0 +1,1332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data>
+    <UNK_9CC78A1A>
+      <UNK_324086E9 id="UGC_MAJOR_ID_MOONSHINE_COOP" UNK_83D17C76="COOP1">
+        <data>
+          <entry id="COOLDOWN_DURATION" int="48" />
+          <entry id="COOLDOWN_COMMANDLINE" string="ignore_moonshine_coop_mission_cooldown" />
+          <entry id="COOLDOWN_DURATION_OVERRIDE" string="override_moonshine_coop_mission_cooldown" />
+        </data>
+        <missions>
+          <mission UNK_A3D2A4A1="jWFkb3wnmE2Qixso5IxvUA" id="ROLE_MOONSHINE_PROGRESSION_COOP_MISSION_01">
+            <UNK_398062F3>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_COOK_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_SUPPLIES_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_INIT" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_COMPLETED" UNK_2C90BE06="UNCLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_REPLAY_AVAILABILITY" />
+                    </flags>
+                  </UNK_D9720878>
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="MOONSHINE_MISSION_1_FLOW_COMPLETE" />
+                </awards>
+                <UNK_B5D3D101>
+                  <replay id="MARK_COMPLETE" />
+                </UNK_B5D3D101>
+              </difficulty>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_COOK_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_SUPPLIES_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_INIT" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_COMPLETED" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_DIFF_1_COMPLETED" UNK_2C90BE06="UNCLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_REPLAY_AVAILABILITY" />
+                    </flags>
+                  </UNK_D9720878>
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="MOONSHINE_MISSION_1_DIFFICULTY_1_COMPLETE" />
+                </awards>
+                <UNK_B5D3D101>
+                  <replay id="MARK_COMPLETE" />
+                </UNK_B5D3D101>
+              </difficulty>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_COOK_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_SUPPLIES_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_INIT" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_COMPLETED" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_DIFF_1_COMPLETED" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_DIFF_2_COMPLETED" UNK_2C90BE06="UNCLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_REPLAY_AVAILABILITY" />
+                    </flags>
+                  </UNK_D9720878>
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="MOONSHINE_MISSION_1_DIFFICULTY_2_COMPLETE" />
+                </awards>
+                <UNK_B5D3D101>
+                  <replay id="MARK_COMPLETE" />
+                </UNK_B5D3D101>
+              </difficulty>
+            </UNK_398062F3>
+            <UNK_59F9E98B>
+              <UNK_D4CF8DA9 UNK_90D584AA="NO_CAMERA_PAN" id="FLOW" UNK_4D978F21="COOP_MISSION_GIVER">
+                <flags id="MATCHMAKING">
+                  <flag id="UGC_SKIP_LOBBY" />
+                  <flag id="LOCKED_TO_GANG" />
+                  <flag id="HIDE_SIDEMENU" />
+                  <flag id="HIDE_HELPTEXT_CANCEL_MSG" />
+                  <flag id="EXCLUDE_IN_PROGRESS" />
+                </flags>
+              </UNK_D4CF8DA9>
+              <UNK_D4CF8DA9 UNK_90D584AA="NO_CAMERA_PAN" id="REPLAY" UNK_4D978F21="COOP_MISSION_REPLAY">
+                <flags id="MATCHMAKING">
+                  <flag id="UGC_SKIP_LOBBY" />
+                  <flag id="LOCKED_TO_GANG" />
+                  <flag id="HIDE_SIDEMENU" />
+                  <flag id="HIDE_HELPTEXT_CANCEL_MSG" />
+                  <flag id="EXCLUDE_IN_PROGRESS" />
+                </flags>
+              </UNK_D4CF8DA9>
+            </UNK_59F9E98B>
+            <UNK_41D74CE6>
+              <loading_screen name="CoopMoonshiner01_1" />
+              <loading_screen name="CoopMoonshiner01_2" />
+              <loading_screen name="CoopMoonshiner01_3" />
+            </UNK_41D74CE6>
+            <UNK_EB3CE09F>
+              <anim_scene id="ACCEPT" name="cutscene@MOON1_INT" />
+            </UNK_EB3CE09F>
+            <UNK_A50F7DC7 name="MOONSHINE_1_PRELOAD_START" />
+          </mission>
+          <mission UNK_A3D2A4A1="otVgEW2JvEyRDQqy5LTHTg" id="ROLE_MOONSHINE_PROGRESSION_COOP_MISSION_02">
+            <UNK_398062F3>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_COOK_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_SUPPLIES_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_INIT" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_COMPLETED" UNK_2C90BE06="UNCLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_REPLAY_AVAILABILITY" />
+                    </flags>
+                  </UNK_D9720878>
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="MOONSHINE_MISSION_2_FLOW_COMPLETE" />
+                </awards>
+                <UNK_B5D3D101>
+                  <replay id="MARK_COMPLETE" />
+                </UNK_B5D3D101>
+              </difficulty>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_COOK_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_SUPPLIES_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_INIT" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_COMPLETED" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_DIFF_1_COMPLETED" UNK_2C90BE06="UNCLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_REPLAY_AVAILABILITY" />
+                    </flags>
+                  </UNK_D9720878>
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="MOONSHINE_MISSION_2_DIFFICULTY_1_COMPLETE" />
+                </awards>
+                <UNK_B5D3D101>
+                  <replay id="MARK_COMPLETE" />
+                </UNK_B5D3D101>
+              </difficulty>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_COOK_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_SUPPLIES_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_INIT" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_COMPLETED" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_DIFF_1_COMPLETED" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_DIFF_2_COMPLETED" UNK_2C90BE06="UNCLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_REPLAY_AVAILABILITY" />
+                    </flags>
+                  </UNK_D9720878>
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="MOONSHINE_MISSION_2_DIFFICULTY_2_COMPLETE" />
+                </awards>
+                <UNK_B5D3D101>
+                  <replay id="MARK_COMPLETE" />
+                </UNK_B5D3D101>
+              </difficulty>
+            </UNK_398062F3>
+            <UNK_59F9E98B>
+              <UNK_D4CF8DA9 UNK_90D584AA="NO_CAMERA_PAN" id="FLOW" UNK_4D978F21="COOP_MISSION_GIVER">
+                <flags id="MATCHMAKING">
+                  <flag id="UGC_SKIP_LOBBY" />
+                  <flag id="LOCKED_TO_GANG" />
+                  <flag id="HIDE_SIDEMENU" />
+                  <flag id="HIDE_HELPTEXT_CANCEL_MSG" />
+                  <flag id="EXCLUDE_IN_PROGRESS" />
+                </flags>
+              </UNK_D4CF8DA9>
+              <UNK_D4CF8DA9 UNK_90D584AA="NO_CAMERA_PAN" id="REPLAY" UNK_4D978F21="COOP_MISSION_REPLAY">
+                <flags id="MATCHMAKING">
+                  <flag id="UGC_SKIP_LOBBY" />
+                  <flag id="LOCKED_TO_GANG" />
+                  <flag id="HIDE_SIDEMENU" />
+                  <flag id="HIDE_HELPTEXT_CANCEL_MSG" />
+                  <flag id="EXCLUDE_IN_PROGRESS" />
+                </flags>
+              </UNK_D4CF8DA9>
+            </UNK_59F9E98B>
+            <UNK_41D74CE6>
+              <loading_screen name="CoopMoonshiner02_1" />
+              <loading_screen name="CoopMoonshiner02_2" />
+              <loading_screen name="CoopMoonshiner02_3" />
+            </UNK_41D74CE6>
+            <UNK_EB3CE09F>
+              <anim_scene id="ACCEPT" name="script@mp@maggie@ig_4_briefs@maggie_briefs" playlist="pl_jobbriefs_C" root="MAGG_STORY2" />
+            </UNK_EB3CE09F>
+            <UNK_A50F7DC7 name="MOONSHINE_2_PRELOAD_START" />
+          </mission>
+          <mission UNK_A3D2A4A1="iaWgs4SwWEm6h0pibx3Yhw" id="ROLE_MOONSHINE_PROGRESSION_COOP_MISSION_03">
+            <UNK_398062F3>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_COOK_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_SUPPLIES_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_INIT" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_3_COMPLETED" UNK_2C90BE06="UNCLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_REPLAY_AVAILABILITY" />
+                    </flags>
+                  </UNK_D9720878>
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="MOONSHINE_MISSION_3_FLOW_COMPLETE" />
+                </awards>
+                <UNK_B5D3D101>
+                  <replay id="MARK_COMPLETE" />
+                </UNK_B5D3D101>
+              </difficulty>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_COOK_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_SUPPLIES_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_INIT" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_3_COMPLETED" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_3_DIFF_1_COMPLETED" UNK_2C90BE06="UNCLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_REPLAY_AVAILABILITY" />
+                    </flags>
+                  </UNK_D9720878>
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="MOONSHINE_MISSION_3_DIFFICULTY_1_COMPLETE" />
+                </awards>
+                <UNK_B5D3D101>
+                  <replay id="MARK_COMPLETE" />
+                </UNK_B5D3D101>
+              </difficulty>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_COOK_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_SUPPLIES_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_INIT" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_3_COMPLETED" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_3_DIFF_1_COMPLETED" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_3_DIFF_2_COMPLETED" UNK_2C90BE06="UNCLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_REPLAY_AVAILABILITY" />
+                    </flags>
+                  </UNK_D9720878>
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="MOONSHINE_MISSION_3_DIFFICULTY_2_COMPLETE" />
+                </awards>
+                <UNK_B5D3D101>
+                  <replay id="MARK_COMPLETE" />
+                </UNK_B5D3D101>
+              </difficulty>
+            </UNK_398062F3>
+            <UNK_59F9E98B>
+              <UNK_D4CF8DA9 UNK_90D584AA="NO_CAMERA_PAN" id="FLOW" UNK_4D978F21="COOP_MISSION_GIVER">
+                <flags id="MATCHMAKING">
+                  <flag id="UGC_SKIP_LOBBY" />
+                  <flag id="LOCKED_TO_GANG" />
+                  <flag id="HIDE_SIDEMENU" />
+                  <flag id="HIDE_HELPTEXT_CANCEL_MSG" />
+                  <flag id="EXCLUDE_IN_PROGRESS" />
+                </flags>
+              </UNK_D4CF8DA9>
+              <UNK_D4CF8DA9 UNK_90D584AA="NO_CAMERA_PAN" id="REPLAY" UNK_4D978F21="COOP_MISSION_REPLAY">
+                <flags id="MATCHMAKING">
+                  <flag id="UGC_SKIP_LOBBY" />
+                  <flag id="LOCKED_TO_GANG" />
+                  <flag id="HIDE_SIDEMENU" />
+                  <flag id="HIDE_HELPTEXT_CANCEL_MSG" />
+                  <flag id="EXCLUDE_IN_PROGRESS" />
+                </flags>
+              </UNK_D4CF8DA9>
+            </UNK_59F9E98B>
+            <UNK_41D74CE6>
+              <loading_screen name="CoopMoonshiner03_1" />
+              <loading_screen name="CoopMoonshiner03_2" />
+              <loading_screen name="CoopMoonshiner03_3" />
+            </UNK_41D74CE6>
+            <UNK_EB3CE09F>
+              <anim_scene id="ACCEPT" name="script@mp@maggie@ig_4_briefs@maggie_briefs" playlist="pl_jobbriefs_C" root="MAGG_STORY3" />
+            </UNK_EB3CE09F>
+            <UNK_A50F7DC7 name="MOONSHINE_3_PRELOAD_START" />
+          </mission>
+          <mission UNK_A3D2A4A1="FtqRMPRZMEmdN8TWU8Agmg" id="ROLE_MOONSHINE_PROGRESSION_COOP_MISSION_04">
+            <UNK_398062F3>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_COOK_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_SUPPLIES_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_INIT" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_3_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_4_COMPLETED" UNK_2C90BE06="UNCLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_REPLAY_AVAILABILITY" />
+                    </flags>
+                  </UNK_D9720878>
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="MOONSHINE_MISSION_4_FLOW_COMPLETE" />
+                </awards>
+                <UNK_B5D3D101>
+                  <replay id="MARK_COMPLETE" />
+                </UNK_B5D3D101>
+              </difficulty>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_COOK_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_SUPPLIES_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_INIT" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_3_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_4_COMPLETED" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_4_DIFF_1_COMPLETED" UNK_2C90BE06="UNCLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_REPLAY_AVAILABILITY" />
+                    </flags>
+                  </UNK_D9720878>
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="MOONSHINE_MISSION_4_DIFFICULTY_1_COMPLETE" />
+                </awards>
+                <UNK_B5D3D101>
+                  <replay id="MARK_COMPLETE" />
+                </UNK_B5D3D101>
+              </difficulty>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_COOK_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_SUPPLIES_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_INIT" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_3_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_4_COMPLETED" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_4_DIFF_1_COMPLETED" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_4_DIFF_2_COMPLETED" UNK_2C90BE06="UNCLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_REPLAY_AVAILABILITY" />
+                    </flags>
+                  </UNK_D9720878>
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="MOONSHINE_MISSION_4_DIFFICULTY_2_COMPLETE" />
+                </awards>
+                <UNK_B5D3D101>
+                  <replay id="MARK_COMPLETE" />
+                </UNK_B5D3D101>
+              </difficulty>
+            </UNK_398062F3>
+            <UNK_59F9E98B>
+              <UNK_D4CF8DA9 UNK_90D584AA="NO_CAMERA_PAN" id="FLOW" UNK_4D978F21="COOP_MISSION_GIVER">
+                <flags id="MATCHMAKING">
+                  <flag id="UGC_SKIP_LOBBY" />
+                  <flag id="LOCKED_TO_GANG" />
+                  <flag id="HIDE_SIDEMENU" />
+                  <flag id="HIDE_HELPTEXT_CANCEL_MSG" />
+                  <flag id="EXCLUDE_IN_PROGRESS" />
+                </flags>
+              </UNK_D4CF8DA9>
+              <UNK_D4CF8DA9 UNK_90D584AA="NO_CAMERA_PAN" id="REPLAY" UNK_4D978F21="COOP_MISSION_REPLAY">
+                <flags id="MATCHMAKING">
+                  <flag id="UGC_SKIP_LOBBY" />
+                  <flag id="LOCKED_TO_GANG" />
+                  <flag id="HIDE_SIDEMENU" />
+                  <flag id="HIDE_HELPTEXT_CANCEL_MSG" />
+                  <flag id="EXCLUDE_IN_PROGRESS" />
+                </flags>
+              </UNK_D4CF8DA9>
+            </UNK_59F9E98B>
+            <UNK_41D74CE6>
+              <loading_screen name="CoopMoonshiner04_1" />
+              <loading_screen name="CoopMoonshiner04_2" />
+              <loading_screen name="CoopMoonshiner04_3" />
+            </UNK_41D74CE6>
+            <UNK_EB3CE09F>
+              <anim_scene id="ACCEPT" name="script@mp@maggie@ig_4_briefs@maggie_briefs" playlist="pl_jobbriefs_C" root="MAGG_STORY4" />
+            </UNK_EB3CE09F>
+            <UNK_A50F7DC7 name="MOONSHINE_4_PRELOAD_START" />
+          </mission>
+          <mission UNK_A3D2A4A1="vuhd5nQAzU2D6hjBFEELvg" id="ROLE_MOONSHINE_PROGRESSION_COOP_MISSION_05">
+            <UNK_398062F3>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_COOK_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_SUPPLIES_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_INIT" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_3_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_4_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_5_COMPLETED" UNK_2C90BE06="UNCLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_REPLAY_AVAILABILITY" />
+                    </flags>
+                  </UNK_D9720878>
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="MOONSHINE_MISSION_5_FLOW_COMPLETE" />
+                </awards>
+                <challenges>
+                  <challenge UNK_9A42F7FC="MOONSHINE_STORY_FLOW_MISSION_COMPLETE" />
+                </challenges>
+                <UNK_B5D3D101>
+                  <replay id="MARK_COMPLETE" />
+                  <replay id="UNLOCK_REPLAY" />
+                </UNK_B5D3D101>
+              </difficulty>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_COOK_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_SUPPLIES_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_INIT" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_3_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_4_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_5_COMPLETED" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_5_DIFF_1_COMPLETED" UNK_2C90BE06="UNCLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_REPLAY_AVAILABILITY" />
+                    </flags>
+                  </UNK_D9720878>
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="MOONSHINE_MISSION_5_DIFFICULTY_1_COMPLETE" />
+                </awards>
+                <UNK_B5D3D101>
+                  <replay id="MARK_COMPLETE" />
+                </UNK_B5D3D101>
+              </difficulty>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_COOK_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="UNLOCK" UNK_5E50CFA2="ROLE_PROGRESSION_MOONSHINE_SUPPLIES_SETUP" UNK_2C90BE06="UNLOCKED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_INIT" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_3_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_4_COMPLETED" UNK_2C90BE06="CLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_MISSION_SELECTION" />
+                    </flags>
+                  </UNK_D9720878>
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_5_COMPLETED" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_5_DIFF_1_COMPLETED" UNK_2C90BE06="CLAIMED" />
+                  <UNK_D9720878 UNK_DCF4A23="AWARD" UNK_5E50CFA2="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_5_DIFF_2_COMPLETED" UNK_2C90BE06="UNCLAIMED">
+                    <flags id="PREREQUISITE">
+                      <flag id="IGNORE_FOR_REPLAY_AVAILABILITY" />
+                    </flags>
+                  </UNK_D9720878>
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="MOONSHINE_MISSION_5_DIFFICULTY_2_COMPLETE" />
+                </awards>
+                <UNK_B5D3D101>
+                  <replay id="MARK_COMPLETE" />
+                </UNK_B5D3D101>
+              </difficulty>
+            </UNK_398062F3>
+            <UNK_59F9E98B>
+              <UNK_D4CF8DA9 UNK_90D584AA="NO_CAMERA_PAN" id="FLOW" UNK_4D978F21="COOP_MISSION_GIVER">
+                <flags id="MATCHMAKING">
+                  <flag id="UGC_SKIP_LOBBY" />
+                  <flag id="LOCKED_TO_GANG" />
+                  <flag id="HIDE_SIDEMENU" />
+                  <flag id="HIDE_HELPTEXT_CANCEL_MSG" />
+                  <flag id="EXCLUDE_IN_PROGRESS" />
+                </flags>
+              </UNK_D4CF8DA9>
+              <UNK_D4CF8DA9 UNK_90D584AA="NO_CAMERA_PAN" id="REPLAY" UNK_4D978F21="COOP_MISSION_REPLAY">
+                <flags id="MATCHMAKING">
+                  <flag id="UGC_SKIP_LOBBY" />
+                  <flag id="LOCKED_TO_GANG" />
+                  <flag id="HIDE_SIDEMENU" />
+                  <flag id="HIDE_HELPTEXT_CANCEL_MSG" />
+                  <flag id="EXCLUDE_IN_PROGRESS" />
+                </flags>
+              </UNK_D4CF8DA9>
+            </UNK_59F9E98B>
+            <UNK_41D74CE6>
+              <loading_screen name="CoopMoonshiner05_1" />
+              <loading_screen name="CoopMoonshiner05_2" />
+              <loading_screen name="CoopMoonshiner05_3" />
+            </UNK_41D74CE6>
+            <UNK_EB3CE09F>
+              <anim_scene id="ACCEPT" name="cutscene@MOON5_INT" />
+            </UNK_EB3CE09F>
+            <UNK_A50F7DC7 name="MOONSHINE_5_PRELOAD_START" />
+          </mission>
+        </missions>
+        <locations>
+          <location UNK_813B03CC="Bayou" id="PROPERTY_BAYOU">
+            <location id="GOTO" position="[1783.244, -810.5225, 41.5968]" />
+          </location>
+          <location UNK_813B03CC="Grizzlies" id="PROPERTY_GRIZZLIES">
+            <location id="GOTO" position="[-1087.371, 703.7214, 103.255]" />
+          </location>
+          <location UNK_813B03CC="Hennigans" id="PROPERTY_HENNIGANS">
+            <location id="GOTO" position="[-2779.027, -3054.348, 10.459]" />
+          </location>
+          <location UNK_813B03CC="Heartlands" id="PROPERTY_HEARTLANDS">
+            <location id="GOTO" position="[1620.702, 832.2032, 143.8105]" />
+          </location>
+          <location UNK_813B03CC="Tall Trees" id="PROPERTY_TALL_TREES">
+            <location id="GOTO" position="[-1856.524, -1732.128, 108.2856]" />
+          </location>
+        </locations>
+        <stats>
+          <stat UNK_AED16651="ATTEMPTS" id="ATTEMPT" item="MOONSHINE_STORY_MISSION_ANY" />
+          <stat UNK_AED16651="WINS" id="WINS" item="MOONSHINE_STORY_MISSION_ANY" />
+          <stat UNK_AED16651="LOSSES" id="LOSSES" item="MOONSHINE_STORY_MISSION_ANY" />
+          <stat UNK_AED16651="COOLDOWN_START" id="COOLDOWN_START" item="UGC_MOONSHINE_COOP_STORY" />
+        </stats>
+        <awards>
+          <award UNK_227404B="MOONSHINE_006_MISSIONS_INIT" />
+        </awards>
+        <audio>
+          <UNK_4A82ECD0 id="MP_MN_MISSION_COMPLETE_MUSIC" />
+        </audio>
+      </UNK_324086E9>
+      <UNK_324086E9 id="UGC_MAJOR_ID_OUTLAW_LEGENDARY">
+        <data>
+          <entry id="COOLDOWN_DURATION" int="48" />
+          <entry id="COOLDOWN_COMMANDLINE" string="ignore_legendary_outlaw_mission_cooldown" />
+          <entry id="COOLDOWN_DURATION_OVERRIDE" string="override_legendary_outlaw_mission_cooldown" />
+        </data>
+        <missions>
+          <mission UNK_A3D2A4A1="z3fUVETenUK2-JHW-C7wGA" UNK_D71FA9E4="KIT_TRAIN_ROBBERY_COOLDOWN" id="ROLE_OUTLAW_LEGENDARY_MISSION_00">
+            <UNK_398062F3>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_496575F7="AWARD_LOM_TRAIN_ROBBERY_EASY" token="KIT_LOM_TRAIN_ROBBERY_EASY" UNK_74E82F1C="FEE_LOM_TRAIN_ROBBERY_EASY" />
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="LEGENDARY_OUTLAW_TRAIN_EASY_REPLAY_TOKEN" />
+                  <award UNK_227404B="LEGENDARY_OUTLAW_TRAIN_EASY_COMPLETE" />
+                </awards>
+              </difficulty>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_496575F7="AWARD_LOM_TRAIN_ROBBERY_MEDIUM" token="KIT_LOM_TRAIN_ROBBERY_MEDIUM" UNK_74E82F1C="FEE_LOM_TRAIN_ROBBERY_MEDIUM" />
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="LEGENDARY_OUTLAW_TRAIN_MEDIUM_REPLAY_TOKEN" />
+                  <award UNK_227404B="LEGENDARY_OUTLAW_TRAIN_MEDIUM_COMPLETE" />
+                </awards>
+              </difficulty>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_496575F7="AWARD_LOM_TRAIN_ROBBERY_HARD" token="KIT_LOM_TRAIN_ROBBERY_HARD" UNK_74E82F1C="FEE_LOM_TRAIN_ROBBERY_HARD" />
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="LEGENDARY_OUTLAW_TRAIN_HARD_REPLAY_TOKEN" />
+                  <award UNK_227404B="LEGENDARY_OUTLAW_TRAIN_HARD_COMPLETE" />
+                </awards>
+              </difficulty>
+            </UNK_398062F3>
+            <UNK_59F9E98B>
+              <UNK_D4CF8DA9 UNK_90D584AA="NO_CAMERA_PAN" id="FLOW" UNK_4D978F21="COOP_MISSION_GIVER">
+                <flags id="MATCHMAKING">
+                  <flag id="UGC_SKIP_LOBBY" />
+                  <flag id="LOCKED_TO_GANG" />
+                  <flag id="HIDE_SIDEMENU" />
+                  <flag id="HIDE_HELPTEXT_CANCEL_MSG" />
+                  <flag id="EXCLUDE_IN_PROGRESS" />
+                </flags>
+              </UNK_D4CF8DA9>
+            </UNK_59F9E98B>
+            <UNK_41D74CE6>
+              <loading_screen name="OpportunitiesTrain01" />
+              <loading_screen name="OpportunitiesTrain02" />
+              <loading_screen name="OpportunitiesTrain03" />
+              <loading_screen name="OpportunitiesTrain04" />
+            </UNK_41D74CE6>
+            <UNK_EB3CE09F>
+              <anim_scene id="ACCEPT" name="cutscene@MOON1_INT" />
+            </UNK_EB3CE09F>
+            <dialogue>
+              <UNK_F1238CA4 id="APPROACH" name="APPROACH_NEW_LOM_TRAIN" />
+              <UNK_F1238CA4 id="MENU" name="LOM_MENU_NEW_TRAIN" />
+              <UNK_F1238CA4 id="ACCEPT" name="dialogue_legendary_outlaw_train" />
+            </dialogue>
+            <awards>
+              <award UNK_227404B="LEGENDARY_OUTLAW_TRAIN_UNLOCK" id="UNLOCK" />
+              <award UNK_227404B="LOM_INDUSTRY_ROBBERY_HAT" id="ITEM" />
+            </awards>
+            <UNK_1F5D31DD name="script@mp@outlaw@legendary@lom_train@bink@lom_train_bink" />
+            <stats>
+              <stat UNK_AED16651="NUM_TIMES_SEEN" id="UNLOCKED_ITEM_HELP" item="SHOWN_HELP_LOM_0" />
+            </stats>
+            <items>
+              <item id="HELP" item="CLOTHING_STYLE_F_HAT_402" />
+            </items>
+          </mission>
+          <mission UNK_A3D2A4A1="9RRqbFgp1EGfDxQ0rOwL-g" UNK_D71FA9E4="KIT_INDUSTRY_ROBBERY_COOLDOWN" id="ROLE_OUTLAW_LEGENDARY_MISSION_01">
+            <UNK_398062F3>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_496575F7="AWARD_LOM_INDUSTRY_ROBBERY_EASY" token="KIT_LOM_INDUSTRY_ROBBERY_EASY" UNK_74E82F1C="FEE_LOM_INDUSTRY_ROBBERY_EASY" />
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="LEGENDARY_OUTLAW_INDUSTRY_EASY_REPLAY_TOKEN" />
+                  <award UNK_227404B="LEGENDARY_OUTLAW_INDUSTRY_EASY_COMPLETE" />
+                </awards>
+              </difficulty>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_496575F7="AWARD_LOM_INDUSTRY_ROBBERY_MEDIUM" token="KIT_LOM_INDUSTRY_ROBBERY_MEDIUM" UNK_74E82F1C="FEE_LOM_INDUSTRY_ROBBERY_MEDIUM" />
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="LEGENDARY_OUTLAW_INDUSTRY_MEDIUM_REPLAY_TOKEN" />
+                  <award UNK_227404B="LEGENDARY_OUTLAW_INDUSTRY_MEDIUM_COMPLETE" />
+                </awards>
+              </difficulty>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_496575F7="AWARD_LOM_INDUSTRY_ROBBERY_HARD" token="KIT_LOM_INDUSTRY_ROBBERY_HARD" UNK_74E82F1C="FEE_LOM_INDUSTRY_ROBBERY_HARD" />
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="LEGENDARY_OUTLAW_INDUSTRY_HARD_REPLAY_TOKEN" />
+                  <award UNK_227404B="LEGENDARY_OUTLAW_INDUSTRY_HARD_COMPLETE" />
+                </awards>
+              </difficulty>
+            </UNK_398062F3>
+            <UNK_59F9E98B>
+              <UNK_D4CF8DA9 UNK_90D584AA="NO_CAMERA_PAN" id="FLOW" UNK_4D978F21="COOP_MISSION_GIVER">
+                <flags id="MATCHMAKING">
+                  <flag id="UGC_SKIP_LOBBY" />
+                  <flag id="LOCKED_TO_GANG" />
+                  <flag id="HIDE_SIDEMENU" />
+                  <flag id="HIDE_HELPTEXT_CANCEL_MSG" />
+                  <flag id="EXCLUDE_IN_PROGRESS" />
+                </flags>
+              </UNK_D4CF8DA9>
+            </UNK_59F9E98B>
+            <UNK_41D74CE6>
+              <loading_screen name="OpportunitiesIndustry01" />
+              <loading_screen name="OpportunitiesIndustry02" />
+              <loading_screen name="OpportunitiesIndustry03" />
+              <loading_screen name="OpportunitiesIndustry04" />
+            </UNK_41D74CE6>
+            <UNK_EB3CE09F>
+              <anim_scene id="ACCEPT" name="cutscene@MOON1_INT" />
+            </UNK_EB3CE09F>
+            <dialogue>
+              <UNK_F1238CA4 id="APPROACH" name="APPROACH_NEW_LOM_INDUSTRY" />
+              <UNK_F1238CA4 id="MENU" name="LOM_MENU_NEW_INDUSTRY" />
+              <UNK_F1238CA4 id="ACCEPT" name="dialogue_legendary_outlaw_industry" />
+            </dialogue>
+            <awards>
+              <award UNK_227404B="LEGENDARY_OUTLAW_INDUSTRY_UNLOCK" id="UNLOCK" />
+              <award UNK_227404B="LOM_SALOON_DEAL_HAT" id="ITEM" />
+            </awards>
+            <UNK_1F5D31DD name="script@mp@outlaw@legendary@lom_ind@bink@lom_ind_bink" />
+            <stats>
+              <stat UNK_AED16651="NUM_TIMES_SEEN" id="UNLOCKED_ITEM_HELP" item="SHOWN_HELP_LOM_1" />
+            </stats>
+            <items>
+              <item id="HELP" item="CLOTHING_STYLE_F_HAT_401" />
+            </items>
+          </mission>
+          <mission UNK_A3D2A4A1="OAI2th3Sd0yVUfOQUfRefg" UNK_D71FA9E4="KIT_SALOON_DEAL_COOLDOWN" id="ROLE_OUTLAW_LEGENDARY_MISSION_02">
+            <UNK_398062F3>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_496575F7="AWARD_LOM_SALOON_DEAL_EASY" token="KIT_LOM_SALOON_DEAL_EASY" UNK_74E82F1C="FEE_LOM_SALOON_DEAL_EASY" />
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="LEGENDARY_OUTLAW_SALOON_EASY_REPLAY_TOKEN" />
+                  <award UNK_227404B="LEGENDARY_OUTLAW_SALOON_EASY_COMPLETE" />
+                </awards>
+              </difficulty>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_496575F7="AWARD_LOM_SALOON_DEAL_MEDIUM" token="KIT_LOM_SALOON_DEAL_MEDIUM" UNK_74E82F1C="FEE_LOM_SALOON_DEAL_MEDIUM" />
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="LEGENDARY_OUTLAW_SALOON_MEDIUM_REPLAY_TOKEN" />
+                  <award UNK_227404B="LEGENDARY_OUTLAW_SALOON_MEDIUM_COMPLETE" />
+                </awards>
+              </difficulty>
+              <difficulty>
+                <UNK_B8E04150>
+                  <UNK_D9720878 UNK_496575F7="AWARD_LOM_SALOON_DEAL_HARD" token="KIT_LOM_SALOON_DEAL_HARD" UNK_74E82F1C="FEE_LOM_SALOON_DEAL_HARD" />
+                </UNK_B8E04150>
+                <awards>
+                  <award UNK_227404B="LEGENDARY_OUTLAW_SALOON_HARD_REPLAY_TOKEN" />
+                  <award UNK_227404B="LEGENDARY_OUTLAW_SALOON_HARD_COMPLETE" />
+                </awards>
+              </difficulty>
+            </UNK_398062F3>
+            <UNK_59F9E98B>
+              <UNK_D4CF8DA9 UNK_90D584AA="NO_CAMERA_PAN" id="FLOW" UNK_4D978F21="COOP_MISSION_GIVER">
+                <flags id="MATCHMAKING">
+                  <flag id="UGC_SKIP_LOBBY" />
+                  <flag id="LOCKED_TO_GANG" />
+                  <flag id="HIDE_SIDEMENU" />
+                  <flag id="HIDE_HELPTEXT_CANCEL_MSG" />
+                  <flag id="EXCLUDE_IN_PROGRESS" />
+                </flags>
+              </UNK_D4CF8DA9>
+            </UNK_59F9E98B>
+            <UNK_41D74CE6>
+              <loading_screen name="OpportunitiesRhodesSaloon01" />
+              <loading_screen name="OpportunitiesRhodesSaloon02" />
+              <loading_screen name="OpportunitiesRhodesSaloon03" />
+              <loading_screen name="OpportunitiesRhodesSaloon04" />
+            </UNK_41D74CE6>
+            <UNK_EB3CE09F>
+              <anim_scene id="ACCEPT" name="cutscene@MOON1_INT" />
+            </UNK_EB3CE09F>
+            <dialogue>
+              <UNK_F1238CA4 id="APPROACH" name="APPROACH_NEW_LOM_SALOON" />
+              <UNK_F1238CA4 id="MENU" name="LOM_MENU_NEW_SALOON" />
+              <UNK_F1238CA4 id="ACCEPT" name="dialogue_legendary_outlaw_saloon" />
+            </dialogue>
+            <awards>
+              <award UNK_227404B="LEGENDARY_OUTLAW_SALOON_UNLOCK" id="UNLOCK" />
+              <award UNK_227404B="LOM_TRAIN_ROBBERY_HAT" id="ITEM" />
+            </awards>
+            <UNK_1F5D31DD name="script@mp@outlaw@legendary@lom_rho@bink@lom_rho_bink" />
+            <stats>
+              <stat UNK_AED16651="NUM_TIMES_SEEN" id="UNLOCKED_ITEM_HELP" item="SHOWN_HELP_LOM_2" />
+            </stats>
+            <items>
+              <item id="HELP" item="CLOTHING_STYLE_F_HAT_403" />
+            </items>
+          </mission>
+        </missions>
+        <stats>
+          <stat UNK_AED16651="ATTEMPTS" id="ATTEMPT" item="OUTLAW_LEGENDARY_MISSION_ANY" />
+          <stat UNK_AED16651="WINS" id="WINS" item="OUTLAW_LEGENDARY_MISSION_ANY" />
+          <stat UNK_AED16651="LOSSES" id="LOSSES" item="OUTLAW_LEGENDARY_MISSION_ANY" />
+          <stat UNK_AED16651="COOLDOWN_START" id="COOLDOWN_START" item="UGC_LEGENDARY_OUTLAW_MISSION" />
+        </stats>
+        <awards text="" />
+        <audio>
+          <UNK_4A82ECD0 id="MP_LO_MISSION_COMPLETE_MUSIC" />
+        </audio>
+        <flags>
+          <flag id="NO_STRAND" />
+          <flag id="LEGENDARY_OUTLAW_MISSION" />
+        </flags>
+      </UNK_324086E9>
+    </UNK_9CC78A1A>
+    <UNK_E1963A72>
+      <award UNK_6480A16D="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_COMPLETED" help="HELP_TEXT_POST_COOP_MISSION_1" id="MOONSHINE_MISSION_1_FLOW_COMPLETE">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_UNLOCKED_IN_FLOW" />
+        </flags>
+        <flags id="AWARD_PROCESS">
+          <flag id="INCREMENT_MISSION" />
+          <flag id="INCREMENT_DIFFICULTY" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_DIFF_1_COMPLETED" id="MOONSHINE_MISSION_1_DIFFICULTY_1_COMPLETE">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_UNLOCKED_IN_FLOW" />
+        </flags>
+        <flags id="AWARD_PROCESS">
+          <flag id="INCREMENT_DIFFICULTY" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_1_DIFF_2_COMPLETED" id="MOONSHINE_MISSION_1_DIFFICULTY_2_COMPLETE">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_UNLOCKED_IN_FLOW" />
+        </flags>
+        <flags id="AWARD_PROCESS">
+          <flag id="INCREMENT_DIFFICULTY" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_COMPLETED" id="MOONSHINE_MISSION_2_FLOW_COMPLETE">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_UNLOCKED_IN_FLOW" />
+        </flags>
+        <flags id="AWARD_PROCESS">
+          <flag id="INCREMENT_MISSION" />
+          <flag id="INCREMENT_DIFFICULTY" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_DIFF_1_COMPLETED" id="MOONSHINE_MISSION_2_DIFFICULTY_1_COMPLETE">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_UNLOCKED_IN_FLOW" />
+        </flags>
+        <flags id="AWARD_PROCESS">
+          <flag id="INCREMENT_DIFFICULTY" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_2_DIFF_2_COMPLETED" id="MOONSHINE_MISSION_2_DIFFICULTY_2_COMPLETE">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_UNLOCKED_IN_FLOW" />
+        </flags>
+        <flags id="AWARD_PROCESS">
+          <flag id="INCREMENT_DIFFICULTY" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_3_COMPLETED" id="MOONSHINE_MISSION_3_FLOW_COMPLETE">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_UNLOCKED_IN_FLOW" />
+        </flags>
+        <flags id="AWARD_PROCESS">
+          <flag id="INCREMENT_MISSION" />
+          <flag id="INCREMENT_DIFFICULTY" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_3_DIFF_1_COMPLETED" id="MOONSHINE_MISSION_3_DIFFICULTY_1_COMPLETE">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_UNLOCKED_IN_FLOW" />
+        </flags>
+        <flags id="AWARD_PROCESS">
+          <flag id="INCREMENT_DIFFICULTY" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_3_DIFF_2_COMPLETED" id="MOONSHINE_MISSION_3_DIFFICULTY_2_COMPLETE">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_UNLOCKED_IN_FLOW" />
+        </flags>
+        <flags id="AWARD_PROCESS">
+          <flag id="INCREMENT_DIFFICULTY" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_4_COMPLETED" id="MOONSHINE_MISSION_4_FLOW_COMPLETE">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_UNLOCKED_IN_FLOW" />
+        </flags>
+        <flags id="AWARD_PROCESS">
+          <flag id="INCREMENT_MISSION" />
+          <flag id="INCREMENT_DIFFICULTY" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_4_DIFF_1_COMPLETED" id="MOONSHINE_MISSION_4_DIFFICULTY_1_COMPLETE">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_UNLOCKED_IN_FLOW" />
+        </flags>
+        <flags id="AWARD_PROCESS">
+          <flag id="INCREMENT_DIFFICULTY" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_4_DIFF_2_COMPLETED" id="MOONSHINE_MISSION_4_DIFFICULTY_2_COMPLETE">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_UNLOCKED_IN_FLOW" />
+        </flags>
+        <flags id="AWARD_PROCESS">
+          <flag id="INCREMENT_DIFFICULTY" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_5_COMPLETED" help="HELP_TEXT_POST_COOP_MISSION_5" id="MOONSHINE_MISSION_5_FLOW_COMPLETE">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_UNLOCKED_IN_FLOW" />
+        </flags>
+        <flags id="AWARD_PROCESS">
+          <flag id="INCREMENT_MISSION" />
+          <flag id="INCREMENT_DIFFICULTY" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_5_DIFF_1_COMPLETED" id="MOONSHINE_MISSION_5_DIFFICULTY_1_COMPLETE">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_UNLOCKED_IN_FLOW" />
+        </flags>
+        <flags id="AWARD_PROCESS">
+          <flag id="INCREMENT_DIFFICULTY" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_PROGRESSION_MOONSHINER_COOP_MISSION_5_DIFF_2_COMPLETED" id="MOONSHINE_MISSION_5_DIFFICULTY_2_COMPLETE">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_UNLOCKED_IN_FLOW" />
+        </flags>
+        <flags id="AWARD_PROCESS">
+          <flag id="INCREMENT_DIFFICULTY" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_PROGRESSION_MOONSHINER_COOP_INIT" id="MOONSHINE_006_MISSIONS_INIT">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_INIT" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_TRAIN_ROBBERY_EASY" id="LEGENDARY_OUTLAW_TRAIN_EASY_REPLAY_TOKEN">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_LAUNCH" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_TRAIN_ROBBERY_MEDIUM" id="LEGENDARY_OUTLAW_TRAIN_MEDIUM_REPLAY_TOKEN">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_LAUNCH" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_TRAIN_ROBBERY_HARD" id="LEGENDARY_OUTLAW_TRAIN_HARD_REPLAY_TOKEN">
+        <flags id="AWARD">
+          <flag id="CHECK_MAX_CLAIMS" />
+          <flag id="ONLY_ON_LAUNCH" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_TRAIN_ROBBERY_COMPLETE_EASY" id="LEGENDARY_OUTLAW_TRAIN_EASY_COMPLETE">
+        <flags id="AWARD">
+          <flag id="ONLY_ON_WIN" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_TRAIN_ROBBERY_COMPLETE_MEDIUM" id="LEGENDARY_OUTLAW_TRAIN_MEDIUM_COMPLETE">
+        <flags id="AWARD">
+          <flag id="ONLY_ON_WIN" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_TRAIN_ROBBERY_COMPLETE_HARD" id="LEGENDARY_OUTLAW_TRAIN_HARD_COMPLETE">
+        <flags id="AWARD">
+          <flag id="ONLY_ON_WIN" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_DEBUG_UNLOCK_LOM_00" id="LEGENDARY_OUTLAW_TRAIN_UNLOCK" />
+      <award UNK_6480A16D="AWARD_LOM_INDUSTRY_ROBBERY_EASY" id="LEGENDARY_OUTLAW_INDUSTRY_EASY_REPLAY_TOKEN">
+        <flags id="AWARD">
+          <flag id="ONLY_ON_LAUNCH" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_INDUSTRY_ROBBERY_MEDIUM" id="LEGENDARY_OUTLAW_INDUSTRY_MEDIUM_REPLAY_TOKEN">
+        <flags id="AWARD">
+          <flag id="ONLY_ON_LAUNCH" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_INDUSTRY_ROBBERY_HARD" id="LEGENDARY_OUTLAW_INDUSTRY_HARD_REPLAY_TOKEN">
+        <flags id="AWARD">
+          <flag id="ONLY_ON_LAUNCH" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_INDUSTRY_ROBBERY_COMPLETE_EASY" id="LEGENDARY_OUTLAW_INDUSTRY_EASY_COMPLETE">
+        <flags id="AWARD">
+          <flag id="ONLY_ON_WIN" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_INDUSTRY_ROBBERY_COMPLETE_MEDIUM" id="LEGENDARY_OUTLAW_INDUSTRY_MEDIUM_COMPLETE">
+        <flags id="AWARD">
+          <flag id="ONLY_ON_WIN" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_INDUSTRY_ROBBERY_COMPLETE_HARD" id="LEGENDARY_OUTLAW_INDUSTRY_HARD_COMPLETE">
+        <flags id="AWARD">
+          <flag id="ONLY_ON_WIN" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_DEBUG_UNLOCK_LOM_01" id="LEGENDARY_OUTLAW_INDUSTRY_UNLOCK" />
+      <award UNK_6480A16D="AWARD_LOM_SALOON_DEAL_EASY" id="LEGENDARY_OUTLAW_SALOON_EASY_REPLAY_TOKEN">
+        <flags id="AWARD">
+          <flag id="ONLY_ON_LAUNCH" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_SALOON_DEAL_MEDIUM" id="LEGENDARY_OUTLAW_SALOON_MEDIUM_REPLAY_TOKEN">
+        <flags id="AWARD">
+          <flag id="ONLY_ON_LAUNCH" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_SALOON_DEAL_HARD" id="LEGENDARY_OUTLAW_SALOON_HARD_REPLAY_TOKEN">
+        <flags id="AWARD">
+          <flag id="ONLY_ON_LAUNCH" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_SALOON_DEAL_COMPLETE_EASY" id="LEGENDARY_OUTLAW_SALOON_EASY_COMPLETE">
+        <flags id="AWARD">
+          <flag id="ONLY_ON_WIN" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_SALOON_DEAL_COMPLETE_MEDIUM" id="LEGENDARY_OUTLAW_SALOON_MEDIUM_COMPLETE">
+        <flags id="AWARD">
+          <flag id="ONLY_ON_WIN" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_SALOON_DEAL_COMPLETE_HARD" id="LEGENDARY_OUTLAW_SALOON_HARD_COMPLETE">
+        <flags id="AWARD">
+          <flag id="ONLY_ON_WIN" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_DEBUG_UNLOCK_LOM_02" id="LEGENDARY_OUTLAW_SALOON_UNLOCK" />
+      <award UNK_6480A16D="AWARD_LOM_TRAIN_ROBBERY_HAT" id="LOM_TRAIN_ROBBERY_HAT">
+        <flags id="AWARD">
+          <flag id="NEVER_AWARD" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_INDUSTRY_ROBBERY_HAT" id="LOM_INDUSTRY_ROBBERY_HAT">
+        <flags id="AWARD">
+          <flag id="NEVER_AWARD" />
+        </flags>
+      </award>
+      <award UNK_6480A16D="AWARD_LOM_SALOON_DEAL_HAT" id="LOM_SALOON_DEAL_HAT">
+        <flags id="AWARD">
+          <flag id="NEVER_AWARD" />
+        </flags>
+      </award>
+    </UNK_E1963A72>
+    <UNK_B9335C1F>
+      <challenge UNK_E1C4E289="INT" goal="MPAC_ROLE_MOONSHINER_005" id="MOONSHINE_STORY_FLOW_MISSION_COMPLETE" increment="1" role="MPAC_ROLE_MOONSHINER">
+        <flags id="CHALLENGE">
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_UNLOCKED_IN_FLOW" />
+        </flags>
+      </challenge>
+    </UNK_B9335C1F>
+    <UNK_A0BD950B>
+      <replay id="MARK_COMPLETE" type="MARK_AS_FINISHED">
+        <flags id="REPLAY">
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_IN_FLOW" />
+        </flags>
+      </replay>
+      <replay id="UNLOCK_REPLAY" type="UNLOCK_REPLAY">
+        <flags id="REPLAY">
+          <flag id="ONLY_ON_WIN" />
+          <flag id="ONLY_IN_FLOW" />
+        </flags>
+      </replay>
+    </UNK_A0BD950B>
+    <UNK_ED94873F>
+      <UNK_CB4B5FFA id="HELP_TEXT_WAIT_FOR_POSSE_LEADER">
+        <UNK_476D6530 text="MOONSHINE_STORY_MISSION_POSSE_LEADER_IN_ANIM" />
+      </UNK_CB4B5FFA>
+      <UNK_CB4B5FFA id="HELP_TEXT_POST_COOP_MISSION_1">
+        <UNK_476D6530 text="MOONSHINE_STORY_MISSION_1_COMPLETE" />
+        <UNK_476D6530 text="MOONSHINE_STORY_MISSION_1_COMPLETE_2" />
+      </UNK_CB4B5FFA>
+      <UNK_CB4B5FFA id="HELP_TEXT_POST_COOP_MISSION_5">
+        <UNK_476D6530 text="MOONSHINE_STORY_MISSION_5_COMPLETE_1" />
+        <UNK_476D6530 text="MOONSHINE_STORY_MISSION_5_COMPLETE_2" />
+      </UNK_CB4B5FFA>
+      <UNK_CB4B5FFA id="HELP_TEXT_STORY_COOLDOWN_OVER">
+        <UNK_476D6530 text="MOONSHINE_STORY_COOLDOWN_OVER" />
+      </UNK_CB4B5FFA>
+      <UNK_CB4B5FFA id="HELP_TEXT_POST_EXT_NO_GATING_ITEM">
+        <UNK_476D6530 text="MOONSHINE_POST_EXT_NO_GATING_ITEM" />
+      </UNK_CB4B5FFA>
+      <UNK_CB4B5FFA id="HELP_TEXT_POST_EXT_HAS_SETUP_MOON">
+        <UNK_476D6530 text="MOONSHINE_POST_EXT_HAS_SETUP_MOONSHINER" />
+      </UNK_CB4B5FFA>
+      <UNK_CB4B5FFA id="HELP_TEXT_BLOCK_ACCEPT_POSSE_TOO_LARGE">
+        <UNK_476D6530 text="MOONSHINE_BLOCK_ACCEPT_POSSE_TOO_LARGE" />
+      </UNK_CB4B5FFA>
+      <UNK_CB4B5FFA id="HELP_TEXT_COOP_COOLDOWN_DONE">
+        <UNK_476D6530 text="MOONSHINE_COOP_COOLDOWN_DONE" />
+      </UNK_CB4B5FFA>
+      <UNK_CB4B5FFA id="HELP_TEXT_UNLOCKED_ITEM">
+        <UNK_476D6530 text="UGC_MISSION_HELP_UNLOCKED_ITEM">
+          <UNK_B8E04150>
+            <UNK_D9720878 UNK_DCF4A23="MISSION_AWARD" UNK_5E50CFA2="ITEM" UNK_2C90BE06="CLAIMED" />
+            <UNK_D9720878 UNK_DCF4A23="STAT" UNK_5E50CFA2="UNLOCKED_ITEM_HELP" UNK_2C90BE06="LESS_THAN" value="1" />
+          </UNK_B8E04150>
+        </UNK_476D6530>
+      </UNK_CB4B5FFA>
+      <UNK_CB4B5FFA id="HELP_TEXT_FAILED_TO_UNLOCK_ITEM">
+        <UNK_476D6530 text="UGC_MISSION_HELP_FAILED_TO_UNLOCK_ITEM">
+          <UNK_B8E04150>
+            <UNK_D9720878 UNK_DCF4A23="MISSION_AWARD" UNK_5E50CFA2="ITEM" UNK_2C90BE06="UNCLAIMED" />
+          </UNK_B8E04150>
+        </UNK_476D6530>
+      </UNK_CB4B5FFA>
+    </UNK_ED94873F>
+  </data>
+</root>

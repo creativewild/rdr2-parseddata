@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_8E3B0655 release="1">
+    <UNK_C961F6FB id="ST_DOCTOR">
+      <region id="REGION_HRT_VALENTINE" shop="SHOP_VAL_DOCTOR">
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_E6ED3072="" UNK_779A3B24="_s_candyBag01x_red_group" inventoryitem="CONSUMABLE_CANDY_BAG" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_E6ED3072="" UNK_779A3B24="_s_inv_tabacco01x_group" inventoryitem="CONSUMABLE_CHEWING_TOBACCO" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_E6ED3072="" UNK_779A3B24="_s_inv_CocaineGum01x_group" inventoryitem="CONSUMABLE_COCAINE_CHEWING_GUM" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_E6ED3072="" UNK_779A3B24="_s_inv_tonic01x_group" inventoryitem="CONSUMABLE_TONIC" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="_s_inv_medicine01x_group" inventoryitem="CONSUMABLE_MEDICINE" UNK_FB82F14="" />
+        <UNK_A2C39D22 UNK_779A3B24="_s_inv_tabacco01x_dressing" UNK_FB82F14="" />
+        <UNK_A2C39D22 UNK_779A3B24="_s_inv_CocaineGum01x_dressing" UNK_FB82F14="" />
+        <UNK_A2C39D22 UNK_779A3B24="_s_inv_tonic01x_dressing" UNK_FB82F14="" />
+        <UNK_A2C39D22 UNK_779A3B24="_s_inv_medicine01x_dressing" UNK_FB82F14="" />
+      </region>
+      <region id="REGION_BAY_SAINT_DENIS" shop="SHOP_SDN_DOCTOR">
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_E6ED3072="" UNK_779A3B24="_s_candyBag01x_red_group" inventoryitem="CONSUMABLE_CANDY_BAG" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_E6ED3072="" UNK_779A3B24="_s_chocolateBar02x_group" inventoryitem="CONSUMABLE_CHOCOLATE_BAR" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_E6ED3072="" UNK_779A3B24="_s_inv_CocaineGum01x_group" inventoryitem="CONSUMABLE_COCAINE_CHEWING_GUM" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_E6ED3072="" UNK_779A3B24="_s_inv_tonic01x_group" inventoryitem="CONSUMABLE_TONIC" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="_s_inv_medicine01x_group" inventoryitem="CONSUMABLE_MEDICINE" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="_s_inv_supertonic01x_group" inventoryitem="CONSUMABLE_POTENT_TONIC" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="_s_inv_medicine_fty_group" inventoryitem="CONSUMABLE_POTENT_MEDICINE" UNK_FB82F14="" />
+        <UNK_A2C39D22 UNK_779A3B24="_s_chocolateBar02x_dressing" UNK_FB82F14="" />
+        <UNK_A2C39D22 UNK_779A3B24="_s_inv_CocaineGum01x_dressing" UNK_FB82F14="" />
+        <UNK_A2C39D22 UNK_779A3B24="_s_inv_tonic01x_dressing" UNK_FB82F14="" />
+        <UNK_A2C39D22 UNK_779A3B24="_s_inv_medicine01x_dressing" UNK_FB82F14="" />
+        <UNK_A2C39D22 UNK_779A3B24="_s_inv_supertonic01x_dressing" UNK_FB82F14="" />
+        <UNK_A2C39D22 UNK_779A3B24="_s_inv_medicine_fty_dressing" UNK_FB82F14="" />
+      </region>
+    </UNK_C961F6FB>
+  </UNK_8E3B0655>
+</root>

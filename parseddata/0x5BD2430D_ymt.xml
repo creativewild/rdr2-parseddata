@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_8E3B0655 release="1">
+    <UNK_C961F6FB id="ST_FRENCH_MARKET">
+      <region id="REGION_BAY_SAINT_DENIS" shop="SHOP_SDN_FRENCH_MARKET01">
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="" inventoryitem="CONSUMABLE_JERKY" UNK_FB82F14="sdn_market_s_saltedbeef01x_group" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="" inventoryitem="CONSUMABLE_JERKY_VENISON" UNK_FB82F14="sdn_market_s_saltedbeef02x_group" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_FB82F14="sdn_market_saltedmeats_dressing" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_FB82F14="sdn_market_dressing" />
+      </region>
+    </UNK_C961F6FB>
+  </UNK_8E3B0655>
+</root>

@@ -1,0 +1,1138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data>
+    <UNK_FCAC7D18>
+      <UNK_AD305933 id="STANDARD">
+        <text id="SHARD_TEAM_PRIMARY_INTRO" UNK_EC4B42F9="FETCH_DYNAMIC_ESCORT_SHARD_DESC_PRIMARY" />
+        <text id="SHARD_TEAM_PRIMARY_PASS" UNK_EC4B42F9="FETCH_DYNAMIC_ESCORT_SHARD_PRIMARY_PASS" />
+        <text id="SHARD_TEAM_PRIMARY_FAIL" UNK_EC4B42F9="FETCH_DYNAMIC_ESCORT_SHARD_PRIMARY_FAIL" />
+        <text id="SHARD_DESTROYED" UNK_EC4B42F9="FETCH_DYNAMIC_ESCORT_SHARD_DESTROYED" />
+        <text id="SHARD_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_POSSE_ABANDONED" />
+        <text id="SHARD_YOU_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOU_ABANDONED" />
+        <text id="SHARD_YOUR_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOUR_POSSE_ABANDONED" />
+        <text id="HELP_DYNAMIC_NEARBY" UNK_EC4B42F9="FETCH_HELP_DYNAMIC_NEARBY" />
+        <text id="HELP_REMOTE_PLAYER_STARTED_MISSION" UNK_EC4B42F9="FETCH_HELP_DYNAMIC_REMOTE_PLAYER_STARTED_MISSION" />
+        <text id="HELP_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_DYNAMIC_ESCORT_HELP_TEAM_PRIMARY" />
+        <text id="HELP_FOLLOW_PED_CAN_TAKE_CONTROL" UNK_EC4B42F9="FETCH_DYNAMIC_ESCORT_HELP_CONTROL" />
+        <text id="HELP_FOLLOW_PED_FOLLOWING_PLAYER" UNK_EC4B42F9="FETCH_DYNAMIC_ESCORT_HELP_FOLLOW" />
+        <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_DYNAMIC_ESCORT_OBJ_FIND" />
+        <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_DYNAMIC_ESCORT_PED_OBJ_DROP" />
+        <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_DYNAMIC_ESCORT_OBJ_DELIVER" />
+        <text id="OBJ_ESCORT_DEFEND" UNK_EC4B42F9="FETCH_DYNAMIC_ESCORT_OBJ_DEFEND" />
+        <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_DYNAMIC_ESCORT_OBJ_ESCORT_STEAL" />
+        <text id="OBJ_GET_ON_MOUNT" UNK_EC4B42F9="FETCH_DYNAMIC_ESCORT_GET_ON_MOUNT" />
+        <text id="CTX_OBJECTIVE_PRIMARY" UNK_EC4B42F9="FETCH_DYNAMIC_ESCORT_PRIMARY_RESCUE" />
+      </UNK_AD305933>
+    </UNK_FCAC7D18>
+    <locations>
+      <location id="DYNAMIC_ESCORT_DOVERHILL" UNK_7C1FCD5E="MODEL_CONFIG_ROANOKE" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DEDOVAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_ANNESBURG" position="[2945.67, 1355.16, 44.92]" rotation="[0.0, -0.0, 160.59]" scale="[3.88, 15.33, 10.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[2479.85, 2215.69, 163.8]" rotation="[0.0, 0.0, 0.0]" scale="[84.54, 84.54, 100.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[2479.85, 2215.69, 163.8]" rotation="[0.0, 0.0, 0.0]" scale="[84.54, 84.54, 100.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="50.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="10.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="25.0" UNK_DB59D722="true" UNK_461E4736="349.2" UNK_770101E4="[2968.6, 1347.92, 43.82]" config="MISSION_GIVER_LOWER_CLASS_STATIC_STRANGER_FEMALE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_SIT_BACK_EXHAUSTED" UNK_A0F9F4BA="true" UNK_E691240F="injured_right_arm" UNK_59063B82="1.0" UNK_7BA579E4="MP_DE_U_F_M_DOVERHILL_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_9DAC06EF="false" spawn_heading="202.1963" spawn_position="[2474.86, 2220.558, 174.32]" UNK_828D54F1="10.0">
+            <UNK_6AC736F6 name="DMG_FEMALE_4">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DEDOV_WALKING" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEDOV_WALKING" root="DEDOV_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEDOV_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEDOV_SPOT1" root="DEDOV_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DEDOV_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DEDOV_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEDOV_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEDOV_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEDOV_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEDOV_APPROACH" root="DEDOV_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DEDOV_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DEDOV_AGREE" root="DEDOV_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DEDOV_HTHANKS" root="DEDOV_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_51FF5FB4="DEDOV_HDIRECT" root="DEDOV_HMOUNT" type="ENTERED_TRANSPORT" />
+                <conversation UNK_51FF5FB4="DEDOV_HDIRECT" root="DEDOV_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation UNK_316996C8="2000" UNK_51FF5FB4="DEDOV_HDIRECT" root="DEDOV_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_316996C8="15" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DEDOV_RIDE1" root="DEDOV_HBANT" UNK_CC16AB34="20" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DEDOV_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEDOV_HDIRECT" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DEDOV_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEDOV_HDIRECT" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DEDOV_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEDOV_HDIRECT" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DEDOV_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEDOV_HDIRECT" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DEDOV_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEDOV_HDIRECT" type="PLAYER_RETURNED" />
+                <conversation interrupts="true" root="DEDOV_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="260" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DEDOV_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DEDOV_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_51FF5FB4="DEDOV_HARRIVE" root="DEDOV_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DEDOV_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+      </location>
+      <location id="DYNAMIC_ESCORT_WESTERN_HOMESTEAD" UNK_7C1FCD5E="MODEL_CONFIG_HEARTLANDS" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD">
+          <text id="HELP_DYNAMIC_NEARBY" UNK_EC4B42F9="FETCH_HELP_DYNAMIC_NEARBY_HOGTIED" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DEWSHAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" UNK_B2555036="50.0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_EMERALD_RANCH" position="[1426.34, 320.64, 87.41]" rotation="[0.0, -0.0, -91.72]" scale="[13.1, 8.71, 10.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[1527.05, 1549.39, 185.96]" rotation="[0.0, 0.0, 0.0]" scale="[177.38, 177.38, 41.32]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[1527.05, 1549.39, 185.96]" rotation="[0.0, 0.0, 0.0]" scale="[177.38, 177.38, 41.32]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="50.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="10.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="25.0" UNK_DB59D722="true" UNK_461E4736="83.2" UNK_770101E4="[1456.03, 315.8, 88.55]" UNK_C425AC86="WORLD_HUMAN_LEAN_BACK_WALL_SMOKING" config="MISSION_GIVER_LOWER_CLASS_STRANGER_HOGTIED_NO_PICKUP" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_WAITING_IMPATIENT" UNK_A0F9F4BA="true" UNK_E691240F="injured_right_arm" UNK_59063B82="1.0" UNK_7BA579E4="MP_DE_U_M_M_WESTERNHOMESTEAD_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_9DAC06EF="false" spawn_heading="300.808" spawn_position="[1530.045, 1553.577, 148.731]" UNK_828D54F1="1.0">
+            <UNK_6AC736F6 name="DMG_MALE_2">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DEWSH_INJURED" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEWSH_INJURED" root="DEWSH_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEWSH_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEWSH_SPOT1" root="DEWSH_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DEWSH_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DEWSH_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEWSH_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEWSH_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEWSH_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEWSH_APPROACH" root="DEWSH_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DEWSH_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DEWSH_AGREE" root="DEWSH_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DEWSH_HTHANKS" root="DEWSH_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_51FF5FB4="DEWSH_HDIRECT" root="DEWSH_HMOUNT" type="ENTERED_TRANSPORT" />
+                <conversation UNK_51FF5FB4="DEWSH_HDIRECT" root="DEWSH_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation UNK_316996C8="2000" UNK_51FF5FB4="DEWSH_HDIRECT" root="DEWSH_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_316996C8="25" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DEWSH_RIDE1" root="DEWSH_HBANT" UNK_CC16AB34="30" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DEWSH_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEWSH_HDIRECT" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DEWSH_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEWSH_HDIRECT" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DEWSH_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEWSH_HDIRECT" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DEWSH_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEWSH_HDIRECT" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DEWSH_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEWSH_HDIRECT" type="PLAYER_RETURNED" />
+                <conversation interrupts="true" root="DEWSH_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="130" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DEWSH_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DEWSH_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_51FF5FB4="DEWSH_HARRIVE" root="DEWSH_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DEWSH_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+      </location>
+      <location id="DYNAMIC_ESCORT_CENTRAL_UNION_RAILROAD" UNK_7C1FCD5E="MODEL_CONFIG_ROANOKE" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DECURAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" UNK_B2555036="50.0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_LAGRAS" position="[2109.9, -595.74, 43.55]" rotation="[0.0, -0.0, -70.17]" scale="[13.05, 5.32, 10.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[2223.76, 788.13, 96.88]" rotation="[0.0, 0.0, 0.0]" scale="[124.23, 124.23, 24.29]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[2223.76, 788.13, 96.88]" rotation="[0.0, 0.0, 0.0]" scale="[124.23, 124.23, 24.29]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="50.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="10.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="25.0" UNK_DB59D722="true" UNK_461E4736="93.7" UNK_CD0BCD07="true" UNK_770101E4="[2117.21, -595.6, 42.6]" UNK_C425AC86="WORLD_HUMAN_SIT_FALL_ASLEEP" config="MISSION_GIVER_LOWER_CLASS_WPR_STRANGER_MALE_WAVE" UNK_F5D3F1EC="PED" UNK_A0F9F4BA="true" UNK_E691240F="dehydrated_unarmed" UNK_59063B82="1.0" UNK_7BA579E4="MP_DE_U_M_M_CENTRALUNIONRR_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_9DAC06EF="false" spawn_heading="206.7546" spawn_position="[2210.544, 817.345, 107.59]" UNK_828D54F1="1.0" UNK_7BC2D902="net_fetch_dynamic_escort_union_railroad">
+            <UNK_6AC736F6 name="DMG_MALE_6">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DECUR_SICK" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DECUR_SICK" root="DECUR_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DECUR_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DECUR_SPOT1" root="DECUR_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DECUR_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DECUR_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DECUR_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DECUR_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DECUR_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DECUR_APPROACH" root="DECUR_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DECUR_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DECUR_AGREE" root="DECUR_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DECUR_HTHANKS" root="DECUR_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_51FF5FB4="DECUR_HDIRECT" root="DECUR_HMOUNT" type="ENTERED_TRANSPORT" />
+                <conversation UNK_51FF5FB4="DECUR_HDIRECT" root="DECUR_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation UNK_316996C8="2000" UNK_51FF5FB4="DECUR_HDIRECT" root="DECUR_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_316996C8="15" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DECUR_RIDE1" root="DECUR_HBANT" UNK_CC16AB34="16" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DECUR_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DECUR_HDIRECT" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DECUR_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DECUR_HDIRECT" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DECUR_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DECUR_HDIRECT" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DECUR_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DECUR_HDIRECT" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DECUR_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DECUR_HDIRECT" type="PLAYER_RETURNED" />
+                <conversation UNK_316996C8="25" UNK_CA822909="VOL_TURN_IN_0" repeats="true" root="DECUR_HUNWELL" UNK_CC16AB34="30" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation interrupts="true" root="DECUR_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="170" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DECUR_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DECUR_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_51FF5FB4="DECUR_HARRIVE" root="DECUR_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DECUR_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+      </location>
+      <location id="DYNAMIC_ESCORT_BLUEWATER_MARSH" UNK_7C1FCD5E="MODEL_CONFIG_ROANOKE" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DEBWMAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" UNK_B2555036="50.0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_ROANOKE_RIDGE" position="[2005.69, 711.34, 171.24]" rotation="[0.0, -0.0, 178.94]" scale="[10.18, 5.3, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[2679.41, -52.78, 55.56]" rotation="[0.0, 0.0, 0.0]" scale="[129.89, 129.89, 15.06]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[2679.41, -52.78, 55.56]" rotation="[0.0, 0.0, 0.0]" scale="[129.89, 129.89, 15.06]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="50.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="25.0" UNK_DB59D722="true" UNK_461E4736="174.1" UNK_770101E4="[2007.272, 702.7861, 178.4898]" UNK_C425AC86="WORLD_HUMAN_SIT_SMOKE" config="MISSION_GIVER_LOWER_CLASS_STATIC_STRANGER_FEMALE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_BADASS" UNK_A0F9F4BA="true" UNK_7BA579E4="MP_DE_U_F_M_BLUEWATERMARSH_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_9DAC06EF="false" spawn_heading="334.4" spawn_position="[2679.847, -52.691, 49.651]" UNK_828D54F1="10.0">
+            <UNK_6AC736F6 name="DMG_FEMALE_2">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DEBWM_STANDING" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEBWM_STANDING" root="DEBWM_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEBWM_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEBWM_SPOT1" root="DEBWM_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DEBWM_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DEBWM_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEBWM_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEBWM_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEBWM_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBWM_APPROACH" root="DEBWM_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DEBWM_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DEBWM_AGREE" root="DEBWM_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBWM_HTHANKS" root="DEBWM_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_51FF5FB4="DEBWM_HDIRECT" root="DEBWM_HMOUNT" type="ENTERED_TRANSPORT" />
+                <conversation UNK_51FF5FB4="DEBWM_HDIRECT" root="DEBWM_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation UNK_316996C8="2000" UNK_51FF5FB4="DEBWM_HDIRECT" root="DEBWM_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_316996C8="11" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DEBWM_RIDE1" root="DEBWM_HBANT" UNK_CC16AB34="15" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DEBWM_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEBWM_HDIRECT" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DEBWM_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEBWM_HDIRECT" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DEBWM_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBWM_HDIRECT" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DEBWM_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBWM_HDIRECT" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DEBWM_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBWM_HDIRECT" type="PLAYER_RETURNED" />
+                <conversation interrupts="true" root="DEBWM_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="130" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DEBWM_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DEBWM_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBWM_HARRIVE" root="DEBWM_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DEBWM_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="DEAD_HORSE" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[2681.831, -51.551, 49.8759]" />
+        </guards>
+      </location>
+      <location id="DYNAMIC_ESCORT_PLEASANCE" UNK_7C1FCD5E="MODEL_CONFIG_SCARLETT_MEADOWS" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DESMPAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" UNK_B2555036="50.0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_BRAITHWAITE" position="[1011.24, -1750.72, 47.0]" rotation="[0.0, 0.0, 0.0]" scale="[4.05, 4.05, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[1707.86, -444.19, 61.06]" rotation="[0.0, 0.0, 0.0]" scale="[144.04, 144.04, 20.63]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[1707.86, -444.19, 61.06]" rotation="[0.0, 0.0, 0.0]" scale="[144.04, 144.04, 20.63]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="50.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="10.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="25.0" UNK_DB59D722="true" UNK_461E4736="0.0" UNK_770101E4="[1011.07, -1763.91, 46.58]" UNK_C425AC86="WORLD_HUMAN_WAITING_IMPATIENT" config="MISSION_GIVER_LOWER_CLASS_STATIC_STRANGER_MALE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_GRAVE_MOURNING_KNEEL" UNK_A0F9F4BA="true" UNK_7BA579E4="MP_DE_U_M_M_PLEASANCE_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_9DAC06EF="false" spawn_heading="0.0" spawn_position="[1699.56, -444.45, 47.3]" UNK_828D54F1="10.0">
+            <UNK_6AC736F6 name="DMG_MALE_5">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DESMP_STANDING" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DESMP_STANDING" root="DESMP_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DESMP_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DESMP_SPOT1" root="DESMP_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DESMP_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DESMP_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DESMP_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DESMP_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DESMP_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DESMP_APPROACH" root="DESMP_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DESMP_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DESMP_AGREE" root="DESMP_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DESMP_HTHANKS" root="DESMP_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_51FF5FB4="DESMP_HDIRECT" root="DESMP_HMOUNT" type="ENTERED_TRANSPORT" />
+                <conversation UNK_51FF5FB4="DESMP_HDIRECT" root="DESMP_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation UNK_316996C8="2000" UNK_51FF5FB4="DESMP_HDIRECT" root="DESMP_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_316996C8="20" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DESMP_RIDE1" root="DESMP_HBANT" UNK_CC16AB34="25" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DESMP_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DESMP_HDIRECT" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DESMP_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DESMP_HDIRECT" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DESMP_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DESMP_HDIRECT" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DESMP_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DESMP_HDIRECT" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DESMP_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DESMP_HDIRECT" type="PLAYER_RETURNED" />
+                <conversation interrupts="true" root="DESMP_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="200" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DESMP_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DESMP_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_51FF5FB4="DESMP_HARRIVE" root="DESMP_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DESMP_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="DEAD_HORSE" UNK_F5D3F1EC="PED" gender="FEMALE" spawn_heading="0.0" spawn_position="[1701.278, -442.848, 47.236]" />
+        </guards>
+      </location>
+      <location id="DYNAMIC_ESCORT_BRAITHWAITE" UNK_7C1FCD5E="MODEL_CONFIG_SCARLETT_MEADOWS" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DEBWOAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" UNK_B2555036="50.0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_SAINT_DENIS_DOCKS" position="[2738.76, -1387.16, 45.2]" rotation="[0.0, -0.0, -155.18]" scale="[7.8, 4.1, 10.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[1099.68, -2117.97, 59.3]" rotation="[0.0, 0.0, 0.0]" scale="[128.71, 128.71, 18.8]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[1099.68, -2117.97, 59.3]" rotation="[0.0, 0.0, 0.0]" scale="[128.71, 128.71, 18.8]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="50.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="10.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="25.0" UNK_DB59D722="true" UNK_461E4736="28.0" UNK_CD0BCD07="true" UNK_770101E4="[2742.0, -1391.8, 46.2]" UNK_C425AC86="WORLD_HUMAN_LEAN_BACK_WALL_SMOKING" config="MISSION_GIVER_LOWER_CLASS_WPR_STRANGER_FEMALE_WAVE" UNK_F5D3F1EC="PED" UNK_5F780551="false" UNK_A0F9F4BA="true" UNK_7BA579E4="MP_DE_U_F_M_BRAITHWAITE_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_9DAC06EF="false" spawn_heading="228.3082" spawn_position="[988.06, -2036.136, 45.47]" UNK_828D54F1="1.0" UNK_7BC2D902="net_fetch_dynamic_escort_braithwaite_manor">
+            <UNK_6AC736F6 name="DMG_FEMALE_6">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DEBWO_RUNNING" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEBWO_RUNNING" root="DEBWO_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEBWO_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEBWO_SPOT1" root="DEBWO_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DEBWO_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DEBWO_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEBWO_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEBWO_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEBWO_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBWO_APPROACH" root="DEBWO_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DEBWO_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DEBWO_AGREE" root="DEBWO_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBWO_HTHANKS" root="DEBWO_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_51FF5FB4="DEBWO_HDIRECT" root="DEBWO_HMOUNT" type="ENTERED_TRANSPORT" />
+                <conversation UNK_51FF5FB4="DEBWO_HDIRECT" root="DEBWO_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation UNK_316996C8="2000" UNK_51FF5FB4="DEBWO_HDIRECT" root="DEBWO_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_316996C8="17" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DEBWO_RIDE1" root="DEBWO_HBANT" UNK_CC16AB34="22" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DEBWO_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEBWO_HDIRECT" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DEBWO_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEBWO_HDIRECT" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DEBWO_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBWO_HDIRECT" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DEBWO_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBWO_HDIRECT" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DEBWO_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBWO_HDIRECT" type="PLAYER_RETURNED" />
+                <conversation interrupts="true" root="DEBWO_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="300" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DEBWO_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DEBWO_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBWO_HARRIVE" root="DEBWO_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DEBWO_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+      </location>
+      <location id="DYNAMIC_ESCORT_HEARTLANDS" UNK_7C1FCD5E="MODEL_CONFIG_HEARTLANDS" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DEHRTAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" UNK_B2555036="50.0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_VALENTINE" position="[-304.12, 785.7, 116.84]" rotation="[0.0, -0.0, 10.51]" scale="[6.24, 3.22, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[8.1, -215.09, 94.15]" rotation="[0.0, 0.0, 0.0]" scale="[155.48, 155.48, 24.54]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[8.1, -215.09, 94.15]" rotation="[0.0, 0.0, 0.0]" scale="[155.48, 155.48, 24.54]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="50.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="10.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="25.0" UNK_DB59D722="true" UNK_461E4736="0.0" UNK_770101E4="[-312.5, 780.3, 118.7]" config="MISSION_GIVER_LOWER_CLASS_STATIC_STRANGER_FEMALE" UNK_F5D3F1EC="PED" UNK_5F780551="false" UNK_5129B6FC="WORLD_HUMAN_SIT_BACK_EXHAUSTED" UNK_A0F9F4BA="true" UNK_E691240F="injured_right_arm" UNK_59063B82="1.0" UNK_7BA579E4="MP_DE_U_F_M_HEARTLANDS_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_9DAC06EF="false" spawn_heading="15.6246" spawn_position="[19.736, -187.177, 103.066]" UNK_828D54F1="10.0">
+            <UNK_6AC736F6 name="DMG_FEMALE_3">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DEHRT_WALKING" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEHRT_WALKING" root="DEHRT_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEHRT_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEHRT_SPOT1" root="DEHRT_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DEHRT_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DEHRT_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEHRT_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEHRT_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEHRT_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHRT_APPROACH" root="DEHRT_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DEHRT_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DEHRT_AGREE" root="DEHRT_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHRT_HTHANKS" root="DEHRT_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_51FF5FB4="DEHRT_HDIRECT" root="DEHRT_HMOUNT" type="ENTERED_TRANSPORT" />
+                <conversation UNK_51FF5FB4="DEHRT_HDIRECT" root="DEHRT_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation UNK_316996C8="2000" UNK_51FF5FB4="DEHRT_HDIRECT" root="DEHRT_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_316996C8="23" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DEHRT_RIDE1" root="DEHRT_HBANT" UNK_CC16AB34="28" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DEHRT_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEHRT_HDIRECT" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DEHRT_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEHRT_HDIRECT" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DEHRT_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHRT_HDIRECT" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DEHRT_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHRT_HDIRECT" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DEHRT_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHRT_HDIRECT" type="PLAYER_RETURNED" />
+                <conversation interrupts="true" root="DEHRT_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="250" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DEHRT_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DEHRT_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHRT_HARRIVE" root="DEHRT_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DEHRT_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+      </location>
+      <location id="DYNAMIC_ESCORT_BARROW_LAGOON" UNK_7C1FCD5E="MODEL_CONFIG_GRIZZLIES" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DEBRLAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" UNK_B2555036="50.0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_CHEZ_PORTER" position="[-416.9, 1729.64, 216.18]" rotation="[0.0, -0.0, 24.09]" scale="[12.45, 6.75, 10.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1173.9, 1523.6, 273.95]" rotation="[0.0, 0.0, 0.0]" scale="[163.33, 163.33, 50.46]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[-1173.9, 1523.6, 273.95]" rotation="[0.0, 0.0, 0.0]" scale="[163.33, 163.33, 50.46]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="50.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="10.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="25.0" UNK_DB59D722="true" UNK_461E4736="0.0" UNK_770101E4="[-423.5121, 1736.912, 215.5861]" config="MISSION_GIVER_LOWER_CLASS_STATIC_STRANGER_MALE" UNK_F5D3F1EC="PED" UNK_5129B6FC="NONE" UNK_A0F9F4BA="true" UNK_59063B82="1.0" UNK_7BA579E4="MP_DE_U_M_M_BARROWLAGOON_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_9DAC06EF="false" spawn_heading="0.0" spawn_position="[-1174.573, 1523.999, 299.371]" UNK_828D54F1="10.0">
+            <UNK_6AC736F6 name="DMG_MALE_1">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DEBRL_WALKING" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEBRL_WALKING" root="DEBRL_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEBRL_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEBRL_SPOT1" root="DEBRL_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DEBRL_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DEBRL_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEBRL_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEBRL_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEBRL_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBRL_APPROACH" root="DEBRL_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DEBRL_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DEBRL_AGREE" root="DEBRL_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBRL_HTHANKS" root="DEBRL_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_51FF5FB4="DEBRL_HDIRECT" root="DEBRL_HMOUNTS" type="ENTERED_TRANSPORT" />
+                <conversation UNK_51FF5FB4="DEBRL_HDIRECT" root="DEBRL_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation UNK_316996C8="2000" UNK_51FF5FB4="DEBRL_HDIRECT" root="DEBRL_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_316996C8="25" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DEBRL_RIDE1" root="DEBRL_HBANT" UNK_CC16AB34="30" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DEBRL_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEBRL_HDIRECT" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DEBRL_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEBRL_HDIRECT" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DEBRL_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBRL_HDIRECT" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DEBRL_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBRL_HDIRECT" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DEBRL_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBRL_HDIRECT" type="PLAYER_RETURNED" />
+                <conversation interrupts="true" root="DEBRL_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="200" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DEBRL_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DEBRL_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBRL_HARRIVE" root="DEBRL_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DEBRL_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+            <UNK_C2289ECC>
+              <UNK_3147F129 id="IsColdFast" type="BOOL" value="true" />
+            </UNK_C2289ECC>
+          </objective>
+        </objectives>
+      </location>
+      <location id="DYNAMIC_ESCORT_BIG_VALLEY" UNK_7C1FCD5E="MODEL_CONFIG_BIG_VALLEY" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DEBGVAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" UNK_B2555036="50.0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_STRAWBERRY" position="[-1795.78, -435.37, 154.96]" rotation="[0.0, -0.0, 66.74]" scale="[9.74, 3.41, 10.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1625.2, 425.58, 114.97]" rotation="[0.0, 0.0, 0.0]" scale="[118.62, 118.62, 12.96]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[-1625.2, 425.58, 114.97]" rotation="[0.0, 0.0, 0.0]" scale="[118.62, 118.62, 12.96]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="50.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="10.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="10" UNK_DB59D722="true" UNK_461E4736="0.0" UNK_CD0BCD07="true" UNK_770101E4="[-1801.7, -427.2, 157.8]" UNK_C425AC86="WORLD_HUMAN_LEAN_RAILING" config="MISSION_GIVER_LOWER_CLASS_WPR_STRANGER_FEMALE_WAVE" UNK_F5D3F1EC="PED" UNK_5F780551="false" UNK_A0F9F4BA="true" UNK_E691240F="injured_left_leg" UNK_59063B82="1.0" UNK_7BA579E4="MP_DE_U_F_M_BIGVALLEY_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_9DAC06EF="false" spawn_heading="228.7059" spawn_position="[-1746.172, 552.16, 112.841]" UNK_828D54F1="1.0" UNK_7BC2D902="net_fetch_dynamic_escort_big_valley">
+            <UNK_6AC736F6 name="DMG_FEMALE_1">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DEBGV_WALKING" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEBGV_WALKING" root="DEBGV_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEBGV_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEBGV_SPOT1" root="DEBGV_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DEBGV_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DEBGV_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEBGV_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEBGV_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEBGV_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBGV_APPROACH" root="DEBGV_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DEBGV_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DEBGV_AGREE" root="DEBGV_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBGV_HTHANKS" root="DEBGV_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_51FF5FB4="DEBGV_HDIRECT" root="DEBGV_HMOUNT" type="ENTERED_TRANSPORT" />
+                <conversation UNK_51FF5FB4="DEBGV_HDIRECT" root="DEBGV_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation UNK_316996C8="2000" UNK_51FF5FB4="DEBGV_HDIRECT" root="DEBGV_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_316996C8="25" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DEBGV_RIDE1" root="DEBGV_HBANT" UNK_CC16AB34="30" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DEBGV_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEBGV_HDIRECT" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DEBGV_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEBGV_HDIRECT" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DEBGV_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBGV_HDIRECT" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DEBGV_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBGV_HDIRECT" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DEBGV_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBGV_HDIRECT" type="PLAYER_RETURNED" />
+                <conversation interrupts="true" root="DEBGV_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="120" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DEBGV_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DEBGV_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBGV_HARRIVE" root="DEBGV_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DEBGV_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+      </location>
+      <location id="DYNAMIC_ESCORT_BIG_VALLEY_GRAVES" UNK_7C1FCD5E="MODEL_CONFIG_BIG_VALLEY" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DEBVGAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" UNK_B2555036="50.0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_BLACKWATER" position="[-751.24, -1300.05, 42.32]" rotation="[0.0, -0.0, 89.37]" scale="[12.39, 3.58, 10.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1599.1, -976.84, 94.63]" rotation="[0.0, 0.0, 0.0]" scale="[104.89, 104.89, 29.84]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[-1599.1, -976.84, 94.63]" rotation="[0.0, 0.0, 0.0]" scale="[104.89, 104.89, 29.84]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="50.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="10.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="25.0" UNK_DB59D722="true" UNK_461E4736="0.0" UNK_770101E4="[-756.76, -1295.6, 43.7]" UNK_C425AC86="WORLD_HUMAN_LEAN_BACK_WALL_SMOKING" config="MISSION_GIVER_LOWER_CLASS_STATIC_STRANGER_MALE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_CROUCH_INSPECT" UNK_A0F9F4BA="true" UNK_7BA579E4="MP_DE_U_M_M_BIGVALLEYGRAVES_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_9DAC06EF="false" spawn_heading="171.2" spawn_position="[-1596.226, -975.606, 80.347]" UNK_828D54F1="10.0">
+            <UNK_6AC736F6 name="DMG_MALE_2">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DEBVG_WALKING" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEBVG_WALKING" root="DEBVG_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEBVG_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEBVG_SPOT1" root="DEBVG_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DEBVG_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DEBVG_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEBVG_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEBVG_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEBVG_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBVG_APPROACH" root="DEBVG_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DEBVG_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DEBVG_AGREE" root="DEBVG_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBVG_HTHANKS" root="DEBVG_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_51FF5FB4="DEBVG_HDIRECT" root="DEBVG_HMOUNT" type="ENTERED_TRANSPORT" />
+                <conversation UNK_51FF5FB4="DEBVG_HDIRECT" root="DEBVG_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation UNK_316996C8="2000" UNK_51FF5FB4="DEBVG_HDIRECT" root="DEBVG_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_316996C8="10" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DEBVG_RIDE1" root="DEBVG_HBANT" UNK_CC16AB34="20" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DEBVG_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEBVG_HDIRECT" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DEBVG_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEBVG_HDIRECT" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DEBVG_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBVG_HDIRECT" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DEBVG_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBVG_HDIRECT" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DEBVG_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBVG_HDIRECT" type="PLAYER_RETURNED" />
+                <conversation interrupts="true" root="DEBVG_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="160" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DEBVG_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DEBVG_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_51FF5FB4="DEBVG_HARRIVE" root="DEBVG_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DEBVG_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="DEAD_HORSE" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-1596.107, -978.48, 79.5767]" />
+        </guards>
+      </location>
+      <location id="DYNAMIC_ESCORT_GREAT_PLAINS" UNK_7C1FCD5E="MODEL_CONFIG_TALL_TREES" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DEGRPAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" UNK_B2555036="50.0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_THIEVES_LANDING" position="[-1418.18, -2321.54, 43.72]" rotation="[0.0, 0.0, 0.0]" scale="[5.0, 5.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1273.0, -1459.19, 84.11]" rotation="[0.0, 0.0, 0.0]" scale="[231.68, 231.68, 28.41]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[-1273.0, -1459.19, 84.11]" rotation="[0.0, 0.0, 0.0]" scale="[231.68, 231.68, 28.41]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="50.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="10.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="25.0" UNK_DB59D722="true" UNK_461E4736="0.0" UNK_770101E4="[-1387.65, -2315.8, 42.64]" config="MISSION_GIVER_LOWER_CLASS_STATIC_STRANGER_FEMALE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_SIT_BACK_EXHAUSTED" UNK_A0F9F4BA="true" UNK_E691240F="injured_right_arm" UNK_59063B82="1.0" UNK_7BA579E4="MP_DE_U_F_M_GREATPLAINS_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_9DAC06EF="false" spawn_heading="283.1806" spawn_position="[-1313.45, -1445.605, 83.749]" UNK_828D54F1="10.0">
+            <UNK_6AC736F6 name="DMG_FEMALE_2">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DEGRP_WALKING" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEGRP_WALKING" root="DEGRP_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEGRP_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEGRP_SPOT1" root="DEGRP_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DEGRP_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DEGRP_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEGRP_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEGRP_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEGRP_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEGRP_APPROACH" root="DEGRP_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DEGRP_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DEGRP_AGREE" root="DEGRP_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DEGRP_HTHANKS" root="DEGRP_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_51FF5FB4="DEGRP_HDIRECT" root="DEGRP_HMOUNT" type="ENTERED_TRANSPORT" />
+                <conversation UNK_51FF5FB4="DEGRP_HDIRECT" root="DEGRP_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation UNK_316996C8="2000" UNK_51FF5FB4="DEGRP_HDIRECT" root="DEGRP_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_316996C8="13" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DEGRP_RIDE1" root="DEGRP_HBANT" UNK_CC16AB34="18" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DEGRP_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEGRP_HDIRECT" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DEGRP_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEGRP_HDIRECT" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DEGRP_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEGRP_HDIRECT" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DEGRP_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEGRP_HDIRECT" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DEGRP_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEGRP_HDIRECT" type="PLAYER_RETURNED" />
+                <conversation interrupts="true" root="DEGRP_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="100" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DEGRP_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DEGRP_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_51FF5FB4="DEGRP_HARRIVE" root="DEGRP_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DEGRP_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+      </location>
+      <location id="DYNAMIC_ESCORT_AURORA_BASIN" UNK_7C1FCD5E="MODEL_CONFIG_TALL_TREES" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DEARBAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" UNK_B2555036="50.0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_MACFARLANE" position="[-2353.02, -2381.16, 63.74]" rotation="[0.0, -0.0, 53.89]" scale="[9.16, 5.0, 5.04]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-2498.46, -1357.66, 160.73]" rotation="[0.0, 0.0, 0.0]" scale="[113.61, 113.61, 16.07]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[-2498.46, -1357.66, 160.73]" rotation="[0.0, 0.0, 0.0]" scale="[113.61, 113.61, 16.07]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="50.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="10.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="25.0" UNK_DB59D722="true" UNK_461E4736="289.6" UNK_770101E4="[-2349.637, -2386.098, 61.6703]" config="MISSION_GIVER_LOWER_CLASS_STATIC_STRANGER_MALE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_SMOKE_CIGAR" UNK_A0F9F4BA="true" UNK_7BA579E4="MP_DE_U_M_M_AURORABASIN_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_9DAC06EF="false" spawn_heading="84.4" spawn_position="[-2497.89, -1359.71, 150.8]" UNK_828D54F1="10.0">
+            <UNK_6AC736F6 name="DMG_MALE_3">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DEARB_WALKING" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEARB_WALKING" root="DEARB_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEARB_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEARB_SPOT1" root="DEARB_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DEARB_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DEARB_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEARB_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEARB_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEARB_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEARB_APPROACH" root="DEARB_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DEARB_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DEARB_AGREE" root="DEARB_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DEARB_HTHANKS" root="DEARB_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_51FF5FB4="DEARB_HDIRECT" root="DEARB_HMOUNT" type="ENTERED_TRANSPORT" />
+                <conversation UNK_51FF5FB4="DEARB_HDIRECT" root="DEARB_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation UNK_316996C8="2000" UNK_51FF5FB4="DEARB_HDIRECT" root="DEARB_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_316996C8="25" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DEARB_RIDE1" root="DEARB_HBANT" UNK_CC16AB34="30" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DEARB_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEARB_HDIRECT" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DEARB_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEARB_HDIRECT" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DEARB_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEARB_HDIRECT" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DEARB_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEARB_HDIRECT" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DEARB_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEARB_HDIRECT" type="PLAYER_RETURNED" />
+                <conversation interrupts="true" root="DEARB_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="200" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DEARB_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DEARB_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_51FF5FB4="DEARB_HARRIVE" root="DEARB_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DEARB_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="DEAD_HORSE" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2500.656, -1360.072, 150.8081]" />
+        </guards>
+      </location>
+      <location id="DYNAMIC_ESCORT_HENNIGAN_STEAD" UNK_7C1FCD5E="MODEL_CONFIG_NEW_AUSTIN" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DEHENAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" UNK_B2555036="50.0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_ARMADILLO" position="[-3696.8, -2608.44, -12.79]" rotation="[0.0, -0.0, -0.11]" scale="[5.55, 3.83, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1516.68, -2616.7, 60.81]" rotation="[0.0, 0.0, 0.0]" scale="[163.08, 163.08, 23.11]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[-1516.68, -2616.7, 60.81]" rotation="[0.0, 0.0, 0.0]" scale="[163.08, 163.08, 23.11]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="50.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="10.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="25.0" UNK_DB59D722="true" UNK_461E4736="0.0" UNK_770101E4="[-3701.43, -2592.6, -14.314]" UNK_C425AC86="WORLD_HUMAN_LEAN_BACK_WALL_SMOKING" config="MISSION_GIVER_LOWER_CLASS_STATIC_STRANGER_FEMALE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_SIT_BACK_EXHAUSTED" UNK_A0F9F4BA="true" UNK_E691240F="injured_right_arm" UNK_59063B82="1.0" UNK_7BA579E4="MP_DE_U_F_M_HENNIGANSSTEAD_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_9DAC06EF="false" spawn_heading="45.8705" spawn_position="[-1521.3, -2637.955, 58.563]" UNK_828D54F1="10.0">
+            <UNK_6AC736F6 name="DMG_FEMALE_4">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DEHEN_WALKING" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEHEN_WALKING" root="DEHEN_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEHEN_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEHEN_SPOT1" root="DEHEN_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DEHEN_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DEHEN_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEHEN_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEHEN_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEHEN_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHEN_APPROACH" root="DEHEN_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DEHEN_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DEHEN_AGREE" root="DEHEN_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHEN_HTHANKS" root="DEHEN_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_51FF5FB4="DEHEN_HDIRECT" root="DEHEN_HMOUNT" type="ENTERED_TRANSPORT" />
+                <conversation UNK_51FF5FB4="DEHEN_HDIRECT" root="DEHEN_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation UNK_316996C8="2000" UNK_51FF5FB4="DEHEN_HDIRECT" root="DEHEN_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_316996C8="10" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DEHEN_RIDE1" root="DEHEN_HBANT" UNK_CC16AB34="15" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DEHEN_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEHEN_HDIRECT" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DEHEN_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEHEN_HDIRECT" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DEHEN_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHEN_HDIRECT" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DEHEN_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHEN_HDIRECT" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DEHEN_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHEN_HDIRECT" type="PLAYER_RETURNED" />
+                <conversation interrupts="true" root="DEHEN_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="300" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DEHEN_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DEHEN_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHEN_HARRIVE" root="DEHEN_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DEHEN_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+      </location>
+      <location id="DYNAMIC_ESCORT_HANGING_ROCK" UNK_7C1FCD5E="MODEL_CONFIG_NEW_AUSTIN" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DEHGRAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" UNK_B2555036="50.0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_FORT_MERCER" position="[-4179.24, -3412.17, 36.08]" rotation="[0.0, 0.0, 0.0]" scale="[5.36, 5.36, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-3451.01, -2251.62, -4.56]" rotation="[0.0, 0.0, 0.0]" scale="[167.21, 167.21, 9.19]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[-3451.01, -2251.62, -4.56]" rotation="[0.0, 0.0, 0.0]" scale="[167.21, 167.21, 9.19]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="50.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="10.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="25.0" UNK_DB59D722="true" UNK_461E4736="148.0" UNK_770101E4="[-4205.33, -3459.97, 36.27]" config="MISSION_GIVER_LOWER_CLASS_STATIC_STRANGER_FEMALE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_GRAVE_MOURNING" UNK_A0F9F4BA="true" UNK_7BA579E4="MP_DE_U_F_M_HANGINGROCK_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_9DAC06EF="false" spawn_heading="244.7844" spawn_position="[-3450.414, -2252.478, -2.574]" UNK_828D54F1="10.0">
+            <UNK_6AC736F6 name="DMG_FEMALE_1">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DEHGR_STANDING" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEHGR_STANDING" root="DEHGR_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEHGR_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEHGR_SPOT1" root="DEHGR_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DEHGR_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DEHGR_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEHGR_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEHGR_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEHGR_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHGR_APPROACH" root="DEHGR_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DEHGR_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DEHGR_AGREE" root="DEHGR_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHGR_HTHANKS" root="DEHGR_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_51FF5FB4="DEHGR_HDIRECT" root="DEHGR_HMOUNT" type="ENTERED_TRANSPORT" />
+                <conversation UNK_51FF5FB4="DEHGR_HDIRECT" root="DEHGR_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation UNK_316996C8="2000" UNK_51FF5FB4="DEHGR_HDIRECT" root="DEHGR_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_316996C8="15" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DEHGR_RIDE1" root="DEHGR_HBANT" UNK_CC16AB34="20" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DEHGR_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEHGR_HDIRECT" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DEHGR_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEHGR_HDIRECT" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DEHGR_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHGR_HDIRECT" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DEHGR_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHGR_HDIRECT" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DEHGR_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHGR_HDIRECT" type="PLAYER_RETURNED" />
+                <conversation interrupts="true" root="DEHGR_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="150" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DEHGR_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DEHGR_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_51FF5FB4="DEHGR_HARRIVE" root="DEHGR_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DEHGR_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="DEAD_HORSE" UNK_F5D3F1EC="PED" spawn_heading="331.7068" spawn_position="[-3449.086, -2253.392, -2.463]" />
+        </guards>
+      </location>
+      <location id="DYNAMIC_ESCORT_RILEY_CHARGE" UNK_7C1FCD5E="MODEL_CONFIG_NEW_AUSTIN" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DERLCAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" UNK_B2555036="50.0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_TUMBLEWEED" position="[-5522.7, -2916.14, -3.47]" rotation="[0.0, -0.0, 118.78]" scale="[5.94, 3.73, 10.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="50.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="10.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="25.0" UNK_DB59D722="true" UNK_461E4736="206.4" UNK_CD0BCD07="true" UNK_770101E4="[-5518.19, -2908.29, -2.75]" UNK_C425AC86="WORLD_HUMAN_LEAN_BACK_WALL_SMOKING" config="MISSION_GIVER_LOWER_CLASS_WPR_STRANGER_MALE_WAVE" UNK_F5D3F1EC="PED" UNK_A0F9F4BA="true" UNK_E691240F="injured_torso" UNK_59063B82="1.0" UNK_7BA579E4="MP_DE_U_M_M_RILEYSCHARGE_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_9DAC06EF="false" spawn_heading="23.258" spawn_position="[-3652.477, -3338.869, -0.187]" UNK_7BC2D902="net_fetch_dynamic_escort_rileys_charge">
+            <UNK_6AC736F6 name="DMG_MALE_1">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DERLC_WALKING" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DERLC_WALKING" root="DERLC_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DERLC_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DERLC_SPOT1" root="DERLC_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DERLC_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DERLC_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DERLC_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DERLC_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DERLC_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DERLC_APPROACH" root="DERLC_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DERLC_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DERLC_AGREE" root="DERLC_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DERLC_HTHANKS" root="DERLC_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_51FF5FB4="DERLC_HDIRECT" root="DERLC_HMOUNT" type="ENTERED_TRANSPORT" />
+                <conversation UNK_51FF5FB4="DERLC_HDIRECT" root="DERLC_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation UNK_316996C8="2000" UNK_51FF5FB4="DERLC_HDIRECT" root="DERLC_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_316996C8="13" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DERLC_RIDE1" root="DERLC_HBANT" UNK_CC16AB34="18" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DERLC_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DERLC_HDIRECT" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DERLC_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DERLC_HDIRECT" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DERLC_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DERLC_HDIRECT" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DERLC_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DERLC_HDIRECT" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DERLC_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DERLC_HDIRECT" type="PLAYER_RETURNED" />
+                <conversation interrupts="true" root="DERLC_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="120" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DERLC_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DERLC_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_51FF5FB4="DERLC_HARRIVE" root="DERLC_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DERLC_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="DEAD_HORSE" UNK_F5D3F1EC="PED" spawn_heading="225.992" spawn_position="[-3657.124, -3345.65, -0.293]" />
+        </guards>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[-3736.886, -3132.627, -5.864]" UNK_FEBAD66A="2.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[-3740.268, -3131.157, -6.021]" UNK_FEBAD66A="1.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[-3751.597, -3128.812, -6.729]" UNK_FEBAD66A="2.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[-3748.087, -3129.032, -6.472]" UNK_FEBAD66A="1.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[-3756.934, -3129.565, -7.218]" UNK_FEBAD66A="1.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="DYNAMIC_ESCORT_SILENT_STEAD" UNK_7C1FCD5E="MODEL_CONFIG_NEW_AUSTIN" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DESSTAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" UNK_B2555036="50.0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_GAPTOOTH_BREACH" position="[-6029.52, -3262.55, -17.15]" rotation="[0.0, 0.0, 0.0]" scale="[6.0, 6.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-5394.18, -2356.87, 24.14]" rotation="[0.0, 0.0, 0.0]" scale="[202.22, 202.22, 36.63]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[-5394.18, -2356.87, 24.14]" rotation="[0.0, 0.0, 0.0]" scale="[202.22, 202.22, 36.63]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="CLEAR_HERBS" id="VOL_GUARD_2">
+            <config position="[-5398.14, -2343.198, -6.0]" rotation="[0.0, 0.0, 0.0]" scale="[1.83, 1.83, 10.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="50.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="10.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="25.0" UNK_DB59D722="true" UNK_461E4736="113.6" UNK_770101E4="[-6047.69, -3259.24, -15.31]" config="MISSION_GIVER_LOWER_CLASS_STATIC_STRANGER_FEMALE" UNK_F5D3F1EC="PED" UNK_5129B6FC="NONE" UNK_A0F9F4BA="true" UNK_59063B82="1.0" UNK_7BA579E4="MP_DE_U_F_M_SILENTSTEAD_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_9DAC06EF="false" spawn_heading="0.0" spawn_position="[-5399.49, -2342.78, -6.79]" UNK_828D54F1="10.0">
+            <UNK_6AC736F6 name="DMG_FEMALE_3">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DESST_FIRE" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DESST_FIRE" root="DESST_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DESST_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DESST_SPOT1" root="DESST_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DESST_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DESST_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DESST_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DESST_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DESST_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DESST_APPROACH" root="DESST_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DESST_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DESST_AGREE" root="DESST_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DESST_HTHANKS" root="DESST_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_51FF5FB4="DESST_HDIRECT" root="DESST_HMOUNT" type="ENTERED_TRANSPORT" />
+                <conversation UNK_51FF5FB4="DESST_HDIRECT" root="DESST_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation UNK_316996C8="2000" UNK_51FF5FB4="DESST_HDIRECT" root="DESST_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_316996C8="25" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DESST_RIDE1" root="DESST_HBANT" UNK_CC16AB34="30" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DESST_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DESST_HDIRECT" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DESST_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DESST_HDIRECT" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DESST_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DESST_HDIRECT" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DESST_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DESST_HDIRECT" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DESST_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DESST_HDIRECT" type="PLAYER_RETURNED" />
+                <conversation interrupts="true" root="DESST_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="80" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DESST_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DESST_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_51FF5FB4="DESST_HARRIVE" root="DESST_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DESST_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+            <UNK_C2289ECC>
+              <UNK_3147F129 id="IsCold" type="BOOL" value="true" />
+            </UNK_C2289ECC>
+          </objective>
+        </objectives>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_CAMPFIRE_SMOLDER" spawn_heading="0.3" spawn_position="[-5398.33, -2343.32, -6.76]" UNK_100B5E15="[-2.0, -6.0, 0.09]" />
+        </UNK_69FD74EB>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[-5398.14, -2343.198, -6.0]" UNK_FEBAD66A="2.7" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[-5398.14, -2343.198, -6.0]" UNK_FEBAD66A="2.7" type="FLATTEN" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="DYNAMIC_ESCORT_VAN_HORN" UNK_7C1FCD5E="MODEL_CONFIG_ROANOKE" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_SHARD" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="DEVANAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" UNK_B2555036="50.0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_BUTCHER_CREEK" position="[2531.08, 768.93, 71.83]" rotation="0.0, 0.0, 0,0" scale="[7.81, 7.81, 5.63]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_0">
+            <config position="[2953.22, 523.351, 45.373]" rotation="[0.0, 0.0, 0.0]" scale="[2.5, 12.75, 10.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config UNK_7FD08239="FETCH_GOTO_VAN_HORN" position="[2946.019, 523.701, 45.638]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 30.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger UNK_2A5A1C92="0" id="OBJECTIVE_LEFT_BAR" role="SPECIFIC_OBJECTIVE_LEFT_VOLUME" UNK_B71C8EA1="VOL_GUARD_0" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="OBJECTIVE_PICKED_UP" role="LINKED_ENTITY_PICKED_UP" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="FIRST_PLAYER_NEARBY" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="40.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_IN_APPROACH_DIST" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25" UNK_E5C5EAB3="SWITCH" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="PLAYER_APPROACHED_PED" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="5.0" UNK_E5C5EAB3="SWITCH" />
+          <trigger id="MISSION_ACCEPTED" role="MISSION_ACCEPTED" />
+          <trigger id="MISSION_COMPLETE" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" />
+          <trigger id="PED_IN_DROP_OFF" role="ANY_OBJECTIVE_IN_VOLUME" UNK_B71C8EA1="VOL_TURN_IN_0" />
+        </triggers>
+        <objectives>
+          <objective UNK_6C7C9D92="25.0" UNK_DB59D722="true" UNK_461E4736="0.0" UNK_770101E4="[2536.174, 773.7694, 75.1352]" config="MISSION_GIVER_LOWER_CLASS_STATIC_STRANGER_MALE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_DRINKING_DRUNK" UNK_9026485E="false" UNK_A0F9F4BA="true" UNK_E691240F="very_drunk" UNK_59063B82="1.0" UNK_7BA579E4="MP_DE_U_M_M_VANHORN_01" UNK_1293F682="FOLLOW_PLAYER" outfit="META_OUTFIT_DEFAULT" UNK_E348342A="true" UNK_9DAC06EF="false" spawn_heading="264.4421" spawn_position="[2952.371, 526.6, 44.4959]" UNK_828D54F1="10.0">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="OBJECTIVE_LEFT_BAR" type="KNOCK_OUT_PED" />
+              <UNK_A2BEB5B id="FALL_OFF_TRANSPORT" type="DETACH_CARRIABLE_PED" />
+              <UNK_A2BEB5B id="OBJECTIVE_PICKED_UP" type="CLEAR_ENTITY_PROOFS" />
+            </UNK_BC1116ED>
+            <UNK_6AC736F6 name="DMG_MALE_3">
+              <conversations>
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_NEARBY" root="DEVAN_WALKING" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_IN_APPROACH_DIST" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEVAN_WALKING" root="DEVAN_UNSEEN" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" interrupts="true" UNK_615C7D65="true" repeats="true" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEVAN_SPOT1" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_BB273982="PLAYER_APPROACHED_PED" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEVAN_SPOT1" root="DEVAN_SPOT2" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_EDF5E9F9="true" interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="PLAYER_APPROACHED_PED" root="DEVAN_APPROACH" type="ON_TRIGGER" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" UNK_51FF5FB4="DEVAN_APPROACH" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEVAN_WAIT1" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_2574D07E="true" UNK_316996C8="5000" UNK_615C7D65="true" repeats="true" UNK_51FF5FB4="DEVAN_WAIT1" UNK_E9EDC3EB="PLAYER_IN_APPROACH_DIST" root="DEVAN_WAIT2" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="MISSION_ACCEPTED" UNK_316996C8="20.0" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEVAN_APPROACH" root="DEVAN_DECLINE" type="ESCORT_OUTSIDE_OF_RANGE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_E9EDC3EB="MISSION_ACCEPTED" root="DEVAN_AGREE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_615C7D65="true" UNK_51FF5FB4="DEVAN_AGREE" root="DEVAN_HTHANKS" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_316996C8="1000" UNK_DEEB2F41="true" UNK_615C7D65="true" UNK_51FF5FB4="DEVAN_HTHANKS" root="DEVAN_HDIRECT" type="MS_AFTER_CONVERSATION" />
+                <conversation UNK_BB273982="OBJECTIVE_LEFT_BAR" UNK_316996C8="2000" UNK_615C7D65="true" UNK_51FF5FB4="DEVAN_HDIRECT" root="DEVAN_HFOOT" type="NEVER_IN_TRANSPORT_AND_ESCORT_NOT_IN_TRANSPORT_FOR_MS" />
+                <conversation UNK_BB273982="OBJECTIVE_LEFT_BAR" UNK_615C7D65="true" UNK_51FF5FB4="DEVAN_HDIRECT" root="DEVAN_HCLEAR" type="NO_ROOM_IN_TRANSPORT" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_CAD37259="true" UNK_E9EDC3EB="OBJECTIVE_LEFT_BAR" root="DEVAN_HFALL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="PED_IN_DROP_OFF" interrupts="true" UNK_615C7D65="true" root="DEVAN_HGROUND" type="SPEAKER_CARRIABLE_ON_GROUND" />
+                <conversation interrupts="true" UNK_615C7D65="true" root="DEVAN_HCARRY" type="SPEAKER_PICKED_UP" />
+                <conversation UNK_BB273982="PED_IN_DROP_OFF" root="DEVAN_HMOUNT" type="SPEAKER_DROPPED" />
+                <conversation UNK_316996C8="12" UNK_CA822909="VOL_TURN_IN_0" UNK_280E393F="true" UNK_E19A95DD="GENERIC_SEGUE_ME_DEVAN_RIDE1" root="DEVAN_HBANT" UNK_CC16AB34="14" type="RAND_PERCENT_TRAVELLED_TO_VOLUME" />
+                <conversation UNK_6536569E="PLAYER_SHOOTS_RANDOMLY_DEVAN_RIDE1" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEVAN_HDIRECT" UNK_ADD7ECE1="Speech_Params_Beat_Shouted_Clear_AllowPlayAfterDeath" type="HEARD_RANDOM_SHOT" />
+                <conversation UNK_6536569E="PLAYER_STOPS_GENERIC_DEVAN_RIDE1" UNK_316996C8="15000" interrupts="true" UNK_615C7D65="false" UNK_51FF5FB4="DEVAN_HDIRECT" UNK_ADD7ECE1="Speech_Params_Beat_Shouted_Clear_AllowPlayAfterDeath" type="STATIONARY" />
+                <conversation UNK_6536569E="PLAYER_DISMOUNTS_DEVAN_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEVAN_HDIRECT" UNK_ADD7ECE1="Speech_Params_Beat_Shouted_Clear_AllowPlayAfterDeath" type="ESCORT_LEFT_TRANSPORT" />
+                <conversation UNK_6536569E="PLAYER_TOO_FAR_AWAY_DEVAN_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEVAN_HDIRECT" UNK_ADD7ECE1="Speech_Params_Beat_Shouted_Clear_AllowPlayAfterDeath" type="ABANDONED_BY_PLAYER" />
+                <conversation UNK_6536569E="PLAYER_COMES_BACK_DEVAN_RIDE1" interrupts="true" UNK_615C7D65="true" UNK_51FF5FB4="DEVAN_HDIRECT" UNK_ADD7ECE1="Speech_Params_Beat_Shouted_Clear_AllowPlayAfterDeath" type="PLAYER_RETURNED" />
+                <conversation interrupts="true" root="DEVAN_HGIVEUP" type="MISSION_FAILED" />
+                <conversation UNK_316996C8="60" UNK_CA822909="VOL_TURN_IN_0" UNK_615C7D65="true" root="DEVAN_HNEAR" type="WITHIN_DIST_TO_VOL" />
+                <conversation interrupts="true" UNK_615C7D65="true" root="DEVAN_HANTAG1" type="SPEAKER_ANTAGONIZED_MILD" />
+                <conversation interrupts="true" UNK_615C7D65="true" root="DEVAN_HANTAG2" type="SPEAKER_ANTAGONIZED_SEVERE" />
+                <conversation interrupts="true" UNK_615C7D65="true" UNK_CAD37259="true" UNK_E9EDC3EB="MISSION_COMPLETE" root="DEVAN_HARRIVE" type="ON_TRIGGER" />
+                <conversation UNK_316996C8="1000" UNK_546DA2DB="true" UNK_615C7D65="true" UNK_CAD37259="true" UNK_51FF5FB4="DEVAN_HARRIVE" root="DEVAN_HTIP" type="MS_AFTER_CONVERSATION" />
+              </conversations>
+              <UNK_1D1AC415>
+                <UNK_BB29D1E9 id="DYNAMIC_MISSION_IDLE_TIMEOUT" root="DEVAN_DECLINE" />
+              </UNK_1D1AC415>
+            </UNK_6AC736F6>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_FBFA9394="1" config="AMBIENT_FAKE_ENEMY_MALE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_WALL_DRINKING" spawn_heading="0.0" spawn_position="[2952.185, 529.415, 44.5002]" UNK_4F2F1B6="true" />
+        </guards>
+      </location>
+    </locations>
+  </data>
+</root>

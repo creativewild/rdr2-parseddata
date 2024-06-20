@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_8A585321>
+    <UNK_12BD8EE6>
+      <camp boundary="FREEMODE_BOUNDARY" id="MPINTRO_CAMP_VALENTINE_01">
+        <UNK_10061C07 name="PROP_HitchingPost" position="[242.5565, -205.2427, 129.5811]" />
+      </camp>
+      <camp boundary="FREEMODE_BOUNDARY" id="MPINTRO_CAMP_VALENTINE_02">
+        <UNK_10061C07 name="PROP_HitchingPost" position="[-585.9394, -250.7298, 40.561]" />
+      </camp>
+      <camp boundary="FREEMODE_BOUNDARY" id="MPINTRO_CAMP_VALENTINE_03">
+        <UNK_10061C07 name="PROP_HitchingPost" position="[-843.4817, 37.9124, 40.7704]" />
+      </camp>
+      <camp boundary="FREEMODE_BOUNDARY" id="MPINTRO_CAMP_VALENTINE_04">
+        <UNK_10061C07 name="PROP_HitchingPost" position="[242.5565, -205.2427, 129.5811]" />
+      </camp>
+      <camp boundary="FREEMODE_BOUNDARY" id="MPINTRO_CAMP_VALENTINE_05">
+        <UNK_10061C07 name="PROP_HitchingPost" position="[554.4155, 145.0815, 135.8451]" />
+      </camp>
+    </UNK_12BD8EE6>
+    <UNK_FDFFDA08>
+      <volume category="STANDARD" id="FREEMODE_BOUNDARY">
+        <component position="[-102.734, 204.323, 137.369]" rotation="[0.0, 0.0, 27.861]" scale="[600.0, 1500.0, 200.0]" type="volBox" />
+        <component position="[579.459, 95.596, 137.369]" rotation="[0.0, 0.0, 27.861]" scale="[600.0, 670.0, 200.0]" type="volBox" />
+        <component position="[165.532, 343.675, 137.369]" rotation="[0.0, 0.0, 68.468]" scale="[600.0, 750.0, 200.0]" type="volBox" />
+        <component position="[-602.409, 359.952, 137.369]" rotation="[0.0, 0.0, 68.22]" scale="[350.0, 180.0, 200.0]" type="volBox" />
+        <component position="[-473.939, -222.08, 137.369]" rotation="[0.0, 0.0, 27.861]" scale="[750.0, 1094.0, 220.0]" type="volBox" />
+      </volume>
+    </UNK_FDFFDA08>
+    <horse_shop id="SHOP_VAL_HORSE_SHOP">
+      <UNK_C4AFBC33 heading="271.1862" position="[-366.8008, 785.8267, 116.2978]" />
+      <UNK_280A471A heading="271.1862" position="[-355.8932, 788.7897, 116.3568]" />
+      <UNK_A1CCB061>
+        <door id="VAL_03_STABLE_FRONT_LEFT" />
+        <door id="VAL_03_STABLE_FRONT_RIGHT" />
+      </UNK_A1CCB061>
+    </horse_shop>
+    <UNK_798732B5>
+      <UNK_5B2A3B2B help="MPFT_HELP_GENERAL_STORE" UNK_8FA64094="BLIP_SHOP_STORE" UNK_C7773D76="BLIP_STYLE_SHOP" id="FREEMODE_INTRO__SHOT1" length="12500">
+        <UNK_B72403F5 interior="false" position="[-327.5978, 778.5313, 117.4271]" radius="40.0" />
+        <UNK_198C8474 end="[-323.6002, 781.4507, 119.9711]" graph="GRAPH_TYPE_SIN_ACCEL_DECEL" start="[-323.6395, 780.7562, 119.9954]" />
+        <UNK_BF922913 end="[-2.0052, 0.0, -3.2282]" graph="GRAPH_TYPE_SIN_ACCEL_DECEL" start="[-2.0052, 0.0, -3.2282]" />
+        <UNK_C5943791 end="51.2509" start="51.2509" />
+      </UNK_5B2A3B2B>
+      <UNK_5B2A3B2B help="MPFT_HELP_GUNSMITH" id="FREEMODE_INTRO__SHOT2" length="12500">
+        <UNK_B72403F5 interior="false" position="[-282.9557, 799.1644, 118.9074]" radius="40.0" />
+        <UNK_198C8474 end="[-274.9876, 798.3001, 122.438]" graph="GRAPH_TYPE_SIN_ACCEL_DECEL" start="[-274.7498, 799.0333, 122.5094]" />
+        <UNK_BF922913 end="[-5.2924, 0.0, 162.0191]" graph="GRAPH_TYPE_SIN_ACCEL_DECEL" start="[-5.2924, 0.0, 162.0191]" />
+        <UNK_C5943791 end="51.2509" start="51.2509" />
+      </UNK_5B2A3B2B>
+      <UNK_5B2A3B2B help="MPFT_HELP_GUN_FOR_HIRE" UNK_8FA64094="BLIP_MP_GUN_FOR_HIRE" UNK_C7773D76="BLIP_STYLE_MP_MISSION_GIVER" id="FREEMODE_INTRO__SHOT3" length="12500">
+        <UNK_B72403F5 interior="true" position="[-172.1503, 639.0742, 114.09]" radius="40.0" />
+        <UNK_198C8474 end="[-174.5613, 635.2701, 115.0025]" graph="GRAPH_TYPE_SIN_ACCEL_DECEL" start="[-174.5332, 635.5144, 115.0318]" />
+        <UNK_BF922913 end="[-6.8094, 0.0, 173.4268]" graph="GRAPH_TYPE_SIN_ACCEL_DECEL" start="[-6.8094, 0.0, 173.4268]" />
+        <UNK_C5943791 end="51.2509" start="51.2509" />
+      </UNK_5B2A3B2B>
+      <UNK_5B2A3B2B help="MPFT_HELP_SERIES" id="FREEMODE_INTRO__SHOT4" length="12500">
+        <UNK_B72403F5 interior="false" position="[-235.307, 613.4061, 113.0052]" radius="40.0" />
+        <UNK_198C8474 end="[-239.4713, 615.7379, 114.1122]" graph="GRAPH_TYPE_LINEAR" start="[-239.2936, 615.5709, 114.1551]" />
+        <UNK_BF922913 end="[-9.9693, 0.0, 46.7794]" graph="GRAPH_TYPE_LINEAR" start="[-9.9693, 0.0, 46.7794]" />
+        <UNK_C5943791 end="51.2509" start="51.2509" />
+        <prop model="971068958" position="[-241.972, 618.133, 112.367]" rotation="[0.0, 0.0, 32.039]" />
+      </UNK_5B2A3B2B>
+    </UNK_798732B5>
+    <UNK_35AB8FE>
+      <UNK_D7A3EE60 id="FREEMODE_INTRO" UNK_4A25399="mp_freemode_intro_valentine_srl">
+        <UNK_5B2A3B2B id="FREEMODE_INTRO__SHOT1" />
+        <UNK_5B2A3B2B id="FREEMODE_INTRO__SHOT2" />
+        <UNK_5B2A3B2B id="FREEMODE_INTRO__SHOT3" />
+        <UNK_5B2A3B2B id="FREEMODE_INTRO__SHOT4" />
+      </UNK_D7A3EE60>
+    </UNK_35AB8FE>
+  </UNK_8A585321>
+</root>

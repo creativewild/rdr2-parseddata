@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <activities>
+    <camp id="CC_HORSESHOE_OVERLOOK">
+      <activity UNK_A40A1116="true" UNK_1C953AEC="act_gen_fff" UNK_E4502C28="175.0" UNK_F2008B7C="[-117.0795, -22.9743, 94.846]" UNK_9DE8D764="HS_CAMP_STATE_5" heading="166.84" id="HASH_CA_FFF_CAMP" instanceid="HAI_FIVE_FINGER_FILLET_01" UNK_B5B0823D="[-119.1865, -27.1524, 95.3]" launchscript="FiveFingerFilletIntro_Invite" location="[-118.119, -27.6134, 95.57]" UNK_615DAB4B="true">
+        <UNK_C5E4CC2>
+          <UNK_6434BC1A end="22" start="12" />
+        </UNK_C5E4CC2>
+        <assets>
+          <scenarios>
+            <scenario heading="200.0" id="PROP_HUMAN_SEAT_CHAIR_KNIFE_BADASS" position="[-119.1, -27.0, 95.3]" type="wait" />
+          </scenarios>
+          <cutscenes>
+            <scene id="CALEN_FFF1" position="-121.752, -28.2105 94.9" type="invite" />
+          </cutscenes>
+        </assets>
+        <participants>
+          <UNK_5D60301D id="HASH_COMPANION_LENNY" UNK_F4197065="Lenny" priority="0" />
+        </participants>
+      </activity>
+      <activity UNK_A40A1116="true" UNK_1C953AEC="act_cajav_homerob1" UNK_E4502C28="273.238" UNK_F2008B7C="[-147.8, -49.8, 94.8667]" UNK_9DE8D764="HS_CAMP_STATE_9" id="HASH_CA_HOMEROBBERY" instanceid="HAI_HOME_ROBBERY_01" UNK_B5B0823D="[-119.1347, -27.17707, 95.26995]" UNK_D43B0E78="hso_companion_homeRob01" launchscript="HomeRobJavier_Invite" location="[-413.3803, 1591.816, 206.5383]">
+        <UNK_C5E4CC2>
+          <UNK_6434BC1A end="23" start="8" />
+          <UNK_6434BC1A end="2" start="0" />
+        </UNK_C5E4CC2>
+        <assets>
+          <scenarios>
+            <scenario heading="0.0" id="PROP_HUMAN_SEAT_CHAIR_TABLE_CLEAN_PISTOL" position="[-143.5163, -46.57731, 94.922]" type="wait" />
+          </scenarios>
+          <cutscenes>
+            <scene id="PRHM6_INT" type="invite" />
+          </cutscenes>
+        </assets>
+        <participants>
+          <UNK_5D60301D id="HASH_COMPANION_JAVIER" UNK_F4197065="JavierEscuella" priority="0" />
+        </participants>
+      </activity>
+      <activity UNK_7CA07A1F="10.0" UNK_A40A1116="true" UNK_1C953AEC="act_hunting_2" UNK_E4502C28="221.2121" UNK_F2008B7C="[-127.6965, -18.9043, 95.2525]" UNK_9DE8D764="HS_CAMP_STATE_10" UNK_681FEE5F="0.0" UNK_71D75F7E="[-87.07601, -45.31934, 94.83855]" UNK_8518EAFF="true" id="HASH_CA_HUNTING" instanceid="HAI_HUNTING_02" UNK_B5B0823D="[-125.7007, -20.3292, 95.6552]" UNK_D43B0E78="HSO_COMPANION_HUNT02" launchscript="Hunting02_Invite" location="[-99.7409, -47.043, 94.4079]" UNK_C20B91C2="true">
+        <UNK_C5E4CC2>
+          <UNK_6434BC1A end="18" start="6" />
+        </UNK_C5E4CC2>
+        <assets>
+          <dialogue id="HUNHCAU">
+            <line id="HUNHC_IG1_CALL" type="initialInviteLine" />
+          </dialogue>
+          <scenarios>
+            <scenario heading="75.37" id="PROP_HUMAN_SEAT_CHAIR_KNIFE_BADASS" position="[-125.7007, -20.3292, 95.6552]" type="wait" />
+          </scenarios>
+          <cutscenes>
+            <scene heading="0.0" id="CACHR_HNT2" position="[-130.667, -18.044, 96.17]" type="invite" />
+          </cutscenes>
+        </assets>
+        <participants>
+          <UNK_5D60301D id="HASH_COMPANION_CHARLES" UNK_F4197065="CharlesSmith" priority="1" />
+        </participants>
+      </activity>
+    </camp>
+    <camp id="CC_CLEMENS_POINT">
+      <activity UNK_A40A1116="true" UNK_1C953AEC="coachRobberies_gang2" UNK_E4502C28="205.7499" UNK_F2008B7C="[687.2521, -1247.794, 43.1298]" UNK_9DE8D764="HS_CAMP_STATE_DEMO" UNK_8518EAFF="true" id="HASH_CA_COACH" instanceid="HAI_COACH_ROBBERY_01" interval="0" UNK_B5B0823D="[689.3566, -1252.534, 43.4521]" UNK_D43B0E78="cp_companion_coachRob02" launchscript="coachRobberies_gang2_invite" location="[1151.22, -674.65, 81.48]" stacksize="RCM">
+        <UNK_C5E4CC2>
+          <UNK_6434BC1A end="22" start="12" />
+        </UNK_C5E4CC2>
+        <assets>
+          <cutscenes>
+            <scene id="CASEN_CROB2_INT" type="invite" />
+          </cutscenes>
+          <scenarios>
+            <scenario heading="0.0" id="WORLD_HUMAN_SHOP_BROWSE_COUNTER" position="[689.713, -1251.561, 43.391]" type="wait" />
+          </scenarios>
+          <stub camerapos="[689.6331, -1255.939, 46.1891]" UNK_88F143D7="[-25.1257, 0.0, -8.5425]" UNK_A3A63AF5="CASEN_CROB2_STB" />
+        </assets>
+        <participants>
+          <UNK_5D60301D id="HASH_COMPANION_SEAN" priority="0" />
+          <UNK_5D60301D id="HASH_COMPANION_MARY_BETH" priority="1" />
+        </participants>
+      </activity>
+      <activity UNK_A40A1116="true" UNK_1C953AEC="coachRobberies_gang3" UNK_E4502C28="289.4019" UNK_F2008B7C="[661.8928, -1240.444, 43.1657]" UNK_9DE8D764="HS_CAMP_STATE_4" UNK_8518EAFF="true" id="HASH_CA_COACH" instanceid="HAI_COACH_ROBBERY_02" UNK_B5B0823D="[670.23, -1239.51, 43.65]" UNK_D43B0E78="cp_companion_coachRob01" launchscript="coachRobberies_gang3_invite" location="[807.7495, -433.6565, 81.1654]" stacksize="RCM">
+        <UNK_C5E4CC2>
+          <UNK_6434BC1A end="20" start="12" />
+        </UNK_C5E4CC2>
+        <assets>
+          <cutscenes>
+            <scene id="CABLL_CROB3_INT" type="invite" />
+          </cutscenes>
+          <scenarios>
+            <scenario heading="163.2255" id="PROP_HUMAN_SEAT_CHAIR_READ_NEWSPAPER" position="[670.138, -1239.51, 43.65]" type="wait" />
+          </scenarios>
+          <stub camerapos="[669.0223, -1240.293, 44.2663]" UNK_88F143D7="[-2.1636, 0.0, -61.3218]" UNK_A3A63AF5="CABIL_CROB3_STB" />
+        </assets>
+        <participants>
+          <UNK_5D60301D id="HASH_COMPANION_BILL" priority="0" />
+          <UNK_5D60301D id="HASH_COMPANION_TILLY" priority="1" />
+        </participants>
+      </activity>
+      <activity UNK_1C953AEC="act_gen_dominoes" UNK_E4502C28="109.74" UNK_F2008B7C="[673.8508, -1243.115, 44.0363]" UNK_9DE8D764="HS_CAMP_STATE_4" heading="134.74" id="HASH_CA_DOMINOES_CAMP" instanceid="HAI_DOMINOES_01" launchscript="DominoesIntro_Invite" location="[665.5017, -1243.862, 43.1442]" UNK_615DAB4B="true">
+        <UNK_C5E4CC2>
+          <UNK_6434BC1A end="19" start="8" />
+        </UNK_C5E4CC2>
+        <assets>
+          <scenarios>
+            <scenario heading="0.0" id="PROP_HUMAN_SEAT_CHAIR_KNITTING" position="[663.1514, -1248.641, 43.37989]" type="wait" />
+          </scenarios>
+          <cutscenes>
+            <scene id="CATLL_DMNO1" type="invite" />
+          </cutscenes>
+        </assets>
+        <participants>
+          <UNK_5D60301D id="HASH_COMPANION_TILLY" UNK_F4197065="Tilly" priority="0" />
+        </participants>
+      </activity>
+      <activity UNK_1C953AEC="act_FISHING01" UNK_E4502C28="357.2814" UNK_F2008B7C="[674.4992, -1221.308, 44.0232]" UNK_9DE8D764="HS_CAMP_STATE_DEMO" UNK_8518EAFF="true" id="HASH_CA_FISHING" instanceid="HAI_FISHING_01" UNK_B5B0823D="[665.3282, -1224.624, 44.1185]" UNK_D43B0E78="cp_companion_fish01" launchscript="Fishing01_Invite" location="[1179.398, -585.0668, 67.1378]" UNK_615DAB4B="true">
+        <UNK_C5E4CC2>
+          <UNK_6434BC1A end="19" start="8" />
+        </UNK_C5E4CC2>
+        <assets>
+          <dialogue id="FHJ1AU" />
+          <scenarios>
+            <scenario heading="0.0" id="PROP_CAMP_JAVIER_SEAT_CHAIR_CRICKETS" position="[675.377, -1217.635, 44.812]" type="wait" />
+          </scenarios>
+          <cutscenes>
+            <scene heading="70.4" id="CAJAV_FSH1_INT" position="[666.97, -1238.505, 45.195]" type="invite" />
+          </cutscenes>
+        </assets>
+        <participants>
+          <UNK_5D60301D id="HASH_COMPANION_JAVIER" UNK_F4197065="JavierEscuella" priority="0" />
+        </participants>
+      </activity>
+      <activity UNK_1C953AEC="act_FISHING03" UNK_E4502C28="257.5096" UNK_F2008B7C="[660.8466, -1234.853, 43.1878]" UNK_9DE8D764="HS_CAMP_STATE_DEMO" UNK_8518EAFF="false" id="HASH_CA_FISHING" instanceid="HAI_FISHING_02" UNK_B5B0823D="[667.1318, -1235.329, 43.638]" UNK_D43B0E78="cp_companion_fish02" launchscript="Fishing02_Invite" location="[802.5699, -1347.694, 40.50347]">
+        <UNK_C5E4CC2>
+          <UNK_6434BC1A end="19" start="6" />
+        </UNK_C5E4CC2>
+        <assets>
+          <dialogue id="FICK1AU">
+            <line id="FSH_KIE_RIDE" type="rideBanter" />
+          </dialogue>
+          <scenarios>
+            <scenario heading="105.13" id="PROP_HUMAN_SEAT_CHAIR_FISHING_ROD" position="[667.1318, -1235.329, 43.638]" type="wait" />
+          </scenarios>
+          <cutscenes>
+            <scene id="CAKIE_FSH2" type="invite" />
+          </cutscenes>
+        </assets>
+        <participants>
+          <UNK_5D60301D id="HASH_COMPANION_ODRISCOLL" UNK_F4197065="Kieran" priority="0" />
+        </participants>
+      </activity>
+      <activity UNK_1C953AEC="act_gen_fff" UNK_E4502C28="332.2814" UNK_F2008B7C="[664.1248, -1248.185, 42.9864]" UNK_9DE8D764="HS_CAMP_STATE_DEMO" heading="225.55" id="HASH_CA_FFF_CAMP" instanceid="HAI_FIVE_FINGER_FILLET_02" UNK_B5B0823D="[666.9832, -1243.2, 44.145]" launchscript="fiveFingerFillet_02_invite" location="[665.5322, -1243.902, 43.95]" UNK_615DAB4B="true">
+        <UNK_C5E4CC2>
+          <UNK_6434BC1A end="22" start="12" />
+        </UNK_C5E4CC2>
+        <assets>
+          <scenarios>
+            <scenario heading="0.0" id="PROP_HUMAN_SEAT_CHAIR_KNIFE_BADASS" position="[664.6, -1244.5, 43.6]" type="wait" />
+          </scenarios>
+        </assets>
+        <participants>
+          <UNK_5D60301D id="HASH_COMPANION_MICAH" priority="0" />
+        </participants>
+      </activity>
+      <activity UNK_7CA07A1F="10.0" UNK_A40A1116="true" UNK_1C953AEC="act_hunting_2" UNK_E4502C28="303.7968" UNK_F2008B7C="[667.4069, -1243.581, 44.1442]" UNK_9DE8D764="HS_CAMP_STATE_DEMO" UNK_681FEE5F="78.63" UNK_71D75F7E="[-115.089, -17.6521, 95.9189]" UNK_8518EAFF="true" id="HASH_CA_HUNTING" instanceid="HAI_HUNTING_02" UNK_B5B0823D="[670.1919, -1239.37, 43.65631]" launchscript="Hunting02_Invite" location="[670.1919, -1239.37, 43.65631]" UNK_C20B91C2="true">
+        <UNK_C5E4CC2>
+          <UNK_6434BC1A end="18" start="6" />
+        </UNK_C5E4CC2>
+        <assets>
+          <dialogue id="HUNHCAU">
+            <line id="HUNHC_IG1_CALL" type="initialInviteLine" />
+          </dialogue>
+          <scenarios>
+            <scenario heading="75.37" id="PROP_HUMAN_SEAT_CHAIR_WHITTLE" position="[670.1919, -1239.37, 43.65631]" type="wait" />
+          </scenarios>
+          <cutscenes>
+            <scene heading="0.0" id="CACHR_HNT2" position="[667.419, -1244.298, 44.194]" type="invite" />
+          </cutscenes>
+        </assets>
+        <participants>
+          <UNK_5D60301D id="HASH_COMPANION_CHARLES" UNK_F4197065="CharlesSmith" priority="1" />
+        </participants>
+      </activity>
+      <activity UNK_A40A1116="true" UNK_1C953AEC="act_cajav_homerob1" UNK_E4502C28="257.606" UNK_F2008B7C="[694.4, -1237.1, 44.5]" UNK_9DE8D764="HS_CAMP_STATE_10" id="HASH_CA_HOMEROBBERY" instanceid="HAI_HOME_ROBBERY_01" UNK_B5B0823D="[667.42, -1244.3, 44.19]" UNK_D43B0E78="cp_companion_homeRob01" launchscript="HomeRobJavier_Invite" location="[-413.3803, 1591.816, 206.5383]">
+        <UNK_C5E4CC2>
+          <UNK_6434BC1A end="23" start="8" />
+          <UNK_6434BC1A end="2" start="0" />
+        </UNK_C5E4CC2>
+        <assets>
+          <scenarios>
+            <scenario heading="0.0" id="PROP_HUMAN_SEAT_CHAIR_TABLE_CLEAN_PISTOL" position="[689.6469, -1240.659, 43.649]" type="wait" />
+          </scenarios>
+          <cutscenes>
+            <scene id="PRHM6_INT" type="invite" />
+          </cutscenes>
+        </assets>
+        <participants>
+          <UNK_5D60301D id="HASH_COMPANION_JAVIER" UNK_F4197065="JavierEscuella" priority="0" />
+        </participants>
+      </activity>
+    </camp>
+    <camp id="CC_SHADY_BELLE">
+      <activity UNK_A40A1116="true" UNK_1C953AEC="act_bankrobbery01" UNK_E4502C28="170.3555" UNK_F2008B7C="[1875.187, -1864.435, 41.8096]" UNK_9DE8D764="HS_CAMP_STATE_2" UNK_8518EAFF="true" id="HASH_CA_BANK" instanceid="HAI_BANK_ROBBERY_01" interval="0" UNK_B5B0823D="[1872.715, -1871.616, 42.361]" UNK_D43B0E78="sb_companion_bankrob02" launchscript="BankRob01_invite" location="[1236.896, -1409.4, 74.4697]" stacksize="RCM">
+        <UNK_C5E4CC2>
+          <UNK_6434BC1A end="18" start="12" />
+        </UNK_C5E4CC2>
+        <assets>
+          <cutscenes>
+            <scene id="CACHR_INT" type="invite" />
+          </cutscenes>
+          <dialogue id="CABR1AU" />
+          <scenarios>
+            <scenario heading="0.0" id="PROP_HUMAN_SEAT_CHAIR" position="[1872.715, -1871.616, 42.361]" type="wait" />
+          </scenarios>
+          <music UNK_559CE914="CABR1" />
+        </assets>
+        <participants>
+          <UNK_5D60301D id="HASH_COMPANION_CHARLES" UNK_F4197065="CharlesSmith" priority="0" />
+          <UNK_5D60301D id="HASH_COMPANION_UNCLE" UNK_F4197065="Uncle" priority="1" />
+        </participants>
+      </activity>
+      <activity UNK_A40A1116="true" UNK_1C953AEC="coachRobberies_gang1" UNK_E4502C28="25.9784" UNK_F2008B7C="[1869.831, -1866.655, 41.8191]" UNK_9DE8D764="HS_CAMP_STATE_4" UNK_8518EAFF="true" id="HASH_CA_COACH" instanceid="HAI_COACH_ROBBERY_03" interval="0" UNK_B5B0823D="[1867.744, -1862.263, 41.9469]" launchscript="coachRobberies_gang1_invite" location="[2077.929, -1034.331, 42.5306]" UNK_9E2FD2F8="false" stacksize="RCM">
+        <UNK_C5E4CC2>
+          <UNK_6434BC1A end="21" start="12" />
+        </UNK_C5E4CC2>
+        <assets>
+          <props>
+            <prop id="w_melee_knife05" position="[0.654222, -6.930176, -1.067059]" UNK_87742458="w_melee_knife05" />
+          </props>
+          <cutscenes>
+            <scene id="CAMCH_CROB2" type="invite" />
+          </cutscenes>
+          <scenarios>
+            <scenario heading="207.4106" id="WORLD_HUMAN_SMOKE" position="[1867.744, -1862.263, 41.9469]" type="wait" />
+          </scenarios>
+          <stub camerapos="[1867.833, -1864.112, 43.5948]" UNK_88F143D7="[-9.1393, 0.0, 0.9937]" UNK_A3A63AF5="CAMCH_CROB1_STB" />
+        </assets>
+        <participants>
+          <UNK_5D60301D id="HASH_COMPANION_MICAH" UNK_F4197065="MicahBell" priority="0" />
+          <UNK_5D60301D id="HASH_COMPANION_BILL" priority="0" />
+        </participants>
+      </activity>
+      <activity UNK_A40A1116="true" UNK_1C953AEC="coachRobberies_gang4" UNK_E4502C28="153.2629" UNK_F2008B7C="[1895.475, -1859.358, 42.1594]" UNK_9DE8D764="HS_CAMP_STATE_6" UNK_8518EAFF="true" id="HASH_CA_COACH" instanceid="HAI_COACH_ROBBERY_04" UNK_B5B0823D="[1891.493, -1865.622, 42.152]" launchscript="coachRobberies_gang4_invite" location="[1440.62, -1622.13, 65.23]" stacksize="RCM">
+        <UNK_C5E4CC2>
+          <UNK_6434BC1A end="22" start="12" />
+        </UNK_C5E4CC2>
+        <assets>
+          <cutscenes>
+            <scene id="CALNY_CROB4_INT" type="invite" />
+          </cutscenes>
+          <scenarios>
+            <scenario heading="321.8152" id="WORLD_HUMAN_SMOKE" position="[1892.253, -1865.8, 42.152]" type="wait" />
+          </scenarios>
+          <stub camerapos="[1892.045, -1864.488, 43.7007]" UNK_88F143D7="[-6.3906, 0.0, 153.9275]" UNK_A3A63AF5="CALEN_CROB4_STB" />
+        </assets>
+        <participants>
+          <UNK_5D60301D id="HASH_COMPANION_LENNY" priority="0" />
+        </participants>
+      </activity>
+      <activity UNK_1C953AEC="act_FISHING06" UNK_E4502C28="358.2622" UNK_F2008B7C="[1976.235, -1868.494, 41.7535]" UNK_9DE8D764="HS_CAMP_STATE_2" UNK_8518EAFF="false" id="HASH_CA_HUNTING" instanceid="HAI_HUNTING_06" UNK_D43B0E78="sb_companion_hunt06a" launchscript="HUNTING06_Invite" location="[2024.589, -1893.521, 40.1139]" UNK_F1309DED="HS_CAMP_STATE_10" UNK_51970C44="HS_CAMP_STATE_2">
+        <UNK_C5E4CC2>
+          <UNK_6434BC1A end="23" start="17" />
+        </UNK_C5E4CC2>
+        <assets>
+          <dialogue id="HNT6AUD" />
+          <scenarios>
+            <scenario heading="75.0" id="WORLD_HUMAN_SEAT_STEPS" position="[1982.37, -1859.17, 41.42]" type="wait" />
+          </scenarios>
+          <cutscenes>
+            <scene id="CAPRS_HNT6_INT" type="invite" />
+          </cutscenes>
+        </assets>
+        <participants>
+          <UNK_5D60301D id="HASH_COMPANION_PEARSON" UNK_F4197065="MrPearson" priority="0" />
+        </participants>
+      </activity>
+      <activity UNK_1C953AEC="act_CAUNC_rustling" UNK_E4502C28="59.1316" UNK_F2008B7C="[1872.118, -1847.617, 41.5896]" UNK_9DE8D764="HS_CAMP_STATE_6" UNK_681FEE5F="256.3022" UNK_71D75F7E="[1859.19, -1839.17, 41.44]" UNK_8518EAFF="true" id="HASH_CA_RUSTLING" instanceid="HAI_RUSTLING_02" UNK_B5B0823D="[1858.392, -1839.772, 42.52]" UNK_D43B0E78="sb_companion_rustle01" launchscript="act_CAUNC_rustling_invite" location="[1395.67, -860.17, 64.27]">
+        <UNK_C5E4CC2>
+          <UNK_6434BC1A end="23" start="21" />
+          <UNK_6434BC1A end="4" start="0" />
+        </UNK_C5E4CC2>
+        <assets>
+          <scenarios>
+            <scenario heading="168.9387" id="WORLD_HUMAN_HORSE_TEND_BRUSH_LINK" position="[1859.775, -1838.464, 41.468]" type="wait" />
+          </scenarios>
+          <cutscenes>
+            <scene UNK_8CD83AA1="Uncle" id="CAUNC_RUST2_INT" UNK_27CE20DE="Arthur" type="invite" />
+          </cutscenes>
+        </assets>
+        <participants>
+          <UNK_5D60301D id="HASH_COMPANION_UNCLE" UNK_F4197065="Uncle" priority="0" />
+        </participants>
+      </activity>
+    </camp>
+  </activities>
+</root>

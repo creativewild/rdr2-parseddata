@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_3F7DF098>
+    <UNK_4CBD154D>
+      <chest id="NET_AMBIENT_CHEST">
+        <UNK_856A8871>
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER_MP_LOCAL" type="SCENARIO_NAME" />
+          <data UNK_4642CC6C="REWARD_NET_AMBIENT_CHEST" type="LOOT_TABLE" />
+          <data UNK_4642CC6C="SCENARIO_WITH_CHEST" type="ASSOCIATION_TYPE" />
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER" type="SUPPRESS_SCENARIO" />
+        </UNK_856A8871>
+        <chests>
+          <prop UNK_AE17AAF3="CHEST" UNK_6E4E3CCB="S_LOOTABLEMISCCHEST" />
+        </chests>
+        <rewards>
+          <prop UNK_1437D063="ObjectExchange" UNK_AE17AAF3="OBJECT1" UNK_6E4E3CCB="s_inv_ring03x" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, -12.264]" />
+          <prop UNK_1437D063="ObjectExchange" UNK_AE17AAF3="OBJECT2" UNK_6E4E3CCB="s_inv_earring02x" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, -52.5738]" />
+        </rewards>
+      </chest>
+      <chest id="NET_ABANDONED_LOOT_CHEST">
+        <UNK_856A8871>
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER_MP_LOCAL" type="SCENARIO_NAME" />
+          <data UNK_4642CC6C="REWARD_ABANDONED_LOOT_MALE" type="LOOT_TABLE" />
+          <data UNK_4642CC6C="SCENARIO_WITH_CHEST" type="ASSOCIATION_TYPE" />
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER" type="SUPPRESS_SCENARIO" />
+          <data UNK_4642CC6C="[-0.004649, -0.784, 0.0]" type="OFFSET" />
+        </UNK_856A8871>
+        <chests>
+          <prop UNK_AE17AAF3="CHEST" UNK_6E4E3CCB="S_LOOTABLEMISCCHEST" offset="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" />
+        </chests>
+        <rewards>
+          <prop UNK_1437D063="ObjectExchange" UNK_AE17AAF3="OBJECT1" UNK_6E4E3CCB="P_COINSTACK02" offset="[0.004649, 0.0, 0.0]" rotation="[0.0, 0.0, -12.264]" />
+          <prop UNK_1437D063="ObjectExchange" UNK_AE17AAF3="OBJECT2" UNK_6E4E3CCB="P_COINSTACK02" offset="[0.000649, 0.0, 0.0]" rotation="[0.0, 0.0, -52.5738]" />
+        </rewards>
+      </chest>
+      <chest id="NET_FETCH_TREASURE_HUNT_OBJECTIVE">
+        <UNK_856A8871>
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER_MP_SYNCH" type="SCENARIO_NAME" />
+          <data UNK_4642CC6C="SCENARIO_WITH_CHEST" type="ASSOCIATION_TYPE" />
+          <data UNK_4642CC6C="REWARD_ABANDONED_LOOT_MALE" type="LOOT_TABLE" />
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER" type="SUPPRESS_SCENARIO" />
+        </UNK_856A8871>
+        <chests>
+          <prop UNK_AE17AAF3="CHEST" UNK_6E4E3CCB="S_LOOTABLEMISCCHEST" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, 0.0]" />
+        </chests>
+        <rewards>
+          <prop UNK_1437D063="ObjectExchange" UNK_AE17AAF3="OBJECT1" UNK_6E4E3CCB="P_COINSTACK02" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, -12.264]" />
+          <prop UNK_1437D063="ObjectExchange" UNK_AE17AAF3="OBJECT2" UNK_6E4E3CCB="P_COINSTACK02" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, -52.5738]" />
+        </rewards>
+      </chest>
+      <chest id="NET_FETCH_TREASURE_HUNT_EMPTY">
+        <UNK_856A8871>
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER_MP_SYNCH" type="SCENARIO_NAME" />
+          <data UNK_4642CC6C="REWARD_ABANDONED_LOOT_MALE" type="LOOT_TABLE" />
+          <data UNK_4642CC6C="SCENARIO_WITH_CHEST" type="ASSOCIATION_TYPE" />
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER" type="SUPPRESS_SCENARIO" />
+        </UNK_856A8871>
+        <chests>
+          <prop UNK_AE17AAF3="CHEST" UNK_6E4E3CCB="S_LOOTABLEMISCCHEST" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, 0.0]" />
+        </chests>
+        <rewards text="" />
+      </chest>
+      <chest id="NET_HIDEOUT_REWARDS_TIER_1">
+        <UNK_856A8871>
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER_MP_LOCAL" type="SCENARIO_NAME" />
+          <data UNK_4642CC6C="REWARD_NET_HIDEOUT_TIER_1" type="LOOT_TABLE" />
+          <data UNK_4642CC6C="SCENARIO_WITH_CHEST" type="ASSOCIATION_TYPE" />
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER" type="SUPPRESS_SCENARIO" />
+        </UNK_856A8871>
+        <chests>
+          <prop UNK_AE17AAF3="CHEST" UNK_6E4E3CCB="S_LOOTABLEMISCCHEST" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, 0.0]" />
+        </chests>
+        <rewards>
+          <prop UNK_1437D063="ObjectExchange" UNK_AE17AAF3="OBJECT1" UNK_6E4E3CCB="s_inv_necklace01x" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, -12.264]" />
+          <prop UNK_1437D063="ObjectExchange" UNK_AE17AAF3="OBJECT2" UNK_6E4E3CCB="s_inv_pocketWatch02x" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, -52.5738]" />
+        </rewards>
+      </chest>
+      <chest id="NET_HIDEOUT_REWARDS_TIER_2">
+        <UNK_856A8871>
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER_MP_LOCAL" type="SCENARIO_NAME" />
+          <data UNK_4642CC6C="REWARD_NET_HIDEOUT_TIER_2" type="LOOT_TABLE" />
+          <data UNK_4642CC6C="SCENARIO_WITH_CHEST" type="ASSOCIATION_TYPE" />
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER" type="SUPPRESS_SCENARIO" />
+        </UNK_856A8871>
+        <chests>
+          <prop UNK_AE17AAF3="CHEST" UNK_6E4E3CCB="S_LOOTABLEMISCCHEST" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, 0.0]" />
+        </chests>
+        <rewards>
+          <prop UNK_1437D063="ObjectExchange" UNK_AE17AAF3="OBJECT1" UNK_6E4E3CCB="s_inv_ring04x" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, -12.264]" />
+          <prop UNK_1437D063="ObjectExchange" UNK_AE17AAF3="OBJECT2" UNK_6E4E3CCB="s_inv_necklace01x" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, -52.5738]" />
+        </rewards>
+      </chest>
+      <chest id="NET_HIDEOUT_REWARDS_TIER_3">
+        <UNK_856A8871>
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER_MP_LOCAL" type="SCENARIO_NAME" />
+          <data UNK_4642CC6C="REWARD_NET_HIDEOUT_TIER_3" type="LOOT_TABLE" />
+          <data UNK_4642CC6C="SCENARIO_WITH_CHEST" type="ASSOCIATION_TYPE" />
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER" type="SUPPRESS_SCENARIO" />
+        </UNK_856A8871>
+        <chests>
+          <prop UNK_AE17AAF3="CHEST" UNK_6E4E3CCB="S_LOOTABLEMISCCHEST" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, 0.0]" />
+        </chests>
+        <rewards>
+          <prop UNK_1437D063="ObjectExchange" UNK_AE17AAF3="OBJECT1" UNK_6E4E3CCB="P_TNT01X" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, -12.264]" />
+        </rewards>
+      </chest>
+      <chest id="NET_HIDEOUT_REWARDS_TIER_4">
+        <UNK_856A8871>
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER_MP_LOCAL" type="SCENARIO_NAME" />
+          <data UNK_4642CC6C="REWARD_NET_HIDEOUT_TIER_4" type="LOOT_TABLE" />
+          <data UNK_4642CC6C="SCENARIO_WITH_CHEST" type="ASSOCIATION_TYPE" />
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER" type="SUPPRESS_SCENARIO" />
+        </UNK_856A8871>
+        <chests>
+          <prop UNK_AE17AAF3="CHEST" UNK_6E4E3CCB="S_LOOTABLEMISCCHEST" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, 0.0]" />
+        </chests>
+        <rewards>
+          <prop UNK_1437D063="ObjectExchange" UNK_AE17AAF3="OBJECT1" UNK_6E4E3CCB="p_goldnugget01x" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, -12.264]" />
+        </rewards>
+      </chest>
+      <chest id="FME_TREASURE_HUNT_CHEST_ROCK_PILE">
+        <UNK_856A8871>
+          <data UNK_4642CC6C="MP_FME_TH_ROCK_PILE_NO_PROPS" type="SCENARIO_NAME" />
+          <data UNK_4642CC6C="REWARD_FME_TREASURE_HUNT" type="LOOT_TABLE" />
+          <data UNK_4642CC6C="SCENARIO_WITH_CHEST" type="ASSOCIATION_TYPE" />
+          <data UNK_4642CC6C="" type="SUPPRESS_SCENARIO" />
+        </UNK_856A8871>
+        <chests>
+          <prop UNK_AE17AAF3="CHEST" UNK_6E4E3CCB="S_TREASUREHEARTLANDS02X" offset="[-0.008715, 1.018275, 0.0]" rotation="[0.0, 0.0, 0.0]" />
+          <prop UNK_AE17AAF3="ROCKS" UNK_6E4E3CCB="S_TREASUREHEARTLANDS01X" offset="[-0.008715, 1.018275, 0.0]" rotation="[0.0, 0.0, 0.0]" />
+        </chests>
+        <rewards>
+          <prop UNK_1437D063="LOOT1" UNK_AE17AAF3="OBJECT1" UNK_6E4E3CCB="P_COINSTACK02" offset="[0.054435, 0.980646, 0.101269]" rotation="[10.34671, -4.88114, 1.486373]" />
+          <prop UNK_1437D063="LOOT3" UNK_AE17AAF3="OBJECT2" UNK_6E4E3CCB="P_COINSTACK02" offset="[0.019404, 0.978131, 0.106024]" rotation="[9.050551, 0.0, 0.0]" />
+          <prop UNK_1437D063="Map" UNK_AE17AAF3="OBJECT3" UNK_6E4E3CCB="S_TWOFOLDMAP01X" offset="[-0.081336, 0.089546, -1.0]" rotation="[74.73452, -80.48813, -72.84706]" />
+        </rewards>
+      </chest>
+      <chest id="MP_INTRO_REWARD_DEADEYE">
+        <UNK_856A8871>
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER_MP_LOCAL" type="SCENARIO_NAME" />
+          <data UNK_4642CC6C="REWARD_MP_INTRO_CONSUMABLE" type="LOOT_TABLE" />
+          <data UNK_4642CC6C="SCENARIO_WITH_CHEST" type="ASSOCIATION_TYPE" />
+          <data UNK_4642CC6C="PROP_PLAYER_OPEN_FOOTLOCKER" type="SUPPRESS_SCENARIO" />
+        </UNK_856A8871>
+        <chests>
+          <prop UNK_AE17AAF3="CHEST" UNK_6E4E3CCB="S_LOOTABLEMISCCHEST" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, 0.0]" />
+        </chests>
+        <rewards>
+          <prop UNK_1437D063="ObjectExchange" UNK_AE17AAF3="OBJECT1" UNK_6E4E3CCB="P_COINSTACK02" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, -12.264]" />
+          <prop UNK_1437D063="ObjectExchange" UNK_AE17AAF3="OBJECT2" UNK_6E4E3CCB="P_COINSTACK02" offset="[0.004649, 0.784, 0.0]" rotation="[0.0, 0.0, -52.5738]" />
+        </rewards>
+      </chest>
+    </UNK_4CBD154D>
+    <UNK_D9FDABD6>
+      <chest model="s_footLocker01x">
+        <item offset="[-0.11, 0.07, 0.2]" pickup="PICKUP_WEAPON_REVOLVER_CATTLEMAN" rotation="[270.0, 0.0, 0.0]" />
+        <item offset="[-0.11, 0.07, 0.2]" pickup="PICKUP_WEAPON_REVOLVER_CATTLEMAN_MP" rotation="[270.0, 0.0, 0.0]" />
+        <item offset="[-0.11, 0.07, 0.2]" pickup="PICKUP_WEAPON_REVOLVER_CATTLEMAN_JOHN" rotation="[270.0, 0.0, 0.0]" />
+        <item offset="[-0.11, 0.07, 0.2]" pickup="PICKUP_WEAPON_THROWN_DYNAMITE" rotation="[0.0, 0.0, 0.0]" />
+        <item offset="[-0.11, 0.07, 0.2]" pickup="PICKUP_WEAPON_THROWN_DYNAMITE_MP" rotation="[0.0, 0.0, 0.0]" />
+        <item offset="[-0.11, 0.07, 0.2]" pickup="PICKUP_WEAPON_THROWN_DYNAMITE_VOLATILE" rotation="[0.0, 0.0, 0.0]" />
+        <item offset="[-0.11, 0.07, 0.3]" pickup="PICKUP_WEAPON_THROWN_MOLOTOV_MP" rotation="[0.0, 0.0, 0.0]" />
+        <item offset="[-0.06, -0.14, 0.06]" pickup="PICKUP_WEAPON_REPEATER_CARBINE" rotation="[0.0, 0.0, 0.0]" />
+        <item offset="[-0.06, -0.14, 0.06]" pickup="PICKUP_WEAPON_REPEATER_CARBINE_MP" rotation="[0.0, 0.0, 0.0]" />
+        <item offset="[-0.15, -0.04, 0.19]" pickup="PICKUP_WEAPON_THROWN_TOMAHAWK" rotation="[90.0, 90.0, 0.0]" />
+        <item offset="[-0.15, -0.04, 0.19]" pickup="PICKUP_WEAPON_THROWN_TOMAHAWK_MP" rotation="[90.0, 90.0, 0.0]" />
+        <item offset="[-0.15, -0.04, 0.19]" pickup="PICKUP_WEAPON_THROWN_TOMAHAWK_HOMING" rotation="[90.0, 90.0, 0.0]" />
+        <item offset="[-0.15, -0.04, 0.19]" pickup="PICKUP_WEAPON_THROWN_TOMAHAWK_IMPROVED" rotation="[90.0, 90.0, 0.0]" />
+        <item offset="[-0.15, -0.04, 0.19]" pickup="PICKUP_WEAPON_THROWN_THROWING_KNIVES" rotation="[90.0, 90.0, 0.0]" />
+        <item offset="[-0.15, -0.04, 0.19]" pickup="PICKUP_WEAPON_THROWN_THROWING_KNIVES_MP" rotation="[90.0, 90.0, 0.0]" />
+        <item offset="[-0.15, -0.04, 0.19]" pickup="PICKUP_WEAPON_THROWN_THROWING_KNIVES_IMPROVED" rotation="[90.0, 90.0, 0.0]" />
+      </chest>
+      <chest model="s_lootableBigMiscChest">
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_REVOLVER_CATTLEMAN" rotation="[270.0, 0.0, 0.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_REVOLVER_CATTLEMAN_MP" rotation="[270.0, 0.0, 0.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_REVOLVER_CATTLEMAN_JOHN" rotation="[270.0, 0.0, 0.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_THROWN_DYNAMITE" rotation="[0.0, 0.0, -90.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_THROWN_DYNAMITE_MP" rotation="[0.0, 0.0, -90.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_THROWN_DYNAMITE_VOLATILE" rotation="[0.0, 0.0, -90.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_THROWN_MOLOTOV_MP" rotation="[0.0, 0.0, -90.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_REPEATER_CARBINE" rotation="[270.0, 0.0, 0.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_REPEATER_CARBINE_MP" rotation="[270.0, 0.0, 0.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_SHOTGUN_PUMP" rotation="[270.0, 0.0, 0.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_SHOTGUN_PUMP_MP" rotation="[270.0, 0.0, 0.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_SNIPERRIFLE_CARCANO" rotation="[270.0, 0.0, 0.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_SNIPERRIFLE_CARCANO_MP" rotation="[270.0, 0.0, 0.0]" />
+        <item offset="[-0.12, 0.12, 0.12]" pickup="PICKUP_WEAPON_BOW" rotation="[90.0, 0.0, 115.0]" />
+        <item offset="[-0.12, 0.12, 0.12]" pickup="PICKUP_WEAPON_BOW_MP" rotation="[90.0, 0.0, 115.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_THROWN_TOMAHAWK" rotation="[90.0, 90.0, 0.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_THROWN_TOMAHAWK_MP" rotation="[90.0, 90.0, 0.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_THROWN_TOMAHAWK_HOMING" rotation="[90.0, 90.0, 0.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_THROWN_TOMAHAWK_IMPROVED" rotation="[90.0, 90.0, 0.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_THROWN_THROWING_KNIVES" rotation="[90.0, 90.0, 0.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_THROWN_THROWING_KNIVES_MP" rotation="[90.0, 90.0, 0.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_WEAPON_THROWN_THROWING_KNIVES_IMPROVED" rotation="[90.0, 90.0, 0.0]" />
+        <item offset="[-0.27, -0.07, 0.1]" pickup="PICKUP_AMMO_REVOLVER" rotation="[90.0, 90.0, 0.0]" />
+      </chest>
+      <default offset="[0.0, 0.0, 0.4]" rotation="[0.0, 0.0, 0.0]" />
+    </UNK_D9FDABD6>
+  </UNK_3F7DF098>
+</root>

@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <activity>
+    <locations>
+      <location UNK_813B03CC="Braithwaite/Bolger Glade" id="Bolger_Glade">
+        <variations>
+          <variation UNK_4819D8E1="720000" id="STANDARD" UNK_8FBF71F1="7" />
+        </variations>
+        <volumes>
+          <volume heading="170.8375" location="[1360.746, -1301.565, 77.95844]" rotation="[0.0, 0.0, -19.49914]" scale="[5.414611, 8.826703, 8.635854]" UNK_E43D0DDD="BOX" type="TURN_IN_0" />
+          <volume heading="69.5851" location="[1367.482, -1300.531, 77.17064]" rotation="[0.0, 0.0, -20.0]" scale="[6.0, 5.0, 4.0]" UNK_E43D0DDD="BOX" type="TURN_IN_DEAD" />
+          <volume heading="69.5851" location="[1355.157, -1314.067, 77.90636]" rotation="[0.0, 0.0, -20.0]" scale="[8.268292, 5.28215, 5.0]" UNK_E43D0DDD="BOX" type="TURN_IN_WAGON" />
+        </volumes>
+        <UNK_FEDC7694>
+          <UNK_556CF385 id="0" location="[1511.703, -1808.628, 53.0166]" type="target" />
+          <UNK_556CF385 id="1" location="[1336.126, -2295.575, 48.1287]" type="target" />
+          <UNK_556CF385 id="2" location="[973.3314, -2021.639, 47.8451]" type="target" />
+          <UNK_556CF385 id="3" location="[1011.044, -1765.894, 50.9976]" type="target" />
+          <UNK_556CF385 id="4" location="[1354.492, -1702.365, 67.9262]" type="target" />
+          <UNK_556CF385 id="5" location="[823.3011, -1911.573, 41.5056]" type="light" />
+          <UNK_556CF385 id="6" location="[1390.857, -2084.766, 51.5663]" type="light" />
+          <UNK_556CF385 id="7" location="[1118.802, -1987.529, 54.3508]" type="light" />
+          <UNK_556CF385 id="8" location="[1596.256, -1849.918, 54.2528]" type="light" />
+          <UNK_556CF385 id="9" location="[834.8939, -1509.233, 45.4052]" type="light" />
+          <UNK_556CF385 id="10" location="[1051.043, -1826.095, 47.4419]" type="hide" />
+          <UNK_556CF385 id="11" location="[1248.579, -1993.486, 55.7184]" type="hide" />
+          <UNK_556CF385 id="12" location="[1246.639, -1665.28, 65.9161]" type="hide" />
+          <UNK_556CF385 id="13" location="[1650.587, -2087.023, 40.9385]" type="hide" />
+          <UNK_556CF385 id="14" location="[878.5155, -1818.116, 43.0622]" type="hide" />
+        </UNK_FEDC7694>
+        <UNK_5EC03740>
+          <UNK_556CF385 id="1" location="[1456.24, -1858.04, 51.44]" type="HUMAN" />
+          <UNK_556CF385 id="2" location="[933.29, -1879.6, 43.94]" type="HUMAN" />
+          <UNK_556CF385 id="3" location="[1462.37, -1709.0, 62.2]" type="HUMAN" />
+        </UNK_5EC03740>
+      </location>
+      <location UNK_813B03CC="Bayou Nwa/Bluewater Marsh" id="Bluewater_Marsh">
+        <variations>
+          <variation UNK_4819D8E1="720000" id="STANDARD" UNK_8FBF71F1="7" />
+        </variations>
+        <volumes>
+          <volume heading="275.7973" location="[2505.681, -1308.829, 53.32609]" rotation="[0.0, 0.0, 0.0]" scale="[21.50327, 14.7768, 28.22059]" UNK_E43D0DDD="BOX" type="TURN_IN_0" />
+          <volume heading="101.3064" location="[2485.417, -1307.476, 49.34062]" rotation="[0.0, 0.0, 0.0]" scale="[6.578597, 8.0, 4.0]" UNK_E43D0DDD="BOX" type="TURN_IN_DEAD" />
+          <volume heading="69.5851" location="[2522.804, -1309.344, 51.21756]" rotation="[0.0, 0.0, 0.0]" scale="[5.5, 10.5, 5.0]" UNK_E43D0DDD="BOX" type="TURN_IN_WAGON" />
+        </volumes>
+        <UNK_FEDC7694>
+          <UNK_556CF385 id="0" location="[2493.356, -419.0733, 43.3554]" type="target" />
+          <UNK_556CF385 id="1" location="[1783.46, -401.8322, 46.4437]" type="target" />
+          <UNK_556CF385 id="2" location="[2703.462, -822.9911, 41.3165]" type="target" />
+          <UNK_556CF385 id="3" location="[1877.267, -772.5898, 41.4699]" type="target" />
+          <UNK_556CF385 id="4" location="[2143.744, -641.0418, 41.6238]" type="target" />
+          <UNK_556CF385 id="5" location="[1783.675, -808.8248, 41.4311]" type="light" />
+          <UNK_556CF385 id="6" location="[2370.453, -860.423, 42.0217]" type="light" />
+          <UNK_556CF385 id="7" location="[2101.953, -295.5558, 40.8079]" type="light" />
+          <UNK_556CF385 id="8" location="[2007.85, -761.1711, 40.8966]" type="light" />
+          <UNK_556CF385 id="9" location="[2308.172, -331.4213, 43.5348]" type="light" />
+          <UNK_556CF385 id="10" location="[2465.475, -991.3315, 40.4586]" type="hide" />
+          <UNK_556CF385 id="11" location="[2080.942, -592.6807, 42.1972]" type="hide" />
+          <UNK_556CF385 id="12" location="[2513.043, -788.3336, 41.4371]" type="hide" />
+          <UNK_556CF385 id="13" location="[1777.648, -471.2877, 44.5962]" type="hide" />
+          <UNK_556CF385 id="14" location="[1710.263, -1002.112, 42.4121]" type="hide" />
+        </UNK_FEDC7694>
+        <UNK_5EC03740>
+          <UNK_556CF385 id="1" location="[2630.88, -595.53, 42.24]" type="HUMAN" />
+          <UNK_556CF385 id="2" location="[2016.32, -417.71, 40.67]" type="HUMAN" />
+          <UNK_556CF385 id="3" location="[-1905.01, 1292.28, 195.51]" type="HUMAN" />
+        </UNK_5EC03740>
+      </location>
+      <location UNK_813B03CC="Annesburg/Beaver Creek" id="Beaver_Creek">
+        <variations>
+          <variation UNK_4819D8E1="720000" id="STANDARD" UNK_8FBF71F1="7" />
+        </variations>
+        <volumes>
+          <volume heading="253.4313" location="[2906.492, 1312.238, 46.24583]" rotation="[0.862722, 0.034835, -20.2876]" scale="[10.38549, 7.324948, 5.460552]" UNK_E43D0DDD="BOX" type="TURN_IN_0" />
+          <volume heading="69.5851" location="[2911.618, 1302.076, 45.439]" rotation="[0.0, 0.0, 160.0]" scale="[5.0, 5.0, 5.0]" UNK_E43D0DDD="BOX" type="TURN_IN_DEAD" />
+          <volume heading="69.5851" location="[2919.988, 1307.348, 45.51596]" rotation="[0.0, 0.0, 160.5434]" scale="[8.0, 9.0, 5.0]" UNK_E43D0DDD="BOX" type="TURN_IN_WAGON" />
+        </volumes>
+        <UNK_FEDC7694>
+          <UNK_556CF385 id="0" location="[2539.399, 798.143, 75.363]" type="target" />
+          <UNK_556CF385 id="1" location="[2934.79, 1382.041, 56.831]" type="target" />
+          <UNK_556CF385 id="2" location="[2748.675, 1316.849, 68.945]" type="target" />
+          <UNK_556CF385 id="3" location="[2631.376, 1696.578, 114.847]" type="target" />
+          <UNK_556CF385 id="4" location="[2781.1, 524.853, 67.034]" type="target" />
+          <UNK_556CF385 id="5" location="[2544.691, 701.98, 79.742]" type="light" />
+          <UNK_556CF385 id="6" location="[2684.544, 898.903, 90.921]" type="light" />
+          <UNK_556CF385 id="7" location="[2916.063, 1444.967, 56.394]" type="light" />
+          <UNK_556CF385 id="8" location="[3020.225, 1351.759, 41.696]" type="light" />
+          <UNK_556CF385 id="9" location="[2950.24, 572.59, 43.661]" type="light" />
+          <UNK_556CF385 id="10" location="[2712.745, 711.768, 78.007]" type="hide" />
+          <UNK_556CF385 id="11" location="[2545.903, 848.686, 79.917]" type="hide" />
+          <UNK_556CF385 id="12" location="[2905.193, 1341.64, 47.156]" type="hide" />
+          <UNK_556CF385 id="13" location="[2707.882, 437.4702, 73.5048]" type="hide" />
+          <UNK_556CF385 id="14" location="[2282.279, 1200.526, 107.744]" type="hide" />
+        </UNK_FEDC7694>
+        <UNK_5EC03740>
+          <UNK_556CF385 id="1" location="[-1905.01, 1292.28, 195.51]" type="HUMAN" />
+          <UNK_556CF385 id="2" location="[-1905.01, 1292.28, 195.51]" type="HUMAN" />
+          <UNK_556CF385 id="3" location="[-1905.01, 1292.28, 195.51]" type="HUMAN" />
+        </UNK_5EC03740>
+      </location>
+      <location UNK_813B03CC="Tumbleweed/Gaptooth Breach" id="Gaptooth_Breach">
+        <variations>
+          <variation UNK_4819D8E1="720000" id="STANDARD" UNK_8FBF71F1="7" />
+        </variations>
+        <volumes>
+          <volume heading="0" location="[-5529.713, -2927.539, -1.328089]" rotation="[0.0, 0.0, 24.83997]" scale="[6.747131, 6.870256, 6.016601]" UNK_E43D0DDD="BOX" type="TURN_IN_0" />
+          <volume heading="69.5851" location="[-5523.729, -2938.324, 0.032934]" rotation="[0.0, 0.0, 24.83997]" scale="[8.0, 7.0, 4.0]" UNK_E43D0DDD="BOX" type="TURN_IN_DEAD" />
+          <volume heading="69.5851" location="[2919.988, 1307.348, 45.51596]" rotation="[0.0, 0.0, 160.5434]" scale="[8.0, 9.0, 5.0]" UNK_E43D0DDD="BOX" type="TURN_IN_WAGON" />
+        </volumes>
+        <UNK_FEDC7694>
+          <UNK_556CF385 id="0" location="[-5423.615, -3653.534, -23.0546]" type="target" />
+          <UNK_556CF385 id="1" location="[-6046.656, -3259.585, -18.9747]" type="target" />
+          <UNK_556CF385 id="2" location="[-5512.678, -2914.158, 0.6402]" type="target" />
+          <UNK_556CF385 id="3" location="[-5839.664, -3733.756, -26.3496]" type="target" />
+          <UNK_556CF385 id="4" location="[-4838.982, -2657.339, -13.3157]" type="target" />
+          <UNK_556CF385 id="5" location="[-5212.057, -3473.382, -22.5695]" type="light" />
+          <UNK_556CF385 id="6" location="[-5519.856, -3060.776, -3.0833]" type="light" />
+          <UNK_556CF385 id="7" location="[-6014.771, -3147.443, -2.6737]" type="light" />
+          <UNK_556CF385 id="8" location="[-5865.252, -2740.949, -8.0007]" type="light" />
+          <UNK_556CF385 id="9" location="[-5554.575, -2390.688, -9.9627]" type="light" />
+          <UNK_556CF385 id="10" location="[-5579.119, -2585.736, -9.2072]" type="hide" />
+          <UNK_556CF385 id="11" location="[-5625.368, -2927.903, 4.8541]" type="hide" />
+          <UNK_556CF385 id="12" location="[-5859.241, -3185.269, -14.3515]" type="hide" />
+          <UNK_556CF385 id="13" location="[-5394.856, -3665.154, -25.9672]" type="hide" />
+          <UNK_556CF385 id="14" location="[-5205.998, -3488.5, -22.6918]" type="hide" />
+        </UNK_FEDC7694>
+        <UNK_5EC03740>
+          <UNK_556CF385 id="1" location="[-1905.01, 1292.28, 195.51]" type="HUMAN" />
+          <UNK_556CF385 id="2" location="[-1905.01, 1292.28, 195.51]" type="HUMAN" />
+          <UNK_556CF385 id="3" location="[-1905.01, 1292.28, 195.51]" type="HUMAN" />
+        </UNK_5EC03740>
+      </location>
+      <location UNK_813B03CC="Tall Trees/Macfarlane's Ranch" id="Macfarlane's_Ranch">
+        <variations>
+          <variation UNK_4819D8E1="720000" id="STANDARD" UNK_8FBF71F1="7" />
+        </variations>
+        <volumes>
+          <volume heading="260.4119" location="[-763.1766, -1269.328, 43.9628]" rotation="[0.0, 0.0, -0.114211]" scale="[11.95175, 7.843596, 8.253509]" UNK_E43D0DDD="BOX" type="TURN_IN_0" />
+          <volume heading="69.5851" location="[-755.3944, -1261.795, 44.2]" rotation="[0.0, 0.0, 0.0]" scale="[3.441713, 5.0, 5.0]" UNK_E43D0DDD="BOX" type="TURN_IN_DEAD" />
+          <volume heading="69.5851" location="[-749.6023, -1269.298, 44.94385]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 9.0, 5.0]" UNK_E43D0DDD="BOX" type="TURN_IN_WAGON" />
+        </volumes>
+        <UNK_FEDC7694>
+          <UNK_556CF385 id="0" location="[-1983.193, -1636.662, 116.1876]" type="target" />
+          <UNK_556CF385 id="1" location="[-1168.863, -1941.368, 41.297]" type="target" />
+          <UNK_556CF385 id="2" location="[-1373.476, -2336.538, 41.8408]" type="target" />
+          <UNK_556CF385 id="3" location="[-2397.545, -2379.752, 60.1931]" type="target" />
+          <UNK_556CF385 id="4" location="[-2021.69, -3036.078, -10.72]" type="target" />
+          <UNK_556CF385 id="5" location="[-1409.407, -2675.401, 41.1338]" type="light" />
+          <UNK_556CF385 id="6" location="[-1810.969, -2397.688, 42.1581]" type="light" />
+          <UNK_556CF385 id="7" location="[-2075.381, -1898.708, 112.1227]" type="light" />
+          <UNK_556CF385 id="8" location="[-2581.791, -1386.972, 148.2399]" type="light" />
+          <UNK_556CF385 id="9" location="[-1413.991, -2192.28, 42.3992]" type="light" />
+          <UNK_556CF385 id="10" location="[-2377.075, -1589.493, 153.284]" type="hide" />
+          <UNK_556CF385 id="11" location="[-1446.753, -2297.675, 42.1055]" type="hide" />
+          <UNK_556CF385 id="12" location="[-2395.208, -2465.75, 59.1716]" type="hide" />
+          <UNK_556CF385 id="13" location="[-2697.177, -1496.918, 150.7806]" type="hide" />
+          <UNK_556CF385 id="14" location="[-1861.551, -1721.291, 108.2174]" type="hide" />
+        </UNK_FEDC7694>
+        <UNK_5EC03740>
+          <UNK_556CF385 id="1" location="[-1905.01, 1292.28, 195.51]" type="HUMAN" />
+          <UNK_556CF385 id="2" location="[-1905.01, 1292.28, 195.51]" type="HUMAN" />
+          <UNK_556CF385 id="3" location="[-1905.01, 1292.28, 195.51]" type="HUMAN" />
+        </UNK_5EC03740>
+      </location>
+      <location UNK_813B03CC="Grizzlies West" id="Grizzlies_West">
+        <variations>
+          <variation UNK_4819D8E1="720000" id="STANDARD" UNK_8FBF71F1="7" />
+        </variations>
+        <volumes>
+          <volume heading="0.0" location="[-1963.432, 1136.03, 173.0271]" rotation="[0.0, 0.0, 0.0]" scale="[3.0, 3.0, 5.0]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_0" />
+          <volume heading="0.0" location="[-1963.432, 1136.03, 173.0271]" rotation="[0.0, 0.0, 0.0]" scale="[3.0, 3.0, 5.0]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_DEAD" />
+          <volume heading="69.5851" location="[-1963.432, 1136.03, 173.0271]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 9.0, 5.0]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_WAGON" />
+        </volumes>
+        <UNK_FEDC7694>
+          <UNK_556CF385 id="0" location="[-1498.737, 1246.548, 312.9683]" type="target" />
+          <UNK_556CF385 id="1" location="[-1897.801, 1334.836, 199.1022]" type="target" />
+          <UNK_556CF385 id="2" location="[-1340.209, 2399.91, 305.9834]" type="target" />
+          <UNK_556CF385 id="3" location="[-553.423, 2704.216, 319.4398]" type="target" />
+          <UNK_556CF385 id="4" location="[-414.9579, 1751.632, 215.2497]" type="target" />
+          <UNK_556CF385 id="5" location="[-1632.466, 1215.778, 351.4236]" type="light" />
+          <UNK_556CF385 id="6" location="[-1962.414, 2158.79, 326.5785]" type="light" />
+          <UNK_556CF385 id="7" location="[-1549.274, 3118.923, 474.9757]" type="light" />
+          <UNK_556CF385 id="8" location="[-960.3392, 2168.898, 340.3225]" type="light" />
+          <UNK_556CF385 id="9" location="[-1022.073, 1694.369, 243.31]" type="light" />
+          <UNK_556CF385 id="10" location="[-1356.939, 2444.021, 307.4383]" type="hide" />
+          <UNK_556CF385 id="11" location="[-2106.388, 1843.802, 254.2088]" type="hide" />
+          <UNK_556CF385 id="12" location="[-1443.199, 1193.955, 225.3532]" type="hide" />
+          <UNK_556CF385 id="13" location="[-1884.236, 1354.391, 202.3029]" type="hide" />
+          <UNK_556CF385 id="14" location="[-1672.778, 1675.137, 237.1346]" type="hide" />
+        </UNK_FEDC7694>
+        <UNK_5EC03740>
+          <UNK_556CF385 id="1" location="[-1905.01, 1292.28, 195.51]" type="HUMAN" />
+          <UNK_556CF385 id="2" location="[-1905.01, 1292.28, 195.51]" type="HUMAN" />
+          <UNK_556CF385 id="3" location="[-1905.01, 1292.28, 195.51]" type="HUMAN" />
+        </UNK_5EC03740>
+      </location>
+      <location UNK_813B03CC="Grizzlies East" id="Grizzlies_East">
+        <variations>
+          <variation UNK_4819D8E1="720000" id="STANDARD" UNK_8FBF71F1="7" />
+        </variations>
+        <volumes>
+          <volume heading="253.4313" location="[2906.492, 1312.238, 46.24583]" rotation="[0.862722, 0.034835, -20.2876]" scale="[10.38549, 7.324948, 5.460552]" UNK_E43D0DDD="BOX" type="TURN_IN_0" />
+          <volume heading="69.5851" location="[2911.618, 1302.076, 45.439]" rotation="[0.0, 0.0, 160.0]" scale="[5.0, 5.0, 5.0]" UNK_E43D0DDD="BOX" type="TURN_IN_DEAD" />
+          <volume heading="69.5851" location="[2919.988, 1307.348, 45.51596]" rotation="[0.0, 0.0, 160.5434]" scale="[8.0, 9.0, 5.0]" UNK_E43D0DDD="BOX" type="TURN_IN_WAGON" />
+        </volumes>
+        <UNK_FEDC7694>
+          <UNK_556CF385 id="0" location="[1927.799, 1963.882, 262.4763]" type="target" />
+          <UNK_556CF385 id="1" location="[123.7181, 1811.57, 198.3305]" type="target" />
+          <UNK_556CF385 id="2" location="[344.4019, 1486.525, 178.6324]" type="target" />
+          <UNK_556CF385 id="3" location="[202.5632, 987.5115, 189.2411]" type="target" />
+          <UNK_556CF385 id="4" location="[1587.691, 2193.666, 323.3805]" type="target" />
+          <UNK_556CF385 id="5" location="[560.1028, 1702.206, 185.4495]" type="light" />
+          <UNK_556CF385 id="6" location="[1983.131, 1191.59, 170.4026]" type="light" />
+          <UNK_556CF385 id="7" location="[-25.1893, 1226.052, 172.1197]" type="light" />
+          <UNK_556CF385 id="8" location="[306.4047, 1554.129, 126.0879]" type="light" />
+          <UNK_556CF385 id="9" location="[1708.489, 1510.262, 146.5234]" type="light" />
+          <UNK_556CF385 id="10" location="[1244.896, 1144.36, 148.9726]" type="hide" />
+          <UNK_556CF385 id="11" location="[740.0878, 1819.905, 236.1282]" type="hide" />
+          <UNK_556CF385 id="12" location="[-156.0217, 1491.313, 115.1597]" type="hide" />
+          <UNK_556CF385 id="13" location="[493.404, 1773.299, 181.4955]" type="hide" />
+          <UNK_556CF385 id="14" location="[218.956, 985.827, 189.904]" type="hide" />
+        </UNK_FEDC7694>
+        <UNK_5EC03740>
+          <UNK_556CF385 id="1" location="[-1905.01, 1292.28, 195.51]" type="HUMAN" />
+          <UNK_556CF385 id="2" location="[-1905.01, 1292.28, 195.51]" type="HUMAN" />
+          <UNK_556CF385 id="3" location="[-1905.01, 1292.28, 195.51]" type="HUMAN" />
+        </UNK_5EC03740>
+      </location>
+      <location UNK_813B03CC="Big Valley" id="Big_Valley">
+        <variations>
+          <variation UNK_4819D8E1="720000" id="STANDARD" UNK_8FBF71F1="7" />
+        </variations>
+        <volumes>
+          <volume heading="242.5759" location="[-1812.055, -350.8521, 163.0659]" rotation="[0.0, 0.0, -23.50484]" scale="[6.080678, 10.85105, 11.42057]" UNK_E43D0DDD="BOX" type="TURN_IN_0" />
+          <volume heading="69.5851" location="[-1803.523, -349.4499, 164.6]" rotation="[0.0, 0.0, -25.1558]" scale="[4.407211, 5.0, 5.0]" UNK_E43D0DDD="BOX" type="TURN_IN_DEAD" />
+          <volume heading="69.5851" location="[-1799.671, -352.4568, 165.124]" rotation="[0.0, 0.0, 6.5]" scale="[5.75, 6.5, 5.0]" UNK_E43D0DDD="BOX" type="TURN_IN_WAGON" />
+        </volumes>
+        <UNK_FEDC7694>
+          <UNK_556CF385 id="0" location="[-2218.251, 734.2625, 122.2073]" type="target" />
+          <UNK_556CF385 id="1" location="[-628.0247, -62.7166, 81.8585]" type="target" />
+          <UNK_556CF385 id="2" location="[-1580.844, -918.5856, 82.7422]" type="target" />
+          <UNK_556CF385 id="3" location="[-2328.413, 99.7587, 220.7094]" type="target" />
+          <UNK_556CF385 id="4" location="[-1826.364, -622.2123, 153.9385]" type="target" />
+          <UNK_556CF385 id="5" location="[-1504.046, -783.9966, 102.8438]" type="light" />
+          <UNK_556CF385 id="6" location="[-1093.925, -580.9911, 81.4112]" type="light" />
+          <UNK_556CF385 id="7" location="[-2314.815, -486.8785, 143.0798]" type="light" />
+          <UNK_556CF385 id="8" location="[-1818.348, 658.515, 130.8593]" type="light" />
+          <UNK_556CF385 id="9" location="[-1311.564, 392.0829, 94.3807]" type="light" />
+          <UNK_556CF385 id="10" location="[-2370.18, 471.7791, 131.2528]" role="hide" />
+          <UNK_556CF385 id="11" location="[-1754.052, -229.4346, 183.2392]" role="hide" />
+          <UNK_556CF385 id="12" location="[-1762.277, -432.3696, 154.2314]" role="hide" />
+          <UNK_556CF385 id="13" location="[-1520.208, -306.4991, 141.1808]" role="hide" />
+          <UNK_556CF385 id="14" location="[-866.8486, -730.6187, 58.8574]" role="hide" />
+        </UNK_FEDC7694>
+        <UNK_5EC03740>
+          <UNK_556CF385 id="1" location="[-1905.01, 1292.28, 195.51]" />
+          <UNK_556CF385 id="2" location="[-1905.01, 1292.28, 195.51]" />
+          <UNK_556CF385 id="3" location="[-1905.01, 1292.28, 195.51]" />
+        </UNK_5EC03740>
+      </location>
+    </locations>
+  </activity>
+</root>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <missions>
+    <mission UNK_813B03CC="Coach Holdup (Robbery)" type="COACH_HOLDUP_ROBBERY">
+      <location UNK_813B03CC="Ambarino" id="CHU_AMBARINO_1" position="[-1841.543, 1818.462, 235.815]" />
+      <location UNK_813B03CC="Lower Montana River" id="CHU_LMRIVER_1" position="[-2531.43, -1367.326, 150.325]">
+        <UNK_31870B95>
+          <UNK_6807AA00 position="[-1815.997, -2397.28, 42.16]" />
+        </UNK_31870B95>
+      </location>
+      <location UNK_813B03CC="Millesani Claim" id="CHU_MILLESANI_1" position="[-1398.625, 1532.816, 241.6986]" />
+      <location UNK_813B03CC="Painted Sky" id="CHU_PAINTEDSKY_1" position="[-991.39, 18.304, 51.013]" />
+      <location UNK_813B03CC="Strawberry 2" id="CHU_STRAWBERRY_THEFT" position="[-1721.219, -359.5222, 172.2207]" />
+      <location UNK_813B03CC="Greenhollow" id="CHU_GREENHALLOW_1" position="[-2114.163, -2872.0, 22.959]" />
+      <location UNK_813B03CC="Annesburg 2" id="CHU_ANNESBURG_THEFT" position="[2768.148, 1357.302, 86.1431]" />
+      <location UNK_813B03CC="Caliga Hall 1" id="CHU_CALIGAHALL_1" position="[1522.286, -1416.13, 64.96883]" />
+      <location UNK_813B03CC="Cornwall 1" id="CHU_CORNWALL_1" position="[607.714, 1369.419, 182.696]" />
+      <location UNK_813B03CC="Macleans House" id="CHU_MACLEANS_1" position="[2292.499, -58.8153, 47.1201]" />
+      <location UNK_813B03CC="Sea Of Coronado" id="CHU_CORONADO_THEFT" position="[-6433.756, -3504.262, -26.7793]" />
+      <location UNK_813B03CC="Rhodes" id="CHU_RHODES_THEFT" position="[1198.067, -892.5042, 68.6416]" />
+      <location UNK_813B03CC="Benedict Point" id="CHU_BENEDICT_THEFT" position="[-5254.7, -3463.1, -22.3]" />
+      <location UNK_813B03CC="Blackwater" id="CHU_BLACKWATER_THEFT" position="[-1154.357, -1213.79, 68.272]" />
+      <location UNK_813B03CC="MacFarlane's Ranch" id="CHU_MACFARLANE_THEFT" position="[-2489.1, -2447.2, 60.2]" />
+      <location UNK_813B03CC="Rathskeller Fork" id="CHU_RATHSKELLER_THEFT" position="[-5232.1, -2156.3, 11.1]" />
+      <location UNK_813B03CC="Fort Mercer" id="CHU_FORT_MERCER_THEFT" position="[-4153.1, -3377.1, 39.3]" />
+    </mission>
+    <mission UNK_813B03CC="Coach Holdup (Robbery) Intro" type="COACH_HOLDUP_ROBBERY_INTRO">
+      <location UNK_813B03CC="Lower Montana River" id="CHU_LMRIVER_1" position="[-2531.43, -1367.326, 150.325]">
+        <UNK_31870B95>
+          <UNK_6807AA00 position="[-1815.997, -2397.28, 42.16]" />
+        </UNK_31870B95>
+      </location>
+    </mission>
+    <mission UNK_813B03CC="Coach Holdup (Kidnapping)" type="COACH_HOLDUP_KIDNAP">
+      <location UNK_813B03CC="Rhodes" id="CHU_RHODES_1" position="[1546.535, -1274.72, 52.9545]" />
+      <location UNK_813B03CC="Armadillo" id="CHU_ARMADILLO" position="[-3715.4, -2612.2, -13.5]" />
+      <location UNK_813B03CC="Great Plains 1" id="CHU_GREATPLAINS_1" position="[-1802.233, -1707.86, 99.1867]" />
+      <location UNK_813B03CC="Great Plains 2" id="CHU_GREATPLAINS_2" position="[-1434.802, -2317.638, 42.045]" />
+      <location UNK_813B03CC="Heartlands" id="CHU_HEARTLANDS_1" position="[-142.598, -195.117, 92.779]" />
+      <location UNK_813B03CC="Lagras" id="CHU_LAGRAS" position="[2634.622, -90.936, 46.893]" />
+      <location UNK_813B03CC="Valentine" id="CHU_VALENTINE" position="[-152.88, 588.3285, 111.9272]" />
+      <location UNK_813B03CC="Tumbleweed" id="CHU_TUMBLEWEED_1" position="[-5248.625, -3168.439, -18.6312]" />
+      <location UNK_813B03CC="Emerald Station" id="CHU_EMERALD_STATION" position="[2134.625, 1009.942, 109.485]" />
+      <location UNK_813B03CC="Saint Denis" id="CHU_SAINT_DENIS" position="[2653.214, -1059.676, 45.727]" />
+      <location UNK_813B03CC="Lemoyne" id="CHU_LEMOYNE" position="[1254.615, -1264.818, 74.318]" />
+      <location UNK_813B03CC="Scarlett Meadows" id="CHU_SCARLETT_MEADOWS" position="[1671.331, -480.123, 46.426]" />
+    </mission>
+    <mission UNK_813B03CC="Coach Holdup (Kidnapping) Intro" type="COACH_HOLDUP_KIDNAP_INTRO">
+      <location UNK_813B03CC="Rhodes" id="CHU_RHODES_1" position="[1546.535, -1274.72, 52.9545]" />
+      <location UNK_813B03CC="Saint Denis" id="CHU_SAINT_DENIS" position="[2653.214, -1059.676, 45.727]" />
+    </mission>
+  </missions>
+</root>

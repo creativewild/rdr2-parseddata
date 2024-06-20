@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_55DB8A90>
+    <versions>
+      <version id="1.03" />
+    </versions>
+    <zones>
+      <zone UNK_71E6DE57="1" UNK_14427759="false" UNK_E73C69B1="0.0" UNK_D9D1CEDC="0.0" UNK_EFA67A81="0.0" UNK_88ACFA4E="10.0" UNK_D1CC2184="10.0" height="2.0" UNK_97B41572="0" index="0" UNK_C6CB964C="false" UNK_7B5351BD="" UNK_B4A9F4D4="" UNK_9EA26942="2.7" UNK_70498C91="0.0" x1="0.0" x2="8.0" UNK_43F130B3="0.0" UNK_7F247680="785.4" UNK_6DE3D3FF="60.0" UNK_8281CFBE="786.2" UNK_A0DF3421="115.271" UNK_6B79C957="102.0" UNK_3D66C993="115.271" />
+    </zones>
+    <scenes>
+      <scene UNK_C45F9BF2="0" scenename="script@specialped@dalemaroney@leadin@1@dalemaroney1bed" UNK_5EA95DD1="false" />
+      <scene UNK_C45F9BF2="1" scenename="script@specialped@dalemaroney@leadin@1@dalemaroney1end_base" UNK_5EA95DD1="false" />
+    </scenes>
+    <entities>
+      <entity UNK_766694D3="0.0" UNK_C43F6820="false" index="0" model="382040614" UNK_3809BF34="" weapon="0" />
+      <entity UNK_766694D3="0.0" UNK_C43F6820="false" index="1" model="225514697" UNK_3809BF34="" weapon="0" />
+    </entities>
+    <cutscenes>
+      <cutscene cutname="" UNK_CA4B747="1" UNK_5EE4F054="0" UNK_D9832406="0" UNK_D59EFBF2="false" />
+    </cutscenes>
+    <behaviours>
+      <behaviour animscene="0" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="0" UNK_DC71B730="false" UNK_77360A2F="0" loop="false" master="false" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="7" when="2" who="0" zone="0" />
+      <behaviour animscene="0" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="1" UNK_DC71B730="false" UNK_77360A2F="0" loop="false" master="true" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="13" when="3" who="0" zone="0" />
+      <behaviour animscene="1" UNK_E336E40F="2" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="2" UNK_DC71B730="false" UNK_77360A2F="0" loop="false" master="false" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="13" when="7" who="0" zone="11" />
+    </behaviours>
+    <cameras text="" />
+  </UNK_55DB8A90>
+</root>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4A1A2EA>
+    <camp name="ROA_0" pos="[1920.909, -103.2144, 58.07399]" zone="1">
+      <preset recipe="CFRT_FOLIAGE_DECIDUOUS_LRG1" />
+    </camp>
+    <camp name="ROA_1" pos="[2448.583, 0.5031, 43.66256]" zone="1">
+      <preset recipe="CFRT_FISHERMAN_LRG1" />
+    </camp>
+    <camp UNK_DA3CFFD1="true" name="ROA_2 Robbery" pos="[2549.317, -25.06045, 46.38906]" zone="2">
+      <preset recipe="CFRT_FOLIAGE_DECIDUOUS_LRG1" />
+    </camp>
+    <camp name="ROA_3" pos="[2104.725, 68.68465, 68.81693]" zone="2">
+      <preset recipe="CFRT_FOLIAGE_DECIDUOUS_SML1" />
+    </camp>
+    <camp UNK_DA3CFFD1="true" name="ROA_4 Robbery" pos="[2396.398, 109.282, 46.16212]" zone="2">
+      <preset recipe="CFRT_FOLIAGE_DECIDUOUS_LRG1" />
+    </camp>
+    <camp base="HASH_PROPSET_1" UNK_D43B0E78="amb_camp_roa_story_rhodes" name="ROA_5 STY-Rhodes" pos="[2466.642, 111.1795, 44.3441]" story="CSH_RHODES_STORY" />
+    <camp base="HASH_PROPSET_1" UNK_D43B0E78="amb_camp_roa_creep01" name="ROA_6 STY-Creeper" pos="[1853.183, 173.269, 97.47]" story="CSH_CREEPER_STORY" />
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_roa_story_pigfarm" name="ROA_8 STY-PigFarm" pos="[1846.083, 937.2869, 120.1505]" story="CSH_PIG_FARM_STORY" />
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_roa_story_princess" name="ROA_9 STY-Princess" pos="[2378.768, 1074.173, 83.96527]" story="CSH_PRINCESS_STORY" />
+    <camp name="ROA_11" pos="[2517.198, 1697.483, 86.43518]" zone="1">
+      <preset recipe="CFRT_FISHERMAN_SML2" />
+    </camp>
+    <camp name="ROA_12" pos="[3045.048, 1705.888, 68.83978]" zone="1">
+      <preset recipe="CFRT_HOBO_LRG1" />
+    </camp>
+    <camp name="ROA_14" pos="[2740.822, 1962.598, 160.814]" zone="1">
+      <preset recipe="CFRT_FANCY_MED1" />
+    </camp>
+    <camp name="ROA_15 Scavenger (Cougar)" pos="[2787.48, 2338.386, 156.2681]" schedule="HSID_SCAVENGER" zone="1">
+      <preset recipe="CFRT_ABANDONED_MED1" />
+    </camp>
+    <camp UNK_D43B0E78="blu_2_rope_end" name="BLU_2" pos="[2244.111, -285.2383, 42.1666]" zone="2">
+      <preset recipe="CFRT_UNIQUE_TREE_TIE1" />
+    </camp>
+  </UNK_B4A1A2EA>
+</root>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <location center="[873.1, 1070.7, 120.9]" id="CARMODYDELL">
+    <volumes>
+      <ranch>
+        <placement id="volSphere" size="[70.0, 70.0, 70.0]" spawn_heading="0.0" spawn_position="[898.8396, 1107.596, 121.7394]" />
+      </ranch>
+    </volumes>
+  </location>
+</root>

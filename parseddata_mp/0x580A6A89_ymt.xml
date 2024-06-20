@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_8A585321>
+    <UNK_12BD8EE6>
+      <camp boundary="FREEMODE_BOUNDARY" id="MPINTRO_CAMP_RHODES_01">
+        <UNK_10061C07 name="PROP_HitchingPost" position="[2279.898, -838.9932, 40.5774]" />
+      </camp>
+      <camp boundary="FREEMODE_BOUNDARY" id="MPINTRO_CAMP_RHODES_02">
+        <UNK_10061C07 name="PROP_HitchingPost" position="[1781.001, -1019.063, 40.6771]" />
+        <UNK_2E7C51A2>
+          <UNK_DE7FB95E bushes="true" center="[1773.247, -1042.623, 40.703]" debris="true" flowers="true" grass="true" UNK_493A1340="true" radius="1.0" UNK_BB1A43F4="true" type="CULL" UNK_DE981A04="true" />
+          <UNK_DE7FB95E bushes="true" center="[1774.82, -1043.478, 40.727]" debris="true" flowers="true" grass="true" UNK_493A1340="true" radius="1.0" UNK_BB1A43F4="true" type="CULL" UNK_DE981A04="true" />
+          <UNK_DE7FB95E bushes="true" center="[1772.053, -1041.603, 40.712]" debris="true" flowers="true" grass="true" UNK_493A1340="true" radius="1.0" UNK_BB1A43F4="true" type="CULL" UNK_DE981A04="true" />
+        </UNK_2E7C51A2>
+      </camp>
+      <camp boundary="FREEMODE_BOUNDARY" id="MPINTRO_CAMP_RHODES_03">
+        <UNK_10061C07 name="PROP_HitchingPost" position="[2599.883, -159.6135, 42.7928]" />
+      </camp>
+      <camp boundary="FREEMODE_BOUNDARY" id="MPINTRO_CAMP_RHODES_04">
+        <UNK_10061C07 name="PROP_HitchingPost" position="[2279.898, -838.9932, 40.5774]" />
+      </camp>
+      <camp boundary="FREEMODE_BOUNDARY" id="MPINTRO_CAMP_RHODES_05">
+        <UNK_10061C07 name="PROP_HitchingPost" position="[2036.092, -1703.688, 40.6656]" />
+      </camp>
+    </UNK_12BD8EE6>
+    <UNK_FDFFDA08>
+      <volume category="STANDARD" id="FREEMODE_BOUNDARY">
+        <component position="[2671.571, -805.835, 126.217]" rotation="[0.0, 0.0, 0.0]" scale="[620.0, 1600.0, 200.0]" type="volBox" />
+        <component position="[2071.807, -1386.118, 126.217]" rotation="[0.0, 0.0, 0.0]" scale="[600.0, 800.0, 200.0]" type="volBox" />
+        <component position="[2211.838, -711.235, 126.217]" rotation="[0.0, 0.0, 0.0]" scale="[400.0, 800.0, 200.0]" type="volBox" />
+        <component position="[1854.584, -991.897, 126.217]" rotation="[0.0, 0.0, 0.0]" scale="[400.0, 420.0, 200.0]" type="volBox" />
+        <component position="[1733.778, -1386.785, 126.217]" rotation="[0.0, 0.0, 10.741]" scale="[400.0, 800.0, 200.0]" type="volBox" />
+        <component position="[2047.091, -809.956, 126.217]" rotation="[0.0, 0.0, -40.681]" scale="[200.0, 300.0, 200.0]" type="volBox" />
+        <component position="[2387.563, -329.385, 126.217]" rotation="[0.0, 0.0, -40.681]" scale="[200.0, 300.0, 200.0]" type="volBox" />
+        <component position="[1708.955, -949.631, 126.217]" rotation="[0.0, 0.0, 6.529]" scale="[140.46, 291.149, 200.0]" type="volCylinder" />
+        <component position="[2082.48, -430.897, 126.217]" rotation="[0.0, 0.0, -18.51]" scale="[140.46, 184.349, 200.0]" type="volCylinder" />
+      </volume>
+    </UNK_FDFFDA08>
+    <horse_shop id="SHOP_SDN_HORSE_SHOP">
+      <UNK_C4AFBC33 heading="168.6" position="[2501.59, -1462.003, 46.2163]" />
+      <UNK_280A471A heading="168.6" position="[2501.323, -1470.115, 46.099]" />
+      <UNK_A1CCB061>
+        <door id="SD_CARRIAGE_ENTR_01_L" />
+        <door id="SD_CARRIAGE_ENTR_01_R" />
+      </UNK_A1CCB061>
+    </horse_shop>
+    <UNK_798732B5>
+      <UNK_5B2A3B2B help="MPFT_HELP_GENERAL_STORE" UNK_8FA64094="BLIP_SHOP_STORE" UNK_C7773D76="BLIP_STYLE_SHOP" id="FREEMODE_INTRO__SHOT1" length="12500">
+        <UNK_B72403F5 interior="false" position="[2809.53, -1299.665, 46.5272]" radius="40.0" />
+        <UNK_198C8474 end="[2809.146, -1303.18, 49.1237]" graph="GRAPH_TYPE_SIN_ACCEL_DECEL" start="[2808.344, -1302.649, 49.2521]" />
+        <UNK_BF922913 end="[-7.6068, 0.0, -123.4397]" graph="GRAPH_TYPE_SIN_ACCEL_DECEL" start="[-7.6068, 0.0, -123.4397]" />
+        <UNK_C5943791 end="51.2509" start="51.2509" />
+      </UNK_5B2A3B2B>
+      <UNK_5B2A3B2B help="MPFT_HELP_GUNSMITH" id="FREEMODE_INTRO__SHOT2" length="12500">
+        <UNK_B72403F5 interior="false" position="[2729.908, -1278.213, 49.6273]" radius="40.0" />
+        <UNK_198C8474 end="[2730.463, -1277.245, 51.8869]" graph="GRAPH_TYPE_SIN_ACCEL_DECEL" start="[2730.836, -1277.021, 51.9286]" />
+        <UNK_BF922913 end="[-5.4665, 0.0, 120.8879]" graph="GRAPH_TYPE_SIN_ACCEL_DECEL" start="[-5.4665, 0.0, 120.8879]" />
+        <UNK_C5943791 end="51.2509" start="51.2509" />
+      </UNK_5B2A3B2B>
+      <UNK_5B2A3B2B help="MPFT_HELP_GUN_FOR_HIRE" UNK_8FA64094="BLIP_MP_GUN_FOR_HIRE" UNK_C7773D76="BLIP_STYLE_MP_MISSION_GIVER" id="FREEMODE_INTRO__SHOT3" length="12500">
+        <UNK_B72403F5 interior="true" position="[2743.707, -1394.242, 46.1831]" radius="40.0" />
+        <UNK_198C8474 end="[2747.043, -1393.384, 47.1191]" graph="GRAPH_TYPE_SIN_ACCEL_DECEL" start="[2746.978, -1393.087, 47.1663]" />
+        <UNK_BF922913 end="[-8.8008, 0.0, -167.7502]" graph="GRAPH_TYPE_SIN_ACCEL_DECEL" start="[-8.8008, 0.0, -167.7502]" />
+        <UNK_C5943791 end="51.2509" start="51.2509" />
+      </UNK_5B2A3B2B>
+      <UNK_5B2A3B2B help="MPFT_HELP_SERIES" id="FREEMODE_INTRO__SHOT4" length="12500">
+        <UNK_B72403F5 interior="false" position="[2826.311, -1374.623, 44.5573]" radius="40.0" />
+        <UNK_198C8474 end="[2827.644, -1375.449, 45.3737]" graph="GRAPH_TYPE_LINEAR" start="[2827.286, -1375.28, 45.4384]" />
+        <UNK_BF922913 end="[-9.2829, 0.0, -115.1312]" graph="GRAPH_TYPE_LINEAR" start="[-9.2829, 0.0, -115.1312]" />
+        <UNK_C5943791 end="51.2509" start="51.2509" />
+        <prop model="971068958" position="[2831.129, -1377.207, 43.622]" rotation="[0.0, 0.0, 227.154]" />
+      </UNK_5B2A3B2B>
+    </UNK_798732B5>
+    <UNK_35AB8FE>
+      <UNK_D7A3EE60 id="FREEMODE_INTRO">
+        <UNK_5B2A3B2B id="FREEMODE_INTRO__SHOT1" />
+        <UNK_5B2A3B2B id="FREEMODE_INTRO__SHOT2" />
+        <UNK_5B2A3B2B id="FREEMODE_INTRO__SHOT3" />
+        <UNK_5B2A3B2B id="FREEMODE_INTRO__SHOT4" />
+      </UNK_D7A3EE60>
+    </UNK_35AB8FE>
+  </UNK_8A585321>
+</root>

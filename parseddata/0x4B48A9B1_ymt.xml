@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4A1A2EA>
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_hrt_story_cannibal" name="HRT_0 STY-Cannibal" pos="[495.1535, -290.6365, 143.3338]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_1" story="CSH_CANNIBAL_STORY" />
+    <camp name="HRT_1" pos="[-683.825, 405.944, 98.183]" zone="1">
+      <preset recipe="CFRT_GENERIC_LRG_BED" />
+    </camp>
+    <camp UNK_DA3CFFD1="true" name="HRT_2 Robbery" pos="[1437.195, 585.468, 86.624]" zone="1">
+      <preset recipe="CFRT_HUNTER_MED1" />
+    </camp>
+    <camp name="HRT_3" pos="[482.8061, -716.7781, 41.10171]" zone="1">
+      <preset recipe="CFRT_FISHERMAN_SML2" />
+    </camp>
+    <camp name="HRT_4" pos="[32.51, -679.646, 41.845]" zone="1">
+      <preset recipe="CFRT_FISHERMAN_MED1" />
+    </camp>
+    <camp name="HRT_5" pos="[179.855, -646.3071, 41.15624]" zone="2">
+      <preset recipe="CFRT_FISHERMAN_MED1" />
+    </camp>
+    <camp name="HRT_6" pos="[-546.0676, -624.9115, 41.01733]" zone="2">
+      <preset recipe="CFRT_FISHERMAN_LRG1" />
+    </camp>
+    <camp name="HRT_7" pos="[-495.9743, -581.4591, 41.30201]" zone="2">
+      <preset recipe="CFRT_FISHERMAN_SML1" />
+    </camp>
+    <camp name="HRT_8" pos="[-364.0769, -576.9738, 41.04376]" zone="2">
+      <preset recipe="CFRT_DBL_FISHERMAN" />
+    </camp>
+    <camp name="HRT_9" pos="[115.5672, -603.0594, 41.73539]" zone="1">
+      <preset recipe="CFRT_GENERIC_LRG_LIGHT" />
+    </camp>
+    <camp name="HRT_10" pos="[-265.949, -568.16, 40.994]" zone="1">
+      <preset recipe="CFRT_FANCY_MED2" />
+    </camp>
+    <camp name="HRT_11" pos="[-219.4504, -561.9579, 41.07809]" zone="1">
+      <preset recipe="CFRT_HERBALIST_SML1" />
+    </camp>
+    <camp name="HRT_12" pos="[27.05715, -557.4023, 49.90836]" zone="1">
+      <preset recipe="CFRT_RANCHER_LRG1" />
+    </camp>
+    <camp base="HASH_PROPSET_1" UNK_D43B0E78="amb_camp_hrt_story_chelonian" name="HRT_13 STY-Chelonian" pos="[-702.307, -465.0844, 40.64299]" schedule="HSID_CHELONIAN" story="CSH_CHELONIAN_STORY" />
+    <camp name="HRT_14" pos="[-452.5241, -459.3314, 75.7037]" zone="2">
+      <preset recipe="CFRT_GENERIC_MED_LIGHT" />
+    </camp>
+    <camp name="HRT_15" pos="[-579.6792, -341.4986, 81.39197]" zone="2">
+      <preset recipe="CFRT_GENERIC_MED_LIGHT" />
+    </camp>
+    <camp name="HRT_16" pos="[268.35, -63.65599, 106.9243]" zone="1">
+      <preset recipe="CFRT_HUNTER_LRG1" />
+    </camp>
+    <camp name="HRT_17" pos="[1055.145, -8.996603, 85.46394]" zone="1">
+      <preset recipe="CFRT_HUNTER_LRG1" />
+    </camp>
+    <camp name="HRT_18" pos="[523.3091, 119.2032, 138.4316]" zone="2">
+      <preset recipe="CFRT_HERBALIST_LRG1" />
+    </camp>
+    <camp name="HRT_20" pos="[-860.0233, 181.8161, 91.54334]" zone="2">
+      <preset recipe="CFRT_GENERIC_MED_LEAN" />
+    </camp>
+    <camp UNK_188B7457="CAMPFIRE_PROP_ADD_LAYOUT_AGRO_HRT" base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_hrt_agro" name="HRT_21 Agro" pos="[-329.598, 185.9814, 62.61813]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_5" />
+    <camp name="HRT_22" pos="[-795.8221, 234.6414, 94.624]" zone="2">
+      <preset recipe="CFRT_DBL_CONIFEROUS" />
+    </camp>
+    <camp name="HRT_23" pos="[-194.4355, 216.5328, 94.99113]" zone="2">
+      <preset recipe="CFRT_FANCY_LRG1" />
+    </camp>
+    <camp name="HRT_24" pos="[-643.9529, 268.1349, 89.91756]" zone="1">
+      <preset recipe="CFRT_FOLIAGE_CONIFEROUS_LRG1" />
+    </camp>
+    <camp name="HRT_25" pos="[62.54831, 478.2175, 155.9936]" zone="1">
+      <preset recipe="CFRT_ABANDONED_LRG1" />
+    </camp>
+    <camp name="HRT_26" pos="[-567.2916, 579.0692, 101.7165]" zone="1">
+      <preset recipe="CFRT_ROUGH_MED1" />
+    </camp>
+    <camp name="HRT_27" pos="[-525.632, 584.204, 102.5281]" zone="1">
+      <preset recipe="CFRT_FANCY_SML1" />
+    </camp>
+    <camp name="HRT_28" pos="[1211.364, 652.7075, 101.133]" zone="1">
+      <preset recipe="CFRT_FANCY_LRG1" />
+    </camp>
+    <camp name="HRT_29" pos="[-52.5815, 812.1794, 191.5827]" zone="2">
+      <preset recipe="CFRT_HOBO_MED1" />
+    </camp>
+    <camp name="HRT_30" pos="[267.4816, 870.4498, 185.8605]" zone="2">
+      <preset recipe="CFRT_RANCHER_LRG1" />
+    </camp>
+    <camp UNK_D43B0E78="hrt_31_rope_ends" name="HRT_31" pos="[978.8549, 988.0117, 148.7319]" zone="1">
+      <preset recipe="CFRT_UNIQUE_TREE_TIE1" />
+    </camp>
+    <camp name="HRT_32" pos="[730.8968, -43.33945, 156.153]" zone="2">
+      <preset recipe="CFRT_DBL_HUNTER" />
+    </camp>
+    <camp name="HRT_33" pos="[660.1984, 12.8926, 154.1276]" zone="1">
+      <preset recipe="CFRT_GENERIC_SML_LEAN" />
+    </camp>
+    <camp name="HRT_34" pos="[819.4227, 440.2863, 106.9529]" zone="2">
+      <preset recipe="CFRT_DBL_GENERIC1" />
+    </camp>
+    <camp UNK_DA3CFFD1="true" name="HRT_35 Robbery" pos="[-1020.356, 161.6024, 89.06911]" zone="3">
+      <preset recipe="CFRT_GENERIC_LRG_BED" />
+    </camp>
+    <camp name="CMF_2" pos="[199.4206, 715.551, 184.245]" zone="1">
+      <preset recipe="CFRT_FANCY_MED2" />
+    </camp>
+    <camp name="CMF_12" pos="[24.34479, 891.9021, 210.1736]" zone="1">
+      <preset recipe="CFRT_DBL_GENERIC3" />
+    </camp>
+    <camp UNK_188B7457="CAMPFIRE_PROP_ADD_LAYOUT_ROBBERY_BGV" UNK_DA3CFFD1="true" base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_bgv_robbery" name="BGV_14 Robbery" pos="[-566.102, 145.28, 43.752]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_2" />
+    <camp UNK_D43B0E78="amb_camp_bgv_cave" name="BGV_15" pos="[-1185.657, 327.7307, 42.96345]" zone="1">
+      <preset recipe="CFRT_GENERIC_MED_LIGHT" />
+    </camp>
+    <camp base="HASH_PROPSET_1" UNK_D43B0E78="amb_camp_roa_creep01" name="ROA_6 STY-Creeper" pos="[1853.183, 173.269, 97.47]" story="CSH_CREEPER_STORY" />
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_roa_story_pigfarm" name="ROA_8 STY-PigFarm" pos="[1846.083, 937.2869, 120.1505]" story="CSH_PIG_FARM_STORY" />
+  </UNK_B4A1A2EA>
+</root>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4A1A2EA>
+    <camp name="HEN_0" pos="[-3030.673, -3060.828, 4.964023]" zone="2">
+      <preset recipe="CFRT_RANCHER_LRG1" />
+    </camp>
+    <camp name="HEN_1 STY-Tumbleweed" pos="[-2562.166, -2923.827, 69.21062]" story="CSH_TUMBLEWEED_STORY" zone="2">
+      <preset recipe="CFRT_RANCHER_LRG1" />
+    </camp>
+    <camp name="HEN_2" pos="[-2542.869, -2895.076, 70.0419]" zone="2">
+      <preset recipe="CFRT_DBL_HUNTER" />
+    </camp>
+    <camp name="HEN_3" pos="[-2873.19, -2858.557, 88.85822]" zone="1">
+      <preset recipe="CFRT_GENERIC_MED_LEAN" />
+    </camp>
+    <camp UNK_D43B0E78="hen_4_rope_ends" name="HEN_4" pos="[-2536.993, -2860.911, 70.19837]" zone="2">
+      <preset recipe="CFRT_UNIQUE_TREE_TIE2" />
+    </camp>
+    <camp name="HEN_5" pos="[-2279.367, -2843.167, 60.66909]" UNK_A8EAF664="SPID_SUN_WORSHIPPER" UNK_20C80E0="0" zone="1">
+      <preset recipe="CFRT_FANCY_LRG1" />
+    </camp>
+    <camp name="HEN_6" pos="[-2389.667, -2795.147, 65.57684]" UNK_A8EAF664="SPID_SUN_WORSHIPPER" UNK_20C80E0="0" zone="2">
+      <preset recipe="CFRT_UNIQUE_TREE_TIE1" />
+    </camp>
+    <camp name="HEN_7" pos="[-2817.745, -2635.485, 87.2812]" zone="1">
+      <preset recipe="CFRT_HUNTER_SML1" />
+    </camp>
+    <camp name="HEN_8" pos="[-2256.796, -2600.979, 68.16894]" zone="1">
+      <preset recipe="CFRT_DBL_GENERIC3" />
+    </camp>
+    <camp name="HEN_9" pos="[-1558.427, -2586.706, 64.19134]" zone="1">
+      <preset recipe="CFRT_FOLIAGE_DRY_GRASS_SML1" />
+    </camp>
+    <camp name="HEN_10 STY-Armadillo" pos="[-3185.62, -2463.492, 72.22705]" story="CSH_ARMADILLO_STORY" zone="3">
+      <preset cluster="pg_ambient_camp_add_debris01" core="pg_ambient_campfire01ax" id="HEN_10 STY-Armadillo" tent="pg_ambcamp01x_tent_scrub" travel="pg_ambient_camp_add_pack01" />
+    </camp>
+    <camp name="HEN_11" pos="[-2753.281, -2441.331, 72.86351]" zone="1">
+      <preset recipe="CFRT_ABANDONED_LRG1" />
+    </camp>
+    <camp name="HEN_12" pos="[-2700.721, -2357.772, 45.51137]" UNK_7BF5E826="amb_camp_hen_012" zone="2">
+      <preset recipe="CFRT_HOBO_LRG1" />
+    </camp>
+    <camp UNK_DA3CFFD1="true" name="HEN_13 Robbery" pos="[-2696.916, -2264.432, 81.25787]" zone="2">
+      <preset recipe="CFRT_HERBALIST_LRG1" />
+    </camp>
+    <camp name="HEN_14" pos="[-2274.649, -2222.449, 68.20701]" zone="2">
+      <preset recipe="CFRT_FANCY_SML1" />
+    </camp>
+    <camp camper="Fancy" name="HEN_15" pos="[-2846.258, -2165.252, 71.7175]" zone="2">
+      <preset cluster="pg_ambient_camp_add_makeshiftTable01" core="pg_ambient_campfire01ax" id="HEN_15" tent="pg_ambcamp01x_tent_ground05" travel="pg_ambient_camp_add_PackCart05" />
+    </camp>
+    <camp camper="Fancy" name="HEN_16" pos="[-1977.878, -2892.343, 14.92192]" zone="1">
+      <preset cluster="pg_ambient_camp_add_clothesline01" core="pg_ambient_campfire01ax" id="HEN_16" tent="pg_ambcamp01x_tent_ground06" />
+    </camp>
+    <camp base="HASH_PROPSET_1" UNK_D43B0E78="amb_camp_hen_story_harlow" name="HEN_17 STY-RedHarlow" pos="[-1967.109, -2708.611, 66.92551]" story="CSH_RED_HARLOW_STORY" />
+    <camp name="HEN_18" pos="[-1576.223, -2710.079, 65.19524]" zone="1">
+      <preset recipe="CFRT_GENERIC_MED_LEAN" />
+    </camp>
+    <camp name="HEN_19" pos="[-1343.033, -2589.14, 72.45986]" zone="2">
+      <preset recipe="CFRT_GENERIC_MED_LEAN" />
+    </camp>
+    <camp name="HEN_20" pos="[-3033.404, -2239.378, 71.45528]" zone="1">
+      <preset recipe="CFRT_HOBO_LRG1" />
+    </camp>
+    <camp name="HEN_21" pos="[-2926.443, -3234.065, -0.628535]" zone="2">
+      <preset recipe="CFRT_FOLIAGE_DRY_GRASS_SML1" />
+    </camp>
+    <camp name="HEN_22" pos="[-2487.012, -3176.937, -1.054441]" zone="1">
+      <preset recipe="CFRT_HERBALIST_LRG1" />
+    </camp>
+    <camp name="HEN_23" pos="[-2588.79, -3066.609, 10.56877]" zone="1">
+      <preset recipe="CFRT_RANCHER_LRG1" />
+    </camp>
+    <camp name="CHO_3" pos="[-3000.969, -2956.322, 24.16992]" zone="2">
+      <preset recipe="CFRT_DBL_GENERIC1" />
+    </camp>
+  </UNK_B4A1A2EA>
+</root>

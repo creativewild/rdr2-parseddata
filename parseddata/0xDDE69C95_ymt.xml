@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4A1A2EA>
+    <camp base="HASH_PROPSET_3" UNK_D43B0E78="AMB_CAMP_BGV_HUNT01" name="BGV_0 DBL" pos="[-1669.88, 296.6453, 105.4715]" />
+    <camp UNK_188B7457="CAMPFIRE_PROP_ADD_LAYOUT_GLAMP" base="HASH_PROPSET_1_A" dog="true" horse="false" UNK_D43B0E78="AMB_CAMP_BGV_GLAMP01" name="BGV_2 Fisherman and Dog" pos="[-1911.527, -1081.425, 74.94867]" schedule="HSID_FORAGER_1" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_1" zone="2" />
+    <camp UNK_188B7457="CAMPFIRE_PROP_ADD_LAYOUT_EXPLORE" base="HASH_PROPSET_1_A" friendly="true" UNK_D43B0E78="AMB_CAMP_BGV_EXPLR01" name="BGV_3 Map Maker" pos="[-771.4603, -956.4453, 57.41802]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_2" tint="CTSG_PUP_SWAMP_1" zone="1" />
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="AMB_CAMP_BGV_DRUNK01" name="BGV_4 Drunk" pos="[-1106.321, -828.0113, 57.18276]" schedule="HSID_FISHERMAN_3" />
+    <camp base="HASH_PROPSET_3" UNK_D43B0E78="AMB_CAMP_BGV_006" name="BGV_6 Trappers" pos="[-2125.4, -570.41, 135.618]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_3_1" tint="CTSG_TRAPPER_1" />
+    <camp base="HASH_PROPSET_1" UNK_D43B0E78="AMB_CAMP_BGV_BASKET" mission="UTP1" name="BGV_7" pos="[-1470.439, -481.2832, 129.7087]" />
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="AMB_CAMP_BGV_GOLD01" name="BGV_8 Gold Panner" pos="[-2759.475, -322.2629, 148.9228]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_4" tint="CTSG_GOLD_PANNER_1" />
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_bgv_Mount_View_1" name="BGV_9" pos="[-2453.729, -256.0954, 167.9235]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_2" />
+    <camp base="HASH_PROPSET_1" UNK_D43B0E78="AMB_CAMP_BGV_DEAD01" name="BGV_10 Dead" pos="[-2218.443, -294.5674, 175.811]" schedule="HSID_DEAD" />
+    <camp base="HASH_PROPSET_1_A" friendly="true" horse="false" UNK_D43B0E78="AMB_CAMP_BGV_OVRHANG" mission="UTP2" name="BGV_11 Hiker" pos="[-1528.56, -306.796, 141.4257]" schedule="HSID_HIKER_CAVE" />
+    <camp base="HASH_PROPSET_1" UNK_D43B0E78="amb_camp_bgv_Mount_View_2" name="BGV_12" pos="[-1233.586, -88.57207, 83.62101]" />
+    <camp base="HASH_PROPSET_1_A" horse="false" UNK_D43B0E78="AMB_CAMP_BGV_CANOE01" name="BGV_13 Canoe" pos="[-1234.962, 157.5102, 44.78442]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_2" />
+    <camp UNK_188B7457="CAMPFIRE_PROP_ADD_LAYOUT_ROBBERY_BGV" UNK_DA3CFFD1="true" base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_bgv_robbery" name="BGV_14 Robbery" pos="[-566.102, 145.28, 43.752]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_2" />
+    <camp UNK_D43B0E78="amb_camp_bgv_cave" name="BGV_15" pos="[-1182.98, 326.0052, 42.7946]" zone="1">
+      <preset recipe="CFRT_GENERIC_MED_LIGHT" />
+    </camp>
+    <camp UNK_188B7457="CAMPFIRE_PROP_ADD_LAYOUT_STATION02" base="HASH_PROPSET_5" UNK_D43B0E78="AMB_CAMP_BGV_WAGON01" name="BGV_16 Wagon Buddies" pos="[-2723.107, 164.9856, 158.4616]" zone="2" />
+    <camp base="HASH_PROPSET_1" UNK_D43B0E78="amb_camp_hrt_story_chelonian" name="HRT_13 STY-Chelonian" pos="[-702.307, -465.0844, 40.64299]" schedule="HSID_CHELONIAN" story="CSH_CHELONIAN_STORY" />
+    <camp UNK_DA3CFFD1="true" name="HRT_35 Robbery" pos="[-1020.356, 161.6024, 89.06911]" zone="3">
+      <preset recipe="CFRT_GENERIC_LRG_BED" />
+    </camp>
+  </UNK_B4A1A2EA>
+</root>

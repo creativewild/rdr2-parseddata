@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <location center="[1712.7, 895.9, 114.4]" id="ABERDEEN_FARM">
+    <volumes>
+      <house>
+        <placement id="volBox" size="[16.16239, 12.43884, 10.30522]" spawn_heading="16.49048" spawn_position="[1653.37, 948.1151, 116.0269]" />
+      </house>
+      <blocking>
+        <placement id="volBox" size="[20.16239, 16.43884, 12.30522]" spawn_heading="16.49048" spawn_position="[1653.37, 948.1151, 105.0269]" />
+      </blocking>
+    </volumes>
+  </location>
+</root>

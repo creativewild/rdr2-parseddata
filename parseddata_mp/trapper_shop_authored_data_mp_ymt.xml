@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_1AF9B630 id="ST_TRAPPER">
+    <region id="REGION_BAY_SAINT_DENIS">
+      <vector data="[2836.489, -1222.748, 46.6611]" id="clothingPosition" />
+      <float data="176.7892" id="clothingHeading" />
+      <vector data="[2835.617, -1224.86, 47.8681]" id="catClothingCamPos" />
+      <vector data="[-6.322, 0.0, -2.9113]" id="catClothingCamRot" />
+    </region>
+    <region id="REGION_BGV_BLACKBONEFOREST_TRAPPER">
+      <vector data="[-2839.477, 142.8981, 183.0072]" id="clothingPosition" />
+      <float data="176.6" id="clothingHeading" />
+      <vector data="[-2840.356, 140.7891, 184.2142]" id="catClothingCamPos" />
+      <vector data="[-7.5, 0.0, -4.1]" id="catClothingCamRot" />
+    </region>
+    <region id="REGION_BGV_DAKOTARIVER_TRAPPER">
+      <vector data="[-1007.8, -549.5, 98.4068]" id="clothingPosition" />
+      <float data="0.0" id="clothingHeading" />
+      <vector data="[-1005.528, -549.7426, 99.6138]" id="catClothingCamPos" />
+      <vector data="[-4.6, 0.0, 94.3]" id="catClothingCamRot" />
+    </region>
+    <region id="REGION_ROA_TRAPPER">
+      <vector data="[2079.6, 1011.0, 112.4401]" id="clothingPosition" />
+      <float data="0.0" id="clothingHeading" />
+      <vector data="[2079.044, 1008.784, 113.6471]" id="catClothingCamPos" />
+      <vector data="[-7.5, 0.0, 8.6]" id="catClothingCamRot" />
+    </region>
+    <region id="REGION_CHO_TRAPPER">
+      <vector data="[-4723.588, -2944.346, -20.1371]" id="clothingPosition" />
+      <float data="113.5098" id="clothingHeading" />
+      <vector data="[-4725.85, -2945.253, -19.2608]" id="catClothingCamPos" />
+      <vector data="[2.0588, 0.0, -55.6386]" id="catClothingCamRot" />
+    </region>
+    <region id="REGION_TAL_TRAPPER">
+      <vector data="[-2258.361, -1918.387, 115.9983]" id="clothingPosition" />
+      <float data="0.0" id="clothingHeading" />
+      <vector data="[-2256.076, -1918.397, 117.2053]" id="catClothingCamPos" />
+      <vector data="[-6.6, 0.0, 109.7]" id="catClothingCamRot" />
+    </region>
+  </UNK_1AF9B630>
+</root>

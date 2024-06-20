@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <location center="[-2381.8, -913.7, 159.7]" id="COCHINAY">
+    <volumes>
+      <prison>
+        <building text="" />
+        <cells text="" />
+      </prison>
+      <UNK_BA392662>
+        <placement id="volBox" size="[5.0, 8.900001, 5.0]" spawn_heading="0.0" spawn_position="[-1805.252, -335.5082, 166.7058]" />
+      </UNK_BA392662>
+    </volumes>
+    <props>
+      <UNK_BA392662>
+        <UNK_16C66C34 text="" />
+      </UNK_BA392662>
+    </props>
+    <doors>
+      <prison text="" />
+    </doors>
+  </location>
+</root>

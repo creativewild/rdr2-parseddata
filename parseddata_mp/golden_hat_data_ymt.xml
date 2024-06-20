@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_CD5F206>
+    <location id="CHOLLA_SPRINGS_00">
+      <UNK_2AFDF36>
+        <position spawn_position="[-3452.491, -2359.648, -6.0574]" />
+        <position spawn_position="[-3510.727, -2375.258, -14.03564]" />
+        <position spawn_position="[-3526.436, -2308.828, -12.53882]" />
+        <position spawn_position="[-3464.316, -2287.582, -4.05749]" />
+        <position spawn_position="[-3443.513, -2315.928, -4.95548]" />
+        <position spawn_position="[-3483.491, -2320.89, -5.69913]" />
+        <position spawn_position="[-3497.53, -2290.384, -5.08807]" />
+      </UNK_2AFDF36>
+    </location>
+    <location id="CUMBERLAND_FOREST_00">
+      <UNK_2AFDF36>
+        <position spawn_position="[525.4209, 1300.355, 180.8441]" />
+        <position spawn_position="[595.074, 1268.27, 200.1135]" />
+        <position spawn_position="[559.8522, 1220.182, 186.4921]" />
+        <position spawn_position="[522.4047, 1249.236, 180.6969]" />
+        <position spawn_position="[549.7646, 1338.562, 180.9352]" />
+        <position spawn_position="[491.1759, 1233.701, 180.0977]" />
+        <position spawn_position="[494.6613, 1280.298, 181.4372]" />
+      </UNK_2AFDF36>
+    </location>
+    <location id="HEARTLANDS_00">
+      <UNK_2AFDF36>
+        <position spawn_position="[713.773, 113.2853, 151.269]" />
+        <position spawn_position="[632.5027, 105.3051, 158.1454]" />
+        <position spawn_position="[668.744, 145.028, 157.1956]" />
+        <position spawn_position="[582.8283, 92.09896, 153.028]" />
+        <position spawn_position="[590.5864, 39.92698, 147.006]" />
+        <position spawn_position="[690.2527, 66.80764, 151.0125]" />
+      </UNK_2AFDF36>
+    </location>
+    <location id="ROANOKE_00">
+      <UNK_2AFDF36>
+        <position spawn_position="[2611.157, 2159.639, 170.1053]" />
+        <position spawn_position="[2624.424, 2121.283, 172.9702]" />
+        <position spawn_position="[2647.713, 2146.645, 169.5423]" />
+        <position spawn_position="[2549.158, 2187.098, 171.705]" />
+        <position spawn_position="[2606.753, 2239.081, 160.4388]" />
+        <position spawn_position="[2642.521, 2182.503, 162.1491]" />
+        <position spawn_position="[2657.558, 2231.392, 158.3609]" />
+        <position spawn_position="[2589.417, 2134.946, 170.2643]" />
+      </UNK_2AFDF36>
+    </location>
+    <location id="SCARLETT_MEADOWS_00">
+      <UNK_2AFDF36>
+        <position spawn_position="[1706.458, -390.8857, 48.65068]" />
+        <position spawn_position="[1710.685, -413.942, 47.87839]" />
+        <position spawn_position="[1753.101, -412.6584, 47.10403]" />
+        <position spawn_position="[1782.01, -404.666, 45.69021]" />
+        <position spawn_position="[1754.968, -386.0228, 48.47873]" />
+        <position spawn_position="[1726.338, -455.8098, 46.9373]" />
+        <position spawn_position="[1762.256, -468.2996, 44.75873]" />
+      </UNK_2AFDF36>
+    </location>
+    <location id="TALL_TREES_00">
+      <UNK_2AFDF36>
+        <position spawn_position="[-2060.712, -1921.881, 112.2741]" />
+        <position spawn_position="[-2101.918, -1863.287, 129.4923]" />
+        <position spawn_position="[-2036.55, -1909.877, 109.1458]" />
+        <position spawn_position="[-2034.703, -1922.495, 108.2998]" />
+        <position spawn_position="[-2106.317, -1917.515, 114.5123]" />
+        <position spawn_position="[-2081.467, -1895.645, 112.3675]" />
+        <position spawn_position="[-2046.901, -1899.348, 109.8427]" />
+      </UNK_2AFDF36>
+    </location>
+    <location id="WEST_ELIZABETH_00">
+      <UNK_2AFDF36>
+        <position spawn_position="[-1826.307, -581.8308, 154.909]" />
+        <position spawn_position="[-1791.828, -580.2775, 154.9705]" />
+        <position spawn_position="[-1822.638, -623.2796, 153.8761]" />
+        <position spawn_position="[-1752.867, -547.9872, 152.72]" />
+        <position spawn_position="[-1742.943, -577.2907, 156.9756]" />
+        <position spawn_position="[-1861.166, -568.1541, 159.0771]" />
+        <position spawn_position="[-1762.263, -624.0484, 144.4958]" />
+      </UNK_2AFDF36>
+      <UNK_8BB781EA>
+        <volume UNK_29A87379="[0.0, 0.0, 34.0]" UNK_CE5541F4="[-1659.106, -449.337, 160.0]" UNK_7A56DF2="[150.0, 135.0, 42.0]" />
+      </UNK_8BB781EA>
+    </location>
+    <location id="SAINT_DENIS_00">
+      <UNK_2AFDF36>
+        <position spawn_position="[2577.987, -1202.473, 52.92427]" />
+        <position spawn_position="[2730.103, -1256.755, 48.79643]" />
+        <position spawn_position="[2688.515, -1121.972, 49.68281]" />
+        <position spawn_position="[2574.842, -1106.632, 50.46598]" />
+        <position spawn_position="[2651.175, -1272.437, 51.30094]" />
+        <position spawn_position="[2665.656, -1213.011, 52.31149]" />
+        <position spawn_position="[2711.527, -1191.003, 50.67562]" />
+        <position spawn_position="[2566.409, -1263.08, 50.43739]" />
+        <position spawn_position="[2754.044, -1159.615, 48.00628]" />
+      </UNK_2AFDF36>
+    </location>
+    <location id="BLACKWATER_00">
+      <UNK_2AFDF36>
+        <position spawn_position="[-858.0377, -1337.475, 43.48622]" />
+        <position spawn_position="[-832.555, -1309.959, 42.63947]" />
+        <position spawn_position="[-831.9523, -1271.367, 42.58855]" />
+        <position spawn_position="[-871.455, -1308.598, 42.0136]" />
+        <position spawn_position="[-904.6329, -1351.956, 43.08549]" />
+        <position spawn_position="[-826.1555, -1358.313, 42.65319]" />
+        <position spawn_position="[-800.8801, -1309.01, 42.54966]" />
+        <position spawn_position="[-875.1597, -1271.688, 42.47585]" />
+      </UNK_2AFDF36>
+    </location>
+    <location id="VALENTINE_00">
+      <UNK_2AFDF36>
+        <position spawn_position="[-264.0002, 680.8962, 112.2912]" />
+        <position spawn_position="[-234.9141, 800.7574, 122.7409]" />
+        <position spawn_position="[-324.9779, 728.3245, 116.2482]" />
+        <position spawn_position="[-262.5114, 763.1251, 117.1498]" />
+        <position spawn_position="[-356.7653, 788.3201, 115.1465]" />
+        <position spawn_position="[-272.3052, 830.4543, 117.851]" />
+        <position spawn_position="[-214.9503, 730.1172, 118.8469]" />
+        <position spawn_position="[-198.4345, 839.6391, 131.9824]" />
+      </UNK_2AFDF36>
+    </location>
+  </UNK_CD5F206>
+</root>

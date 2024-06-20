@@ -1,0 +1,1257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data>
+    <UNK_FCAC7D18>
+      <UNK_AD305933 id="WOLF_KILL_WOLVES">
+        <text id="SHARD_TEAM_PRIMARY_INTRO" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_TEAM_PRIMARY_INTRO" />
+        <text id="SHARD_TEAM_PRIMARY_INTRO_PLURAL" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_TEAM_PRIMARY_INTRO" />
+        <text id="SHARD_TEAM_PRIMARY_PASS" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_PRIMARY_PASS" />
+        <text id="SHARD_TEAM_PRIMARY_PASS_PLURAL" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_PRIMARY_PASS" />
+        <text id="SHARD_TEAM_PRIMARY_PASS_PARTIAL" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_PRIMARY_PASS_PARTIAL" />
+        <text id="SHARD_DESTROYED" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_DESTROYED" />
+        <text id="SHARD_DESTROYED_PLURAL" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_DESTROYED" />
+        <text id="SHARD_FAIL_ENTITY_KILLED" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_DESTROYED" />
+        <text id="SHARD_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_POSSE_ABANDONED" />
+        <text id="SHARD_YOUR_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOUR_POSSE_ABANDONED" />
+        <text id="SHARD_YOU_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOU_ABANDONED" />
+        <text id="SHARD_OUTSIDE_CLEANUP_RADIUS" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_ESCAPED" />
+        <text id="HELP_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_HELP_TEAM_PRIMARY" />
+        <text id="HELP_TEAM_PRIMARY_PLURAL" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_HELP_TEAM_PRIMARY" />
+        <text id="HELP_SEARCH_AREA" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH" />
+        <text id="HELP_SEARCH_CLUE_FOUND" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_CLUE_FOUND" />
+        <text id="HELP_DISMOUNT" UNK_EC4B42F9="FETCH_NAT_SIGHT_HELP_DISMOUNT" />
+        <text id="HELP_OBJECTIVE_DEAD" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_HELP_OBJECTIVE_DEAD" />
+        <text id="HELP_OBJECTIVE_SKINNABLE" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_HELP_SKIN" />
+        <text id="HELP_INVESTIGATE_SOUND" UNK_EC4B42F9="FETCH_NAT_SIGHT_HELP_INVESTIGATE_SOUND_WOLF" />
+        <text id="HELP_DEAD_END" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_CLUE_DEAD_END" />
+        <text id="HELP_OBJECTIVE_ESCAPING_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_HELP_OBJECTIVE_ESCAPING" />
+        <text id="HELP_AMMO_BOX_SEDATIVE_ROUNDS" UNK_EC4B42F9="FETCH_NAT_SIGHT_HELP_SEDATIVE_ROUNDS" />
+        <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_OBJ_FIND" />
+        <text id="OBJ_FIND_PLURAL" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_OBJ_FIND" />
+        <text id="OBJ_SEARCH_AREA" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_OBJ_SEARCH" />
+        <text id="OBJ_GO_TO_0" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_OBJ_GOTO" />
+        <text id="OBJ_LOOT" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_OBJ_LOOT" />
+        <text id="OBJ_KILL_ATTACKERS" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_OBJ_KILL_ATTACKERS" />
+        <text id="OBJ_RETURN_TO_MISSION" UNK_EC4B42F9="FETCH_NAT_SIGHT_RETURN_TO_MISSION" />
+        <text id="OBJ_UNTIE" UNK_EC4B42F9="FETCH_OBJ_LA_FREE_WOLF" />
+        <text id="OBJ_LA_FREE" UNK_EC4B42F9="FETCH_OBJ_LA_FREE_WOLF" />
+        <text id="OBJ_LA_SEDATE" UNK_EC4B42F9="FETCH_OBJ_LA_SEDATE_WOLF" />
+        <text id="OBJ_LA_SAMPLE" UNK_EC4B42F9="FETCH_OBJ_LA_SAMPLE_WOLF" />
+        <text id="OBJ_LA_SKIN" UNK_EC4B42F9="FETCH_OBJ_LA_SKIN_WOLF" />
+        <text id="OBJ_WAIT_FOR_POSSE" UNK_EC4B42F9="FETCH_OBJ_LA_WAIT_FOR_POSSE_WOLF" />
+        <text id="HELP_LA_SEDATE" UNK_EC4B42F9="FETCH_HELP_LA_SEDATE" />
+        <text id="HELP_LA_SAMPLE" UNK_EC4B42F9="FETCH_HELP_LA_SAMPLE" />
+        <text id="HELP_LA_SAMPLE_POSSE" UNK_EC4B42F9="FETCH_HELP_LA_SAMPLE_POSSE" />
+        <text id="HELP_LA_SKIN" UNK_EC4B42F9="FETCH_HELP_LA_SKIN_WOLF" />
+        <text id="SCORETIMER_JOIN_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_NAT_SIGHTING_SCORETIMER_PRIMARY_JOIN" />
+        <text id="SCORETIMER_CLUE_INSPECTED" UNK_EC4B42F9="FETCH_NAT_SIGHTING_SCORETIMER_CLUE_INSPECTED" />
+        <text id="CTX_INSPECT_CLUE" UNK_EC4B42F9="FETCH_NAT_SIGHTING_INSPECT_CLUE_WOLF" />
+        <text id="CTX_LOOK_AT_CLUE" UNK_EC4B42F9="FETCH_NAT_SIGHTING_HELP_LOOK_AT_CLUE_WOLF" />
+      </UNK_AD305933>
+      <UNK_AD305933 id="WOLF_CAGE">
+        <text id="SHARD_TEAM_PRIMARY_INTRO" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_TEAM_PRIMARY_INTRO" />
+        <text id="SHARD_TEAM_PRIMARY_INTRO_PLURAL" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_TEAM_PRIMARY_INTRO" />
+        <text id="SHARD_TEAM_PRIMARY_PASS" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_PRIMARY_PASS" />
+        <text id="SHARD_TEAM_PRIMARY_PASS_PLURAL" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_PRIMARY_PASS" />
+        <text id="SHARD_TEAM_PRIMARY_PASS_PARTIAL" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_PRIMARY_PASS_PARTIAL" />
+        <text id="SHARD_DESTROYED" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_DESTROYED" />
+        <text id="SHARD_DESTROYED_PLURAL" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_DESTROYED" />
+        <text id="SHARD_FAIL_ENTITY_KILLED" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_DESTROYED" />
+        <text id="SHARD_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_POSSE_ABANDONED" />
+        <text id="SHARD_YOUR_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOUR_POSSE_ABANDONED" />
+        <text id="SHARD_YOU_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOU_ABANDONED" />
+        <text id="SHARD_OUTSIDE_CLEANUP_RADIUS" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_SHARD_ESCAPED" />
+        <text id="HELP_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_HELP_TEAM_PRIMARY" />
+        <text id="HELP_TEAM_PRIMARY_PLURAL" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_HELP_TEAM_PRIMARY" />
+        <text id="HELP_SEARCH_AREA" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH" />
+        <text id="HELP_SEARCH_CLUE_FOUND" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_CLUE_FOUND" />
+        <text id="HELP_DISMOUNT" UNK_EC4B42F9="FETCH_NAT_SIGHT_HELP_DISMOUNT" />
+        <text id="HELP_OBJECTIVE_DEAD" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_HELP_OBJECTIVE_DEAD" />
+        <text id="HELP_OBJECTIVE_SKINNABLE" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_HELP_SKIN" />
+        <text id="HELP_INVESTIGATE_SOUND" UNK_EC4B42F9="FETCH_NAT_SIGHT_HELP_INVESTIGATE_SOUND_WOLF" />
+        <text id="HELP_DEAD_END" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_CLUE_DEAD_END" />
+        <text id="HELP_OBJECTIVE_ESCAPING_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_HELP_OBJECTIVE_ESCAPING" />
+        <text id="HELP_AMMO_BOX_SEDATIVE_ROUNDS" UNK_EC4B42F9="FETCH_NAT_SIGHT_HELP_SEDATIVE_ROUNDS" />
+        <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_OBJ_FIND" />
+        <text id="OBJ_FIND_PLURAL" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_OBJ_FIND" />
+        <text id="OBJ_SEARCH_AREA" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_OBJ_SEARCH" />
+        <text id="OBJ_GO_TO_0" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_OBJ_GOTO" />
+        <text id="OBJ_LOOT" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_OBJ_LOOT" />
+        <text id="OBJ_KILL_ATTACKERS" UNK_EC4B42F9="FETCH_NAT_SIGHT_WOLF_OBJ_KILL_ATTACKERS_CAGE" />
+        <text id="OBJ_RETURN_TO_MISSION" UNK_EC4B42F9="FETCH_NAT_SIGHT_RETURN_TO_MISSION" />
+        <text id="OBJ_UNTIE" UNK_EC4B42F9="FETCH_OBJ_LA_FREE_WOLF_CAGE" />
+        <text id="OBJ_LA_FREE" UNK_EC4B42F9="FETCH_OBJ_LA_FREE_WOLF_CAGE" />
+        <text id="OBJ_LA_SEDATE" UNK_EC4B42F9="FETCH_OBJ_LA_SEDATE_WOLF" />
+        <text id="OBJ_LA_SAMPLE" UNK_EC4B42F9="FETCH_OBJ_LA_SAMPLE_WOLF" />
+        <text id="OBJ_LA_SKIN" UNK_EC4B42F9="FETCH_OBJ_LA_SKIN_WOLF" />
+        <text id="OBJ_WAIT_FOR_POSSE" UNK_EC4B42F9="FETCH_OBJ_LA_WAIT_FOR_POSSE_WOLF" />
+        <text id="HELP_LA_SEDATE" UNK_EC4B42F9="FETCH_HELP_LA_SEDATE" />
+        <text id="HELP_LA_SAMPLE" UNK_EC4B42F9="FETCH_HELP_LA_SAMPLE" />
+        <text id="HELP_LA_SAMPLE_POSSE" UNK_EC4B42F9="FETCH_HELP_LA_SAMPLE_POSSE" />
+        <text id="HELP_LA_SKIN" UNK_EC4B42F9="FETCH_HELP_LA_SKIN_WOLF" />
+        <text id="SCORETIMER_JOIN_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_NAT_SIGHTING_SCORETIMER_PRIMARY_JOIN" />
+        <text id="SCORETIMER_CLUE_INSPECTED" UNK_EC4B42F9="FETCH_NAT_SIGHTING_SCORETIMER_CLUE_INSPECTED" />
+        <text id="CTX_INSPECT_CLUE" UNK_EC4B42F9="FETCH_NAT_SIGHTING_INSPECT_CLUE_WOLF" />
+        <text id="CTX_LOOK_AT_CLUE" UNK_EC4B42F9="FETCH_NAT_SIGHTING_HELP_LOOK_AT_CLUE_WOLF" />
+      </UNK_AD305933>
+    </UNK_FCAC7D18>
+    <locations>
+      <location UNK_32220272="true" UNK_F96C66F9="true" UNK_7676A094="false" UNK_66557D80="50.0" UNK_62B5EBF="false" UNK_F7D4EB03="true" UNK_AFBB68B5="15000" UNK_CA9B5AD8="10000" id="NATURALIST_SIGHTING_WOLF_INTRO" UNK_7C1FCD5E="MODEL_CONFIG_GRIZZLIES" UNK_C0F9D21B="MUSIC_NATURALIST_SIGHTING" UNK_21B34E9A="true" UNK_979DA565="true" UNK_FDC87390="true" UNK_AE6A1BBB="true" UNK_60ABDD7F="true" UNK_D0883472="false" UNK_E603B9D2="30000" UNK_5AB5EF23="900000" UNK_C38B35E2="true" UNK_45FA832B="true" UNK_6CA47BC2="true" UNK_17CC0711="false" UNK_E7B32F19="true">
+        <UNK_AE702DE config="WOLF_KILL_WOLVES" />
+        <UNK_1D77EF7D UNK_D69F9601="false" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_PICKUP_ICONS" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_AFA1A396="true" UNK_789CDB6C="true" id="VOL_HOWL_TRIGGER">
+            <config position="[175.959, 1341.068, 113.306]" rotation="[0.0, 0.0, 0.0]" scale="[145.0, 145.0, 113.306]" type="CYLINDER" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_SIGHTING_GO_TO" role="GO_TO_SYNCED">
+            <config UNK_6E9EE4FB="FETCH_BLIP_SIGHTING_LOCATION" UNK_7FD08239="FETCH_GOTO_SIGHTING" position="[196.499, 1267.817, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config UNK_6E9EE4FB="FETCH_BLIP_SIGHTING_LOCATION" UNK_7FD08239="FETCH_GOTO_SIGHTING" position="[204.675, 1286.21, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[45.0, 45.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_WAGON_SEARCH" role="SEARCH_AFTER_ENTERED">
+            <config UNK_6E9EE4FB="FETCH_BLIP_SIGHTING_LOCATION" UNK_7FD08239="FETCH_GOTO_SIGHTING" position="[196.499, 1267.817, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config UNK_6E9EE4FB="FETCH_BLIP_SIGHTING_LOCATION" UNK_7FD08239="FETCH_GOTO_SIGHTING" position="[204.675, 1286.21, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[45.0, 45.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_HORSE_SEARCH" UNK_E7B44FF2="VOL_WAGON_SEARCH" role="SEARCH_AFTER_ENTERED">
+            <config position="[218.306, 1400.38, 166.36]" rotation="[0.0, 0.0, 0.0]" scale="[70.0, 60.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config position="[218.306, 1408.624, 166.36]" rotation="[0.0, 0.0, 0.0]" scale="[53.995, 41.412, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_BODY_SEARCH" UNK_E7B44FF2="VOL_HORSE_SEARCH" role="SEARCH_AFTER_ENTERED">
+            <config position="[73.606, 1327.941, 171.031]" rotation="[0.0, 0.0, 0.0]" scale="[55.0, 55.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config position="[73.606, 1327.941, 171.031]" rotation="[0.0, 0.0, 0.0]" scale="[35.0, 35.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_WOLF_SEARCH" UNK_E7B44FF2="VOL_BODY_SEARCH" role="SEARCH_AFTER_ENTERED">
+            <config position="[-3.216, 1485.469, 124.513]" rotation="[0.0, 0.0, 0.0]" scale="[50.0, 50.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config position="[-3.216, 1485.469, 124.513]" rotation="[0.0, 0.0, 0.0]" scale="[40.0, 40.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_AFA1A396="true" UNK_789CDB6C="true" id="VOL_WOLF_WAVES" UNK_E7B44FF2="VOL_WOLF_SEARCH">
+            <config position="[45.784, 1656.313, 135.401]" rotation="[0.0, 0.0, 2.243]" scale="[47.691, 35.0, 25.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_SPECIES" UNK_AFA1A396="true" id="VOL_AVOIDANCE">
+            <UNK_EF905929>
+              <UNK_BBAE85B4 species="SPECIES_BEAR" />
+            </UNK_EF905929>
+            <config position="[29.291, 1661.457, 130.627]" rotation="[0.0, 0.0, 2.243]" scale="[99.548, 94.608, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="VOL_MISSION_BOUNDS" role="MISSION_BOUNDS_AREA">
+            <config position="[187.297, 1183.973, 217.766]" rotation="[0.0, 0.0, 0.0]" scale="[410.0, 410.0, 150.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="VOL_DEFENSIVE">
+            <config position="[43.42775, 1615.59, 118.0003]" rotation="[0.0, 0.0, 0.0]" scale="[180.0, 180.0, 300.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="SONAR_PINGED" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="VOL_HOWL_TRIGGER">
+            <UNK_1331CF2C action="DO_SONAR_PING" hash="SONAR_LEGENDARY_ANIMAL_CLUE" position="[176.125, 1303.59, 177.9656]" sound="CALL" soundset="LEGENDARY_WOLF_CALL_SOUNDS" />
+          </trigger>
+          <trigger id="HORSE_INSPECTED" role="ALL_LINKED_CLUES_INSPECTED" />
+          <trigger UNK_45C2EE6F="HORSE_INSPECTED" id="SEARCH_AREA_2_CLEARED" role="ALL_LINKED_CLUES_INSPECTED">
+            <UNK_1331CF2C action="DO_SONAR_PING" hash="" position="[57.4769, 1323.935, 173.7168]" sound="Gun_Shot_Big" soundset="RDRO_NAS_Sounds" />
+          </trigger>
+          <trigger UNK_45C2EE6F="SEARCH_AREA_2_CLEARED" id="BODY_INSPECTED" role="ALL_LINKED_CLUES_INSPECTED" />
+          <trigger UNK_45C2EE6F="BODY_INSPECTED" id="WAVES_ACTIVE" role="ALL_LINKED_CLUES_INSPECTED">
+            <UNK_1331CF2C action="DISABLE_OUT_OF_BOUNDS_RESTRICTION" />
+            <UNK_1331CF2C action="START_MISSION_TIMER" />
+            <UNK_1331CF2C action="DO_SONAR_PING" hash="SONAR_LEGENDARY_ANIMAL_CLUE" position="[42.0149, 1719.487, 132.2964]" sound="CALL" soundset="LEGENDARY_WOLF_CALL_SOUNDS" />
+          </trigger>
+          <trigger UNK_45C2EE6F="WAVES_ACTIVE" id="LEGENDARY_WOLF_SPAWN" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="VOL_WOLF_WAVES">
+            <UNK_1331CF2C action="MARK_OBJECTIVES_FOUND" />
+            <UNK_1331CF2C action="CLEAR_TRAIL_HINT" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="900000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="LEGENDARY_WOLF_DOWN" role="LINKED_PED_INCAPACITATED" />
+        </triggers>
+        <UNK_96A6C39F>
+          <ptfx UNK_4A66C70C="scr_fme_spawn_effects" name="scr_animal_poop_flies" position="[180.658, 1392.191, 165.034]" UNK_4CBB6584="false" />
+          <ptfx UNK_4A66C70C="scr_fme_spawn_effects" name="scr_animal_poop_flies" position="[-24.961, 1513.446, 112.58]" UNK_4CBB6584="false" />
+        </UNK_96A6C39F>
+        <UNK_6BEE8698>
+          <UNK_C34EA4D id="AZ_MP007_Animal_Sightings_Flies" UNK_E357793F="true" position="[180.658, 1392.191, 165.034]" />
+          <UNK_C34EA4D id="AZ_MP007_Animal_Sightings_Flies" UNK_E357793F="true" position="[-24.961, 1513.446, 112.58]" />
+        </UNK_6BEE8698>
+        <objectives>
+          <objective config="LEGENDARY_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_71854169="[41.8775, 1718.795, 132.0205]" UNK_CA822909="VOL_DEFENSIVE" outfit="META_OUTFIT_MP_LEGENDARY_WOLF_03" UNK_6FAF17B8="0.15" spawn_heading="182.6013" spawn_position="[41.8775, 1718.795, 132.0205]" UNK_B78360CD="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="SHOW_BLIP" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="PLAY_ANIMAL_VOCALIZATION" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="AGGRO" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="ON_THE_HUNT_CLUE_DEAD_HORSE" UNK_A595AF4B="30000" UNK_F5D3F1EC="PED" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_HORSE_TRAIL" UNK_CA822909="VOL_WAGON_SEARCH" outfit="MP_ONTHEHUNT_DEADHORSE_06" spawn_heading="320.7761" spawn_position="[175.3058, 1303.193, 178.0057]">
+            <UNK_89976A47>
+              <UNK_A85B4463 id="HORSE_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard UNK_D1AEC922="false" config="ON_THE_HUNT_CLUE_DEAD_HORSE" UNK_F5D3F1EC="PED" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_HORSE" UNK_AD4E358A="true" UNK_CA822909="VOL_HORSE_SEARCH" outfit="MP_ONTHEHUNT_DEADHORSE_03" spawn_heading="238.491" spawn_position="[206.1634, 1371.139, 170.1131]" />
+          <guard config="SIGHTING_CLUE_BROKEN_TENT_NO_POG" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_TENT" UNK_AD4E358A="true" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_HORSE_SEARCH" spawn_position="[205.845, 1413.609, 167.233]" UNK_100B5E15="[0.0, 355.8, 7.2]" />
+          <guard config="NAT_SIGHTING_CLUE_DYING_POACHER" UNK_F5D3F1EC="PED" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_ATTACK_VICTIM_CLUE" UNK_E2A4987A="4" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_BODY_SEARCH" UNK_7BA579E4="MP_U_M_M_DYINGPOACHER_03" outfit="META_OUTFIT_DEFAULT" spawn_heading="292.2281" spawn_position="[53.32478, 1321.656, 173.1486]">
+            <UNK_89976A47>
+              <UNK_A85B4463 id="BODY_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="SIGHTING_CLUE_WOLF_SCAT" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_WOLF_SCAT" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_HORSE_SEARCH" spawn_position="[180.458, 1392.191, 165.034]" UNK_100B5E15="[352.79, 0.0, 0.0]">
+            <UNK_89976A47>
+              <UNK_A85B4463 id="SEARCH_AREA_2_CLEARED" />
+            </UNK_89976A47>
+          </guard>
+          <guard UNK_D1AEC922="false" config="BOUNTY_TRACKING_CLUE_DEAD_WOLF" UNK_F5D3F1EC="PED" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_WOLF_CORPSE" UNK_AD4E358A="true" UNK_E2A4987A="3" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_WOLF_SEARCH" UNK_7BA579E4="MP_A_C_WOLF_01" outfit="META_OUTFIT_SHOT_01" spawn_heading="227.6658" spawn_position="[-5.6197, 1449.488, 122.0936]" />
+          <guard config="SIGHTING_CLUE_WOLF_KILL" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_CLUE_FRESH_KILL" UNK_E2A4987A="3" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_WOLF_SEARCH" spawn_position="[19.249, 1503.002, 116.401]" UNK_100B5E15="[1.44, 7.2, 116.997]">
+            <UNK_89976A47>
+              <UNK_A85B4463 id="WAVES_ACTIVE" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="SIGHTING_CLUE_BEAR_KILL_NO_POG" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BEAR_KILL" UNK_AD4E358A="true" UNK_E2A4987A="3" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_WOLF_SEARCH" spawn_position="[-24.961, 1513.446, 112.46]" UNK_100B5E15="[177.115, 285.472, 27.719]" />
+          <guard config="ON_THE_HUNT_CLUE_MOOSE" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_DECOMP_BODY" UNK_AD4E358A="true" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_HORSE_SEARCH" spawn_position="[264.838, 1400.748, 175.063]" UNK_100B5E15="[10.08, 0.0, 0.0]" />
+          <guard config="SIGHTING_CLUE_BEAR_RUB_01" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BEAR_RUB" UNK_AD4E358A="true" UNK_E2A4987A="4" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_BODY_SEARCH" spawn_position="[84.546, 1316.879, 171.813]" UNK_100B5E15="[358.72, 354.23, 199.075]" />
+          <guard config="SIGHTING_CLUE_BEAR_TRAP" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BEAR_TRAP" UNK_AD4E358A="true" UNK_E2A4987A="4" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_BODY_SEARCH" spawn_position="[72.617, 1360.825, 158.05]" UNK_100B5E15="[341.521, 0.0, 0.0]" />
+          <guard config="SIGHTING_CLUE_DECOMPOSED_HORSE" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_DECOMP_BODY" UNK_AD4E358A="true" UNK_E2A4987A="4" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_BODY_SEARCH" spawn_position="[93.079, 1337.407, 167.406]" UNK_100B5E15="[13.32, 340.911, 213.474]" />
+          <guard config="WAVE_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" spawn_heading="197.5576" spawn_position="[28.7352, 1667.959, 129.5259]" UNK_B78360CD="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_DOWN" type="FLEE" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="WAVE_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" spawn_heading="183.4093" spawn_position="[49.2465, 1668.532, 124.4319]" UNK_B78360CD="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_DOWN" type="FLEE" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="WAVE_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" spawn_heading="200.2323" spawn_position="[47.6051, 1672.541, 125.5133]" UNK_B78360CD="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_DOWN" type="FLEE" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="FROZEN_TRACKING_LEGENDARY_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_E2A4987A="0" UNK_AF3C7779="OBJECTIVE" outfit="META_OUTFIT_MP_LEGENDARY_WOLF_03" spawn_heading="182.6013" spawn_position="[41.8775, 1718.795, 132.0205]" UNK_B78360CD="false">
+            <UNK_C25BACC6>
+              <UNK_6FA29FB5 id="net_fetch_naturalist_sighting_wolf_wagon" />
+              <UNK_6FA29FB5 id="net_fetch_naturalist_sighting_wolf_scat" />
+              <UNK_6FA29FB5 id="net_fetch_naturalist_sighting_wolf_body" />
+              <UNK_6FA29FB5 id="net_fetch_naturalist_sighting_wolf_kill" />
+            </UNK_C25BACC6>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="HORSE_INSPECTED" UNK_E2A4987A="0" type="ENABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="SEARCH_AREA_2_CLEARED" UNK_E2A4987A="0" type="DISABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="SEARCH_AREA_2_CLEARED" UNK_E2A4987A="1" type="ENABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="BODY_INSPECTED" UNK_E2A4987A="1" type="DISABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="BODY_INSPECTED" UNK_E2A4987A="2" type="ENABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="WAVES_ACTIVE" UNK_E2A4987A="2" type="DISABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="WAVES_ACTIVE" UNK_E2A4987A="3" type="ENABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" UNK_E2A4987A="3" type="DISABLE_WAYPOINT_TRAIL" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="AMMO_BOX_SEDATIVE_ROUNDS_GROUND" UNK_F5D3F1EC="PROP" spawn_position="[178.377, 1310.525, 178.4609]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+        </guards>
+        <UNK_EB3CE09F>
+          <anim_scene config="LAST_WORDS" role="BREAKOUT_ON_PROXIMITY" UNK_75C6AAB="CAMPER" UNK_4B061377="30.0">
+            <UNK_CA9CE014>
+              <UNK_C040F629 id="CAMPER" UNK_E2A4987A="3" UNK_AF3C7779="GUARD" />
+            </UNK_CA9CE014>
+          </anim_scene>
+        </UNK_EB3CE09F>
+        <UNK_5D1EFC39>
+          <prop_set config="STUCK_WAGON_01" placement_type="ALIGN_TO_GROUND" spawn_heading="180.0" spawn_position="[175.893, 1304.633, 177.939]" UNK_CADD94E2="1" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_BOBCATSCAT" spawn_position="[180.658, 1392.191, 165.034]" UNK_100B5E15="[352.79, 0.0, 0.0]" />
+          <static_prop config="AMBIENT_BEAR_KILL" spawn_position="[-25.132, 1513.322, 112.46]" UNK_100B5E15="[352.79, 64.438, 7.2]" />
+          <static_prop config="AMBIENT_FISH_GUTS" spawn_position="[-24.823, 1513.516, 112.528]" UNK_100B5E15="[0.0, 0.0, 17.64]" />
+        </UNK_69FD74EB>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[205.227, 1414.837, 167.319]" UNK_FEBAD66A="3.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[264.838, 1400.748, 175.103]" UNK_FEBAD66A="2.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[72.617, 1360.825, 158.05]" UNK_FEBAD66A="1.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[53.044, 1321.384, 173.078]" UNK_FEBAD66A="2.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[53.132, 1320.419, 172.905]" UNK_FEBAD66A="1.5" type="CULL" />
+        </UNK_1E7FFBD4>
+        <decals>
+          <decal spawn_position="[175.3058, 1303.193, 178.0057]" type="BLOOD_POOL" width="2.5" />
+          <decal spawn_position="[-5.6197, 1449.488, 122.0936]" type="BLOOD_POOL" width="2.5" />
+        </decals>
+        <cutscenes>
+          <cutscene UNK_21A06636="NATURALIST_SIGHTING_CME_INTRO_WOLF_0" UNK_633329DE="NATURALIST_SIGHTING_WOLF_KILL_WOLVES_0_INTRO" id="MISSION_START_SKYLAPSE" UNK_18F9D42A="[448.794, 993.893, 177.671]" UNK_4D7F4E70="FOGGY_MIDNIGHT" type="SKYLAPSE_WITH_CME" />
+          <cutscene id="WOLF_REVEAL" UNK_18F9D42A="[41.8775, 1718.795, 132.0205]" UNK_E2B28D77="LEGENDARY_WOLF_SPAWN">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="12" UNK_1C04038C="GUARD" id="WOLF_0" />
+              <actor UNK_5975C34F="13" UNK_1C04038C="GUARD" id="WOLF_1" />
+              <actor UNK_5975C34F="14" UNK_1C04038C="GUARD" id="WOLF_2" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="LEGENDARY_WOLF" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot anim_scene="script@mp@Naturalist@Animal_Sightings@legendary_wolf">
+                <playlists>
+                  <playlist name="PBL" />
+                </playlists>
+                <UNK_3AECE76F>
+                  <actor id="WOLF_0" UNK_DDA8C3D3="197.5576" UNK_EEFDFFA3="[28.7352, 1667.959, 129.5259]" />
+                  <actor id="WOLF_1" UNK_DDA8C3D3="183.4093" UNK_EEFDFFA3="[49.2465, 1668.532, 124.4319]" />
+                  <actor id="WOLF_2" UNK_DDA8C3D3="172.9066" UNK_EEFDFFA3="[55.1861, 1668.745, 124.8709]" />
+                  <actor id="LEGENDARY_WOLF" UNK_DDA8C3D3="182.6013" UNK_EEFDFFA3="[48.7545, 1685.244, 125.4414]" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="RETURN_TO_GAMEPLAY" />
+              </shot>
+            </shots>
+          </cutscene>
+          <cutscene UNK_633329DE="NATURALIST_SIGHTING_WOLF_OUTRO_0" id="MISSION_END_SKYLAPSE" UNK_F259B128="true" UNK_18F9D42A="[-102.116, 1544.44, 114.91]" type="END_SKYLAPSE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="LEGENDARY_WOLF" />
+            </UNK_3AECE76F>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_32220272="true" UNK_F96C66F9="true" UNK_7676A094="true" UNK_66557D80="50.0" UNK_62B5EBF="false" UNK_F7D4EB03="true" UNK_AFBB68B5="15000" UNK_CA9B5AD8="10000" id="NATURALIST_SIGHTING_WOLF_HUNT_0" UNK_7C1FCD5E="MODEL_CONFIG_GRIZZLIES" UNK_C0F9D21B="MUSIC_NATURALIST_SIGHTING" UNK_21B34E9A="true" UNK_979DA565="true" UNK_FDC87390="true" UNK_AE6A1BBB="true" UNK_60ABDD7F="true" UNK_D0883472="false" UNK_E603B9D2="30000" UNK_5AB5EF23="900000" UNK_C38B35E2="true" UNK_45FA832B="true" UNK_6CA47BC2="true" UNK_17CC0711="false" UNK_E7B32F19="true">
+        <UNK_AE702DE config="WOLF_KILL_WOLVES" />
+        <UNK_1D77EF7D UNK_D69F9601="false" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_PICKUP_ICONS" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_SIGHTING_GO_TO" role="GO_TO_SYNCED">
+            <config UNK_6E9EE4FB="FETCH_BLIP_SIGHTING_LOCATION" UNK_7FD08239="FETCH_GOTO_SIGHTING" position="[164.086, 1221.797, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config UNK_6E9EE4FB="FETCH_BLIP_SIGHTING_LOCATION" UNK_7FD08239="FETCH_GOTO_SIGHTING" position="[164.086, 1221.797, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[45.0, 45.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_AFA1A396="true" UNK_789CDB6C="true" id="VOL_HOWL_TRIGGER">
+            <config position="[160.754, 1218.211, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[120.0, 120.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_DEER_SEARCH" role="SEARCH_AFTER_ENTERED">
+            <config position="[164.086, 1221.797, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config position="[164.086, 1221.797, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[45.0, 45.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_SCAT_SEARCH" UNK_E7B44FF2="VOL_DEER_SEARCH" role="SEARCH_AFTER_ENTERED">
+            <config position="[-30.951, 1355.513, 183.228]" rotation="[0.0, 0.0, 0.0]" scale="[85.0, 85.0, 20.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config position="[-30.951, 1355.513, 183.228]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 20.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_HORSE_SEARCH" UNK_E7B44FF2="VOL_SCAT_SEARCH" role="SEARCH_AFTER_ENTERED">
+            <config position="[-3.216, 1485.469, 124.513]" rotation="[0.0, 0.0, 0.0]" scale="[60.0, 60.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config position="[-3.216, 1485.469, 124.513]" rotation="[0.0, 0.0, 0.0]" scale="[40.0, 40.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_SPECIES" UNK_AFA1A396="true" id="VOL_AVOIDANCE">
+            <UNK_EF905929>
+              <UNK_BBAE85B4 species="SPECIES_BEAR" />
+            </UNK_EF905929>
+            <config position="[29.291, 1661.457, 130.627]" rotation="[0.0, 0.0, 2.243]" scale="[99.548, 94.608, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_AFA1A396="true" UNK_789CDB6C="true" id="VOL_WOLVES_SPAWN" UNK_E7B44FF2="VOL_HORSE_SEARCH">
+            <config position="[24.957, 1594.491, 115.283]" rotation="[0.0, 0.0, -9.471]" scale="[29.0, 15.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="VOL_MISSION_BOUNDS" role="MISSION_BOUNDS_AREA">
+            <config position="[187.297, 1183.973, 217.766]" rotation="[0.0, 0.0, 0.0]" scale="[400.0, 400.0, 150.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="VOL_DEFENSIVE">
+            <config position="[-59.089, 1644.726, 133.6613]" rotation="[0.0, 0.0, 0.0]" scale="[180.0, 180.0, 300.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="SONAR_PINGED" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="VOL_HOWL_TRIGGER">
+            <UNK_1331CF2C action="DO_SONAR_PING" hash="SONAR_LEGENDARY_ANIMAL_CLUE" position="[180.1028, 1257.459, 185.4231]" sound="CALL" soundset="LEGENDARY_WOLF_CALL_SOUNDS" />
+          </trigger>
+          <trigger id="DEER_INSPECTED" role="ALL_LINKED_CLUES_INSPECTED" />
+          <trigger UNK_45C2EE6F="DEER_INSPECTED" id="SCAT_INSPECTED" role="ALL_LINKED_CLUES_INSPECTED" />
+          <trigger UNK_45C2EE6F="SCAT_INSPECTED" id="HORSE_INSPECTED" role="ALL_LINKED_CLUES_INSPECTED" />
+          <trigger UNK_45C2EE6F="SCAT_INSPECTED" id="AMBUSH_2_SPAWN" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="VOL_HORSE_SEARCH">
+            <UNK_1331CF2C action="DISABLE_OUT_OF_BOUNDS_RESTRICTION" />
+            <UNK_1331CF2C action="START_MISSION_TIMER" />
+          </trigger>
+          <trigger UNK_45C2EE6F="HORSE_INSPECTED" id="LEGENDARY_WOLF_SPAWN" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="VOL_WOLVES_SPAWN">
+            <UNK_1331CF2C action="MARK_OBJECTIVES_FOUND" />
+            <UNK_1331CF2C action="CLEAR_TRAIL_HINT" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="900000" />
+          </trigger>
+          <trigger UNK_45C2EE6F="LEGENDARY_WOLF_SPAWN" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="LEGENDARY_WOLF_DOWN" role="LINKED_PED_INCAPACITATED" />
+        </triggers>
+        <UNK_96A6C39F>
+          <ptfx UNK_4A66C70C="scr_fme_spawn_effects" name="scr_animal_poop_flies" position="[132.7383, 1216.815, 183.8937]" UNK_4CBB6584="false" />
+          <ptfx UNK_4A66C70C="scr_fme_spawn_effects" name="scr_animal_poop_flies" position="[-67.7999, 1319.19, 173.4353]" UNK_4CBB6584="false" />
+        </UNK_96A6C39F>
+        <UNK_6BEE8698>
+          <UNK_C34EA4D id="AZ_MP007_Animal_Sightings_Flies" UNK_E357793F="true" position="[132.7383, 1216.815, 183.8937]" />
+          <UNK_C34EA4D id="AZ_MP007_Animal_Sightings_Flies" UNK_E357793F="true" position="[-67.7999, 1319.19, 173.4353]" />
+        </UNK_6BEE8698>
+        <objectives>
+          <objective config="LEGENDARY_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_71854169="[-59.089, 1644.726, 133.6613]" UNK_CA822909="VOL_DEFENSIVE" outfit="META_OUTFIT_MP_LEGENDARY_WOLF_03" UNK_6FAF17B8="0.15" spawn_heading="219.1393" spawn_position="[-59.089, 1644.726, 133.6613]" UNK_B78360CD="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="SHOW_BLIP" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="PLAY_ANIMAL_VOCALIZATION" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="AGGRO" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="BOUNTY_TRACKING_CLUE_DEAD_DEER" UNK_F5D3F1EC="PED" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_DEER_TRAIL" UNK_CA822909="VOL_DEER_SEARCH" UNK_7BA579E4="MP_A_C_DEER_01" outfit="META_OUTFIT_SCAVENGED_01" spawn_heading="158.93" spawn_position="[180.1028, 1257.459, 185.4231]">
+            <UNK_89976A47>
+              <UNK_A85B4463 id="DEER_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="SIGHTING_CLUE_BEAR_RUB_01" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BEAR_RUB" UNK_AD4E358A="true" UNK_CA822909="VOL_DEER_SEARCH" spawn_position="[149.629, 1196.646, 182.285]" UNK_100B5E15="[357.11, 358.55, 71.638]" />
+          <guard config="SIGHTING_CLUE_BEAR_SCAT" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BEAR_SCAT" UNK_AD4E358A="true" UNK_CA822909="VOL_DEER_SEARCH" spawn_position="[132.7383, 1216.815, 183.8937]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <guard config="SIGHTING_CLUE_BROKEN_STICKS_S" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_STICKS" UNK_AD4E358A="true" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_SCAT_SEARCH" spawn_position="[3.1603, 1346.725, 173.5887]" UNK_100B5E15="[0.0, 0.0, 310.0]" />
+          <guard config="SIGHTING_CLUE_WOLF_SCAT_POG" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_WOLF_SCAT" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_SCAT_SEARCH" spawn_position="[-67.7999, 1319.19, 173.4353]" UNK_100B5E15="[0.0, 0.0, 0.0]">
+            <UNK_89976A47>
+              <UNK_A85B4463 id="SCAT_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="SIGHTING_CLUE_DECOMPOSED_COUGAR" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_DECOMP_BODY" UNK_AD4E358A="true" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_SCAT_SEARCH" spawn_position="[-15.332, 1377.203, 176.497]" UNK_100B5E15="[11.88, 354.23, 0.0]" />
+          <guard config="SIGHTING_CLUE_BEAR_KILL_NO_POG" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BEAR_KILL" UNK_AD4E358A="true" UNK_E2A4987A="4" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_WOLF_SEARCH" spawn_position="[-24.961, 1513.446, 112.46]" UNK_100B5E15="[177.115, 285.472, 27.719]" />
+          <guard UNK_D1AEC922="false" config="ON_THE_HUNT_CLUE_DEAD_HORSE" UNK_F5D3F1EC="PED" UNK_E2A4987A="4" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_HORSE_SEARCH" outfit="MP_ONTHEHUNT_DEADHORSE_04" spawn_heading="326.8098" spawn_position="[12.5966, 1514.113, 114.4176]">
+            <UNK_89976A47>
+              <UNK_A85B4463 id="HORSE_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="WAVE_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" spawn_heading="253.3655" spawn_position="[-28.4109, 1625.144, 128.2455]" UNK_B78360CD="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_DOWN" type="FLEE" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="WAVE_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" spawn_heading="237.2092" spawn_position="[-36.6831, 1630.806, 130.4898]" UNK_B78360CD="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_DOWN" type="FLEE" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="WAVE_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" spawn_heading="267.5938" spawn_position="[-39.1245, 1607.938, 120.5325]" UNK_B78360CD="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_DOWN" type="FLEE" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="FROZEN_TRACKING_LEGENDARY_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_E2A4987A="0" UNK_AF3C7779="OBJECTIVE" outfit="META_OUTFIT_MP_LEGENDARY_WOLF_03" spawn_heading="182.6013" spawn_position="[41.8775, 1718.795, 132.0205]" UNK_B78360CD="false">
+            <UNK_C25BACC6>
+              <UNK_6FA29FB5 id="net_fetch_naturalist_sighting_wolf_deer" />
+              <UNK_6FA29FB5 id="net_fetch_naturalist_sighting_wolf_scat_2" />
+              <UNK_6FA29FB5 id="net_fetch_naturalist_sighting_wolf_horse" />
+            </UNK_C25BACC6>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="DEER_INSPECTED" UNK_E2A4987A="0" type="ENABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="SCAT_INSPECTED" UNK_E2A4987A="0" type="DISABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="SCAT_INSPECTED" UNK_E2A4987A="1" type="ENABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="HORSE_INSPECTED" UNK_E2A4987A="1" type="DISABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="HORSE_INSPECTED" UNK_E2A4987A="2" type="ENABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" UNK_E2A4987A="2" type="DISABLE_WAYPOINT_TRAIL" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="AMMO_BOX_SEDATIVE_ROUNDS_GROUND" UNK_F5D3F1EC="PROP" spawn_position="[161.851, 1231.582, 187.259]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_BEAR_KILL" spawn_position="[-25.132, 1513.322, 112.46]" UNK_100B5E15="[352.79, 64.438, 7.2]" />
+          <static_prop config="AMBIENT_FISH_GUTS" spawn_position="[-24.823, 1513.516, 112.528]" UNK_100B5E15="[0.0, 0.0, 17.64]" />
+          <static_prop config="SIGHTING_CLUE_BROKEN_TENT_NO_POG" spawn_position="[161.349, 1232.816, 187.1183]" UNK_100B5E15="[356.08, 3.56, 0.0]" />
+        </UNK_69FD74EB>
+        <UNK_554382DA>
+          <UNK_76F238FD spawn_position="[-25.2814, 1318.273, 175.5885]" UNK_4C6EE98D="SCAT_INSPECTED">
+            <UNK_1C7D3F9C config="WAVE_WOLF" UNK_F5D3F1EC="PED" spawn_heading="59.0054" spawn_position="[-27.9096, 1310.636, 175.3351]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C config="WAVE_WOLF" UNK_F5D3F1EC="PED" spawn_heading="43.3326" spawn_position="[-18.0834, 1308.302, 174.294]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C config="WAVE_WOLF" UNK_F5D3F1EC="PED" spawn_heading="46.0331" spawn_position="[-11.029, 1317.917, 174.4389]" UNK_B78360CD="true" />
+          </UNK_76F238FD>
+          <UNK_76F238FD spawn_position="[25.9777, 1491.845, 118.5742]" UNK_4C6EE98D="AMBUSH_2_SPAWN">
+            <UNK_1C7D3F9C config="WAVE_WOLF" UNK_F5D3F1EC="PED" spawn_heading="146.8736" spawn_position="[38.5298, 1498.082, 120.68]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C config="WAVE_WOLF" UNK_F5D3F1EC="PED" spawn_heading="124.4304" spawn_position="[36.5342, 1501.238, 117.7983]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C config="WAVE_WOLF" UNK_F5D3F1EC="PED" spawn_heading="131.5536" spawn_position="[41.672, 1503.055, 118.0002]" UNK_B78360CD="true" />
+          </UNK_76F238FD>
+        </UNK_554382DA>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[132.7383, 1216.815, 183.8937]" UNK_FEBAD66A="1.5" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[-15.332, 1377.203, 176.497]" UNK_FEBAD66A="1.5" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[161.349, 1232.816, 187.221]" UNK_FEBAD66A="2.5" type="CULL" />
+        </UNK_1E7FFBD4>
+        <decals>
+          <decal spawn_position="[180.1028, 1257.459, 185.4231]" type="BLOOD_POOL" width="2.5" />
+          <decal spawn_position="[12.5966, 1514.113, 114.4176]" type="BLOOD_POOL" width="2.5" />
+        </decals>
+        <cutscenes>
+          <cutscene UNK_21A06636="NATURALIST_SIGHTING_CME_INTRO_WOLF_0" UNK_633329DE="NATURALIST_SIGHTING_WOLF_KILL_WOLVES_0_INTRO" id="MISSION_START_SKYLAPSE" UNK_18F9D42A="[448.794, 993.893, 177.671]" UNK_4D7F4E70="FOGGY_MIDNIGHT" type="SKYLAPSE_WITH_CME" />
+          <cutscene UNK_633329DE="NATURALIST_SIGHTING_WOLF_OUTRO_0" id="MISSION_END_SKYLAPSE" UNK_F259B128="true" UNK_18F9D42A="[-102.116, 1544.44, 114.91]" type="END_SKYLAPSE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="LEGENDARY_WOLF" />
+            </UNK_3AECE76F>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_32220272="true" UNK_F96C66F9="true" UNK_7676A094="true" UNK_66557D80="50.0" UNK_62B5EBF="false" UNK_F7D4EB03="true" UNK_AFBB68B5="15000" UNK_CA9B5AD8="10000" id="NATURALIST_SIGHTING_WOLF_HUNT_1" UNK_7C1FCD5E="MODEL_CONFIG_GRIZZLIES" UNK_C0F9D21B="MUSIC_NATURALIST_SIGHTING" UNK_21B34E9A="true" UNK_979DA565="true" UNK_FDC87390="true" UNK_AE6A1BBB="true" UNK_60ABDD7F="true" UNK_D0883472="false" UNK_E603B9D2="30000" UNK_5AB5EF23="900000" UNK_C38B35E2="true" UNK_45FA832B="true" UNK_6CA47BC2="true" UNK_17CC0711="false" UNK_E7B32F19="true">
+        <UNK_AE702DE config="WOLF_KILL_WOLVES" />
+        <UNK_1D77EF7D UNK_D69F9601="false" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_PICKUP_ICONS" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_AFA1A396="true" UNK_789CDB6C="true" id="VOL_HOWL_TRIGGER">
+            <config position="[175.959, 1341.068, 113.306]" rotation="[0.0, 0.0, 0.0]" scale="[145.0, 145.0, 113.306]" type="CYLINDER" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_SIGHTING_GO_TO" role="GO_TO_SYNCED">
+            <config UNK_6E9EE4FB="FETCH_BLIP_SIGHTING_LOCATION" UNK_7FD08239="FETCH_GOTO_SIGHTING" position="[204.675, 1286.21, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config UNK_6E9EE4FB="FETCH_BLIP_SIGHTING_LOCATION" UNK_7FD08239="FETCH_GOTO_SIGHTING" position="[204.675, 1286.21, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[45.0, 45.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_HORSE_SEARCH" role="SEARCH_AFTER_ENTERED">
+            <config position="[204.675, 1286.21, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config position="[204.675, 1286.21, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[45.0, 45.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_DEER_SEARCH" UNK_E7B44FF2="VOL_HORSE_SEARCH" role="SEARCH_AFTER_ENTERED">
+            <config position="[-30.951, 1355.513, 183.228]" rotation="[0.0, 0.0, 0.0]" scale="[85.0, 85.0, 20.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config position="[-30.951, 1355.513, 183.228]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 20.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_AFA1A396="true" UNK_789CDB6C="true" id="VOL_AMBUSH_SPAWN" UNK_E7B44FF2="VOL_HORSE_SEARCH">
+            <config position="[89.8948, 1327.553, 170.6447]" rotation="[0.0, 0.0, -9.471]" scale="[45.0, 45.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="VOL_MISSION_BOUNDS" role="MISSION_BOUNDS_AREA">
+            <config position="[236.352, 1183.973, 217.766]" rotation="[0.0, 0.0, 0.0]" scale="[400.0, 400.0, 150.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="VOL_DEFENSIVE">
+            <config position="[-158.7198, 1322.272, 167.0535]" rotation="[0.0, 0.0, 0.0]" scale="[180.0, 180.0, 300.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="SONAR_PINGED" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="VOL_HOWL_TRIGGER">
+            <UNK_1331CF2C action="DO_SONAR_PING" hash="SONAR_LEGENDARY_ANIMAL_CLUE" position="[176.125, 1303.59, 177.9656]" sound="CALL" soundset="LEGENDARY_WOLF_CALL_SOUNDS" />
+          </trigger>
+          <trigger id="HORSE_INSPECTED" role="ALL_LINKED_CLUES_INSPECTED" />
+          <trigger UNK_45C2EE6F="HORSE_INSPECTED" id="DEER_INSPECTED" role="ALL_LINKED_CLUES_INSPECTED" />
+          <trigger UNK_45C2EE6F="HORSE_INSPECTED" id="AMBUSH_SPAWN" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="VOL_AMBUSH_SPAWN">
+            <UNK_1331CF2C action="DISABLE_OUT_OF_BOUNDS_RESTRICTION" />
+            <UNK_1331CF2C action="START_MISSION_TIMER" />
+          </trigger>
+          <trigger UNK_45C2EE6F="DEER_INSPECTED" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="LEGENDARY_WOLF_SPAWN" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE" UNK_4B061377="55.0">
+            <UNK_1331CF2C action="MARK_OBJECTIVES_FOUND" />
+            <UNK_1331CF2C action="CLEAR_TRAIL_HINT" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="900000" />
+          </trigger>
+          <trigger UNK_45C2EE6F="LEGENDARY_WOLF_SPAWN" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="LEGENDARY_WOLF_DOWN" role="LINKED_PED_INCAPACITATED" />
+        </triggers>
+        <objectives>
+          <objective config="LEGENDARY_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_71854169="[-158.7198, 1322.272, 167.0535]" UNK_CA822909="VOL_DEFENSIVE" outfit="META_OUTFIT_MP_LEGENDARY_WOLF_03" UNK_6FAF17B8="0.15" spawn_heading="265.8165" spawn_position="[-158.7198, 1322.272, 167.0535]" UNK_B78360CD="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="SHOW_BLIP" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="PLAY_ANIMAL_VOCALIZATION" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="AGGRO" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="ON_THE_HUNT_CLUE_DEAD_HORSE" UNK_A595AF4B="30000" UNK_F5D3F1EC="PED" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_HORSE_TRAIL" UNK_CA822909="VOL_HORSE_SEARCH" outfit="MP_ONTHEHUNT_DEADHORSE_04" spawn_heading="320.7761" spawn_position="[175.3058, 1303.193, 178.0057]">
+            <UNK_89976A47>
+              <UNK_A85B4463 id="HORSE_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="NAT_SIGHTING_CLUE_DYING_POACHER" UNK_F5D3F1EC="PED" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_ATTACK_VICTIM" UNK_AD4E358A="true" UNK_CA822909="VOL_HORSE_SEARCH" UNK_7BA579E4="MP_U_M_M_DYINGPOACHER_01" outfit="META_OUTFIT_DEFAULT" spawn_heading="268.5363" spawn_position="[186.8915, 1306.673, 177.6804]" />
+          <guard config="SIGHTING_CLUE_BEAR_TRAP" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BEAR_TRAP" UNK_AD4E358A="true" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_DEER_SEARCH" spawn_position="[-2.3719, 1390.067, 176.151]" UNK_100B5E15="[0.0, 0.0, 325.1479]" />
+          <guard config="SIGHTING_CLUE_BEAR_RUB_01" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BEAR_RUB" UNK_AD4E358A="true" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_DEER_SEARCH" spawn_position="[5.144, 1352.035, 173.714]" UNK_100B5E15="[0.0, 5.76, 0.0]" />
+          <guard config="BOUNTY_TRACKING_CLUE_DEAD_DEER" UNK_F5D3F1EC="PED" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BUCK" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_DEER_SEARCH" UNK_7BA579E4="MP_A_C_BUCK_01" outfit="META_OUTFIT_SCAVENGED_01" spawn_heading="143.687" spawn_position="[-14.8432, 1354.742, 175.1]">
+            <UNK_89976A47>
+              <UNK_A85B4463 id="DEER_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="WAVE_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" spawn_heading="265.8165" spawn_position="[-155.537, 1326.78, 168.68]" UNK_B78360CD="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_DOWN" type="FLEE" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="WAVE_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" spawn_heading="265.8165" spawn_position="[-155.122, 1322.94, 167.782]" UNK_B78360CD="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_DOWN" type="FLEE" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="WAVE_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" spawn_heading="265.8165" spawn_position="[-154.868, 1317.82, 166.597]" UNK_B78360CD="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_DOWN" type="FLEE" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="FROZEN_TRACKING_LEGENDARY_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_E2A4987A="0" UNK_AF3C7779="OBJECTIVE" outfit="META_OUTFIT_MP_LEGENDARY_WOLF_03" spawn_heading="182.6013" spawn_position="[41.8775, 1718.795, 132.0205]" UNK_B78360CD="false">
+            <UNK_C25BACC6>
+              <UNK_6FA29FB5 id="net_fetch_naturalist_sighting_wolf_horse_2" />
+              <UNK_6FA29FB5 id="net_fetch_naturalist_sighting_wolf_buck" />
+            </UNK_C25BACC6>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="HORSE_INSPECTED" UNK_E2A4987A="0" type="ENABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="DEER_INSPECTED" UNK_E2A4987A="0" type="DISABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="DEER_INSPECTED" UNK_E2A4987A="1" type="ENABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" UNK_E2A4987A="1" type="DISABLE_WAYPOINT_TRAIL" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="AMMO_BOX_SEDATIVE_ROUNDS_GROUND" UNK_F5D3F1EC="PROP" spawn_position="[187.9637, 1308.541, 177.8168]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+        </guards>
+        <UNK_EB3CE09F>
+          <anim_scene config="CRAWLING_DYING" role="BREAKOUT_ON_PROXIMITY" UNK_75C6AAB="dyingPed" UNK_4B061377="45.0">
+            <UNK_CA9CE014>
+              <UNK_C040F629 id="dyingPed" UNK_E2A4987A="1" UNK_AF3C7779="GUARD" />
+            </UNK_CA9CE014>
+          </anim_scene>
+        </UNK_EB3CE09F>
+        <UNK_554382DA>
+          <UNK_76F238FD spawn_position="[89.8948, 1327.553, 170.6447]" UNK_4C6EE98D="AMBUSH_SPAWN">
+            <UNK_1C7D3F9C config="WAVE_WOLF" UNK_F5D3F1EC="PED" spawn_heading="195.2064" spawn_position="[51.90569, 1314.398, 171.8477]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C config="WAVE_WOLF" UNK_F5D3F1EC="PED" spawn_heading="195.2064" spawn_position="[50.00188, 1325.745, 173.3918]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C config="WAVE_WOLF" UNK_F5D3F1EC="PED" spawn_heading="195.2064" spawn_position="[45.68773, 1315.994, 171.7086]" UNK_B78360CD="true" />
+          </UNK_76F238FD>
+        </UNK_554382DA>
+        <cutscenes>
+          <cutscene UNK_21A06636="NATURALIST_SIGHTING_CME_INTRO_WOLF_0" UNK_633329DE="NATURALIST_SIGHTING_WOLF_KILL_WOLVES_0_INTRO" id="MISSION_START_SKYLAPSE" UNK_18F9D42A="[448.794, 993.893, 177.671]" UNK_4D7F4E70="FOGGY_MIDNIGHT" type="SKYLAPSE_WITH_CME" />
+          <cutscene UNK_633329DE="NATURALIST_SIGHTING_WOLF_OUTRO_1" id="MISSION_END_SKYLAPSE" UNK_F259B128="true" UNK_18F9D42A="[-4.12615, 1322.9, 173.925]" type="END_SKYLAPSE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="LEGENDARY_WOLF" />
+            </UNK_3AECE76F>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_32220272="true" UNK_F96C66F9="true" UNK_7676A094="true" UNK_66557D80="50.0" UNK_62B5EBF="false" UNK_F7D4EB03="true" UNK_AFBB68B5="15000" UNK_CA9B5AD8="10000" id="NATURALIST_SIGHTING_WOLF_HUNT_2" UNK_7C1FCD5E="MODEL_CONFIG_GRIZZLIES" UNK_C0F9D21B="MUSIC_NATURALIST_SIGHTING" UNK_21B34E9A="true" UNK_979DA565="true" UNK_FDC87390="true" UNK_AE6A1BBB="true" UNK_60ABDD7F="true" UNK_D0883472="false" UNK_E603B9D2="30000" UNK_5AB5EF23="900000" UNK_C38B35E2="true" UNK_45FA832B="true" UNK_6CA47BC2="true" UNK_17CC0711="false" UNK_E7B32F19="true">
+        <UNK_AE702DE config="WOLF_KILL_WOLVES" />
+        <UNK_1D77EF7D UNK_D69F9601="false" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_PICKUP_ICONS" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_AFA1A396="true" UNK_789CDB6C="true" id="VOL_HOWL_TRIGGER">
+            <config position="[175.959, 1341.068, 113.306]" rotation="[0.0, 0.0, 0.0]" scale="[145.0, 145.0, 113.306]" type="CYLINDER" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_SIGHTING_GO_TO" role="GO_TO_SYNCED">
+            <config UNK_6E9EE4FB="FETCH_BLIP_SIGHTING_LOCATION" UNK_7FD08239="FETCH_GOTO_SIGHTING" position="[218.306, 1408.624, 166.36]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config UNK_6E9EE4FB="FETCH_BLIP_SIGHTING_LOCATION" UNK_7FD08239="FETCH_GOTO_SIGHTING" position="[218.306, 1408.624, 166.36]" rotation="[0.0, 0.0, 0.0]" scale="[45.0, 45.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_BUCK_SEARCH" role="SEARCH_AFTER_ENTERED">
+            <config position="[218.306, 1408.624, 166.36]" rotation="[0.0, 0.0, 0.0]" scale="[73.995, 71.412, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config position="[218.306, 1408.624, 166.36]" rotation="[0.0, 0.0, 0.0]" scale="[53.995, 41.412, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_KILL_SEARCH" UNK_E7B44FF2="VOL_BUCK_SEARCH" role="SEARCH_AFTER_ENTERED">
+            <config position="[369.472, 1385.973, 173.4563]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config position="[369.472, 1385.973, 173.4563]" rotation="[0.0, 0.0, 0.0]" scale="[45.0, 45.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_AFA1A396="true" UNK_789CDB6C="true" id="VOL_WOLF_WAVES" UNK_E7B44FF2="VOL_KILL_SEARCH">
+            <config position="[102.544, 1501.701, 121.186]" rotation="[0.0, 0.0, 2.243]" scale="[30.0, 30.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_SPECIES" UNK_AFA1A396="true" id="VOL_AVOIDANCE">
+            <UNK_EF905929>
+              <UNK_BBAE85B4 species="SPECIES_BEAR" />
+            </UNK_EF905929>
+            <config position="[29.291, 1661.457, 130.627]" rotation="[0.0, 0.0, 2.243]" scale="[99.548, 94.608, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="VOL_MISSION_BOUNDS" role="MISSION_BOUNDS_AREA">
+            <config position="[294.909, 1144.092, 217.766]" rotation="[0.0, 0.0, 0.0]" scale="[400.0, 400.0, 150.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="VOL_DEFENSIVE">
+            <config position="[63.9216, 1513.349, 119.1386]" rotation="[0.0, 0.0, 0.0]" scale="[180.0, 180.0, 300.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="SONAR_PINGED" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="VOL_HOWL_TRIGGER">
+            <UNK_1331CF2C action="DO_SONAR_PING" hash="SONAR_LEGENDARY_ANIMAL_CLUE" position="[208.4019, 1411.686, 167.699]" sound="CALL" soundset="LEGENDARY_WOLF_CALL_SOUNDS" />
+          </trigger>
+          <trigger id="BUCK_INSPECTED" role="ALL_LINKED_CLUES_INSPECTED" />
+          <trigger UNK_45C2EE6F="BUCK_INSPECTED" id="KILL_INSPECTED" role="ALL_LINKED_CLUES_INSPECTED" />
+          <trigger UNK_45C2EE6F="KILL_INSPECTED" id="LEGENDARY_WOLF_SPAWN" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="VOL_WOLF_WAVES">
+            <UNK_1331CF2C action="DISABLE_OUT_OF_BOUNDS_RESTRICTION" />
+            <UNK_1331CF2C action="CLEAR_TRAIL_HINT" />
+            <UNK_1331CF2C action="MARK_OBJECTIVES_FOUND" />
+          </trigger>
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" id="LEGENDARY_WOLF_DOWN" role="LINKED_PED_INCAPACITATED" />
+        </triggers>
+        <UNK_96A6C39F>
+          <ptfx UNK_4A66C70C="scr_fme_spawn_effects" name="scr_animal_poop_flies" position="[180.658, 1392.191, 165.034]" UNK_4CBB6584="false" />
+        </UNK_96A6C39F>
+        <UNK_6BEE8698>
+          <UNK_C34EA4D id="AZ_MP007_Animal_Sightings_Flies" UNK_E357793F="true" position="[180.658, 1392.191, 165.034]" />
+        </UNK_6BEE8698>
+        <objectives>
+          <objective config="LEGENDARY_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_71854169="[63.9216, 1513.349, 119.1386]" UNK_CA822909="VOL_DEFENSIVE" outfit="META_OUTFIT_MP_LEGENDARY_WOLF_03" UNK_6FAF17B8="0.15" spawn_heading="247.4488" spawn_position="[63.9216, 1513.349, 119.1386]" UNK_B78360CD="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="SHOW_BLIP" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="PLAY_ANIMAL_VOCALIZATION" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="AGGRO" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="BOUNTY_TRACKING_CLUE_DEAD_DEER" UNK_F5D3F1EC="PED" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BUCK_TRAIL" UNK_CA822909="VOL_BUCK_SEARCH" UNK_7BA579E4="MP_A_C_BUCK_01" outfit="META_OUTFIT_SCAVENGED_01" spawn_heading="56.572" spawn_position="[208.4019, 1411.686, 167.699]">
+            <UNK_89976A47>
+              <UNK_A85B4463 id="BUCK_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="SIGHTING_CLUE_HORSE_BONES_1" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_HORSE_BONES" UNK_AD4E358A="true" UNK_CA822909="VOL_BUCK_SEARCH" spawn_position="[214.476, 1382.572, 168.8]" UNK_100B5E15="[0.0, 354.23, 0.0]" />
+          <guard config="SIGHTING_CLUE_BEAR_SCAT" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BEAR_SCAT" UNK_AD4E358A="true" UNK_CA822909="VOL_BUCK_SEARCH" spawn_position="[198.5821, 1400.914, 167.1311]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <guard config="BOUNTY_TRACKING_CLUE_DAMAGED_TRAP" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BROKEN_TRAP" UNK_AD4E358A="true" UNK_CA822909="VOL_BUCK_SEARCH" spawn_position="[234.5721, 1376.161, 170.4312]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <guard config="SIGHTING_CLUE_WOLF_KILL" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_CLUE_FRESH_KILL" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_KILL_SEARCH" spawn_position="[390.0735, 1403.876, 171.5619]" UNK_100B5E15="[0.0, 0.0, 39.2781]">
+            <UNK_89976A47>
+              <UNK_A85B4463 id="KILL_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="SIGHTING_CLUE_BROKEN_STICKS_S" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_STICKS" UNK_AD4E358A="true" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_KILL_SEARCH" spawn_position="[356.0717, 1395.578, 175.6319]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <guard config="SIGHTING_CLUE_DEER_SCAT" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_DEER_SCAT" UNK_AD4E358A="true" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_KILL_SEARCH" spawn_position="[366.8856, 1411.835, 175.1623]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <guard config="WAVE_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" spawn_heading="247.4488" spawn_position="[63.16978, 1516.656, 117.5628]" UNK_B78360CD="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_DOWN" type="FLEE" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="WAVE_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" spawn_heading="247.4488" spawn_position="[60.2463, 1513.182, 118.1292]" UNK_B78360CD="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_DOWN" type="FLEE" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="WAVE_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" spawn_heading="247.4488" spawn_position="[59.92405, 1515.19, 117.2189]" UNK_B78360CD="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_DOWN" type="FLEE" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="FROZEN_TRACKING_LEGENDARY_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_E2A4987A="0" UNK_AF3C7779="OBJECTIVE" outfit="META_OUTFIT_MP_LEGENDARY_WOLF_03" spawn_heading="182.6013" spawn_position="[41.8775, 1718.795, 132.0205]" UNK_B78360CD="false">
+            <UNK_C25BACC6>
+              <UNK_6FA29FB5 id="net_fetch_naturalist_sighting_wolf_buck_2" />
+              <UNK_6FA29FB5 id="net_fetch_naturalist_sighting_wolf_kill_2" />
+            </UNK_C25BACC6>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="BUCK_INSPECTED" UNK_E2A4987A="0" type="ENABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="KILL_INSPECTED" UNK_E2A4987A="0" type="DISABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="KILL_INSPECTED" UNK_E2A4987A="1" type="ENABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="LEGENDARY_WOLF_SPAWN" UNK_E2A4987A="1" type="DISABLE_WAYPOINT_TRAIL" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="AMMO_BOX_SEDATIVE_ROUNDS_GROUND" UNK_F5D3F1EC="PROP" spawn_position="[258.4993, 1410.099, 176.1393]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="SIGHTING_CLUE_BROKEN_TENT_2" spawn_position="[259.9446, 1411.309, 176.0243]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene UNK_21A06636="NATURALIST_SIGHTING_CME_INTRO_WOLF_0" UNK_633329DE="NATURALIST_SIGHTING_WOLF_KILL_WOLVES_0_INTRO" id="MISSION_START_SKYLAPSE" UNK_18F9D42A="[448.794, 993.893, 177.671]" UNK_4D7F4E70="FOGGY_MIDNIGHT" type="SKYLAPSE_WITH_CME" />
+          <cutscene UNK_633329DE="NATURALIST_SIGHTING_WOLF_OUTRO_0" id="MISSION_END_SKYLAPSE" UNK_F259B128="true" UNK_18F9D42A="[-102.116, 1544.44, 114.91]" type="END_SKYLAPSE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="LEGENDARY_WOLF" />
+            </UNK_3AECE76F>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_FDA06AC6="false" UNK_32220272="true" UNK_F96C66F9="true" UNK_7676A094="false" UNK_66557D80="50.0" UNK_62B5EBF="false" UNK_F7D4EB03="true" UNK_AFBB68B5="15000" UNK_CA9B5AD8="10000" id="NATURALIST_SIGHTING_WOLF_CAGE_0" UNK_7C1FCD5E="MODEL_CONFIG_GRIZZLIES" UNK_C0F9D21B="MUSIC_NATURALIST_SIGHTING" UNK_21B34E9A="true" UNK_979DA565="true" UNK_FDC87390="true" UNK_AE6A1BBB="true" UNK_60ABDD7F="true" UNK_D0883472="false" UNK_E603B9D2="30000" UNK_5AB5EF23="900000" UNK_C38B35E2="true" UNK_45FA832B="true" UNK_6CA47BC2="true" UNK_17CC0711="false" UNK_E7B32F19="true">
+        <UNK_AE702DE config="WOLF_CAGE" />
+        <UNK_1D77EF7D UNK_D69F9601="false" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_PICKUP_ICONS" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="NASWOAU" />
+          <UNK_ADD8DEFE id="NASPRAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_SIGHTING_GO_TO" role="GO_TO_SYNCED">
+            <config UNK_6E9EE4FB="FETCH_BLIP_SIGHTING_LOCATION" UNK_7FD08239="FETCH_GOTO_SIGHTING" position="[270.99, 1378.657, 171.813]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config UNK_6E9EE4FB="FETCH_BLIP_SIGHTING_LOCATION" UNK_7FD08239="FETCH_GOTO_SIGHTING" position="[270.99, 1378.657, 171.813]" rotation="[0.0, 0.0, 0.0]" scale="[45.0, 45.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_CAMP_SEARCH" role="SEARCH_AFTER_ENTERED">
+            <config position="[270.99, 1378.657, 171.813]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config position="[270.99, 1378.657, 171.813]" rotation="[0.0, 0.0, 0.0]" scale="[45.0, 45.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_AFA1A396="true" id="VOL_POACHERS">
+            <config position="[16.998, 1508.239, 126.476]" rotation="[0.0, 0.0, 0.0]" scale="[55.0, 55.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="NAVMESH_BLOCKER_ALL" UNK_AFA1A396="true" UNK_789CDB6C="true" id="VOL_CAGE_BLOCKER">
+            <config position="[20.676, 1509.158, 116.386]" rotation="[-5.0, 0.0, 40.874]" scale="[2.191, 1.179, 1.632]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="ANTI_GRIEF" UNK_AFA1A396="true" UNK_789CDB6C="true" id="VOL_ANTI_GRIEF">
+            <config position="[20.706, 1509.183, 116.386]" rotation="[-5.0, 0.0, 40.874]" scale="[2.328, 1.179, 1.632]" type="BOX" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="VOL_MISSION_BOUNDS" role="MISSION_BOUNDS_AREA">
+            <config position="[501.616, 1259.566, 217.766]" rotation="[0.0, 0.0, 0.0]" scale="[450.0, 450.0, 150.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="VOL_DEFENSIVE">
+            <config position="[20.737, 1509.039, 115.6322]" rotation="[0.0, 0.0, 0.0]" scale="[180.0, 180.0, 300.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_STARTED" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="VOL_CAMP_SEARCH" />
+          <trigger id="CAMP_INSPECTED" role="ALL_LINKED_CLUES_INSPECTED">
+            <UNK_1331CF2C action="DISABLE_OUT_OF_BOUNDS_RESTRICTION" />
+            <UNK_1331CF2C action="START_MISSION_TIMER" />
+          </trigger>
+          <trigger UNK_45C2EE6F="CAMP_INSPECTED" UNK_2A5A1C92="0" id="TAKE_OUT_POACHERS" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="60.0">
+            <UNK_1331CF2C action="MARK_OBJECTIVES_FOUND" />
+            <UNK_1331CF2C action="CLEAR_TRAIL_HINT" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="900000" />
+            <UNK_1331CF2C action="ENABLE_WORLD_STATE" UNK_2A5A1C92="0" />
+          </trigger>
+          <trigger UNK_45C2EE6F="CAMP_INSPECTED" UNK_2A5A1C92="7" UNK_CB06019E="GUARD" id="DIALOG_TRIGGER" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="15.0" />
+          <trigger UNK_45C2EE6F="CAMP_INSPECTED" UNK_2A5A1C92="6" UNK_CB06019E="GUARD" id="DIALOG_TRIGGER_2" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="25.0" />
+          <trigger UNK_45C2EE6F="TAKE_OUT_POACHERS" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="CAGE_UNLOCKED" UNK_61C44C33="true" role="LINKED_ENTITY_UNFROZEN">
+            <UNK_1331CF2C action="CREATE_VOLUME" UNK_CA822909="VOL_CAGE_BLOCKER" />
+            <UNK_1331CF2C action="CREATE_VOLUME" UNK_CA822909="VOL_ANTI_GRIEF" />
+            <UNK_1331CF2C action="DISABLE_WORLD_STATE" UNK_2A5A1C92="0" />
+          </trigger>
+        </triggers>
+        <UNK_96A6C39F>
+          <ptfx UNK_4A66C70C="scr_fme_spawn_effects" name="scr_animal_poop_flies" position="[278.817, 1410.767, 175.479]" UNK_4CBB6584="false" />
+        </UNK_96A6C39F>
+        <UNK_6BEE8698>
+          <UNK_C34EA4D id="AZ_MP007_Animal_Sightings_Flies" UNK_E357793F="true" position="[278.817, 1410.767, 175.479]" />
+        </UNK_6BEE8698>
+        <objectives>
+          <objective UNK_FBFA9394="2" config="LEGENDARY_WOLF_CAGED" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_71854169="[20.737, 1509.039, 115.6322]" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_DEFENSIVE" outfit="META_OUTFIT_MP_LEGENDARY_WOLF_03" UNK_6FAF17B8="0.15" spawn_heading="313.1557" spawn_position="[20.737, 1509.039, 115.6322]" UNK_73B71ADB="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B UNK_C0EEFB3="DLC_MP007_Animal_Sightings_Cage_mixgroup" id="TAKE_OUT_POACHERS" type="ADD_TO_AUDIO_MIX_GROUP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="PLAY_ANIMAL_VOCALIZATION" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_PADLOCKED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_8238ACCE="2" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_position="[20.737, 1509.039, 115.6322]" UNK_100B5E15="[0.0, 0.0, 133.1557]" UNK_EA838DDB="true" />
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REPEATER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_5129B6FC="WORLD_HUMAN_WRITE_NOTEBOOK" spawn_heading="313.1557" spawn_position="[19.3759, 1513.834, 115.0106]" UNK_B59BB1D4="20.0">
+            <UNK_89976A47>
+              <UNK_A85B4463 id="LEGENDARY_AVAILABLE" />
+            </UNK_89976A47>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CAMP_INSPECTED" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="NAT_SIGHTING_CLUE_DYING_POACHER" UNK_F5D3F1EC="PED" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_POACHER_CAMP_BODY" UNK_AD4E358A="true" UNK_CA822909="VOL_CAMP_SEARCH" UNK_7BA579E4="MP_U_M_M_DYINGPOACHER_01" outfit="META_OUTFIT_DEFAULT" spawn_heading="146.3732" spawn_position="[281.9541, 1371.047, 173.2195]" />
+          <guard config="SIGHTING_CLUE_BEAR_SCAT" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BEAR_SCAT" UNK_AD4E358A="true" UNK_CA822909="VOL_CAMP_SEARCH" spawn_position="[259.826, 1374.297, 171.8291]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <guard config="SIGHTING_CLUE_HORSE_SCAT" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_HORSE_SCAT_TRAIL" UNK_CA822909="VOL_CAMP_SEARCH" spawn_position="[278.817, 1410.767, 175.479]" UNK_100B5E15="[0.0, 0.0, 0.0]">
+            <UNK_89976A47>
+              <UNK_A85B4463 id="CAMP_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="POACHER_WAGON2_NOBLIP" UNK_F5D3F1EC="VEHICLE" spawn_heading="106.2078" spawn_position="[15.886, 1507.079, 116.396]" />
+          <guard UNK_FBFA9394="0" UNK_73E4B9B3="true" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REPEATER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_7BA579E4="MP_U_M_M_ANIMALPOACHER_04" outfit="META_OUTFIT_DEFAULT" spawn_heading="74.5671" spawn_position="[22.9836, 1508.706, 115.8052]" UNK_B59BB1D4="20.0">
+            <UNK_6AC736F6 name="NAT007_POACHER4">
+              <conversations>
+                <conversation UNK_615C7D65="false" UNK_E9EDC3EB="DIALOG_TRIGGER_2" root="NASWO_CVTALKWF" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+              </conversations>
+            </UNK_6AC736F6>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CAMP_INSPECTED" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="1" UNK_73E4B9B3="true" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_5129B6FC="WORLD_HUMAN_DRINKING" UNK_7BA579E4="MP_U_M_M_ANIMALPOACHER_03" outfit="META_OUTFIT_DEFAULT" spawn_heading="56.7234" spawn_position="[46.8591, 1539.73, 112.3108]" UNK_B59BB1D4="20.0">
+            <UNK_6AC736F6 name="NAT007_POACHER3">
+              <conversations>
+                <conversation UNK_615C7D65="false" UNK_E9EDC3EB="DIALOG_TRIGGER" root="NASPR_3_BANTANI" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+              </conversations>
+            </UNK_6AC736F6>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CAMP_INSPECTED" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="1" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_5129B6FC="WORLD_HUMAN_SMOKE" spawn_heading="221.5106" spawn_position="[45.4345, 1540.45, 112.2748]" UNK_B59BB1D4="20.0">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CAMP_INSPECTED" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_5129B6FC="WORLD_HUMAN_SMOKE" spawn_heading="171.4691" spawn_position="[20.676, 1516.331, 114.7703]" UNK_B59BB1D4="20.0">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CAMP_INSPECTED" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REPEATER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" spawn_heading="291.0206" spawn_position="[8.1203, 1507.986, 114.6001]" UNK_B59BB1D4="20.0">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CAMP_INSPECTED" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REPEATER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_5129B6FC="WORLD_HUMAN_SMOKE" spawn_heading="185.0503" spawn_position="[9.3421, 1510.075, 114.4813]" UNK_B59BB1D4="20.0">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CAMP_INSPECTED" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_D1AEC922="false" config="BOUNTY_TRACKING_CLUE_DEAD_WOLF" UNK_F5D3F1EC="PED" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_WOLF_CORPSE_POACHER" UNK_AD4E358A="true" UNK_E2A4987A="4" UNK_AF3C7779="GUARD" UNK_7BA579E4="MP_A_C_WOLF_01" outfit="META_OUTFIT_SHOT_01" spawn_heading="124.9268" spawn_position="[157.1298, 1474.759, 128.6474]" />
+          <guard config="FROZEN_TRACKING_WOLF_POACHER" UNK_F5D3F1EC="PED" UNK_48103186="true" spawn_heading="182.6013" spawn_position="[41.8775, 1718.795, 132.0205]" UNK_B78360CD="false">
+            <UNK_C25BACC6>
+              <UNK_6FA29FB5 id="net_fetch_naturalist_sighting_poacher_horse" />
+            </UNK_C25BACC6>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CAMP_INSPECTED" UNK_E2A4987A="0" type="ENABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" UNK_E2A4987A="0" type="DISABLE_WAYPOINT_TRAIL" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="AMMO_BOX_SEDATIVE_ROUNDS_GROUND" UNK_F5D3F1EC="PROP" spawn_position="[266.139, 1408.454, 175.7565]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+        </guards>
+        <waves>
+          <wave UNK_1A53F8C="true" UNK_1E05C879="5">
+            <UNK_A5FAE9AE accuracy="20" config="POACHER_CHASER_REPEATER_MOUNTED" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_POACHERS" spawn_heading="9.7532" spawn_position="[22.8239, 1427.724, 138.753]" UNK_B78360CD="true" />
+            <UNK_A5FAE9AE accuracy="20" config="POACHER_CHASER_REPEATER_MOUNTED" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_POACHERS" spawn_heading="8.6996" spawn_position="[22.4283, 1433.593, 135.6974]" UNK_B78360CD="true" />
+          </wave>
+        </waves>
+        <UNK_EB3CE09F>
+          <anim_scene config="CRAWLING_DYING" role="BREAKOUT_ON_PROXIMITY" UNK_75C6AAB="dyingPed" UNK_4B061377="100.0">
+            <UNK_CA9CE014>
+              <UNK_C040F629 id="dyingPed" UNK_E2A4987A="2" UNK_AF3C7779="GUARD" />
+            </UNK_CA9CE014>
+          </anim_scene>
+        </UNK_EB3CE09F>
+        <UNK_D16E6597>
+          <world_state UNK_9C8BBF87="DLC_MP007_Animal_Sightings_Cage_sceneset" UNK_DAC9B68E="filter_animal_vox" UNK_1E616E69="false" />
+        </UNK_D16E6597>
+        <UNK_5D1EFC39>
+          <prop_set config="NATURALIST_ATTACKED_CAMP_01" placement_type="ALIGN_TO_GROUND" spawn_heading="180.0" spawn_position="[267.043, 1410.95, 175.851]" UNK_CADD94E2="1" />
+          <prop_set config="CAMPSITE_TENT_SMALL_04" placement_type="ALIGN_TO_GROUND" spawn_heading="330.0" spawn_position="[269.402, 1409.081, 175.659]" UNK_CADD94E2="1" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="ANIMAL_CAGE_PADLOCK" spawn_position="[20.737, 1509.039, 115.6322]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <static_prop config="ANIMAL_CAGE_PADLOCK" spawn_position="[20.737, 1509.039, 115.6322]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+        </UNK_69FD74EB>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[266.91, 1406.412, 175.6]" UNK_FEBAD66A="2.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[273.344, 1408.84, 175.576]" UNK_FEBAD66A="3.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[267.645, 1404.821, 175.449]" UNK_FEBAD66A="2.0" type="CULL" />
+        </UNK_1E7FFBD4>
+        <cutscenes>
+          <cutscene UNK_21A06636="NATURALIST_SIGHTING_CME_INTRO_WOLF_2" UNK_633329DE="NATURALIST_SIGHTING_WOLF_CAGE_INTRO" id="MISSION_START_SKYLAPSE" UNK_18F9D42A="[738.558, 1398.57, 171.344]" UNK_4D7F4E70="CLEAR_0300" type="SKYLAPSE_WITH_CME" />
+          <cutscene UNK_633329DE="NATURALIST_SIGHTING_WOLF_OUTRO_0" id="MISSION_END_SKYLAPSE" UNK_F259B128="true" UNK_18F9D42A="[-102.116, 1544.44, 114.91]" type="END_SKYLAPSE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="LEGENDARY_WOLF" />
+            </UNK_3AECE76F>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_32220272="true" UNK_F96C66F9="true" UNK_7676A094="true" UNK_66557D80="50.0" UNK_62B5EBF="false" UNK_F7D4EB03="true" UNK_AFBB68B5="15000" UNK_CA9B5AD8="10000" id="NATURALIST_SIGHTING_WOLF_CAGE_1" UNK_7C1FCD5E="MODEL_CONFIG_GRIZZLIES" UNK_C0F9D21B="MUSIC_NATURALIST_SIGHTING" UNK_21B34E9A="true" UNK_979DA565="true" UNK_FDC87390="true" UNK_AE6A1BBB="true" UNK_60ABDD7F="true" UNK_D0883472="false" UNK_E603B9D2="30000" UNK_5AB5EF23="900000" UNK_C38B35E2="true" UNK_6CA47BC2="true" UNK_17CC0711="false" UNK_E7B32F19="true">
+        <UNK_AE702DE config="WOLF_CAGE" />
+        <UNK_1D77EF7D UNK_D69F9601="false" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_PICKUP_ICONS" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="NASPRAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_SIGHTING_GO_TO" role="GO_TO_SYNCED">
+            <config UNK_6E9EE4FB="FETCH_BLIP_SIGHTING_LOCATION" UNK_7FD08239="FETCH_GOTO_SIGHTING" position="[278.521, 1395.718, 178.675]" rotation="[0.0, 0.0, 0.0]" scale="[80.0, 80.0, 20.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config UNK_6E9EE4FB="FETCH_BLIP_SIGHTING_LOCATION" UNK_7FD08239="FETCH_GOTO_SIGHTING" position="[278.521, 1395.718, 178.675]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 20.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_CAMP_SEARCH" role="SEARCH_AFTER_ENTERED">
+            <config position="[278.521, 1395.718, 178.675]" rotation="[0.0, 0.0, 0.0]" scale="[80.0, 80.0, 20.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config position="[278.521, 1395.718, 178.675]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 20.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_AFA1A396="true" id="VOL_POACHERS" UNK_E7B44FF2="VOL_SIGHTING_GO_TO">
+            <config position="[279.598, 1402.02, 178.675]" rotation="[0.0, 0.0, 0.0]" scale="[40.0, 40.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="ANTI_GRIEF" UNK_AFA1A396="true" UNK_789CDB6C="true" id="VOL_ANTI_GRIEF">
+            <config position="[280.045, 1412.621, 176.326]" rotation="[0.0, 0.0, 90.0]" scale="[2.377, 1.288, 1.758]" type="BOX" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="VOL_MISSION_BOUNDS" role="MISSION_BOUNDS_AREA">
+            <config position="[501.616, 1259.566, 217.766]" rotation="[0.0, 0.0, 0.0]" scale="[450.0, 450.0, 150.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="VOL_DEFENSIVE">
+            <config position="[280.027, 1412.594, 175.4484]" rotation="[0.0, 0.0, 0.0]" scale="[180.0, 180.0, 300.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_STARTED" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="VOL_CAMP_SEARCH" />
+          <trigger UNK_2A5A1C92="0" id="TAKE_OUT_POACHERS" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="50.0">
+            <UNK_1331CF2C action="HIDE_VOLUME_BLIP" UNK_CA822909="VOL_CAMP_SEARCH" />
+            <UNK_1331CF2C action="DISABLE_OUT_OF_BOUNDS_RESTRICTION" />
+            <UNK_1331CF2C action="MARK_OBJECTIVES_FOUND" />
+            <UNK_1331CF2C action="START_MISSION_TIMER" />
+            <UNK_1331CF2C action="ENABLE_WORLD_STATE" UNK_2A5A1C92="0" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" UNK_CB06019E="GUARD" id="DIALOG_TRIGGER_CAGE" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger UNK_2A5A1C92="3" UNK_CB06019E="GUARD" id="DIALOG_TRIGGER_FIRE" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="20.0" />
+          <trigger id="CAGE_OPEN" index="0" role="ANIM_SCENE_FINISHED">
+            <UNK_1331CF2C action="DISABLE_WORLD_STATE" UNK_2A5A1C92="0" />
+            <UNK_1331CF2C action="CREATE_VOLUME" UNK_CA822909="VOL_ANTI_GRIEF" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="LEGENDARY_WOLF_CAGED" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_71854169="[280.027, 1412.594, 175.4484]" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_DEFENSIVE" outfit="META_OUTFIT_MP_LEGENDARY_WOLF_03" UNK_6FAF17B8="0.15" spawn_heading="180.8085" spawn_position="[280.027, 1412.594, 175.4484]" UNK_73B71ADB="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B UNK_C0EEFB3="DLC_MP007_Animal_Sightings_Cage_mixgroup" id="TAKE_OUT_POACHERS" type="ADD_TO_AUDIO_MIX_GROUP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="PLAY_ANIMAL_VOCALIZATION" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_LATCHED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_26376C22="0" spawn_position="[280.027, 1412.594, 175.4484]" UNK_100B5E15="[0.0, 0.0, 0.8085]" UNK_EA838DDB="true" />
+          <guard UNK_FBFA9394="0" UNK_73E4B9B3="true" UNK_D1AEC922="false" UNK_CC756826="true" config="GUARD_POACHER_WARN_REPEATER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_POACHERS" UNK_7BA579E4="MP_U_M_M_ANIMALPOACHER_04" outfit="META_OUTFIT_DEFAULT" spawn_heading="280.5884" spawn_position="[276.441, 1411.725, 175.5369]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true">
+            <UNK_6AC736F6 name="NAT007_POACHER4">
+              <conversations>
+                <conversation UNK_615C7D65="false" UNK_E9EDC3EB="DIALOG_TRIGGER_CAGE" root="NASPR_4_ANIMAL" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+              </conversations>
+            </UNK_6AC736F6>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REPEATER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_FIRE_TEND_KNEEL" UNK_CA822909="VOL_POACHERS" spawn_heading="98.4424" spawn_position="[273.7047, 1405.855, 175.3271]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_73E4B9B3="true" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[270.4372, 1406.688, 175.9095]" UNK_CA822909="VOL_POACHERS" UNK_7BA579E4="MP_U_M_M_ANIMALPOACHER_03" outfit="META_OUTFIT_DEFAULT" spawn_heading="254.5207" spawn_position="[270.1775, 1406.053, 175.4261]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true">
+            <UNK_6AC736F6 name="NAT007_POACHER3">
+              <conversations>
+                <conversation UNK_615C7D65="false" UNK_E9EDC3EB="DIALOG_TRIGGER_FIRE" root="NASPR_3_BANTCMP" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+              </conversations>
+            </UNK_6AC736F6>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REVOLVER_LANTERN" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_POACHERS" spawn_heading="322.0752" spawn_position="[298.5783, 1398.696, 174.482]" UNK_B59BB1D4="20.0" UNK_7BC2D902="net_fetch_naturalist_sighting_wolf_cage_patrol_1" UNK_4F2F1B6="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REPEATER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_COFFEE_DRINK" UNK_CA822909="VOL_POACHERS" spawn_heading="153.4942" spawn_position="[286.1141, 1401.051, 175.1133]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_SHOTGUN" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STAND_WAITING" UNK_CA822909="VOL_POACHERS" spawn_heading="340.2306" spawn_position="[284.6716, 1398.615, 175.0242]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_SMOKE" UNK_CA822909="VOL_POACHERS" spawn_heading="268.618" spawn_position="[280.7824, 1401.412, 175.037]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REPEATER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_COFFEE_DRINK" UNK_CA822909="VOL_POACHERS" spawn_heading="352.6123" spawn_position="[271.6337, 1403.571, 175.174]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REPEATER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_GUARD_SCOUT" UNK_CA822909="VOL_POACHERS" spawn_heading="34.2226" spawn_position="[262.1924, 1413.775, 175.8579]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="AMMO_BOX_SEDATIVE_ROUNDS_GROUND" UNK_F5D3F1EC="PROP" spawn_position="[275.7193, 1402.129, 174.9652]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+        </guards>
+        <UNK_EB3CE09F>
+          <anim_scene config="OPEN_CAGE_MEDIUM_TERRAIN" role="PLAYER_PROP_INTERACTION" UNK_75C6AAB="CAGE">
+            <UNK_CA9CE014>
+              <UNK_C040F629 id="Cage" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" />
+            </UNK_CA9CE014>
+          </anim_scene>
+          <anim_scene config="FRIENDLY_CAGE_MEDIUM" role="ACTION_ON_PROXIMITY" UNK_75C6AAB="POACHER" UNK_4B061377="30.0">
+            <UNK_CA9CE014>
+              <UNK_C040F629 id="Cage" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" />
+              <UNK_C040F629 id="POACHER" UNK_E2A4987A="1" UNK_AF3C7779="GUARD" />
+            </UNK_CA9CE014>
+            <UNK_E1C09055>
+              <action id="ACTION_1" />
+              <action id="ACTION_2" />
+              <action id="ACTION_3" />
+            </UNK_E1C09055>
+          </anim_scene>
+          <anim_scene config="IDLE_CAGE_MEDIUM_TERRAIN">
+            <UNK_CA9CE014>
+              <UNK_C040F629 id="Cage" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" />
+            </UNK_CA9CE014>
+          </anim_scene>
+        </UNK_EB3CE09F>
+        <waves>
+          <wave UNK_1A53F8C="true" UNK_1E05C879="7">
+            <UNK_A5FAE9AE accuracy="20" config="POACHER_CHASER_REPEATER_MOUNTED" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_POACHERS" spawn_heading="299.1857" spawn_position="[186.1804, 1321.694, 177.4294]" UNK_B78360CD="true" />
+            <UNK_A5FAE9AE accuracy="20" config="POACHER_CHASER_SHOTGUN_MOUNTED" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_POACHERS" spawn_heading="263.2292" spawn_position="[177.4659, 1328.416, 177.7081]" UNK_B78360CD="true" />
+          </wave>
+        </waves>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_CONFEDS" placement_type="ALIGN_TO_GROUND" spawn_heading="90.0" spawn_position="[272.281, 1405.643, 175.343]" />
+          <prop_set config="CAMPSITE_HUNTING_DEER" placement_type="ALIGN_TO_GROUND" spawn_heading="0.0" spawn_position="[284.858, 1399.956, 175.086]" />
+        </UNK_5D1EFC39>
+        <UNK_D16E6597>
+          <world_state UNK_9C8BBF87="DLC_MP007_Animal_Sightings_Cage_sceneset" UNK_DAC9B68E="filter_animal_vox" UNK_1E616E69="false" />
+        </UNK_D16E6597>
+        <UNK_CAA33602 spawn_position="[272.281, 1405.643, 175.343]" />
+        <UNK_69FD74EB text="" />
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[266.91, 1406.412, 175.6]" UNK_FEBAD66A="2.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[273.344, 1408.84, 175.576]" UNK_FEBAD66A="3.0" type="CULL" />
+        </UNK_1E7FFBD4>
+        <cutscenes>
+          <cutscene UNK_21A06636="NATURALIST_SIGHTING_CME_INTRO_WOLF_2" UNK_633329DE="NATURALIST_SIGHTING_WOLF_CAGE_INTRO" id="MISSION_START_SKYLAPSE" UNK_18F9D42A="[738.558, 1398.57, 171.344]" UNK_4D7F4E70="CLEAR_0300" type="SKYLAPSE_WITH_CME" />
+          <cutscene UNK_633329DE="NATURALIST_SIGHTING_WOLF_OUTRO_2" id="MISSION_END_SKYLAPSE" UNK_F259B128="true" UNK_18F9D42A="[245.3, 1363.98, 172.5]" type="END_SKYLAPSE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="LEGENDARY_WOLF" />
+            </UNK_3AECE76F>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_32220272="true" UNK_F96C66F9="true" UNK_7676A094="true" UNK_66557D80="50.0" UNK_62B5EBF="false" UNK_F7D4EB03="true" UNK_AFBB68B5="15000" UNK_CA9B5AD8="10000" id="NATURALIST_SIGHTING_WOLF_CAGE_2" UNK_7C1FCD5E="MODEL_CONFIG_GRIZZLIES" UNK_C0F9D21B="MUSIC_NATURALIST_SIGHTING" UNK_21B34E9A="true" UNK_979DA565="true" UNK_FDC87390="true" UNK_AE6A1BBB="true" UNK_60ABDD7F="true" UNK_D0883472="false" UNK_E603B9D2="30000" UNK_5AB5EF23="900000" UNK_C38B35E2="true" UNK_45FA832B="true" UNK_6CA47BC2="true" UNK_17CC0711="false" UNK_E7B32F19="true">
+        <UNK_AE702DE config="WOLF_KILL_WOLVES" />
+        <UNK_1D77EF7D UNK_D69F9601="false" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_NO_PICKUP_ICONS" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="NASPRAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_SIGHTING_GO_TO" role="GO_TO_SYNCED">
+            <config UNK_6E9EE4FB="FETCH_BLIP_SIGHTING_LOCATION" UNK_7FD08239="FETCH_GOTO_SIGHTING" position="[164.086, 1221.797, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config UNK_6E9EE4FB="FETCH_BLIP_SIGHTING_LOCATION" UNK_7FD08239="FETCH_GOTO_SIGHTING" position="[164.086, 1221.797, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[45.0, 45.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_AFA1A396="true" UNK_789CDB6C="true" id="VOL_GUNSHOT_TRIGGER">
+            <config position="[160.754, 1218.211, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[120.0, 120.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" UNK_789CDB6C="true" id="VOL_WOLF_SEARCH" role="SEARCH_AFTER_ENTERED">
+            <config position="[164.086, 1221.797, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config position="[164.086, 1221.797, 191.535]" rotation="[0.0, 0.0, 0.0]" scale="[45.0, 45.0, 15.0]" type="CYLINDER" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+          <volume UNK_7CAE4BF3="ANTI_GRIEF" UNK_AFA1A396="true" UNK_789CDB6C="true" id="VOL_ANTI_GRIEF">
+            <config position="[0.403, 1370.32, 175.924]" rotation="[0.0, 0.0, 97.0]" scale="[2.328, 1.292, 2.052]" type="BOX" />
+          </volume>
+          <volume UNK_AFA1A396="true" id="VOL_POACHERS" UNK_E7B44FF2="VOL_WOLF_SEARCH">
+            <config position="[-7.137, 1367.192, 176.994]" rotation="[0.0, 0.0, 0.0]" scale="[40.0, 40.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="VOL_DEFENSIVE">
+            <config position="[0.3406, 1370.347, 175.2495]" rotation="[0.0, 0.0, 0.0]" scale="[180.0, 180.0, 300.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="GUNSHOT_TRIGGER" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="VOL_GUNSHOT_TRIGGER">
+            <UNK_1331CF2C action="DO_SONAR_PING" hash="" position="[180.1028, 1257.459, 185.4231]" sound="Gun_Shot_Big" soundset="RDRO_NAS_Sounds" />
+          </trigger>
+          <trigger UNK_45C2EE6F="GUNSHOT_TRIGGER" id="WOLF_INSPECTED" role="ALL_LINKED_CLUES_INSPECTED" />
+          <trigger UNK_45C2EE6F="WOLF_INSPECTED" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" id="DIALOG_TRIGGER" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger UNK_45C2EE6F="WOLF_INSPECTED" UNK_2A5A1C92="0" id="TAKE_OUT_POACHERS" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="45.0">
+            <UNK_1331CF2C action="MARK_OBJECTIVES_FOUND" />
+            <UNK_1331CF2C action="CLEAR_TRAIL_HINT" />
+            <UNK_1331CF2C action="DISABLE_OUT_OF_BOUNDS_RESTRICTION" />
+            <UNK_1331CF2C action="START_MISSION_TIMER" />
+            <UNK_1331CF2C action="ENABLE_WORLD_STATE" UNK_2A5A1C92="0" />
+            <UNK_1331CF2C action="SHOW_ALL_PROP_BLIPS" />
+          </trigger>
+          <trigger UNK_45C2EE6F="TAKE_OUT_POACHERS" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="CAGE_UNLOCKED" UNK_61C44C33="true" role="LINKED_ENTITY_UNFROZEN">
+            <UNK_1331CF2C action="DISABLE_WORLD_STATE" UNK_2A5A1C92="0" />
+            <UNK_1331CF2C action="CREATE_VOLUME" UNK_CA822909="VOL_ANTI_GRIEF" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="LEGENDARY_WOLF_CAGED" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_71854169="[0.3406, 1370.347, 175.2495]" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_DEFENSIVE" outfit="META_OUTFIT_MP_LEGENDARY_WOLF_03" UNK_6FAF17B8="0.15" spawn_heading="186.8439" spawn_position="[0.3406, 1370.347, 175.2495]" UNK_73B71ADB="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B UNK_C0EEFB3="DLC_MP007_Animal_Sightings_Cage_mixgroup" id="TAKE_OUT_POACHERS" type="ADD_TO_AUDIO_MIX_GROUP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="PLAY_ANIMAL_VOCALIZATION" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_PADLOCKED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_8238ACCE="2" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_position="[0.3406, 1370.347, 175.2495]" UNK_100B5E15="[0.0, 0.0, 6.8439]" UNK_EA838DDB="true" />
+          <guard UNK_FBFA9394="0" UNK_73E4B9B3="true" UNK_D1AEC922="false" UNK_CC756826="true" config="GUARD_POACHER_WARN_REPEATER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_CA822909="VOL_POACHERS" UNK_7BA579E4="MP_U_M_M_ANIMALPOACHER_08" outfit="META_OUTFIT_DEFAULT" spawn_heading="255.1568" spawn_position="[-2.4316, 1370.165, 175.3608]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true">
+            <UNK_6AC736F6 name="NAT007_POACHER8">
+              <conversations>
+                <conversation UNK_615C7D65="false" UNK_E9EDC3EB="DIALOG_TRIGGER" root="NASPR_8_ANIMAL" UNK_F60E4BC2="SONAR_OVERHEARD_BEAT_BIG" type="ON_TRIGGER" />
+              </conversations>
+            </UNK_6AC736F6>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="WOLF_INSPECTED" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[-10.25756, 1371.271, 176.1407]" UNK_CA822909="VOL_POACHERS" spawn_heading="181.9997" spawn_position="[-12.0513, 1371.873, 175.7909]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="WOLF_INSPECTED" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REPEATER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[-10.28679, 1369.779, 175.9733]" UNK_CA822909="VOL_POACHERS" spawn_heading="52.4845" spawn_position="[-11.1073, 1369.754, 175.5443]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="WOLF_INSPECTED" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REPEATER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_5129B6FC="WORLD_HUMAN_SMOKE" UNK_CA822909="VOL_POACHERS" spawn_heading="277.1496" spawn_position="[-13.2539, 1370.263, 175.7376]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="WOLF_INSPECTED" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REVOLVER_LANTERN" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_CA822909="VOL_POACHERS" spawn_heading="84.2614" spawn_position="[-33.1632, 1405.636, 183.529]" UNK_B59BB1D4="20.0" UNK_7BC2D902="net_fetch_naturalist_sighting_wolf_cage_patrol_2" UNK_4F2F1B6="false">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="WOLF_INSPECTED" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REPEATER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_59D675B6="WORLD_HUMAN_LEAN_BACK_WALL_MALE_C" UNK_5129B6FC="WORLD_HUMAN_LEAN_BACK_WALL" UNK_CA822909="VOL_POACHERS" spawn_heading="302.8466" spawn_position="[-6.993, 1360.762, 174.3875]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="WOLF_INSPECTED" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D1AEC922="false" config="GUARD_POACHER_WARN_REPEATER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_5129B6FC="WORLD_HUMAN_GUARD_SCOUT" UNK_CA822909="VOL_POACHERS" spawn_heading="49.3938" spawn_position="[2.6264, 1366.914, 174.9866]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="WOLF_INSPECTED" type="UNFREEZE_AND_WARP" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" type="SHOW_BLIP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="POACHER_WAGON2_NOBLIP" UNK_F5D3F1EC="VEHICLE" spawn_heading="57.37" spawn_position="[-3.5875, 1373.785, 176.7562]" />
+          <guard config="BOUNTY_TRACKING_CLUE_DEAD_WOLF" UNK_F5D3F1EC="PED" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_WOLF_CORPSE_CAGE" UNK_CA822909="VOL_WOLF_SEARCH" UNK_7BA579E4="MP_A_C_WOLF_01" outfit="META_OUTFIT_SHOT_01" spawn_heading="158.93" spawn_position="[180.1028, 1257.459, 185.4231]">
+            <UNK_89976A47>
+              <UNK_A85B4463 id="WOLF_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="SIGHTING_CLUE_BEAR_RUB_01" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BEAR_RUB" UNK_AD4E358A="true" UNK_CA822909="VOL_WOLF_SEARCH" spawn_position="[149.629, 1196.646, 182.285]" UNK_100B5E15="[357.11, 358.55, 71.638]" />
+          <guard config="SIGHTING_CLUE_BEAR_SCAT" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_NAT_SIGHT_WOLF_HELP_SEARCH_BEAR_SCAT" UNK_AD4E358A="true" UNK_CA822909="VOL_WOLF_SEARCH" spawn_position="[132.7383, 1216.815, 183.8937]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <guard config="FROZEN_TRACKING_LEGENDARY_WOLF" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_E2A4987A="0" UNK_AF3C7779="OBJECTIVE" outfit="META_OUTFIT_MP_LEGENDARY_WOLF_03" spawn_heading="182.6013" spawn_position="[0.3406, 1370.347, 175.2495]" UNK_B78360CD="false">
+            <UNK_C25BACC6>
+              <UNK_6FA29FB5 id="net_fetch_naturalist_sighting_wolf_deer" />
+            </UNK_C25BACC6>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="WOLF_INSPECTED" UNK_E2A4987A="0" type="ENABLE_WAYPOINT_TRAIL" />
+              <UNK_A2BEB5B id="TAKE_OUT_POACHERS" UNK_E2A4987A="0" type="DISABLE_WAYPOINT_TRAIL" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="AMMO_BOX_SEDATIVE_ROUNDS_GROUND" UNK_F5D3F1EC="PROP" UNK_AFA1A396="true" spawn_position="[-9.70752, 1372.18, 175.7943]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+        </guards>
+        <UNK_EB3CE09F>
+          <anim_scene config="HIT_CAGE_MEDIUM_NO_CAGE" role="ACTION_ON_PROXIMITY" UNK_75C6AAB="POACHER" UNK_4B061377="30.0">
+            <UNK_CA9CE014>
+              <UNK_C040F629 id="Cage" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" />
+              <UNK_C040F629 id="POACHER" UNK_E2A4987A="1" UNK_AF3C7779="GUARD" />
+            </UNK_CA9CE014>
+            <UNK_E1C09055>
+              <action id="ACTION_1" />
+              <action id="ACTION_2" />
+              <action id="ACTION_3" />
+            </UNK_E1C09055>
+          </anim_scene>
+        </UNK_EB3CE09F>
+        <UNK_D16E6597>
+          <world_state UNK_9C8BBF87="DLC_MP007_Animal_Sightings_Cage_sceneset" UNK_DAC9B68E="filter_animal_vox" UNK_1E616E69="false" />
+        </UNK_D16E6597>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_03_NO_TENTS" placement_type="ALIGN_TO_GROUND" spawn_heading="0.0" spawn_position="[-11.748, 1370.562, 175.657]" />
+        </UNK_5D1EFC39>
+        <UNK_CAA33602 spawn_position="[-11.748, 1370.562, 175.657]" />
+        <UNK_69FD74EB>
+          <static_prop config="ANIMAL_CAGE_PADLOCK" spawn_position="[0.3406, 1370.347, 175.2495]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <static_prop config="ANIMAL_CAGE_PADLOCK" spawn_position="[0.3406, 1370.347, 175.2495]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+        </UNK_69FD74EB>
+        <waves>
+          <wave UNK_1A53F8C="true" UNK_1E05C879="6">
+            <UNK_A5FAE9AE accuracy="20" UNK_294503B7="WILLADVANCE" config="POACHER_CHASER_REPEATER_MOUNTED" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_POACHERS" spawn_heading="336.5478" spawn_position="[-65.3086, 1301.545, 171.989]" UNK_B78360CD="true" />
+            <UNK_A5FAE9AE accuracy="20" UNK_294503B7="WILLADVANCE" config="POACHER_CHASER_SHOTGUN_MOUNTED" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_POACHERS" spawn_heading="335.3748" spawn_position="[-68.1304, 1300.663, 171.7334]" UNK_B78360CD="true" />
+            <UNK_A5FAE9AE accuracy="20" UNK_294503B7="WILLADVANCE" config="POACHER_CHASER_REPEATER_MOUNTED" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_POACHERS" spawn_heading="345.2675" spawn_position="[-63.9729, 1296.857, 171.5985]" UNK_B78360CD="true" />
+          </wave>
+        </waves>
+        <UNK_1E7FFBD4 text="" />
+        <decals>
+          <decal spawn_position="[180.1028, 1257.459, 185.4231]" type="BLOOD_POOL" width="2.5" />
+        </decals>
+        <cutscenes>
+          <cutscene UNK_21A06636="NATURALIST_SIGHTING_CME_INTRO_WOLF_2" UNK_633329DE="NATURALIST_SIGHTING_WOLF_CAGE_INTRO" id="MISSION_START_SKYLAPSE" UNK_18F9D42A="[738.558, 1398.57, 171.344]" UNK_4D7F4E70="CLEAR_0300" type="SKYLAPSE_WITH_CME" />
+          <cutscene UNK_633329DE="NATURALIST_SIGHTING_WOLF_OUTRO_1" id="MISSION_END_SKYLAPSE" UNK_F259B128="true" UNK_18F9D42A="[-4.12615, 1322.9, 173.925]" type="END_SKYLAPSE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="LEGENDARY_WOLF" />
+            </UNK_3AECE76F>
+          </cutscene>
+        </cutscenes>
+      </location>
+    </locations>
+  </data>
+</root>

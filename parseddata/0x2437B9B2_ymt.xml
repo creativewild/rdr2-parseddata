@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4A1A2EA>
+    <camp name="GAP_0" pos="[-5717.824, -3498.931, -24.10648]" zone="1">
+      <preset recipe="CFRT_UNIQUE_TREE_TIE1" />
+    </camp>
+    <camp name="GAP_1" pos="[-5599.67, -3493.919, -22.10398]" zone="1">
+      <preset recipe="CFRT_FOLIAGE_DRY_GRASS_SML1" />
+    </camp>
+    <camp name="GAP_2" pos="[-5687.046, -3325.364, -23.46355]" zone="1">
+      <preset recipe="CFRT_FOLIAGE_DRY_GRASS_SML1" />
+    </camp>
+    <camp name="GAP_3" pos="[-5630.912, -3800.952, -24.15438]" zone="2">
+      <preset recipe="CFRT_RANCHER_LRG1" />
+    </camp>
+    <camp UNK_DA3CFFD1="true" name="GAP_4 Robbery" pos="[-5543.412, -3677.657, -22.1373]" zone="1">
+      <preset recipe="CFRT_HERBALIST_LRG1" />
+    </camp>
+    <camp name="GAP_5" pos="[-5777.599, -3493.218, -18.16103]" zone="1">
+      <preset recipe="CFRT_HERBALIST_LRG1" />
+    </camp>
+    <camp name="GAP_6" pos="[-5778.481, -3340.258, -24.15586]" zone="2">
+      <preset recipe="CFRT_HUNTER_LRG1" />
+    </camp>
+    <camp name="GAP_7" pos="[-5399.201, -3276.839, -19.29131]" zone="1">
+      <preset recipe="CFRT_UNIQUE_TREE_SCAFF1" />
+    </camp>
+    <camp camper="Criminal" name="GAP_8" pos="[-5707.167, -3257.442, -24.13068]" zone="1">
+      <preset cluster="pg_ambient_camp_add_bathtub01" core="pg_ambient_campfire01bx" id="GAP_8" tent="pg_ambcamp01x_tent_shelter_scaff" travel="pg_ambient_camp_add_cart01" />
+    </camp>
+    <camp UNK_DA3CFFD1="true" name="GAP_9 Robbery" pos="[-5832.266, -3008.452, 5.243379]" zone="1">
+      <preset recipe="CFRT_HOBO_LRG1" />
+    </camp>
+    <camp name="GAP_10" pos="[-5349.621, -2991.114, 11.91529]" UNK_7BF5E826="amb_camp_gap_010" zone="1">
+      <preset recipe="CFRT_GENERIC_LRG_PLAIN" />
+    </camp>
+    <camp name="GAP_11" pos="[-5213.905, -2945.946, 8.505274]" UNK_7BF5E826="amb_camp_gap_011" zone="2">
+      <preset recipe="CFRT_DBL_GENERIC2" />
+    </camp>
+    <camp name="GAP_12" pos="[-5924.647, -2892.585, -8.640306]" zone="1">
+      <preset recipe="CFRT_HOBO_LRG1" />
+    </camp>
+    <camp name="GAP_13" pos="[-5693.065, -2781.604, -19.56641]" zone="2">
+      <preset recipe="CFRT_GENERIC_LRG_LIGHT" />
+    </camp>
+    <camp name="GAP_14" pos="[-5355.023, -2815.932, 9.127287]" zone="2">
+      <preset recipe="CFRT_ROUGH_LRG1" />
+    </camp>
+    <camp camper="Criminal" horse="false" name="GAP_15" pos="[-5240.183, -2793.933, 9.4705]" zone="1">
+      <preset core="pg_ambient_campfire01ax" id="GAP_15" tent="pg_ambcamp01x_tent_abandon01" />
+    </camp>
+    <camp name="GAP_16" pos="[-5627.333, -2678.391, -1.797516]" zone="2">
+      <preset recipe="CFRT_UNIQUE_TREE_TIE2" />
+    </camp>
+    <camp name="GAP_17" pos="[-5416.085, -2528.688, -2.148881]" zone="2">
+      <preset recipe="CFRT_HERBALIST_LRG1" />
+    </camp>
+    <camp name="GAP_18" pos="[-5167.746, -2453.028, 0.198034]" zone="2">
+      <preset recipe="CFRT_MINER_LRG1" />
+    </camp>
+    <camp name="GAP_19" pos="[-5170.577, -2304.255, 0.93978]" zone="2">
+      <preset recipe="CFRT_RANCHER_MED2" />
+    </camp>
+  </UNK_B4A1A2EA>
+</root>

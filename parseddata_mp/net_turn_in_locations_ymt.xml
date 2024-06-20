@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <net_turn_in_locations>
+    <location id="ANNESBURG_SHERIFF" UNK_F0B40E4E="[2907.455, 1314.725, 44.38533]" UNK_BD47258C="75.0">
+      <peds>
+        <ped>
+          <data heading="236.0" model="U_M_O_ASBSHERIFF_01" outfit="META_OUTFIT_DEFAULT" position="[2906.424, 1314.691, 43.93803]">
+            <flags type="PED_CREATION">
+              <flag type="USE_DEFAULT_LOADOUT" />
+            </flags>
+            <flags type="VISIBILITY_CONDITION">
+              <flag type="HIDE_FOR_SCENE" />
+            </flags>
+          </data>
+          <scenario UNK_CFB4E07C="WORLD_CREATED" position="[2907.455, 1314.725, 44.38533]" radius="0.5" UNK_A81E9556="PROP_HUMAN_SEAT_CHAIR" />
+          <dialogue>
+            <line id="AIM" UNK_B213B0DE="true" root="GUN" system="ASC" />
+            <line id="AIM_ESCALATED" UNK_B213B0DE="true" root="GUN" system="ASC" />
+            <line id="SHOOT_NEAR" UNK_B213B0DE="true" root="GENERIC_SHOCKED_MED" system="ASC" />
+            <line id="SHOOT_NEAR_ESCALATED" UNK_B213B0DE="true" root="GENERIC_SHOCKED_HIGH" system="ASC" />
+            <line id="PUSH" UNK_B213B0DE="true" root="PLAYER_LOITERING" system="ASC" />
+            <line id="PUSH_ESCALATED" UNK_B213B0DE="true" root="GENERIC_CURSE_MED" system="ASC" />
+            <line id="IDLE" UNK_B213B0DE="false" root="JAIL_LOITER" system="ASC" />
+            <line id="SHOOT_AT" UNK_B213B0DE="true" root="GENERIC_FRIGHTENED_MED" system="ASC" />
+            <line id="SHOOT_AT_ESCALATED" UNK_B213B0DE="true" root="GENERIC_FRIGHTENED_HIGH" system="ASC" />
+          </dialogue>
+        </ped>
+      </peds>
+      <props>
+        <prop>
+          <data model="" UNK_F2CC38CD="" UNK_DD7C4DFC="" position="" radius="" rotation="" type="">
+            <flags type="ATTRIBUTES">
+              <flag type="" />
+            </flags>
+          </data>
+        </prop>
+      </props>
+      <UNK_B95C767A>
+        <UNK_ADD8DEFE name="MBHANAU" />
+      </UNK_B95C767A>
+      <UNK_9BCF1677>
+        <UNK_9885144E position="[2907.455, 1314.725, 44.38533]" />
+      </UNK_9BCF1677>
+      <volumes>
+        <volume name="Annesburg-Loiter" type="LOITER">
+          <volume position="[2907.168, 1312.016, 45.032]" rotation="[0.0, 0.0, -17.751]" scale="[8.03, 7.221, 3.357]" type="volBox" />
+        </volume>
+      </volumes>
+    </location>
+    <location id="ARMADILLO_SHERIFF" UNK_F0B40E4E="[-3622.925, -2607.012, -14.34251]" UNK_BD47258C="75.0">
+      <peds>
+        <ped>
+          <data heading="13.0" model="MP_U_M_M_ARMSHERIFF_01" outfit="META_OUTFIT_DEFAULT" position="[-3622.925, -2607.012, -14.34251]">
+            <flags type="PED_CREATION">
+              <flag type="USE_DEFAULT_LOADOUT" />
+            </flags>
+            <flags type="VISIBILITY_CONDITION">
+              <flag type="HIDE_FOR_SCENE" />
+            </flags>
+          </data>
+          <scenario UNK_CFB4E07C="SCRIPT_CREATED" heading="0.0" position="[-3625.146, -2601.709, -13.84273]" UNK_A81E9556="PROP_HUMAN_SEAT_CHAIR">
+            <UNK_B74D2F59 anim="PROP_HUMAN_SEAT_CHAIR_GENERIC_MALE_A" />
+            <flags type="SCENARIO">
+              <flag type="NO_SPAWN" />
+              <flag type="NO_ATTRACTION" />
+            </flags>
+          </scenario>
+          <dialogue>
+            <line id="AIM" UNK_B213B0DE="true" root="GUN" system="ASC" />
+            <line id="AIM_ESCALATED" UNK_B213B0DE="true" root="GUN" system="ASC" />
+            <line id="SHOOT_NEAR" UNK_B213B0DE="true" root="GENERIC_SHOCKED_MED" system="ASC" />
+            <line id="SHOOT_NEAR_ESCALATED" UNK_B213B0DE="true" root="GENERIC_SHOCKED_HIGH" system="ASC" />
+            <line id="PUSH" UNK_B213B0DE="true" root="PLAYER_LOITERING" system="ASC" />
+            <line id="PUSH_ESCALATED" UNK_B213B0DE="true" root="GENERIC_CURSE_MED" system="ASC" />
+            <line id="SHOOT_AT" UNK_B213B0DE="true" root="GENERIC_FRIGHTENED_MED" system="ASC" />
+            <line id="SHOOT_AT_ESCALATED" UNK_B213B0DE="true" root="GENERIC_FRIGHTENED_HIGH" system="ASC" />
+          </dialogue>
+        </ped>
+      </peds>
+      <UNK_B95C767A>
+        <UNK_ADD8DEFE name="MBHARAU" />
+      </UNK_B95C767A>
+      <UNK_9BCF1677>
+        <UNK_9885144E position="[-3622.925, -2607.012, -14.34251]" />
+      </UNK_9BCF1677>
+      <volumes>
+        <volume name="Armadillo-Loiter" type="LOITER">
+          <volume position="[-3620.726, -2602.994, -12.968]" rotation="[0.0, 0.0, 25.0]" scale="[9.048, 8.225, 2.763]" type="volBox" />
+        </volume>
+      </volumes>
+      <props>
+        <prop>
+          <data model="p_diningchairs01x" UNK_F2CC38CD="[-3625.188, -2601.661, -14.3244]" UNK_DD7C4DFC="[0.0, 0.0, 25.83]" position="[-3625.114, -2601.612, -14.3416]" radius="1.0" type="PIN">
+            <flags type="ATTRIBUTES">
+              <flag type="FREEZE_POSITION" />
+              <flag type="INVINCIBLE" />
+              <flag type="DISABLE_DECALS" />
+            </flags>
+            <flags type="VISIBILITY_CONDITION">
+              <flag type="HIDE_FOR_SCENE" />
+            </flags>
+          </data>
+        </prop>
+      </props>
+    </location>
+    <location id="BLACKWATER_SHERIFF" UNK_F0B40E4E="[-761.5303, -1266.49, 43.50875]" UNK_BD47258C="75.0">
+      <peds>
+        <ped>
+          <data heading="164.0" model="mp_U_M_O_BLWPOLICECHIEF_01" outfit="META_OUTFIT_DEFAULT" position="[-762.7875, -1265.947, 43.05053]">
+            <flags type="PED_CREATION">
+              <flag type="USE_DEFAULT_LOADOUT" />
+            </flags>
+            <flags type="VISIBILITY_CONDITION">
+              <flag type="HIDE_FOR_SCENE" />
+            </flags>
+          </data>
+          <scenario UNK_CFB4E07C="SCRIPT_CREATED" heading="180.0" position="[-761.8544, -1266.442, 43.5657]" UNK_A81E9556="PROP_HUMAN_SEAT_CHAIR">
+            <UNK_B74D2F59 anim="PROP_HUMAN_SEAT_CHAIR_GENERIC_MALE_A" />
+            <flags type="SCENARIO">
+              <flag type="NO_SPAWN" />
+              <flag type="NO_ATTRACTION" />
+            </flags>
+          </scenario>
+          <dialogue>
+            <line id="AIM" UNK_B213B0DE="true" root="GUN" system="ASC" />
+            <line id="AIM_ESCALATED" UNK_B213B0DE="true" root="GUN" system="ASC" />
+            <line id="SHOOT_NEAR" UNK_B213B0DE="true" root="GENERIC_SHOCKED_MED" system="ASC" />
+            <line id="SHOOT_NEAR_ESCALATED" UNK_B213B0DE="true" root="GENERIC_SHOCKED_HIGH" system="ASC" />
+            <line id="PUSH" UNK_B213B0DE="true" root="PLAYER_LOITERING" system="ASC" />
+            <line id="PUSH_ESCALATED" UNK_B213B0DE="true" root="GENERIC_CURSE_MED" system="ASC" />
+            <line id="IDLE" UNK_B213B0DE="false" root="JAIL_LOITER" system="ASC" />
+            <line id="SHOOT_AT" UNK_B213B0DE="true" root="GENERIC_FRIGHTENED_MED" system="ASC" />
+            <line id="SHOOT_AT_ESCALATED" UNK_B213B0DE="true" root="GENERIC_FRIGHTENED_HIGH" system="ASC" />
+          </dialogue>
+        </ped>
+      </peds>
+      <UNK_B95C767A>
+        <UNK_ADD8DEFE name="MBHBWAU" />
+      </UNK_B95C767A>
+      <UNK_9BCF1677>
+        <UNK_9885144E position="[-761.5303, -1266.49, 43.50875]" />
+      </UNK_9BCF1677>
+      <props>
+        <prop>
+          <data model="p_diningchairs01x" UNK_F2CC38CD="[-761.8726, -1266.504, 43.0729]" UNK_DD7C4DFC="[0.0, 0.0, 0.83]" position="[-761.8726, -1266.504, 43.0729]" radius="1.0" rotation="[0.0, 0.0, 0.83]" type="PIN">
+            <flags type="ATTRIBUTES">
+              <flag type="FREEZE_POSITION" />
+              <flag type="INVINCIBLE" />
+              <flag type="DISABLE_DECALS" />
+            </flags>
+          </data>
+        </prop>
+      </props>
+      <volumes>
+        <volume name="Blackwater-Loiter" type="LOITER">
+          <volume position="[-763.093, -1269.3, 44.598]" rotation="[0.0, 0.0, 0.0]" scale="[11.846, 7.958, 3.135]" type="volBox" />
+          <volume position="[-764.669, -1263.558, 44.082]" rotation="[0.0, 0.0, 0.0]" scale="[7.147, 3.184, 2.664]" type="volBox" />
+        </volume>
+      </volumes>
+    </location>
+    <location id="RHODES_SHERIFF" UNK_F0B40E4E="[1360.721, -1302.948, 77.21103]" UNK_BD47258C="75.0">
+      <peds>
+        <ped>
+          <data heading="236.0" model="CS_LEIGHGRAY" outfit="META_OUTFIT_DEFAULT" position="[1361.397, -1301.915, 76.76797]">
+            <flags type="PED_CREATION">
+              <flag type="USE_DEFAULT_LOADOUT" />
+            </flags>
+            <flags type="VISIBILITY_CONDITION">
+              <flag type="HIDE_FOR_SCENE" />
+            </flags>
+          </data>
+          <scenario UNK_CFB4E07C="WORLD_CREATED" position="[1361.351, -1303.297, 77.2632]" radius="0.5" UNK_A81E9556="PROP_HUMAN_SEAT_CHAIR" />
+          <dialogue>
+            <line id="AIM" UNK_B213B0DE="true" root="MBHRH_REACT" system="DIALOGUE_STAR" />
+            <line id="AIM_ESCALATED" UNK_B213B0DE="true" root="MBHRH_REACT" system="DIALOGUE_STAR" />
+            <line id="SHOOT_NEAR" UNK_B213B0DE="true" root="MBHRH_REACT" system="DIALOGUE_STAR" />
+            <line id="SHOOT_NEAR_ESCALATED" UNK_B213B0DE="true" root="MBHRH_REACT" system="DIALOGUE_STAR" />
+            <line id="PUSH" UNK_B213B0DE="true" root="MBHRH_REACT" system="DIALOGUE_STAR" />
+            <line id="PUSH_ESCALATED" UNK_B213B0DE="true" root="MBHRH_REACT" system="DIALOGUE_STAR" />
+            <line id="SHOOT_AT" UNK_B213B0DE="true" root="MBHRH_REACT" system="DIALOGUE_STAR" />
+            <line id="SHOOT_AT_ESCALATED" UNK_B213B0DE="true" root="MBHRH_REACT" system="DIALOGUE_STAR" />
+          </dialogue>
+        </ped>
+      </peds>
+      <UNK_B95C767A>
+        <UNK_ADD8DEFE name="MBHRHAU" />
+      </UNK_B95C767A>
+      <UNK_9BCF1677>
+        <UNK_9885144E position="[1360.721, -1302.948, 77.21103]" />
+      </UNK_9BCF1677>
+      <props>
+        <prop>
+          <data model="p_woodenchair01x" UNK_F2CC38CD="[1361.184, -1303.222, 76.7632]" UNK_DD7C4DFC="[0.0, 0.0, 271.0]" position="[1360.676, -1302.938, 76.7571]" radius="1.0" rotation="[0.0, 0.0, 66.4]" type="PIN">
+            <flags type="ATTRIBUTES">
+              <flag type="FREEZE_POSITION" />
+              <flag type="INVINCIBLE" />
+              <flag type="DISABLE_DECALS" />
+            </flags>
+          </data>
+        </prop>
+      </props>
+      <volumes>
+        <volume name="Rhodes-Loiter" type="LOITER">
+          <volume position="[1360.663, -1301.623, 78.153]" rotation="[0.0, 0.0, 70.0]" scale="[8.764, 5.553, 2.84]" type="volBox" />
+          <volume position="[1355.391, -1302.165, 78.169]" rotation="[0.0, 0.0, 70.0]" scale="[3.959, 3.815, 2.84]" type="volBox" />
+        </volume>
+      </volumes>
+    </location>
+    <location id="SAINT_DENIS_SHERIFF" UNK_F0B40E4E="[2509.16, -1308.904, 48.41527]" UNK_BD47258C="75.0">
+      <peds>
+        <ped>
+          <data heading="89.7" model="U_M_M_SDPOLICECHIEF_01" outfit="META_OUTFIT_DEFAULT" position="[2509.173, -1307.432, 47.95366]">
+            <flags type="PED_CREATION">
+              <flag type="USE_DEFAULT_LOADOUT" />
+            </flags>
+            <flags type="VISIBILITY_CONDITION">
+              <flag type="HIDE_FOR_SCENE" />
+            </flags>
+          </data>
+          <scenario UNK_CFB4E07C="SCRIPT_CREATED" heading="89.7" position="[2509.16, -1308.904, 48.41527]" UNK_A81E9556="PROP_HUMAN_SEAT_CHAIR" />
+          <dialogue>
+            <line id="AIM" UNK_B213B0DE="true" root="GUN" system="ASC" />
+            <line id="AIM_ESCALATED" UNK_B213B0DE="true" root="GUN" system="ASC" />
+            <line id="SHOOT_NEAR" UNK_B213B0DE="true" root="GENERIC_SHOCKED_MED" system="ASC" />
+            <line id="SHOOT_NEAR_ESCALATED" UNK_B213B0DE="true" root="GENERIC_SHOCKED_HIGH" system="ASC" />
+            <line id="PUSH" UNK_B213B0DE="true" root="PLAYER_LOITERING" system="ASC" />
+            <line id="PUSH_ESCALATED" UNK_B213B0DE="true" root="GENERIC_CURSE_MED" system="ASC" />
+            <line id="IDLE" UNK_B213B0DE="false" root="JAIL_LOITER" system="ASC" />
+            <line id="SHOOT_AT" UNK_B213B0DE="true" root="GENERIC_FRIGHTENED_MED" system="ASC" />
+            <line id="SHOOT_AT_ESCALATED" UNK_B213B0DE="true" root="GENERIC_FRIGHTENED_HIGH" system="ASC" />
+          </dialogue>
+        </ped>
+      </peds>
+      <UNK_B95C767A>
+        <UNK_ADD8DEFE name="MBHSDAU" />
+      </UNK_B95C767A>
+      <UNK_9BCF1677>
+        <UNK_9885144E position="[2509.16, -1308.904, 48.41527]" />
+      </UNK_9BCF1677>
+      <volumes>
+        <volume name="StDenis-Loiter" type="LOITER">
+          <volume position="[2502.124, -1308.798, 51.319]" rotation="[0.0, 0.0, 0.0]" scale="[17.413, 16.88, 6.727]" type="volBox" />
+          <volume position="[2513.385, -1308.852, 49.81]" rotation="[0.0, 0.0, 0.0]" scale="[5.491, 8.487, 3.702]" type="volBox" />
+        </volume>
+      </volumes>
+    </location>
+    <location id="STRAWBERRY_SHERIFF" UNK_F0B40E4E="[-1806.727, -347.7205, 164.097]" UNK_BD47258C="75.0">
+      <peds>
+        <ped>
+          <data heading="153.0" model="CS_STRSHERIFF_01" outfit="META_OUTFIT_DEFAULT" position="[-1808.514, -347.3782, 163.6551]">
+            <flags type="PED_CREATION">
+              <flag type="USE_DEFAULT_LOADOUT" />
+            </flags>
+            <flags type="VISIBILITY_CONDITION">
+              <flag type="HIDE_FOR_SCENE" />
+            </flags>
+          </data>
+          <scenario UNK_CFB4E07C="WORLD_CREATED" position="[-1806.727, -347.7205, 164.097]" radius="0.5" UNK_A81E9556="PROP_HUMAN_SEAT_CHAIR" />
+          <dialogue>
+            <line id="AIM" UNK_B213B0DE="true" root="GUN" system="ASC" />
+            <line id="AIM_ESCALATED" UNK_B213B0DE="true" root="GUN" system="ASC" />
+            <line id="SHOOT_NEAR" UNK_B213B0DE="true" root="GENERIC_SHOCKED_MED" system="ASC" />
+            <line id="SHOOT_NEAR_ESCALATED" UNK_B213B0DE="true" root="GENERIC_SHOCKED_HIGH" system="ASC" />
+            <line id="PUSH" UNK_B213B0DE="true" root="PLAYER_LOITERING" system="ASC" />
+            <line id="PUSH_ESCALATED" UNK_B213B0DE="true" root="GENERIC_CURSE_MED" system="ASC" />
+            <line id="SHOOT_AT" UNK_B213B0DE="true" root="GENERIC_FRIGHTENED_MED" system="ASC" />
+            <line id="SHOOT_AT_ESCALATED" UNK_B213B0DE="true" root="GENERIC_FRIGHTENED_HIGH" system="ASC" />
+          </dialogue>
+        </ped>
+      </peds>
+      <UNK_B95C767A>
+        <UNK_ADD8DEFE name="MBHSTAU" />
+      </UNK_B95C767A>
+      <UNK_9BCF1677>
+        <UNK_9885144E position="[-1806.727, -347.7205, 164.097]" />
+      </UNK_9BCF1677>
+      <volumes>
+        <volume name="Strawberry-Loiter" type="LOITER">
+          <volume position="[-1813.068, -353.042, 165.165]" rotation="[0.0, 0.0, -25.081]" scale="[5.796, 6.001, 3.033]" type="volBox" />
+          <volume position="[-1810.502, -349.36, 164.588]" rotation="[0.0, 0.0, -25.081]" scale="[7.336, 6.555, 3.955]" type="volBox" />
+        </volume>
+      </volumes>
+    </location>
+    <location id="TUMBLEWEED_SHERIFF" UNK_F0B40E4E="[-5531.075, -2930.405, -1.72727]" UNK_BD47258C="75.0">
+      <peds>
+        <ped>
+          <data heading="297.0" model="CS_MP_SHERIFFFREEMAN" outfit="META_OUTFIT_DEFAULT" position="[-5531.49, -2928.996, -2.36092]">
+            <flags type="PED_CREATION">
+              <flag type="USE_DEFAULT_LOADOUT" />
+            </flags>
+            <flags type="VISIBILITY_CONDITION">
+              <flag type="HIDE_FOR_SCENE" />
+            </flags>
+          </data>
+          <scenario UNK_CFB4E07C="WORLD_CREATED" position="[-5531.075, -2930.405, -1.72727]" radius="0.5" UNK_A81E9556="PROP_HUMAN_SEAT_CHAIR" />
+          <dialogue>
+            <line id="AIM" UNK_B213B0DE="true" root="GUN" system="ASC" />
+            <line id="AIM_ESCALATED" UNK_B213B0DE="true" root="GUN" system="ASC" />
+            <line id="SHOOT_NEAR" UNK_B213B0DE="true" root="GENERIC_SHOCKED_MED" system="ASC" />
+            <line id="SHOOT_NEAR_ESCALATED" UNK_B213B0DE="true" root="GENERIC_SHOCKED_HIGH" system="ASC" />
+            <line id="PUSH" UNK_B213B0DE="true" root="PLAYER_LOITERING" system="ASC" />
+            <line id="PUSH_ESCALATED" UNK_B213B0DE="true" root="GENERIC_CURSE_MED" system="ASC" />
+            <line id="IDLE" UNK_B213B0DE="false" root="JAIL_LOITER" system="ASC" />
+            <line id="SHOOT_AT" UNK_B213B0DE="true" root="GENERIC_FRIGHTENED_MED" system="ASC" />
+            <line id="SHOOT_AT_ESCALATED" UNK_B213B0DE="true" root="GENERIC_FRIGHTENED_HIGH" system="ASC" />
+          </dialogue>
+        </ped>
+      </peds>
+      <UNK_B95C767A>
+        <UNK_ADD8DEFE name="MBHTWAU" />
+      </UNK_B95C767A>
+      <UNK_9BCF1677>
+        <UNK_9885144E position="[-5531.075, -2930.405, -1.72727]" />
+      </UNK_9BCF1677>
+      <volumes>
+        <volume name="Tumbleweed-Loiter" type="LOITER">
+          <volume position="[-5529.514, -2927.844, -1.006]" rotation="[0.0, 0.0, 25.065]" scale="[6.504, 6.14, 2.732]" type="volBox" />
+          <volume position="[-5532.312, -2921.858, -1.006]" rotation="[0.0, 0.0, 25.065]" scale="[6.504, 7.187, 2.732]" type="volBox" />
+        </volume>
+      </volumes>
+    </location>
+    <location id="VALENTINE_SHERIFF" UNK_F0B40E4E="[-277.6318, 804.1627, 118.8331]" UNK_BD47258C="75.0">
+      <peds>
+        <ped>
+          <data heading="309.0" model="CS_VALSHERIFF" outfit="META_OUTFIT_DEFAULT" position="[-278.2176, 804.7463, 118.38]">
+            <flags type="PED_CREATION">
+              <flag type="USE_DEFAULT_LOADOUT" />
+            </flags>
+            <flags type="VISIBILITY_CONDITION">
+              <flag type="HIDE_FOR_SCENE" />
+            </flags>
+          </data>
+          <scenario UNK_CFB4E07C="WORLD_CREATED" position="[-277.6318, 804.1627, 118.8331]" radius="0.5" UNK_A81E9556="GENERIC_SEAT_CHAIR_TABLE_SCENARIO" />
+          <dialogue>
+            <line id="AIM" UNK_B213B0DE="true" root="GUN" system="ASC" />
+            <line id="AIM_ESCALATED" UNK_B213B0DE="true" root="GUN" system="ASC" />
+            <line id="SHOOT_NEAR" UNK_B213B0DE="true" root="GENERIC_SHOCKED_MED" system="ASC" />
+            <line id="SHOOT_NEAR_ESCALATED" UNK_B213B0DE="true" root="GENERIC_SHOCKED_HIGH" system="ASC" />
+            <line id="PUSH" UNK_B213B0DE="true" root="PLAYER_LOITERING" system="ASC" />
+            <line id="PUSH_ESCALATED" UNK_B213B0DE="true" root="GENERIC_CURSE_MED" system="ASC" />
+            <line id="IDLE" UNK_B213B0DE="false" root="JAIL_LOITER" system="ASC" />
+            <line id="SHOOT_AT" UNK_B213B0DE="true" root="GENERIC_FRIGHTENED_MED" system="ASC" />
+            <line id="SHOOT_AT_ESCALATED" UNK_B213B0DE="true" root="GENERIC_FRIGHTENED_HIGH" system="ASC" />
+          </dialogue>
+        </ped>
+      </peds>
+      <UNK_B95C767A>
+        <UNK_ADD8DEFE name="MBHVAAU" />
+      </UNK_B95C767A>
+      <UNK_9BCF1677>
+        <UNK_9885144E position="[-277.6318, 804.1627, 118.8331]" />
+      </UNK_9BCF1677>
+      <volumes>
+        <volume name="Valentine-Loiter" type="LOITER">
+          <volume position="[-277.219, 807.114, 119.786]" rotation="[0.0, 0.0, 9.786]" scale="[5.06, 9.16, 2.85]" type="volBox" />
+          <volume position="[-272.876, 809.088, 119.879]" rotation="[0.0, 0.0, 9.786]" scale="[4.386, 6.677, 3.006]" type="volBox" />
+        </volume>
+      </volumes>
+    </location>
+  </net_turn_in_locations>
+</root>

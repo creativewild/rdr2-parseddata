@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_F18BC1F7 id="STAMPS">
+    <layout id="FULLPAGE_LAYOUT_1">
+      <item>
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_OWNED" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_SOLDOUT" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_OUTOFSTOCK" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.065" id="STAMP_COUPON" r="156" rot="345.0" width="0.09" x="0.075" y="0.045" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.065" id="STAMP_SALE" r="156" rot="345.0" width="0.09" x="0.275" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_OPTIONS" r="214" rot="0.0" width="0.09" x="0.45" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_LAST_CHANCE" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_BESTVALUE" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_JUSTFORYOU" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_LIMITEDSTOCK" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_COMINGSOON" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_POPULAR" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.025" id="STAMP_CASH" r="214" rot="0.0" width="0.033" x="0.359" y="0.119" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.025" id="STAMP_GOLD" r="255" rot="0.0" width="0.033" x="0.359" y="0.119" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.059" id="STAMP_HORSE_GOLD" r="255" rot="0.0" width="0.075" x="0.064" y="0.379" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.021" id="STAMP_LOCK" r="156" rot="0.0" width="0.025" x="0.347" y="0.148" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_LOCKED_RANK" r="156" rot="0.0" width="0.018" x="0.259" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_UNLOCKED_RANK" r="156" rot="0.0" width="0.018" x="0.259" y="0.423" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.015" id="STAMP_NEW" r="255" rot="0.0" width="0.019" x="0.15" y="0.018" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.015" id="STAMP_WISHLIST" r="156" rot="0.0" width="0.019" x="0.35" y="0.018" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_COLLECTOR_LOCKED" r="156" rot="0.0" width="0.018" x="0.259" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_BOUNTY_HUNTER_LOCKED" r="156" rot="0.0" width="0.018" x="0.259" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_TRADER_LOCKED" r="156" rot="0.0" width="0.018" x="0.259" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_MOONSHINER_LOCKED" r="156" rot="0.0" width="0.018" x="0.259" y="0.423" />
+      </item>
+    </layout>
+    <layout id="FULLPAGE_LAYOUT_2">
+      <item>
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_OWNED" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_SOLDOUT" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_OUTOFSTOCK" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.065" id="STAMP_COUPON" r="156" rot="345.0" width="0.09" x="0.075" y="0.045" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.065" id="STAMP_SALE" r="156" rot="345.0" width="0.09" x="0.275" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_OPTIONS" r="214" rot="0.0" width="0.09" x="0.45" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_LAST_CHANCE" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_BESTVALUE" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_JUSTFORYOU" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_LIMITEDSTOCK" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_COMINGSOON" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_POPULAR" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.025" id="STAMP_CASH" r="214" rot="0.0" width="0.033" x="0.356" y="0.09" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.025" id="STAMP_GOLD" r="255" rot="0.0" width="0.033" x="0.356" y="0.09" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.059" id="STAMP_HORSE_GOLD" r="255" rot="0.0" width="0.075" x="0.064" y="0.379" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.021" id="STAMP_LOCK" r="156" rot="0.0" width="0.025" x="0.345" y="0.12" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_LOCKED_RANK" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_UNLOCKED_RANK" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.015" id="STAMP_NEW" r="255" rot="0.0" width="0.019" x="0.15" y="0.018" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.015" id="STAMP_WISHLIST" r="156" rot="0.0" width="0.019" x="0.35" y="0.018" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_COLLECTOR_LOCKED" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_BOUNTY_HUNTER_LOCKED" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_TRADER_LOCKED" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_MOONSHINER_LOCKED" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+      </item>
+    </layout>
+    <layout id="FULLPAGE_LAYOUT_3">
+      <item>
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_OWNED" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_SOLDOUT" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_OUTOFSTOCK" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.065" id="STAMP_COUPON" r="156" rot="345.0" width="0.09" x="0.075" y="0.045" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.065" id="STAMP_SALE" r="156" rot="345.0" width="0.09" x="0.275" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_OPTIONS" r="214" rot="0.0" width="0.09" x="0.45" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_LAST_CHANCE" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_BESTVALUE" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_JUSTFORYOU" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_LIMITEDSTOCK" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_COMINGSOON" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_POPULAR" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.025" id="STAMP_CASH" r="214" rot="0.0" width="0.033" x="0.356" y="0.09" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.025" id="STAMP_GOLD" r="255" rot="0.0" width="0.033" x="0.356" y="0.09" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.059" id="STAMP_HORSE_GOLD" r="255" rot="0.0" width="0.075" x="0.064" y="0.379" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.021" id="STAMP_LOCK" r="156" rot="0.0" width="0.025" x="0.344" y="0.117" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_LOCKED_RANK" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_UNLOCKED_RANK" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.015" id="STAMP_NEW" r="255" rot="0.0" width="0.019" x="0.15" y="0.018" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.015" id="STAMP_WISHLIST" r="156" rot="0.0" width="0.019" x="0.35" y="0.018" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_COLLECTOR_LOCKED" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_BOUNTY_HUNTER_LOCKED" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_TRADER_LOCKED" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_MOONSHINER_LOCKED" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+      </item>
+    </layout>
+    <layout id="FULLPAGE_LAYOUT_4">
+      <item>
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_OWNED" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_SOLDOUT" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_OUTOFSTOCK" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.065" id="STAMP_COUPON" r="156" rot="345.0" width="0.09" x="0.075" y="0.045" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.065" id="STAMP_SALE" r="156" rot="345.0" width="0.09" x="0.275" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_OPTIONS" r="214" rot="0.0" width="0.09" x="0.45" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_LAST_CHANCE" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_BESTVALUE" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_JUSTFORYOU" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_LIMITEDSTOCK" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_COMINGSOON" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_POPULAR" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.025" id="STAMP_CASH" r="214" rot="0.0" width="0.033" x="0.365" y="0.106" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.025" id="STAMP_GOLD" r="255" rot="0.0" width="0.033" x="0.365" y="0.106" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.059" id="STAMP_HORSE_GOLD" r="255" rot="0.0" width="0.075" x="0.064" y="0.379" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.021" id="STAMP_LOCK" r="156" rot="0.0" width="0.025" x="0.343" y="0.135" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_LOCKED_RANK" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_UNLOCKED_RANK" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.015" id="STAMP_NEW" r="255" rot="0.0" width="0.019" x="0.15" y="0.018" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.015" id="STAMP_WISHLIST" r="156" rot="0.0" width="0.019" x="0.35" y="0.018" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_COLLECTOR_LOCKED" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_BOUNTY_HUNTER_LOCKED" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_TRADER_LOCKED" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_MOONSHINER_LOCKED" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+      </item>
+    </layout>
+    <layout id="FULLPAGE_LAYOUT_5">
+      <item>
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_OWNED" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_SOLDOUT" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_OUTOFSTOCK" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.065" id="STAMP_COUPON" r="156" rot="345.0" width="0.09" x="0.075" y="0.045" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.065" id="STAMP_SALE" r="156" rot="345.0" width="0.09" x="0.275" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_OPTIONS" r="214" rot="0.0" width="0.09" x="0.45" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_LAST_CHANCE" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_BESTVALUE" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_JUSTFORYOU" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_LIMITEDSTOCK" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_COMINGSOON" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_POPULAR" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.025" id="STAMP_CASH" r="214" rot="0.0" width="0.033" x="0.365" y="0.09" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.025" id="STAMP_GOLD" r="255" rot="0.0" width="0.033" x="0.365" y="0.09" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.059" id="STAMP_HORSE_GOLD" r="255" rot="0.0" width="0.075" x="0.064" y="0.379" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.021" id="STAMP_LOCK" r="156" rot="0.0" width="0.025" x="0.345" y="0.12" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_LOCKED_RANK" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_UNLOCKED_RANK" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.015" id="STAMP_NEW" r="255" rot="0.0" width="0.019" x="0.15" y="0.018" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.015" id="STAMP_WISHLIST" r="156" rot="0.0" width="0.019" x="0.35" y="0.018" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_COLLECTOR_LOCKED" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_BOUNTY_HUNTER_LOCKED" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_TRADER_LOCKED" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_MOONSHINER_LOCKED" r="156" rot="0.0" width="0.018" x="0.027" y="0.423" />
+      </item>
+    </layout>
+    <layout id="FULLPAGE_LAYOUT_6">
+      <item>
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_OWNED" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_SOLDOUT" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.065" id="STAMP_OUTOFSTOCK" r="214" rot="345.0" width="0.09" x="0.425" y="0.045" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.065" id="STAMP_COUPON" r="156" rot="345.0" width="0.09" x="0.075" y="0.045" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.065" id="STAMP_SALE" r="156" rot="345.0" width="0.09" x="0.275" y="0.045" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_OPTIONS" r="214" rot="0.0" width="0.09" x="0.06" y="0.37" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_LAST_CHANCE" r="214" rot="0.0" width="0.09" x="0.35" y="0.25" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_BESTVALUE" r="214" rot="0.0" width="0.09" x="0.289" y="0.131" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_JUSTFORYOU" r="214" rot="0.0" width="0.09" x="0.289" y="0.131" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_LIMITEDSTOCK" r="214" rot="0.0" width="0.09" x="0.289" y="0.131" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_COMINGSOON" r="214" rot="0.0" width="0.09" x="0.289" y="0.131" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.07" id="STAMP_POPULAR" r="214" rot="0.0" width="0.09" x="0.289" y="0.131" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.025" id="STAMP_CASH" r="214" rot="0.0" width="0.033" x="0.35" y="0.109" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.025" id="STAMP_GOLD" r="255" rot="0.0" width="0.033" x="0.35" y="0.109" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.059" id="STAMP_HORSE_GOLD" r="255" rot="0.0" width="0.075" x="0.064" y="0.379" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.021" id="STAMP_LOCK" r="156" rot="0.0" width="0.025" x="0.345" y="0.148" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_LOCKED_RANK" r="156" rot="0.0" width="0.018" x="0.025" y="0.451" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_UNLOCKED_RANK" r="156" rot="0.0" width="0.018" x="0.025" y="0.451" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.015" id="STAMP_NEW" r="255" rot="0.0" width="0.019" x="0.15" y="0.018" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.015" id="STAMP_WISHLIST" r="156" rot="0.0" width="0.019" x="0.35" y="0.018" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_COLLECTOR_LOCKED" r="156" rot="0.0" width="0.018" x="0.025" y="0.451" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_BOUNTY_HUNTER_LOCKED" r="156" rot="0.0" width="0.018" x="0.025" y="0.451" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_TRADER_LOCKED" r="156" rot="0.0" width="0.018" x="0.025" y="0.451" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.014" id="STAMP_ROLES_MOONSHINER_LOCKED" r="156" rot="0.0" width="0.018" x="0.025" y="0.451" />
+      </item>
+    </layout>
+    <layout id="GRID_OF_3_LAYOUT_0">
+      <item>
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_OWNED" r="214" rot="352.871" width="0.104" x="0.134" y="0.119" />
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_SOLDOUT" r="214" rot="347.525" width="0.1" x="0.134" y="0.129" />
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_OUTOFSTOCK" r="214" rot="347.525" width="0.1" x="0.134" y="0.129" />
+        <stamp a="180" b="0" g="0" gold="false" height="0.064" id="STAMP_COUPON" r="156" rot="16.04" width="0.079" x="0.059" y="0.79" />
+        <stamp a="225" b="0" g="0" gold="false" height="0.094" id="STAMP_SALE" r="156" rot="0.0" width="0.104" x="0.054" y="0.161" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.052" id="STAMP_OPTIONS" r="214" rot="0.0" width="0.06" x="0.079" y="0.092" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_LAST_CHANCE" r="214" rot="0.0" width="0.079" x="0.203" y="0.158" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.052" id="STAMP_BESTVALUE" r="214" rot="8.911" width="0.069" x="0.212" y="0.158" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_JUSTFORYOU" r="214" rot="0.0" width="0.074" x="0.208" y="0.156" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_LIMITEDSTOCK" r="214" rot="0.0" width="0.075" x="0.208" y="0.158" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_COMINGSOON" r="214" rot="0.0" width="0.075" x="0.208" y="0.158" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.054" id="STAMP_POPULAR" r="214" rot="354.654" width="0.089" x="0.198" y="0.171" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.018" id="STAMP_CASH" r="214" rot="0.0" width="0.02" x="0.2" y="0.238" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.018" id="STAMP_GOLD" r="255" rot="0.0" width="0.02" x="0.2" y="0.238" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.059" id="STAMP_HORSE_GOLD" r="255" rot="0.0" width="0.075" x="0.064" y="0.379" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_LOCK" r="156" rot="0.0" width="0.024" x="0.029" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_LOCKED_RANK" r="156" rot="0.0" width="0.024" x="0.029" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_UNLOCKED_RANK" r="156" rot="0.0" width="0.025" x="0.029" y="0.238" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.02" id="STAMP_NEW" r="255" rot="0.0" width="0.025" x="0.23" y="0.07" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.025" id="STAMP_WISHLIST" r="156" rot="0.0" width="0.045" x="0.198" y="0.109" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_COLLECTOR_LOCKED" r="156" rot="0.0" width="0.024" x="0.029" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_BOUNTY_HUNTER_LOCKED" r="156" rot="0.0" width="0.024" x="0.029" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_TRADER_LOCKED" r="156" rot="0.0" width="0.024" x="0.029" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_MOONSHINER_LOCKED" r="156" rot="0.0" width="0.024" x="0.029" y="0.238" />
+      </item>
+      <item>
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_OWNED" r="214" rot="352.871" width="0.104" x="0.381" y="0.119" />
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_SOLDOUT" r="214" rot="347.525" width="0.1" x="0.381" y="0.129" />
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_OUTOFSTOCK" r="214" rot="347.525" width="0.1" x="0.381" y="0.129" />
+        <stamp a="180" b="0" g="0" gold="false" height="0.064" id="STAMP_COUPON" r="156" rot="16.04" width="0.079" x="0.297" y="0.079" />
+        <stamp a="225" b="0" g="0" gold="false" height="0.094" id="STAMP_SALE" r="156" rot="0.0" width="0.104" x="0.302" y="0.166" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.052" id="STAMP_OPTIONS" r="214" rot="3.565" width="0.06" x="0.297" y="0.092" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_LAST_CHANCE" r="214" rot="0.0" width="0.069" x="0.46" y="0.158" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_BESTVALUE" r="214" rot="8.911" width="0.069" x="0.46" y="0.158" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_JUSTFORYOU" r="214" rot="0.0" width="0.064" x="0.446" y="0.156" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_LIMITEDSTOCK" r="214" rot="0.0" width="0.069" x="0.446" y="0.158" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_COMINGSOON" r="214" rot="0.0" width="0.069" x="0.446" y="0.158" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.054" id="STAMP_POPULAR" r="214" rot="347.654" width="0.084" x="0.436" y="0.176" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.018" id="STAMP_CASH" r="214" rot="0.0" width="0.02" x="0.45" y="0.238" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.018" id="STAMP_GOLD" r="255" rot="0.0" width="0.02" x="0.45" y="0.238" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.059" id="STAMP_HORSE_GOLD" r="255" rot="0.0" width="0.075" x="0.064" y="0.379" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_LOCK" r="156" rot="0.0" width="0.024" x="0.268" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_LOCKED_RANK" r="156" rot="0.0" width="0.024" x="0.268" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_UNLOCKED_RANK" r="156" rot="0.0" width="0.025" x="0.268" y="0.238" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.02" id="STAMP_NEW" r="255" rot="0.0" width="0.025" x="0.48" y="0.07" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.025" id="STAMP_WISHLIST" r="156" rot="0.0" width="0.04" x="0.426" y="0.109" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_COLLECTOR_LOCKED" r="156" rot="0.0" width="0.024" x="0.268" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_BOUNTY_HUNTER_LOCKED" r="156" rot="0.0" width="0.024" x="0.268" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_TRADER_LOCKED" r="156" rot="0.0" width="0.024" x="0.268" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_MOONSHINER_LOCKED" r="156" rot="0.0" width="0.024" x="0.268" y="0.238" />
+      </item>
+    </layout>
+    <layout id="GRID_OF_3_LAYOUT_1">
+      <item text="" />
+      <item>
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_OWNED" r="214" rot="352.871" width="0.099" x="0.134" y="0.356" />
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_SOLDOUT" r="214" rot="347.525" width="0.1" x="0.134" y="0.371" />
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_OUTOFSTOCK" r="214" rot="347.525" width="0.1" x="0.134" y="0.371" />
+        <stamp a="180" b="0" g="0" gold="false" height="0.069" id="STAMP_COUPON" r="156" rot="8.911" width="0.089" x="0.059" y="0.324" />
+        <stamp a="225" b="0" g="0" gold="false" height="0.094" id="STAMP_SALE" r="156" rot="0.0" width="0.104" x="0.054" y="0.403" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.052" id="STAMP_OPTIONS" r="214" rot="0.0" width="0.06" x="0.05" y="0.344" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_LAST_CHANCE" r="214" rot="0.0" width="0.079" x="0.203" y="0.403" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.053" id="STAMP_BESTVALUE" r="214" rot="8.911" width="0.069" x="0.211" y="0.391" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_JUSTFORYOU" r="214" rot="0.0" width="0.078" x="0.204" y="0.391" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_LIMITEDSTOCK" r="214" rot="0.0" width="0.075" x="0.206" y="0.391" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_COMINGSOON" r="214" rot="0.0" width="0.075" x="0.206" y="0.391" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.054" id="STAMP_POPULAR" r="214" rot="354.654" width="0.089" x="0.188" y="0.408" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.018" id="STAMP_CASH" r="214" rot="0.0" width="0.02" x="0.2" y="0.473" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.018" id="STAMP_GOLD" r="255" rot="0.0" width="0.02" x="0.2" y="0.473" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.018" id="STAMP_HORSE_GOLD" r="255" rot="0.0" width="0.02" x="0.2" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_LOCK" r="156" rot="0.0" width="0.024" x="0.029" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_LOCKED_RANK" r="156" rot="0.0" width="0.024" x="0.029" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_UNLOCKED_RANK" r="156" rot="0.0" width="0.025" x="0.029" y="0.473" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.02" id="STAMP_NEW" r="255" rot="0.0" width="0.025" x="0.23" y="0.305" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.025" id="STAMP_WISHLIST" r="156" rot="0.0" width="0.04" x="0.198" y="0.344" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_COLLECTOR_LOCKED" r="156" rot="0.0" width="0.024" x="0.029" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_BOUNTY_HUNTER_LOCKED" r="156" rot="0.0" width="0.024" x="0.029" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_TRADER_LOCKED" r="156" rot="0.0" width="0.024" x="0.029" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_MOONSHINER_LOCKED" r="156" rot="0.0" width="0.024" x="0.029" y="0.473" />
+      </item>
+      <item>
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_OWNED" r="214" rot="352.871" width="0.099" x="0.381" y="0.356" />
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_SOLDOUT" r="214" rot="352.871" width="0.104" x="0.381" y="0.371" />
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_OUTOFSTOCK" r="214" rot="352.871" width="0.104" x="0.381" y="0.371" />
+        <stamp a="180" b="0" g="0" gold="false" height="0.064" id="STAMP_COUPON" r="156" rot="10.693" width="0.079" x="0.297" y="0.324" />
+        <stamp a="225" b="0" g="0" gold="false" height="0.094" id="STAMP_SALE" r="156" rot="0.0" width="0.104" x="0.302" y="0.403" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.052" id="STAMP_OPTIONS" r="214" rot="0.0" width="0.06" x="0.297" y="0.344" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_LAST_CHANCE" r="214" rot="0.0" width="0.069" x="0.446" y="0.386" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.057" id="STAMP_BESTVALUE" r="214" rot="8.911" width="0.069" x="0.46" y="0.391" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_JUSTFORYOU" r="214" rot="0.0" width="0.07" x="0.45" y="0.391" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_LIMITEDSTOCK" r="214" rot="0.0" width="0.07" x="0.45" y="0.391" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_COMINGSOON" r="214" rot="0.0" width="0.07" x="0.45" y="0.391" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.054" id="STAMP_POPULAR" r="214" rot="347.654" width="0.084" x="0.436" y="0.406" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.018" id="STAMP_CASH" r="214" rot="0.0" width="0.02" x="0.45" y="0.473" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.018" id="STAMP_GOLD" r="255" rot="0.0" width="0.02" x="0.45" y="0.473" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.018" id="STAMP_HORSE_GOLD" r="255" rot="0.0" width="0.02" x="0.45" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_LOCK" r="156" rot="0.0" width="0.024" x="0.268" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_LOCKED_RANK" r="156" rot="0.0" width="0.024" x="0.268" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_UNLOCKED_RANK" r="156" rot="0.0" width="0.025" x="0.268" y="0.473" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.02" id="STAMP_NEW" r="255" rot="0.0" width="0.025" x="0.48" y="0.305" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.025" id="STAMP_WISHLIST" r="156" rot="0.0" width="0.04" x="0.426" y="0.344" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_COLLECTOR_LOCKED" r="156" rot="0.0" width="0.024" x="0.268" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_BOUNTY_HUNTER_LOCKED" r="156" rot="0.0" width="0.024" x="0.268" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_TRADER_LOCKED" r="156" rot="0.0" width="0.024" x="0.268" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_MOONSHINER_LOCKED" r="156" rot="0.0" width="0.024" x="0.268" y="0.473" />
+      </item>
+    </layout>
+    <layout id="GRID_OF_4_LAYOUT_0">
+      <item>
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_OWNED" r="214" rot="352.871" width="0.104" x="0.134" y="0.119" />
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_SOLDOUT" r="214" rot="347.525" width="0.1" x="0.134" y="0.129" />
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_OUTOFSTOCK" r="214" rot="347.525" width="0.1" x="0.134" y="0.129" />
+        <stamp a="180" b="0" g="0" gold="false" height="0.064" id="STAMP_COUPON" r="156" rot="16.04" width="0.079" x="0.059" y="0.79" />
+        <stamp a="225" b="0" g="0" gold="false" height="0.094" id="STAMP_SALE" r="156" rot="0.0" width="0.104" x="0.054" y="0.161" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.052" id="STAMP_OPTIONS" r="214" rot="0.0" width="0.06" x="0.079" y="0.092" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_LAST_CHANCE" r="214" rot="0.0" width="0.079" x="0.203" y="0.158" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.052" id="STAMP_BESTVALUE" r="214" rot="8.911" width="0.069" x="0.212" y="0.158" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_JUSTFORYOU" r="214" rot="0.0" width="0.074" x="0.208" y="0.156" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_LIMITEDSTOCK" r="214" rot="0.0" width="0.075" x="0.208" y="0.158" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_COMINGSOON" r="214" rot="0.0" width="0.075" x="0.208" y="0.158" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.054" id="STAMP_POPULAR" r="214" rot="354.654" width="0.089" x="0.198" y="0.171" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.018" id="STAMP_CASH" r="214" rot="0.0" width="0.02" x="0.2" y="0.238" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.018" id="STAMP_GOLD" r="255" rot="0.0" width="0.02" x="0.2" y="0.238" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.018" id="STAMP_HORSE_GOLD" r="255" rot="0.0" width="0.02" x="0.2" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_LOCK" r="156" rot="0.0" width="0.024" x="0.029" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_LOCKED_RANK" r="156" rot="0.0" width="0.024" x="0.029" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_UNLOCKED_RANK" r="156" rot="0.0" width="0.025" x="0.029" y="0.238" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.02" id="STAMP_NEW" r="255" rot="0.0" width="0.025" x="0.23" y="0.07" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.025" id="STAMP_WISHLIST" r="156" rot="0.0" width="0.045" x="0.198" y="0.109" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_COLLECTOR_LOCKED" r="156" rot="0.0" width="0.024" x="0.029" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_BOUNTY_HUNTER_LOCKED" r="156" rot="0.0" width="0.024" x="0.029" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_TRADER_LOCKED" r="156" rot="0.0" width="0.024" x="0.029" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_MOONSHINER_LOCKED" r="156" rot="0.0" width="0.024" x="0.029" y="0.238" />
+      </item>
+      <item>
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_OWNED" r="214" rot="352.871" width="0.104" x="0.381" y="0.119" />
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_SOLDOUT" r="214" rot="347.525" width="0.1" x="0.381" y="0.129" />
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_OUTOFSTOCK" r="214" rot="347.525" width="0.1" x="0.381" y="0.129" />
+        <stamp a="180" b="0" g="0" gold="false" height="0.064" id="STAMP_COUPON" r="156" rot="16.04" width="0.079" x="0.297" y="0.079" />
+        <stamp a="225" b="0" g="0" gold="false" height="0.094" id="STAMP_SALE" r="156" rot="0.0" width="0.104" x="0.302" y="0.166" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.052" id="STAMP_OPTIONS" r="214" rot="3.565" width="0.06" x="0.297" y="0.092" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_LAST_CHANCE" r="214" rot="0.0" width="0.069" x="0.46" y="0.158" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_BESTVALUE" r="214" rot="8.911" width="0.069" x="0.46" y="0.158" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_JUSTFORYOU" r="214" rot="0.0" width="0.064" x="0.446" y="0.156" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_LIMITEDSTOCK" r="214" rot="0.0" width="0.069" x="0.446" y="0.158" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_COMINGSOON" r="214" rot="0.0" width="0.069" x="0.446" y="0.158" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.054" id="STAMP_POPULAR" r="214" rot="347.654" width="0.084" x="0.436" y="0.176" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.018" id="STAMP_CASH" r="214" rot="0.0" width="0.02" x="0.45" y="0.238" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.018" id="STAMP_GOLD" r="255" rot="0.0" width="0.02" x="0.45" y="0.238" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.018" id="STAMP_HORSE_GOLD" r="255" rot="0.0" width="0.02" x="0.45" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_LOCK" r="156" rot="0.0" width="0.024" x="0.268" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_LOCKED_RANK" r="156" rot="0.0" width="0.024" x="0.268" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_UNLOCKED_RANK" r="156" rot="0.0" width="0.025" x="0.268" y="0.238" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.02" id="STAMP_NEW" r="255" rot="0.0" width="0.025" x="0.48" y="0.07" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.025" id="STAMP_WISHLIST" r="156" rot="0.0" width="0.04" x="0.426" y="0.109" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_COLLECTOR_LOCKED" r="156" rot="0.0" width="0.024" x="0.268" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_BOUNTY_HUNTER_LOCKED" r="156" rot="0.0" width="0.024" x="0.268" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_TRADER_LOCKED" r="156" rot="0.0" width="0.024" x="0.268" y="0.238" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_MOONSHINER_LOCKED" r="156" rot="0.0" width="0.024" x="0.268" y="0.238" />
+      </item>
+      <item>
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_OWNED" r="214" rot="352.871" width="0.099" x="0.134" y="0.356" />
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_SOLDOUT" r="214" rot="347.525" width="0.1" x="0.134" y="0.371" />
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_OUTOFSTOCK" r="214" rot="347.525" width="0.1" x="0.134" y="0.371" />
+        <stamp a="180" b="0" g="0" gold="false" height="0.069" id="STAMP_COUPON" r="156" rot="8.911" width="0.089" x="0.059" y="0.324" />
+        <stamp a="225" b="0" g="0" gold="false" height="0.094" id="STAMP_SALE" r="156" rot="0.0" width="0.104" x="0.054" y="0.403" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.052" id="STAMP_OPTIONS" r="214" rot="0.0" width="0.06" x="0.05" y="0.344" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_LAST_CHANCE" r="214" rot="0.0" width="0.079" x="0.203" y="0.403" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.053" id="STAMP_BESTVALUE" r="214" rot="8.911" width="0.069" x="0.211" y="0.391" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_JUSTFORYOU" r="214" rot="0.0" width="0.078" x="0.204" y="0.391" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_LIMITEDSTOCK" r="214" rot="0.0" width="0.075" x="0.206" y="0.391" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_COMINGSOON" r="214" rot="0.0" width="0.075" x="0.206" y="0.391" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.054" id="STAMP_POPULAR" r="214" rot="354.654" width="0.089" x="0.188" y="0.408" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.018" id="STAMP_CASH" r="214" rot="0.0" width="0.02" x="0.2" y="0.473" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.018" id="STAMP_GOLD" r="255" rot="0.0" width="0.02" x="0.2" y="0.473" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.018" id="STAMP_HORSE_GOLD" r="255" rot="0.0" width="0.02" x="0.2" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_LOCK" r="156" rot="0.0" width="0.024" x="0.029" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_LOCKED_RANK" r="156" rot="0.0" width="0.024" x="0.029" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_UNLOCKED_RANK" r="156" rot="0.0" width="0.025" x="0.029" y="0.473" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.02" id="STAMP_NEW" r="255" rot="0.0" width="0.025" x="0.23" y="0.305" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.025" id="STAMP_WISHLIST" r="156" rot="0.0" width="0.04" x="0.198" y="0.344" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_COLLECTOR_LOCKED" r="156" rot="0.0" width="0.024" x="0.029" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_BOUNTY_HUNTER_LOCKED" r="156" rot="0.0" width="0.024" x="0.029" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_TRADER_LOCKED" r="156" rot="0.0" width="0.024" x="0.029" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_MOONSHINER_LOCKED" r="156" rot="0.0" width="0.024" x="0.029" y="0.473" />
+      </item>
+      <item>
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_OWNED" r="214" rot="352.871" width="0.099" x="0.381" y="0.356" />
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_SOLDOUT" r="214" rot="352.871" width="0.104" x="0.381" y="0.371" />
+        <stamp a="215" b="214" g="214" gold="false" height="0.089" id="STAMP_OUTOFSTOCK" r="214" rot="352.871" width="0.104" x="0.381" y="0.371" />
+        <stamp a="180" b="0" g="0" gold="false" height="0.064" id="STAMP_COUPON" r="156" rot="10.693" width="0.079" x="0.297" y="0.324" />
+        <stamp a="225" b="0" g="0" gold="false" height="0.094" id="STAMP_SALE" r="156" rot="0.0" width="0.104" x="0.302" y="0.403" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.052" id="STAMP_OPTIONS" r="214" rot="0.0" width="0.06" x="0.297" y="0.344" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_LAST_CHANCE" r="214" rot="0.0" width="0.069" x="0.446" y="0.386" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.057" id="STAMP_BESTVALUE" r="214" rot="8.911" width="0.069" x="0.46" y="0.391" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_JUSTFORYOU" r="214" rot="0.0" width="0.07" x="0.45" y="0.391" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_LIMITEDSTOCK" r="214" rot="0.0" width="0.07" x="0.45" y="0.391" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.059" id="STAMP_COMINGSOON" r="214" rot="0.0" width="0.07" x="0.45" y="0.391" />
+        <stamp a="180" b="214" g="214" gold="false" height="0.054" id="STAMP_POPULAR" r="214" rot="347.654" width="0.084" x="0.436" y="0.406" />
+        <stamp a="255" b="214" g="214" gold="false" height="0.018" id="STAMP_CASH" r="214" rot="0.0" width="0.02" x="0.45" y="0.473" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.018" id="STAMP_GOLD" r="255" rot="0.0" width="0.02" x="0.45" y="0.473" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.018" id="STAMP_HORSE_GOLD" r="255" rot="0.0" width="0.02" x="0.45" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_LOCK" r="156" rot="0.0" width="0.024" x="0.268" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_LOCKED_RANK" r="156" rot="0.0" width="0.024" x="0.268" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_UNLOCKED_RANK" r="156" rot="0.0" width="0.025" x="0.268" y="0.473" />
+        <stamp a="255" b="140" g="224" gold="true" height="0.02" id="STAMP_NEW" r="255" rot="0.0" width="0.025" x="0.48" y="0.305" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.025" id="STAMP_WISHLIST" r="156" rot="0.0" width="0.04" x="0.426" y="0.344" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_COLLECTOR_LOCKED" r="156" rot="0.0" width="0.024" x="0.268" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_BOUNTY_HUNTER_LOCKED" r="156" rot="0.0" width="0.024" x="0.268" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_TRADER_LOCKED" r="156" rot="0.0" width="0.024" x="0.268" y="0.473" />
+        <stamp a="255" b="0" g="0" gold="false" height="0.02" id="STAMP_ROLES_MOONSHINER_LOCKED" r="156" rot="0.0" width="0.024" x="0.268" y="0.473" />
+      </item>
+    </layout>
+  </UNK_F18BC1F7>
+</root>

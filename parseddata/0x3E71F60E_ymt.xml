@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_8E3B0655 release="1">
+    <UNK_C961F6FB id="ST_BAIT">
+      <region id="REGION_BAY_LAGRAS" shop="SHOP_LAG_BAIT_STORE">
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="" inventoryitem="CONSUMABLE_CRACKERS" UNK_FB82F14="lag_bs_s_crackers01x_group" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="" inventoryitem="CONSUMABLE_COCAINE_CHEWING_GUM" UNK_FB82F14="lag_bs_s_inv_cocainegum01x_group" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="" inventoryitem="CONSUMABLE_OAT_CAKES" UNK_FB82F14="lag_bs_s_oatcakes01x_group" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="" inventoryitem="CONSUMABLE_HORSE_STIMULANT" UNK_FB82F14="lag_bs_p_s_inv_pothorsestim_group" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="" inventoryitem="CONSUMABLE_PREDATOR_BAIT" UNK_FB82F14="lag_bs_s_inv_baitmeat01x_group" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="" inventoryitem="CONSUMABLE_COVER_SCENT" UNK_FB82F14="lag_bs_p_tin_soap01x_group" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="" inventoryitem="UPGRADE_FSH_BAIT_WORM_CAN" UNK_FB82F14="lag_bs_s_wormcan01x_group" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="" inventoryitem="UPGRADE_FSH_BAIT_CRICKET_TIN" UNK_FB82F14="lag_bs_s_cricketTin01x_group" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="" inventoryitem="CONSUMABLE_HERBIVORE_BAIT" UNK_FB82F14="lag_bs_s_inv_baitherb01x_group" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_FB82F14="lag_bs_s_crackers01x_dressing" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_FB82F14="lag_bs_s_inv_cocainegum01x_dressing" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_FB82F14="lag_bs_s_oatcakes01x_dressing" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_FB82F14="lag_bs_p_s_inv_pothorsestim_dressing" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_FB82F14="lag_bs_s_inv_baitmeat01x_dressing" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_FB82F14="lag_bs_p_tin_soap01x_dressing" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_3BD75E1="UPGRADE_FSH_BAIT_WORM_CAN" UNK_FB82F14="lag_bs_s_wormcan01x_dressing" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_3BD75E1="UPGRADE_FSH_BAIT_CRICKET_TIN" UNK_FB82F14="lag_bs_s_cricketTin01x_dressing" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_FB82F14="lag_bs_s_inv_baitherb01x_dressing" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_FB82F14="lag_bs_p_int_fishing01_dressing" />
+      </region>
+    </UNK_C961F6FB>
+  </UNK_8E3B0655>
+</root>

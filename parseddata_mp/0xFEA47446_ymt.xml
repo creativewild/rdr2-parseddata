@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <locations>
+    <location id="ARMADILLO">
+      <UNK_82790D7D>
+        <UNK_33AA9551 id="COOP" position="[-3675.65, -2543.75, -15.38]" rotation="[0.0, 0.0, 0.0]" scale="[19.5, 12.9, 12.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="TRAIN" position="[-3737.311, -2580.914, -13.34]" rotation="[0.0, 0.0, 0.0]" scale="[12.7, 14.4, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="CENTER" position="[-3675.0, -2612.5, -14.3843]" rotation="[0.0, 0.0, 0.0]" scale="[6.3, 6.3, 7.5]" UNK_94FAAF68="volCylinder" />
+        <UNK_33AA9551 id="BARN" position="[-3687.0, -2575.2, -13.3]" rotation="[0.0, 0.0, 0.0]" scale="[8.5, 8.5, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="GUNSMITH" position="[-3677.157, -2601.68, -9.9]" rotation="[0.0, 0.0, 0.0]" scale="[10.25, 2.8, 3.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="MASS_GRAVE" position="[-3612.43, -2663.0, -10.6]" rotation="[0.0, 0.0, 0.0]" scale="[11.0, 11.0, 4.5]" UNK_94FAAF68="volCylinder" />
+      </UNK_82790D7D>
+      <UNK_30408CA2>
+        <prop heading="359.9" model="P_CRATE012X" position="[-3671.74, -2579.358, -14.73]" />
+        <prop heading="0.0" model="p_MP_Cover_SH_BW" position="[-3677.79, -2611.12, -15.0843]" />
+        <prop heading="90.89" model="p_MP_CoverComb_M_BW" position="[-3670.44, -2612.81, -15.0843]" />
+        <prop heading="0.0" model="p_hideDisplay02x" position="[-3674.69, -2616.94, -15.0843]" />
+        <prop heading="0.89" model="P_CRATECOVER04X" position="[-3674.1, -2631.85, -14.7479]" />
+        <prop heading="0.0" model="p_CRATESTACK03X" position="[-3672.12, -2510.07, -15.1161]" />
+        <prop heading="0.0" model="p_bat_crateStack01x" position="[-3702.69, -2531.14, -15.0574]" />
+        <prop heading="0.0" model="p_crateWeapons04x" position="[-3709.9, -2612.41, -14.814]" />
+        <prop heading="0.0" model="P_CRATEWEAPONS03X" position="[-3641.4, -2610.86, -14.7623]" />
+        <prop heading="0.0" model="p_hideDisplay01x" position="[-3770.08, -2580.77, -15.0863]" />
+        <prop heading="267.98" model="p_MP_Cover_H_BW" position="[-3622.5, -2660.62, -11.67]" />
+        <prop heading="303.81" model="p_lumber11x" position="[-3605.05, -2662.74, -11.72]" />
+        <prop heading="90.9" model="P_CRATE012X" position="[-3732.34, -2580.16, -14.8504]" />
+        <prop heading="0.89" model="p_CRATECOVER04X" position="[-3738.78, -2584.54, -15.0408]" />
+        <prop heading="0.6924" model="p_MP_CoverComb_S_BW" position="[-3686.867, -2579.35, -14.7212]" />
+        <prop heading="40.637" model="p_MP_Cover_S_BW" position="[-3698.19, -2564.313, -14.5696]" />
+        <prop heading="130.637" model="p_wagonparked01x" position="[-3688.918, -2571.365, -14.7319]" />
+      </UNK_30408CA2>
+    </location>
+    <location id="MACFARLANES_RANCH">
+      <UNK_82790D7D>
+        <UNK_33AA9551 id="CATTLE_PEN" position="[-2427.13, -2366.57, 62.16]" rotation="[0.0, 0.0, 0.0]" scale="[9.0, 9.0, 4.0]" UNK_94FAAF68="volCylinder" />
+        <UNK_33AA9551 id="PORCH" position="[-2327.564, -2410.396, 62.21]" rotation="[0.0, 0.0, 55.0]" scale="[12.75, 17.25, 4.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="COOP" position="[-2420.29, -2432.14, 61.85]" rotation="[0.0, 0.0, 21.1]" scale="[18.25, 8.0, 5.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="TROLL" position="[-2312.23, -2438.72, 62.345]" rotation="[0.0, 0.0, 45.1]" scale="[11.0, 26.0, 10.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="SOUTH_PEN" position="[-2396.2, -2466.26, 60.5]" rotation="[0.0, 0.0, 20.5]" scale="[11.5, 21.5, 3.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="TRAIN_STATION" position="[-2492.77, -2430.9, 61.8]" rotation="[0.0, 0.0, 18.5]" scale="[9.0, 15.25, 7.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="INTERIOR" position="[-2397.492, -2380.173, 64.26]" rotation="[0.0, 0.0, -20.0]" scale="[13.0, 17.0, 8.5]" UNK_94FAAF68="volBox" />
+      </UNK_82790D7D>
+      <UNK_30408CA2>
+        <prop heading="45.0" model="p_hideDisplay01x" position="[-2318.43, -2432.38, 62.66]" />
+        <prop heading="45.0" model="p_hideDisplay02x" position="[-2306.73, -2444.51, 62.656]" />
+        <prop heading="125.0" model="p_wagonparked01x" position="[-2312.43, -2438.61, 62.656]" />
+        <prop heading="0.0" model="P_CRATE012X" position="[-2414.44, -2444.79, 59.1715]" />
+        <prop heading="100.0" model="P_CRATEWEAPONS02X" position="[-2435.47, -2417.16, 59.8707]" />
+        <prop heading="135.8242" model="p_haybalecover03x" position="[-2410.481, -2372.359, 60.1755]" />
+        <prop heading="170.944" model="P_CRATECOVER04X" position="[-2425.322, -2357.991, 60.1755]" />
+        <prop heading="138.47" model="p_CRATESTACK03X" position="[-2433.926, -2372.308, 60.1755]" />
+        <prop heading="133.3096" model="p_haycartcover02x" position="[-2426.561, -2368.129, 60.1755]" />
+        <prop heading="90.0" model="p_MP_CoverComb_HM_BW" position="[-2457.072, -2363.094, 60.1755]" />
+        <prop heading="0.0" model="p_MP_Cover_SM_BW" position="[-2455.327, -2390.609, 60.1755]" />
+        <prop heading="0.0" model="P_MP_COVER_SL_BW" position="[-2486.24, -2458.31, 59.145]" />
+        <prop heading="0.0" model="P_CRATE012X" position="[-2476.616, -2463.941, 59.1685]" />
+        <prop heading="110.0" model="p_hideDisplay01x" position="[-2490.317, -2429.357, 59.587]" />
+        <prop heading="70.0" model="p_hideDisplay02x" position="[-2490.367, -2431.646, 59.56]" />
+        <prop heading="80.0" model="P_MP_COVER_SL_BW" position="[-2390.36, -2419.78, 59.8865]" />
+        <prop heading="318.4977" model="p_haybalecover03x" position="[-2332.602, -2408.617, 62.0775]" />
+      </UNK_30408CA2>
+    </location>
+    <location id="TUMBLEWEED">
+      <UNK_82790D7D>
+        <UNK_33AA9551 id="RUINS" position="[-5506.099, -2877.467, -5.5]" rotation="[0.0, 0.0, 0.0]" scale="[17.0, 18.0, 10.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="ROOF_2" position="[-5533.5, -2952.12, 2.79]" rotation="[0.0, 0.0, 105.0]" scale="[12.0, 8.2, 2.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="GENSTORE" position="[-5486.004, -2937.483, -0.164]" rotation="[0.0, 0.0, 36.6]" scale="[24.0, 12.5, 8.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="GAZEBO" position="[-5616.216, -2975.035, 4.294]" rotation="[0.0, 0.0, 0.0]" scale="[4.0, 4.0, 2.0]" UNK_94FAAF68="volCylinder" />
+        <UNK_33AA9551 id="GRAVEYARD" position="[-5450.955, -2909.943, 0.1]" rotation="[0.0, 0.0, 0.0]" scale="[9.5, 9.5, 3.0]" UNK_94FAAF68="volCylinder" />
+        <UNK_33AA9551 id="ROADSIDE" position="[-5558.059, -2957.446, -1.007]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 2.0]" UNK_94FAAF68="volCylinder" />
+      </UNK_82790D7D>
+      <UNK_30408CA2>
+        <prop heading="0.0" model="P_CRATE012X" position="[-5525.16, -2873.36, -6.47]" />
+        <prop heading="57.87" model="P_CRATECOVER04X" position="[-5559.46, -2897.09, -3.01869]" />
+        <prop heading="0.0" model="P_CRATE012X" position="[-5620.12, -2995.65, -0.2941]" />
+        <prop heading="0.0" model="P_CRATECOVER04X" position="[-5590.21, -2973.42, -0.3209]" />
+        <prop heading="90.0" model="P_CRATECOVER04X" position="[-5586.88, -2935.4, -0.88784]" />
+        <prop heading="30.0" model="P_CRATE012X" position="[-5494.46, -3052.52, -4.4369]" />
+        <prop heading="30.0" model="P_CRATECOVER04X" position="[-5539.16, -3037.66, -2.306]" />
+        <prop heading="85.37" model="p_cratestack01x" position="[-5474.74, -2935.01, -2.21]" />
+        <prop heading="0.0" model="p_barrel_ladle01x" position="[-5480.2, -2931.09, -2.19]" />
+        <prop heading="0.0" model="p_crate08x" position="[-5482.67, -2929.69, -2.15]" />
+        <prop heading="42.58" model="p_cart01x" position="[-5481.41, -2926.33, -2.16]" />
+        <prop heading="0.0" model="p_crateStack01x" position="[-5564.96, -2953.9, -1.54]" />
+        <prop heading="106.57" model="p_mp_cover_sh_bw" position="[-5565.6, -2960.08, -1.46]" />
+        <prop heading="110.58" model="p_crateburn02x" position="[-5550.48, -2954.87, -1.82]" />
+        <prop heading="0.0" model="p_bat_crateStack01x" position="[-5556.6, -2952.567, -1.67]" />
+        <prop heading="126.23" model="p_bat_crateStack01x" position="[-5449.36, -2909.18, -0.2]" />
+        <prop heading="0.0" model="p_MP_Cover_SS_BW" position="[-5449.33, -2917.96, -0.26]" />
+        <prop heading="46.41" model="p_crate17x" position="[-5455.77, -2903.14, -0.23]" />
+        <prop heading="25.58" model="p_cratestack01x" position="[-5528.29, -2947.85, -2.56]" />
+      </UNK_30408CA2>
+    </location>
+    <location id="GAPTOOTH">
+      <UNK_82790D7D>
+        <UNK_33AA9551 id="LOVESHACK" position="[-5859.313, -3184.833, -12.0]" rotation="[0.0, 0.0, -30.75]" scale="[8.75, 9.75, 7.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="MINECARTS" position="[-6044.487, -3259.788, -19.138]" rotation="[0.0, 0.0, 35.486]" scale="[19.0, 18.0, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="FORK" position="[-6003.462, -3335.075, -19.993]" rotation="[0.0, 0.0, -16.0]" scale="[7.0, 10.75, 5.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="NEW" position="[-5915.508, -3186.777, -6.251]" rotation="[0.0, 0.0, 0.0]" scale="[5.0, 5.0, 3.0]" UNK_94FAAF68="volCylinder" />
+        <UNK_33AA9551 id="4676261" position="[-5963.542, -3241.13, -21.353]" rotation="[0.0, 0.0, 30.0]" scale="[8.0, 12.0, 7.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="4676180" position="[-6006.192, -3142.851, 4.5]" rotation="[0.0, 0.0, 40.0]" scale="[17.0, 16.0, 14.0]" UNK_94FAAF68="volBox" />
+      </UNK_82790D7D>
+      <UNK_30408CA2>
+        <prop heading="0.0" model="p_CRATESTACK01X" position="[-5965.835, -3218.395, -22.6159]" />
+        <prop heading="45.0" model="p_cratecover07x" position="[-5973.779, -3216.825, -22.524]" />
+        <prop heading="120.0" model="P_CRATE012X" position="[-5971.578, -3222.672, -22.6496]" />
+        <prop model="p_barrel010x" position="[-5916.233, -3190.795, -8.616]" rotation="[5.0, 0.0, 0.0]" />
+        <prop model="p_MP_CoverComb_M_CWB" position="[-5916.251, -3186.426, -8.283]" rotation="[5.0, 5.0, 0.0]" />
+        <prop model="p_barrel010x" position="[-5915.255, -3182.52, -8.0376]" rotation="[5.0, 0.0, 0.0]" />
+        <prop heading="2550.0" model="p_MP_Cover_SH_LAG" position="[-6016.811, -3140.557, -2.601]" />
+        <prop heading="255.0" model="p_MP_Cover_SM_ADO" position="[-6006.542, -3134.951, -2.502]" />
+        <prop model="p_MP_Cover_SS_LAG" position="[-6011.95, -3137.298, -2.94]" rotation="[5.0, 355.0, 255.0]" />
+        <prop model="p_MP_Cover_SS_BW" position="[-6008.312, -3151.75, -2.773]" rotation="[5.0, 0.0, 0.0]" />
+        <prop model="p_MP_Cover_SS_SPC" position="[-6002.521, -3151.984, -2.711]" rotation="[0.0, 0.0, 50.0]" />
+        <prop model="p_MP_Cover_SS_SB" position="[-6000.68, -3144.978, -2.326]" rotation="[0.0, 0.0, 50.0]" />
+        <prop model="p_MP_Cover_SS_SPC" position="[-5965.642, -3242.754, -22.666]" rotation="[0.0, 0.0, 100.0]" />
+        <prop model="p_barrel010x" position="[-5964.503, -3246.803, -22.629]" rotation="[0.0, 0.0, 0.0]" />
+        <prop model="P_CRATE012X" position="[-5967.921, -3240.572, -22.629]" rotation="[0.0, 0.0, 0.0]" />
+        <prop model="P_CRATE012X" position="[-5863.981, -3186.323, -14.281]" rotation="[0.0, 0.0, 0.0]" />
+        <prop model="p_MP_Cover_SS_SPC" position="[-5860.752, -3181.0, -14.541]" rotation="[0.0, 0.0, 210.0]" />
+        <prop model="p_barrel010x" position="[-6004.52, -3333.374, -21.704]" rotation="[0.0, 355.0, 0.0]" />
+        <prop model="p_MP_Cover_SS_SPC" position="[-6001.47, -3335.823, -21.83]" rotation="[0.0, 355.0, 210.0]" />
+      </UNK_30408CA2>
+    </location>
+    <location id="THIEVES_LANDING">
+      <UNK_82790D7D>
+        <UNK_33AA9551 id="JUNK_YARD" position="[-1407.16, -2332.77, 43.0]" rotation="[0.0, 0.0, 0.0]" scale="[12.75, 9.0, 7.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="N_BRIDGE" position="[-1412.599, -2258.637, 42.5]" rotation="[0.0, 0.0, -17.5]" scale="[4.25, 25.0, 3.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="4676548" position="[-1401.1, -2305.3, 43.3]" rotation="[0.0, 0.0, 0.0]" scale="[7.0, 7.25, 3.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="4676558" position="[-1448.8, -2309.4, 44.2]" rotation="[0.0, 0.0, -10.0]" scale="[10.0, 11.5, 3.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="NORTH_STABLE" position="[-1412.31, -2194.61, 42.968]" rotation="[0.0, 0.0, 52.0]" scale="[17.0, 18.2, 3.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="DOCK_MID" position="[-1363.07, -2337.23, 43.1]" rotation="[0.0, 0.0, 0.5]" scale="[8.25, 5.0, 3.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="STORE_YARD" position="[-1436.757, -2286.87, 43.022]" rotation="[0.0, 0.0, 0.0]" scale="[6.0, 6.0, 3.0]" UNK_94FAAF68="volCylinder" />
+      </UNK_82790D7D>
+      <UNK_30408CA2>
+        <prop heading="0.0" model="P_CRATE012X" position="[-1425.28, -2344.55, 41.934]" />
+        <prop heading="90.0" model="P_CRATECOVER04X" position="[-1365.94, -2336.91, 41.8461]" />
+        <prop heading="160.0" model="p_MP_CoverComb_S_BW" position="[-1404.5, -2234.02, 43.3072]" />
+        <prop heading="0.0" model="p_crateApple01b" position="[-1418.58, -2276.73, 42.1146]" />
+        <prop heading="90.0" model="p_hideDisplay02x" position="[-1434.22, -2287.03, 42.0311]" />
+        <prop heading="70.0" model="p_crateWeapons02x" position="[-1438.23, -2285.32, 42.1056]" />
+        <prop heading="0.0" model="P_CRATE012X" position="[-1412.37, -2292.95, 42.0815]" />
+        <prop heading="270.0" model="p_MP_Cover_S_BW" position="[-1373.85, -2359.24, 42.0249]" />
+        <prop heading="90.0" model="p_MP_Cover_HL_BW" position="[-1373.85, -2363.94, 42.0249]" />
+        <prop heading="77.09" model="p_MP_Cover_SH_BW" position="[-1412.85, -2259.24, 41.36]" />
+        <prop heading="0.0" model="p_crateStack02x" position="[-1409.17, -2249.05, 42.4691]" />
+        <prop heading="0.0" model="p_crate08x" position="[-1416.28, -2269.08, 41.23]" />
+        <prop heading="90.0" model="P_CRATECOVER04X" position="[-1503.74, -2256.91, 50.0097]" />
+        <prop heading="0.0" model="P_CRATE012X" position="[-1510.74, -2261.35, 49.8881]" />
+        <prop heading="320.0" model="p_bat_lumber05x" position="[-1396.637, -2361.869, 43.0593]" />
+        <prop heading="64.0" model="p_hideDisplay01x" position="[-1390.033, -2213.23, 43.695]" />
+        <prop heading="80.97" model="p_crate02x" position="[-1444.45, -2306.4, 43.5]" />
+        <prop heading="169.21" model="p_cratecover04x" position="[-1444.87, -2305.2, 43.5]" />
+        <prop heading="0.0" model="p_barrel04x" position="[-1448.96, -2304.29, 43.5]" />
+        <prop heading="235.65" model="p_lumber11x" position="[-1409.46, -2204.09, 43.43]" />
+        <prop heading="130.38" model="p_wagonparked01x" position="[-1403.58, -2197.422, 43.66]" />
+      </UNK_30408CA2>
+    </location>
+    <location id="DENIS_TOWN_HALL">
+      <UNK_82790D7D>
+        <UNK_33AA9551 id="DUMP" position="[2388.0, -1355.27, 46.0]" rotation="[0.0, 0.0, -27.5]" scale="[13.0, 11.0, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="LAKESIDE" position="[2420.24, -1306.2, 46.0]" rotation="[0.0, 0.0, -15.0]" scale="[23.25, 12.75, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="MANSION" position="[2344.36, -1254.12, 46.529]" rotation="[0.0, 0.0, -14.6]" scale="[14.0, 14.0, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="PARK" position="[2431.3, -1222.3, 45.6]" rotation="[0.0, 0.0, 0.0]" scale="[9.25, 9.25, 3.5]" UNK_94FAAF68="volCylinder" />
+        <UNK_33AA9551 id="BRONTE" position="[2331.8, -1216.4, 44.7]" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 11.0, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="GARDEN" position="[2391.751, -1164.841, 47.15]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 4.0]" UNK_94FAAF68="volCylinder" />
+      </UNK_82790D7D>
+      <UNK_30408CA2>
+        <prop heading="340.66" model="P_CRATE012X" position="[2455.64, -1298.09, 45.8385]" />
+        <prop heading="68.91" model="P_CRATECOVER04X" position="[2447.96, -1303.13, 45.8386]" />
+        <prop heading="90.0" model="P_CRATECOVER04X" position="[2494.8, -1075.91, 49.2883]" />
+        <prop heading="133.06" model="p_crate02x" position="[2485.23, -1081.48, 49.29]" />
+        <prop heading="211.11" model="p_crate17x" position="[2503.76, -1082.5, 49.29]" />
+        <prop heading="55.2576" model="p_haybalestack01x" position="[2541.856, -1356.851, 45.0]" />
+        <prop heading="230.0034" model="P_CRATECOVER04X" position="[2528.384, -1350.073, 45.0]" />
+        <prop heading="142.3329" model="p_cratestack01x" position="[2538.204, -1349.411, 45.0]" />
+        <prop heading="226.2018" model="p_MP_Cover_SS_BW" position="[2428.562, -1216.155, 44.9758]" />
+        <prop heading="314.4691" model="P_CRATEWEAPONS03X" position="[2438.0, -1217.676, 44.8063]" />
+        <prop heading="136.139" model="p_crateTable01x" position="[2424.921, -1227.095, 44.8384]" />
+        <prop heading="333.0925" model="p_hideDisplay01x" position="[2389.812, -1350.679, 44.7448]" />
+        <prop heading="244.2349" model="p_hideDisplay03x" position="[2392.243, -1358.0, 44.8536]" />
+        <prop heading="149.374" model="p_MP_Cover_HL_BW" position="[2385.302, -1359.401, 44.8931]" />
+        <prop heading="256.4744" model="p_crateCover07x" position="[2350.372, -1255.624, 44.6623]" />
+        <prop heading="344.1902" model="p_crateCover07x" position="[2345.4, -1248.036, 44.6661]" />
+        <prop heading="77.3515" model="p_crate012x" position="[2338.84, -1251.299, 44.668]" />
+        <prop heading="76.3259" model="p_crate04x" position="[2345.325, -1260.278, 44.6657]" />
+        <prop heading="269.0324" model="p_crateCanvase01x" position="[2397.925, -1170.194, 44.9771]" />
+        <prop heading="269.0377" model="p_crateCover01x" position="[2397.834, -1158.983, 45.015]" />
+        <prop heading="254.9242" model="p_MP_Cover_SH_BW" position="[2414.255, -1298.458, 44.9152]" />
+        <prop heading="344.6942" model="p_MP_Cover_S_BW" position="[2420.105, -1301.126, 44.9021]" />
+        <prop heading="353.9298" model="p_MP_Cover_SS_BW" position="[2429.261, -1302.94, 44.9547]" />
+        <prop heading="249.744" model="p_MP_Cover_HL_BW" position="[2426.872, -1310.448, 44.5121]" />
+      </UNK_30408CA2>
+    </location>
+    <location id="DENIS_ALLEYWAY">
+      <UNK_82790D7D>
+        <UNK_33AA9551 id="GRAVEYARD" position="[2725.281, -1067.4, 47.8]" rotation="[0.0, 0.0, 0.0]" scale="[11.0, 11.0, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="MARKET" position="[2838.749, -1207.865, 47.8]" rotation="[0.0, 0.0, 5.0]" scale="[20.0, 20.0, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="CHURCH" position="[2735.892, -1260.496, 50.6]" rotation="[0.0, 0.0, 56.5]" scale="[15.5, 13.0, 5.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="GARDEN" position="[2739.036, -1196.531, 50.4]" rotation="[0.0, 0.0, 60.5]" scale="[12.5, 7.0, 4.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="YARD" position="[2643.31, -1178.748, 53.6]" rotation="[0.0, 0.0, 0.0]" scale="[9.0, 15.0, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="TREE" position="[2705.322, -1407.963, 46.46]" rotation="[0.0, 0.0, 0.0]" scale="[7.5, 7.5, 4.0]" UNK_94FAAF68="volCylinder" />
+      </UNK_82790D7D>
+      <UNK_30408CA2>
+        <prop heading="0.0" model="p_bench15x" position="[2643.28, -1179.63, 52.31]" />
+        <prop heading="15.0" model="p_crateapple01b" position="[2705.69, -1414.65, 45.64]" />
+        <prop heading="90.0" model="p_feedbags01x" position="[2698.66, -1408.22, 45.52]" />
+        <prop heading="0.0" model="p_barrelpears01x" position="[2704.46, -1401.15, 45.64]" />
+        <prop heading="0.0" model="p_barrelapples01x" position="[2704.99, -1400.61, 45.64]" />
+        <prop heading="0.0" model="p_barrelpotatoes01x" position="[2705.19, -1401.61, 45.64]" />
+        <prop heading="0.0" model="p_crate04x" position="[2712.05, -1408.21, 45.64]" />
+        <prop heading="75.0" model="p_MP_CoverComb_S_BW" position="[2730.45, -1257.51, 48.78]" />
+        <prop heading="0.0" model="p_floursackstack02x" position="[2730.36, -1266.49, 48.68]" />
+        <prop heading="0.0" model="p_wagonparked01x" position="[2738.64, -1254.9, 48.8]" />
+        <prop heading="25.78" model="p_cartvend01x" position="[2739.86, -1196.91, 48.68]" />
+      </UNK_30408CA2>
+    </location>
+    <location id="VALENTINE">
+      <UNK_82790D7D>
+        <UNK_33AA9551 id="PADDOCK_EAST" position="[-221.75, 673.18, 113.899]" rotation="[0.0, 0.0, -39.9]" scale="[28.0, 13.2, 15.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="PADDOCK_WEST" position="[-257.0, 635.0, 113.899]" rotation="[0.0, 0.0, -39.9]" scale="[28.0, 13.2, 15.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="HOTEL" position="[-319.273, 753.094, 117.5]" rotation="[0.0, 0.0, 8.0]" scale="[21.2, 11.1, 3.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="COOP" position="[-294.154, 842.559, 121.38]" rotation="[0.0, 0.0, 0.0]" scale="[17.0, 27.5, 7.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="HORSE_SHOP" position="[-392.2, 778.7, 116.0]" rotation="[0.0, 0.0, 94.3]" scale="[26.2, 22.8, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="MAIN_STREET" position="[-301.5, 790.3, 118.0]" rotation="[0.0, 0.0, 9.9]" scale="[35.0, 12.5, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="CEMETERY" position="[-232.3, 824.6, 124.0]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 6.5]" UNK_94FAAF68="volCylinder" />
+        <UNK_33AA9551 id="GYPSY" position="[-367.2, 736.3, 117.5]" rotation="[0.0, 0.0, 0.0]" scale="[22.5, 22.5, 6.1]" UNK_94FAAF68="volCylinder" />
+      </UNK_82790D7D>
+      <UNK_30408CA2>
+        <prop heading="41.83" model="mp001_p_mp_haybalecover03x" position="[-386.58, 784.57, 114.83]" />
+        <prop heading="114.76" model="p_haycartcover01x" position="[-387.67, 773.28, 114.76]" />
+        <prop heading="69.33" model="p_feedbags01x" position="[-398.88, 778.48, 114.83]" />
+        <prop heading="0.0" model="p_crate04x" position="[-289.52, 789.58, 117.59]" />
+        <prop heading="169.21" model="p_wagonparked01x" position="[-300.97, 790.93, 117.15]" />
+        <prop heading="89.95" model="p_mp_cover_sh_bw" position="[-313.12, 792.59, 116.66]" />
+      </UNK_30408CA2>
+    </location>
+    <location id="BRAITHWAITES_BARN">
+      <UNK_82790D7D>
+        <UNK_33AA9551 id="SHED" position="[988.3, -2064.0, 46.7]" rotation="[0.0, 0.0, 20.0]" scale="[14.0, 12.0, 10.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="CROPS" position="[1033.156, -1974.6, 47.036]" rotation="[0.0, 0.0, 0.0]" scale="[17.385, 9.876, 3.93]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="TREE" position="[1007.7, -1893.8, 47.453]" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 24.0, 6.534]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="CAMP" position="[870.932, -1907.99, 45.879]" rotation="[0.0, 0.0, 0.0]" scale="[8.522, 8.522, 2.814]" UNK_94FAAF68="volCylinder" />
+        <UNK_33AA9551 id="MILL" position="[979.5, -2023.82, 49.0]" rotation="[0.0, 0.0, 0.0]" scale="[21.75, 25.0, 12.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="STABLE" position="[968.5, -1830.4, 47.347]" rotation="[0.0, 0.0, 0.0]" scale="[14.25, 24.8, 11.0]" UNK_94FAAF68="volBox" />
+      </UNK_82790D7D>
+      <UNK_30408CA2>
+        <prop heading="0.4" model="p_hideDisplay02x" position="[1034.783, -1971.581, 45.396]" />
+        <prop heading="0.0" model="p_feedBags01x" position="[1030.372, -1977.555, 45.283]" />
+        <prop heading="228.3201" model="p_MP_Cover_SH_BW" position="[1039.445, -1976.282, 45.5586]" />
+        <prop heading="270.0" model="p_MP_Cover_S_BW" position="[999.5132, -1903.153, 45.3268]" />
+        <prop heading="90.0" model="p_crateTable01x" position="[1016.679, -1899.482, 44.6577]" />
+        <prop heading="0.0" model="p_crateApple01b" position="[1001.347, -1885.731, 44.5465]" />
+        <prop heading="180.0" model="p_crateApple01b" position="[1002.047, -1885.731, 44.5465]" />
+        <prop heading="235.0" model="p_standApple02x" position="[868.0729, -1906.641, 43.6264]" />
+        <prop heading="273.101" model="p_crate08x" position="[863.438, -1908.947, 43.1189]" />
+        <prop heading="270.0" model="p_crate04x" position="[873.5438, -1901.797, 43.7345]" />
+        <prop heading="152.9204" model="p_hideDisplay03x" position="[869.1472, -1913.939, 43.726]" />
+        <prop heading="251.0702" model="p_crateCanvase01x" position="[879.566, -1911.926, 44.0865]" />
+      </UNK_30408CA2>
+    </location>
+    <location id="BLACKWATER_SHACKS">
+      <UNK_82790D7D>
+        <UNK_33AA9551 id="GALLOWS" position="[-798.699, -1209.229, 45.299]" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 15.0, 6.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="LUMBER" position="[-869.25, -1302.6, 42.799]" rotation="[0.0, 0.0, 0.0]" scale="[9.5, 14.0, 1.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="DOCKS" position="[-731.8, -1273.5, 43.84]" rotation="[0.0, 0.0, 0.0]" scale="[19.3, 23.9, 4.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="ROOFTOPS" position="[-828.587, -1291.081, 54.947]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 16.0, 5.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="BENCH" position="[-825.4, -1387.49, 44.9]" rotation="[0.0, 0.0, 0.0]" scale="[32.0, 19.5, 5.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="ALLEY" position="[-776.3, -1301.4, 44.27]" rotation="[0.0, 0.0, 0.0]" scale="[6.0, 16.0, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="GARDEN" position="[-833.753, -1357.433, 44.73]" rotation="[0.0, 0.0, 0.0]" scale="[10.75, 10.75, 4.0]" UNK_94FAAF68="volBox" />
+      </UNK_82790D7D>
+      <UNK_30408CA2>
+        <prop heading="0.0" model="p_lumber01x" position="[-870.446, -1308.484, 42.014]" />
+        <prop heading="53.279" model="p_lumber03x" position="[-870.8901, -1298.8, 42.1623]" />
+        <prop heading="0.0" model="p_CartVend01x" position="[-824.61, -1381.15, 42.597]" />
+        <prop heading="0.0" model="P_CRATECOVER04X" position="[-825.153, -1393.68, 42.588]" />
+        <prop heading="30.87" model="P_CRATECOVER04X" position="[-838.389, -1388.5, 42.5997]" />
+        <prop heading="150.0" model="p_CartVend01x" position="[-852.242, -1408.56, 42.2201]" />
+        <prop heading="90.0" model="P_CRATECOVER04X" position="[-800.82, -1380.64, 42.3792]" />
+        <prop heading="135.0" model="p_cratestack01x" position="[-819.8, -1387.95, 42.65]" />
+        <prop heading="0.0" model="P_CRATECOVER04X" position="[-720.151, -1278.22, 41.1964]" />
+        <prop heading="90.0" model="P_CRATECOVER04X" position="[-733.881, -1277.9, 42.587]" />
+        <prop heading="0.0" model="P_CRATECOVER04X" position="[-1004.82, -1336.63, 56.0123]" />
+        <prop heading="0.0" model="P_CRATECOVER04X" position="[-748.217, -1290.68, 42.1887]" />
+        <prop heading="30.0" model="P_CRATECOVER04X" position="[-730.611, -1266.99, 42.5769]" />
+        <prop heading="0.0" model="p_bat_lumber04x" position="[-740.52, -1273.23, 42.56]" />
+        <prop heading="0.0" model="p_mp_cover_s_bw" position="[-733.0, -1283.0, 42.6]" />
+        <prop heading="270.0" model="p_MP_Cover_SH_BW" position="[-832.6438, -1284.357, 52.572]" />
+        <prop heading="180.0" model="p_crateStack02x" position="[-834.671, -1286.642, 52.572]" />
+        <prop heading="30.0" model="P_CRATEWEAPONS03X" position="[-816.5795, -1294.483, 56.1076]" />
+        <prop heading="0.0" model="p_MP_CoverComb_LU_BW" position="[-758.479, -1241.59, 42.218]" />
+        <prop heading="270.0" model="p_marketcart01x" position="[-799.4603, -1245.92, 43.1786]" />
+        <prop heading="180.0" model="p_MP_CoverComb_M_BW" position="[-798.81, -1212.44, 42.21]" />
+        <prop heading="90.0" model="p_MP_Cover_SM_BW" position="[-799.4603, -1231.92, 43.1786]" />
+        <prop heading="310.0" model="p_MP_CoverComb_HM_BW" position="[-818.4874, -1243.804, 43.5389]" />
+        <prop heading="0.0" model="p_bench15x" position="[-789.74, -1209.16, 42.16]" />
+        <prop heading="90.0" model="p_bench15x" position="[-807.54, -1209.45, 42.55]" />
+      </UNK_30408CA2>
+    </location>
+    <location id="CALIGA_HEDGES">
+      <UNK_82790D7D>
+        <UNK_33AA9551 id="BARN" position="[1884.65, -1341.3, 44.2]" rotation="[0.0, 0.0, -65.0]" scale="[23.0, 13.5, 9.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="CROPS" position="[1912.22, -1258.0, 42.8]" rotation="[0.0, 0.0, 0.0]" scale="[8.5, 8.5, 3.0]" UNK_94FAAF68="volCylinder" />
+        <UNK_33AA9551 id="HEDGES" position="[1797.55, -1352.43, 45.0]" rotation="[0.0, 0.0, 20.0]" scale="[10.0, 12.0, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="COTTAGE_N" position="[1742.858, -1317.147, 45.0]" rotation="[0.0, 0.0, -70.0]" scale="[13.0, 17.0, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="COTTAGE_S" position="[1778.279, -1414.706, 44.9]" rotation="[0.0, 0.0, -70.0]" scale="[13.0, 17.5, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="TOBACCO" position="[1833.77, -1276.14, 44.4]" rotation="[0.0, 0.0, 50.0]" scale="[18.0, 17.5, 5.0]" UNK_94FAAF68="volBox" />
+      </UNK_82790D7D>
+      <UNK_30408CA2>
+        <prop heading="117.0" model="p_CRATESTACK01X" position="[1878.4, -1344.6, 41.5]" />
+        <prop heading="116.5569" model="p_MP_CoverComb_M_BW" position="[1782.777, -1414.215, 43.5311]" />
+        <prop heading="322.4622" model="p_MP_Cover_SH_BW" position="[1774.353, -1419.424, 43.5562]" />
+        <prop heading="243.094" model="p_MP_CoverComb_MU_BW" position="[1738.184, -1315.528, 43.1146]" />
+        <prop heading="158.7342" model="p_MP_CoverComb_S_BW" position="[1746.07, -1313.796, 43.1965]" />
+        <prop heading="302.683" model="p_crate17x" position="[1905.994, -1262.458, 41.0481]" />
+        <prop heading="347.6794" model="p_woodBin01x" position="[1913.758, -1263.373, 40.8848]" />
+        <prop heading="110.8167" model="p_crate012x" position="[1793.572, -1353.798, 42.8538]" />
+        <prop heading="22.5344 " model="p_barrelApples01x" position="[1796.987, -1348.386, 42.9181]" />
+        <prop heading="289.3435" model="p_crateCover04x" position="[1801.468, -1351.347, 42.968]" />
+        <prop heading="198.277" model="p_hideDisplay02x" position="[1799.103, -1356.813, 42.8874]" />
+      </UNK_30408CA2>
+    </location>
+    <location id="EMERALD_BARN">
+      <UNK_82790D7D>
+        <UNK_33AA9551 id="PATCH" position="[1440.323, 328.807, 89.487]" rotation="[0.0, 0.0, 1.0]" scale="[12.55, 12.05, 5.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="TOWER" position="[1452.358, 287.946, 96.596]" rotation="[0.0, 0.0, 21.0]" scale="[5.75, 5.5, 2.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="STABLES" position="[1387.374, 356.302, 88.251]" rotation="[0.0, 0.0, 13.75]" scale="[27.8, 14.2, 5.9]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="PASTURE" position="[1367.79, 287.34, 88.67]" rotation="[0.0, 0.0, 15.0]" scale="[10.5, 25.5, 5.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="STABLES_NORTH" position="[1360.349, 319.494, 88.288]" rotation="[0.0, 0.0, 11.25]" scale="[9.0, 11.5, 5.0]" UNK_94FAAF68="volBox" />
+      </UNK_82790D7D>
+      <UNK_30408CA2>
+        <prop heading="90.0" model="p_feedBags01x" position="[1445.431, 325.45, 88.112]" />
+        <prop heading="45.0" model="p_group_n_grocery_sack02x" position="[1435.767, 331.327, 87.733]" />
+        <prop heading="45.0" model="P_MP_COVER_S_LAG" position="[1445.239, 332.04, 87.993]" />
+        <prop heading="185.0" model="p_MP_Cover_S_SD" position="[1441.618, 334.167, 87.784]" />
+        <prop heading="20.0" model="P_SANDBAGCOVER01X" position="[1451.349, 290.424, 95.393]" />
+        <prop heading="200.0" model="P_SANDBAGCOVER01X" position="[1453.465, 285.52, 95.393]" />
+        <prop heading="16.2" model="p_hayBaleStack03x" position="[1390.605, 331.068, 87.037]" />
+        <prop heading="0.0" model="p_hayBaleStack03x" position="[1402.086, 329.709, 87.122]" />
+        <prop heading="0.0" model="p_haybalecover01x" position="[1362.98, 298.11, 86.95]" />
+        <prop heading="0.0" model="p_barrel_cor01x" position="[1369.08, 298.44, 86.89]" />
+        <prop heading="23.0" model="p_barrel_cor01x" position="[1369.84, 298.0, 86.98]" />
+        <prop heading="23.0" model="p_barrel02x" position="[1369.86, 296.51, 87.06]" />
+        <prop heading="110.0" model="p_feedBags01x" position="[1373.28, 286.09, 87.4]" />
+        <prop heading="0.0" model="p_haybalestack01x" position="[1358.12, 296.14, 86.96]" />
+        <prop heading="0.0" model="p_crateCover04x" position="[1366.75, 278.32, 87.31]" />
+        <prop heading="0.0" model="p_haycartcover01x" position="[1366.88, 287.35, 87.03]" />
+        <prop heading="10.89" model="p_mp_cover_sh_bw" position="[1364.12, 313.94, 86.6]" />
+        <prop heading="0.0" model="p_barrel04x" position="[1362.39, 313.27, 86.62]" />
+        <prop heading="0.0" model="p_feedbags01x" position="[1365.13, 319.76, 86.67]" />
+        <prop heading="0.0" model="p_mp_cover_s_bw" position="[1356.88, 313.18, 86.67]" />
+        <prop heading="0.0" model="p_bat_lumber04x" position="[1355.86, 317.55, 86.8]" />
+        <prop heading="0.0" model="p_haycartcover02x" position="[1358.62, 321.72, 86.76]" />
+      </UNK_30408CA2>
+    </location>
+    <location id="CORNWALL">
+      <UNK_82790D7D>
+        <UNK_33AA9551 id="OUTHOUSES" position="[503.005, 606.85, 111.315]" rotation="[0.0, 0.0, -5.0]" scale="[21.0, 16.0, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="TAR" position="[562.3, 582.075, 112.235]" rotation="[0.0, 0.0, -40.0]" scale="[13.0, 11.5, 5.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="STAGING" position="[483.292, 665.059, 118.23]" rotation="[0.0, 0.0, -4.0]" scale="[12.0, 12.5, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="LOADING" position="[479.718, 697.812, 116.936]" rotation="[0.0, 0.0, -5.0]" scale="[15.0, 13.0, 4.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="TUNNEL" position="[639.695, 695.947, 115.958]" rotation="[0.0, 0.0, 20.0]" scale="[20.0, 18.0, 4.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="TROLL" position="[545.737, 652.155, 110.782]" rotation="[0.0, 0.0, 11.0]" scale="[10.0, 16.5, 4.0]" UNK_94FAAF68="volBox" />
+      </UNK_82790D7D>
+      <UNK_30408CA2>
+        <prop heading="0.0" model="p_tableSet01x" position="[564.5, 584.44, 110.6]" />
+        <prop heading="41.83" model="p_bat_lumber02x" position="[563.84, 578.42, 110.79]" />
+        <prop heading="0.0" model="mp_sca_rock_grp_l_03" position="[550.27, 649.47, 109.1]" />
+        <prop heading="0.0" model="mp_sca_rock_grp_l_02" position="[543.07, 652.49, 110.12]" />
+        <prop heading="0.0" model="p_barrel_cor01x" position="[479.38, 701.26, 115.32]" />
+        <prop heading="75.0" model="p_barrel_cor01x" position="[478.51, 701.85, 115.37]" />
+        <prop heading="0.0" model="p_railBuffer01x" position="[640.18, 695.24, 114.22]" />
+      </UNK_30408CA2>
+    </location>
+    <location id="ANNESBURG">
+      <UNK_82790D7D>
+        <UNK_33AA9551 id="STAGING" position="[2946.8, 1303.52, 46.0]" rotation="[0.0, 0.0, -20.0]" scale="[32.5, 17.1, 6.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="DOCK" position="[3017.8, 1350.2, 45.0]" rotation="[0.0, 0.0, -20.0]" scale="[10.1, 14.5, 6.75]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="PROCESS" position="[2947.0, 1377.7, 51.56]" rotation="[0.0, 0.0, -20.0]" scale="[20.0, 8.25, 3.5]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="SMITHY" position="[2866.31, 1360.78, 64.55]" rotation="[0.0, 0.0, -15.0]" scale="[19.0, 8.0, 7.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="E_BARN" position="[2904.725, 1447.57, 58.362]" rotation="[0.0, 0.0, -19.0]" scale="[5.75, 11.0, 5.0]" UNK_94FAAF68="volBox" />
+        <UNK_33AA9551 id="E_RAILS" position="[3005.54, 1444.31, 46.7]" rotation="[0.0, 0.0, 5.0]" scale="[6.8, 6.8, 3.5]" UNK_94FAAF68="volCylinder" />
+      </UNK_82790D7D>
+      <UNK_30408CA2>
+        <prop heading="140.64" model="P_CRATECOVER04X" position="[3007.787, 1449.862, 45.9605]" />
+        <prop heading="291.55" model="P_CRATECOVER04X" position="[2905.904, 1445.901, 56.5522]" />
+        <prop heading="266.54" model="P_CRATECOVER06X" position="[2902.626, 1443.621, 56.65]" />
+        <prop heading="341.0905" model="p_MP_Cover_SH_BW" position="[2870.092, 1363.609, 61.5953]" />
+        <prop heading="163.2464" model="p_bat_crateStack01x" position="[2866.502, 1357.107, 61.5494]" />
+        <prop heading="161.1725" model="p_crateWeapons04x" position="[2861.089, 1363.41, 63.9497]" />
+      </UNK_30408CA2>
+    </location>
+  </locations>
+</root>

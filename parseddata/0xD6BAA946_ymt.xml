@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4A1A2EA>
+    <camp UNK_DA3CFFD1="true" name="BLU_0 Robbery" pos="[2841.189, -30.76445, 42.77265]" zone="1">
+      <preset recipe="CFRT_FANCY_LRG1" />
+    </camp>
+    <camp name="BLU_1" pos="[2607.927, -319.3926, 40.95263]" zone="3">
+      <preset recipe="CFRT_MINER_LRG1" />
+    </camp>
+    <camp UNK_D43B0E78="blu_2_rope_end" name="BLU_2" pos="[2244.111, -285.2383, 42.1666]" zone="2">
+      <preset recipe="CFRT_UNIQUE_TREE_TIE1" />
+    </camp>
+    <camp name="BLU_3" pos="[2394.699, -629.6008, 41.0268]" zone="2">
+      <preset recipe="CFRT_FOLIAGE_DECIDUOUS_LRG1" />
+    </camp>
+    <camp name="BLU_4" pos="[2723.243, -470.2964, 41.2995]" zone="1">
+      <preset recipe="CFRT_FISHERMAN_SML2" />
+    </camp>
+  </UNK_B4A1A2EA>
+</root>

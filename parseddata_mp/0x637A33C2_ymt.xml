@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_4C2A8F92>
+    <region id="REGION_BAY_SAINT_DENIS">
+      <UNK_D8826A78 type="RASPT_HORSE">
+        <UNK_50A088C3 heading="277.1077" id="HORSE_1" position="[2251.706, -1501.499, 45.6965]" />
+        <UNK_50A088C3 heading="274.5773" id="HORSE_2" position="[2327.918, -1514.79, 46.1305]" />
+        <UNK_50A088C3 heading="304.0245" id="HORSE_3" position="[2438.138, -1499.197, 45.8315]" />
+        <UNK_50A088C3 heading="19.9451" id="HORSE_4" position="[2501.389, -1486.8, 45.9692]" />
+        <UNK_50A088C3 heading="270.3021" id="HORSE_5" position="[2588.827, -1469.463, 46.2326]" />
+        <UNK_50A088C3 heading="1.3071" id="HORSE_6" position="[2667.229, -1493.426, 45.9692]" />
+        <UNK_50A088C3 heading="30.4684" id="HORSE_7" position="2726.1660. -1445.3256. 46.1656" />
+        <UNK_50A088C3 heading="54.3374" id="HORSE_8" position="[2774.528, -1422.239, 45.7461]" />
+        <UNK_50A088C3 heading="48.1969" id="HORSE_9" position="[2843.299, -1356.335, 44.552]" />
+        <UNK_50A088C3 heading="317.4452" id="HORSE_10" position="[2875.318, -1298.85, 45.8761]" />
+        <UNK_50A088C3 heading="354.5517" id="HORSE_11" position="[2885.676, -1243.238, 45.9398]" />
+        <UNK_50A088C3 heading="66.1317" id="HORSE_12" position="[2906.037, -1149.143, 45.7015]" />
+        <UNK_50A088C3 heading="52.4185" id="HORSE_13" position="[2888.621, -1077.604, 44.197]" />
+        <UNK_50A088C3 heading="42.7512" id="HORSE_14" position="[2863.663, -1009.285, 42.1672]" />
+        <UNK_50A088C3 heading="76.1641" id="HORSE_15" position="[2787.986, -936.3463, 43.4085]" />
+        <UNK_50A088C3 heading="37.0784" id="HORSE_16" position="[2744.117, -853.6929, 42.7335]" />
+        <UNK_50A088C3 heading="80.7344" id="HORSE_17" position="[2720.961, -800.7341, 42.3078]" />
+        <UNK_50A088C3 heading="211.9947" id="HORSE_18" position="[2584.984, -852.1687, 42.3475]" />
+        <UNK_50A088C3 heading="167.4003" id="HORSE_19" position="[2483.244, -909.3325, 42.225]" />
+        <UNK_50A088C3 heading="277.5575" id="HORSE_20" position="[2500.216, -1031.669, 45.3664]" />
+        <UNK_50A088C3 heading="184.2162" id="HORSE_21" position="[2330.552, -1079.856, 43.9648]" />
+        <UNK_50A088C3 heading="252.4088" id="HORSE_22" position="[2291.573, -1173.475, 42.6526]" />
+        <UNK_50A088C3 heading="200.9532" id="HORSE_23" position="[2346.59, -1310.423, 45.1954]" />
+        <UNK_50A088C3 heading="257.0888" id="HORSE_24" position="[2278.909, -1377.507, 45.5499]" />
+        <UNK_50A088C3 heading="185.0041" id="HORSE_25" position="[2640.638, -976.5907, 43.7485]" />
+        <UNK_50A088C3 heading="205.6571" id="HORSE_26" position="[2644.948, -1044.738, 46.048]" />
+        <UNK_50A088C3 heading="301.9546" id="HORSE_27" position="[2739.24, -1018.036, 44.6434]" />
+        <UNK_50A088C3 heading="178.0147" id="HORSE_28" position="[2666.191, -1137.048, 50.9483]" />
+        <UNK_50A088C3 heading="260.7217" id="HORSE_29" position="[2708.412, -1140.154, 50.4852]" />
+        <UNK_50A088C3 heading="266.2103" id="HORSE_30" position="[2742.418, -1110.417, 48.581]" />
+        <UNK_50A088C3 heading="193.9652" id="HORSE_31" position="[2805.438, -1106.258, 46.4065]" />
+        <UNK_50A088C3 heading="103.6916" id="HORSE_32" position="[2823.771, -1175.783, 47.1257]" />
+        <UNK_50A088C3 heading="142.9957" id="HORSE_33" position="[2787.112, -1259.408, 47.4871]" />
+        <UNK_50A088C3 heading="85.3911" id="HORSE_34" position="[2715.625, -1245.418, 50.0105]" />
+        <UNK_50A088C3 heading="134.8494" id="HORSE_35" position="[2618.35, -1136.028, 51.4497]" />
+        <UNK_50A088C3 heading="175.6958" id="HORSE_36" position="[2616.219, -1214.031, 53.4412]" />
+        <UNK_50A088C3 heading="205.1725" id="HORSE_37" position="[2610.017, -1290.905, 52.2591]" />
+        <UNK_50A088C3 heading="235.7881" id="HORSE_38" position="[2749.467, -1315.896, 47.68]" />
+        <UNK_50A088C3 heading="222.3166" id="HORSE_39" position="[2683.22, -1392.593, 46.3267]" />
+        <UNK_50A088C3 heading="90.0699" id="HORSE_40" position="[2643.813, -1422.746, 46.2598]" />
+        <UNK_50A088C3 heading="91.687" id="HORSE_41" position="[2504.063, -1130.581, 49.2958]" />
+        <UNK_50A088C3 heading="180.9831" id="HORSE_42" position="[2495.34, -1182.083, 49.3304]" />
+        <UNK_50A088C3 heading="273.2232" id="HORSE_43" position="[2495.753, -1263.785, 49.1234]" />
+        <UNK_50A088C3 heading="270.8521" id="HORSE_44" position="[2405.447, -1143.438, 46.7557]" />
+        <UNK_50A088C3 heading="269.5037" id="HORSE_45" position="[2405.536, -1187.056, 45.6967]" />
+        <UNK_50A088C3 heading="183.8771" id="HORSE_46" position="[2408.982, -1238.217, 45.6003]" />
+        <UNK_50A088C3 heading="272.2446" id="HORSE_47" position="[2510.343, -1336.617, 47.4839]" />
+        <UNK_50A088C3 heading="208.2163" id="HORSE_48" position="[2404.691, -1320.172, 45.1619]" />
+        <UNK_50A088C3 heading="6.4864" id="HORSE_49" position="[2586.907, -1360.192, 46.3608]" />
+        <UNK_50A088C3 heading="235.824" id="HORSE_50" position="[2376.621, -1422.45, 45.8906]" />
+        <UNK_50A088C3 heading="356.2425" id="HORSE_51" position="[2492.472, -1427.573, 46.3132]" />
+        <UNK_50A088C3 heading="86.6216" id="HORSE_52" position="[2559.364, -1259.927, 50.7088]" />
+        <UNK_50A088C3 heading="135.8643" id="HORSE_53" position="[2800.806, -1314.308, 46.4625]" />
+        <UNK_50A088C3 heading="121.501" id="HORSE_54" position="[2663.652, -1263.398, 52.0577]" />
+      </UNK_D8826A78>
+      <UNK_D8826A78 type="RASPT_COACH">
+        <UNK_50A088C3 heading="213.6891" id="COACH_1" position="[2328.735, -1102.128, 45.045]" />
+        <UNK_50A088C3 heading="197.3419" id="COACH_2" position="[2343.261, -1123.885, 46.247]" />
+        <UNK_50A088C3 heading="281.9447" id="COACH_3" position="[2376.109, -1135.72, 46.495]" />
+        <UNK_50A088C3 heading="262.8852" id="COACH_4" position="[2427.766, -1145.268, 47.33]" />
+        <UNK_50A088C3 heading="268.9636" id="COACH_5" position="[2462.769, -1145.01, 48.111]" />
+        <UNK_50A088C3 heading="177.2636" id="COACH_6" position="[2495.27, -1150.072, 49.2707]" />
+        <UNK_50A088C3 heading="343.8317" id="COACH_7" position="[2300.047, -1174.0, 42.6097]" />
+        <UNK_50A088C3 heading="244.3495" id="COACH_8" position="[2282.176, -1374.422, 45.5435]" />
+        <UNK_50A088C3 heading="163.4275" id="COACH_9" position="[2262.503, -1424.6, 45.9596]" />
+        <UNK_50A088C3 heading="84.5917" id="COACH_10" position="[2288.747, -1504.104, 46.2286]" />
+        <UNK_50A088C3 heading="89.0991" id="COACH_11" position="[2369.852, -1507.06, 46.135]" />
+        <UNK_50A088C3 heading="57.2377" id="COACH_12" position="[2462.076, -1464.829, 46.261]" />
+        <UNK_50A088C3 heading="82.9032" id="COACH_13" position="[2582.678, -1470.278, 46.2767]" />
+        <UNK_50A088C3 heading="82.6116" id="COACH_14" position="[2630.116, -1469.78, 46.203]" />
+        <UNK_50A088C3 heading="269.8953" id="COACH_15" position="[2711.535, -1423.471, 46.17]" />
+        <UNK_50A088C3 heading="295.2401" id="COACH_16" position="[2754.223, -1409.829, 45.992]" />
+        <UNK_50A088C3 heading="134.7106" id="COACH_17" position="[2767.022, -1354.236, 46.257]" />
+        <UNK_50A088C3 heading="316.1662" id="COACH_18" position="[2808.816, -1314.725, 46.5797]" />
+        <UNK_50A088C3 heading="352.5799" id="COACH_19" position="[2875.072, -1259.453, 46.0555]" />
+        <UNK_50A088C3 heading="174.454" id="COACH_20" position="[2869.977, -1204.17, 45.9435]" />
+        <UNK_50A088C3 heading="185.3556" id="COACH_21" position="[2867.952, -1134.932, 45.846]" />
+        <UNK_50A088C3 heading="17.9166" id="COACH_22" position="[2814.084, -1005.961, 44.062]" />
+        <UNK_50A088C3 heading="104.3642" id="COACH_23" position="[2762.389, -930.3347, 43.2785]" />
+        <UNK_50A088C3 heading="108.0796" id="COACH_24" position="[2670.569, -971.18, 42.719]" />
+        <UNK_50A088C3 heading="77.6142" id="COACH_25" position="[2564.76, -986.681, 43.354]" />
+        <UNK_50A088C3 heading="194.3595" id="COACH_26" position="[2653.858, -1066.442, 46.9585]" />
+        <UNK_50A088C3 heading="324.898" id="COACH_27" position="[2388.657, -1326.613, 45.415]" />
+        <UNK_50A088C3 heading="107.2352" id="COACH_28" position="[2609.424, -1131.992, 51.4345]" />
+        <UNK_50A088C3 heading="263.7988" id="COACH_29" position="[2693.077, -1144.229, 50.5765]" />
+        <UNK_50A088C3 heading="271.6009" id="COACH_30" position="[2769.004, -1109.824, 47.629]" />
+        <UNK_50A088C3 heading="318.9679" id="COACH_31" position="[2768.633, -1179.623, 48.4545]" />
+        <UNK_50A088C3 heading="318.1586" id="COACH_32" position="[2800.11, -1245.877, 47.5126]" />
+        <UNK_50A088C3 heading="25.2186" id="COACH_33" position="[2736.824, -1300.466, 47.9881]" />
+        <UNK_50A088C3 heading="114.6057" id="COACH_34" position="[2670.803, -1261.052, 51.895]" />
+        <UNK_50A088C3 heading="35.9098" id="COACH_35" position="[2682.029, -1369.121, 47.414]" />
+        <UNK_50A088C3 heading="87.5853" id="COACH_36" position="[2585.19, -1260.949, 52.5955]" />
+        <UNK_50A088C3 heading="355.1059" id="COACH_37" position="[2587.26, -1361.635, 46.213]" />
+        <UNK_50A088C3 heading="171.4322" id="COACH_38" position="[2492.407, -1379.959, 45.8721]" />
+        <UNK_50A088C3 heading="73.7229" id="COACH_39" position="[2481.979, -1260.208, 48.736]" />
+        <UNK_50A088C3 heading="358.9423" id="COACH_40" position="[2499.524, -1192.577, 49.258]" />
+        <UNK_50A088C3 heading="74.036" id="COACH_41" position="[2268.668, -1365.457, 45.1845]" />
+        <UNK_50A088C3 heading="187.3255" id="COACH_42" position="[2409.821, -1194.056, 45.5689]" />
+      </UNK_D8826A78>
+    </region>
+  </UNK_4C2A8F92>
+</root>

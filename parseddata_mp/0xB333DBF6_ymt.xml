@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <common>
+    <shared UNK_8B9E5CF7="20" UNK_18110D30="1000" />
+    <bank_robbery>
+      <valentine UNK_2B0A3043="400.0" />
+      <rhodes UNK_2B0A3043="400.0" />
+      <blackwater UNK_2B0A3043="400.0" />
+      <new_bordeaux UNK_2B0A3043="400.0" />
+    </bank_robbery>
+    <UNK_E3A1356F>
+      <aberdeen_farm UNK_2B0A3043="400.0" />
+      <catfish_jacksons UNK_2B0A3043="400.0" />
+      <chez_porter UNK_2B0A3043="400.0" />
+      <lone_mule_stead UNK_2B0A3043="400.0" />
+      <lonnies_shack UNK_2B0A3043="400.0" />
+      <rocky_seven UNK_2B0A3043="400.0" />
+      <watsons_cabin UNK_2B0A3043="400.0" />
+    </UNK_E3A1356F>
+    <UNK_F9189535>
+      <default UNK_2B0A3043="400.0" />
+    </UNK_F9189535>
+  </common>
+</root>

@@ -1,0 +1,2233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data>
+    <UNK_FCAC7D18>
+      <UNK_AD305933 id="STANDARD">
+        <text id="SHARD_TEAM_PRIMARY_INTRO" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_SHARD_DESC_PRIMARY" />
+        <text id="SHARD_TEAM_SECONDARY_INTRO" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_SHARD_DESC_SECONDARY" />
+        <text id="SHARD_TEAM_PRIMARY_PASS" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_SHARD_PRIMARY_PASS" />
+        <text id="SHARD_DESTROYED" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_SHARD_OVER" />
+        <text id="SHARD_OUTSIDE_CLEANUP_RADIUS" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_SHARD_OVER" />
+        <text id="SHARD_FAIL_ENTITY_KILLED" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_SHARD_OVER" />
+        <text id="SHARD_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_POSSE_ABANDONED" />
+        <text id="SHARD_YOUR_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOUR_POSSE_ABANDONED" />
+        <text id="SHARD_YOU_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOU_ABANDONED" />
+        <text id="HELP_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_HELP_INTRO" />
+        <text id="HELP_UNLOCK_VEHICLE_APPROACH" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_HELP_UNLOCK_VEHICLE_APPROACH" />
+        <text id="HELP_OBJECTIVE_ESCAPING_ON_FOOT" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_HELP_OBJECTIVE_ESCAPING_ON_FOOT" />
+        <text id="HELP_OBJECTIVE_ESCAPING_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_HELP_OBJECTIVE_ESCAPING" />
+        <text id="HELP_SWAP_REINS" UNK_EC4B42F9="FETCH_HELP_SWAP_REINS_WAGON" />
+        <text id="HELP_REMAINING_ATTACKERS" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_HELP_REMAINING_ATTACKERS" />
+        <text id="OBJ_DESTROY" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_OBJ_DESTROY" />
+        <text id="OBJ_KILL_ATTACKERS" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_OBJ_KILL_ATTACKERS" />
+        <text id="OBJ_KILL_ATTACKERS_REMAINING" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_OBJ_KILL_ATTACKERS_REMAINING" />
+        <text id="OBJ_LEAVE_AREA" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_OBJ_LEAVE_AREA" />
+        <text id="OBJ_LEAVE_AREA_POSSE" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_OBJ_LEAVE_AREA_POSSE" />
+        <text id="SCORETIMER_OBJECTIVE_DESTROYED" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_TICKER_DESTROY" />
+        <text id="SCORETIMER_OBJECTIVE_DESTROYED_YOU" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_TICKER_DESTROY_YOU" />
+        <text id="SCORETIMER_TRIGGER_ACTION" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_SCORETIMER_TRIGGER_ACTION" />
+        <text id="SCORETIMER_DELIVER_TEAM_PRIMARY_PASS" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_SCORETIMER_PRIMARY_PASS" />
+        <text id="SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_NP" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_SCORETIMER_PRIMARY_PASS_NP" />
+        <text id="SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_YOU" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_SCORETIMER_PRIMARY_PASS_YOU" />
+        <text id="SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_YOUR" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_SCORETIMER_PRIMARY_PASS_YOUR" />
+      </UNK_AD305933>
+    </UNK_FCAC7D18>
+    <locations>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_834BD0B="true" id="PRISONER_ASSASSINATION_OLD_FORT_WALLACE" UNK_7C1FCD5E="MODEL_CONFIG_BOUNTY_HUNTERS" UNK_C0F9D21B="MUSIC_PRIS_ASSASSINATION" UNK_21B34E9A="true" UNK_63902F09="true" UNK_CA597B13="false" UNK_5AB5EF23="900000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_DRIVE_TO_0" role="DRIVE_TO">
+            <config UNK_7FD08239="FETCH_GOTO_FORT_WALLACE" position="[366.068, 1458.064, 178.44]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 5.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_FORT_WALLACE" position="[366.068, 1458.064, 178.44]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 5.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_LEAVE_AREA" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" role="LEAVE_AREA_PLAYERS_ONLY">
+            <config position="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="[150.0, 150.0, 150.0]" type="SPHERE" />
+          </volume>
+        </volumes>
+        <UNK_1D77EF7D UNK_FD038381="100.0" UNK_B64B4E75="125.0" />
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="NEAR_WAGON" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="70.0" />
+          <trigger id="AGGRO_ESCORT" role="SHOULD_GO_AGGRO">
+            <UNK_1331CF2C action="SHOW_SCORETIMER" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT" UNK_5AB5EF23="720000" />
+          </trigger>
+          <trigger id="UNLOCK_DOOR" UNK_E01B972B="3" role="NUMBER_OF_ENEMIES_REMAINING">
+            <UNK_1331CF2C action="UNLOCK_VEHICLE_DOORS" />
+          </trigger>
+          <trigger id="SPAWN_CHASERS" UNK_E01B972B="2" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="TRIGGER_MISSION_FAIL_CUTSCENE" UNK_E798E305="PRIMARY" role="AI_DRIVER_REACHED_DRIVE_TO">
+            <UNK_1331CF2C action="SET_OBJECTIVE_FAILED" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" />
+            <UNK_1331CF2C action="SET_TRIGGER_FAILED" id="REPORT_CRIME" />
+          </trigger>
+          <trigger id="REPORT_CRIME" role="PLAYER_IN_VOLUME_AT_MISSION_END" UNK_B71C8EA1="VOL_LEAVE_AREA">
+            <UNK_1331CF2C action="REPORT_CRIME" hash="CRIME_MURDER" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="NEAR_WAGON" id="GOTO_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_GOTO" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_CF941DEE="200.0" config="ASSASSINATION_OBJECTIVE_PRISONER" UNK_F5D3F1EC="PED" UNK_341908A9="true" UNK_E691240F="crouch" UNK_7BA579E4="MP_PRSN_ASN_MALES_01" UNK_895487CA="50" outfit="MP_PRSN_ASN_FORTWALLACE_01" UNK_CFFF78B9="215.0" UNK_65FD0826="true" UNK_905A084C="true" spawn_heading="62.3316" spawn_position="[1295.636, 1218.507, 150.1164]" UNK_11B57E58="1">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="NEAR_WAGON" type="CLEAR_IN_VEHICLE_TEXT_AND_BLIP" />
+              <UNK_A2BEB5B id="SPAWN_CHASERS" type="AGGRO" />
+              <UNK_A2BEB5B UNK_6E20B30A="7000" id="UNLOCK_DOOR" type="DISABLE_LOCKON" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_1A624864="9.0" config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_69C9A8A7="3.5" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_F9D5E1A4="true" spawn_heading="15.3853" spawn_position="[1299.801, 1210.557, 150.1758]" />
+          <guard UNK_1A624864="9.0" config="OBJECTIVE_PRISONER_ASSASSINATION_ARMORED_WAGON" UNK_69C9A8A7="3.5" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_3624DA8A="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_AF9A039A="true" />
+          <guard config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" />
+        </guards>
+        <passengers>
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_WARN_BOUNTY" UNK_C20AF349="VOL_DRIVE_TO_0" UNK_94EA800F="75.0" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="4" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="22.2818" UNK_770101E4="[359.5518, 1459.589, 178.4308]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="DRIVER_WARN_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="61.0491" UNK_770101E4="[364.269, 1463.053, 178.3938]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="DRIVER_RECKLESS_BOUNTY" UNK_94EA800F="75.0" UNK_7C35C06D="3" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="61.0491" UNK_770101E4="[364.269, 1463.053, 178.3938]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="BACK_SEAT_PASSENGER_PUMP_SHOTGUN" UNK_B3B7A5F9="true" UNK_732D401="GUARD" UNK_35DDC98="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+            </UNK_BC1116ED>
+          </passenger>
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="3" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+        </passengers>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="SPAWN_CHASERS">
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END_CUTSCENE_FAIL_PRIMARY" UNK_F259B128="true" UNK_E2B28D77="TRIGGER_MISSION_FAIL_CUTSCENE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="GUARD" id="WAGON_1" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="GUARD" id="WAGON_2" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="GUARD" id="WAGON_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="PASSENGER" id="WAGON_1_DRIVER" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="PASSENGER" id="WAGON_1_PASSENGER" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT" />
+              <actor UNK_5975C34F="3" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT_2" />
+              <actor UNK_5975C34F="4" UNK_1C04038C="PASSENGER" id="WAGON_2_DRIVER" />
+              <actor UNK_5975C34F="5" UNK_1C04038C="PASSENGER" id="WAGON_2_PASSENGER" />
+              <actor UNK_5975C34F="6" UNK_1C04038C="PASSENGER" id="WAGON_2_BACKSEAT" />
+              <actor UNK_5975C34F="7" UNK_1C04038C="PASSENGER" id="WAGON_3_DRIVER" />
+              <actor UNK_5975C34F="8" UNK_1C04038C="PASSENGER" id="WAGON_3_PASSENGER" />
+              <actor UNK_5975C34F="9" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_1" />
+              <actor UNK_5975C34F="10" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_2" />
+              <actor UNK_5975C34F="11" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="PRISONER" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near35mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[0.0, 14.0, 4.875]" UNK_A4678354="DRIVE_TO_0" UNK_42EA33CB="[-3.0, 0.0, -87.75]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_B708D0CB="36.4577" UNK_242C8C4="[355.0623, 1469.011, 178.7208]" id="WAGON_1_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_1_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_PASSENGER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="WAGON_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_3" />
+                  <actor UNK_5E233F16="true" id="PRISONER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_DDA8C3D3="39.4751" UNK_EEFDFFA3="[421.0157, 1404.492, 169.4191]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_DDA8C3D3="333.5569" UNK_EEFDFFA3="[400.7156, 1393.911, 169.9003]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_DDA8C3D3="130.494" UNK_EEFDFFA3="[405.0358, 1398.533, 170.2434]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_DDA8C3D3="319.6038" UNK_EEFDFFA3="[427.6561, 1350.611, 172.4429]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_DDA8C3D3="215.7363" UNK_EEFDFFA3="[426.5443, 1354.27, 171.5089]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_DDA8C3D3="35.9377" UNK_EEFDFFA3="[431.9699, 1348.979, 172.7523]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_DDA8C3D3="22.6613" UNK_EEFDFFA3="[443.1877, 1381.647, 169.3604]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_0_HORSE" UNK_DDA8C3D3="66.3003" UNK_EEFDFFA3="[420.6747, 1401.782, 169.495]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_1_HORSE" UNK_DDA8C3D3="341.4186" UNK_EEFDFFA3="[402.9829, 1391.811, 169.7174]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_2_HORSE" UNK_DDA8C3D3="92.342" UNK_EEFDFFA3="[405.8982, 1401.13, 170.429]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_3_HORSE" UNK_DDA8C3D3="121.4202" UNK_EEFDFFA3="[435.3443, 1385.228, 168.9779]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_4_HORSE" UNK_DDA8C3D3="116.5806" UNK_EEFDFFA3="[434.4109, 1388.441, 168.7616]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_5_HORSE" UNK_DDA8C3D3="204.8857" UNK_EEFDFFA3="[423.4407, 1386.814, 169.1176]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_6_HORSE" UNK_DDA8C3D3="236.2467" UNK_EEFDFFA3="[426.0805, 1388.414, 168.9543]" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_834BD0B="true" id="PRISONER_ASSASSINATION_EMERALD_RANCH" UNK_7C1FCD5E="MODEL_CONFIG_BOUNTY_HUNTERS" UNK_C0F9D21B="MUSIC_PRIS_ASSASSINATION" UNK_21B34E9A="true" UNK_63902F09="true" UNK_CA597B13="false" UNK_5AB5EF23="900000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_DRIVE_TO_0" role="DRIVE_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_RHODES" position="[1354.783, -1313.09, 75.981]" rotation="[0.0, 0.0, 0.0]" scale="[12.0, 12.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_RHODES" position="[1354.783, -1313.09, 75.981]" rotation="[0.0, 0.0, 0.0]" scale="[12.0, 12.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_LEAVE_AREA" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" role="LEAVE_AREA_PLAYERS_ONLY">
+            <config position="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="[150.0, 150.0, 150.0]" type="SPHERE" />
+          </volume>
+        </volumes>
+        <UNK_1D77EF7D UNK_FD038381="100.0" UNK_B64B4E75="125.0" />
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="NEAR_WAGON" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="70.0" />
+          <trigger id="AGGRO_ESCORT" role="SHOULD_GO_AGGRO">
+            <UNK_1331CF2C action="SHOW_SCORETIMER" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT" UNK_5AB5EF23="720000" />
+          </trigger>
+          <trigger id="UNLOCK_DOOR" UNK_E01B972B="4" role="NUMBER_OF_ENEMIES_REMAINING">
+            <UNK_1331CF2C action="UNLOCK_VEHICLE_DOORS" />
+          </trigger>
+          <trigger id="SPAWN_CHASERS" UNK_E01B972B="3" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="TRIGGER_MISSION_FAIL_CUTSCENE" UNK_E798E305="PRIMARY" role="AI_DRIVER_REACHED_DRIVE_TO">
+            <UNK_1331CF2C action="SET_OBJECTIVE_FAILED" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" />
+            <UNK_1331CF2C action="SET_TRIGGER_FAILED" id="REPORT_CRIME" />
+          </trigger>
+          <trigger id="REPORT_CRIME" role="PLAYER_IN_VOLUME_AT_MISSION_END" UNK_B71C8EA1="VOL_LEAVE_AREA">
+            <UNK_1331CF2C action="REPORT_CRIME" hash="CRIME_MURDER" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="NEAR_WAGON" id="GOTO_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_GOTO" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_CF941DEE="200.0" config="ASSASSINATION_OBJECTIVE_PRISONER" UNK_F5D3F1EC="PED" UNK_7AFEC79B="true" UNK_341908A9="true" UNK_E691240F="moderate_drunk" UNK_7BA579E4="MP_PRSN_ASN_MALES_01" UNK_895487CA="50" outfit="MP_PRSN_ASN_EMRANCH_01" UNK_CFFF78B9="215.0" UNK_65FD0826="true" UNK_905A084C="true" spawn_position="[1427.636, 268.5067, 89.2001]" UNK_11B57E58="1">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="NEAR_WAGON" type="CLEAR_IN_VEHICLE_TEXT_AND_BLIP" />
+              <UNK_A2BEB5B id="SPAWN_CHASERS" type="AGGRO" />
+              <UNK_A2BEB5B UNK_6E20B30A="7000" id="UNLOCK_DOOR" type="DISABLE_LOCKON" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_1A624864="9.0" config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_69C9A8A7="3.5" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_F9D5E1A4="true" spawn_heading="185.2156" spawn_position="[1427.636, 268.5067, 89.2001]" />
+          <guard config="OBJECTIVE_PRISONER_ASSASSINATION_ARMORED_WAGON" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_3624DA8A="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_AF9A039A="true" />
+          <guard config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" />
+        </guards>
+        <passengers>
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="4" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="126.1463" UNK_770101E4="[1362.885, -1312.484, 76.0967]" UNK_C425AC86="WORLD_HUMAN_GUARD_MILITARY" config="DRIVER_WARN_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="27.0818" UNK_770101E4="[1360.994, -1320.788, 76.1005]" UNK_C425AC86="WORLD_HUMAN_GUARD_MILITARY" config="DRIVER_RECKLESS_BOUNTY" UNK_94EA800F="75.0" UNK_7C35C06D="3" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="27.0818" UNK_770101E4="[1360.994, -1320.788, 76.1005]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="BACK_SEAT_PASSENGER_PUMP_SHOTGUN" UNK_B3B7A5F9="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+            </UNK_BC1116ED>
+          </passenger>
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="4" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+        </passengers>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="SPAWN_CHASERS">
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END_CUTSCENE_FAIL_PRIMARY" UNK_F259B128="true" UNK_E2B28D77="TRIGGER_MISSION_FAIL_CUTSCENE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="GUARD" id="WAGON_1" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="GUARD" id="WAGON_2" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="GUARD" id="WAGON_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="PASSENGER" id="WAGON_1_DRIVER" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="PASSENGER" id="WAGON_1_PASSENGER" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT" />
+              <actor UNK_5975C34F="3" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT_2" />
+              <actor UNK_5975C34F="5" UNK_1C04038C="PASSENGER" id="WAGON_2_DRIVER" />
+              <actor UNK_5975C34F="6" UNK_1C04038C="PASSENGER" id="WAGON_2_PASSENGER" />
+              <actor UNK_5975C34F="7" UNK_1C04038C="PASSENGER" id="WAGON_2_BACKSEAT" />
+              <actor UNK_5975C34F="8" UNK_1C04038C="PASSENGER" id="WAGON_3_DRIVER" />
+              <actor UNK_5975C34F="9" UNK_1C04038C="PASSENGER" id="WAGON_3_PASSENGER" />
+              <actor UNK_5975C34F="10" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_1" />
+              <actor UNK_5975C34F="11" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_2" />
+              <actor UNK_5975C34F="12" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="PRISONER" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near35mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[15.5, -3.25, 0.875]" UNK_A4678354="DRIVE_TO_0" UNK_42EA33CB="[-4.125, 0.0, 131.25]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_B708D0CB="342.3055" UNK_242C8C4="[1359.461, -1303.766, 76.768]" id="WAGON_1_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_1_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_PASSENGER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="WAGON_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_3" />
+                  <actor UNK_5E233F16="true" id="PRISONER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_DDA8C3D3="129.8691" UNK_EEFDFFA3="[1378.109, -1244.381, 78.4052]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_DDA8C3D3="275.6503" UNK_EEFDFFA3="[1373.401, -1244.439, 78.7373]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_DDA8C3D3="339.8235" UNK_EEFDFFA3="[1375.381, -1248.348, 78.4592]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_DDA8C3D3="162.8947" UNK_EEFDFFA3="[1394.694, -1265.505, 77.1218]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_DDA8C3D3="282.2699" UNK_EEFDFFA3="[1390.981, -1266.698, 76.9002]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_DDA8C3D3="184.835" UNK_EEFDFFA3="[1403.815, -1263.953, 77.6793]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_DDA8C3D3="225.9552" UNK_EEFDFFA3="[1400.17, -1264.219, 77.5062]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_0_HORSE" UNK_DDA8C3D3="97.9145" UNK_EEFDFFA3="[1365.552, -1250.21, 78.5808]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_1_HORSE" UNK_DDA8C3D3="134.9464" UNK_EEFDFFA3="[1365.754, -1252.438, 78.5075]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_2_HORSE" UNK_DDA8C3D3="168.2231" UNK_EEFDFFA3="[1382.045, -1257.912, 77.2595]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_3_HORSE" UNK_DDA8C3D3="225.0523" UNK_EEFDFFA3="[1385.033, -1256.791, 77.3515]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_4_HORSE" UNK_DDA8C3D3="164.173" UNK_EEFDFFA3="[1412.875, -1248.402, 78.8945]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_5_HORSE" UNK_DDA8C3D3="100.4426" UNK_EEFDFFA3="[1415.737, -1251.61, 79.2457]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_6_HORSE" UNK_DDA8C3D3="65.1477" UNK_EEFDFFA3="[1415.779, -1256.443, 79.1392]" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_834BD0B="true" id="PRISONER_ASSASSINATION_THIEVES_LANDING" UNK_7C1FCD5E="MODEL_CONFIG_BOUNTY_HUNTERS" UNK_C0F9D21B="MUSIC_PRIS_ASSASSINATION" UNK_21B34E9A="true" UNK_63902F09="true" UNK_CA597B13="false" UNK_5AB5EF23="900000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_DRIVE_TO_0" role="DRIVE_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_BLACKWATER" position="[-761.229, -1255.808, 42.38975]" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 20.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_BLACKWATER" position="[-761.229, -1255.808, 42.38975]" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 20.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_LEAVE_AREA" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" role="LEAVE_AREA_PLAYERS_ONLY">
+            <config position="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="[150.0, 150.0, 150.0]" type="SPHERE" />
+          </volume>
+        </volumes>
+        <UNK_1D77EF7D UNK_FD038381="100.0" UNK_B64B4E75="125.0" />
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="NEAR_WAGON" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="70.0" />
+          <trigger id="AGGRO_ESCORT" role="SHOULD_GO_AGGRO">
+            <UNK_1331CF2C action="SHOW_SCORETIMER" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT" UNK_5AB5EF23="720000" />
+          </trigger>
+          <trigger id="UNLOCK_DOOR" UNK_E01B972B="3" role="NUMBER_OF_ENEMIES_REMAINING">
+            <UNK_1331CF2C action="UNLOCK_VEHICLE_DOORS" />
+          </trigger>
+          <trigger id="SPAWN_CHASERS" UNK_E01B972B="3" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="TRIGGER_MISSION_FAIL_CUTSCENE" UNK_E798E305="PRIMARY" role="AI_DRIVER_REACHED_DRIVE_TO">
+            <UNK_1331CF2C action="SET_OBJECTIVE_FAILED" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" />
+            <UNK_1331CF2C action="SET_TRIGGER_FAILED" id="REPORT_CRIME" />
+          </trigger>
+          <trigger id="REPORT_CRIME" role="PLAYER_IN_VOLUME_AT_MISSION_END" UNK_B71C8EA1="VOL_LEAVE_AREA">
+            <UNK_1331CF2C action="REPORT_CRIME" hash="CRIME_MURDER" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="NEAR_WAGON" id="GOTO_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_GOTO" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_CF941DEE="200.0" config="ASSASSINATION_OBJECTIVE_PRISONER" UNK_F5D3F1EC="PED" UNK_7AFEC79B="true" UNK_341908A9="true" UNK_E691240F="injured_general" UNK_7BA579E4="MP_PRSN_ASN_MALES_01" UNK_895487CA="50" outfit="MP_PRSN_ASN_THIEVESLANDING_01" UNK_CFFF78B9="215.0" UNK_65FD0826="true" UNK_905A084C="true" spawn_position="[-1419.759, -2290.91, 41.8555]" UNK_11B57E58="1">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="NEAR_WAGON" type="CLEAR_IN_VEHICLE_TEXT_AND_BLIP" />
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+              <UNK_A2BEB5B UNK_6E20B30A="7000" id="UNLOCK_DOOR" type="DISABLE_LOCKON" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_1A624864="9.0" config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_69C9A8A7="3.5" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_F9D5E1A4="true" spawn_heading="303.7138" spawn_position="[-1371.883, -2206.403, 43.002]" />
+          <guard config="OBJECTIVE_PRISONER_ASSASSINATION_ARMORED_WAGON" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_3624DA8A="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_AF9A039A="true" />
+          <guard config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" />
+        </guards>
+        <passengers>
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="4" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="40.541" UNK_770101E4="[-773.8824, -1258.47, 42.6356]" UNK_C425AC86="WORLD_HUMAN_GUARD_MILITARY" config="DRIVER_WARN_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="331.8536" UNK_770101E4="[-776.468, -1258.3, 42.6302]" UNK_C425AC86="WORLD_HUMAN_GUARD_MILITARY" config="DRIVER_RECKLESS_BOUNTY" UNK_94EA800F="75.0" UNK_7C35C06D="3" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="331.8536" UNK_770101E4="[-776.468, -1258.3, 42.6302]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="BACK_SEAT_PASSENGER_PUMP_SHOTGUN" UNK_B3B7A5F9="true" UNK_35DDC98="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+            </UNK_BC1116ED>
+          </passenger>
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="4" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+        </passengers>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="SPAWN_CHASERS">
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END_CUTSCENE_FAIL_PRIMARY" UNK_F259B128="true" UNK_E2B28D77="TRIGGER_MISSION_FAIL_CUTSCENE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="GUARD" id="WAGON_1" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="GUARD" id="WAGON_2" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="GUARD" id="WAGON_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="PASSENGER" id="WAGON_1_DRIVER" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="PASSENGER" id="WAGON_1_PASSENGER" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT" />
+              <actor UNK_5975C34F="3" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT_2" />
+              <actor UNK_5975C34F="5" UNK_1C04038C="PASSENGER" id="WAGON_2_DRIVER" />
+              <actor UNK_5975C34F="6" UNK_1C04038C="PASSENGER" id="WAGON_2_PASSENGER" />
+              <actor UNK_5975C34F="7" UNK_1C04038C="PASSENGER" id="WAGON_2_BACKSEAT" />
+              <actor UNK_5975C34F="8" UNK_1C04038C="PASSENGER" id="WAGON_3_DRIVER" />
+              <actor UNK_5975C34F="9" UNK_1C04038C="PASSENGER" id="WAGON_3_PASSENGER" />
+              <actor UNK_5975C34F="10" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_1" />
+              <actor UNK_5975C34F="11" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_2" />
+              <actor UNK_5975C34F="12" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="PRISONER" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near25mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[-4.5, -18.5, 1.0]" UNK_A4678354="DRIVE_TO_0" UNK_42EA33CB="[-4.625, 0.0, -22.0]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_B708D0CB="166.6051" UNK_242C8C4="[-755.7411, -1266.239, 43.0209]" id="WAGON_1_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_1_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_PASSENGER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="WAGON_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_3" />
+                  <actor UNK_5E233F16="true" id="PRISONER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_DDA8C3D3="247.1419" UNK_EEFDFFA3="[-740.1732, -1183.136, 43.1921]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_DDA8C3D3="315.2173" UNK_EEFDFFA3="[-739.3358, -1185.963, 43.3093]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_DDA8C3D3="5.3473" UNK_EEFDFFA3="[-747.0835, -1174.061, 43.0364]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_DDA8C3D3="71.3478" UNK_EEFDFFA3="[-743.7466, -1171.955, 42.7429]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_DDA8C3D3="154.1349" UNK_EEFDFFA3="[-744.9636, -1168.209, 43.0466]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_DDA8C3D3="214.1581" UNK_EEFDFFA3="[-749.1223, -1168.522, 43.1925]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_DDA8C3D3="4.7276" UNK_EEFDFFA3="[-752.2715, -1162.741, 43.4198]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_0_HORSE" UNK_DDA8C3D3="152.764" UNK_EEFDFFA3="[-779.1136, -1172.836, 42.3089]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_1_HORSE" UNK_DDA8C3D3="199.1564" UNK_EEFDFFA3="[-776.9321, -1173.061, 42.272]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_2_HORSE" UNK_DDA8C3D3="210.0566" UNK_EEFDFFA3="[-749.4207, -1206.793, 42.324]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_3_HORSE" UNK_DDA8C3D3="242.3283" UNK_EEFDFFA3="[-749.8792, -1202.512, 42.7881]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_4_HORSE" UNK_DDA8C3D3="133.4477" UNK_EEFDFFA3="[-775.7669, -1201.028, 42.5063]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_5_HORSE" UNK_DDA8C3D3="173.6428" UNK_EEFDFFA3="[-773.3512, -1201.936, 42.4559]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_6_HORSE" UNK_DDA8C3D3="83.0129" UNK_EEFDFFA3="[-785.5542, -1183.334, 42.5528]" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_834BD0B="true" id="PRISONER_ASSASSINATION_LAGRAS" UNK_7C1FCD5E="MODEL_CONFIG_BOUNTY_HUNTERS" UNK_C0F9D21B="MUSIC_PRIS_ASSASSINATION" UNK_21B34E9A="true" UNK_63902F09="true" UNK_CA597B13="false" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_DRIVE_TO_0" role="DRIVE_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_SAINT_DENIS" position="[2519.73, -1308.28, 48.01]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_SAINT_DENIS" position="[2519.73, -1308.28, 48.01]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_LEAVE_AREA" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" role="LEAVE_AREA_PLAYERS_ONLY">
+            <config position="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="[150.0, 150.0, 150.0]" type="SPHERE" />
+          </volume>
+        </volumes>
+        <UNK_1D77EF7D UNK_FD038381="100.0" UNK_B64B4E75="125.0" />
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="NEAR_WAGON" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="70.0" />
+          <trigger id="AGGRO_ESCORT" role="SHOULD_GO_AGGRO">
+            <UNK_1331CF2C action="SHOW_SCORETIMER" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT" UNK_5AB5EF23="720000" />
+          </trigger>
+          <trigger id="UNLOCK_DOOR" UNK_E01B972B="2" role="NUMBER_OF_ENEMIES_REMAINING">
+            <UNK_1331CF2C action="UNLOCK_VEHICLE_DOORS" />
+          </trigger>
+          <trigger id="SPAWN_CHASERS" UNK_E01B972B="2" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="TRIGGER_MISSION_FAIL_CUTSCENE" UNK_E798E305="PRIMARY" role="AI_DRIVER_REACHED_DRIVE_TO">
+            <UNK_1331CF2C action="SET_OBJECTIVE_FAILED" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" />
+            <UNK_1331CF2C action="SET_TRIGGER_FAILED" id="REPORT_CRIME" />
+          </trigger>
+          <trigger id="REPORT_CRIME" role="PLAYER_IN_VOLUME_AT_MISSION_END" UNK_B71C8EA1="VOL_LEAVE_AREA">
+            <UNK_1331CF2C action="REPORT_CRIME" hash="CRIME_MURDER" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="NEAR_WAGON" id="GOTO_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_GOTO" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_CF941DEE="200.0" config="ASSASSINATION_OBJECTIVE_PRISONER" UNK_F5D3F1EC="PED" UNK_7AFEC79B="true" UNK_341908A9="true" UNK_E691240F="crouch" UNK_7BA579E4="MP_PRSN_ASN_MALES_01" UNK_895487CA="50" outfit="MP_PRSN_ASN_LAGRAS_01" UNK_CFFF78B9="215.0" UNK_65FD0826="true" UNK_905A084C="true" spawn_position="[2074.582, -572.2726, 40.6485]" UNK_11B57E58="1">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="NEAR_WAGON" type="CLEAR_IN_VEHICLE_TEXT_AND_BLIP" />
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+              <UNK_A2BEB5B UNK_6E20B30A="7000" id="UNLOCK_DOOR" type="DISABLE_LOCKON" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_1A624864="9.0" config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_69C9A8A7="3.5" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_F9D5E1A4="true" spawn_heading="244.7402" spawn_position="[2074.582, -572.2726, 40.6485]" />
+          <guard config="OBJECTIVE_PRISONER_ASSASSINATION_ARMORED_WAGON" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_3624DA8A="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_AF9A039A="true" />
+          <guard config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" />
+        </guards>
+        <passengers>
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="3" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="283.0077" UNK_770101E4="[2518.123, -1316.328, 47.8817]" UNK_C425AC86="WORLD_HUMAN_GUARD_MILITARY" config="DRIVER_WARN_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="253.0507" UNK_770101E4="[2518.454, -1314.699, 47.9399]" UNK_C425AC86="WORLD_HUMAN_GUARD_MILITARY" config="DRIVER_RECKLESS_BOUNTY" UNK_94EA800F="75.0" UNK_7C35C06D="4" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="253.0507" UNK_770101E4="[2518.454, -1314.699, 47.9399]" UNK_C425AC86="WORLD_HUMAN_GUARD_MILITARY" config="BACK_SEAT_PASSENGER_PUMP_SHOTGUN" UNK_35DDC98="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+            </UNK_BC1116ED>
+          </passenger>
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="3" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+        </passengers>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="SPAWN_CHASERS">
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END_CUTSCENE_FAIL_PRIMARY" UNK_F259B128="true" UNK_E2B28D77="TRIGGER_MISSION_FAIL_CUTSCENE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="GUARD" id="WAGON_1" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="GUARD" id="WAGON_2" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="GUARD" id="WAGON_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="PASSENGER" id="WAGON_1_DRIVER" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="PASSENGER" id="WAGON_1_PASSENGER" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT" />
+              <actor UNK_5975C34F="3" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT_2" />
+              <actor UNK_5975C34F="5" UNK_1C04038C="PASSENGER" id="WAGON_2_DRIVER" />
+              <actor UNK_5975C34F="6" UNK_1C04038C="PASSENGER" id="WAGON_2_PASSENGER" />
+              <actor UNK_5975C34F="7" UNK_1C04038C="PASSENGER" id="WAGON_2_BACKSEAT" />
+              <actor UNK_5975C34F="8" UNK_1C04038C="PASSENGER" id="WAGON_3_DRIVER" />
+              <actor UNK_5975C34F="9" UNK_1C04038C="PASSENGER" id="WAGON_3_PASSENGER" />
+              <actor UNK_5975C34F="10" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_1" />
+              <actor UNK_5975C34F="11" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_2" />
+              <actor UNK_5975C34F="12" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="PRISONER" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near35mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[-0.75, 15.375, -0.375]" UNK_A4678354="DRIVE_TO_0" UNK_42EA33CB="[-1.0, 0.0, -111.625]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_B708D0CB="88.5444" UNK_242C8C4="[2513.69, -1308.957, 47.9675]" id="WAGON_1_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_1_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_PASSENGER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="WAGON_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_3" />
+                  <actor UNK_5E233F16="true" id="PRISONER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_DDA8C3D3="101.7146" UNK_EEFDFFA3="[2465.644, -1374.885, 44.3265]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_DDA8C3D3="210.5231" UNK_EEFDFFA3="[2463.87, -1372.623, 44.313]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_DDA8C3D3="90.1946" UNK_EEFDFFA3="[2467.03, -1361.649, 44.5366]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_DDA8C3D3="204.9481" UNK_EEFDFFA3="[2465.174, -1359.105, 44.6518]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_DDA8C3D3="301.0732" UNK_EEFDFFA3="[2463.403, -1361.711, 44.2964]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_DDA8C3D3="197.6496" UNK_EEFDFFA3="[2484.275, -1369.149, 45.5233]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_DDA8C3D3="349.8613" UNK_EEFDFFA3="[2483.875, -1372.1, 45.4793]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_0_HORSE" UNK_DDA8C3D3="230.3933" UNK_EEFDFFA3="[2472.069, -1346.18, 45.2963]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_1_HORSE" UNK_DDA8C3D3="279.4575" UNK_EEFDFFA3="[2471.744, -1350.068, 45.1373]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_2_HORSE" UNK_DDA8C3D3="278.4606" UNK_EEFDFFA3="[2475.754, -1353.73, 45.1607]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_3_HORSE" UNK_DDA8C3D3="51.8924" UNK_EEFDFFA3="[2482.728, -1354.408, 45.5295]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_4_HORSE" UNK_DDA8C3D3="309.4815" UNK_EEFDFFA3="[2478.719, -1398.159, 45.5373]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_5_HORSE" UNK_DDA8C3D3="346.7471" UNK_EEFDFFA3="[2480.61, -1401.263, 45.5475]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_6_HORSE" UNK_DDA8C3D3="205.9511" UNK_EEFDFFA3="[2470.5, -1410.422, 45.0358]" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_834BD0B="true" id="PRISONER_ASSASSINATION_PAINTED_SKY" UNK_7C1FCD5E="MODEL_CONFIG_BOUNTY_HUNTERS" UNK_C0F9D21B="MUSIC_PRIS_ASSASSINATION" UNK_21B34E9A="true" UNK_63902F09="true" UNK_CA597B13="false" UNK_5AB5EF23="720000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_DRIVE_TO_0" role="DRIVE_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW" position="[-1804.88, -344.633, 163.6328]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_LAW" position="[-1804.88, -344.633, 163.6328]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_LEAVE_AREA" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" role="LEAVE_AREA_PLAYERS_ONLY">
+            <config position="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="[150.0, 150.0, 150.0]" type="SPHERE" />
+          </volume>
+        </volumes>
+        <UNK_1D77EF7D UNK_FD038381="100.0" UNK_B64B4E75="125.0" />
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="NEAR_WAGON" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="70.0" />
+          <trigger id="AGGRO_ESCORT" role="SHOULD_GO_AGGRO">
+            <UNK_1331CF2C action="SHOW_SCORETIMER" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT" UNK_5AB5EF23="720000" />
+          </trigger>
+          <trigger id="UNLOCK_DOOR" UNK_E01B972B="4" role="NUMBER_OF_ENEMIES_REMAINING">
+            <UNK_1331CF2C action="UNLOCK_VEHICLE_DOORS" />
+          </trigger>
+          <trigger id="SPAWN_CHASERS" UNK_E01B972B="2" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="TRIGGER_MISSION_FAIL_CUTSCENE" UNK_E798E305="PRIMARY" role="AI_DRIVER_REACHED_DRIVE_TO">
+            <UNK_1331CF2C action="SET_OBJECTIVE_FAILED" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" />
+            <UNK_1331CF2C action="SET_TRIGGER_FAILED" id="REPORT_CRIME" />
+          </trigger>
+          <trigger id="REPORT_CRIME" role="PLAYER_IN_VOLUME_AT_MISSION_END" UNK_B71C8EA1="VOL_LEAVE_AREA">
+            <UNK_1331CF2C action="REPORT_CRIME" hash="CRIME_MURDER" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="NEAR_WAGON" id="GOTO_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_GOTO" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_CF941DEE="200.0" config="ASSASSINATION_OBJECTIVE_PRISONER" UNK_F5D3F1EC="PED" UNK_341908A9="true" UNK_E691240F="injured_general" UNK_7BA579E4="MP_PRSN_ASN_MALES_01" UNK_895487CA="50" outfit="MP_PRSN_ASN_PAINTEDSKY_01" UNK_CFFF78B9="215.0" UNK_65FD0826="true" UNK_905A084C="true" spawn_position="[-599.3484, -44.0716, 83.7921]" UNK_11B57E58="1">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="NEAR_WAGON" type="CLEAR_IN_VEHICLE_TEXT_AND_BLIP" />
+              <UNK_A2BEB5B id="SPAWN_CHASERS" type="AGGRO" />
+              <UNK_A2BEB5B UNK_6E20B30A="7000" id="UNLOCK_DOOR" type="DISABLE_LOCKON" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_1A624864="9.0" config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_69C9A8A7="3.5" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_F9D5E1A4="true" spawn_heading="127.8527" spawn_position="[-716.7075, -94.4878, 82.438]" />
+          <guard config="OBJECTIVE_PRISONER_ASSASSINATION_ARMORED_WAGON" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_3624DA8A="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_AF9A039A="true" />
+          <guard config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" />
+        </guards>
+        <passengers>
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="3" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="273.5894" UNK_770101E4="[-1804.515, -347.5234, 163.252]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="DRIVER_WARN_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="261.8779" UNK_770101E4="[-1804.652, -349.3059, 163.206]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="DRIVER_RECKLESS_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="261.8779" UNK_770101E4="[-1804.652, -349.3059, 163.206]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="BACK_SEAT_PASSENGER_PUMP_SHOTGUN" UNK_B3B7A5F9="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+            </UNK_BC1116ED>
+          </passenger>
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="3" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="4" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+        </passengers>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="SPAWN_CHASERS">
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END_CUTSCENE_FAIL_PRIMARY" UNK_F259B128="true" UNK_E2B28D77="TRIGGER_MISSION_FAIL_CUTSCENE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="GUARD" id="WAGON_1" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="GUARD" id="WAGON_2" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="GUARD" id="WAGON_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="PASSENGER" id="WAGON_1_DRIVER" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="PASSENGER" id="WAGON_1_PASSENGER" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT" />
+              <actor UNK_5975C34F="3" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT_2" />
+              <actor UNK_5975C34F="5" UNK_1C04038C="PASSENGER" id="WAGON_2_DRIVER" />
+              <actor UNK_5975C34F="6" UNK_1C04038C="PASSENGER" id="WAGON_2_PASSENGER" />
+              <actor UNK_5975C34F="7" UNK_1C04038C="PASSENGER" id="WAGON_2_BACKSEAT" />
+              <actor UNK_5975C34F="8" UNK_1C04038C="PASSENGER" id="WAGON_3_DRIVER" />
+              <actor UNK_5975C34F="9" UNK_1C04038C="PASSENGER" id="WAGON_3_PASSENGER" />
+              <actor UNK_5975C34F="10" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_1" />
+              <actor UNK_5975C34F="11" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_2" />
+              <actor UNK_5975C34F="12" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="PRISONER" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near35mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[3.875, 6.375, -0.25]" UNK_A4678354="DRIVE_TO_0" UNK_42EA33CB="[-3.375, 0.0, -123.25]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_B708D0CB="68.1993" UNK_242C8C4="[-1809.306, -349.7787, 163.6592]" id="WAGON_1_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_1_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_PASSENGER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="WAGON_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_3" />
+                  <actor UNK_5E233F16="true" id="PRISONER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_DDA8C3D3="111.34" UNK_EEFDFFA3="[-1744.055, -413.907, 154.2517]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_DDA8C3D3="259.6346" UNK_EEFDFFA3="[-1746.997, -413.5097, 154.3565]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_DDA8C3D3="146.444" UNK_EEFDFFA3="[-1730.444, -432.3783, 151.1246]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_DDA8C3D3="104.3408" UNK_EEFDFFA3="[-1731.998, -429.7599, 151.093]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_DDA8C3D3="93.8349" UNK_EEFDFFA3="[-1718.769, -376.304, 169.2516]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_DDA8C3D3="229.1888" UNK_EEFDFFA3="[-1721.549, -374.3015, 169.7078]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_DDA8C3D3="138.4905" UNK_EEFDFFA3="[-1724.99, -373.587, 169.524]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_0_HORSE" UNK_DDA8C3D3="155.5357" UNK_EEFDFFA3="[-1702.153, -473.0304, 146.7747]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_1_HORSE" UNK_DDA8C3D3="95.2594" UNK_EEFDFFA3="[-1700.5, -475.9886, 146.8284]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_2_HORSE" UNK_DDA8C3D3="192.1887" UNK_EEFDFFA3="[-1697.884, -481.4744, 146.4448]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_3_HORSE" UNK_DDA8C3D3="60.7474" UNK_EEFDFFA3="[-1693.867, -477.4096, 148.6043]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_4_HORSE" UNK_DDA8C3D3="12.5085" UNK_EEFDFFA3="[-1699.352, -467.3308, 148.2767]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_5_HORSE" UNK_DDA8C3D3="158.229" UNK_EEFDFFA3="[-1720.013, -389.0902, 165.8833]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_6_HORSE" UNK_DDA8C3D3="190.323" UNK_EEFDFFA3="[-1724.047, -393.4442, 164.6668]" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_834BD0B="true" id="PRISONER_ASSASSINATION_CARMODY" UNK_7C1FCD5E="MODEL_CONFIG_BOUNTY_HUNTERS" UNK_C0F9D21B="MUSIC_PRIS_ASSASSINATION" UNK_21B34E9A="true" UNK_63902F09="true" UNK_CA597B13="false" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_DRIVE_TO_0" role="DRIVE_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_VALENTINE" position="[-267.8346, 809.4268, 118.2523]" rotation="[0.0, 0.0, 0.0]" scale="[12.0, 12.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_VALENTINE" position="[-267.8346, 809.4268, 118.2523]" rotation="[0.0, 0.0, 0.0]" scale="[12.0, 12.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_LEAVE_AREA" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" role="LEAVE_AREA_PLAYERS_ONLY">
+            <config position="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="[150.0, 150.0, 150.0]" type="SPHERE" />
+          </volume>
+        </volumes>
+        <UNK_1D77EF7D UNK_FD038381="100.0" UNK_B64B4E75="125.0" />
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="NEAR_WAGON" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="70.0" />
+          <trigger id="AGGRO_ESCORT" role="SHOULD_GO_AGGRO">
+            <UNK_1331CF2C action="SHOW_SCORETIMER" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT" UNK_5AB5EF23="720000" />
+          </trigger>
+          <trigger id="UNLOCK_DOOR" UNK_E01B972B="3" role="NUMBER_OF_ENEMIES_REMAINING">
+            <UNK_1331CF2C action="UNLOCK_VEHICLE_DOORS" />
+          </trigger>
+          <trigger id="SPAWN_CHASERS" UNK_E01B972B="2" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="TRIGGER_MISSION_FAIL_CUTSCENE" UNK_E798E305="PRIMARY" role="AI_DRIVER_REACHED_DRIVE_TO">
+            <UNK_1331CF2C action="SET_OBJECTIVE_FAILED" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" />
+            <UNK_1331CF2C action="SET_TRIGGER_FAILED" id="REPORT_CRIME" />
+          </trigger>
+          <trigger id="REPORT_CRIME" role="PLAYER_IN_VOLUME_AT_MISSION_END" UNK_B71C8EA1="VOL_LEAVE_AREA">
+            <UNK_1331CF2C action="REPORT_CRIME" hash="CRIME_MURDER" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="NEAR_WAGON" id="GOTO_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_GOTO" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_CF941DEE="200.0" config="ASSASSINATION_OBJECTIVE_PRISONER" UNK_F5D3F1EC="PED" UNK_341908A9="true" UNK_E691240F="injured_left_leg" UNK_7BA579E4="MP_PRSN_ASN_MALES_01" UNK_895487CA="50" outfit="MP_PRSN_ASN_CARMODYDELL_01" UNK_CFFF78B9="215.0" UNK_65FD0826="true" UNK_905A084C="true" spawn_position="[719.8093, 842.4344, 120.8323]" UNK_11B57E58="1">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="NEAR_WAGON" type="CLEAR_IN_VEHICLE_TEXT_AND_BLIP" />
+              <UNK_A2BEB5B id="SPAWN_CHASERS" type="AGGRO" />
+              <UNK_A2BEB5B UNK_6E20B30A="7000" id="UNLOCK_DOOR" type="DISABLE_LOCKON" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_1A624864="9.0" config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_69C9A8A7="3.5" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_F9D5E1A4="true" spawn_heading="37.7624" spawn_position="[719.8093, 842.4344, 120.8323]" />
+          <guard config="OBJECTIVE_PRISONER_ASSASSINATION_ARMORED_WAGON" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_3624DA8A="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_AF9A039A="true" />
+          <guard config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" />
+        </guards>
+        <passengers>
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="3" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="258.6382" UNK_770101E4="[-272.3071, 804.0883, 118.3654]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="DRIVER_WARN_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="147.2417" UNK_770101E4="[-270.1257, 804.6617, 118.3296]" UNK_C425AC86="WORLD_HUMAN_GUARD_MILITARY" config="DRIVER_RECKLESS_BOUNTY" UNK_94EA800F="75.0" UNK_7C35C06D="3" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="147.2417" UNK_770101E4="[-270.1257, 804.6617, 118.3296]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="BACK_SEAT_PASSENGER_PUMP_SHOTGUN" UNK_B3B7A5F9="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+            </UNK_BC1116ED>
+          </passenger>
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="3" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+        </passengers>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="SPAWN_CHASERS">
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END_CUTSCENE_FAIL_PRIMARY" UNK_F259B128="true" UNK_E2B28D77="TRIGGER_MISSION_FAIL_CUTSCENE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="GUARD" id="WAGON_1" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="GUARD" id="WAGON_2" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="GUARD" id="WAGON_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="PASSENGER" id="WAGON_1_DRIVER" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="PASSENGER" id="WAGON_1_PASSENGER" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT" />
+              <actor UNK_5975C34F="3" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT_2" />
+              <actor UNK_5975C34F="5" UNK_1C04038C="PASSENGER" id="WAGON_2_DRIVER" />
+              <actor UNK_5975C34F="6" UNK_1C04038C="PASSENGER" id="WAGON_2_PASSENGER" />
+              <actor UNK_5975C34F="7" UNK_1C04038C="PASSENGER" id="WAGON_2_BACKSEAT" />
+              <actor UNK_5975C34F="8" UNK_1C04038C="PASSENGER" id="WAGON_3_DRIVER" />
+              <actor UNK_5975C34F="9" UNK_1C04038C="PASSENGER" id="WAGON_3_PASSENGER" />
+              <actor UNK_5975C34F="10" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_1" />
+              <actor UNK_5975C34F="11" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_2" />
+              <actor UNK_5975C34F="12" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="PRISONER" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near25mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[12.0, -9.75, 1.0]" UNK_A4678354="DRIVE_TO_0" UNK_42EA33CB="[-6.25, 0.0, 153.25]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_B708D0CB="41.3113" UNK_242C8C4="[-275.3727, 804.6982, 118.38]" id="WAGON_1_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_1_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_PASSENGER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="WAGON_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_3" />
+                  <actor UNK_5E233F16="true" id="PRISONER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_DDA8C3D3="91.3336" UNK_EEFDFFA3="[-249.1166, 796.4046, 118.8319]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_DDA8C3D3="221.9949" UNK_EEFDFFA3="[-267.7034, 786.3954, 117.5928]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_DDA8C3D3="86.0317" UNK_EEFDFFA3="[-265.5581, 785.8854, 117.5184]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_DDA8C3D3="285.8856" UNK_EEFDFFA3="[-229.0237, 836.4584, 123.0853]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_DDA8C3D3="90.7632" UNK_EEFDFFA3="[-284.3385, 839.5347, 118.92]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_DDA8C3D3="53.6612" UNK_EEFDFFA3="[-273.0444, 826.0269, 117.7539]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_DDA8C3D3="251.9642" UNK_EEFDFFA3="[-249.4514, 830.7175, 120.8923]" />
+                  <actor id="PLAYER_0_HORSE" UNK_DDA8C3D3="17.7747" UNK_EEFDFFA3="[-269.1873, 798.8489, 117.919]" />
+                  <actor id="PLAYER_1_HORSE" UNK_DDA8C3D3="16.7747" UNK_EEFDFFA3="[-271.2555, 798.1758, 117.9004]" />
+                  <actor id="PLAYER_2_HORSE" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[-250.6977, 767.787, 116.4867]" />
+                  <actor id="PLAYER_3_HORSE" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[-249.8991, 765.6921, 116.4613]" />
+                  <actor UNK_31971DAF="true" id="PLAYER_4_HORSE" UNK_DDA8C3D3="113.7747" UNK_EEFDFFA3="[-284.5127, 849.5319, 118.9611]" />
+                  <actor UNK_31971DAF="true" id="PLAYER_5_HORSE" UNK_DDA8C3D3="136.7747" UNK_EEFDFFA3="[-281.4598, 825.9984, 118.5716]" />
+                  <actor UNK_31971DAF="true" id="PLAYER_6_HORSE" UNK_DDA8C3D3="238.7747" UNK_EEFDFFA3="[-254.3665, 825.6454, 120.7482]" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_834BD0B="true" id="PRISONER_ASSASSINATION_RHODES" UNK_7C1FCD5E="MODEL_CONFIG_BOUNTY_HUNTERS" UNK_C0F9D21B="MUSIC_PRIS_ASSASSINATION" UNK_21B34E9A="true" UNK_63902F09="true" UNK_CA597B13="false" UNK_5AB5EF23="720000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_DRIVE_TO_0" role="DRIVE_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_SAINT_DENIS" position="[2519.73, -1308.28, 48.01]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_SAINT_DENIS" position="[2519.73, -1308.28, 48.01]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_LEAVE_AREA" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" role="LEAVE_AREA_PLAYERS_ONLY">
+            <config position="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="[150.0, 150.0, 150.0]" type="SPHERE" />
+          </volume>
+        </volumes>
+        <UNK_1D77EF7D UNK_FD038381="100.0" UNK_B64B4E75="125.0" />
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="NEAR_WAGON" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="70.0" />
+          <trigger id="AGGRO_ESCORT" role="SHOULD_GO_AGGRO">
+            <UNK_1331CF2C action="SHOW_SCORETIMER" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT" UNK_5AB5EF23="720000" />
+          </trigger>
+          <trigger id="UNLOCK_DOOR" UNK_E01B972B="2" role="NUMBER_OF_ENEMIES_REMAINING">
+            <UNK_1331CF2C action="UNLOCK_VEHICLE_DOORS" />
+          </trigger>
+          <trigger id="SPAWN_CHASERS" UNK_E01B972B="3" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="TRIGGER_MISSION_FAIL_CUTSCENE" UNK_E798E305="PRIMARY" role="AI_DRIVER_REACHED_DRIVE_TO">
+            <UNK_1331CF2C action="SET_OBJECTIVE_FAILED" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" />
+            <UNK_1331CF2C action="SET_TRIGGER_FAILED" id="REPORT_CRIME" />
+          </trigger>
+          <trigger id="REPORT_CRIME" role="PLAYER_IN_VOLUME_AT_MISSION_END" UNK_B71C8EA1="VOL_LEAVE_AREA">
+            <UNK_1331CF2C action="REPORT_CRIME" hash="CRIME_MURDER" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="NEAR_WAGON" id="GOTO_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_GOTO" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_CF941DEE="200.0" config="ASSASSINATION_OBJECTIVE_PRISONER" UNK_F5D3F1EC="PED" UNK_341908A9="true" UNK_E691240F="moderate_drunk" UNK_7BA579E4="MP_PRSN_ASN_MALES_01" UNK_895487CA="50" outfit="MP_PRSN_ASN_RHODES_01" UNK_CFFF78B9="215.0" UNK_65FD0826="true" UNK_905A084C="true" spawn_position="[1357.353, -1315.491, 75.7838]" UNK_11B57E58="1">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="NEAR_WAGON" type="CLEAR_IN_VEHICLE_TEXT_AND_BLIP" />
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+              <UNK_A2BEB5B UNK_6E20B30A="7000" id="UNLOCK_DOOR" type="DISABLE_LOCKON" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_1A624864="9.0" config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_69C9A8A7="3.5" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_F9D5E1A4="true" spawn_heading="242.0996" spawn_position="[1357.353, -1315.491, 75.7838]" />
+          <guard config="OBJECTIVE_PRISONER_ASSASSINATION_ARMORED_WAGON" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_3624DA8A="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_AF9A039A="true" />
+          <guard config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" />
+        </guards>
+        <passengers>
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_B90A08D9="false" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_B90A08D9="false" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="4" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="283.0077" UNK_770101E4="[2518.123, -1316.328, 47.8817]" UNK_C425AC86="WORLD_HUMAN_GUARD_MILITARY" config="DRIVER_WARN_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_B90A08D9="false" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="253.0507" UNK_770101E4="[2518.454, -1314.699, 47.9399]" UNK_C425AC86="WORLD_HUMAN_GUARD_MILITARY" config="DRIVER_RECKLESS_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_B90A08D9="false" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="253.0507" UNK_770101E4="[2518.454, -1314.699, 47.9399]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="BACK_SEAT_PASSENGER_PUMP_SHOTGUN" UNK_B3B7A5F9="true" UNK_35DDC98="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+            </UNK_BC1116ED>
+          </passenger>
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_B90A08D9="false" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_B90A08D9="false" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="3" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="4" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+        </passengers>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="SPAWN_CHASERS">
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END_CUTSCENE_FAIL_PRIMARY" UNK_F259B128="true" UNK_E2B28D77="TRIGGER_MISSION_FAIL_CUTSCENE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="GUARD" id="WAGON_1" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="GUARD" id="WAGON_2" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="GUARD" id="WAGON_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="PASSENGER" id="WAGON_1_DRIVER" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="PASSENGER" id="WAGON_1_PASSENGER" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT" />
+              <actor UNK_5975C34F="3" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT_2" />
+              <actor UNK_5975C34F="5" UNK_1C04038C="PASSENGER" id="WAGON_2_DRIVER" />
+              <actor UNK_5975C34F="6" UNK_1C04038C="PASSENGER" id="WAGON_2_PASSENGER" />
+              <actor UNK_5975C34F="7" UNK_1C04038C="PASSENGER" id="WAGON_2_BACKSEAT" />
+              <actor UNK_5975C34F="8" UNK_1C04038C="PASSENGER" id="WAGON_3_DRIVER" />
+              <actor UNK_5975C34F="9" UNK_1C04038C="PASSENGER" id="WAGON_3_PASSENGER" />
+              <actor UNK_5975C34F="10" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_1" />
+              <actor UNK_5975C34F="11" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_2" />
+              <actor UNK_5975C34F="12" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="PRISONER" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera config="PRISONER_ASSASSINATION_SAINT_DENIS_PAN_UP_SHOT" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_B708D0CB="88.5444" UNK_242C8C4="[2513.69, -1308.957, 47.9675]" id="WAGON_1_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_1_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_PASSENGER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="WAGON_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_3" />
+                  <actor UNK_5E233F16="true" id="PRISONER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_DDA8C3D3="101.7146" UNK_EEFDFFA3="[2465.644, -1374.885, 44.3265]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_DDA8C3D3="210.5231" UNK_EEFDFFA3="[2463.87, -1372.623, 44.313]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_DDA8C3D3="90.1946" UNK_EEFDFFA3="[2467.03, -1361.649, 44.5366]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_DDA8C3D3="204.9481" UNK_EEFDFFA3="[2465.174, -1359.105, 44.6518]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_DDA8C3D3="301.0732" UNK_EEFDFFA3="[2463.403, -1361.711, 44.2964]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_DDA8C3D3="197.6496" UNK_EEFDFFA3="[2484.275, -1369.149, 45.5233]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_DDA8C3D3="349.8613" UNK_EEFDFFA3="[2483.875, -1372.1, 45.4793]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_0_HORSE" UNK_DDA8C3D3="230.3933" UNK_EEFDFFA3="[2472.069, -1346.18, 45.2963]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_1_HORSE" UNK_DDA8C3D3="279.4575" UNK_EEFDFFA3="[2471.744, -1350.068, 45.1373]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_2_HORSE" UNK_DDA8C3D3="278.4606" UNK_EEFDFFA3="[2475.754, -1353.73, 45.1607]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_3_HORSE" UNK_DDA8C3D3="51.8924" UNK_EEFDFFA3="[2482.728, -1354.408, 45.5295]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_4_HORSE" UNK_DDA8C3D3="309.4815" UNK_EEFDFFA3="[2478.719, -1398.159, 45.5373]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_5_HORSE" UNK_DDA8C3D3="346.7471" UNK_EEFDFFA3="[2480.61, -1401.263, 45.5475]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_6_HORSE" UNK_DDA8C3D3="205.9511" UNK_EEFDFFA3="[2470.5, -1410.422, 45.0358]" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_834BD0B="true" id="PRISONER_ASSASSINATION_HANGING_DOG" UNK_7C1FCD5E="MODEL_CONFIG_BOUNTY_HUNTERS" UNK_C0F9D21B="MUSIC_PRIS_ASSASSINATION" UNK_21B34E9A="true" UNK_63902F09="true" UNK_CA597B13="false" UNK_5AB5EF23="900000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_DRIVE_TO_0" role="DRIVE_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW" position="[-1798.569, -354.578, 163.633]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 7.049]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_LAW" position="[-1798.569, -354.578, 163.633]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 7.049]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_LEAVE_AREA" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" role="LEAVE_AREA_PLAYERS_ONLY">
+            <config position="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="[150.0, 150.0, 150.0]" type="SPHERE" />
+          </volume>
+        </volumes>
+        <UNK_1D77EF7D UNK_FD038381="100.0" UNK_B64B4E75="125.0" />
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="NEAR_WAGON" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="70.0" />
+          <trigger id="AGGRO_ESCORT" role="SHOULD_GO_AGGRO">
+            <UNK_1331CF2C action="SHOW_SCORETIMER" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT" UNK_5AB5EF23="720000" />
+          </trigger>
+          <trigger id="UNLOCK_DOOR" UNK_E01B972B="2" role="NUMBER_OF_ENEMIES_REMAINING">
+            <UNK_1331CF2C action="UNLOCK_VEHICLE_DOORS" />
+          </trigger>
+          <trigger id="SPAWN_CHASERS" UNK_E01B972B="2" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="TRIGGER_MISSION_FAIL_CUTSCENE" UNK_E798E305="PRIMARY" role="AI_DRIVER_REACHED_DRIVE_TO">
+            <UNK_1331CF2C action="SET_OBJECTIVE_FAILED" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" />
+            <UNK_1331CF2C action="SET_TRIGGER_FAILED" id="REPORT_CRIME" />
+          </trigger>
+          <trigger id="REPORT_CRIME" role="PLAYER_IN_VOLUME_AT_MISSION_END" UNK_B71C8EA1="VOL_LEAVE_AREA">
+            <UNK_1331CF2C action="REPORT_CRIME" hash="CRIME_MURDER" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="NEAR_WAGON" id="GOTO_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_GOTO" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_CF941DEE="200.0" config="ASSASSINATION_OBJECTIVE_PRISONER" UNK_F5D3F1EC="PED" UNK_341908A9="true" UNK_E691240F="moderate_drunk" UNK_7BA579E4="MP_PRSN_ASN_MALES_01" UNK_895487CA="50" outfit="MP_PRSN_ASN_HANGINGDOG_01" UNK_CFFF78B9="215.0" UNK_65FD0826="true" UNK_905A084C="true" spawn_position="[-2057.371, 638.6988, 118.786]" UNK_11B57E58="1">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="NEAR_WAGON" type="CLEAR_IN_VEHICLE_TEXT_AND_BLIP" />
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+              <UNK_A2BEB5B UNK_6E20B30A="7000" id="UNLOCK_DOOR" type="DISABLE_LOCKON" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_1A624864="9.0" config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_69C9A8A7="3.5" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_F9D5E1A4="true" spawn_heading="242.0996" spawn_position="[-2057.371, 638.6988, 118.786]" />
+          <guard config="OBJECTIVE_PRISONER_ASSASSINATION_ARMORED_WAGON" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_3624DA8A="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -12.0, 0.0]" UNK_AF9A039A="true" />
+          <guard config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -12.0, 0.0]" />
+        </guards>
+        <passengers>
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_732D401="GUARD" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_732D401="GUARD" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_732D401="GUARD" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="3" UNK_732D401="GUARD" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" config="DRIVER_WARN_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -12.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_94EA800F="75.0" UNK_7C35C06D="3" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -12.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_PUMP_SHOTGUN" UNK_B3B7A5F9="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -12.0, 0.0]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+            </UNK_BC1116ED>
+          </passenger>
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -12.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -12.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="3" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+        </passengers>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="SPAWN_CHASERS">
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END_CUTSCENE_FAIL_PRIMARY" UNK_F259B128="true" UNK_E2B28D77="TRIGGER_MISSION_FAIL_CUTSCENE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="GUARD" id="WAGON_1" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="GUARD" id="WAGON_2" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="GUARD" id="WAGON_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="PASSENGER" id="WAGON_1_DRIVER" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="PASSENGER" id="WAGON_1_PASSENGER" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT" />
+              <actor UNK_5975C34F="3" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT_2" />
+              <actor UNK_5975C34F="5" UNK_1C04038C="PASSENGER" id="WAGON_2_DRIVER" />
+              <actor UNK_5975C34F="6" UNK_1C04038C="PASSENGER" id="WAGON_2_PASSENGER" />
+              <actor UNK_5975C34F="7" UNK_1C04038C="PASSENGER" id="WAGON_2_BACKSEAT" />
+              <actor UNK_5975C34F="8" UNK_1C04038C="PASSENGER" id="WAGON_3_DRIVER" />
+              <actor UNK_5975C34F="9" UNK_1C04038C="PASSENGER" id="WAGON_3_PASSENGER" />
+              <actor UNK_5975C34F="10" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_1" />
+              <actor UNK_5975C34F="11" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_2" />
+              <actor UNK_5975C34F="12" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="PRISONER" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near35mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[3.875, 6.375, -0.25]" UNK_A4678354="DRIVE_TO_0" UNK_42EA33CB="[-3.375, 0.0, -123.25]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_B708D0CB="68.1993" UNK_242C8C4="[-1809.306, -349.7787, 163.6592]" id="WAGON_1_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_1_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_PASSENGER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="WAGON_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_3" />
+                  <actor UNK_5E233F16="true" id="PRISONER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_DDA8C3D3="111.34" UNK_EEFDFFA3="[-1744.055, -413.907, 154.2517]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_DDA8C3D3="259.6346" UNK_EEFDFFA3="[-1746.997, -413.5097, 154.3565]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_DDA8C3D3="146.444" UNK_EEFDFFA3="[-1730.444, -432.3783, 151.1246]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_DDA8C3D3="104.3408" UNK_EEFDFFA3="[-1731.998, -429.7599, 151.093]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_DDA8C3D3="93.8349" UNK_EEFDFFA3="[-1718.769, -376.304, 169.2516]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_DDA8C3D3="229.1888" UNK_EEFDFFA3="[-1721.549, -374.3015, 169.7078]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_DDA8C3D3="138.4905" UNK_EEFDFFA3="[-1724.99, -373.587, 169.524]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_0_HORSE" UNK_DDA8C3D3="155.5357" UNK_EEFDFFA3="[-1702.153, -473.0304, 146.7747]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_1_HORSE" UNK_DDA8C3D3="95.2594" UNK_EEFDFFA3="[-1700.5, -475.9886, 146.8284]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_2_HORSE" UNK_DDA8C3D3="192.1887" UNK_EEFDFFA3="[-1697.884, -481.4744, 146.4448]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_3_HORSE" UNK_DDA8C3D3="60.7474" UNK_EEFDFFA3="[-1693.867, -477.4096, 148.6043]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_4_HORSE" UNK_DDA8C3D3="12.5085" UNK_EEFDFFA3="[-1699.352, -467.3308, 148.2767]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_5_HORSE" UNK_DDA8C3D3="158.229" UNK_EEFDFFA3="[-1720.013, -389.0902, 165.8833]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_6_HORSE" UNK_DDA8C3D3="190.323" UNK_EEFDFFA3="[-1724.047, -393.4442, 164.6668]" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_834BD0B="true" id="PRISONER_ASSASSINATION_RATHERSKELLER_FORK" UNK_7C1FCD5E="MODEL_CONFIG_BOUNTY_HUNTERS" UNK_C0F9D21B="MUSIC_PRIS_ASSASSINATION" UNK_21B34E9A="true" UNK_63902F09="true" UNK_CA597B13="false" UNK_5AB5EF23="900000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_DRIVE_TO_0" role="DRIVE_TO">
+            <config UNK_7FD08239="FETCH_GOTO_TUMBLEWEED" position="[-5521.007, -2931.302, -5.392]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_TUMBLEWEED" position="[-5521.007, -2931.302, -5.392]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_LEAVE_AREA" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" role="LEAVE_AREA_PLAYERS_ONLY">
+            <config position="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="[150.0, 150.0, 150.0]" type="SPHERE" />
+          </volume>
+        </volumes>
+        <UNK_1D77EF7D UNK_FD038381="100.0" UNK_B64B4E75="125.0" />
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="NEAR_WAGON" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="70.0" />
+          <trigger id="AGGRO_ESCORT" role="SHOULD_GO_AGGRO">
+            <UNK_1331CF2C action="SHOW_SCORETIMER" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT" UNK_5AB5EF23="720000" />
+          </trigger>
+          <trigger id="UNLOCK_DOOR" UNK_E01B972B="4" role="NUMBER_OF_ENEMIES_REMAINING">
+            <UNK_1331CF2C action="UNLOCK_VEHICLE_DOORS" />
+          </trigger>
+          <trigger id="SPAWN_CHASERS" UNK_E01B972B="2" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="TRIGGER_MISSION_FAIL_CUTSCENE" UNK_E798E305="PRIMARY" role="AI_DRIVER_REACHED_DRIVE_TO">
+            <UNK_1331CF2C action="SET_OBJECTIVE_FAILED" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" />
+            <UNK_1331CF2C action="SET_TRIGGER_FAILED" id="REPORT_CRIME" />
+          </trigger>
+          <trigger id="REPORT_CRIME" role="PLAYER_IN_VOLUME_AT_MISSION_END" UNK_B71C8EA1="VOL_LEAVE_AREA">
+            <UNK_1331CF2C action="REPORT_CRIME" hash="CRIME_MURDER" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="NEAR_WAGON" id="GOTO_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_GOTO" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_CF941DEE="200.0" config="ASSASSINATION_OBJECTIVE_PRISONER" UNK_F5D3F1EC="PED" UNK_341908A9="true" UNK_E691240F="crouch" UNK_7BA579E4="MP_PRSN_ASN_MALES_01" UNK_895487CA="50" outfit="MP_PRSN_ASN_RATHSKELLER_01" UNK_CFFF78B9="215.0" UNK_65FD0826="true" UNK_905A084C="true" spawn_position="[-5238.583, -2164.003, 9.1931]" UNK_11B57E58="1">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="NEAR_WAGON" type="CLEAR_IN_VEHICLE_TEXT_AND_BLIP" />
+              <UNK_A2BEB5B id="SPAWN_CHASERS" type="AGGRO" />
+              <UNK_A2BEB5B UNK_6E20B30A="7000" id="UNLOCK_DOOR" type="DISABLE_LOCKON" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_1A624864="9.0" config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_69C9A8A7="3.5" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" spawn_heading="178.0596" spawn_position="[-5246.979, -2181.09, 7.3603]" />
+          <guard config="OBJECTIVE_PRISONER_ASSASSINATION_ARMORED_WAGON" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_3624DA8A="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_AF9A039A="true" />
+          <guard accuracy="20" config="BOUNTY_MOUNTED_ESCORT_REPEATER" UNK_F5D3F1EC="PED" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[1.0, -8.0, 0.0]" />
+          <guard accuracy="20" config="BOUNTY_MOUNTED_ESCORT_REPEATER" UNK_F5D3F1EC="PED" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[-1.0, -8.0, 0.0]" />
+          <guard accuracy="20" config="BOUNTY_MOUNTED_ESCORT_REPEATER" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -12.0, 0.0]" />
+        </guards>
+        <passengers>
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_B90A08D9="false" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_B90A08D9="false" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="4" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="273.5894" UNK_770101E4="[-1804.515, -347.5234, 163.252]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="DRIVER_WARN_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="1" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="261.8779" UNK_770101E4="[-1804.652, -349.3059, 163.206]" UNK_C425AC86="WORLD_HUMAN_WAITING_IMPATIENT" config="DRIVER_RECKLESS_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="1" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="261.8779" UNK_770101E4="[-1804.652, -349.3059, 163.206]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="BACK_SEAT_PASSENGER_PUMP_SHOTGUN" UNK_B3B7A5F9="true" UNK_35DDC98="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+            </UNK_BC1116ED>
+          </passenger>
+        </passengers>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="SPAWN_CHASERS">
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END_CUTSCENE_FAIL_PRIMARY" UNK_F259B128="true" UNK_E2B28D77="TRIGGER_MISSION_FAIL_CUTSCENE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="GUARD" id="WAGON_1" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="GUARD" id="WAGON_2" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="PASSENGER" id="WAGON_1_DRIVER" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="PASSENGER" id="WAGON_1_PASSENGER" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT" />
+              <actor UNK_5975C34F="3" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT_2" />
+              <actor UNK_5975C34F="4" UNK_1C04038C="PASSENGER" id="WAGON_2_DRIVER" />
+              <actor UNK_5975C34F="5" UNK_1C04038C="PASSENGER" id="WAGON_2_PASSENGER" />
+              <actor UNK_5975C34F="6" UNK_1C04038C="PASSENGER" id="WAGON_2_BACKSEAT" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="GUARD" id="MOUNTED_ESCORT_1" />
+              <actor UNK_5975C34F="3" UNK_1C04038C="GUARD" id="MOUNTED_ESCORT_2" />
+              <actor UNK_5975C34F="4" UNK_1C04038C="GUARD" id="MOUNTED_ESCORT_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="PRISONER" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near35mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[7.375, 5.0, 1.625]" UNK_A4678354="DRIVE_TO_0" UNK_42EA33CB="[-2.75, 0.0, 200.5]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_B708D0CB="21.419" UNK_242C8C4="[-5529.064, -2928.407, -2.3609]" id="WAGON_1_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_1_PASSENGER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="WAGON_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT" />
+                  <actor UNK_5E233F16="true" UNK_A5C9C78F="true" id="MOUNTED_ESCORT_1" />
+                  <actor UNK_5E233F16="true" UNK_A5C9C78F="true" id="MOUNTED_ESCORT_2" />
+                  <actor UNK_5E233F16="true" UNK_A5C9C78F="true" id="MOUNTED_ESCORT_3" />
+                  <actor UNK_5E233F16="true" id="PRISONER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_DDA8C3D3="285.4781" UNK_EEFDFFA3="[-5540.768, -2950.727, -2.4239]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_DDA8C3D3="15.8752" UNK_EEFDFFA3="[-5543.566, -2930.753, -2.7036]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_DDA8C3D3="275.3638" UNK_EEFDFFA3="[-5552.08, -2924.946, -2.8718]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_DDA8C3D3="215.2989" UNK_EEFDFFA3="[-5513.396, -2943.473, -3.0253]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_DDA8C3D3="303.5278" UNK_EEFDFFA3="[-5495.107, -2939.449, -1.4591]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_DDA8C3D3="97.387" UNK_EEFDFFA3="[-5531.168, -2912.085, -3.6768]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_DDA8C3D3="1.6577" UNK_EEFDFFA3="[-5525.635, -2895.868, -5.0341]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_0_HORSE" UNK_DDA8C3D3="233.7747" UNK_EEFDFFA3="[-5546.707, -2962.76, -1.8779]" />
+                  <actor id="PLAYER_1_HORSE" UNK_DDA8C3D3="114.7747" UNK_EEFDFFA3="[-5525.026, -2923.275, -3.14557]" />
+                  <actor UNK_31971DAF="true" id="PLAYER_2_HORSE" UNK_DDA8C3D3="268.7747" UNK_EEFDFFA3="[-5554.026, -2920.144, -2.7606]" />
+                  <actor id="PLAYER_3_HORSE" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[-5519.478, -2959.097, -2.58017]" />
+                  <actor id="PLAYER_4_HORSE" UNK_DDA8C3D3="28.7747" UNK_EEFDFFA3="[-5520.695, -2917.144, -3.4793]" />
+                  <actor id="PLAYER_5_HORSE" UNK_DDA8C3D3="111.7747" UNK_EEFDFFA3="[-5526.002, -2921.249, -3.191]" />
+                  <actor id="PLAYER_6_HORSE" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[-5521.414, -2916.181, -3.49081]" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_834BD0B="true" id="PRISONER_ASSASSINATION_THIEVES_MACFARLANE" UNK_7C1FCD5E="MODEL_CONFIG_BOUNTY_HUNTERS" UNK_C0F9D21B="MUSIC_PRIS_ASSASSINATION" UNK_21B34E9A="true" UNK_63902F09="true" UNK_CA597B13="false" UNK_5AB5EF23="900000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_DRIVE_TO_0" role="DRIVE_TO">
+            <config UNK_7FD08239="FETCH_GOTO_MACFARLANE" position="[-2484.783, -2425.026, 57.293]" rotation="[0.0, 0.0, 0.0]" scale="[17.0, 17.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_MACFARLANE" position="[-2484.783, -2425.026, 57.293]" rotation="[0.0, 0.0, 0.0]" scale="[17.0, 17.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_LEAVE_AREA" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" role="LEAVE_AREA_PLAYERS_ONLY">
+            <config position="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="[150.0, 150.0, 150.0]" type="SPHERE" />
+          </volume>
+        </volumes>
+        <UNK_1D77EF7D UNK_FD038381="100.0" UNK_B64B4E75="125.0" />
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="NEAR_WAGON" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="70.0" />
+          <trigger id="AGGRO_ESCORT" role="SHOULD_GO_AGGRO">
+            <UNK_1331CF2C action="SHOW_SCORETIMER" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT" UNK_5AB5EF23="720000" />
+          </trigger>
+          <trigger id="UNLOCK_DOOR" UNK_E01B972B="2" role="NUMBER_OF_ENEMIES_REMAINING">
+            <UNK_1331CF2C action="UNLOCK_VEHICLE_DOORS" />
+          </trigger>
+          <trigger id="SPAWN_CHASERS" UNK_E01B972B="2" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="TRIGGER_MISSION_FAIL_CUTSCENE" UNK_E798E305="PRIMARY" role="AI_DRIVER_REACHED_DRIVE_TO">
+            <UNK_1331CF2C action="SET_OBJECTIVE_FAILED" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" />
+            <UNK_1331CF2C action="SET_TRIGGER_FAILED" id="REPORT_CRIME" />
+          </trigger>
+          <trigger id="REPORT_CRIME" role="PLAYER_IN_VOLUME_AT_MISSION_END" UNK_B71C8EA1="VOL_LEAVE_AREA">
+            <UNK_1331CF2C action="REPORT_CRIME" hash="CRIME_MURDER" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="NEAR_WAGON" id="GOTO_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_GOTO" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_CF941DEE="200.0" config="ASSASSINATION_OBJECTIVE_PRISONER" UNK_F5D3F1EC="PED" UNK_341908A9="true" UNK_E691240F="injured_left_leg" UNK_7BA579E4="MP_PRSN_ASN_MALES_01" UNK_895487CA="50" outfit="MP_PRSN_ASN_THIEVESLANDING_02" UNK_CFFF78B9="215.0" UNK_65FD0826="true" UNK_905A084C="true" spawn_position="[-1457.659, -2333.781, 41.8326]" UNK_11B57E58="1">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="NEAR_WAGON" type="CLEAR_IN_VEHICLE_TEXT_AND_BLIP" />
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+              <UNK_A2BEB5B UNK_6E20B30A="7000" id="UNLOCK_DOOR" type="DISABLE_LOCKON" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_1A624864="9.0" config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_69C9A8A7="3.5" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_F9D5E1A4="true" spawn_heading="95.498" spawn_position="[-1524.065, -2354.084, 42.9979]" />
+          <guard config="OBJECTIVE_PRISONER_ASSASSINATION_ARMORED_WAGON" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_3624DA8A="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_AF9A039A="true" />
+          <guard config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" />
+        </guards>
+        <passengers>
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="4" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="273.5894" UNK_770101E4="[-1804.515, -347.5234, 163.252]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="DRIVER_WARN_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_B90A08D9="false" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="261.8779" UNK_770101E4="[-1804.652, -349.3059, 163.206]" UNK_C425AC86="WORLD_HUMAN_WAITING_IMPATIENT" config="DRIVER_RECKLESS_BOUNTY" UNK_94EA800F="75.0" UNK_7C35C06D="3" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_B90A08D9="false" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="261.8779" UNK_770101E4="[-1804.652, -349.3059, 163.206]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="BACK_SEAT_PASSENGER_PUMP_SHOTGUN" UNK_B3B7A5F9="true" UNK_35DDC98="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+            </UNK_BC1116ED>
+          </passenger>
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="4" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+        </passengers>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="SPAWN_CHASERS">
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END_CUTSCENE_FAIL_PRIMARY" UNK_F259B128="true" UNK_E2B28D77="TRIGGER_MISSION_FAIL_CUTSCENE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="GUARD" id="WAGON_1" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="GUARD" id="WAGON_2" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="GUARD" id="WAGON_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="PASSENGER" id="WAGON_1_DRIVER" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="PASSENGER" id="WAGON_1_PASSENGER" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT" />
+              <actor UNK_5975C34F="3" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT_2" />
+              <actor UNK_5975C34F="5" UNK_1C04038C="PASSENGER" id="WAGON_2_DRIVER" />
+              <actor UNK_5975C34F="6" UNK_1C04038C="PASSENGER" id="WAGON_2_PASSENGER" />
+              <actor UNK_5975C34F="7" UNK_1C04038C="PASSENGER" id="WAGON_2_BACKSEAT" />
+              <actor UNK_5975C34F="8" UNK_1C04038C="PASSENGER" id="WAGON_3_DRIVER" />
+              <actor UNK_5975C34F="9" UNK_1C04038C="PASSENGER" id="WAGON_3_PASSENGER" />
+              <actor UNK_5975C34F="10" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_1" />
+              <actor UNK_5975C34F="11" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_2" />
+              <actor UNK_5975C34F="12" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="PRISONER" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near25mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[-11.25, -0.25, 2.5]" UNK_A4678354="DRIVE_TO_0" UNK_42EA33CB="[-5.25, 0.0, 13.75]" />
+                <UNK_3AECE76F>
+                  <actor action="EXIT_VEHICLE" id="WAGON_1_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_1_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_PASSENGER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="WAGON_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_3" />
+                  <actor UNK_5E233F16="true" id="PRISONER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_DDA8C3D3="355.0933" UNK_EEFDFFA3="[-2428.692, -2473.312, 59.1715]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_DDA8C3D3="135.7524" UNK_EEFDFFA3="[-2426.208, -2471.011, 59.1715]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_DDA8C3D3="190.8727" UNK_EEFDFFA3="[-2428.64, -2469.768, 59.1715]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_DDA8C3D3="3.3116" UNK_EEFDFFA3="[-2427.748, -2454.681, 59.1715]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_DDA8C3D3="256.7663" UNK_EEFDFFA3="[-2430.396, -2452.78, 59.1715]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_DDA8C3D3="162.2777" UNK_EEFDFFA3="[-2427.155, -2451.596, 59.1715]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_DDA8C3D3="336.9535" UNK_EEFDFFA3="[-2431.825, -2435.448, 59.1856]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_0_HORSE" UNK_DDA8C3D3="192.694" UNK_EEFDFFA3="[-2443.963, -2480.76, 59.1715]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_1_HORSE" UNK_DDA8C3D3="136.9104" UNK_EEFDFFA3="[-2439.87, -2483.498, 59.1715]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_2_HORSE" UNK_DDA8C3D3="197.2173" UNK_EEFDFFA3="[-2433.714, -2485.629, 59.1406]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_3_HORSE" UNK_DDA8C3D3="47.8011" UNK_EEFDFFA3="[-2450.56, -2468.7, 59.1715]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_4_HORSE" UNK_DDA8C3D3="90.0888" UNK_EEFDFFA3="[-2449.099, -2463.277, 59.1715]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_5_HORSE" UNK_DDA8C3D3="85.9972" UNK_EEFDFFA3="[-2459.617, -2456.968, 59.1715]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_6_HORSE" UNK_DDA8C3D3="175.0294" UNK_EEFDFFA3="[-2461.198, -2454.483, 59.1869]" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_834BD0B="true" id="PRISONER_ASSASSINATION_TUMBLEWEED" UNK_7C1FCD5E="MODEL_CONFIG_BOUNTY_HUNTERS" UNK_C0F9D21B="MUSIC_PRIS_ASSASSINATION" UNK_21B34E9A="true" UNK_63902F09="true" UNK_CA597B13="false" UNK_5AB5EF23="900000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_DRIVE_TO_0" role="DRIVE_TO">
+            <config UNK_7FD08239="FETCH_GOTO_ARMADILLO" position="[-3634.739, -2602.464, -14.733]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_ARMADILLO" position="[-3634.739, -2602.464, -14.733]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_LEAVE_AREA" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" role="LEAVE_AREA_PLAYERS_ONLY">
+            <config position="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="[150.0, 150.0, 150.0]" type="SPHERE" />
+          </volume>
+        </volumes>
+        <UNK_1D77EF7D UNK_FD038381="100.0" UNK_B64B4E75="125.0" />
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="NEAR_WAGON" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="70.0" />
+          <trigger id="AGGRO_ESCORT" role="SHOULD_GO_AGGRO">
+            <UNK_1331CF2C action="SHOW_SCORETIMER" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT" UNK_5AB5EF23="720000" />
+          </trigger>
+          <trigger id="UNLOCK_DOOR" UNK_E01B972B="4" role="NUMBER_OF_ENEMIES_REMAINING">
+            <UNK_1331CF2C action="UNLOCK_VEHICLE_DOORS" />
+          </trigger>
+          <trigger id="SPAWN_CHASERS" UNK_E01B972B="3" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="TRIGGER_MISSION_FAIL_CUTSCENE" UNK_E798E305="PRIMARY" role="AI_DRIVER_REACHED_DRIVE_TO">
+            <UNK_1331CF2C action="SET_OBJECTIVE_FAILED" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" />
+            <UNK_1331CF2C action="SET_TRIGGER_FAILED" id="REPORT_CRIME" />
+          </trigger>
+          <trigger id="REPORT_CRIME" role="PLAYER_IN_VOLUME_AT_MISSION_END" UNK_B71C8EA1="VOL_LEAVE_AREA">
+            <UNK_1331CF2C action="REPORT_CRIME" hash="CRIME_MURDER" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="NEAR_WAGON" id="GOTO_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_GOTO" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_CF941DEE="200.0" config="ASSASSINATION_OBJECTIVE_PRISONER" UNK_F5D3F1EC="PED" UNK_341908A9="true" UNK_E691240F="crouch" UNK_7BA579E4="MP_PRSN_ASN_MALES_01" UNK_895487CA="50" outfit="MP_PRSN_ASN_TUMBLEWEED_01" UNK_CFFF78B9="215.0" UNK_65FD0826="true" UNK_905A084C="true" spawn_position="[-5569.222, -2972.224, -1.1465]" UNK_11B57E58="1">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="NEAR_WAGON" type="CLEAR_IN_VEHICLE_TEXT_AND_BLIP" />
+              <UNK_A2BEB5B id="SPAWN_CHASERS" type="AGGRO" />
+              <UNK_A2BEB5B UNK_6E20B30A="7000" id="UNLOCK_DOOR" type="DISABLE_LOCKON" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_1A624864="9.0" config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_69C9A8A7="3.5" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_F9D5E1A4="true" spawn_heading="188.0366" spawn_position="[-5569.222, -2972.224, -1.1465]" />
+          <guard config="OBJECTIVE_PRISONER_ASSASSINATION_ARMORED_WAGON" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_3624DA8A="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_AF9A039A="true" />
+          <guard config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" />
+        </guards>
+        <passengers>
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_7C35C06D="3" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="273.5894" UNK_770101E4="[-1804.515, -347.5234, 163.252]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="DRIVER_WARN_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_ED36B914="false" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="261.8779" UNK_770101E4="[-1804.652, -349.3059, 163.206]" UNK_C425AC86="WORLD_HUMAN_WAITING_IMPATIENT" config="DRIVER_RECKLESS_BOUNTY" UNK_94EA800F="75.0" UNK_7C35C06D="3" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_ED36B914="false" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="261.8779" UNK_770101E4="[-1804.652, -349.3059, 163.206]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="BACK_SEAT_PASSENGER_PUMP_SHOTGUN" UNK_B3B7A5F9="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+            </UNK_BC1116ED>
+          </passenger>
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_7C35C06D="3" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="4" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+        </passengers>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="SPAWN_CHASERS">
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END_CUTSCENE_FAIL_PRIMARY" UNK_F259B128="true" UNK_E2B28D77="TRIGGER_MISSION_FAIL_CUTSCENE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="GUARD" id="WAGON_1" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="GUARD" id="WAGON_2" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="GUARD" id="WAGON_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="PASSENGER" id="WAGON_1_DRIVER" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="PASSENGER" id="WAGON_1_PASSENGER" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT" />
+              <actor UNK_5975C34F="3" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT_2" />
+              <actor UNK_5975C34F="5" UNK_1C04038C="PASSENGER" id="WAGON_2_DRIVER" />
+              <actor UNK_5975C34F="6" UNK_1C04038C="PASSENGER" id="WAGON_2_PASSENGER" />
+              <actor UNK_5975C34F="7" UNK_1C04038C="PASSENGER" id="WAGON_2_BACKSEAT" />
+              <actor UNK_5975C34F="8" UNK_1C04038C="PASSENGER" id="WAGON_3_DRIVER" />
+              <actor UNK_5975C34F="9" UNK_1C04038C="PASSENGER" id="WAGON_3_PASSENGER" />
+              <actor UNK_5975C34F="10" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_1" />
+              <actor UNK_5975C34F="11" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_2" />
+              <actor UNK_5975C34F="12" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="PRISONER" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near35mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[11.625, -6.5, 0.75]" UNK_A4678354="DRIVE_TO_0" UNK_42EA33CB="[2.75, 0.0, -174.875]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_B708D0CB="293.1008" UNK_242C8C4="[-3622.677, -2604.142, -14.3425]" id="WAGON_1_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_1_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_PASSENGER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="WAGON_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_3" />
+                  <actor UNK_5E233F16="true" id="PRISONER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_DDA8C3D3="235.384" UNK_EEFDFFA3="[-3716.784, -2523.9, -14.6935]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_DDA8C3D3="312.9984" UNK_EEFDFFA3="[-3717.123, -2526.453, -14.725]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_DDA8C3D3="242.5095" UNK_EEFDFFA3="[-3713.669, -2520.605, -14.6967]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_DDA8C3D3="206.6007" UNK_EEFDFFA3="[-3709.051, -2515.964, -14.6615]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_DDA8C3D3="190.5772" UNK_EEFDFFA3="[-3701.853, -2516.047, -14.7909]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_DDA8C3D3="186.4026" UNK_EEFDFFA3="[-3696.991, -2515.356, -14.896]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_DDA8C3D3="186.4026" UNK_EEFDFFA3="[-3694.203, -2514.227, -14.9469]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_0_HORSE" UNK_DDA8C3D3="154.9594" UNK_EEFDFFA3="[-3709.321, -2537.79, -14.8845]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_1_HORSE" UNK_DDA8C3D3="198.1064" UNK_EEFDFFA3="[-3707.451, -2537.284, -14.9257]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_2_HORSE" UNK_DDA8C3D3="211.9428" UNK_EEFDFFA3="[-3704.58, -2537.029, -14.8593]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_3_HORSE" UNK_DDA8C3D3="39.0333" UNK_EEFDFFA3="[-3706.489, -2521.749, -14.7366]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_4_HORSE" UNK_DDA8C3D3="273.1576" UNK_EEFDFFA3="[-3693.16, -2526.613, -14.8224]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_5_HORSE" UNK_DDA8C3D3="314.0502" UNK_EEFDFFA3="[-3692.722, -2529.135, -14.8617]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_6_HORSE" UNK_DDA8C3D3="13.2683" UNK_EEFDFFA3="[-3689.761, -2530.503, -14.8065]" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_834BD0B="true" id="PRISONER_ASSASSINATION_GREENHOLLOW" UNK_7C1FCD5E="MODEL_CONFIG_BOUNTY_HUNTERS" UNK_C0F9D21B="MUSIC_PRIS_ASSASSINATION" UNK_21B34E9A="true" UNK_63902F09="true" UNK_CA597B13="false" UNK_5AB5EF23="900000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_DRIVE_TO_0" role="DRIVE_TO">
+            <config UNK_7FD08239="FETCH_GOTO_TUMBLEWEED" position="[-5521.007, -2931.302, -5.392]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_TUMBLEWEED" position="[-5521.007, -2931.302, -5.392]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_LEAVE_AREA" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" role="LEAVE_AREA_PLAYERS_ONLY">
+            <config position="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="[150.0, 150.0, 150.0]" type="SPHERE" />
+          </volume>
+        </volumes>
+        <UNK_1D77EF7D UNK_FD038381="100.0" UNK_B64B4E75="125.0" />
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="NEAR_WAGON" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="70.0" />
+          <trigger id="AGGRO_ESCORT" role="SHOULD_GO_AGGRO">
+            <UNK_1331CF2C action="SHOW_SCORETIMER" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT" UNK_5AB5EF23="720000" />
+          </trigger>
+          <trigger id="UNLOCK_DOOR" UNK_E01B972B="2" role="NUMBER_OF_ENEMIES_REMAINING">
+            <UNK_1331CF2C action="UNLOCK_VEHICLE_DOORS" />
+          </trigger>
+          <trigger id="SPAWN_CHASERS" UNK_E01B972B="2" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="TRIGGER_MISSION_FAIL_CUTSCENE" UNK_E798E305="PRIMARY" role="AI_DRIVER_REACHED_DRIVE_TO">
+            <UNK_1331CF2C action="SET_OBJECTIVE_FAILED" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" />
+            <UNK_1331CF2C action="SET_TRIGGER_FAILED" id="REPORT_CRIME" />
+          </trigger>
+          <trigger id="REPORT_CRIME" role="PLAYER_IN_VOLUME_AT_MISSION_END" UNK_B71C8EA1="VOL_LEAVE_AREA">
+            <UNK_1331CF2C action="REPORT_CRIME" hash="CRIME_MURDER" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="NEAR_WAGON" id="GOTO_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_GOTO" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_CF941DEE="200.0" config="ASSASSINATION_OBJECTIVE_PRISONER" UNK_F5D3F1EC="PED" UNK_341908A9="true" UNK_E691240F="injured_general" UNK_7BA579E4="MP_PRSN_ASN_MALES_01" UNK_895487CA="50" outfit="MP_PRSN_ASN_GREENHOLLOW_01" UNK_CFFF78B9="215.0" UNK_65FD0826="true" UNK_905A084C="true" spawn_position="[-2624.0, -3123.3, 5.6]" UNK_11B57E58="1">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="NEAR_WAGON" type="CLEAR_IN_VEHICLE_TEXT_AND_BLIP" />
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+              <UNK_A2BEB5B UNK_6E20B30A="7000" id="UNLOCK_DOOR" type="DISABLE_LOCKON" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_1A624864="9.0" config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_69C9A8A7="3.5" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_F9D5E1A4="true" spawn_heading="72.2" spawn_position="[-2624.0, -3123.3, 5.6]" />
+          <guard config="OBJECTIVE_PRISONER_ASSASSINATION_ARMORED_WAGON" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_3624DA8A="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_AF9A039A="true" />
+          <guard config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" />
+        </guards>
+        <passengers>
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="3" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="273.5894" UNK_770101E4="[-1804.515, -347.5234, 163.252]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="DRIVER_WARN_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" UNK_300A9768="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="261.8779" UNK_770101E4="[-1804.652, -349.3059, 163.206]" UNK_C425AC86="WORLD_HUMAN_WAITING_IMPATIENT" config="DRIVER_RECKLESS_BOUNTY" UNK_94EA800F="75.0" UNK_7C35C06D="3" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" UNK_300A9768="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="261.8779" UNK_770101E4="[-1804.652, -349.3059, 163.206]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="BACK_SEAT_PASSENGER_PUMP_SHOTGUN" UNK_B3B7A5F9="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" UNK_300A9768="[0.0, -10.0, 0.0]">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+            </UNK_BC1116ED>
+          </passenger>
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" UNK_300A9768="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" UNK_300A9768="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="3" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" UNK_300A9768="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" UNK_300A9768="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" UNK_300A9768="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+        </passengers>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="SPAWN_CHASERS">
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END_CUTSCENE_FAIL_PRIMARY" UNK_F259B128="true" UNK_E2B28D77="TRIGGER_MISSION_FAIL_CUTSCENE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="GUARD" id="WAGON_1" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="GUARD" id="WAGON_2" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="GUARD" id="WAGON_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="PASSENGER" id="WAGON_1_DRIVER" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="PASSENGER" id="WAGON_1_PASSENGER" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT" />
+              <actor UNK_5975C34F="3" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT_2" />
+              <actor UNK_5975C34F="5" UNK_1C04038C="PASSENGER" id="WAGON_2_DRIVER" />
+              <actor UNK_5975C34F="6" UNK_1C04038C="PASSENGER" id="WAGON_2_PASSENGER" />
+              <actor UNK_5975C34F="7" UNK_1C04038C="PASSENGER" id="WAGON_2_BACKSEAT" />
+              <actor UNK_5975C34F="8" UNK_1C04038C="PASSENGER" id="WAGON_3_DRIVER" />
+              <actor UNK_5975C34F="9" UNK_1C04038C="PASSENGER" id="WAGON_3_PASSENGER" />
+              <actor UNK_5975C34F="10" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_1" />
+              <actor UNK_5975C34F="11" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_2" />
+              <actor UNK_5975C34F="12" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="PRISONER" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near35mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[7.375, 5.0, 1.625]" UNK_A4678354="DRIVE_TO_0" UNK_42EA33CB="[-2.75, 0.0, 200.5]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_B708D0CB="21.419" UNK_242C8C4="[-5529.064, -2928.407, -2.3609]" id="WAGON_1_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_1_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_PASSENGER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="WAGON_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_3" />
+                  <actor UNK_5E233F16="true" id="PRISONER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_DDA8C3D3="285.4781" UNK_EEFDFFA3="[-5540.768, -2950.727, -2.4239]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_DDA8C3D3="15.8752" UNK_EEFDFFA3="[-5543.566, -2930.753, -2.7036]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_DDA8C3D3="275.3638" UNK_EEFDFFA3="[-5552.08, -2924.946, -2.8718]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_DDA8C3D3="215.2989" UNK_EEFDFFA3="[-5513.396, -2943.473, -3.0253]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_DDA8C3D3="303.5278" UNK_EEFDFFA3="[-5495.107, -2939.449, -1.4591]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_DDA8C3D3="97.387" UNK_EEFDFFA3="[-5531.168, -2912.085, -3.6768]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_DDA8C3D3="1.6577" UNK_EEFDFFA3="[-5525.635, -2895.868, -5.0341]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_0_HORSE" UNK_DDA8C3D3="233.7747" UNK_EEFDFFA3="[-5546.707, -2962.76, -1.8779]" />
+                  <actor id="PLAYER_1_HORSE" UNK_DDA8C3D3="114.7747" UNK_EEFDFFA3="[-5525.026, -2923.275, -3.14557]" />
+                  <actor UNK_31971DAF="true" id="PLAYER_2_HORSE" UNK_DDA8C3D3="268.7747" UNK_EEFDFFA3="[-5554.026, -2920.144, -2.7606]" />
+                  <actor id="PLAYER_3_HORSE" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[-5519.478, -2959.097, -2.58017]" />
+                  <actor id="PLAYER_4_HORSE" UNK_DDA8C3D3="28.7747" UNK_EEFDFFA3="[-5520.695, -2917.144, -3.4793]" />
+                  <actor id="PLAYER_5_HORSE" UNK_DDA8C3D3="111.7747" UNK_EEFDFFA3="[-5526.002, -2921.249, -3.191]" />
+                  <actor id="PLAYER_6_HORSE" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[-5521.414, -2916.181, -3.49081]" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_834BD0B="true" id="PRISONER_ASSASSINATION_TALL_TREES" UNK_7C1FCD5E="MODEL_CONFIG_BOUNTY_HUNTERS" UNK_C0F9D21B="MUSIC_PRIS_ASSASSINATION" UNK_21B34E9A="true" UNK_63902F09="true" UNK_CA597B13="false" UNK_5AB5EF23="900000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_DRIVE_TO_0" role="DRIVE_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW" position="[-1804.88, -344.633, 163.6328]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_LAW" position="[-1804.88, -344.633, 163.6328]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_LEAVE_AREA" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" role="LEAVE_AREA_PLAYERS_ONLY">
+            <config position="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="[150.0, 150.0, 150.0]" type="SPHERE" />
+          </volume>
+        </volumes>
+        <UNK_1D77EF7D UNK_FD038381="100.0" UNK_B64B4E75="125.0" />
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="NEAR_WAGON" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="70.0" />
+          <trigger id="AGGRO_ESCORT" role="SHOULD_GO_AGGRO">
+            <UNK_1331CF2C action="SHOW_SCORETIMER" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT" UNK_5AB5EF23="720000" />
+          </trigger>
+          <trigger id="UNLOCK_DOOR" UNK_E01B972B="4" role="NUMBER_OF_ENEMIES_REMAINING">
+            <UNK_1331CF2C action="UNLOCK_VEHICLE_DOORS" />
+          </trigger>
+          <trigger id="SPAWN_CHASERS" UNK_E01B972B="3" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="TRIGGER_MISSION_FAIL_CUTSCENE" UNK_E798E305="PRIMARY" role="AI_DRIVER_REACHED_DRIVE_TO">
+            <UNK_1331CF2C action="SET_OBJECTIVE_FAILED" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" />
+            <UNK_1331CF2C action="SET_TRIGGER_FAILED" id="REPORT_CRIME" />
+          </trigger>
+          <trigger id="REPORT_CRIME" role="PLAYER_IN_VOLUME_AT_MISSION_END" UNK_B71C8EA1="VOL_LEAVE_AREA">
+            <UNK_1331CF2C action="REPORT_CRIME" hash="CRIME_MURDER" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="NEAR_WAGON" id="GOTO_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_GOTO" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_CF941DEE="200.0" config="ASSASSINATION_OBJECTIVE_PRISONER" UNK_F5D3F1EC="PED" UNK_7AFEC79B="true" UNK_341908A9="true" UNK_E691240F="injured_left_leg" UNK_7BA579E4="MP_PRSN_ASN_MALES_01" UNK_895487CA="50" outfit="MP_PRSN_ASN_TALLTREES_01" UNK_CFFF78B9="215.0" UNK_65FD0826="true" UNK_905A084C="true" spawn_position="[-2318.4, -1833.7, 106.2]" UNK_11B57E58="1">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="NEAR_WAGON" type="CLEAR_IN_VEHICLE_TEXT_AND_BLIP" />
+              <UNK_A2BEB5B id="SPAWN_CHASERS" type="AGGRO" />
+              <UNK_A2BEB5B UNK_6E20B30A="7000" id="UNLOCK_DOOR" type="DISABLE_LOCKON" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_1A624864="9.0" config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_69C9A8A7="3.5" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" spawn_heading="17.2" spawn_position="[-2318.4, -1833.7, 106.2]" />
+          <guard config="OBJECTIVE_PRISONER_ASSASSINATION_ARMORED_WAGON" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_3624DA8A="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_AF9A039A="true" />
+          <guard accuracy="20" config="BOUNTY_MOUNTED_ESCORT_REPEATER" UNK_F5D3F1EC="PED" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[1.0, -8.0, 0.0]" />
+          <guard accuracy="20" config="BOUNTY_MOUNTED_ESCORT_REPEATER" UNK_F5D3F1EC="PED" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[-1.0, -8.0, 0.0]" />
+          <guard accuracy="20" config="BOUNTY_MOUNTED_ESCORT_REPEATER" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -12.0, 0.0]" />
+        </guards>
+        <passengers>
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_ED36B914="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_ED36B914="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="3" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="273.5894" UNK_770101E4="[-1804.515, -347.5234, 163.252]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="DRIVER_WARN_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_ED36B914="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="261.8779" UNK_770101E4="[-1804.652, -349.3059, 163.206]" UNK_C425AC86="WORLD_HUMAN_WAITING_IMPATIENT" config="DRIVER_RECKLESS_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_ED36B914="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="261.8779" UNK_770101E4="[-1804.652, -349.3059, 163.206]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="BACK_SEAT_PASSENGER_PUMP_SHOTGUN" UNK_B3B7A5F9="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+            </UNK_BC1116ED>
+          </passenger>
+        </passengers>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="SPAWN_CHASERS">
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END_CUTSCENE_FAIL_PRIMARY" UNK_F259B128="true" UNK_E2B28D77="TRIGGER_MISSION_FAIL_CUTSCENE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="GUARD" id="WAGON_1" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="PASSENGER" id="WAGON_1_DRIVER" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="PASSENGER" id="WAGON_1_PASSENGER" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT" />
+              <actor UNK_5975C34F="3" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT_2" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="GUARD" id="WAGON_2" />
+              <actor UNK_5975C34F="4" UNK_1C04038C="PASSENGER" id="WAGON_2_DRIVER" />
+              <actor UNK_5975C34F="5" UNK_1C04038C="PASSENGER" id="WAGON_2_PASSENGER" />
+              <actor UNK_5975C34F="6" UNK_1C04038C="PASSENGER" id="WAGON_2_BACKSEAT" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="GUARD" id="MOUNTED_ESCORT_1" />
+              <actor UNK_5975C34F="3" UNK_1C04038C="GUARD" id="MOUNTED_ESCORT_2" />
+              <actor UNK_5975C34F="4" UNK_1C04038C="GUARD" id="MOUNTED_ESCORT_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="PRISONER" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near35mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[3.875, 6.375, -0.25]" UNK_A4678354="DRIVE_TO_0" UNK_42EA33CB="[-3.375, 0.0, -123.25]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_B708D0CB="68.1993" UNK_242C8C4="[-1809.306, -349.7787, 163.6592]" id="WAGON_1_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_1_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_PASSENGER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="WAGON_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="MOUNTED_ESCORT_1" />
+                  <actor UNK_5E233F16="true" id="MOUNTED_ESCORT_2" />
+                  <actor UNK_5E233F16="true" id="MOUNTED_ESCORT_3" />
+                  <actor UNK_5E233F16="true" id="PRISONER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_DDA8C3D3="111.34" UNK_EEFDFFA3="[-1744.055, -413.907, 154.2517]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_DDA8C3D3="259.6346" UNK_EEFDFFA3="[-1746.997, -413.5097, 154.3565]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_DDA8C3D3="146.444" UNK_EEFDFFA3="[-1730.444, -432.3783, 151.1246]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_DDA8C3D3="104.3408" UNK_EEFDFFA3="[-1731.998, -429.7599, 151.093]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_DDA8C3D3="93.8349" UNK_EEFDFFA3="[-1718.769, -376.304, 169.2516]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_DDA8C3D3="229.1888" UNK_EEFDFFA3="[-1721.549, -374.3015, 169.7078]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_DDA8C3D3="138.4905" UNK_EEFDFFA3="[-1724.99, -373.587, 169.524]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_0_HORSE" UNK_DDA8C3D3="155.5357" UNK_EEFDFFA3="[-1702.153, -473.0304, 146.7747]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_1_HORSE" UNK_DDA8C3D3="95.2594" UNK_EEFDFFA3="[-1700.5, -475.9886, 146.8284]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_2_HORSE" UNK_DDA8C3D3="192.1887" UNK_EEFDFFA3="[-1697.884, -481.4744, 146.4448]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_3_HORSE" UNK_DDA8C3D3="60.7474" UNK_EEFDFFA3="[-1693.867, -477.4096, 148.6043]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_4_HORSE" UNK_DDA8C3D3="12.5085" UNK_EEFDFFA3="[-1699.352, -467.3308, 148.2767]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_5_HORSE" UNK_DDA8C3D3="158.229" UNK_EEFDFFA3="[-1720.013, -389.0902, 165.8833]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_6_HORSE" UNK_DDA8C3D3="190.323" UNK_EEFDFFA3="[-1724.047, -393.4442, 164.6668]" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_834BD0B="true" id="PRISONER_ASSASSINATION_BLACKBONE" UNK_7C1FCD5E="MODEL_CONFIG_BOUNTY_HUNTERS" UNK_C0F9D21B="MUSIC_PRIS_ASSASSINATION" UNK_21B34E9A="true" UNK_63902F09="true" UNK_CA597B13="false" UNK_5AB5EF23="900000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_DRIVE_TO_0" role="DRIVE_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW" position="[-1798.569, -354.578, 163.633]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 7.049]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_LAW" position="[-1798.569, -354.578, 163.633]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 7.049]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_LEAVE_AREA" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE" role="LEAVE_AREA_PLAYERS_ONLY">
+            <config position="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="[150.0, 150.0, 150.0]" type="SPHERE" />
+          </volume>
+        </volumes>
+        <UNK_1D77EF7D UNK_FD038381="100.0" UNK_B64B4E75="125.0" />
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="NEAR_WAGON" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="70.0" />
+          <trigger id="AGGRO_ESCORT" role="SHOULD_GO_AGGRO">
+            <UNK_1331CF2C action="SHOW_SCORETIMER" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT" UNK_5AB5EF23="720000" />
+          </trigger>
+          <trigger id="UNLOCK_DOOR" UNK_E01B972B="3" role="NUMBER_OF_ENEMIES_REMAINING">
+            <UNK_1331CF2C action="UNLOCK_VEHICLE_DOORS" />
+          </trigger>
+          <trigger id="SPAWN_CHASERS" UNK_E01B972B="3" role="NUMBER_OF_ENEMIES_REMAINING" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="TRIGGER_MISSION_FAIL_CUTSCENE" UNK_E798E305="PRIMARY" role="AI_DRIVER_REACHED_DRIVE_TO">
+            <UNK_1331CF2C action="SET_OBJECTIVE_FAILED" UNK_2A5A1C92="0" UNK_CB06019E="OBJECTIVE" />
+            <UNK_1331CF2C action="SET_TRIGGER_FAILED" id="REPORT_CRIME" />
+          </trigger>
+          <trigger id="REPORT_CRIME" role="PLAYER_IN_VOLUME_AT_MISSION_END" UNK_B71C8EA1="VOL_LEAVE_AREA">
+            <UNK_1331CF2C action="REPORT_CRIME" hash="CRIME_MURDER" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="NEAR_WAGON" id="GOTO_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="FETCH_PRISONER_ASSASSINATION_GOTO" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_CF941DEE="200.0" config="ASSASSINATION_OBJECTIVE_PRISONER" UNK_F5D3F1EC="PED" UNK_341908A9="true" UNK_E691240F="moderate_drunk" UNK_7BA579E4="MP_PRSN_ASN_MALES_01" UNK_895487CA="50" outfit="MP_PRSN_ASN_BLACKBONE_01" UNK_CFFF78B9="215.0" UNK_65FD0826="true" UNK_905A084C="true" spawn_position="[-2618.482, 501.612, 143.0036]" UNK_11B57E58="1">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="NEAR_WAGON" type="CLEAR_IN_VEHICLE_TEXT_AND_BLIP" />
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+              <UNK_A2BEB5B UNK_6E20B30A="7000" id="UNLOCK_DOOR" type="DISABLE_LOCKON" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_1A624864="9.0" config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_69C9A8A7="3.5" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_F9D5E1A4="true" spawn_heading="173.1937" spawn_position="[-2618.482, 501.612, 143.0036]" />
+          <guard config="OBJECTIVE_PRISONER_ASSASSINATION_ARMORED_WAGON" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_3624DA8A="true" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_AF9A039A="true" />
+          <guard config="ESCORT_BOUNTY_HUNTERS_OPEN" UNK_C4232DAE="false" UNK_F5D3F1EC="VEHICLE" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_F9D5E1A4="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" />
+        </guards>
+        <passengers>
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="3" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_35DDC98="true" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="273.5894" UNK_770101E4="[-1804.515, -347.5234, 163.252]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="DRIVER_WARN_BOUNTY" UNK_94EA800F="75.0" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_ED36B914="false" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="261.8779" UNK_770101E4="[-1804.652, -349.3059, 163.206]" UNK_C425AC86="WORLD_HUMAN_WAITING_IMPATIENT" config="DRIVER_RECKLESS_BOUNTY" UNK_94EA800F="75.0" UNK_7C35C06D="3" UNK_1CCE5139="0" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[0.0, -10.0, 0.0]" UNK_ED36B914="false" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="1" UNK_CB06019E="GUARD" UNK_461E4736="261.8779" UNK_770101E4="[-1804.652, -349.3059, 163.206]" UNK_C425AC86="WORLD_HUMAN_STAND_WAITING" config="BACK_SEAT_PASSENGER_PUMP_SHOTGUN" UNK_B3B7A5F9="true" UNK_35DDC98="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="UNLOCK_DOOR" type="AGGRO" />
+            </UNK_BC1116ED>
+          </passenger>
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="DRIVER_RECKLESS_BOUNTY" UNK_7C35C06D="3" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_7C35C06D="4" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+          <passenger accuracy="20" UNK_2A5A1C92="2" UNK_CB06019E="GUARD" config="BACK_SEAT_PASSENGER_BOUNTY_REVOLVER" UNK_1CCE5139="1" UNK_732D401="GUARD" UNK_35DDC98="true" spawn_position="[0.0, -10.0, 0.0]" UNK_4F2F1B6="true" />
+        </passengers>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="SPAWN_CHASERS">
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="BOUNTY_CHASER_REPEATER" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_LEAVE_AREA" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END_CUTSCENE_FAIL_PRIMARY" UNK_F259B128="true" UNK_E2B28D77="TRIGGER_MISSION_FAIL_CUTSCENE">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="GUARD" id="WAGON_1" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="GUARD" id="WAGON_2" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="GUARD" id="WAGON_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="PASSENGER" id="WAGON_1_DRIVER" />
+              <actor UNK_5975C34F="1" UNK_1C04038C="PASSENGER" id="WAGON_1_PASSENGER" />
+              <actor UNK_5975C34F="2" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT" />
+              <actor UNK_5975C34F="3" UNK_1C04038C="PASSENGER" id="WAGON_1_BACKSEAT_2" />
+              <actor UNK_5975C34F="5" UNK_1C04038C="PASSENGER" id="WAGON_2_DRIVER" />
+              <actor UNK_5975C34F="6" UNK_1C04038C="PASSENGER" id="WAGON_2_PASSENGER" />
+              <actor UNK_5975C34F="7" UNK_1C04038C="PASSENGER" id="WAGON_2_BACKSEAT" />
+              <actor UNK_5975C34F="8" UNK_1C04038C="PASSENGER" id="WAGON_3_DRIVER" />
+              <actor UNK_5975C34F="9" UNK_1C04038C="PASSENGER" id="WAGON_3_PASSENGER" />
+              <actor UNK_5975C34F="10" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_1" />
+              <actor UNK_5975C34F="11" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_2" />
+              <actor UNK_5975C34F="12" UNK_1C04038C="PASSENGER" id="WAGON_3_BACKSEAT_3" />
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="PRISONER" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near35mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[3.875, 6.375, -0.25]" UNK_A4678354="DRIVE_TO_0" UNK_42EA33CB="[-3.375, 0.0, -123.25]" />
+                <UNK_3AECE76F>
+                  <actor action="GO_TO_POINT" UNK_B708D0CB="68.1993" UNK_242C8C4="[-1809.306, -349.7787, 163.6592]" id="WAGON_1_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_1_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_2_PASSENGER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_DRIVER" />
+                  <actor action="EXIT_VEHICLE" id="WAGON_3_PASSENGER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="WAGON_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_1_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_2_BACKSEAT" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_DRIVER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_PASSENGER" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_1" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_2" />
+                  <actor UNK_5E233F16="true" id="WAGON_3_BACKSEAT_3" />
+                  <actor UNK_5E233F16="true" id="PRISONER" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F>
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_0" UNK_DDA8C3D3="111.34" UNK_EEFDFFA3="[-1744.055, -413.907, 154.2517]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_1" UNK_DDA8C3D3="259.6346" UNK_EEFDFFA3="[-1746.997, -413.5097, 154.3565]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_2" UNK_DDA8C3D3="146.444" UNK_EEFDFFA3="[-1730.444, -432.3783, 151.1246]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_3" UNK_DDA8C3D3="104.3408" UNK_EEFDFFA3="[-1731.998, -429.7599, 151.093]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_4" UNK_DDA8C3D3="93.8349" UNK_EEFDFFA3="[-1718.769, -376.304, 169.2516]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_5" UNK_DDA8C3D3="229.1888" UNK_EEFDFFA3="[-1721.549, -374.3015, 169.7078]" />
+                  <actor action="PLAY_DYNAMIC_FREE_ROAM_INTRO" id="PLAYER_6" UNK_DDA8C3D3="138.4905" UNK_EEFDFFA3="[-1724.99, -373.587, 169.524]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_0_HORSE" UNK_DDA8C3D3="155.5357" UNK_EEFDFFA3="[-1702.153, -473.0304, 146.7747]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_1_HORSE" UNK_DDA8C3D3="95.2594" UNK_EEFDFFA3="[-1700.5, -475.9886, 146.8284]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_2_HORSE" UNK_DDA8C3D3="192.1887" UNK_EEFDFFA3="[-1697.884, -481.4744, 146.4448]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_3_HORSE" UNK_DDA8C3D3="60.7474" UNK_EEFDFFA3="[-1693.867, -477.4096, 148.6043]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_4_HORSE" UNK_DDA8C3D3="12.5085" UNK_EEFDFFA3="[-1699.352, -467.3308, 148.2767]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_5_HORSE" UNK_DDA8C3D3="158.229" UNK_EEFDFFA3="[-1720.013, -389.0902, 165.8833]" />
+                  <actor UNK_24610EF4="WORLD_ANIMAL_HORSE_GRAZING" id="PLAYER_6_HORSE" UNK_DDA8C3D3="190.323" UNK_EEFDFFA3="[-1724.047, -393.4442, 164.6668]" />
+                </UNK_3AECE76F>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+    </locations>
+  </data>
+</root>

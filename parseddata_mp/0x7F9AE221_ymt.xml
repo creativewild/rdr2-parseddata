@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_7B830F51>
+    <vehicles>
+      <node item="wagon04x" propset="pg_vl_hunter01" />
+      <node item="wagon02x" propset="pg_vl_hunter01" />
+      <node item="wagonprison01x" />
+    </vehicles>
+    <peds>
+      <node item="A_C_DOGAMERICANFOXHOUND_01" />
+      <node item="CS_MP_CRIPPS" outfit="" />
+    </peds>
+    <propsets>
+      <node item="pg_mp_possecamp_tent_bounty01x" />
+    </propsets>
+  </UNK_7B830F51>
+</root>

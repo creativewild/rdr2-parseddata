@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_1AF9B630 id="ST_GUNSMITH">
+    <region id="REGION_ROA_ANNESBURG">
+      <vector data="[2947.504, 1316.344, 43.8203]" id="catClothingPos" />
+      <float data="52.0416" id="catClothingHeading" />
+      <vector data="[2945.696, 1317.878, 44.9471]" id="catClothingCamPos" />
+      <vector data="[-3.0612, 0.0, -130.3079]" id="catClothingCamRot" />
+    </region>
+    <region id="REGION_SCM_RHODES">
+      <vector data="[1328.356, -1322.758, 76.8867]" id="catClothingPos" />
+      <float data="32.8129" id="catClothingHeading" />
+      <vector data="[1327.154, -1320.714, 78.0135]" id="catClothingCamPos" />
+      <vector data="[-3.061, 0.0, -149.5365]" id="catClothingCamRot" />
+    </region>
+    <region id="REGION_BAY_SAINT_DENIS">
+      <vector data="[2717.859, -1280.708, 48.6304]" id="catClothingPos" />
+      <float data="162.7244" id="catClothingHeading" />
+      <vector data="[2717.062, -1282.941, 49.7572]" id="catClothingCamPos" />
+      <vector data="[-3.0611, 0.0, -19.6253]" id="catClothingCamRot" />
+    </region>
+    <region id="REGION_HRT_VALENTINE">
+      <vector data="[-278.268, 777.8718, 118.504]" id="catClothingPos" />
+      <float data="330.216" id="catClothingHeading" />
+      <vector data="[-277.0068, 779.8797, 119.6308]" id="catClothingCamPos" />
+      <vector data="[-3.0611, 0.0, 147.8666]" id="catClothingCamRot" />
+    </region>
+    <region id="REGION_GAP_TUMBLEWEED">
+      <vector data="[-5508.492, -2968.616, -1.6312]" id="catClothingPos" />
+      <float data="353.2534" id="catClothingHeading" />
+      <vector data="[-5508.117, -2966.274, -0.5044]" id="catClothingCamPos" />
+      <vector data="[-3.061, 0.0, 170.9004]" id="catClothingCamRot" />
+    </region>
+  </UNK_1AF9B630>
+</root>

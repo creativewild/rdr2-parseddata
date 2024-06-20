@@ -1,0 +1,1345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data>
+    <UNK_FCAC7D18>
+      <UNK_AD305933 id="STANDARD">
+        <text id="SHARD_TEAM_PRIMARY_INTRO" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_SHARD_DESC_PRIMARY" />
+        <text id="SHARD_TEAM_PRIMARY_INTRO_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_SHARD_DESC_PRIMARY" />
+        <text id="SHARD_TEAM_PRIMARY_PASS" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_SHARD_PRIMARY_PASS" />
+        <text id="SHARD_TEAM_PRIMARY_PASS_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_SHARD_PRIMARY_PASS" />
+        <text id="SHARD_TEAM_PRIMARY_PASS_PARTIAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_SHARD_PRIMARY_PASS_PARTIAL" />
+        <text id="SHARD_TEAM_PRIMARY_FAIL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_SHARD_PRIMARY_FAIL" />
+        <text id="SHARD_DESTROYED" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_SHARD_DESTROYED" />
+        <text id="SHARD_DESTROYED_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_SHARD_DESTROYED" />
+        <text id="SHARD_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_POSSE_ABANDONED" />
+        <text id="SHARD_YOU_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOU_ABANDONED" />
+        <text id="SHARD_YOUR_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOUR_POSSE_ABANDONED" />
+        <text id="SCORETIMER_CLUE_INSPECTED" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_SCORETIMER_CLUE_INSPECTED" />
+        <text id="SCORETIMER_DELIVER_TEAM_PRIMARY_PASS" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_SCORETIMER_PRIMARY_PASS" />
+        <text id="SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_NP" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_SCORETIMER_PRIMARY_PASS_NP" />
+        <text id="SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_YOU" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_SCORETIMER_PRIMARY_PASS_YOU" />
+        <text id="SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_YOUR" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_SCORETIMER_PRIMARY_PASS_YOUR" />
+        <text id="SCORETIMER_OBJECTIVE_FOUND_YOU" UNK_EC4B42F9="FETCH_SCORETIMER_OBJECTIVE_VALUABLES_FOUND_YOU" />
+        <text id="SCORETIMER_OBJECTIVES_ALL_FOUND_YOU" UNK_EC4B42F9="FETCH_SCORETIMER_OBJECTIVES_VALUABLES_ALL_FOUND_YOU" />
+        <text id="SCORETIMER_OBJECTIVES_ALL_FOUND_YOU_AT_ONCE" UNK_EC4B42F9="FETCH_SCORETIMER_OBJECTIVE_VALUABLES_FOUND_YOU" />
+        <text id="SCORETIMER_OBJECTIVE_FOUND" UNK_EC4B42F9="FETCH_SCORETIMER_OBJECTIVE_VALUABLES_FOUND" />
+        <text id="SCORETIMER_OBJECTIVES_ALL_FOUND" UNK_EC4B42F9="FETCH_SCORETIMER_OBJECTIVES_VALUABLES_ALL_FOUND" />
+        <text id="SCORETIMER_OBJECTIVES_ALL_FOUND_AT_ONCE" UNK_EC4B42F9="FETCH_SCORETIMER_OBJECTIVE_VALUABLES_FOUND" />
+        <text id="HELP_REMOTE_PLAYER_STARTED_MISSION" UNK_EC4B42F9="FETCH_HELP_DYNAMIC_REMOTE_PLAYER_STARTED_MISSION" />
+        <text id="HELP_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_TEAM_PRIMARY" />
+        <text id="HELP_TEAM_PRIMARY_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_TEAM_PRIMARY" />
+        <text id="HELP_ONLY_ONE_BAG" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_ONE_BAG" />
+        <text id="HELP_SEARCH_AREA" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_SEARCH_AREA" />
+        <text id="HELP_CAPITALE_REMINDER" UNK_EC4B42F9="FETCH_HELP_CAPITALE_REMINDER" />
+        <text id="OBJ_GO_TO_0" UNK_EC4B42F9="FETCH_OBJ_GO_TO" />
+        <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_FIND" />
+        <text id="OBJ_FIND_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_FIND" />
+        <text id="OBJ_SEARCH_AREA" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_SEARCH_AREA" />
+        <text id="OBJ_SEARCH_AREA_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_SEARCH_AREA" />
+        <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_DROP" />
+        <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_STEAL" />
+        <text id="OBJ_ESCORT_STEAL_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_STEAL" />
+        <text id="OBJ_ESCORT_STEAL_FROM_POSSE" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_STEAL" />
+        <text id="OBJ_ESCORT_STEAL_FROM_POSSE_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_STEAL" />
+        <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_DELIVER" />
+        <text id="OBJ_ESCORT_DEFEND" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_DEFEND" />
+        <text id="OBJ_ESCORT_DEFEND_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_DEFEND" />
+        <text id="OBJ_LOSE_LAW" UNK_EC4B42F9="FETCH_OBJ_LOSE_LAW" />
+        <text id="OBJ_LOSE_LAW_POSSE" UNK_EC4B42F9="FETCH_OBJ_LOSE_LAW_POSSE" />
+        <text id="CTX_INSPECT_CLUE" UNK_EC4B42F9="FETCH_BTY_INSPECT_CLUE" />
+        <text id="CTX_LOOK_AT_CLUE" UNK_EC4B42F9="FETCH_BTY_HELP_LOOK_AT_CLUE" />
+      </UNK_AD305933>
+    </UNK_FCAC7D18>
+    <locations>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_32220272="true" UNK_413A88="40000" UNK_2C628086="25000" UNK_7676A094="true" UNK_66557D80="10" id="OUTLAW_GFH_HOMESTEAD_ROBBERY_0" UNK_7C1FCD5E="MODEL_CONFIG_ROANOKE" UNK_C0F9D21B="MUSIC_OUTLAW_GFH_ROBBERY" UNK_CA597B13="true" UNK_5AB5EF23="1200000" UNK_45FA832B="false" UNK_6CA47BC2="false" UNK_17CC0711="true" UNK_E7B32F19="true">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GO_TO_0" role="GO_TO_SYNCED">
+            <config UNK_7FD08239="FETCH_GOTO_HOMESTEAD" position="[2822.008, 276.5204, 39.267]" rotation="[0.0, 0.0, 0.0]" scale="[68.5102, 68.5102, 41.6458]" type="CYLINDER" />
+          </volume>
+          <volume id="TURN_IN" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DEAD_DROP" position="[2993.458, 566.5018, 44.3416]" rotation="[0.0, 0.0, 168.4442]" scale="[9.7611, 5.8138, 5.9417]" type="BOX" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="SEARCH_AREA" role="SEARCH_AFTER_GO_TO">
+            <config position="[2823.013, 275.346, 54.219]" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 20.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="MANSION">
+            <config position="[2823.317, 275.202, 51.192]" rotation="[0.0, 0.0, 45.0]" scale="[15.0, 19.0, 10.0]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger id="CLUES_INSPECTED" role="ALL_LINKED_CLUES_INSPECTED">
+            <UNK_1331CF2C action="HIDE_VOLUME_BLIP" UNK_CA822909="VOL_SEARCH_HOMESTEAD" />
+            <UNK_1331CF2C action="DISABLE_ALL_CLUES" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+            <UNK_1331CF2C action="MARK_OBJECTIVES_FOUND" />
+          </trigger>
+          <trigger id="PICKED_UP_BAG" role="ESCORTING" />
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" id="PICK_UP_BAG" UNK_E798E305="PRIMARY" UNK_3AB9F7DF="PICKED_UP_BAG">
+            <UNK_AE702DE>
+              <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_PICK_UP" />
+              <text id="OBJ_ESCORT_STEAL_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_PICK_UP" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" spawn_position="[2828.419, 280.115, 50.1415]" UNK_100B5E15="[0.0, -0.0, 61.8978]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CLUES_INSPECTED" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </objective>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_7C35C06D="2" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" spawn_position="[2825.774, 277.643, 47.2022]" UNK_100B5E15="[0.0, -0.0, 61.8978]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CLUES_INSPECTED" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CLUE_P_PAPER_02X" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_CLUE_NOTE_FOUND" UNK_CA822909="SEARCH_AREA" UNK_6F48D21D="SEARCH_AREA" spawn_position="[2831.843, 274.9614, 47.6054]" UNK_100B5E15="[0.0, 0.0, 0.0]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[2831.843, 274.9614, 47.6054]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[2814.812, 275.0693, 49.268]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[2821.438, 274.4147, 50.1894]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[2820.45, 275.7685, 50.5849]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[2821.58, 269.7437, 47.7749]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[2820.864, 274.3185, 47.1022]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+            </UNK_3E64F9B4>
+            <UNK_89976A47>
+              <UNK_A85B4463 id="CLUES_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="CLUE_P_PAPER_03X" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_NOTE" UNK_AD4E358A="true" UNK_CA822909="SEARCH_AREA" spawn_position="[2821.914, 272.5584, 47.8799]" UNK_100B5E15="[0.0, 0.0, 0.0]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[2821.914, 272.5584, 47.8799]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[2835.299, 267.7756, 47.0727]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+            </UNK_3E64F9B4>
+          </guard>
+          <guard config="CLUE_P_PAPER_03X" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_NOTE" UNK_AD4E358A="true" UNK_CA822909="SEARCH_AREA" spawn_position="[2823.635, 268.8633, 48.2293]" UNK_100B5E15="[0.0, 0.0, 0.0]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[2823.635, 268.8633, 48.2293]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[2826.222, 268.6916, 51.1127]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+            </UNK_3E64F9B4>
+          </guard>
+          <guard config="CLUE_P_PAPER_03X" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_NOTE" UNK_AD4E358A="true" UNK_CA822909="SEARCH_AREA" spawn_position="[2817.158, 269.8553, 50.8995]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <guard config="CLUE_P_PAPER_03X" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_NOTE" UNK_AD4E358A="true" UNK_CA822909="SEARCH_AREA" spawn_position="[2811.882, 263.6081, 47.0524]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="PROP_HUMAN_SEAT_BENCH" UNK_CA822909="MANSION" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[2822.145, 279.4117, 50.5854]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" UNK_461E4736="0.07" UNK_770101E4="[2969.184, 464.0065, 48.26575]" UNK_C425AC86="WORLD_HUMAN_DRINK_FLASK" config="GUARD_FLEE_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[2822.062, 274.6112, 47.1022]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="MANSION" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[2823.497, 275.2635, 47.1022]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_CROUCH_INSPECT" UNK_CA822909="MANSION" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[2826.624, 276.2939, 47.1022]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_BACK_WALL_NO_PROPS" UNK_CA822909="MANSION" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[2832.498, 273.3604, 46.9172]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_SMOKE" UNK_CA822909="MANSION" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="52.3818" spawn_position="[2819.887, 278.978, 49.9681]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_COFFEE_DRINK" UNK_CA822909="MANSION" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[2825.13, 267.3124, 50.0855]" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard config="CAPITALE_CHEST" UNK_F5D3F1EC="PROP" UNK_E03AE58C="REWARD_CAPITALE_CHEST_SMALL" spawn_position="[2823.216, 280.8215, 50.078]" UNK_100B5E15="[0.0, 0.0, 44.0195]" />
+          <guard config="CAPITALE_CHEST" UNK_F5D3F1EC="PROP" UNK_E03AE58C="REWARD_CAPITALE_CHEST_SMALL" spawn_position="[2819.766, 271.945, 47.102]" UNK_100B5E15="[0.0, 0.0, 133.7044]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_SHARPSHOOTERFARM01X" placement_type="PROPSET_ALIGN_TO_GROUND" spawn_heading="46.493" spawn_position="[2814.883, 285.642, 48.923]" />
+          <prop_set config="STUCK_WAGON_01" placement_type="PROPSET_ALIGN_TO_GROUND" spawn_heading="85.85" spawn_position="[2805.466, 268.522, 47.21]" />
+          <prop_set config="HUNTING_DECOR_MEDIUM" placement_type="PROPSET_ALIGN_TO_GROUND" spawn_heading="47.699" spawn_position="[2827.075, 289.336, 48.811]" />
+          <prop_set config="BARREL_GROUP_02" placement_type="ALIGN_AS_ONE" spawn_heading="81.307" spawn_position="[2828.224, 261.032, 46.657]" />
+          <prop_set config="AMBIENT_CANOE_PROPS" placement_type="ALIGN_AS_ONE" spawn_heading="81.307" spawn_position="[2858.962, 252.77, 40.5]" />
+        </UNK_5D1EFC39>
+        <cutscenes>
+          <cutscene UNK_633329DE="OUTLAW_HOMESTEAD_VAN_HORN_MANSION_INTRO" id="MISSION_START" UNK_5009852E="true" UNK_18F9D42A="[2725.84, 24.393, 49.061]" UNK_4D7F4E70="FOGGY_NIGHT" type="START_SKYLAPSE" />
+          <cutscene id="MISSION_END" UNK_F259B128="true">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="TARGET" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near25mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[0.8, -18.7, 2.7]" UNK_A4678354="TURN_IN_VOL" UNK_42EA33CB="[-5.76, 1.44, 149.76]" />
+                <UNK_3AECE76F>
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_0" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_1" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_2" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_3" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_4" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_5" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_6" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot UNK_6A7B1E3F="OUTLAW_HOMESTEAD_VAN_HORN_MANSION_OUTRO">
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="TARGET" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F text="" />
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_32220272="true" UNK_413A88="40000" UNK_2C628086="25000" UNK_7676A094="true" UNK_66557D80="8" id="OUTLAW_GFH_HOMESTEAD_ROBBERY_1" UNK_7C1FCD5E="MODEL_CONFIG_HEARTLANDS" UNK_C0F9D21B="MUSIC_OUTLAW_GFH_ROBBERY" UNK_CA597B13="true" UNK_5AB5EF23="1200000" UNK_45FA832B="false" UNK_6CA47BC2="false" UNK_17CC0711="true" UNK_E7B32F19="true">
+        <UNK_AE702DE config="STANDARD">
+          <text id="HELP_SEARCH_CLUE_FOUND" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FINAL_CLUE_INSPECTED" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GO_TO_0" role="GO_TO_SYNCED">
+            <config UNK_7FD08239="FETCH_GOTO_HOMESTEAD" position="[776.5692, 848.4995, 121.7811]" rotation="[0.0, 0.0, 0.0]" scale="[69.9579, 69.9579, 21.0176]" type="CYLINDER" />
+          </volume>
+          <volume id="TURN_IN" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DEAD_DROP" position="[1397.941, 358.693, 88.465]" rotation="[0.0, 0.0, 20.0]" scale="[6.0, 11.5, 4.0]" type="BOX" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="SEARCH_HOMESTEAD" role="SEARCH_AFTER_GO_TO">
+            <config position="[777.544, 848.232, 122.015]" rotation="[0.0, 0.0, 17.0]" scale="[27.0, 33.0, 15.0]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger id="HOMESTEAD_FOUND" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="SEARCH_HOMESTEAD" />
+          <trigger id="FIRST_CLUES_FOUND" UNK_E01B972B="2" role="NUM_LINKED_CLUES_INSPECTED" />
+          <trigger id="CLUES_INSPECTED" UNK_E01B972B="3" role="NUM_LINKED_CLUES_INSPECTED">
+            <UNK_1331CF2C action="HIDE_VOLUME_BLIP" UNK_CA822909="SEARCH_HOMESTEAD" />
+            <UNK_1331CF2C action="DISABLE_ALL_CLUES" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+            <UNK_1331CF2C action="MARK_OBJECTIVES_FOUND" />
+          </trigger>
+          <trigger id="PICKED_UP_BAG" role="ESCORTING" />
+        </triggers>
+        <objectives>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" spawn_position="[779.621, 843.729, 120.915]" UNK_100B5E15="[0.0, 0.0, -162.172]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[779.621, 843.729, 120.915]" UNK_100B5E15="[0.0, 0.0, -162.172]" />
+              <UNK_D8E03A3F spawn_position="[770.8167, 846.0002, 118.9283]" UNK_100B5E15="[0.0, 0.0, -162.172]" />
+            </UNK_3E64F9B4>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CLUES_INSPECTED" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </objective>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_7C35C06D="2" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" spawn_position="[777.2918, 853.3038, 117.9944]" UNK_100B5E15="[0.0, 0.0, -162.172]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[777.2918, 853.3038, 117.9944]" UNK_100B5E15="[0.0, 0.0, -162.172]" />
+              <UNK_D8E03A3F spawn_position="[766.647, 880.5676, 119.9907]" UNK_100B5E15="[0.0, 0.0, -162.172]" />
+              <UNK_D8E03A3F spawn_position="[819.3131, 858.6983, 115.9862]" UNK_100B5E15="[0.0, 0.0, -162.172]" />
+            </UNK_3E64F9B4>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CLUES_INSPECTED" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="FIRST_CLUES_FOUND" id="CLUE_TEXT_SWAP" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="HELP_SEARCH_CLUE_FOUND" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_CLUE_INSPECTED" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+          <UNK_B7728790 UNK_A3946F49="false" id="PICK_UP_BAG" UNK_E798E305="PRIMARY" UNK_3AB9F7DF="PICKED_UP_BAG">
+            <UNK_AE702DE>
+              <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_PICK_UP" />
+              <text id="OBJ_ESCORT_STEAL_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_PICK_UP" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <guards>
+          <guard config="CLUE_P_PAPER_02X" UNK_F5D3F1EC="PROP" UNK_CA822909="SEARCH_HOMESTEAD" spawn_position="[781.3297, 845.0402, 118.754]" UNK_100B5E15="[0.0, 0.0, 0.0]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[781.3297, 845.0402, 118.754]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[774.1563, 843.4008, 118.713]" UNK_100B5E15="[0.0, -0.0, -8.9896]" />
+            </UNK_3E64F9B4>
+            <UNK_89976A47>
+              <UNK_A85B4463 id="FIRST_CLUES_FOUND" />
+              <UNK_A85B4463 id="CLUES_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="CLUE_P_PAPER_02X" UNK_F5D3F1EC="PROP" UNK_CA822909="SEARCH_HOMESTEAD" spawn_position="[777.407, 844.4218, 118.4]" UNK_100B5E15="[0.0, -0.0, -176.6749]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[777.407, 844.4218, 118.4]" UNK_100B5E15="[0.0, -0.0, -176.6749]" />
+              <UNK_D8E03A3F spawn_position="[775.3314, 850.1584, 119.085]" UNK_100B5E15="[0.0, -0.0, 50.6024]" />
+            </UNK_3E64F9B4>
+            <UNK_89976A47>
+              <UNK_A85B4463 id="FIRST_CLUES_FOUND" />
+              <UNK_A85B4463 id="CLUES_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="CLUE_P_PAPER_02X" UNK_F5D3F1EC="PROP" UNK_CA822909="SEARCH_HOMESTEAD" spawn_position="[779.1487, 847.2631, 121.56]" UNK_100B5E15="[0.0, -0.0, 71.7385]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[779.1487, 847.2631, 121.56]" UNK_100B5E15="[0.0, -0.0, 71.7385]" />
+              <UNK_D8E03A3F spawn_position="[778.2485, 843.209, 121.743]" UNK_100B5E15="[0.0, -0.0, 71.7385]" />
+            </UNK_3E64F9B4>
+            <UNK_89976A47>
+              <UNK_A85B4463 id="FIRST_CLUES_FOUND" />
+              <UNK_A85B4463 id="CLUES_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="CLUE_P_PAPER_02X" UNK_F5D3F1EC="PROP" UNK_CA822909="SEARCH_HOMESTEAD" spawn_position="[777.626, 860.2189, 118.751]" UNK_100B5E15="[0.0, 0.0, 0.0]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[777.626, 860.2189, 118.751]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[769.9074, 853.7543, 118.222]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+            </UNK_3E64F9B4>
+            <UNK_89976A47>
+              <UNK_A85B4463 id="FIRST_CLUES_FOUND" />
+              <UNK_A85B4463 id="CLUES_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[819.239, 855.567, 115.726]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_REVOLVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_SIT_BACK_EXHAUSTED" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[768.799, 874.424, 119.955]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="98.954" spawn_position="[759.4, 840.057, 120.083]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[780.385, 851.466, 117.956]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_SHOTGUN" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STARE_STOIC" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[778.996, 843.892, 117.903]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[776.591, 847.883, 120.917]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard config="CAPITALE_CHEST_NOPLACE" UNK_F5D3F1EC="PROP" UNK_E03AE58C="REWARD_CAPITALE_CHEST_SMALL" spawn_position="[764.3114, 875.7419, 120.3503]" UNK_100B5E15="[0.0, 0.0, 133.9903]" />
+          <guard config="CAPITALE_CHEST" UNK_F5D3F1EC="PROP" UNK_E03AE58C="REWARD_CAPITALE_CHEST_SMALL" spawn_position="[775.6045, 843.5751, 120.9164]" UNK_100B5E15="[0.0, -0.0, 111.2624]" />
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="BED_20_MADE" UNK_F5D3F1EC="PROP" spawn_position="[778.449, 846.729, 120.925]" UNK_100B5E15="[0.0, 0.0, -69.621]" />
+          <static_prop config="AMBIENT_CHEST02X" UNK_F5D3F1EC="PROP" spawn_position="[778.096, 843.243, 120.931]" UNK_100B5E15="[0.0, 0.0, -162.172]" />
+          <static_prop config="AMBIENT_SUPPLY_WAGON_5_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[790.0804, 848.765, 116.7]" UNK_100B5E15="[-9.4416, -1.6005, -111.4194]" />
+          <static_prop config="AMBIENT_TABLE44X" UNK_F5D3F1EC="PROP" spawn_position="[774.5914, 842.992, 117.904]" UNK_100B5E15="[0.0, -0.0, -72.4852]" />
+          <static_prop config="AMBIENT_TABLEDINING05X" UNK_F5D3F1EC="PROP" spawn_position="[777.1069, 845.3813, 117.9056]" UNK_100B5E15="[0.0, 0.0, 16.3564]" />
+          <static_prop config="AMBIENT_CHAIR_13X" UNK_F5D3F1EC="PROP" spawn_position="[776.6808, 846.4756, 117.9089]" UNK_100B5E15="[0.0, 0.0, 16.3564]" />
+          <static_prop config="AMBIENT_CHAIR_15X" UNK_F5D3F1EC="PROP" spawn_position="[777.3474, 844.2363, 117.9039]" UNK_100B5E15="[0.0, -0.0, 155.4903]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene UNK_633329DE="OUTLAW_HOMESTEAD_CARMODY_DELL_INTRO" id="MISSION_START" UNK_5009852E="true" UNK_18F9D42A="[865.676, 518.659, 105.471]" UNK_4D7F4E70="CLOUDS_NIGHT" type="START_SKYLAPSE" />
+          <cutscene id="MISSION_END" UNK_F259B128="true">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="TARGET" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near25mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[-1.1, -20.3, -1.4]" UNK_A4678354="TURN_IN_VOL" UNK_42EA33CB="[-15.12, 12.24, 180.72]" />
+                <UNK_3AECE76F>
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_0" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_1" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_2" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_3" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_4" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_5" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_6" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot UNK_6A7B1E3F="OUTLAW_HOMESTEAD_CARMODY_DELL_OUTRO">
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="TARGET" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F text="" />
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_B450F15A="true" UNK_413A88="40000" UNK_2C628086="25000" UNK_66557D80="15" id="OUTLAW_GFH_HOMESTEAD_ROBBERY_2" UNK_7C1FCD5E="MODEL_CONFIG_SCARLETT_MEADOWS" UNK_C0F9D21B="MUSIC_OUTLAW_GFH_ROBBERY" UNK_CA597B13="true" UNK_5AB5EF23="1200000" UNK_17CC0711="true">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GO_TO_0" role="GO_TO_SYNCED">
+            <config UNK_7FD08239="FETCH_GOTO_HOMESTEAD" position="[1325.599, -2278.26, 47.144]" rotation="[0.0, 0.0, 0.0]" scale="[49.782, 49.782, 18.306]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="OBJECTIVE_SEARCH" role="SEARCH_AFTER_GO_TO">
+            <config position="[1327.452, -2283.494, 47.662]" rotation="[0.0, 0.0, 23.0]" scale="[25.0, 30.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="TURN_IN" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DEAD_DROP" position="[905.81, -1793.067, 42.819]" rotation="[0.0, 0.0, 315.741]" scale="[2.635, 10.01, 7.141]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="HOMESTEAD_FOUND" UNK_E798E305="PRIMARY" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="VOL_GO_TO_0">
+            <UNK_1331CF2C action="CREATE_VOLUME" UNK_CA822909="OBJECTIVE_SEARCH" />
+          </trigger>
+          <trigger id="PICKED_UP_BAG" role="ESCORTING" />
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" id="PICK_UP_BAG" UNK_E798E305="PRIMARY" UNK_3AB9F7DF="PICKED_UP_BAG">
+            <UNK_AE702DE>
+              <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_PICK_UP" />
+              <text id="OBJ_ESCORT_STEAL_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_PICK_UP" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <guards>
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[1323.34, -2277.487, 49.553]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_TABLE_SHARPEN_KNIFE" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[1326.321, -2287.551, 48.366]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="32.576" spawn_position="[1314.392, -2283.813, 49.292]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_REVOLVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_BADASS" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[1312.48, -2282.202, 48.22]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STERNGUY_IDLES" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="108.59" spawn_position="[1335.371, -2295.456, 48.12]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[1320.963, -2286.402, 49.56]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[1321.748, -2275.49, 49.51]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard config="CAPITALE_CHEST" UNK_F5D3F1EC="PROP" UNK_E03AE58C="REWARD_CAPITALE_CHEST_SMALL" spawn_position="[1317.795, -2288.052, 48.09095]" UNK_100B5E15="[0.0, 0.0, 11.5808]" />
+        </guards>
+        <objectives>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" UNK_76A4064="true" UNK_6F48D21D="OBJECTIVE_SEARCH" spawn_position="[1314.226, -2280.623, 49.514]" UNK_100B5E15="[0.0, 0.0, 31.322]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[1314.226, -2280.623, 49.614]" UNK_100B5E15="[0.0, 0.0, 31.322]" />
+              <UNK_D8E03A3F spawn_position="[1315.716, -2286.458, 48.4865]" UNK_100B5E15="[0.0, -0.0, 112.3847]" />
+              <UNK_D8E03A3F spawn_position="[1322.017, -2276.79, 50.5139]" UNK_100B5E15="[0.0, -0.0, 18.1808]" />
+            </UNK_3E64F9B4>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="HOMESTEAD_FOUND" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </objective>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_7C35C06D="2" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" UNK_76A4064="true" UNK_6F48D21D="OBJECTIVE_SEARCH" spawn_position="[1337.703, -2292.897, 48.114]" UNK_100B5E15="[0.0, 0.0, 108.949]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[1337.703, -2292.897, 48.314]" UNK_100B5E15="[0.0, 0.0, 108.949]" />
+              <UNK_D8E03A3F spawn_position="[1332.096, -2267.901, 49.6345]" UNK_100B5E15="[0.0, -0.0, 112.3847]" />
+              <UNK_D8E03A3F spawn_position="[1326.668, -2285.009, 49.5894]" UNK_100B5E15="[0.0, -0.0, -48.1899]" />
+            </UNK_3E64F9B4>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="HOMESTEAD_FOUND" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </objective>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_7C35C06D="3" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" UNK_76A4064="true" UNK_6F48D21D="OBJECTIVE_SEARCH" spawn_position="[1324.72, -2287.647, 48.3589]" UNK_100B5E15="[0.0, 0.0, 0.0]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[1324.72, -2287.647, 48.3589]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[1345.774, -2286.448, 47.6224]" UNK_100B5E15="[0.0, -0.0, 112.3847]" />
+              <UNK_D8E03A3F spawn_position="[1320.882, -2287.679, 49.7374]" UNK_100B5E15="[0.0, -0.0, -142.7414]" />
+            </UNK_3E64F9B4>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="HOMESTEAD_FOUND" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_TALL_LINE_COVER_14_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[1328.413, -2268.156, 48.4893]" UNK_100B5E15="[0.0, 0.0, -90.338]" />
+          <static_prop config="mp005_p_MP_Cover_SS_CH_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[1335.283, -2271.588, 48.3226]" UNK_100B5E15="[0.0, 0.0, 1.751]" />
+          <static_prop config="AMBIENT_LOW_L_COVER_12_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[1309.34, -2280.926, 48.2074]" UNK_100B5E15="[0.437, -3.8629, 31.4776]" />
+        </UNK_69FD74EB>
+        <UNK_5D1EFC39>
+          <prop_set config="WAGON_RAIDSUPPLY" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[1332.743, -2266.108, 48.506]" />
+        </UNK_5D1EFC39>
+        <cutscenes>
+          <cutscene UNK_633329DE="OUTLAW_HOMESTEAD_CATFISH_JACKSONS_INTRO" id="MISSION_START" UNK_5009852E="true" UNK_18F9D42A="[1213.37, -2149.427, 52.687]" UNK_4D7F4E70="CLOUDS_NIGHT" type="START_SKYLAPSE" />
+          <cutscene id="MISSION_END" UNK_F259B128="true">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="TARGET" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near25mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[9.9, 1.1, 1.7]" UNK_A4678354="TURN_IN_VOL" UNK_42EA33CB="[-3.6, -1.44, -136.8]" />
+                <UNK_3AECE76F>
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_0" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_1" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_2" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_3" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_4" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_5" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_6" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot UNK_6A7B1E3F="OUTLAW_HOMESTEAD_CATFISH_JACKSONS_OUTRO">
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="TARGET" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F text="" />
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_B450F15A="true" UNK_413A88="40000" UNK_2C628086="25000" UNK_66557D80="15" id="OUTLAW_GFH_HOMESTEAD_ROBBERY_3" UNK_7C1FCD5E="MODEL_CONFIG_GRIZZLIES" UNK_C0F9D21B="MUSIC_OUTLAW_GFH_ROBBERY" UNK_CA597B13="true" UNK_5AB5EF23="1200000" UNK_17CC0711="true">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GO_TO_0" role="GO_TO_SYNCED">
+            <config UNK_7FD08239="FETCH_GOTO_HOMESTEAD" position="[-408.6108, 1732.416, 215.7851]" rotation="[0.0, 0.0, 0.0]" scale="[49.9591, 49.9591, 20.9967]" type="CYLINDER" />
+          </volume>
+          <volume id="OBJECTIVE_SEARCH" role="SEARCH_AFTER_GO_TO">
+            <config position="[-406.638, 1734.684, 218.034]" rotation="[0.0, 0.0, 14.0]" scale="[26.0, 30.0, 15.0]" type="CYLINDER" />
+          </volume>
+          <volume id="TURN_IN" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DEAD_DROP" position="[-247.8222, 954.511, 137.9924]" rotation="[0.0, 0.0, 259.9717]" scale="[4.2333, 5.9041, 5.9253]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="HOMESTEAD_FOUND" UNK_E798E305="PRIMARY" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="VOL_GO_TO_0">
+            <UNK_1331CF2C action="CREATE_VOLUME" UNK_CA822909="OBJECTIVE_SEARCH" />
+          </trigger>
+          <trigger id="PICKED_UP_BAG" role="ESCORTING" />
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" id="PICK_UP_BAG" UNK_E798E305="PRIMARY" UNK_3AB9F7DF="PICKED_UP_BAG">
+            <UNK_AE702DE>
+              <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_PICK_UP" />
+              <text id="OBJ_ESCORT_STEAL_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_PICK_UP" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" UNK_76A4064="true" UNK_6F48D21D="OBJECTIVE_SEARCH" spawn_position="[-401.7748, 1733.435, 217.84]" UNK_100B5E15="[0.0, -0.0, 42.0213]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[-401.7748, 1733.435, 217.84]" UNK_100B5E15="[0.0, -0.0, 42.0213]" />
+              <UNK_D8E03A3F spawn_position="[-391.3761, 1728.645, 215.468]" UNK_100B5E15="[0.0, -0.0, 148.9704]" />
+              <UNK_D8E03A3F spawn_position="[-393.282, 1731.115, 215.496]" UNK_100B5E15="[0.0, -0.0, 11.8895]" />
+              <UNK_D8E03A3F spawn_position="[-400.6253, 1723.316, 215.4303]" UNK_100B5E15="[0.0, -0.0, -72.1526]" />
+            </UNK_3E64F9B4>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="HOMESTEAD_FOUND" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_7C35C06D="2" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" UNK_76A4064="true" UNK_6F48D21D="OBJECTIVE_SEARCH" spawn_position="[-411.2513, 1749.943, 218.3048]" UNK_100B5E15="[0.0, -0.0, -2.7612]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[-411.5266, 1749.758, 218.4811]" UNK_100B5E15="[0.0, -0.0, -2.7612]" />
+              <UNK_D8E03A3F spawn_position="[-412.4577, 1714.887, 215.4279]" UNK_100B5E15="[0.0, -0.0, 137.716]" />
+              <UNK_D8E03A3F spawn_position="[-398.522, 1736.009, 215.495]" UNK_100B5E15="[0.0, -0.0, 11.8895]" />
+            </UNK_3E64F9B4>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="HOMESTEAD_FOUND" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_7C35C06D="3" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" UNK_76A4064="true" UNK_6F48D21D="OBJECTIVE_SEARCH" spawn_position="[-418.3991, 1755.466, 215.4325]" UNK_100B5E15="[0.0, -0.0, 103.4437]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[-418.3991, 1755.466, 215.4325]" UNK_100B5E15="[0.0, -0.0, 103.4437]" />
+              <UNK_D8E03A3F spawn_position="[-394.4896, 1725.476, 215.5092]" UNK_100B5E15="[0.0, -0.0, -72.1526]" />
+              <UNK_D8E03A3F spawn_position="[-403.6122, 1731.87, 215.5393]" UNK_100B5E15="[0.0, -0.0, -73.673]" />
+            </UNK_3E64F9B4>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="HOMESTEAD_FOUND" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_FARMER_WEEDING" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="44.5768" spawn_position="[-399.2664, 1749.443, 215.2638]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[-395.5521, 1721.569, 215.1263]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_FARMER_RAKE" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="138.7889" spawn_position="[-411.2112, 1714.6, 215.1796]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_TABLE_SHARPEN_KNIFE" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="164.981" spawn_position="[-416.9262, 1734.709, 215.264]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_FARMER_RAKE" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="71.2975" spawn_position="[-415.3699, 1755.505, 215.2453]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STARE_STOIC" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[-417.2074, 1747.689, 215.257]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_REVOLVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="85.2245" spawn_position="[-397.4782, 1728.561, 215.491]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_BROOM_RESTING" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="85.2245" spawn_position="[-398.7253, 1734.878, 215.435]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="" config="MOUNT_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" spawn_heading="0.0" spawn_position="[-399.2393, 1714.497, 214.8804]" UNK_B78360CD="" />
+          <guard UNK_FBFA9394="" config="MOUNT_STAND_STILL" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" spawn_heading="0.0" spawn_position="[-397.4835, 1715.169, 214.9498]" UNK_B78360CD="" />
+          <guard config="CAPITALE_CHEST" UNK_F5D3F1EC="PROP" UNK_E03AE58C="REWARD_CAPITALE_CHEST_SMALL" spawn_position="[-394.7761, 1724.977, 215.4319]" UNK_100B5E15="[0.0, 0.0, -135.9111]" />
+          <guard config="CAPITALE_CHEST" UNK_F5D3F1EC="PROP" UNK_E03AE58C="REWARD_CAPITALE_CHEST_SMALL" spawn_position="[-426.2607, 1735.426, 215.576]" UNK_100B5E15="[0.0, 0.0, 156.9561]" />
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_BROKEN_WAGON_03_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[-409.9553, 1736.208, 215.178]" UNK_100B5E15="[0.0, 0.0, 83.8763]" />
+          <static_prop config="AMBIENT_STAGECOACH_01" UNK_F5D3F1EC="PROP" spawn_position="[-404.844, 1716.872, 215.0871]" UNK_100B5E15="[-7.0468, -3.3629, -132.5259]" />
+          <static_prop config="AMBIENT_COVER_H_SB_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[-407.4174, 1744.045, 215.2182]" UNK_100B5E15="[0.0, 0.0, 26.6504]" />
+          <static_prop config="mp005_p_MP_CoverComb_S_SB_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[-414.4696, 1733.152, 215.2603]" UNK_100B5E15="[0.0, 0.0, 26.6504]" />
+          <static_prop config="mp005_p_MP_Cover_SS_CH_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[-420.3134, 1727.516, 215.2553]" UNK_100B5E15="[0.0, 0.0, 26.6504]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene UNK_633329DE="OUTLAW_HOMESTEAD_CHEZ_PORTER_INTRO" id="MISSION_START" UNK_5009852E="true" UNK_18F9D42A="[-444.944, 1425.649, 204.765]" UNK_4D7F4E70="CLOUDS_NIGHT" type="START_SKYLAPSE" />
+          <cutscene id="MISSION_END" UNK_F259B128="true">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="TARGET" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near25mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[9.9, 8.3, -0.7]" UNK_A4678354="TURN_IN_VOL" UNK_42EA33CB="[-12.24, 12.24, -174.96]" />
+                <UNK_3AECE76F>
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_0" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_1" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_2" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_3" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_4" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_5" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_6" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot UNK_6A7B1E3F="OUTLAW_HOMESTEAD_CHEZ_PORTER_OUTRO">
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="TARGET" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F text="" />
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_B450F15A="true" UNK_32220272="true" UNK_413A88="40000" UNK_2C628086="25000" UNK_7676A094="true" UNK_66557D80="20" id="OUTLAW_GFH_HOMESTEAD_ROBBERY_4" UNK_7C1FCD5E="MODEL_CONFIG_NEW_AUSTIN" UNK_C0F9D21B="MUSIC_OUTLAW_GFH_ROBBERY" UNK_CA597B13="true" UNK_5AB5EF23="1200000" UNK_45FA832B="false" UNK_6CA47BC2="false" UNK_17CC0711="true" UNK_E7B32F19="true">
+        <UNK_AE702DE config="STANDARD">
+          <text id="HELP_TRIGGER_ACTION_0" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_SILENT_STEAD_LOCATION_HINT" />
+          <text id="HELP_TRIGGER_ACTION_1" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_SILENT_STEAD_LOCATION_REMINDER" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GO_TO_0" role="GO_TO_SYNCED">
+            <config UNK_7FD08239="FETCH_GOTO_HOMESTEAD" position="[-5547.856, -2404.847, -6.2693]" rotation="[0.0, 0.0, 0.0]" scale="[38.2526, 38.2526, 21.9178]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="SEARCH_HOMESTEAD" role="SEARCH_AFTER_GO_TO">
+            <config position="[-5548.799, -2398.186, -7.097]" rotation="[0.0, 0.0, 28.0]" scale="[15.0, 20.0, 5.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="OBJECTIVE_SEARCH" role="SEARCH">
+            <config position="[-5735.037, -2953.775, 5.347]" rotation="[0.0, 0.0, 4.0]" scale="[233.405, 647.664, 30.0]" type="BOX" />
+          </volume>
+          <volume id="TURN_IN" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DEAD_DROP" position="[-5414.042, -2920.788, 1.582]" rotation="[0.0, 0.0, 8.0]" scale="[4.0, 3.5, 3.0]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger id="HOMESTEAD_FOUND" UNK_E798E305="PRIMARY" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="SEARCH_HOMESTEAD" />
+          <trigger id="CLUES_INSPECTED" UNK_E798E305="PRIMARY" role="ALL_LINKED_CLUES_INSPECTED">
+            <UNK_1331CF2C action="HIDE_VOLUME_BLIP" UNK_CA822909="SEARCH_HOMESTEAD" />
+            <UNK_1331CF2C action="UNFREEZE_AND_WARP_ALL_PEDS" />
+            <UNK_1331CF2C action="CREATE_VOLUME" UNK_CA822909="OBJECTIVE_SEARCH" />
+            <UNK_1331CF2C action="SHOW_SCORETIMER" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT" UNK_5AB5EF23="1200000" />
+          </trigger>
+          <trigger UNK_45C2EE6F="CLUES_INSPECTED" id="LOCATION_HINT" UNK_E798E305="PRIMARY" role="PLAYER_LEFT_VOLUME" UNK_B71C8EA1="SEARCH_HOMESTEAD">
+            <UNK_1331CF2C action="HELP_TEXT_0" />
+          </trigger>
+          <trigger UNK_45C2EE6F="LOCATION_HINT" UNK_6E20B30A="120000" id="LOCATION_REMINDER" UNK_E798E305="PRIMARY" role="PLAYER_IN_VOLUME_FOR_MS" UNK_B71C8EA1="OBJECTIVE_SEARCH">
+            <UNK_1331CF2C action="HELP_TEXT_1" />
+          </trigger>
+          <trigger UNK_45C2EE6F="CLUES_INSPECTED" UNK_2A5A1C92="0" id="NEAR_OBJECTIVE" UNK_E798E305="PRIMARY" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE" UNK_4B061377="25.0">
+            <UNK_1331CF2C action="HIDE_VOLUME_BLIP" UNK_CA822909="OBJECTIVE_SEARCH" />
+            <UNK_1331CF2C action="DESTROY_VOLUME" UNK_CA822909="SEARCH_HOMESTEAD" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+            <UNK_1331CF2C action="SHOW_OBJECTIVE_ENTITY_BLIP" UNK_2A5A1C92="0" />
+            <UNK_1331CF2C action="SHOW_OBJECTIVE_ENTITY_BLIP" UNK_2A5A1C92="1" />
+            <UNK_1331CF2C action="SHOW_ALL_PED_BLIPS" />
+            <UNK_1331CF2C action="SET_TRIGGER_FAILED" id="LOCATION_REMINDER" />
+            <UNK_1331CF2C action="DISABLE_ALL_CLUES" />
+            <UNK_1331CF2C action="MARK_OBJECTIVES_FOUND" />
+          </trigger>
+          <trigger id="ESCORTING" role="ESCORTING">
+            <UNK_1331CF2C action="SET_AGGRO_GROUP_AGGROED" UNK_FBFA9394="0" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_AFA1A396="true" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" UNK_76A4064="true" UNK_94808196="true">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[-5696.009, -2744.323, -2.3117]" UNK_100B5E15="[0.0, -0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-5829.31, -2953.853, 3.8956]" UNK_100B5E15="[0.0, -0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-5652.299, -2859.189, 0.8822]" UNK_100B5E15="[0.0, -0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-5655.282, -3079.441, 4.0644]" UNK_100B5E15="[0.0, -0.0, 0.0]" />
+            </UNK_3E64F9B4>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CLUES_INSPECTED" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </objective>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_AFA1A396="true" UNK_7C35C06D="2" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" UNK_76A4064="true" UNK_94808196="true">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[-5697.012, -2743.897, -2.2711]" UNK_100B5E15="[0.0, -0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-5830.177, -2953.999, 3.8967]" UNK_100B5E15="[0.0, -0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-5653.811, -2859.012, 0.75]" UNK_100B5E15="[0.0, -0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-5654.182, -3079.115, 3.8527]" UNK_100B5E15="[0.0, -0.0, 0.0]" />
+            </UNK_3E64F9B4>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CLUES_INSPECTED" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="NEAR_OBJECTIVE" id="FIND_VALUABLES" UNK_3AB9F7DF="CLUES_INSPECTED">
+            <UNK_AE702DE>
+              <text id="OBJ_SEARCH_AREA" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_SEARCH_AREA_2" />
+              <text id="OBJ_SEARCH_AREA_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_SEARCH_AREA_2" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+          <UNK_B7728790 UNK_A3946F49="false" id="PICK_UP_BAG" UNK_E798E305="PRIMARY" UNK_3AB9F7DF="ESCORTING">
+            <UNK_AE702DE>
+              <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_PICK_UP" />
+              <text id="OBJ_ESCORT_STEAL_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_PICK_UP" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <guards>
+          <guard config="AMBIENT_SHOVEL_4" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_94808196="true">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[-5696.081, -2743.667, -0.8082]" UNK_100B5E15="[172.0, -0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-5829.691, -2954.237, 5.208]" UNK_100B5E15="[172.0, -0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-5652.835, -2860.114, 2.0587]" UNK_100B5E15="[172.0, -0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-5654.505, -3079.895, 5.2354]" UNK_100B5E15="[172.0, -0.0, 0.0]" />
+            </UNK_3E64F9B4>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CLUES_INSPECTED" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_FBFA9394="0" UNK_D8BBC5B5="true" UNK_4760F230="true" config="GUARD_BANDIT_PISTOL" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_AFA1A396="true" UNK_5129B6FC="EA_WORLD_HUMAN_PICKAXE_NEW" UNK_CAB34408="false" UNK_94808196="true" UNK_4F2F1B6="true">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_heading="98.8632" spawn_position="[-5699.276, -2743.562, -2.4587]" />
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-5824.433, -2956.314, 4.515]" />
+              <UNK_D8E03A3F spawn_heading="18.7559" spawn_position="[-5655.012, -2855.615, 0.5327]" />
+              <UNK_D8E03A3F spawn_heading="115.6411" spawn_position="[-5657.954, -3079.961, 4.6112]" />
+            </UNK_3E64F9B4>
+          </guard>
+          <guard UNK_FBFA9394="1" config="MOUNT_STAND_STILL" UNK_F5D3F1EC="PED" UNK_48103186="true" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_ANIMAL_HORSE_GRAZING_DOMESTIC" UNK_94808196="true">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-5692.962, -2741.995, -1.8339]" />
+              <UNK_D8E03A3F spawn_heading="37.7133" spawn_position="[-5831.611, -2956.589, 4.3136]" />
+              <UNK_D8E03A3F spawn_heading="58.9154" spawn_position="[-5656.004, -2863.035, 0.6295]" />
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-5653.325, -3074.166, 3.5603]" />
+            </UNK_3E64F9B4>
+          </guard>
+          <guard UNK_FBFA9394="2" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="24.1261" spawn_position="[-5554.125, -2392.55, -10.0543]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="2" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_BACK_WALL_SMOKING" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="28.08" spawn_position="[-5549.665, -2402.496, -9.7297]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="2" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STERNGUY_IDLES" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[-5554.759, -2401.137, -9.7449]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="2" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_COFFEE_DRINK" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="139.7804" spawn_position="[-5555.362, -2398.995, -9.7357]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="2" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[-5539.487, -2403.815, -10.2371]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard config="CLUE_P_PAPER_02X" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_SILENT_STEAD_NOTE_FOUND" UNK_CA822909="SEARCH_HOMESTEAD" UNK_6F48D21D="SEARCH_HOMESTEAD" spawn_position="[-5560.951, -2384.419, -8.6059]" UNK_100B5E15="[0.0, -0.0, 25.753]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[-5560.951, -2384.419, -8.6059]" UNK_100B5E15="[0.0, -0.0, 25.753]" />
+              <UNK_D8E03A3F spawn_position="[-5552.876, -2399.553, -8.926]" UNK_100B5E15="[0.0, -0.0, -94.655]" />
+              <UNK_D8E03A3F spawn_position="[-5550.046, -2396.936, -9.735]" UNK_100B5E15="[0.0, -0.0, -17.6483]" />
+            </UNK_3E64F9B4>
+            <UNK_89976A47>
+              <UNK_A85B4463 id="CLUES_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="CLUE_P_PAPER_02X" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_NOTE" UNK_AD4E358A="true" UNK_CA822909="SEARCH_HOMESTEAD" spawn_position="[-5544.25, -2403.492, -9.31]" UNK_100B5E15="[0.0, 0.0, 342.3517]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[-5544.25, -2403.492, -9.31]" UNK_100B5E15="[0.0, 0.0, 342.3517]" />
+              <UNK_D8E03A3F spawn_position="[-5558.421, -2395.111, -9.503]" UNK_100B5E15="[0.0, 0.0, 342.3517]" />
+            </UNK_3E64F9B4>
+          </guard>
+          <guard config="CLUE_P_PAPER_02X" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_NOTE" UNK_AD4E358A="true" UNK_CA822909="SEARCH_HOMESTEAD" spawn_position="[-5537.395, -2407.912, -9.043]" UNK_100B5E15="[0.0, -0.0, 70.2692]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[-5537.395, -2407.912, -9.043]" UNK_100B5E15="[0.0, -0.0, 70.2692]" />
+              <UNK_D8E03A3F spawn_position="[-5552.4, -2402.388, -9.713]" UNK_100B5E15="[0.0, -0.0, 45.631]" />
+            </UNK_3E64F9B4>
+          </guard>
+          <guard config="BOUNTY_TRACKING_CLUE_SHOVEL" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_SHOVEL" UNK_E2A4987A="8" UNK_AF3C7779="GUARD" UNK_CA822909="OBJECTIVE_SEARCH">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[-5741.581, -2633.917, -4.7038]" UNK_100B5E15="[172.0, -0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-5642.741, -2991.198, -2.3319]" UNK_100B5E15="[172.0, -0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-5669.164, -2887.189, 0.9452]" UNK_100B5E15="[172.0, -0.0, 0.0]" />
+            </UNK_3E64F9B4>
+          </guard>
+          <guard config="BOUNTY_TRACKING_CLUE_TRAP_BACKPACK" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_BACKPACK" UNK_E2A4987A="8" UNK_AF3C7779="GUARD" UNK_CA822909="OBJECTIVE_SEARCH">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[-5649.41, -2786.544, -0.77]" UNK_100B5E15="[0.0, -0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-5857.187, -2907.936, -3.8321]" UNK_100B5E15="[0.0, -0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-5717.453, -2720.73, -2.8358]" UNK_100B5E15="[0.0, -0.0, 0.0]" />
+            </UNK_3E64F9B4>
+          </guard>
+          <guard config="BOUNTY_TRACKING_CLUE_EMPTY_SACK" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_SACK" UNK_E2A4987A="8" UNK_AF3C7779="GUARD" UNK_CA822909="OBJECTIVE_SEARCH" UNK_94808196="true">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[-5693.679, -2765.907, -3.3448]" UNK_100B5E15="[0.0, -0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-5837.785, -2932.23, 0.5137]" UNK_100B5E15="[0.0, -0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-5640.193, -2839.405, -1.3752]" UNK_100B5E15="[0.0, -0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-5653.878, -3056.484, 1.7551]" UNK_100B5E15="[0.0, -0.0, 0.0]" />
+            </UNK_3E64F9B4>
+          </guard>
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_MPCOVER_GUNSLINGER02_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[-5546.559, -2386.741, -10.2175]" UNK_100B5E15="[-3.4537, -3.5733, 125.108]" />
+          <static_prop config="AMBIENT_MPCOVER_GUNSLINGER03_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[-5546.559, -2414.041, -10.3363]" UNK_100B5E15="[0.0, 0.0, -174.8193]" />
+          <static_prop config="AMBIENT_MPCOVER_GUNSLINGER04_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[-5556.77, -2410.286, -10.336]" UNK_100B5E15="[0.0, 0.0, -165.8645]" />
+        </UNK_69FD74EB>
+        <UNK_5D1EFC39>
+          <prop_set config="WAGON_RAIDSUPPLY" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5548.678, -2409.28, -10.2151]" />
+          <prop_set config="CAMPSITE_EXCONFEDERATE_GANG_02" placement_type="PROPSET_ALIGN_TO_GROUND" spawn_heading="0.0" spawn_position="[-5540.008, -2402.507, -9.999]" />
+        </UNK_5D1EFC39>
+        <cutscenes>
+          <cutscene UNK_633329DE="OUTLAW_HOMESTEAD_SILENT_STEAD_INTRO" id="MISSION_START" UNK_5009852E="true" UNK_18F9D42A="[-5282.68, -2306.097, -6.356]" UNK_4D7F4E70="CLOUDS_NIGHT" type="START_SKYLAPSE" />
+          <cutscene id="MISSION_END" UNK_F259B128="true">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="TARGET" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near25mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[-15.5, -18.3, -0.8]" UNK_A4678354="TURN_IN_VOL" UNK_42EA33CB="[-7.92, 5.76, 172.8]" />
+                <UNK_3AECE76F>
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_0" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_1" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_2" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_3" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_4" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_5" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_6" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot UNK_6A7B1E3F="OUTLAW_HOMESTEAD_SILENT_STEAD_OUTRO">
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="TARGET" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F text="" />
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_B450F15A="true" UNK_32220272="true" UNK_413A88="40000" UNK_2C628086="25000" UNK_7676A094="true" UNK_66557D80="10" id="OUTLAW_GFH_HOMESTEAD_ROBBERY_5" UNK_7C1FCD5E="MODEL_CONFIG_NEW_AUSTIN" UNK_C0F9D21B="MUSIC_OUTLAW_GFH_ROBBERY" UNK_CA597B13="true" UNK_5AB5EF23="1200000" UNK_45FA832B="false" UNK_6CA47BC2="false" UNK_17CC0711="true" UNK_E7B32F19="true">
+        <UNK_AE702DE config="STANDARD">
+          <text id="HELP_TRIGGER_ACTION_0" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_VENTERS_LOCATION_HINT" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GO_TO_0" role="GO_TO_SYNCED">
+            <config UNK_7FD08239="FETCH_GOTO_HOMESTEAD" position="[-3551.589, -3031.518, 13.1902]" rotation="[0.0, 0.0, 0.0]" scale="[41.0842, 41.0842, 18.0051]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="SEARCH_HOMESTEAD" role="SEARCH_AFTER_GO_TO">
+            <config position="[-3548.814, -3034.43, 13.19]" rotation="[0.0, 0.0, 20.0]" scale="[23.0, 32.0, 15.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="OBJECTIVE_SEARCH" role="SEARCH">
+            <config position="[-2615.031, -3083.854, 14.969]" rotation="[0.0, 0.0, 17.0]" scale="[1000.0, 200.0, 70.0]" type="BOX" />
+          </volume>
+          <volume id="TURN_IN" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DEAD_DROP" position="[-3663.993, -2634.921, -9.81445]" rotation="[0.0, 0.0, 0.0]" scale="[5.0, 6.0, 3.0]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger id="HOMESTEAD_FOUND" UNK_E798E305="PRIMARY" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="SEARCH_HOMESTEAD" />
+          <trigger id="CLUES_INSPECTED" UNK_E798E305="PRIMARY" role="ALL_LINKED_CLUES_INSPECTED">
+            <UNK_1331CF2C action="HIDE_VOLUME_BLIP" UNK_CA822909="SEARCH_HOMESTEAD" />
+            <UNK_1331CF2C action="DISABLE_ALL_CLUES" />
+            <UNK_1331CF2C action="UNFREEZE_AND_WARP_ALL_PEDS" />
+            <UNK_1331CF2C action="CREATE_VOLUME" UNK_CA822909="OBJECTIVE_SEARCH" />
+            <UNK_1331CF2C action="SHOW_SCORETIMER" />
+            <UNK_1331CF2C action="SET_TIME_LIMIT" UNK_5AB5EF23="1200000" />
+          </trigger>
+          <trigger UNK_45C2EE6F="CLUES_INSPECTED" id="LOCATION_HINT" UNK_E798E305="PRIMARY" role="PLAYER_LEFT_VOLUME" UNK_B71C8EA1="SEARCH_HOMESTEAD">
+            <UNK_1331CF2C action="HELP_TEXT_0" />
+          </trigger>
+          <trigger UNK_45C2EE6F="CLUES_INSPECTED" UNK_2A5A1C92="0" id="NEAR_OBJECTIVE" UNK_E798E305="PRIMARY" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE" UNK_4B061377="20.0">
+            <UNK_1331CF2C action="HIDE_VOLUME_BLIP" UNK_CA822909="OBJECTIVE_SEARCH" />
+            <UNK_1331CF2C action="DESTROY_VOLUME" UNK_CA822909="SEARCH_HOMESTEAD" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+            <UNK_1331CF2C action="SHOW_OBJECTIVE_ENTITY_BLIP" UNK_2A5A1C92="0" />
+            <UNK_1331CF2C action="SHOW_OBJECTIVE_ENTITY_BLIP" UNK_2A5A1C92="1" />
+            <UNK_1331CF2C action="SHOW_ALL_PED_BLIPS" />
+            <UNK_1331CF2C action="MARK_OBJECTIVES_FOUND" />
+          </trigger>
+          <trigger id="ESCORTING" role="ESCORTING">
+            <UNK_1331CF2C action="SET_AGGRO_GROUP_AGGROED" UNK_FBFA9394="9" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_AFA1A396="true" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" UNK_76A4064="true" UNK_94808196="true">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-2440.675, -3105.742, 1.8347]" />
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-2449.415, -3031.151, 11.6967]" />
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-2318.183, -3023.421, 0.2438]" />
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-2256.603, -2919.128, 14.4]" />
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-2560.28, -3079.547, 11.4969]" />
+            </UNK_3E64F9B4>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CLUES_INSPECTED" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </objective>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_AFA1A396="true" UNK_7C35C06D="2" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" UNK_76A4064="true" UNK_94808196="true">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-2449.525, -3112.448, 1.0613]" />
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-2459.178, -3032.059, 11.6866]" />
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-2310.0, -3032.215, -0.8844]" />
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-2265.637, -2920.838, 14.3225]" />
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-2557.734, -3090.243, 10.422]" />
+            </UNK_3E64F9B4>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CLUES_INSPECTED" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="NEAR_OBJECTIVE" id="FIND_VALUABLES" UNK_3AB9F7DF="CLUES_INSPECTED">
+            <UNK_AE702DE>
+              <text id="OBJ_SEARCH_AREA" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_CATCH_UP" />
+              <text id="OBJ_SEARCH_AREA_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_CATCH_UP" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+          <UNK_B7728790 UNK_A3946F49="false" id="PICK_UP_BAG" UNK_E798E305="PRIMARY" UNK_3AB9F7DF="ESCORTING">
+            <UNK_AE702DE>
+              <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_PICK_UP" />
+              <text id="OBJ_ESCORT_STEAL_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_PICK_UP" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <guards>
+          <guard UNK_D8BBC5B5="true" UNK_4760F230="true" config="DEAD_BANDIT" UNK_F5D3F1EC="PED" UNK_48103186="false" UNK_AFA1A396="true" UNK_7BA579E4="MP_A_M_M_UNICORPSE_01" outfit="MP_DYNAMIC_HOMEROBBERY_01" UNK_CAB34408="false" UNK_94808196="true">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_heading="39.3623" spawn_position="[-2448.716, -3109.223, 1.2384]" />
+              <UNK_D8E03A3F spawn_heading="39.3623" spawn_position="[-2450.333, -3030.337, 11.7607]" />
+              <UNK_D8E03A3F spawn_heading="39.3623" spawn_position="[-2314.306, -3028.729, -0.0178]" />
+              <UNK_D8E03A3F spawn_heading="39.3623" spawn_position="[-2263.684, -2919.004, 14.6759]" />
+              <UNK_D8E03A3F spawn_heading="39.3623" spawn_position="[-2560.263, -3089.144, 10.8505]" />
+            </UNK_3E64F9B4>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CLUES_INSPECTED" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="DEAD_HORSE" UNK_F5D3F1EC="PED" UNK_48103186="false" UNK_AFA1A396="true" UNK_9026485E="false" UNK_94808196="true">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-2444.012, -3106.316, 1.6886]" />
+              <UNK_D8E03A3F spawn_heading="55.648" spawn_position="[-2457.858, -3029.615, 11.6504]" />
+              <UNK_D8E03A3F spawn_heading="172.0863" spawn_position="[-2311.744, -3031.828, -0.7119]" />
+              <UNK_D8E03A3F spawn_heading="39.3623" spawn_position="[-2263.384, -2919.104, 14.6759]" />
+              <UNK_D8E03A3F spawn_heading="19.2397" spawn_position="[-2560.896, -3075.775, 11.9215]" />
+            </UNK_3E64F9B4>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CLUES_INSPECTED" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard config="BLOODSPLATTER" UNK_F5D3F1EC="PROP" UNK_94808196="true">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-2448.816, -3109.523, 1.2384]" />
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-2450.433, -3030.637, 11.7607]" />
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-2314.406, -3028.999, -0.0178]" />
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-2265.838, -2924.208, 13.8539]" />
+              <UNK_D8E03A3F spawn_heading="0.0" spawn_position="[-2560.363, -3089.444, 10.8505]" />
+            </UNK_3E64F9B4>
+          </guard>
+          <guard config="CLUE_P_PAPER_02X" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_VENTERS_NOTE_FOUND" UNK_CA822909="SEARCH_HOMESTEAD" UNK_6F48D21D="SEARCH_HOMESTEAD" spawn_position="[-3546.801, -3030.739, 11.9074]" UNK_100B5E15="[0.0, 0.0, 0.0]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[-3546.801, -3030.739, 11.9074]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-3561.59, -3043.939, 10.8718]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-3534.31, -3056.918, 12.3066]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-3552.04, -3009.448, 11.608]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+            </UNK_3E64F9B4>
+            <UNK_89976A47>
+              <UNK_A85B4463 id="CLUES_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="CLUE_P_PAPER_01X" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_NOTE" UNK_AD4E358A="true" UNK_CA822909="SEARCH_HOMESTEAD" spawn_position="[-3556.048, -3008.508, 11.618]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <guard config="CLUE_P_PAPER_01X" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_NOTE" UNK_AD4E358A="true" UNK_CA822909="SEARCH_HOMESTEAD" spawn_position="[-3552.632, -3014.82, 10.852]" UNK_100B5E15="[0.0, -0.0, 82.5836]" />
+          <guard config="CLUE_P_PAPER_01X" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_NOTE" UNK_AD4E358A="true" UNK_CA822909="SEARCH_HOMESTEAD" spawn_position="[-3562.506, -3025.944, 10.9317]" UNK_100B5E15="[0.0, -0.0, 61.223]" />
+          <guard config="CLUE_P_PAPER_01X" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_NOTE" UNK_AD4E358A="true" UNK_CA822909="SEARCH_HOMESTEAD" spawn_position="[-3550.06, -3047.506, 11.431]" UNK_100B5E15="[-1.3793, 0.8824, -147.3952]" />
+          <guard config="CLUE_P_PAPER_01X" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_NOTE" UNK_AD4E358A="true" UNK_CA822909="SEARCH_HOMESTEAD" spawn_position="[-3538.358, -3050.042, 10.9901]" UNK_100B5E15="[0.0, -0.0, 61.223]" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_CROUCH_INSPECT" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[-3564.575, -3042.842, 10.8336]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_RAILING_DRINKING" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[-3548.361, -3013.305, 10.8418]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[-3549.792, -3008.774, 10.8229]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_REVOLVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_DRINK_FLASK" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="156.9798" spawn_position="[-3549.018, -3007.492, 10.808]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_FIRE_TEND_KNEEL" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="135.9798" spawn_position="[-3542.402, -3027.549, 10.9089]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_WRITE_NOTEBOOK" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="158.8882" spawn_position="[-3534.126, -3053.691, 11.1374]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+        </guards>
+        <UNK_554382DA>
+          <UNK_76F238FD UNK_4C6EE98D="ESCORTING">
+            <UNK_1C7D3F9C UNK_FBFA9394="9" config="GUARD_COUGAR" UNK_F5D3F1EC="PED" UNK_7C35C06D="" spawn_heading="0.0" spawn_position="[-2238.664, -2940.747, 10.56556]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C UNK_FBFA9394="9" config="GUARD_COUGAR" UNK_F5D3F1EC="PED" UNK_7C35C06D="2" spawn_heading="0.0" spawn_position="[-2233.457, -2933.194, 10.11596]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C UNK_FBFA9394="9" config="GUARD_COUGAR" UNK_F5D3F1EC="PED" UNK_7C35C06D="" spawn_heading="0.0" spawn_position="[-2285.75, -3035.598, -2.81449]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C UNK_FBFA9394="9" config="GUARD_COUGAR" UNK_F5D3F1EC="PED" UNK_7C35C06D="2" spawn_heading="0.0" spawn_position="[-2301.897, -3051.983, -2.02892]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C UNK_FBFA9394="9" config="GUARD_COUGAR" UNK_F5D3F1EC="PED" UNK_7C35C06D="" spawn_heading="0.0" spawn_position="[-2431.011, -3115.906, 0.14183]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C UNK_FBFA9394="9" config="GUARD_COUGAR" UNK_F5D3F1EC="PED" UNK_7C35C06D="2" spawn_heading="0.0" spawn_position="[-2406.765, -3109.143, -2.51805]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C UNK_FBFA9394="9" config="GUARD_COUGAR" UNK_F5D3F1EC="PED" UNK_7C35C06D="" spawn_heading="0.0" spawn_position="[-2477.692, -3038.022, 9.16616]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C UNK_FBFA9394="9" config="GUARD_COUGAR" UNK_F5D3F1EC="PED" UNK_7C35C06D="2" spawn_heading="0.0" spawn_position="[-2473.896, -3026.043, 9.92899]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C UNK_FBFA9394="9" config="GUARD_COUGAR" UNK_F5D3F1EC="PED" UNK_7C35C06D="" spawn_heading="150.0" spawn_position="[-2548.419, -3051.271, 11.48534]" UNK_B78360CD="true" />
+            <UNK_1C7D3F9C UNK_FBFA9394="9" config="GUARD_COUGAR" UNK_F5D3F1EC="PED" UNK_7C35C06D="2" spawn_heading="291.0" spawn_position="[-2582.441, -3055.09, 10.19001]" UNK_B78360CD="true" />
+          </UNK_76F238FD>
+        </UNK_554382DA>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_HAYCART_02_NO_PLACE_ON_GROUND" UNK_F5D3F1EC="PROP" spawn_position="[-3551.482, -3036.13, 10.791]" UNK_100B5E15="[0.0, 0.0, -170.8856]" />
+          <static_prop config="AMBIENT_HAYCART_01_NO_PLACE_ON_GROUND" UNK_F5D3F1EC="PROP" spawn_position="[-3534.015, -3055.964, 11.1858]" UNK_100B5E15="[0.0, 0.0, -148.7152]" />
+          <static_prop config="AMBIENT_CHAIR_05X" UNK_F5D3F1EC="PROP" spawn_position="[-3550.048, -3047.69, 10.9699]" UNK_100B5E15="[0.0, -0.0, -147.3846]" />
+        </UNK_69FD74EB>
+        <UNK_5D1EFC39>
+          <prop_set config="MP007_TANNER_CAMP_03X" placement_type="ALIGN_AS_ONE" spawn_heading="117.6275" spawn_position="[-3563.823, -3042.59, 10.8373]" />
+          <prop_set config="CAMPSITE_SMALL_06" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-3543.243, -3028.798, 10.929]" />
+        </UNK_5D1EFC39>
+        <cutscenes>
+          <cutscene UNK_633329DE="OUTLAW_HOMESTEAD_VENTERS_PLACE_INTRO" id="MISSION_START" UNK_5009852E="true" UNK_18F9D42A="[-3128.33, -3099.456, 0.656]" UNK_4D7F4E70="CLOUDS_NIGHT" type="START_SKYLAPSE" />
+          <cutscene id="MISSION_END" UNK_F259B128="true">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="TARGET" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near25mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[-0.4, 2.4, -1.4]" UNK_A4678354="TURN_IN_VOL" UNK_42EA33CB="[-1.44, 3.6, 264.96]" />
+                <UNK_3AECE76F>
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_0" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_1" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_2" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_3" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_4" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_5" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_6" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot UNK_6A7B1E3F="OUTLAW_HOMESTEAD_VENTERS_PLACE_OUTRO">
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="TARGET" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F text="" />
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_B450F15A="true" UNK_413A88="40000" UNK_2C628086="25000" UNK_66557D80="15" id="OUTLAW_GFH_HOMESTEAD_ROBBERY_6" UNK_7C1FCD5E="MODEL_CONFIG_HEARTLANDS" UNK_C0F9D21B="MUSIC_OUTLAW_GFH_ROBBERY" UNK_CA597B13="true" UNK_5AB5EF23="1200000" UNK_17CC0711="true">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GO_TO_0" role="GO_TO_SYNCED">
+            <config UNK_7FD08239="FETCH_GOTO_HOMESTEAD" position="[-618.5184, -33.2422, 75.9974]" rotation="[0.0, 0.0, 0.0]" scale="[57.0087, 57.0087, 56.3556]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="OBJECTIVE_SEARCH" role="SEARCH_AFTER_GO_TO">
+            <config position="[-621.336, -41.913, 75.997]" rotation="[0.0, 0.0, -18.0]" scale="[28.0, 40.0, 15.0]" type="CYLINDER" />
+          </volume>
+          <volume id="TURN_IN" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DEAD_DROP" position="[-333.666, -354.014, 88.8746]" rotation="[0.0, 0.0, 115.5846]" scale="[5.9737, 5.5284, 6.6158]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="HOMESTEAD_FOUND" UNK_E798E305="PRIMARY" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="VOL_GO_TO_0">
+            <UNK_1331CF2C action="CREATE_VOLUME" UNK_CA822909="OBJECTIVE_SEARCH" />
+          </trigger>
+          <trigger id="PICKED_UP_BAG" role="ESCORTING" />
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" id="PICK_UP_BAG" UNK_E798E305="PRIMARY" UNK_3AB9F7DF="PICKED_UP_BAG">
+            <UNK_AE702DE>
+              <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_PICK_UP" />
+              <text id="OBJ_ESCORT_STEAL_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_PICK_UP" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" UNK_76A4064="true" UNK_6F48D21D="OBJECTIVE_SEARCH" spawn_position="[-615.6913, -33.5448, 84.9735]" UNK_100B5E15="[0.0, 0.0, -111.1112]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[-615.6913, -33.5448, 84.9735]" UNK_100B5E15="[0.0, 0.0, -111.1112]" />
+              <UNK_D8E03A3F spawn_position="[-615.6968, -31.3575, 84.4885]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-624.8332, -71.0818, 81.9176]" UNK_100B5E15="[0.0, -0.0, 15.2912]" />
+              <UNK_D8E03A3F spawn_position="[-609.8964, -36.4146, 84.9736]" UNK_100B5E15="[0.0, -0.0, -136.9478]" />
+            </UNK_3E64F9B4>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="HOMESTEAD_FOUND" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_7C35C06D="2" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" UNK_76A4064="true" UNK_6F48D21D="OBJECTIVE_SEARCH">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[-632.6414, -70.7804, 82.0212]" UNK_100B5E15="[0.0, -0.0, 111.4942]" />
+              <UNK_D8E03A3F spawn_position="[-610.0256, -32.332, 85.0666]" UNK_100B5E15="[0.0, -0.0, -69.5177]" />
+            </UNK_3E64F9B4>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="HOMESTEAD_FOUND" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_7C35C06D="3" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" UNK_76A4064="true" UNK_6F48D21D="OBJECTIVE_SEARCH" spawn_position="[-625.5624, -14.358, 86.6203]" UNK_100B5E15="[0.0, 0.0, 0.0]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[-624.9738, -13.4181, 85.6006]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+              <UNK_D8E03A3F spawn_position="[-625.1432, -67.6418, 81.9402]" UNK_100B5E15="[0.0, -0.0, 100.3744]" />
+            </UNK_3E64F9B4>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="HOMESTEAD_FOUND" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="162.9621" spawn_position="[-627.5649, -71.1409, 81.8561]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_REVOLVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_TABLE_SHARPEN_KNIFE" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="16.9545" spawn_position="[-628.6118, -48.0403, 82.6478]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="24.4182" spawn_position="[-611.3204, -15.0914, 85.6271]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[-605.2227, -29.2789, 85.0121]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_CROUCH_INSPECT" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[-607.7963, -41.4325, 84.0076]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_FARMER_WEEDING" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[-618.2148, -36.119, 84.2975]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="40.1558" spawn_position="[-612.9276, -23.2055, 84.9763]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_REVOLVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[-608.309, -34.9912, 84.9736]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="" config="GUARD_DOG" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" spawn_heading="0.0" spawn_position="[-607.6279, -42.6837, 83.9836]" UNK_B78360CD="" />
+          <guard config="CAPITALE_CHEST" UNK_F5D3F1EC="PROP" UNK_E03AE58C="REWARD_CAPITALE_CHEST_SMALL" spawn_position="[-607.9047, -32.0728, 84.97356]" UNK_100B5E15="[0.0, -0.0, -4.0832]" />
+          <guard config="CAPITALE_CHEST" UNK_F5D3F1EC="PROP" UNK_E03AE58C="REWARD_CAPITALE_CHEST_SMALL" spawn_position="[-611.0044, -22.8809, 84.97]" UNK_100B5E15="[0.0, -0.0, -63.8989]" />
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_HAYCART_01_NO_PLACE_ON_GROUND" UNK_F5D3F1EC="PROP" spawn_position="[-631.9206, -38.5079, 84.044]" UNK_100B5E15="[-5.6757, -1.0442, -176.3336]" />
+          <static_prop config="AMBIENT_HAYBALE_01_NOSNAP" UNK_F5D3F1EC="PROP" spawn_position="[-616.3335, -9.2902, 85.6524]" UNK_100B5E15="[0.0, 0.0, -112.2858]" />
+          <static_prop config="MP001_P_MP_HAYBALECOVER03X_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[-608.1302, -47.2321, 83.6934]" UNK_100B5E15="[-4.5282, -0.7508, -171.4087]" />
+          <static_prop config="AMBIENT_LOG_STACK_NO_PLACE_ON_GROUND" UNK_F5D3F1EC="PROP" spawn_position="[-602.0251, -36.6578, 84.0823]" UNK_100B5E15="[0.0, 0.0, 62.2466]" />
+          <static_prop config="AMBIENT_MPCOVER_GUNSLINGER08_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[-624.403, -29.533, 84.5724]" UNK_100B5E15="[3.65, -1.7076, 44.4991]" />
+          <static_prop config="AMBIENT_MPCOVER_GUNSLINGER03_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[-627.9868, -50.9589, 82.1233]" UNK_100B5E15="[2.0812, 7.817, -72.0418]" />
+        </UNK_69FD74EB>
+        <UNK_5D1EFC39>
+          <prop_set config="WAGON_RAIDSUPPLY" placement_type="ALIGN_AS_ONE" spawn_heading="154.1157" spawn_position="[-626.1368, -15.8695, 85.363]" />
+          <prop_set config="STUCK_WAGON_05" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-639.9254, -50.065, 81.9299]" />
+        </UNK_5D1EFC39>
+        <cutscenes>
+          <cutscene UNK_633329DE="OUTLAW_HOMESTEAD_PAINTED_SKY_INTRO" id="MISSION_START" UNK_5009852E="true" UNK_18F9D42A="[-773.646, -143.344, 79.616]" UNK_4D7F4E70="CLOUDS_NIGHT" type="START_SKYLAPSE" />
+          <cutscene id="MISSION_END" UNK_F259B128="true">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="TARGET" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near25mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[8.0, 13.6, 3.9]" UNK_A4678354="TURN_IN_VOL" UNK_42EA33CB="[0.0, 3.6, -25.92]" />
+                <UNK_3AECE76F>
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_0" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_1" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_2" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_3" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_4" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_5" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_6" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot UNK_6A7B1E3F="OUTLAW_HOMESTEAD_PAINTED_SKY_OUTRO">
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="TARGET" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F text="" />
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_B450F15A="true" UNK_32220272="true" UNK_413A88="40000" UNK_2C628086="25000" UNK_7676A094="true" UNK_66557D80="15" id="OUTLAW_GFH_HOMESTEAD_ROBBERY_7" UNK_7C1FCD5E="MODEL_CONFIG_SCARLETT_MEADOWS" UNK_C0F9D21B="MUSIC_OUTLAW_GFH_ROBBERY" UNK_CA597B13="true" UNK_5AB5EF23="1200000" UNK_45FA832B="false" UNK_6CA47BC2="false" UNK_17CC0711="true" UNK_E7B32F19="true">
+        <UNK_AE702DE config="STANDARD">
+          <text id="HELP_SEARCH_CLUE_FOUND" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FINAL_CLUE_INSPECTED_LONNIES" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GO_TO_0" role="GO_TO_SYNCED">
+            <config UNK_7FD08239="FETCH_GOTO_HOMESTEAD" position="[1622.808, -365.6117, 61.7462]" rotation="[0.0, 0.0, 0.0]" scale="[39.4376, 39.4376, 56.8522]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="SEARCH_HOMESTEAD" role="SEARCH_AFTER_GO_TO">
+            <config position="[1623.239, -363.311, 82.494]" rotation="[0.0, 0.0, 0.0]" scale="[18.0, 18.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_789CDB6C="true" id="OBJECTIVE_SEARCH" role="SEARCH">
+            <config position="[1745.431, -408.038, 47.362]" rotation="[0.0, 0.0, -4.0]" scale="[70.0, 45.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="TURN_IN" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DEAD_DROP" position="[1374.056, -864.5784, 69.4004]" rotation="[0.0, 0.0, 101.1016]" scale="[5.4532, 7.2397, 10.6452]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger id="HOMESTEAD_FOUND" UNK_E798E305="PRIMARY" role="PLAYER_IN_VOLUME" UNK_B71C8EA1="SEARCH_HOMESTEAD" />
+          <trigger id="CLUES_INSPECTED" UNK_E798E305="PRIMARY" role="ALL_LINKED_CLUES_INSPECTED">
+            <UNK_1331CF2C action="HIDE_VOLUME_BLIP" UNK_CA822909="SEARCH_HOMESTEAD" />
+            <UNK_1331CF2C action="CREATE_VOLUME" UNK_CA822909="OBJECTIVE_SEARCH" />
+          </trigger>
+          <trigger id="ALL_OBJECTIVES_ESCORTED" role="ALL_OBJECTIVES_EVER_ESCORTED">
+            <UNK_1331CF2C action="DISABLE_ALL_CLUES" />
+          </trigger>
+          <trigger id="PICKED_UP_BAG" role="ESCORTING" />
+        </triggers>
+        <objectives>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" UNK_76A4064="true" UNK_6F48D21D="OBJECTIVE_SEARCH" spawn_position="[1749.405, -414.9452, 47.0446]" UNK_100B5E15="[0.0, -0.0, -49.0495]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[1749.405, -414.9452, 47.0446]" UNK_100B5E15="[0.0, -0.0, -49.0495]" />
+              <UNK_D8E03A3F spawn_position="[1704.989, -411.0409, 47.7156]" UNK_100B5E15="[0.0, -0.0, -24.9168]" />
+              <UNK_D8E03A3F spawn_position="[1788.029, -396.1332, 45.8942]" UNK_100B5E15="[0.0, -0.0, -27.5074]" />
+            </UNK_3E64F9B4>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CLUES_INSPECTED" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </objective>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_7C35C06D="2" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" UNK_76A4064="true" UNK_6F48D21D="OBJECTIVE_SEARCH" spawn_position="[1706.687, -384.0512, 48.802]" UNK_100B5E15="[0.0, -0.0, -49.0495]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[1706.687, -384.0512, 48.802]" UNK_100B5E15="[0.0, -0.0, -49.0495]" />
+              <UNK_D8E03A3F spawn_position="[1730.957, -423.3658, 47.1117]" UNK_100B5E15="[0.0, -0.0, -80.1723]" />
+              <UNK_D8E03A3F spawn_position="[1795.601, -424.6917, 43.8282]" UNK_100B5E15="[0.0, -0.0, -58.4538]" />
+            </UNK_3E64F9B4>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CLUES_INSPECTED" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </objective>
+          <objective UNK_D784960D="false" config="OBJECTIVE_BAG_VALUABLES" UNK_F5D3F1EC="PROP" UNK_48103186="true" UNK_7C35C06D="3" UNK_25AFAE45="true" UNK_895487CA="10" UNK_417184E3="true" UNK_76A4064="true" UNK_6F48D21D="OBJECTIVE_SEARCH" spawn_position="[1724.849, -405.5645, 47.0198]" UNK_100B5E15="[0.0, -0.0, -24.9168]">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[1724.849, -405.5645, 47.0198]" UNK_100B5E15="[0.0, -0.0, -24.9168]" />
+              <UNK_D8E03A3F spawn_position="[1795.944, -409.8148, 44.4882]" UNK_100B5E15="[0.0, -0.0, -133.4957]" />
+              <UNK_D8E03A3F spawn_position="[1733.658, -392.6714, 48.678]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+            </UNK_3E64F9B4>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="TURN_IN" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="CLUES_INSPECTED" type="UNFREEZE_AND_WARP" />
+            </UNK_BC1116ED>
+          </objective>
+        </objectives>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="ALL_OBJECTIVES_ESCORTED" id="FIND_VALUABLES" UNK_3AB9F7DF="CLUES_INSPECTED">
+            <UNK_AE702DE>
+              <text id="OBJ_SEARCH_AREA" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_SEARCH_AREA_PLEASANCE" />
+              <text id="OBJ_SEARCH_AREA_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_SEARCH_AREA_PLEASANCE" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+          <UNK_B7728790 UNK_A3946F49="false" id="PICK_UP_BAG" UNK_E798E305="PRIMARY" UNK_3AB9F7DF="PICKED_UP_BAG">
+            <UNK_AE702DE>
+              <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_PICK_UP" />
+              <text id="OBJ_ESCORT_STEAL_PLURAL" UNK_EC4B42F9="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_OBJ_PICK_UP" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <guards>
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[1621.539, -363.1009, 74.8971]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[1624.767, -360.3381, 74.8971]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[1627.283, -360.6899, 74.8971]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[1624.705, -364.8787, 74.8971]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[1625.879, -376.3873, 73.9763]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_UNARMED" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_BACK_WALL_DRINKING" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="272.5885" spawn_position="[1635.645, -361.4212, 73.8855]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="1" UNK_4760F230="true" UNK_9E4FE3A0="true" config="GUARD_BANDIT_WARN_MELEE" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_CROUCH_INSPECT" UNK_CA822909="" UNK_7C35C06D="" UNK_CAB34408="true" UNK_75083445="false" spawn_heading="0.0" spawn_position="[1615.005, -371.9163, 74.1782]" UNK_B78360CD="" UNK_B59BB1D4="20.0" UNK_4F2F1B6="true" />
+          <guard config="CLUE_P_PAPER_02X" UNK_F5D3F1EC="PROP" UNK_CA822909="SEARCH_HOMESTEAD" UNK_6F48D21D="SEARCH_HOMESTEAD">
+            <UNK_3E64F9B4>
+              <UNK_D8E03A3F spawn_position="[1634.421, -361.4044, 74.9714]" UNK_100B5E15="[0.0, -0.0, -45.6774]" />
+              <UNK_D8E03A3F spawn_position="[1615.347, -374.7978, 73.868]" UNK_100B5E15="[9.55, -0.0, 4.3672]" />
+              <UNK_D8E03A3F spawn_position="[1621.809, -368.8652, 74.8674]" UNK_100B5E15="[9.55, -0.0, 45.3672]" />
+              <UNK_D8E03A3F spawn_position="[1623.359, -362.0314, 76.3975]" UNK_100B5E15="[8.5223, -4.3256, 72.0848]" />
+              <UNK_D8E03A3F spawn_position="[1618.806, -362.6317, 75.3667]" UNK_100B5E15="[8.5223, -4.3256, 72.0848]" />
+              <UNK_D8E03A3F spawn_position="[1623.464, -365.7333, 74.9269]" UNK_100B5E15="[-6.1368, -7.3313, 175.4836]" />
+            </UNK_3E64F9B4>
+            <UNK_89976A47>
+              <UNK_A85B4463 id="CLUES_INSPECTED" />
+            </UNK_89976A47>
+          </guard>
+          <guard config="BOUNTY_TRACKING_CLUE_BASKET" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_LONNIES" UNK_E2A4987A="7" UNK_AF3C7779="GUARD" UNK_CA822909="OBJECTIVE_SEARCH" spawn_position="[1735.95, -412.9464, 46.9194]" UNK_100B5E15="[0.0, 0.0, 0.0225]" />
+          <guard config="BOUNTY_TRACKING_CLUE_SUITCASE" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_LONNIES" UNK_E2A4987A="7" UNK_AF3C7779="GUARD" UNK_CA822909="OBJECTIVE_SEARCH" spawn_position="[1716.16, -440.5562, 47.8726]" UNK_100B5E15="[0.0, 0.0, 151.423]" />
+          <guard config="CLUE_MONEYBOX_OPEN" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_LONNIES" UNK_E2A4987A="7" UNK_AF3C7779="GUARD" UNK_CA822909="OBJECTIVE_SEARCH" spawn_position="[1781.401, -434.673, 45.1127]" UNK_100B5E15="[-2.1501, 3.728, -68.4643]" />
+          <guard config="BOUNTY_TRACKING_CLUE_MED_SACK" UNK_F5D3F1EC="PROP" UNK_86C4ACFD="FETCH_DYNAMIC_HOMESTEAD_ROBBERY_HELP_FAKE_CLUE_LONNIES" UNK_E2A4987A="7" UNK_AF3C7779="GUARD" UNK_CA822909="OBJECTIVE_SEARCH" spawn_position="[1707.243, -387.9732, 48.8536]" UNK_100B5E15="[-1.3483, 11.9213, -68.3935]" />
+          <guard config="CAPITALE_CHEST_NOPLACE" UNK_F5D3F1EC="PROP" UNK_E03AE58C="REWARD_CAPITALE_CHEST_SMALL" spawn_position="[1783.597, -400.6318, 46.8677]" UNK_100B5E15="[0.0, -0.0, -34.6497]" />
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_LOW_L_COVER_13_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[1631.516, -371.6517, 73.7172]" UNK_100B5E15="[0.0, 0.0, 14.9056]" />
+          <static_prop config="AMBIENT_TALL_COVER_11_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[1614.469, -352.2325, 74.2231]" UNK_100B5E15="[3.9651, -0.4899, 168.4403]" />
+          <static_prop config="mp005_p_MP_CoverComb_L_HDR_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[1634.885, -360.7923, 73.8792]" UNK_100B5E15="[0.0, 0.0, -90.4698]" />
+          <static_prop config="AMBIENT_STAGECOACH_01_NO_SNAP" UNK_F5D3F1EC="PROP" spawn_position="[1613.308, -374.4605, 74.0656]" UNK_100B5E15="[2.2231, -6.1582, 114.043]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene UNK_633329DE="OUTLAW_HOMESTEAD_LONNIES_SHACK_INTRO" id="MISSION_START" UNK_5009852E="true" UNK_18F9D42A="[1706.266, -64.991, 72.209]" UNK_4D7F4E70="CLOUDS_NIGHT" type="START_SKYLAPSE" />
+          <cutscene id="MISSION_END" UNK_F259B128="true">
+            <UNK_3AECE76F>
+              <actor UNK_5975C34F="0" UNK_1C04038C="OBJECTIVE" id="TARGET" />
+            </UNK_3AECE76F>
+            <shots>
+              <shot>
+                <camera UNK_D04D554D="Cam_Near25mm" UNK_D03A1731="6000" UNK_F66A4EBF="FADE_OUT" UNK_BEFD3C36="[1.7, -9.2, 2.0]" UNK_A4678354="TURN_IN_VOL" UNK_42EA33CB="[0.0, 0.0, 100.08]" />
+                <UNK_3AECE76F>
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_0" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_1" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_2" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_3" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_4" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_5" />
+                  <actor action="WALK_AWAY_FROM_CINEMATIC_LOCATION" id="PLAYER_6" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot UNK_6A7B1E3F="OUTLAW_HOMESTEAD_LONNIES_SHACK_OUTRO">
+                <camera config="HOLD_ON_SHOT" />
+                <UNK_3AECE76F>
+                  <actor UNK_5E233F16="true" id="TARGET" />
+                </UNK_3AECE76F>
+              </shot>
+              <shot>
+                <camera config="LAST_SHOT_PAN_DOWN_BEHIND_ACTOR" UNK_F6AFF99F="LOCAL_PLAYER" />
+                <UNK_3AECE76F text="" />
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+    </locations>
+  </data>
+</root>

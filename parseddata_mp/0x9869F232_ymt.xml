@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <properties>
+    <property id="NPLH_CROP_FARM" location="[1120.26, 490.66, 96.8]" name="Crop Farm" region="REGION_HRT_CROP_FARM" UNK_8E08144F="[1122.61, 480.62, 96.8]">
+      <UNK_5856E779>
+        <camera location="[1119.3, 486.4, 98.3]" rotation="[-35.0, 0.0, 125.0]" />
+        <camera location="[1105.9, 491.4, 98.3]" rotation="[-15.0, 0.0, 305.0]" />
+      </UNK_5856E779>
+      <inventory_items>
+        <UNK_A366248D name="DOCUMENT_CROP_FARM_DEED" />
+        <UNK_A366248D name="DOCUMENT_CROP_FARM_DEED_RUSTIC" />
+      </inventory_items>
+      <UNK_B1A65D38>
+        <UNK_D43B0E78 name="CRO_HOUSE_MP_MILO" />
+        <UNK_D43B0E78 name="CRO_HOUSE_RUSTIC_MILO" />
+      </UNK_B1A65D38>
+      <UNK_BF2637D0>
+        <volume dimensions="[7.0, 5.0, 4.0]" id="0" location="[1114.8, 487.7, 97.5]" rotation="[0.0, 0.0, -140.0]" />
+        <volume dimensions="[5.0, 12.5, 4.0]" id="1" location="[1119.0, 491.7, 97.5]" rotation="[0.0, 0.0, -140.0]" />
+      </UNK_BF2637D0>
+      <UNK_F7BF2577>
+        <volume dimensions="[9.0, 7.0, 5.0]" id="0" location="[1114.8, 487.7, 97.5]" rotation="[0.0, 0.0, -140.0]" />
+        <volume dimensions="[7.0, 14.5, 5.0]" id="1" location="[1119.0, 491.7, 97.5]" rotation="[0.0, 0.0, -140.0]" />
+      </UNK_F7BF2577>
+      <UNK_6410C866>
+        <volume dimensions="[4.5, 4.5, 4.0]" id="0" location="[1130.9, 501.3, 97.0]" rotation="[0.0, 0.0, -140.0]" />
+      </UNK_6410C866>
+      <UNK_CE365524>
+        <volume dimensions="[1.5, 1.5, 4.0]" location="[1121.5, 486.3, 97.5]" rotation="[0.0, 0.0, -140.0]" />
+        <volume dimensions="[1.5, 1.5, 4.0]" location="[1120.6, 490.9, 97.5]" rotation="[0.0, 0.0, -140.0]" />
+      </UNK_CE365524>
+      <doors>
+        <door name="DOOR_CRO_FARMHOUSE_01" />
+        <door name="DOOR_CRO_FARMHOUSE_03" />
+        <door name="DOOR_CRO_RUSTIC_01" />
+        <door name="DOOR_CRO_RUSTIC_03" />
+      </doors>
+      <UNK_7FCCA289>
+        <wardrobe heading="0.0" location="[1121.5, 486.2, 97.5]" />
+        <wardrobe heading="0.0" location="[1120.6, 490.9, 97.5]" />
+      </UNK_7FCCA289>
+      <UNK_7F9CF22C>
+        <UNK_6F4AEA63 heading="0.0" id="cropfarm0door0" location="[1116.8, 486.4, 97.3]" />
+        <UNK_6F4AEA63 heading="125.0" id="cropfarm0door1" location="[1114.6, 493.1, 97.3]" />
+      </UNK_7F9CF22C>
+      <UNK_A7267C2B>
+        <UNK_10061C07 heading="133.39" location="[1131.926, 502.3386, 95.4283]" modelname="p_hitchingpost05x" />
+      </UNK_A7267C2B>
+    </property>
+    <property id="NPLH_BUTCHER_CREEK_SHACK" location="[2717.5, 710.1, 79.9]" name="Butcher Creek Shack" region="REGION_ROA_BUTCHERCREEK" UNK_8E08144F="[2717.1, 702.9, 78.7]">
+      <UNK_5856E779>
+        <camera location="[2722.0, 705.1, 80.5]" rotation="[-10.0, 0.0, 85.0]" />
+      </UNK_5856E779>
+      <inventory_items>
+        <UNK_A366248D name="DOCUMENT_BUTCHER_CREEK_SHACK_DEED" />
+      </inventory_items>
+      <UNK_677F9C0E text="" />
+      <UNK_BF2637D0>
+        <volume dimensions="[4.0, 4.5, 3.2]" id="0" location="[2717.4, 710.1, 79.6]" rotation="[0.0, 0.0, 0.0]" />
+      </UNK_BF2637D0>
+      <UNK_F7BF2577 text="" />
+      <UNK_6410C866 text="" />
+      <UNK_CE365524 text="" />
+      <doors>
+        <door name="DOOR_BUT_SHACK_FRONT" />
+      </doors>
+      <UNK_7FCCA289>
+        <wardrobe heading="40.0" location="[2716.2, 711.2, 79.9]" />
+      </UNK_7FCCA289>
+      <UNK_7F9CF22C>
+        <UNK_6F4AEA63 heading="0.0" id="shack0door0" location="[2717.3, 708.2, 79.7]" />
+      </UNK_7F9CF22C>
+      <UNK_A7267C2B>
+        <UNK_10061C07 heading="75.0" location="[2706.81, 709.79, 77.048]" modelname="p_hitchingpost01x" />
+      </UNK_A7267C2B>
+    </property>
+    <property id="NPLH_SHACK_LOVE_TRIANGLE" location="[1134.5, -979.4, 75.8]" name="Love Shack" region="REGION_SCM_LOVE_TRIANGLE" UNK_8E08144F="[1147.2, -965.0, 67.8]">
+      <UNK_5856E779>
+        <camera location="[1136.1, -967.6, 71.2]" rotation="[-10.0, 0.0, 175.0]" />
+      </UNK_5856E779>
+      <inventory_items>
+        <UNK_A366248D name="DOCUMENT_LODGE_FARM_DEED" />
+      </inventory_items>
+      <UNK_677F9C0E text="" />
+      <UNK_BF2637D0>
+        <volume dimensions="[6.0, 9.1, 4.2]" id="0" location="[1134.4, -979.5, 69.2]" rotation="[0.0, 0.0, 55.0]" />
+      </UNK_BF2637D0>
+      <UNK_F7BF2577 text="" />
+      <UNK_6410C866 text="" />
+      <UNK_CE365524>
+        <volume dimensions="[1.5, 1.5, 4.0]" id="0" location="[1133.3, -981.9, 69.6]" rotation="[0.0, 0.0, 55.0]" />
+      </UNK_CE365524>
+      <doors>
+        <door name="DOOR_SHACK_LT_FRONT" />
+      </doors>
+      <UNK_7FCCA289>
+        <wardrobe heading="0" location="[1133.3, -981.9, 69.6]" />
+      </UNK_7FCCA289>
+      <UNK_7F9CF22C>
+        <UNK_6F4AEA63 heading="0" id="shack0door0" location="[1136.4, -977.0, 69.7]" />
+      </UNK_7F9CF22C>
+      <UNK_A7267C2B text="" />
+    </property>
+    <property id="NPLH_MACFARLANE_RANCH_COTTAGE" location="[-2366.8, -2392.2, 62.6]" name="Ranch Cottage" region="REGION_HEN_MACFARLANES_RANCH" UNK_8E08144F="[-2374.6, -2390.2, 62.6]">
+      <UNK_5856E779>
+        <camera location="[-2372.8, -2393.9, 63.8]" rotation="[-10.0, 0.0, -20.0]" />
+      </UNK_5856E779>
+      <inventory_items>
+        <UNK_A366248D name="DOCUMENT_MACFARLANE_RANCH_DEED" />
+      </inventory_items>
+      <UNK_677F9C0E text="" />
+      <UNK_BF2637D0>
+        <volume dimensions="[4.0, 3.7, 3.2]" id="0" location="[-2366.8, -2390.4, 62.7]" rotation="[0.0, 0.0, -10.0]" />
+        <volume dimensions="[3.0, 3.8, 3.2]" id="0" location="[-2367.3, -2394.1, 62.7]" rotation="[0.0, 0.0, -10.0]" />
+      </UNK_BF2637D0>
+      <UNK_F7BF2577 text="" />
+      <UNK_6410C866 text="" />
+      <UNK_CE365524 text="" />
+      <doors>
+        <door name="DOOR_MFR_COTTAGE01_FRONT" />
+      </doors>
+      <UNK_7FCCA289>
+        <wardrobe heading="0.0" location="[-2365.9, -2393.1, 62.7]" />
+      </UNK_7FCCA289>
+      <UNK_7F9CF22C>
+        <UNK_6F4AEA63 heading="80" id="shack0door0" location="[-2369.0, -2391.0, 62.7]" />
+      </UNK_7F9CF22C>
+      <UNK_A7267C2B text="" />
+    </property>
+    <property id="NPLH_SAINT_DENIS_GALA_MANSION" location="[2401.4, -1083.3, 50.5]" name="Gala Mansion" region="REGION_BAY_SAINT_DENIS" UNK_8E08144F="[2401.4, -1126.3, 47.1]">
+      <UNK_5856E779>
+        <camera location="[2408.6, -1112.2, 50.2]" rotation="[-10.0, 0.0, 30.0]" />
+      </UNK_5856E779>
+      <inventory_items>
+        <UNK_A366248D name="DOCUMENT_SAINT_DENIS_MANSION_DEED" />
+      </inventory_items>
+      <UNK_677F9C0E text="" />
+      <UNK_BF2637D0>
+        <volume dimensions="[27.0, 25.0, 15.0]" id="0" location="[2401.4, -1083.3, 50.5]" rotation="[0.0, 0.0, 0.0]" />
+        <volume dimensions="[3.0, 8.0, 15.0]" id="1" location="[2416.2, -1080.0, 50.5]" rotation="[0.0, 0.0, 0.0]" />
+      </UNK_BF2637D0>
+      <UNK_F7BF2577 text="" />
+      <UNK_6410C866 text="" />
+      <UNK_CE365524 text="" />
+      <doors>
+        <door name="DOOR_GALA_MAN_L1_FOYER_L" />
+        <door name="DOOR_GALA_MAN_L1_FOYER_R" />
+      </doors>
+      <UNK_7FCCA289 text="" />
+      <UNK_7F9CF22C>
+        <UNK_6F4AEA63 heading="180" id="shack0door0" location="[2401.4, -1095.6, 47.9]" />
+      </UNK_7F9CF22C>
+      <UNK_A7267C2B text="" />
+    </property>
+    <property id="NPLH_SILENT_STEAD" location="[-5552.6, -2399.0, -7.5]" name="Silent Stead" region="REGION_ROA_ROCKYSEVEN" UNK_8E08144F="[-5545.0, -2413.4, -8.4]">
+      <UNK_5856E779>
+        <camera location="[-5543.5, -2404.5, -7.1]" rotation="[-10.0, 0.0, 90.0]" />
+        <camera location="[-5560.8, -2394.6, -7.1]" rotation="[-10.0, 0.0, 270.0]" />
+      </UNK_5856E779>
+      <inventory_items>
+        <UNK_A366248D name="DOCUMENT_SILENT_STEAD_DEED" />
+      </inventory_items>
+      <UNK_677F9C0E text="" />
+      <UNK_BF2637D0>
+        <volume dimensions="[7.5, 5.0, 5.0]" id="0" location="[-5552.6, -2399.0, -9.5]" rotation="[0.0, 0.0, 20.0]" />
+      </UNK_BF2637D0>
+      <UNK_F7BF2577 text="" />
+      <UNK_6410C866 text="" />
+      <UNK_CE365524 text="" />
+      <doors>
+        <door name="DOOR_SIL_HOUSE_INT_1" />
+        <door name="DOOR_SIL_HOUSE_INT_2" />
+      </doors>
+      <UNK_7FCCA289>
+        <wardrobe heading="0.0" location="[-5548.9, -2399.6, -8.7]" />
+      </UNK_7FCCA289>
+      <UNK_7F9CF22C>
+        <UNK_6F4AEA63 heading="200" id="shack0door0" location="[-5551.6, -2401.3, -8.7]" />
+        <UNK_6F4AEA63 heading="20" id="shack0door1" location="[-5555.9, -2397.6, -8.7]" />
+      </UNK_7F9CF22C>
+      <UNK_A7267C2B text="" />
+    </property>
+    <property id="NPLH_STRAWBERRY_HOTEL_ROOM" location="[-1812.1, -369.0, 166.5]" name="Hotel Room" region="REGION_BGV_STRAWBERRY" UNK_8E08144F="[-1802.6, -370.5, 161.7]">
+      <UNK_5856E779>
+        <camera location="[-1819.4, -374.3, 167.4]" rotation="[-10.0, 0.0, -30.0]" />
+        <camera location="[-1803.8, -367.6, 167.4]" rotation="[-10.0, 0.0, -210.0]" />
+      </UNK_5856E779>
+      <inventory_items>
+        <UNK_A366248D name="DOCUMENT_STRAWBERRY_HOTEL_ROOM_DEED" />
+      </inventory_items>
+      <UNK_677F9C0E text="" />
+      <UNK_BF2637D0>
+        <volume dimensions="[6.0, 6.0, 3.0]" id="0" location="[-1812.6, -368.5, 167.5]" rotation="[0.0, 0.0, 0.0]" />
+      </UNK_BF2637D0>
+      <UNK_F7BF2577 text="" />
+      <UNK_6410C866 text="" />
+      <UNK_CE365524 text="" />
+      <doors>
+        <door name="DOOR_STR_WHORE_INT_2" />
+        <door name="DOOR_STR_WHORE_INT_1" />
+      </doors>
+      <UNK_7FCCA289>
+        <wardrobe heading="0.0" location="[-1811.3, -371.1, 167.2]" />
+      </UNK_7FCCA289>
+      <UNK_7F9CF22C>
+        <UNK_6F4AEA63 heading="90" id="shack0door0" location="[-1815.6, -370.5, 166.9]" />
+        <UNK_6F4AEA63 heading="270" id="shack0door0" location="[-1809.5, -370.4, 166.9]" />
+      </UNK_7F9CF22C>
+      <UNK_A7267C2B text="" />
+    </property>
+  </properties>
+</root>

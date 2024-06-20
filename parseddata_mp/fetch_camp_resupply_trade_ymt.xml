@@ -1,0 +1,1978 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data>
+    <UNK_FCAC7D18>
+      <UNK_AD305933 id="STANDARD">
+        <text id="SHARD_TEAM_PRIMARY_INTRO" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_SHARD_INTRO_PRIMARY" />
+        <text id="SHARD_TEAM_PRIMARY_PASS" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_SHARD_PRIMARY_PASS" />
+        <text id="SHARD_DESTROYED" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_SHARD_DESTROYED_GENERIC" />
+        <text id="SHARD_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_POSSE_ABANDONED" />
+        <text id="SHARD_YOUR_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOUR_POSSE_ABANDONED" />
+        <text id="SHARD_YOU_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOU_ABANDONED" />
+        <text id="HELP_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+        <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_GENERIC" />
+        <text UNK_A595AF4B="2000" id="HELP_OBJECTIVE_QUEST_SKINNED" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_NO_SKIN" />
+        <text id="HELP_SWAP_REINS" UNK_EC4B42F9="FETCH_HELP_SWAP_REINS_WAGON" />
+        <text id="HELP_GHOST_LOCAL_PLAYER" UNK_EC4B42F9="FETCH_HELP_LOCAL_PLAYER_GHOSTED_WAGON" />
+        <text id="HELP_GHOST_POSSE_PLAYER" UNK_EC4B42F9="FETCH_HELP_TEAMMATE_GHOSTED_WAGON" />
+        <text id="HELP_GHOST_PVP_PLAYER" UNK_EC4B42F9="FETCH_HELP_ENEMY_TEAM_GHOSTED_WAGON" />
+        <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_FIND_WAGON" />
+        <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_STEAL_WAGON" />
+        <text id="OBJ_ESCORT_STEAL_FROM_POSSE" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_STEAL_FROM_POSSE_WAGON" />
+        <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_RETURN_WAGON" />
+        <text id="OBJ_ESCORT_DEFEND" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DEFEND_WAGON" />
+        <text id="OBJ_ENTER_DRIVER_SEAT" UNK_EC4B42F9="FETCH_OBJ_ENTER_DRIVER_SEAT" />
+        <text id="OBJ_GET_ON_MOUNT" UNK_EC4B42F9="FETCH_OBJ_GET_ON_MOUNT" />
+        <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_GEN" />
+        <text id="OBJ_GET_ON_MOUNT" UNK_EC4B42F9="FETCH_OBJ_GET_ON_MOUNT" />
+        <text id="OBJ_GET_ON_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_GET_ON_HUNTING_WAGON" />
+        <text id="SCORETIMER_OBJECTIVE_DESTROYED" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_TICKER_DESTROY_WAGON" />
+        <text id="SCORETIMER_OBJECTIVE_DESTROYED_YOU" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_TICKER_DESTROY_YOU_WAGON" />
+      </UNK_AD305933>
+      <UNK_AD305933 id="WAGON">
+        <text id="SHARD_TEAM_PRIMARY_INTRO" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_SHARD_INTRO_PRIMARY" />
+        <text id="SHARD_TEAM_PRIMARY_PASS" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_SHARD_PRIMARY_PASS" />
+        <text id="SHARD_DESTROYED" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_SHARD_DESTROYED_WAGON" />
+        <text id="SHARD_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_POSSE_ABANDONED" />
+        <text id="SHARD_YOUR_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOUR_POSSE_ABANDONED" />
+        <text id="SHARD_YOU_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOU_ABANDONED" />
+        <text id="HELP_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+        <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_GENERIC" />
+        <text id="HELP_SWAP_REINS" UNK_EC4B42F9="FETCH_HELP_SWAP_REINS_WAGON" />
+        <text id="HELP_GHOST_LOCAL_PLAYER" UNK_EC4B42F9="FETCH_HELP_LOCAL_PLAYER_GHOSTED_WAGON" />
+        <text id="HELP_GHOST_POSSE_PLAYER" UNK_EC4B42F9="FETCH_HELP_TEAMMATE_GHOSTED_WAGON" />
+        <text id="HELP_GHOST_PVP_PLAYER" UNK_EC4B42F9="FETCH_HELP_ENEMY_TEAM_GHOSTED_WAGON" />
+        <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_FIND_WAGON" />
+        <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_STEAL_WAGON" />
+        <text id="OBJ_ESCORT_STEAL_FROM_POSSE" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_STEAL_FROM_POSSE_WAGON" />
+        <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_RETURN_WAGON" />
+        <text id="OBJ_ESCORT_DEFEND" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DEFEND_WAGON" />
+        <text id="OBJ_ENTER_DRIVER_SEAT" UNK_EC4B42F9="FETCH_OBJ_ENTER_DRIVER_SEAT" />
+        <text id="OBJ_GET_ON_MOUNT" UNK_EC4B42F9="FETCH_OBJ_GET_ON_MOUNT" />
+        <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_GEN" />
+        <text id="OBJ_GET_ON_MOUNT" UNK_EC4B42F9="FETCH_OBJ_GET_ON_MOUNT" />
+        <text id="OBJ_GET_ON_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_GET_ON_HUNTING_WAGON" />
+        <text id="SCORETIMER_OBJECTIVE_DESTROYED" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_TICKER_DESTROY_WAGON" />
+        <text id="SCORETIMER_OBJECTIVE_DESTROYED_YOU" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_TICKER_DESTROY_YOU_WAGON" />
+      </UNK_AD305933>
+    </UNK_FCAC7D18>
+    <locations>
+      <location id="CAMP_RESUPPLY_TRADE_CHOLLA_SPRINGS" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_PRONGHORN" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_PRONGHORN" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_PRONGHORN" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_PRONGHORN" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_PRONGHORN" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_PRONGHORN" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_PRONGHORN" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-3715.148, -2215.569, -13.4917]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-3715.148, -2215.569, -13.4917]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[-3715.148, -2215.569, -13.4917]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[-3715.148, -2215.569, -13.4917]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="PRONGHORN_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="244.2201" spawn_position="[-3718.716, -2219.865, -13.5873]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_BARREL" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_WARM" spawn_heading="182.079" spawn_position="[-3714.439, -2211.21, -13.3017]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_PRONGHORN" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="38.08" spawn_position="[-3539.077, -2199.19, -9.43659]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="0.0" spawn_position="[-3714.289, -2213.914, -13.411]" />
+          <prop_set config="BARREL_GROUP" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-3719.282, -2212.641, -13.444]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="TRADER_TENT" spawn_position="[-3717.305, -2209.37, -13.296]" UNK_100B5E15="[0.0, 0.0, 36.719]" />
+          <static_prop config="CAMP_BED" spawn_position="[-3717.135, -2209.373, -13.31]" UNK_100B5E15="[2.16, 0.0, 307.791]" />
+          <static_prop config="TRADER_STOOL" spawn_position="[-3715.779, -2213.917, -13.4464]" UNK_100B5E15="[0.0, 0.0, 86.31]" />
+          <static_prop config="TRADER_SACKS" spawn_position="[-3720.883, -2211.291, -13.404]" UNK_100B5E15="[0.0, 0.0, 191.515]" />
+          <static_prop config="TRADER_CRATE" spawn_position="[-3722.063, -2212.68, -13.432]" UNK_100B5E15="[0.0, 0.0, 259.913]" />
+          <static_prop config="AMBIENT_BARREL_GROUP_3" spawn_position="[-3713.697, -2209.938, -13.229]" UNK_100B5E15="[2.16, 0.0, 334.071]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[-3719.559, -2212.592, -13.4433]" UNK_FEBAD66A="10.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_CHOLLA_SPRINGS_IGUANA" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_IGUANA" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_IGUANA" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_IGUANA" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_IGUANA" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_IGUANA" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_IGUANA" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_IGUANA" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_SPAWN">
+            <config position="[-4614.18, -2658.746, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="[50.0, 50.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-3715.148, -2215.569, -13.4917]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-3715.148, -2215.569, -13.4917]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[-3715.148, -2215.569, -13.4917]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[-3715.148, -2215.569, -13.4917]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="IGUANA_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="244.2201" spawn_position="[-3718.716, -2219.865, -13.5873]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_BARREL" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_WARM" spawn_heading="182.079" spawn_position="[-3714.439, -2211.21, -13.3017]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_IGUANA" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="0.0" spawn_position="[-3977.563, -2412.388, -10.09422]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="0.0" spawn_position="[-3714.289, -2213.914, -13.411]" />
+          <prop_set config="BARREL_GROUP" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-3719.282, -2212.641, -13.444]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="TRADER_TENT" spawn_position="[-3717.305, -2209.37, -13.296]" UNK_100B5E15="[0.0, 0.0, 36.719]" />
+          <static_prop config="CAMP_BED" spawn_position="[-3717.135, -2209.373, -13.31]" UNK_100B5E15="[2.16, 0.0, 307.791]" />
+          <static_prop config="TRADER_STOOL" spawn_position="[-3715.779, -2213.917, -13.4464]" UNK_100B5E15="[0.0, 0.0, 86.31]" />
+          <static_prop config="TRADER_SACKS" spawn_position="[-3720.883, -2211.291, -13.404]" UNK_100B5E15="[0.0, 0.0, 191.515]" />
+          <static_prop config="TRADER_CRATE" spawn_position="[-3722.063, -2212.68, -13.432]" UNK_100B5E15="[0.0, 0.0, 259.913]" />
+          <static_prop config="AMBIENT_BARREL_GROUP_3" spawn_position="[-3713.697, -2209.938, -13.229]" UNK_100B5E15="[2.16, 0.0, 334.071]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[-3719.559, -2212.592, -13.4433]" UNK_FEBAD66A="10.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_CUMBERLAND_FOREST" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_DEER_CF" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_WHITETAIL_DEER" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_WHITETAIL_DEER" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_DEER_CF" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_DEER" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_DEER" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_DEER" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[498.885, 1325.738, 179.038]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[498.885, 1325.738, 179.038]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[498.885, 1325.738, 179.038]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[498.885, 1325.738, 179.038]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="DEER_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="70.1415" spawn_position="[502.4937, 1334.787, 176.3161]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[500.1856, 1328.589, 177.5383]" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_WARM" spawn_heading="156.354" spawn_position="[501.0197, 1328.64, 177.065]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_DEER" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="0.0" spawn_position="[252.27, 1212.8, 180.1971]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="BURLAP_TENT" placement_type="ALIGN_TO_GROUND" spawn_heading="70.0" spawn_position="[498.995, 1328.951, 177.037]" />
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="30.0" spawn_position="[499.406, 1326.719, 177.298]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="TRADER_STOOL" spawn_position="[500.206, 1328.565, 177.079]" UNK_100B5E15="[0.0, 0.0, 161.636]" />
+          <static_prop config="AMBIENT_FLOUR_SACKS_01" spawn_position="[501.188, 1331.274, 176.744]" UNK_100B5E15="[0.0, 0.0, 273.232]" />
+          <static_prop config="AMBIENT_CRATE_WITH_SACKS_NO_SNAP" spawn_position="[501.615, 1330.09, 176.889]" UNK_100B5E15="[0.0, 7.56, 111.597]" />
+          <static_prop config="AMBIENT_CRATE_WITH_TOOLS_NO_SNAP" spawn_position="[501.87, 1330.254, 177.674]" UNK_100B5E15="[0.0, 7.56, 111.597]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[497.963, 1332.378, 176.682]" UNK_FEBAD66A="2.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_CUMBERLAND_FOREST_ALT" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_TURKEY_CF" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_EASTERN_TURKEY" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_EASTERN_TURKEY" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_TURKEY_V" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_TURKEY_V" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_TURKEY_V" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_TURKEY_V" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[498.885, 1325.738, 179.038]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[498.885, 1325.738, 179.038]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[498.885, 1325.738, 179.038]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[498.885, 1325.738, 179.038]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="TURKEY_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="81.9261" spawn_position="[520.2856, 1282.252, 181.0589]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[500.1856, 1328.589, 177.5383]" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_WARM" spawn_heading="156.354" spawn_position="[501.0197, 1328.64, 177.065]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_TURKEY" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="25.83" spawn_position="[341.7806, 1137.311, 184.2345]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="BURLAP_TENT" placement_type="ALIGN_TO_GROUND" spawn_heading="70.0" spawn_position="[498.995, 1328.951, 177.037]" />
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="30.0" spawn_position="[499.406, 1326.719, 177.298]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="TRADER_STOOL" spawn_position="[500.206, 1328.565, 177.079]" UNK_100B5E15="[0.0, 0.0, 161.636]" />
+          <static_prop config="AMBIENT_FLOUR_SACKS_01" spawn_position="[501.188, 1331.274, 176.744]" UNK_100B5E15="[0.0, 0.0, 273.232]" />
+          <static_prop config="AMBIENT_CRATE_WITH_SACKS_NO_SNAP" spawn_position="[501.615, 1330.09, 176.889]" UNK_100B5E15="[0.0, 7.56, 111.597]" />
+          <static_prop config="AMBIENT_CRATE_WITH_TOOLS_NO_SNAP" spawn_position="[501.87, 1330.254, 177.674]" UNK_100B5E15="[0.0, 7.56, 111.597]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[522.214, 1275.184, 180.667]" UNK_FEBAD66A="2.5" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location UNK_413A88="15000" UNK_2C628086="1000" id="CAMP_RESUPPLY_TRADE_VALENTINE" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_TURKEY_V" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_EASTERN_TURKEY" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_EASTERN_TURKEY" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_TURKEY_V" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_TURKEY_V" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_TURKEY_V" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_TURKEY_V" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-584.3918, 619.5827, 105.2338]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-584.3918, 619.5827, 105.2338]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[-584.3918, 619.5827, 105.2338]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[-584.3918, 619.5827, 105.2338]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="TURKEY_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="302.82" spawn_position="[-588.53, 624.18, 106.66]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_BACK_WALL_DRINKING" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_WARM" spawn_heading="315.0" spawn_position="[-585.7079, 615.0073, 106.0911]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_TURKEY" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="0.0" spawn_position="[-570.6365, 502.9505, 97.56295]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="0.0" spawn_position="[-584.976, 618.815, 105.234]" />
+          <prop_set config="BARREL_GROUP" placement_type="ALIGN_AS_ONE" spawn_heading="200.0" spawn_position="[-586.334, 613.946, 105.193]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_TENT_01_NO_SNAP" spawn_position="[-590.14, 614.915, 105.288]" UNK_100B5E15="[0.0, 354.59, 123.477]" />
+          <static_prop config="CAMP_BED" spawn_position="[-590.313, 614.716, 105.298]" UNK_100B5E15="[0.0, 0.0, 46.41]" />
+          <static_prop config="TRADER_STOOL" spawn_position="[-586.521, 618.405, 105.337]" UNK_100B5E15="[0.0, 0.0, 99.717]" />
+          <static_prop config="AMBIENT_CRATE_WITH_SACKS" spawn_position="[-584.061, 614.326, 104.99]" UNK_100B5E15="[0.0, 0.0, 14.04]" />
+          <static_prop config="TRADER_CRATE" spawn_position="[-583.31, 612.94, 104.96]" UNK_100B5E15="[0.0, 0.0, -12.03]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[-584.3918, 619.5827, 105.2338]" UNK_FEBAD66A="8.0" type="FLATTEN" />
+          <UNK_7A4C5AD spawn_position="[-584.963, 618.861, 105.236]" UNK_FEBAD66A="2.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[-592.801, 614.874, 105.443]" UNK_FEBAD66A="1.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location UNK_413A88="15000" UNK_2C628086="1000" id="CAMP_RESUPPLY_TRADE_VALENTINE_PRONGHORN" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_PRONGHORN_V" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_PRONGHORN" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_PRONGHORN" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_PRONGHORN" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_PRONGHORN" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_PRONGHORN" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_PRONGHORN" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-584.3918, 619.5827, 105.2338]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-584.3918, 619.5827, 105.2338]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[-584.3918, 619.5827, 105.2338]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[-584.3918, 619.5827, 105.2338]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="PRONGHORN_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="302.82" spawn_position="[-588.53, 624.18, 106.66]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_BACK_WALL_DRINKING" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_WARM" spawn_heading="315.0" spawn_position="[-585.7079, 615.0073, 106.0911]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_PRONGHORN" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="0.0" spawn_position="[-534.505, 460.9046, 97.18188]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="0.0" spawn_position="[-584.976, 618.815, 105.234]" />
+          <prop_set config="BARREL_GROUP" placement_type="ALIGN_AS_ONE" spawn_heading="200.0" spawn_position="[-586.334, 613.946, 105.193]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_TENT_01_NO_SNAP" spawn_position="[-590.14, 614.915, 105.288]" UNK_100B5E15="[0.0, 354.59, 123.477]" />
+          <static_prop config="CAMP_BED" spawn_position="[-590.313, 614.716, 105.298]" UNK_100B5E15="[0.0, 0.0, 46.41]" />
+          <static_prop config="TRADER_STOOL" spawn_position="[-586.521, 618.405, 105.337]" UNK_100B5E15="[0.0, 0.0, 99.717]" />
+          <static_prop config="AMBIENT_CRATE_WITH_SACKS" spawn_position="[-584.061, 614.326, 104.99]" UNK_100B5E15="[0.0, 0.0, 14.04]" />
+          <static_prop config="TRADER_CRATE" spawn_position="[-583.31, 612.94, 104.96]" UNK_100B5E15="[0.0, 0.0, -12.03]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[-584.3918, 619.5827, 105.2338]" UNK_FEBAD66A="8.0" type="FLATTEN" />
+          <UNK_7A4C5AD spawn_position="[-584.963, 618.861, 105.236]" UNK_FEBAD66A="2.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[-592.801, 614.874, 105.443]" UNK_FEBAD66A="1.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_CLEMENS_POINT" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_FOX" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_FOX" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_FOX" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_FOX" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_FOX" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_FOX" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_FOX" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_SPAWN">
+            <config position="[1310.814, -625.6422, 91.0]" rotation="[0.0, 0.0, -46.75]" scale="[200.0, 80.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[687.2994, -1233.495, 43.2115]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[687.2994, -1233.495, 43.2115]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[687.2994, -1233.495, 43.2115]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[687.2994, -1233.495, 43.2115]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="FOX_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="24.0196" spawn_position="[692.8842, -1234.574, 43.3516]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[682.4745, -1233.321, 43.73661]" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_WARM" spawn_heading="344.0971" spawn_position="[683.2687, -1233.552, 43.2378]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_FOX" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="259.0959" spawn_position="[1273.908, -606.9879, 59.95615]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="0.0" spawn_position="[683.074, -1231.311, 43.358]" />
+          <prop_set config="BARREL_GROUP" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[678.066, -1232.748, 43.411]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="TRADER_TENT" spawn_position="[680.06, -1236.25, 43.47]" UNK_100B5E15="[0.0, 0.0, 148.4]" />
+          <static_prop config="TRADER_BED" spawn_position="[680.08, -1236.17, 43.25]" UNK_100B5E15="[0.0, 0.0, 151.56]" />
+          <static_prop config="TRADER_STOOL" spawn_position="[682.492, -1233.35, 43.277]" UNK_100B5E15="[0.0, 0.0, 343.79]" />
+          <static_prop config="AMBIENT_HIDE_DISPLAY2_NO_SNAP" spawn_position="[682.335, -1238.424, 42.88]" UNK_100B5E15="[0.0, 5.4, 343.79]" />
+          <static_prop config="TRADER_SACKS" spawn_position="[682.27, -1237.1, 43.1567]" UNK_100B5E15="[0.0, 0.0, 77.66]" />
+          <static_prop config="AMBIENT_FLOUR_SACKS_01" spawn_position="[683.695, -1237.936, 42.908]" UNK_100B5E15="[0.0, 5.4, 343.79]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[687.2994, -1233.495, 43.2115]" UNK_FEBAD66A="9.0" type="FLATTEN" />
+          <UNK_7A4C5AD spawn_position="[680.24, -1236.213, 43.237]" UNK_FEBAD66A="2.5" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[683.074, -1231.311, 43.358]" UNK_FEBAD66A="1.5" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[678.066, -1232.748, 43.411]" UNK_FEBAD66A="2.5" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_CLEMENS_POINT_TURKEY" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_TURKEY_SM" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_EASTERN_TURKEY" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_EASTERN_TURKEY" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_TURKEY_V" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_TURKEY_V" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_TURKEY_V" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_TURKEY_V" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[687.2994, -1233.495, 43.2115]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[687.2994, -1233.495, 43.2115]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[687.2994, -1233.495, 43.2115]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[687.2994, -1233.495, 43.2115]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="TURKEY_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="24.0196" spawn_position="[692.8842, -1234.574, 43.3516]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[682.4745, -1233.321, 43.73661]" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_WARM" spawn_heading="344.0971" spawn_position="[683.2687, -1233.552, 43.2378]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_TURKEY" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="164.85" spawn_position="[823.9647, -1144.617, 51.30145]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="0.0" spawn_position="[683.074, -1231.311, 43.358]" />
+          <prop_set config="BARREL_GROUP" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[678.066, -1232.748, 43.411]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="TRADER_TENT" spawn_position="[680.06, -1236.25, 43.47]" UNK_100B5E15="[0.0, 0.0, 148.4]" />
+          <static_prop config="TRADER_BED" spawn_position="[680.08, -1236.17, 43.25]" UNK_100B5E15="[0.0, 0.0, 151.56]" />
+          <static_prop config="TRADER_STOOL" spawn_position="[682.492, -1233.35, 43.277]" UNK_100B5E15="[0.0, 0.0, 343.79]" />
+          <static_prop config="AMBIENT_HIDE_DISPLAY2_NO_SNAP" spawn_position="[682.335, -1238.424, 42.88]" UNK_100B5E15="[0.0, 5.4, 343.79]" />
+          <static_prop config="TRADER_SACKS" spawn_position="[682.27, -1237.1, 43.1567]" UNK_100B5E15="[0.0, 0.0, 77.66]" />
+          <static_prop config="AMBIENT_FLOUR_SACKS_01" spawn_position="[683.695, -1237.936, 42.908]" UNK_100B5E15="[0.0, 5.4, 343.79]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[687.2994, -1233.495, 43.2115]" UNK_FEBAD66A="9.0" type="FLATTEN" />
+          <UNK_7A4C5AD spawn_position="[680.24, -1236.213, 43.237]" UNK_FEBAD66A="2.5" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[683.074, -1231.311, 43.358]" UNK_FEBAD66A="1.5" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[678.066, -1232.748, 43.411]" UNK_FEBAD66A="2.5" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_KAMASSA_RIVER" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_DEER_KR" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_WHITETAIL_DEER" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_WHITETAIL_DEER" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_DEER_CF" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_DEER" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_DEER" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_DEER" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[2466.949, 1544.417, 84.9771]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[2466.949, 1544.417, 84.9771]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[2466.949, 1544.417, 84.9771]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[2466.949, 1544.417, 84.9771]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="DEER_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="297.759" spawn_position="[2469.027, 1538.849, 84.6673]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[2465.462, 1547.981, 85.66003]" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_COLD" spawn_heading="264.0462" spawn_position="[2465.501, 1547.152, 85.1546]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_DEER" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="0.0" spawn_position="[2416.037, 1660.437, 91.69957]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="180.0" spawn_position="[2467.759, 1546.964, 85.079]" />
+          <prop_set config="BURLAP_TENT" placement_type="ALIGN_TO_GROUND" spawn_heading="180.0" spawn_position="[2465.935, 1545.977, 85.085]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="FOLDING_CHAIR_02" spawn_position="[2465.429, 1547.936, 85.182]" UNK_100B5E15="[0.0, 0.0, 68.398]" />
+          <static_prop config="AMBIENT_COVER_BOX_04x_NO_SNAP" spawn_position="[2465.174, 1550.586, 85.245]" UNK_100B5E15="[0.0, 0.0, 132.116]" />
+          <static_prop config="AMBIENT_CRATE_WITH_SACKS_NO_SNAP" spawn_position="[2466.117, 1549.867, 85.177]" UNK_100B5E15="[357.83, 0.0, 217.794]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[2466.949, 1544.417, 84.9771]" UNK_FEBAD66A="9.0" type="FLATTEN" />
+          <UNK_7A4C5AD spawn_position="[2463.042, 1544.006, 85.105]" UNK_FEBAD66A="2.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[2465.764, 1545.372, 85.062]" UNK_FEBAD66A="2.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_KAMASSA_RIVER_TURKEY" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_TURKEY_RR" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_EASTERN_TURKEY" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_EASTERN_TURKEY" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_TURKEY_V" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_TURKEY_V" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_TURKEY_V" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_TURKEY_V" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[2466.949, 1544.417, 84.9771]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[2466.949, 1544.417, 84.9771]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[2466.949, 1544.417, 84.9771]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[2466.949, 1544.417, 84.9771]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="TURKEY_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="297.759" spawn_position="[2469.027, 1538.849, 84.6673]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[2465.462, 1547.981, 85.66003]" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_COLD" spawn_heading="264.0462" spawn_position="[2465.501, 1547.152, 85.1546]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_TURKEY" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="67.47" spawn_position="[2553.987, 1626.756, 90.93885]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="180.0" spawn_position="[2467.759, 1546.964, 85.079]" />
+          <prop_set config="BURLAP_TENT" placement_type="ALIGN_TO_GROUND" spawn_heading="180.0" spawn_position="[2465.935, 1545.977, 85.085]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="FOLDING_CHAIR_02" spawn_position="[2465.429, 1547.936, 85.182]" UNK_100B5E15="[0.0, 0.0, 68.398]" />
+          <static_prop config="AMBIENT_COVER_BOX_04x_NO_SNAP" spawn_position="[2465.174, 1550.586, 85.245]" UNK_100B5E15="[0.0, 0.0, 132.116]" />
+          <static_prop config="AMBIENT_CRATE_WITH_SACKS_NO_SNAP" spawn_position="[2466.117, 1549.867, 85.177]" UNK_100B5E15="[357.83, 0.0, 217.794]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[2466.949, 1544.417, 84.9771]" UNK_FEBAD66A="9.0" type="FLATTEN" />
+          <UNK_7A4C5AD spawn_position="[2463.042, 1544.006, 85.105]" UNK_FEBAD66A="2.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[2465.764, 1545.372, 85.062]" UNK_FEBAD66A="2.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_ABERDEEN_PIG_FARM" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_GATOR" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_ALLIGATOR" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_ALLIGATOR" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_GATOR_SKIN" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_GATOR" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_GATOR" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_GATOR" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_SPAWN">
+            <config position="[2026.99, -317.5861, 35.0]" rotation="[0.0, 0.0, 0.0]" scale="[30.0, 30.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[1784.682, 118.3845, 88.8432]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[1784.682, 118.3845, 88.8432]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[1784.682, 118.3845, 88.8432]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[1784.682, 118.3845, 88.8432]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="GATOR_SKIN_XL" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_CA822909="VOL_TURN_IN_1" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" UNK_A0BC6696="false" spawn_heading="119.8775" spawn_position="[1786.889, 121.3477, 88.8248]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[1788.319, 115.0086, 89.82954]" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_WARM" spawn_heading="132.0494" spawn_position="[1787.787, 115.8007, 89.2717]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_ALLIGATOR" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="54.54" spawn_position="[2005.732, -305.4474, 40.55205]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="0.0" spawn_position="[1786.655, 114.226, 89.338]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="TRADER_TENT" spawn_position="[1790.78, 119.61, 89.26]" UNK_100B5E15="[0.0, 0.0, -33.8]" />
+          <static_prop config="TRADER_BED" spawn_position="[1790.64, 119.79, 89.15]" UNK_100B5E15="[0.0, 0.0, -31.51]" />
+          <static_prop config="TRADER_STOOL" spawn_position="[1788.291, 114.9984, 89.3703]" UNK_100B5E15="[0.0, 0.0, 113.7568]" />
+          <static_prop config="TRADER_SACKS" spawn_position="[1792.24, 114.5, 89.66]" UNK_100B5E15="[0.0, 0.0, 13.75]" />
+          <static_prop config="TRADER_CRATE" spawn_position="[1792.72, 113.11, 89.79]" UNK_100B5E15="[0.0, 0.0, 8.02]" />
+          <static_prop config="AMBIENT_LOW_L_COVER_02_NO_PLACE_ON_GROUND" spawn_position="[1793.566, 115.41, 89.578]" UNK_100B5E15="[355.67, 1.08, 119.157]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[1784.682, 118.3845, 88.8432]" UNK_FEBAD66A="9.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_ABERDEEN_PIG_FARM_DEER" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_DEER_NH" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_WHITETAIL_DEER" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_WHITETAIL_DEER" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_DEER_CF" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_DEER" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_DEER" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_DEER" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[1784.682, 118.3845, 88.8432]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[1784.682, 118.3845, 88.8432]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[1784.682, 118.3845, 88.8432]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[1784.682, 118.3845, 88.8432]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="DEER_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_CA822909="VOL_TURN_IN_1" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" UNK_A0BC6696="false" spawn_heading="119.8775" spawn_position="[1786.889, 121.3477, 88.8248]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[1788.319, 115.0086, 89.82954]" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_WARM" spawn_heading="132.0494" spawn_position="[1787.787, 115.8007, 89.2717]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_DEER" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="0.0" spawn_position="[1852.552, -1.52806, 70.32811]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="0.0" spawn_position="[1786.655, 114.226, 89.338]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="TRADER_TENT" spawn_position="[1790.78, 119.61, 89.26]" UNK_100B5E15="[0.0, 0.0, -33.8]" />
+          <static_prop config="TRADER_BED" spawn_position="[1790.64, 119.79, 89.15]" UNK_100B5E15="[0.0, 0.0, -31.51]" />
+          <static_prop config="TRADER_STOOL" spawn_position="[1788.291, 114.9984, 89.3703]" UNK_100B5E15="[0.0, 0.0, 113.7568]" />
+          <static_prop config="TRADER_SACKS" spawn_position="[1792.24, 114.5, 89.66]" UNK_100B5E15="[0.0, 0.0, 13.75]" />
+          <static_prop config="TRADER_CRATE" spawn_position="[1792.72, 113.11, 89.79]" UNK_100B5E15="[0.0, 0.0, 8.02]" />
+          <static_prop config="AMBIENT_LOW_L_COVER_02_NO_PLACE_ON_GROUND" spawn_position="[1793.566, 115.41, 89.578]" UNK_100B5E15="[355.67, 1.08, 119.157]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[1784.682, 118.3845, 88.8432]" UNK_FEBAD66A="9.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_BEECHERS_HOPE" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_ELK_BH" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_ELK" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_ELK" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_ELK_PELT" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_ELK_PELT" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_ELK_PELT" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_ELK_PELT" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1583.972, -1259.138, 74.74501]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1583.972, -1259.138, 74.74501]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[-1583.972, -1259.138, 74.74501]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[-1583.972, -1259.138, 74.74501]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="ELK_SKIN" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" outfit="META_OUTFIT_ANIMAL_ELK_M" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="117.5269" spawn_position="[-1588.144, -1265.135, 75.4264]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[-1589.647, -1182.877, 75.50156]" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_WARM" spawn_heading="158.87" spawn_position="[-1577.606, -1257.229, 74.14133]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_ELK" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" outfit="META_OUTFIT_ANIMAL_ELK_M" UNK_B8672DD1="true" spawn_heading="0.0" spawn_position="[-2738.821, -1450.36, 153.1332]" />
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="TRADER_TENT" spawn_position="[-1576.462, -1254.127, 74.09569]" UNK_100B5E15="[0.0, 0.0, 305.272]" />
+          <static_prop config="AMBIENT_BEDROLL_05_NO_SNAP" spawn_position="[-1576.462, -1254.127, 74.09569]" UNK_100B5E15="[0.0, 0.0, 305.272]" />
+          <static_prop config="AMBIENT_CAMPFIRE_ROCK_01" spawn_position="[-1578.497, -1259.84, 74.1]" UNK_100B5E15="[0.0, 0.0, 255.233]" />
+          <static_prop config="AMBIENT_CAMPFIRE_FIRE" spawn_position="[-1578.497, -1259.84, 74.22025]" UNK_100B5E15="[0.0, 0.0, 177.835]" />
+          <static_prop config="AMBIENT_CRATE_WITH_SACKS_NO_SNAP" spawn_position="[-1581.16, -1255.59, 74.44783]" UNK_100B5E15="[354.59, 0.0, 138.956]" />
+          <static_prop config="TRADER_STOOL" spawn_position="[-1577.606, -1257.229, 74.14133]" UNK_100B5E15="[0.0, 0.0, 158.87]" />
+          <static_prop config="TRADER_CRATE" spawn_position="[-1571.959, -1260.657, 74.02856]" UNK_100B5E15="[0.0, 0.0, 157.316]" />
+          <static_prop config="AMBIENT_COVER_BOX_04x" spawn_position="[-1575.302, -1264.646, 74.10985]" UNK_100B5E15="[0.0, 0.0, 136.796]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[-1576.462, -1254.127, 74.09569]" UNK_FEBAD66A="2.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_BEECHERS_HOPE_BISON" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_BISON_GP" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_BISON" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_BISON" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_BISON_PELT" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_BISON_PELT" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_BISON_PELT" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_BISON_PELT" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1592.06, -1183.241, 77.767]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1592.06, -1183.241, 77.767]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[-1592.06, -1183.241, 77.767]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[-1592.06, -1183.241, 77.767]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="BISON_SKIN" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="98.3694" spawn_position="[-1593.556, -1176.522, 75.3041]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[-1589.647, -1182.877, 75.50156]" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_WARM" spawn_heading="124.3261" spawn_position="[-1590.329, -1182.353, 75.0394]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_BISON" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="0.0" spawn_position="[-1402.323, -1495.818, 85.6273]" />
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="TRADER_TENT" spawn_position="[-1586.828, -1180.348, 75.093]" UNK_100B5E15="[0.0, 0.0, 305.272]" />
+          <static_prop config="AMBIENT_BEDROLL_05_NO_SNAP" spawn_position="[-1586.828, -1180.348, 75.091]" UNK_100B5E15="[0.0, 0.0, 305.272]" />
+          <static_prop config="AMBIENT_CAMPFIRE_ROCK_01" spawn_position="[-1591.69, -1183.825, 75.0]" UNK_100B5E15="[0.0, 0.0, 255.233]" />
+          <static_prop config="AMBIENT_CAMPFIRE_FIRE" spawn_position="[-1591.743, -1183.827, 75.153]" UNK_100B5E15="[0.0, 0.0, 177.835]" />
+          <static_prop config="AMBIENT_CRATE_WITH_SACKS_NO_SNAP" spawn_position="[-1590.25, -1179.555, 75.069]" UNK_100B5E15="[354.59, 0.0, 138.956]" />
+          <static_prop config="TRADER_STOOL" spawn_position="[-1589.673, -1182.868, 75.042]" UNK_100B5E15="[0.0, 0.0, 116.997]" />
+          <static_prop config="TRADER_SACKS" spawn_position="[-1591.661, -1180.382, 75.058]" UNK_100B5E15="[0.0, 0.0, 157.316]" />
+          <static_prop config="TRADER_CRATE" spawn_position="[-1586.624, -1183.343, 75.11]" UNK_100B5E15="[0.0, 0.0, 157.316]" />
+          <static_prop config="AMBIENT_COVER_BOX_04x" spawn_position="[-1586.53, -1184.976, 75.123]" UNK_100B5E15="[0.0, 0.0, 136.796]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[-1586.741, -1180.275, 75.096]" UNK_FEBAD66A="2.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[-1591.693, -1183.845, 75.036]" UNK_FEBAD66A="2.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_APPLESEED" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_DUCK_ATC" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_DUCK" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_DUCK" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_DUCK" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_DUCK" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_DUCK" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_DUCK" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1398.445, -209.678, 102.884]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1398.445, -209.678, 102.884]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[-1398.445, -209.678, 102.884]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[-1398.445, -209.678, 102.884]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="DUCK_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="281.5352" spawn_position="[-1402.654, -198.955, 100.6038]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[-1397.824, -210.2883, 101.9903]" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_COLD" spawn_heading="197.3989" spawn_position="[-1398.731, -210.7601, 101.5172]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_DUCK" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="0.0" spawn_position="[-829.9327, -346.8212, 40.55892]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_TENT_PLAID" placement_type="ALIGN_TO_GROUND" spawn_heading="100.0" spawn_position="[-1398.594, -209.412, 101.541]" />
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="100.0" spawn_position="[-1398.055, -211.918, 101.478]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="CHAIR_06X" spawn_position="[-1397.922, -210.308, 101.534]" UNK_100B5E15="[0.0, 0.0, 1.08]" />
+          <static_prop config="AMBIENT_COVER_BOX_04x_NO_SNAP" spawn_position="[-1397.313, -206.06, 101.558]" UNK_100B5E15="[0.0, 0.0, 62.998]" />
+          <static_prop config="AMBIENT_MINI_BARRELS_NO_SNAP" spawn_position="[-1395.76, -207.435, 101.556]" UNK_100B5E15="[0.0, 0.0, 87.838]" />
+          <static_prop config="AMBIENT_CRATE_WITH_SACKS_NO_SNAP" spawn_position="[-1397.545, -207.173, 101.521]" UNK_100B5E15="[0.0, 0.0, 213.474]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[-1355.573, -212.3073, 100.3676]" UNK_FEBAD66A="6.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_APPLESEED_TURKEY" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_TURKEY_WE" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_EASTERN_TURKEY" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_EASTERN_TURKEY" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_TURKEY_V" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_TURKEY_V" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_TURKEY_V" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_TURKEY_V" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1398.445, -209.678, 102.884]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1398.445, -209.678, 102.884]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[-1398.445, -209.678, 102.884]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[-1398.445, -209.678, 102.884]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="TURKEY_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="281.5352" spawn_position="[-1402.654, -198.955, 100.6038]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[-1397.824, -210.2883, 101.9903]" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_COLD" spawn_heading="197.3989" spawn_position="[-1398.731, -210.7601, 101.5172]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_TURKEY" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="0.0" spawn_position="[-994.0745, -251.5075, 87.32967]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_TENT_PLAID" placement_type="ALIGN_TO_GROUND" spawn_heading="100.0" spawn_position="[-1398.594, -209.412, 101.541]" />
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="100.0" spawn_position="[-1398.055, -211.918, 101.478]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="CHAIR_06X" spawn_position="[-1397.922, -210.308, 101.534]" UNK_100B5E15="[0.0, 0.0, 1.08]" />
+          <static_prop config="AMBIENT_COVER_BOX_04x_NO_SNAP" spawn_position="[-1397.313, -206.06, 101.558]" UNK_100B5E15="[0.0, 0.0, 62.998]" />
+          <static_prop config="AMBIENT_MINI_BARRELS_NO_SNAP" spawn_position="[-1395.76, -207.435, 101.556]" UNK_100B5E15="[0.0, 0.0, 87.838]" />
+          <static_prop config="AMBIENT_CRATE_WITH_SACKS_NO_SNAP" spawn_position="[-1397.545, -207.173, 101.521]" UNK_100B5E15="[0.0, 0.0, 213.474]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[-1355.573, -212.3073, 100.3676]" UNK_FEBAD66A="6.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_RIO_BRAVO" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_CONDOR_RB" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_CONDOR" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_CONDOR" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_CONDOR" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_CONDOR" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_CONDOR" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_CONDOR" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-4520.768, -3253.259, 11.0013]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-4520.768, -3253.259, 11.0013]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[-4520.768, -3253.259, 11.0013]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[-4520.768, -3253.259, 11.0013]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="CONDOR_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="287.752" spawn_position="[-4521.54, -3258.94, 11.9]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_BARREL" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_WARM" spawn_heading="212.3016" spawn_position="[-4522.297, -3252.224, 10.9172]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_CONDOR" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="72.09" spawn_position="[-3912.478, -3309.649, 23.29693]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_TENT_PLAID" placement_type="ALIGN_TO_GROUND" spawn_heading="140.0" spawn_position="[-4522.841, -3253.28, 10.978]" />
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="0.0" spawn_position="[-4520.832, -3253.336, 11.001]" />
+          <prop_set config="BARREL_GROUP" placement_type="ALIGN_AS_ONE" spawn_heading="70.0" spawn_position="[-4522.816, -3251.097, 10.866]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_BARREL_CHAIR_04_NO_SNAP" spawn_position="[-4521.857, -3254.51, 10.982]" UNK_100B5E15="[0.0, 0.0, 213.474]" />
+          <static_prop config="TRADER_SACKS" spawn_position="[-4525.3, -3257.35, 10.88]" UNK_100B5E15="[0.0, 0.0, 87.66]" />
+          <static_prop config="TRADER_CRATE" spawn_position="[-4526.89, -3257.24, 10.8]" UNK_100B5E15="[0.0, 0.0, 10.89]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[-4523.932, -3252.695, 10.8708]" UNK_FEBAD66A="6.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_RIO_BRAVO_PRONGHORN" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_PRONGHORN_DESERT" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_PRONGHORN" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_PRONGHORN" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_PRONGHORN" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_PRONGHORN" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_PRONGHORN" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_PRONGHORN" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-4520.768, -3253.259, 11.0013]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-4520.768, -3253.259, 11.0013]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[-4520.768, -3253.259, 11.0013]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[-4520.768, -3253.259, 11.0013]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="PRONGHORN_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="287.752" spawn_position="[-4521.54, -3258.94, 11.9]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_BARREL" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_WARM" spawn_heading="212.3016" spawn_position="[-4522.297, -3252.224, 10.9172]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_PRONGHORN" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="138.6" spawn_position="[-3747.111, -3238.02, -6.07875]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_TENT_PLAID" placement_type="ALIGN_TO_GROUND" spawn_heading="140.0" spawn_position="[-4522.841, -3253.28, 10.978]" />
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="0.0" spawn_position="[-4520.832, -3253.336, 11.001]" />
+          <prop_set config="BARREL_GROUP" placement_type="ALIGN_AS_ONE" spawn_heading="70.0" spawn_position="[-4522.816, -3251.097, 10.866]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_BARREL_CHAIR_04_NO_SNAP" spawn_position="[-4521.857, -3254.51, 10.982]" UNK_100B5E15="[0.0, 0.0, 213.474]" />
+          <static_prop config="TRADER_SACKS" spawn_position="[-4525.3, -3257.35, 10.88]" UNK_100B5E15="[0.0, 0.0, 87.66]" />
+          <static_prop config="TRADER_CRATE" spawn_position="[-4526.89, -3257.24, 10.8]" UNK_100B5E15="[0.0, 0.0, 10.89]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[-4523.932, -3252.695, 10.8708]" UNK_FEBAD66A="6.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_HENNIGANS" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_TURTLE_HS" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_TURTLE" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_TURTLE" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_TURTLE" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_TURTLE" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_TURTLE" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_TURTLE" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume id="VOL_SPAWN">
+            <config position="[-1715.905, -2380.136, 43.9]" rotation="[0.0, 0.0, 0.0]" scale="[50.0, 50.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1767.126, -2493.218, 44.1408]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1767.126, -2493.218, 44.1408]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[-1767.126, -2493.218, 44.1408]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[-1767.126, -2493.218, 44.1408]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="TURTLE_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="5.0" spawn_position="[-1762.745, -2494.608, 44.2451]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[-1769.507, -2490.65, 44.6139]" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_WARM" spawn_heading="319.0341" spawn_position="[-1770.256, -2490.381, 44.1269]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_TURTLE" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="0.0" spawn_position="[-1702.071, -2391.999, 43.01171]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="0.0" spawn_position="[-1767.979, -2489.131, 44.115]" />
+          <prop_set config="BURLAP_TENT" placement_type="ALIGN_TO_GROUND" spawn_heading="220.0" spawn_position="[-1768.831, -2491.594, 44.113]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="TRADER_STOOL" spawn_position="[-1769.54, -2490.64, 44.15]" UNK_100B5E15="[0.0, 0.0, -38.66]" />
+          <static_prop config="TRADER_SACKS" spawn_position="[-1773.32, -2493.38, 44.3]" UNK_100B5E15="[0.0, 0.0, -31.51]" />
+          <static_prop config="TRADER_CRATE" spawn_position="[-1774.64, -2492.81, 44.37]" UNK_100B5E15="[0.0, 0.0, -15.47]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[-1766.611, -2492.935, 44.1421]" UNK_FEBAD66A="6.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+      <location id="CAMP_RESUPPLY_TRADE_HENNIGANS_DEER" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_979DA565="true" UNK_FDC87390="true" UNK_B8672DD1="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" UNK_98E1D7C3="true">
+          <text id="HELP_TEAM_PRIMARY">
+            <UNK_DCABB005>
+              <UNK_E5CE400A UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_WAGON" />
+              <UNK_E5CE400A UNK_A595AF4B="1500" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_INTRO_DEER_HENNIGAN" />
+            </UNK_DCABB005>
+          </text>
+          <text id="HELP_OBJECTIVE_STOW" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_OBJECTIVE_STOW_WHITETAIL_DEER" />
+          <text id="HELP_OBJECTIVE_IN_HUNTING_WAGON" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_HELP_HUNTING_WAGON_WHITETAIL_DEER" />
+          <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_RESUPPLY_OBJ_FIND_DEER_CF" />
+          <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_HELP_DEER" />
+          <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DELIVERY_DEER" />
+          <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_RESUPPLY_TRADE_OBJ_DROP_DEER" />
+        </UNK_AE702DE>
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="TRADAUD" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_7CAE4BF3="AVOIDANCE_LARGE_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1767.126, -2493.218, 44.1408]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_ALL_ANIMALS" id="VOL_GUARD_0">
+            <config position="[-1767.126, -2493.218, 44.1408]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 40.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[-1767.126, -2493.218, 44.1408]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 15.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[-1767.126, -2493.218, 44.1408]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 4.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_1" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="ANIMAL_LOOTED" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="240000" />
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger id="OBJECTIVE_TURNED_IN_0" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN">
+            <UNK_1331CF2C action="SET_TIME_LIMIT_IF_LESS" UNK_5AB5EF23="150000" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN" />
+          <trigger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" id="PLAYER_IN_EARSHOT" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="30.0" />
+          <trigger id="MISSION_TIMED_OUT" role="TIME_EXPIRED" />
+          <trigger UNK_2A5A1C92="0" id="ESCORTING_WAGON" UNK_E798E305="PRIMARY" role="SPECIFIC_OBJECTIVE_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective config="DEER_CORPSE" UNK_F5D3F1EC="ABSTRACT" UNK_929BA9B0="true" UNK_9DAC06EF="false" UNK_E155E58A="WAGON" />
+          <objective UNK_15BA74F5="false" config="RESUPPLY_TRADE_WAGON_05" UNK_F5D3F1EC="VEHICLE" UNK_895487CA="10.0" UNK_A373CA05="0" UNK_A0BC6696="false" spawn_heading="5.0" spawn_position="[-1762.745, -2494.608, 44.2451]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_1" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard config="CAMP_RESUPPLY_TRADER" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_1DA371B9="[-1769.507, -2490.65, 44.6139]" UNK_E798E305="PRIMARY" outfit="META_OUTFIT_WARM" spawn_heading="319.0341" spawn_position="[-1770.256, -2490.381, 44.1269]">
+            <UNK_6AC736F6 name="RE005_MALE1">
+              <conversations>
+                <conversation UNK_BB273982="ENEMIES_FOUND" UNK_E9EDC3EB="PLAYER_IN_EARSHOT" root="TRAD_TRD_APPRCH" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="OBJECTIVE_TURNED_IN_0" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" root="TRAD_TRD_IDLE" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="1000" root="TRAD_TRD_TIME" type="TIME_REMAINING" />
+                <conversation UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_GIVES" type="ON_TRIGGER" />
+                <conversation interrupts="true" UNK_546DA2DB="true" UNK_E9EDC3EB="MISSION_TIMED_OUT" root="TRAD_TRD_FAIL" type="ON_TRIGGER" />
+                <conversation UNK_BB273982="ESCORTING_WAGON" UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="OBJECTIVE_TURNED_IN_0" root="TRAD_TRD_IDLENS" type="PLAYERS_IDLING_IN_VOLUME" />
+                <conversation UNK_316996C8="10000" UNK_CA822909="VOL_GUARD_1" repeats="true" UNK_E9EDC3EB="ESCORTING_WAGON" root="TRAD_TRD_IDLEYS" type="PLAYERS_IDLING_IN_VOLUME" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="AMBIENT_DEER" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_B8672DD1="true" spawn_heading="0.0" spawn_position="[-1842.92, -2364.086, 44.48743]" />
+        </guards>
+        <UNK_5D1EFC39>
+          <prop_set config="CAMPSITE_CAMPFIRE_ON_01X" placement_type="ALIGN_TO_GROUND" spawn_heading="0.0" spawn_position="[-1767.979, -2489.131, 44.115]" />
+          <prop_set config="BURLAP_TENT" placement_type="ALIGN_TO_GROUND" spawn_heading="220.0" spawn_position="[-1768.831, -2491.594, 44.113]" />
+        </UNK_5D1EFC39>
+        <UNK_69FD74EB>
+          <static_prop config="TRADER_STOOL" spawn_position="[-1769.54, -2490.64, 44.15]" UNK_100B5E15="[0.0, 0.0, -38.66]" />
+          <static_prop config="TRADER_SACKS" spawn_position="[-1773.32, -2493.38, 44.3]" UNK_100B5E15="[0.0, 0.0, -31.51]" />
+          <static_prop config="TRADER_CRATE" spawn_position="[-1774.64, -2492.81, 44.37]" UNK_100B5E15="[0.0, 0.0, -15.47]" />
+        </UNK_69FD74EB>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[-1766.611, -2492.935, 44.1421]" UNK_FEBAD66A="6.0" type="CULL" />
+        </UNK_1E7FFBD4>
+      </location>
+    </locations>
+  </data>
+</root>

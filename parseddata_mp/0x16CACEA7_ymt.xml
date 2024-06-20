@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_4A4CB56A>
+    <UNK_31DD7FD>
+      <UNK_9FE3977D>
+        <threshold id="0" />
+        <icon id="1" />
+        <UNK_AC2A2AEE>
+          <flag id="IGNORE_HONOR_PENALTIES" />
+          <flag id="DISHONORABLE" />
+        </UNK_AC2A2AEE>
+      </UNK_9FE3977D>
+      <UNK_9FE3977D>
+        <threshold id="100" />
+        <icon id="2" />
+        <UNK_AC2A2AEE>
+          <flag id="DISHONORABLE" />
+        </UNK_AC2A2AEE>
+      </UNK_9FE3977D>
+      <UNK_9FE3977D>
+        <threshold id="200" />
+        <icon id="3" />
+        <UNK_AC2A2AEE>
+          <flag id="DISHONORABLE" />
+        </UNK_AC2A2AEE>
+      </UNK_9FE3977D>
+      <UNK_9FE3977D>
+        <threshold id="300" />
+        <icon id="4" />
+        <UNK_AC2A2AEE>
+          <flag id="DISHONORABLE" />
+        </UNK_AC2A2AEE>
+      </UNK_9FE3977D>
+      <UNK_9FE3977D>
+        <threshold id="400" />
+        <icon id="5" />
+        <UNK_AC2A2AEE>
+          <flag id="DISHONORABLE" />
+        </UNK_AC2A2AEE>
+      </UNK_9FE3977D>
+      <UNK_9FE3977D>
+        <threshold id="500" />
+        <icon id="6" />
+        <UNK_AC2A2AEE>
+          <flag id="DISHONORABLE" />
+        </UNK_AC2A2AEE>
+      </UNK_9FE3977D>
+      <UNK_9FE3977D>
+        <threshold id="600" />
+        <icon id="7" />
+        <UNK_AC2A2AEE>
+          <flag id="DISHONORABLE" />
+        </UNK_AC2A2AEE>
+      </UNK_9FE3977D>
+      <UNK_9FE3977D>
+        <threshold id="700" />
+        <icon id="8" />
+        <UNK_AC2A2AEE>
+          <flag id="DISHONORABLE" />
+        </UNK_AC2A2AEE>
+      </UNK_9FE3977D>
+      <UNK_9FE3977D>
+        <threshold id="800" />
+        <icon id="9" />
+        <UNK_AC2A2AEE>
+          <flag id="HONORABLE" />
+        </UNK_AC2A2AEE>
+      </UNK_9FE3977D>
+      <UNK_9FE3977D>
+        <threshold id="900" />
+        <icon id="10" />
+        <UNK_AC2A2AEE>
+          <flag id="HONORABLE" />
+        </UNK_AC2A2AEE>
+      </UNK_9FE3977D>
+      <UNK_9FE3977D>
+        <threshold id="1000" />
+        <icon id="11" />
+        <UNK_AC2A2AEE>
+          <flag id="HONORABLE" />
+        </UNK_AC2A2AEE>
+      </UNK_9FE3977D>
+      <UNK_9FE3977D>
+        <threshold id="1100" />
+        <icon id="12" />
+        <UNK_AC2A2AEE>
+          <flag id="HONORABLE" />
+        </UNK_AC2A2AEE>
+      </UNK_9FE3977D>
+      <UNK_9FE3977D>
+        <threshold id="1200" />
+        <icon id="13" />
+        <UNK_AC2A2AEE>
+          <flag id="HONORABLE" />
+        </UNK_AC2A2AEE>
+      </UNK_9FE3977D>
+      <UNK_9FE3977D>
+        <threshold id="1300" />
+        <icon id="14" />
+        <UNK_AC2A2AEE>
+          <flag id="HONORABLE" />
+        </UNK_AC2A2AEE>
+      </UNK_9FE3977D>
+      <UNK_9FE3977D>
+        <threshold id="1400" />
+        <icon id="15" />
+        <UNK_AC2A2AEE>
+          <flag id="HONORABLE" />
+        </UNK_AC2A2AEE>
+      </UNK_9FE3977D>
+      <UNK_9FE3977D>
+        <threshold id="1500" />
+        <icon id="16" />
+        <UNK_AC2A2AEE>
+          <flag id="HONORABLE" />
+        </UNK_AC2A2AEE>
+      </UNK_9FE3977D>
+    </UNK_31DD7FD>
+    <UNK_D6048C19>
+      <action award="AWARD_HONOR_DEBUG_POSITIVE" cooldown="0" id="PERSONA_HONOR_ACTION__DEBUG_POSITIVE" positive="true" string="HONOR_ACTION_DEBUG_POSITIVE" />
+      <action award="AWARD_HONOR_DEBUG_NEGATIVE" cooldown="0" id="PERSONA_HONOR_ACTION__DEBUG_NEGATIVE" positive="false" string="HONOR_ACTION_DEBUG_NEGATIVE" />
+      <action award="AWARD_HONOR_REVIVE_POSSE" cooldown="120" id="PERSONA_HONOR_ACTION__REVIVE_POSSE" positive="true" string="HONOR_ACTION_REVIVE_POSSE" />
+      <action award="AWARD_HONOR_REVIVE_PLAYER" cooldown="120" id="PERSONA_HONOR_ACTION__REVIVE_PLAYER" positive="true" string="HONOR_ACTION_REVIVE_PLAYER" />
+      <action award="AWARD_HONOR_REVIVE_MULTI" cooldown="180" id="PERSONA_HONOR_ACTION__REVIVE_MULTI" positive="true" string="HONOR_ACTION_REVIVE_MULTI" />
+      <action award="AWARD_HONOR_HORSE_CARE" cooldown="60" id="PERSONA_HONOR_ACTION__HORSE_CARE" positive="true" string="HONOR_ACTION_HORSE_CARE" />
+      <action award="AWARD_HONOR_HORSE_CARE_CLEAN" cooldown="1680" id="PERSONA_HONOR_ACTION__HORSE_CARE_CLEAN" positive="true" string="HONOR_ACTION_HORSE_CARE_CLEAN" />
+      <action award="AWARD_HONOR_HORSE_CARE_FULL" cooldown="1680" id="PERSONA_HONOR_ACTION__HORSE_CARE_FULL" positive="true" string="HONOR_ACTION_HORSE_CARE_FULL" />
+      <action award="AWARD_HONOR_HORSE_CARE_PLAYER" cooldown="60" id="PERSONA_HONOR_ACTION__HORSE_CARE_PLAYER" positive="true" string="HONOR_ACTION_HORSE_CARE_PLAYER" />
+      <action award="AWARD_HONOR_RESOURCEFUL" cooldown="120" id="PERSONA_HONOR_ACTION__RESOURCEFUL" positive="true" string="HONOR_ACTION_RESOURCEFUL" />
+      <action award="AWARD_HONOR_CLEAR_HIDEOUT" cooldown="0" id="PERSONA_HONOR_ACTION__CLEAR_HIDEOUT" positive="true" string="HONOR_ACTION_CLEAR_HIDEOUT" />
+      <action award="AWARD_HONOR_CLEAR_AMBUSH" cooldown="0" id="PERSONA_HONOR_ACTION__CLEAR_AMBUSH" positive="true" string="HONOR_ACTION_CLEAR_AMBUSH" />
+      <action award="AWARD_HONOR_HIDEOUT_FREE_LEADER" cooldown="0" id="PERSONA_HONOR_ACTION__FREEROAM_HIDEOUT_SAVE" positive="true" string="HONOR_ACTION_FREEROAM_HIDEOUT_SAVE" />
+      <action award="AWARD_HONOR_GFH_LAWFUL" cooldown="0" id="PERSONA_HONOR_ACTION__GFH_LAWFUL" positive="true" string="HONOR_ACTION_GFH_LAWFUL" />
+      <action award="AWARD_HONOR_GFH_LAWFUL_PVP" cooldown="0" id="PERSONA_HONOR_ACTION__GFH_LAWFUL_PVP" positive="true" string="HONOR_ACTION_GFH_LAWFUL_PVP" />
+      <action award="AWARD_HONOR_INTRO_MISSION_POS" cooldown="0" id="PERSONA_HONOR_ACTION__INTRO_MISSION_POS" positive="true" string="HONOR_ACTION_INTRO_MISSION_POS" />
+      <action award="AWARD_HONOR_MISSION_INTRO_POS" cooldown="300" id="PERSONA_HONOR_ACTION__MISSION_GVO_INTRO_POS" positive="true" string="HONOR_ACTION_MISSION_GVO_INTRO_POS" />
+      <action award="AWARD_HONOR_MISSION_GUNSLINGER" cooldown="300" id="PERSONA_HONOR_ACTION__MISSION_GUNSLINGER" positive="true" string="HONOR_ACTION_MISSION_GUNSLINGER" />
+      <action award="AWARD_HONOR_MISSION_POSITIVE_FIVE" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_POS_FIVE" positive="true" string="HONOR_ACTION_MISSION_POS_FIVE" />
+      <action award="AWARD_HONOR_MISSION_POSITIVE_TEN" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_POS_TEN" positive="true" string="HONOR_ACTION_MISSION_POS_TEN" />
+      <action award="AWARD_HONOR_MISSION_POSITIVE_FIFTEEN" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_POS_FIFTEEN" positive="true" string="HONOR_ACTION_MISSION_POS_FIFTEEN" />
+      <action award="AWARD_HONOR_MISSION_POSITIVE_TWENTY" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_POS_TWENTY" positive="true" string="HONOR_ACTION_MISSION_POS_TWENTY" />
+      <action award="AWARD_HONOR_MISSION_POSITIVE_TWENTYFIVE" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_POS_TWENTYFIVE" positive="true" string="HONOR_ACTION_MISSION_POS_TWENTYFIVE" />
+      <action award="AWARD_HONOR_MISSION_POSITIVE_THIRTY" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_POS_THIRTY" positive="true" string="HONOR_ACTION_MISSION_POS_THIRTY" />
+      <action award="AWARD_HONOR_MISSION_POSITIVE_THIRTYFIVE" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_POS_THIRTYFIVE" positive="true" string="HONOR_ACTION_MISSION_POS_THIRTYFIVE" />
+      <action award="AWARD_HONOR_MISSION_POSITIVE_FORTY" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_POS_FORTY" positive="true" string="HONOR_ACTION_MISSION_POS_FORTY" />
+      <action award="AWARD_HONOR_MISSION_POSITIVE_FORTYFIVE" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_POS_FORTYFIVE" positive="true" string="HONOR_ACTION_MISSION_POS_FORTYFIVE" />
+      <action award="AWARD_HONOR_MISSION_POSITIVE_FIFTY" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_POS_FIFTY" positive="true" string="HONOR_ACTION_MISSION_POS_FIFTY" />
+      <action award="AWARD_HONOR_NB_ANIMAL_ATTACK_RESCUE" cooldown="0" id="PERSONA_HONOR_ACTION__NB_ANIMAL_ATTACK_SAVE" positive="true" string="HONOR_ACTION_NB_ANIMAL_ATTACK_SAVE" />
+      <action award="AWARD_HONOR_MERCY_KILL" cooldown="0" id="PERSONA_HONOR_ACTION__MERCY_KILL" positive="true" string="HONOR_ACTION_MERCY_KILL" />
+      <action award="AWARD_HONOR_NB_WILDMAN_FEED" cooldown="0" id="PERSONA_HONOR_ACTION__NB_WILDMAN_FEED" positive="true" string="HONOR_ACTION_NB_WILDMAN_FEED" />
+      <action award="AWARD_HONOR_NB_KIDNAPPED_RESCUE" cooldown="0" id="PERSONA_HONOR_ACTION__NB_KIDNAPPED_RESCUE" positive="true" string="HONOR_ACTION_NB_KIDNAPPED_RESCUE" />
+      <action award="AWARD_HONOR_NB_TIED_UP_RESCUE" cooldown="0" id="PERSONA_HONOR_ACTION__NB_TIED_UP_RESCUE" positive="true" string="HONOR_ACTION_NB_TIED_UP_RESCUE" />
+      <action award="AWARD_HONOR_NB_ARROWHEAD_INJURY_MERCY_KILL" cooldown="0" id="PERSONA_HONOR_ACTION__NB_ARROWHEAD_INJURY_MERCY_KILL" positive="true" string="HONOR_ACTION_NB_ARROWHEAD_INJURY_MERCY_KILL" />
+      <action award="AWARD_HONOR_NB_PHOTOGRAPHY_ASSIST" cooldown="0" id="PERSONA_HONOR_ACTION__NB_PHOTOGRAPHY_ASSIST" positive="true" string="HONOR_ACTION_NB_PHOTOGRAPHY_ASSIST" />
+      <action award="AWARD_HONOR_NB_RUNAWAY_WAGON_ASSIST" cooldown="0" id="PERSONA_HONOR_ACTION__NB_RUNAWAY_WAGON_ASSIST" positive="true" string="HONOR_ACTION_NB_RUNAWAY_WAGON_ASSIST" />
+      <action award="AWARD_HONOR_NB_RUNAWAY_WAGON_ASSIST" cooldown="0" id="PERSONA_HONOR_ACTION__NB_RUNAWAY_WAGON_RETURN" positive="true" string="HONOR_ACTION_NB_RUNAWAY_WAGON_RETURN" />
+      <action award="AWARD_HONOR_BOUNTY_RETURNED_ALIVE" cooldown="0" id="PERSONA_HONOR_ACTION__FME_BOUNTY_RETURNED_ALIVE" positive="true" string="HONOR_ACTION_FME_BOUNTY_RETURNED_ALIVE" />
+      <action award="AWARD_HONOR_NB_BEGGAR_DONATE" cooldown="0" id="PERSONA_HONOR_ACTION__NB_BEGGAR_DONATE" positive="true" string="HONOR_NB_BEGGAR_DONATE" />
+      <action award="AWARD_HONOR_NB_SUSPENSION_TRAP_SAVE" cooldown="0" id="PERSONA_HONOR_ACTION__NB_SUSPENSION_TRAP_SAVE" positive="true" string="HONOR_ACTION_NB_SUSPENSION_TRAP_SAVE" />
+      <action award="AWARD_HONOR_REVIVE_ANIMAL" cooldown="0" id="PERSONA_HONOR_ACTION__REVIVE_SEDATED_ANIMAL" positive="true" string="HONOR_ACTION_REVIVE_SEDATED_ANIMAL" />
+      <action award="AWARD_HONOR_MURDER_BUTCHER" cooldown="0" id="PERSONA_HONOR_ACTION__MURDER_BUTCHER" positive="false" string="HONOR_ACTION_MURDER_BUTCHER" />
+      <action award="AWARD_HONOR_MURDER" cooldown="0" id="PERSONA_HONOR_ACTION__MURDER" positive="false" string="HONOR_ACTION_MURDER" />
+      <action award="AWARD_HONOR_MURDER_CAMP_FOLLOWER" cooldown="0" id="PERSONA_HONOR_ACTION__MURDER_CAMP_FOLLOWER" positive="false" string="HONOR_ACTION_MURDER_CAMP_FOLLOWER" />
+      <action award="AWARD_HONOR_MURDER_PLAYER" cooldown="0" id="PERSONA_HONOR_ACTION__MURDER_PLAYER" positive="false" string="HONOR_ACTION_MURDER_PLAYER" />
+      <action award="AWARD_HONOR_MURDER_RAMPAGE" cooldown="60" id="PERSONA_HONOR_ACTION__MURDER_RAMPAGE" positive="false" string="HONOR_ACTION_MURDER_RAMPAGE" />
+      <action award="AWARD_HONOR_VIP" cooldown="0" id="PERSONA_HONOR_ACTION__MURDER_MISSION_PEDS" positive="false" string="HONOR_ACTION_MURDER_MISSION_PEDS" />
+      <action award="AWARD_HONOR_MELEE_ARMED" cooldown="60" id="PERSONA_HONOR_ACTION__MELEE_ATTACK_PLAYER" positive="false" string="HONOR_ACTION_MELEE_ATTACK_PLAYER" />
+      <action award="AWARD_HONOR_MELEE_UNARMED" cooldown="60" id="PERSONA_HONOR_ACTION__MELEE_ATTACK_PLAYER_UNARMED" positive="false" string="HONOR_ACTION_MELEE_ATTACK_PLAYER_UNARMED" />
+      <action award="AWARD_HONOR_HOGTIE_PLAYER" cooldown="60" id="PERSONA_HONOR_ACTION__HOGTIE_PLAYER" positive="false" string="HONOR_ACTION_HOGTIE_PLAYER" />
+      <action award="AWARD_HONOR_EXECUTE_PLAYER" cooldown="0" id="PERSONA_HONOR_ACTION__EXECUTION_PLAYER" positive="false" string="HONOR_ACTION_EXECUTION_PLAYER" />
+      <action award="AWARD_HONOR_BLEED_OUT" cooldown="60" id="PERSONA_HONOR_ACTION__WATCH_BLEED_OUT" positive="false" string="HONOR_ACTION_WATCH_BLEED_OUT" />
+      <action award="AWARD_HONOR_HORSE_MURDER" cooldown="60" id="PERSONA_HONOR_ACTION__MURDER_HORSE" positive="false" string="HONOR_ACTION_MURDER_HORSE" />
+      <action award="AWARD_HONOR_SLAUGHTER_PETS" cooldown="0" id="PERSONA_HONOR_ACTION__SLAUGHTER_PETS" positive="false" string="HONOR_ACTION_SLAUGHTER_PETS" />
+      <action award="AWARD_HONOR_HORSE_THIEF" cooldown="60" id="PERSONA_HONOR_ACTION__HORSE_THIEF_AI" positive="false" string="HONOR_ACTION_HORSE_THIEF_AI" />
+      <action award="AWARD_HONOR_WAGON_THIEF" cooldown="60" id="PERSONA_HONOR_ACTION__WAGON_THIEF_AI" positive="false" string="HONOR_ACTION_WAGON_THIEF_AI" />
+      <action award="AWARD_HONOR_WAGON_THIEF_PLAYER" cooldown="60" id="PERSONA_HONOR_ACTION__WAGON_THIEF_PLAYER" positive="false" string="HONOR_ACTION_WAGON_THIEF_PLAYER" />
+      <action award="AWARD_HONOR_HORSE_THIEF_PLAYER" cooldown="60" id="PERSONA_HONOR_ACTION__HORSE_THIEF_PLAYER" positive="false" string="HONOR_ACTION_HORSE_THIEF_PLAYER" />
+      <action award="AWARD_HONOR_HORSE_MURDER_PLAYER" cooldown="0" id="PERSONA_HONOR_ACTION__MURDER_HORSE_PLAYER" positive="false" string="HONOR_ACTION_MURDER_HORSE_PLAYER" />
+      <action award="AWARD_HONOR_TRAMPLE" cooldown="2" id="PERSONA_HONOR_ACTION__TRAMPLE" positive="false" string="HONOR_ACTION_TRAMPLE" />
+      <action award="AWARD_HONOR_LOOT_CORPSE" cooldown="60" id="PERSONA_HONOR_ACTION__LOOTING_BODIES" positive="false" string="HONOR_ACTION_LOOTING_BODIES" />
+      <action award="AWARD_HONOR_ANTAGONIZE" cooldown="30" id="PERSONA_HONOR_ACTION__UNPROVOKED_ANTAGONIZATION" positive="false" string="HONOR_ACTION_UNPROVOKED_ANTAGONIZATION" />
+      <action award="AWARD_HONOR_GRIEFING" cooldown="0" id="PERSONA_HONOR_ACTION__GRIEFING" positive="false" string="HONOR_ACTION_GRIEFING" />
+      <action award="AWARD_HONOR_IGNORE_MISSION" cooldown="0" id="PERSONA_HONOR_ACTION__IGNORE_MISSION" positive="false" string="HONOR_ACTION_IGNORE_MISSION" />
+      <action award="AWARD_HONOR_HIDEOUT_MURDER_LEADER" cooldown="0" id="PERSONA_HONOR_ACTION__FREEROAM_HIDEOUT_KILL" positive="false" string="HONOR_ACTION_FREEROAM_HIDEOUT_KILL" />
+      <action award="AWARD_HONOR_HIDEOUT_BETRAY_LEADER" cooldown="0" id="PERSONA_HONOR_ACTION__FREEROAM_HIDEOUT_SAVE_THEN_KILL" positive="false" string="HONOR_ACTION_FREEROAM_HIDEOUT_SAVE_THEN_KILL" />
+      <action award="AWARD_HONOR_GFH_CRIMINAL" cooldown="0" id="PERSONA_HONOR_ACTION__GFH_CRIMINAL" positive="false" string="HONOR_ACTION_GFH_CRIMINAL" />
+      <action award="AWARD_HONOR_GFH_CRIMINAL_PVP" cooldown="0" id="PERSONA_HONOR_ACTION__GFH_CRIMINAL_PVP" positive="false" string="HONOR_ACTION_GFH_CRIMINAL_PVP" />
+      <action award="AWARD_HONOR_RUSTLING" cooldown="0" id="PERSONA_HONOR_ACTION__RUSTLING" positive="false" string="HONOR_ACTION_RUSTLING" />
+      <action award="AWARD_HONOR_HERDING_STEAL" cooldown="0" id="PERSONA_HONOR_ACTION__HERDING_STEAL" positive="false" string="HONOR_ACTION_HERDING_STEAL" />
+      <action award="AWARD_HONOR_INTRO_MISSION_NEG" cooldown="0" id="PERSONA_HONOR_ACTION__INTRO_MISSION_NEG" positive="false" string="HONOR_ACTION_INTRO_MISSION_NEG" />
+      <action award="AWARD_HONOR_MISSION_INTRO_NEG" cooldown="300" id="PERSONA_HONOR_ACTION__MISSION_GVO_INTRO_NEG" positive="false" string="HONOR_ACTION_MISSION_GVO_INTRO_NEG" />
+      <action award="AWARD_HONOR_MISSION_OUTLAW" cooldown="300" id="PERSONA_HONOR_ACTION__MISSION_OUTLAW" positive="false" string="HONOR_ACTION_MISSION_OUTLAW" />
+      <action award="AWARD_HONOR_MISSION_NEGATIVE_FIVE" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_NEG_FIVE" positive="false" string="HONOR_ACTION_MISSION_NEG_FIVE" />
+      <action award="AWARD_HONOR_MISSION_NEGATIVE_TEN" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_NEG_TEN" positive="false" string="HONOR_ACTION_MISSION_NEG_TEN" />
+      <action award="AWARD_HONOR_MISSION_NEGATIVE_FIFTEEN" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_NEG_FIFTEEN" positive="false" string="HONOR_ACTION_MISSION_NEG_FIFTEEN" />
+      <action award="AWARD_HONOR_MISSION_NEGATIVE_TWENTY" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_NEG_TWENTY" positive="false" string="HONOR_ACTION_MISSION_NEG_TWENTY" />
+      <action award="AWARD_HONOR_MISSION_NEGATIVE_TWENTYFIVE" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_NEG_TWENTYFIVE" positive="false" string="HONOR_ACTION_MISSION_NEG_TWENTYFIVE" />
+      <action award="AWARD_HONOR_MISSION_NEGATIVE_THIRTY" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_NEG_THIRTY" positive="false" string="HONOR_ACTION_MISSION_NEG_THIRTY" />
+      <action award="AWARD_HONOR_MISSION_NEGATIVE_THIRTYFIVE" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_NEG_THIRTYFIVE" positive="false" string="HONOR_ACTION_MISSION_NEG_THIRTYFIVE" />
+      <action award="AWARD_HONOR_MISSION_NEGATIVE_FORTY" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_NEG_FORTY" positive="false" string="HONOR_ACTION_MISSION_NEG_FORTY" />
+      <action award="AWARD_HONOR_MISSION_NEGATIVE_FORTYFIVE" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_NEG_FORTYFIVE" positive="false" string="HONOR_ACTION_MISSION_NEG_FORTYFIVE" />
+      <action award="AWARD_HONOR_MISSION_NEGATIVE_FIFTY" cooldown="0" id="PERSONA_HONOR_ACTION__MISSION_NEG_FIFTY" positive="false" string="HONOR_ACTION_MISSION_NEG_FIFTY" />
+      <action award="AWARD_HONOR_LOOTING" cooldown="20" id="PERSONA_HONOR_ACTION__LOOTING" positive="false" string="HONOR_ACTION_LOOTING" />
+      <action award="AWARD_HONOR_THEFT" cooldown="20" id="PERSONA_HONOR_ACTION__THEFT" positive="false" string="HONOR_ACTION_THEFT" />
+      <action award="AWARD_HONOR_ANIMAL_CRUELTY" cooldown="20" id="PERSONA_HONOR_ACTION__ANIMAL_CRUELTY" positive="false" string="HONOR_ACTION_ANIMAL_CRUELTY" />
+      <action award="AWARD_HONOR_ARSON" cooldown="20" id="PERSONA_HONOR_ACTION__ARSON" positive="false" string="HONOR_ACTION_ARSON" />
+      <action award="AWARD_HONOR_VANDALISM_LOW" cooldown="20" id="PERSONA_HONOR_ACTION__VANDALISM_LOW" positive="false" string="HONOR_ACTION_VANDALISM_LOW" />
+      <action award="AWARD_HONOR_NB_KIDNAPPED_KILL" cooldown="0" id="PERSONA_HONOR_ACTION__NB_KIDNAPPED_KILL" positive="false" string="HONOR_ACTION_NB_KIDNAPPED_KILL" />
+      <action award="AWARD_HONOR_NB_WILDMAN_KILL" cooldown="0" id="PERSONA_HONOR_ACTION__NB_WILDMAN_KILL" positive="false" string="HONOR_ACTION_NB_WILDMAN_KILL" />
+      <action award="AWARD_HONOR_NB_GRAVEROBBER_KILL" cooldown="0" id="PERSONA_HONOR_ACTION__NB_GRAVEROBBER_KILL" positive="false" string="HONOR_ACTION_NB_GRAVEROBBER_KILL" />
+      <action award="AWARD_HONOR_NB_GRAVEROBBER_ACCEPT" cooldown="0" id="PERSONA_HONOR_ACTION__NB_GRAVEROBBER_ACCEPT" positive="false" string="HONOR_ACTION_NB_GRAVEROBBER_ACCEPT" />
+      <action award="AWARD_HONOR_NB_TREASURE_HUNTER_KILL" cooldown="0" id="PERSONA_HONOR_ACTION__NB_TREASURE_HUNTER_KILL" positive="false" string="HONOR_ACTION_NB_TREASURE_HUNTER_KILL" />
+      <action award="AWARD_HONOR_NB_RIVAL_COLLECTOR_KILL" cooldown="0" id="PERSONA_HONOR_ACTION__NB_RIVAL_COLLECTOR_KILL" positive="false" string="HONOR_ACTION_NB_RIVAL_COLLECTOR_KILL" />
+      <action award="AWARD_HONOR_NB_RIVAL_COLLECTOR_LOOT" cooldown="0" id="PERSONA_HONOR_ACTION__NB_RIVAL_COLLECTOR_LOOT" positive="false" string="HONOR_ACTION_NB_RIVAL_COLLECTOR_LOOT" />
+      <action award="AWARD_HONOR_NB_ARROWHEAD_INJURY_BLEED_OUT" cooldown="0" id="PERSONA_HONOR_ACTION__NB_ARROWHEAD_INJURY_BLEED_OUT" positive="false" string="HONOR_ACTION_NB_ARROWHEAD_INJURY_BLEED_OUT" />
+      <action award="AWARD_HONOR_NB_PHOTOGRAPHY_MURDER" cooldown="0" id="PERSONA_HONOR_ACTION__NB_PHOTOGRAPHY_MURDER" positive="false" string="HONOR_ACTION_NB_PHOTOGRAPHY_MURDER" />
+      <action award="AWARD_HONOR_NB_HOBO_DOG_KILL" cooldown="0" id="PERSONA_HONOR_ACTION__NB_HOBO_DOG_KILL" positive="false" string="HONOR_ACTION_NB_HOBO_DOG_KILL" />
+      <action award="AWARD_HONOR_NB_HOBO_DOG_LOOT_BODY" cooldown="0" id="PERSONA_HONOR_ACTION__NB_HOBO_DOG_LOOT_BODY" positive="false" string="HONOR_ACTION_NB_HOBO_DOG_LOOT_BODY" />
+      <action award="AWARD_HONOR_BOUNTY_RETURNED_DEAD" cooldown="0" id="PERSONA_HONOR_ACTION__FME_BOUNTY_RETURNED_DEAD" positive="false" string="HONOR_ACTION_FME_BOUNTY_RETURNED_DEAD" />
+      <action award="AWARD_HONOR_NB_RANDOM_EVENT_MURDER" cooldown="0" id="PERSONA_HONOR_ACTION__NB_RANDOM_EVENT_MURDER" positive="false" string="HONOR_ACTION_RANDOM_EVENT_MURDER" />
+      <action award="AWARD_HONOR_NB_ANIMAL_ATTACK_MURDER" cooldown="0" id="PERSONA_HONOR_ACTION__NB_ANIMAL_ATTACK_MURDER" positive="false" string="HONOR_ACTION_NB_ANIMAL_ATTACK_MUDER" />
+      <action award="AWARD_HONOR_NB_SUSPENSION_TRAP_MURDER" cooldown="0" id="PERSONA_HONOR_ACTION__NB_SUSPENSION_TRAP_MURDER" positive="false" string="HONOR_ACTION_MURDER" />
+      <action award="AWARD_HONOR_NB_BEGGAR_ASSAULT" cooldown="0" id="PERSONA_HONOR_ACTION__NB_BEGGAR_ASSAULT" positive="false" string="HONOR_ACTION_NB_BEGGAR_ASSAULT" />
+      <action award="AWARD_HONOR_BOUNTY_BRIBE_GUARD" cooldown="0" id="PERSONA_HONOR_ACTION__BOUNTY_BRIBE_GUARD" positive="false" string="HONOR_ACTION_BOUNTY_BRIBE_GUARD" />
+      <action award="AWARD_HONOR_KILL_SEDATED_ANIMAL" cooldown="0" id="PERSONA_HONOR_ACTION__KILL_SEDATED_ANIMAL" positive="false" string="HONOR_ACTION_KILL_SEDATED_ANIMAL" />
+      <action award="AWARD_HONOR_KILL_CAGED_ANIMAL" cooldown="0" id="PERSONA_HONOR_ACTION__KILL_CAGED_ANIMAL" positive="false" string="HONOR_ACTION_SLAUGHTER_PETS" />
+    </UNK_D6048C19>
+  </UNK_4A4CB56A>
+</root>

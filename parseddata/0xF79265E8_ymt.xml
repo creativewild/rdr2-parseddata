@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4A1A2EA>
+    <camp camper="Fisherman" horse="false" name="GRT_0 DBL" pos="[-809.9987, -1975.141, 46.49118]" zone="2">
+      <preset cluster="pg_ambient_camp_add_fishGut01" core="pg_ambient_campfire02x" id="GRT_0 DBL" tent="pg_ambcamp02x_tent_combo01" travel="pg_ambient_camp_add_boat02" />
+    </camp>
+    <camp name="GRT_1" pos="[-731.4658, -1723.708, 41.3675]" zone="1">
+      <preset recipe="CFRT_FISHERMAN_SML2" />
+    </camp>
+    <camp name="GRT_2" pos="[-1816.616, -1411.358, 94.42287]" zone="1">
+      <preset recipe="CFRT_GENERIC_LRG_PLAIN" />
+    </camp>
+    <camp name="GRT_3" pos="[-1200.177, -1397.259, 78.41792]" zone="1">
+      <preset recipe="CFRT_RANCHER_MED1" />
+    </camp>
+    <camp name="GRT_4 STY-Nightfolk" pos="[-1671.685, -1149.149, 76.40435]" story="CSH_NIGHTFOLK_STORY" zone="1">
+      <preset cluster="pg_ambient_camp_add_clothesline01" core="pg_ambient_campfire01ax" id="GRT_4 STY-Nightfolk" tent="pg_ambcamp01x_tent_patchwork_lean" travel="pg_ambient_camp_add_PackCart03" />
+    </camp>
+    <camp name="GRT_5" pos="[-1152.045, -990.132, 62.813]" zone="2">
+      <preset recipe="CFRT_FANCY_LRG1" />
+    </camp>
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_grt_story_manzanita" mission="SEN1" name="GRT_6 STY-Manzanita" pos="[-1231.552, -931.261, 68.216]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_2" story="CSH_MANZANITA_STORY" />
+    <camp name="GRT_8" pos="[-1004.628, -912.9733, 59.18977]" zone="1">
+      <preset recipe="CFRT_FANCY_MED2" />
+    </camp>
+    <camp name="GRT_9" pos="[-1562.535, -1669.278, 78.09457]" zone="2">
+      <preset recipe="CFRT_FOLIAGE_DRY_GRASS_SML1" />
+    </camp>
+    <camp UNK_DA3CFFD1="true" name="GRT_10 Robbery" pos="[-1480.855, -1115.203, 73.01974]" zone="2">
+      <preset recipe="CFRT_RANCHER_LRG1" />
+    </camp>
+  </UNK_B4A1A2EA>
+</root>

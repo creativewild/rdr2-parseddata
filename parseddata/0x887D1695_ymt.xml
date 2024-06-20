@@ -1,0 +1,687 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_9AA24DCA release="1">
+    <UNK_3B60D620 district="DISTRICT_HENNIGANS_STEAD">
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="AMBCAMP01" x="0.0" y="0.0" z="0.0" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="152.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="AMBCAMP03" x="0.0" y="0.0" z="5.96" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="AMBCAMP05" x="0.0" y="0.0" z="69.17" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="144.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="134.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="4.862" name="PLACEHOLDER" x="0.0" y="0.0" z="70.15" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="131.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="120" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="AMBCAMP07" x="0.0" y="0.0" z="86.29" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="142.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="AMBCAMP08" x="0.0" y="0.0" z="70.2" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="132.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="171.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="AMBCAMP09" x="0.0" y="0.0" z="60.7" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="33.69" name="AMBCAMP10" x="0.0" y="0.0" z="65.61" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="88.331" name="AMBCAMP12" x="0.0" y="0.0" z="93.4" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="105.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="134.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="54.861" name="AMBCAMP13" x="0.0" y="0.0" z="68.19" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="132.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="133.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="90.0" name="AMBCAMP14" x="0.0" y="0.0" z="64.21" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="145.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="AMBCAMP16" x="0.0" y="0.0" z="72.84" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="123.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="135.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="180.0" name="AMBCAMP19" x="0.0" y="0.0" z="68.28" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="129.24" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="81.97" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="110.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="90" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="AMBCAMP20" x="0.0" y="0.0" z="71.13" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="153.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="AMBCAMP22" x="0.0" y="0.0" z="65.18" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="167.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="FISHING">
+        <UNK_E1CF2BC0 heading="114.481" name="PLACEHOLDER" x="0.0" y="0.0" z="43.65" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="122.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="115.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="FISHING">
+        <UNK_E1CF2BC0 heading="94.941" name="PLACEHOLDER" x="0.0" y="0.0" z="72.22" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="154.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="FISHING">
+        <UNK_E1CF2BC0 heading="98.0" name="Stillwater Creek Shack" x="0.0" y="0.0" z="41.1" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="87.0" UNK_B1FDB9CD="CampFire_Cam4" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="FISHING">
+        <UNK_E1CF2BC0 heading="90.0" name="PLACEHOLDER" x="0.0" y="0.0" z="45.36" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="162.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="180.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="FISHING">
+        <UNK_E1CF2BC0 heading="80.8" name="PLACEHOLDER" x="0.0" y="0.0" z="44.11" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="FISHING">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="0.0" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="180.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="FISHING">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="0.0" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="172.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="FISHING">
+        <UNK_E1CF2BC0 heading="180.0" name="Legendary Redfin Pickerel" x="0.0" y="0.0" z="43.11" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="180" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="LANDMARKS">
+        <UNK_E1CF2BC0 heading="0.0" name="MacFarlane's, North Outskirts" x="0.0" y="0.0" z="63.19" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="115.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="LANDMARKS">
+        <UNK_E1CF2BC0 heading="0.0" name="Brittlebush Trawl 01" x="0.0" y="0.0" z="0.0" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="LANDMARKS">
+        <UNK_E1CF2BC0 heading="0.0" name="Brittlebush Trawl 02" x="0.0" y="0.0" z="0.0" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="154.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="LANDMARKS">
+        <UNK_E1CF2BC0 heading="0.0" name="Stillwater Creek" x="0.0" y="0.0" z="41.1" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="87.0" UNK_B1FDB9CD="CampFire_Cam4" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="LANDMARKS">
+        <UNK_E1CF2BC0 heading="0.0" name="Stillwater Creek Shack" x="0.0" y="0.0" z="44.11" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="134.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="180" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="LANDMARKS">
+        <UNK_E1CF2BC0 heading="176.545" name="Mescalero" x="0.0" y="0.0" z="78.25" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="119.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="VISTAS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="45.15" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="129.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="120" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="VISTAS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="66.77" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="153.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="VISTAS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="2.08" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="180" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="VISTAS">
+        <UNK_E1CF2BC0 heading="117.223" name="Looking Over Pikes Basin" x="0.0" y="0.0" z="67.19" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="115.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="128.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="VISTAS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="70.34" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="180.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="VISTAS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="69.0" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="129.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="132" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="VISTAS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="64.19" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="180" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="VISTAS">
+        <UNK_E1CF2BC0 heading="180.0" name="PLACEHOLDER" x="0.0" y="0.0" z="87.26" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="VISTAS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="72.86" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="VISTAS">
+        <UNK_E1CF2BC0 heading="180.0" name="PLACEHOLDER" x="0.0" y="0.0" z="70.96" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="116.0" UNK_B1FDB9CD="CampFire_Cam4" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="131" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="64.574" name="HEN_001" x="0.0" y="0.0" z="5.97" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="180" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="HEN_002" x="0.0" y="0.0" z="0.95" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="180" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="69.749" name="HEN_003" x="0.0" y="0.0" z="14.17" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="73.44" UNK_B1FDB9CD="CampFire_Cam9" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="HEN_004" x="0.0" y="0.0" z="0.0" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="137.88" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="HEN_005" x="0.0" y="0.0" z="69.94" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam2" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="HEN_006" x="0.0" y="0.0" z="71.53" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="79.2" UNK_B1FDB9CD="CampFire_Cam4" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="67.217" name="HEN_007" x="0.0" y="0.0" z="42.12" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="115.92" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="HEN_008" x="0.0" y="0.0" z="14.82" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="75.6" UNK_B1FDB9CD="CampFire_Cam9" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="HEN_009" x="0.0" y="0.0" z="72.12" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="69.12" UNK_B1FDB9CD="CampFire_Cam9" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="90.0" name="HEN_010" x="0.0" y="0.0" z="72.9" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="113.76" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="92.997" name="HEN_011" x="0.0" y="0.0" z="80.23" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="103.68" UNK_B1FDB9CD="CampFire_Cam4" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="HEN_012" x="0.0" y="0.0" z="86.28" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam2" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="1" UNK_6BB9B740="15.12" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="HEN_013" x="0.0" y="0.0" z="67.2" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam2" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="1" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="HEN_014" x="0.0" y="0.0" z="67.53" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="113.76" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="HEN_015" x="0.0" y="0.0" z="19.57" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="141.84" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="180.0" name="PLACEHOLDER" x="0.0" y="0.0" z="49.13" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="146.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="65.21" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="143.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="70.16" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="180" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="71.46" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="180" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="90.0" name="PLACEHOLDER" x="0.0" y="0.0" z="75.84" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="111.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="137" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="68.46" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="180" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="177.567" name="PLACEHOLDER" x="0.0" y="0.0" z="78.19" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam7" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="120" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="49.334" name="PLACEHOLDER" x="0.0" y="0.0" z="20.43" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="146.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="65.35" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="143.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="164.521" name="PLACEHOLDER" x="0.0" y="0.0" z="80.93" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="180" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="144.423" name="PLACEHOLDER" x="0.0" y="0.0" z="79.25" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="158.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="69.76" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="142.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="180.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="67.24" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="156.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="71.22" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="141.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="133.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="69.26" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="133.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="68.22" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="133.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="140.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="69.19" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="119.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="127.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="68.21" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="124.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="109.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="71.03" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam7" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="53.173" name="PLACEHOLDER" x="0.0" y="0.0" z="65.2" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="81.0" UNK_B1FDB9CD="CampFire_Cam4" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="2.95" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="180" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="0.0" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="114.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="157.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="80.473" name="PLACEHOLDER" x="0.0" y="0.0" z="42.11" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam7" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="180.0" name="PLACEHOLDER" x="0.0" y="0.0" z="44.11" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="140.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="45.12" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="138.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="43.1" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="156.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="50.14" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="64.22" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="137.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="135.277" name="PLACEHOLDER" x="0.0" y="0.0" z="61.7" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="180.0" name="PLACEHOLDER" x="0.0" y="0.0" z="58.17" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="180.0" name="PLACEHOLDER" x="0.0" y="0.0" z="58.17" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam7" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="59.17" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="170.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="53.15" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="102.0" UNK_B1FDB9CD="CampFire_Cam4" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="143.895" name="PLACEHOLDER" x="0.0" y="0.0" z="63.18" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="180.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="179.578" name="PLACEHOLDER" x="0.0" y="0.0" z="65.2" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="180.0" name="PLACEHOLDER" x="0.0" y="0.0" z="0.0" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="180.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="135.799" name="PLACEHOLDER" x="0.0" y="0.0" z="6.99" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="180" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="64.2" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="83.0" UNK_B1FDB9CD="CampFire_Cam4" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="121.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="16.075" name="PLACEHOLDER" x="0.0" y="0.0" z="68.21" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="180.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="77.24" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam17" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="71.22" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="180" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="85.27" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="131.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="149.299" name="PLACEHOLDER" x="0.0" y="0.0" z="70.21" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="108.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="139.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="78.25" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="81.25" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="149.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="122.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="72.44" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="129.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="155.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="172.64" name="PLACEHOLDER" x="0.0" y="0.0" z="69.19" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="111.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="153.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="69.16" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="Covered Bridge" x="0.0" y="0.0" z="68.19" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="113.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="118.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="16.229" name="PLACEHOLDER" x="0.0" y="0.0" z="69.2" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="118.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="133.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="67.19" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="115.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="106.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="67.2" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="118.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="140.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="177.422" name="PLACEHOLDER" x="0.0" y="0.0" z="67.2" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="166.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="65.2" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="111.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="61.85" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="123.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="122.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="61.18" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="78.338" name="PLACEHOLDER" x="0.0" y="0.0" z="47.12" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="105.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="146.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="58.024" name="PLACEHOLDER" x="0.0" y="0.0" z="53.17" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="169.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="180.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="71.23" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="150.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="69.18" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="180.0" name="PLACEHOLDER" x="0.0" y="0.0" z="70.22" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam7" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="180.0" name="PLACEHOLDER" x="0.0" y="0.0" z="69.21" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="180" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="68.21" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="123.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="109.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="87.3" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="86.27" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="138.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="180.0" name="PLACEHOLDER" x="0.0" y="0.0" z="86.28" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="124.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="133.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="180.0" name="PLACEHOLDER" x="0.0" y="0.0" z="88.28" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="115.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="146.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="64.19" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="146.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="68.19" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="180" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="180.0" name="PLACEHOLDER" x="0.0" y="0.0" z="67.18" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="180" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="180.0" name="PLACEHOLDER" x="0.0" y="0.0" z="68.21" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="124.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="140.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="180.0" name="PLACEHOLDER" x="0.0" y="0.0" z="66.23" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="119.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="110.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="87.28" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="120.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="138.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="86.28" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="180.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="2" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="180.0" name="PLACEHOLDER" x="0.0" y="0.0" z="78.25" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="132.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="126.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="69.21" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="117.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="107.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="PLACEHOLDER" x="0.0" y="0.0" z="69.21" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="128.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="180.0" name="PLACEHOLDER" x="0.0" y="0.0" z="63.87" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="113.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="106.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="0.0" name="FixCamAndHorse" x="0.0" y="0.0" z="72.19" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="113.0" UNK_B1FDB9CD="CampFire_Cam1" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="106.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="40.901" name="FixCamAndHorse" x="0.0" y="0.0" z="44.11" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam3" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="0" UNK_6BB9B740="0.0" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+      <UNK_109ACC72 type="WILDERNESS">
+        <UNK_E1CF2BC0 heading="114.898" name="FixCamAndHorse" x="0.0" y="0.0" z="51.03" />
+        <UNK_7C0D727B UNK_B74CF4AB="script@Cinematics@WildernessCamps@Heartlands" UNK_40B9A168="0.0" UNK_B1FDB9CD="CampFire_Cam7" UNK_117CA9C5="CampFire_Shot" />
+        <UNK_525F9D8 UNK_2353BD28="3" UNK_6BB9B740="127.08" time="800" weather="MISTY" />
+      </UNK_109ACC72>
+    </UNK_3B60D620>
+  </UNK_9AA24DCA>
+</root>

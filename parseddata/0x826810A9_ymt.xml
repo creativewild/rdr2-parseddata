@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <supplies>
+    <camp id="hso" UNK_E87AAD6C="[-139.6016, -19.6172, 95.0788]" UNK_A4A56636="[-0.0975, 0.1594, 62.8889]">
+      <UNK_53C887C2>
+        <item model="p_bread06x" offset="[-1.24, -0.06, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="P_BREAD06X" offset="[-4.655, 1.225, 0.381]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_cheeseWedge1x" offset="[-1.245, 2.215, 1.032]" rotation="[100.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.27, 0.24, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-4.51, 1.41, 0.382]" rotation="[1.0, 0.0, 78.0]" />
+        <item model="s_biscuits01x" offset="[-1.275, 2.39, 1.055]" rotation="[0.0, 0.0, -10.0]" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_bread06x" offset="[-1.24, -0.06, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="P_BREAD06X" offset="[-4.655, 1.225, 0.381]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_cheeseWedge1x" offset="[-1.245, 2.215, 1.032]" rotation="[100.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.27, 0.24, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-4.51, 1.41, 0.382]" rotation="[1.0, 0.0, 78.0]" />
+        <item model="s_biscuits01x" offset="[-1.275, 2.39, 1.055]" rotation="[0.0, 0.0, -10.0]" />
+        <item model="s_canKidney01x" offset="[-1.295, 2.55, 1.055]" rotation="[0.0, 0.0, 170.0]" />
+        <item model="s_canBeans01x" offset="[-1.68, -0.735, 0.96]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canPeas01x" offset="[-1.6, -0.61, 0.96]" rotation="[0.0, 0.0, -65.0]" />
+        <item model="s_offal01x" offset="[-1.245, 2.69, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.275, 1.26, 1.86]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.305, 1.365, 1.87]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_pear_02x" offset="[-1.215, 1.165, 1.84]" rotation="[-3.0, 4.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.265, 1.48, 1.865]" rotation="[0.0, 0.0, 0.0]" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_bread06x" offset="[-1.24, -0.06, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_bread06x" offset="[-4.66, 1.185, 0.381]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_cheeseWedge1x" offset="[-1.175, 2.21, 1.457]" rotation="[100.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.27, 0.24, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-4.545, 1.52, 0.382]" rotation="[1.0, 0.0, 78.0]" />
+        <item model="s_biscuits01x" offset="[-1.265, 2.405, 1.055]" rotation="[0.0, 0.0, 50.0]" />
+        <item model="s_canKidney01x" offset="[-1.295, 2.55, 1.055]" rotation="[0.0, 0.0, 170.0]" />
+        <item model="s_canBeans01x" offset="[-1.68, -0.735, 0.96]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canPeas01x" offset="[-1.6, -0.61, 0.96]" rotation="[0.0, 0.0, -65.0]" />
+        <item model="s_offal01x" offset="[-1.245, 2.69, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.275, 1.26, 1.86]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.305, 1.365, 1.87]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_pear_02x" offset="[-1.215, 1.165, 1.84]" rotation="[-3.0, 4.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.265, 1.48, 1.865]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canStrawberries01x" offset="[-1.155, -0.205, 1.175]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canPeaches01x" offset="[-1.235, -0.29, 1.175]" rotation="[0.0, 0.0, -20.0]" />
+        <item model="p_package01x" offset="[-0.4, -2.37, 0.81]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_package01x" offset="[-1.24, 0.05, 1.055]" rotation="[0.0, 0.0, -98.0]" />
+        <item model="s_inv_tabacco01x" offset="[-0.355, -2.54, 0.811]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_tabacco01x" offset="[-4.5, 1.635, 0.387]" rotation="[0.0, 0.0, 0.0]" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_bread06x" offset="[-1.24, -0.06, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_chocolateBar02x" offset="[-4.695, 1.51, 0.381]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_CocaineGum01x" offset="[-1.245, 2.185, 1.477]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.27, 0.24, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_chocolateBar02x" offset="[-4.6, 1.53, 0.38]" rotation="[0.0, 0.0, 12.0]" />
+        <item model="s_biscuits01x" offset="[-1.265, 2.405, 1.055]" rotation="[0.0, 0.0, 50.0]" />
+        <item model="s_canKidney01x" offset="[-1.295, 2.55, 1.055]" rotation="[0.0, 0.0, 170.0]" />
+        <item model="s_canBeans01x" offset="[-1.68, -0.735, 0.96]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canPeas01x" offset="[-1.6, -0.61, 0.96]" rotation="[0.0, 0.0, -65.0]" />
+        <item model="s_offal01x" offset="[-1.245, 2.69, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.275, 1.26, 1.86]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.305, 1.365, 1.87]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_pear_02x" offset="[-1.215, 1.165, 1.84]" rotation="[-3.0, 4.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.265, 1.48, 1.865]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canStrawberries01x" offset="[-1.155, -0.205, 1.175]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canPeaches01x" offset="[-1.235, -0.29, 1.175]" rotation="[0.0, 0.0, -20.0]" />
+        <item model="p_package01x" offset="[-0.4, -2.37, 0.81]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_package01x" offset="[-1.24, 0.05, 1.055]" rotation="[0.0, 0.0, -98.0]" />
+        <item model="s_inv_tabacco01x" offset="[-0.355, -2.54, 0.811]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_tabacco01x" offset="[-4.5, 1.635, 0.387]" rotation="[0.0, 0.0, 0.0]" />
+      </UNK_53C887C2>
+    </camp>
+    <camp id="clm" UNK_E87AAD6C="[679.5405, -1253.201, 43.005]" UNK_A4A56636="[-0.0888, -0.473, -19.2285]">
+      <UNK_53C887C2>
+        <item model="p_bread06x" offset="[-1.24, -0.06, 1.05]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_bread06x" offset="[-0.245, -2.5, 0.8]" rotation="[0.0, 0.0, 30.0]" />
+        <item model="s_cheeseWedge1x" offset="[-1.245, 2.215, 1.032]" rotation="[100.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.27, 0.24, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.24, 0.11, 1.055]" rotation="[0.0, 0.0, 177.0]" />
+        <item model="s_biscuits01x" offset="[-1.275, 2.39, 1.055]" rotation="[0.0, 0.0, -10.0]" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_bread06x" offset="[-1.24, -0.06, 1.05]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_bread06x" offset="[-0.245, -2.5, 0.8]" rotation="[0.0, 0.0, 30.0]" />
+        <item model="s_cheeseWedge1x" offset="[-1.245, 2.215, 1.032]" rotation="[100.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.27, 0.24, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.24, 0.11, 1.055]" rotation="[0.0, 0.0, 177.0]" />
+        <item model="s_biscuits01x" offset="[-1.275, 2.39, 1.055]" rotation="[0.0, 0.0, -10.0]" />
+        <item model="s_canKidney01x" offset="[-1.295, 2.55, 1.055]" rotation="[0.0, 0.0, 170.0]" />
+        <item model="s_canBeans01x" offset="[-1.615, -0.735, 0.98]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canPeas01x" offset="[-1.51, -0.61, 0.98]" rotation="[0.0, 0.0, -65.0]" />
+        <item model="s_offal01x" offset="[-1.245, 2.69, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.275, 1.26, 1.86]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.305, 1.365, 1.87]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_pear_02x" offset="[-1.215, 1.165, 1.84]" rotation="[-3.0, 4.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.265, 1.48, 1.865]" rotation="[0.0, 0.0, 0.0]" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_bread06x" offset="[-1.24, -0.06, 1.06]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_bread06x" offset="[-0.245, -2.5, 0.8]" rotation="[0.0, 0.0, 30.0]" />
+        <item model="s_cheeseWedge1x" offset="[-1.245, 2.215, 1.457]" rotation="[98.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.27, 0.24, 1.065]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.24, 0.11, 1.055]" rotation="[0.0, 0.0, 177.0]" />
+        <item model="s_biscuits01x" offset="[-1.275, 2.39, 1.055]" rotation="[0.0, 0.0, -10.0]" />
+        <item model="s_canKidney01x" offset="[-1.295, 2.55, 1.055]" rotation="[0.0, 0.0, 170.0]" />
+        <item model="s_canBeans01x" offset="[-1.615, -0.735, 0.98]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canPeas01x" offset="[-1.51, -0.61, 0.98]" rotation="[0.0, 0.0, -65.0]" />
+        <item model="s_offal01x" offset="[-1.245, 2.69, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.275, 1.26, 1.86]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.305, 1.365, 1.87]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_pear_02x" offset="[-1.215, 1.165, 1.84]" rotation="[-3.0, 4.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.265, 1.48, 1.865]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canStrawberries01x" offset="[-1.175, -0.28, 1.175]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canPeaches01x" offset="[-1.28, -0.175, 1.175]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_package01x" offset="[-0.4, -2.37, 0.81]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_package01x" offset="[-1.24, 0.05, 1.065]" rotation="[0.0, 0.0, -178.0]" />
+        <item model="s_inv_tabacco01x" offset="[-0.355, -2.54, 0.811]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_tabacco01x" offset="[-1.495, -0.82, 0.98]" rotation="[0.0, 0.0, 0.0]" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_bread06x" offset="[-1.24, -0.06, 1.06]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_chocolateBar02x" offset="[-0.245, -2.5, 0.805]" rotation="[0.0, 0.0, 65.0]" />
+        <item model="s_inv_CocaineGum01x" offset="[-1.18, 2.22, 1.477]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.27, 0.24, 1.065]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_chocolateBar02x" offset="[-1.145, 0.205, 1.055]" rotation="[0.0, 0.0, 65.0]" />
+        <item model="s_biscuits01x" offset="[-1.275, 2.39, 1.065]" rotation="[0.0, 0.0, -10.0]" />
+        <item model="s_canKidney01x" offset="[-1.295, 2.55, 1.06]" rotation="[0.0, 0.0, 170.0]" />
+        <item model="s_canBeans01x" offset="[-1.615, -0.735, 0.98]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canPeas01x" offset="[-1.51, -0.61, 0.98]" rotation="[0.0, 0.0, -65.0]" />
+        <item model="s_offal01x" offset="[-1.245, 2.69, 1.06]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.275, 1.26, 1.86]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.305, 1.365, 1.87]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_pear_02x" offset="[-1.215, 1.165, 1.84]" rotation="[-3.0, 4.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.265, 1.48, 1.865]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canStrawberries01x" offset="[-1.175, -0.28, 1.175]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canPeaches01x" offset="[-1.28, -0.175, 1.175]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_package01x" offset="[-0.4, -2.37, 0.81]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_package01x" offset="[-1.24, 0.05, 1.065]" rotation="[0.0, 0.0, -178.0]" />
+        <item model="s_inv_tabacco01x" offset="[-0.355, -2.54, 0.811]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_tabacco01x" offset="[-1.495, -0.82, 0.98]" rotation="[0.0, 0.0, 0.0]" />
+      </UNK_53C887C2>
+    </camp>
+    <camp id="sdb" UNK_E87AAD6C="[1879.314, -1860.996, 41.8015]" UNK_A4A56636="[-0.0877, 0.0353, -17.1276]">
+      <UNK_53C887C2>
+        <item model="p_bread06x" offset="[-1.24, -0.06, 1.05]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_bread06x" offset="[-4.635, 1.25, 0.361]" rotation="[0.0, 0.0, 30.0]" />
+        <item model="s_cheeseWedge1x" offset="[-1.245, 2.215, 1.032]" rotation="[100.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.27, 0.24, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-4.615, 1.46, 0.365]" rotation="[1.0, 0.0, 78.0]" />
+        <item model="s_biscuits01x" offset="[-1.275, 2.39, 1.055]" rotation="[0.0, 0.0, -10.0]" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_bread06x" offset="[-1.24, -0.06, 1.05]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_bread06x" offset="[-4.635, 1.25, 0.361]" rotation="[0.0, 0.0, 30.0]" />
+        <item model="s_cheeseWedge1x" offset="[-1.245, 2.215, 1.032]" rotation="[100.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.27, 0.24, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-4.615, 1.46, 0.365]" rotation="[1.0, 0.0, 78.0]" />
+        <item model="s_biscuits01x" offset="[-1.275, 2.39, 1.055]" rotation="[0.0, 0.0, -10.0]" />
+        <item model="s_canKidney01x" offset="[-1.295, 2.55, 1.055]" rotation="[0.0, 0.0, 170.0]" />
+        <item model="s_canBeans01x" offset="[-1.615, -0.735, 0.815]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canPeas01x" offset="[-1.51, -0.61, 0.815]" rotation="[0.0, 0.0, -65.0]" />
+        <item model="s_offal01x" offset="[-1.245, 2.69, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.275, 1.26, 1.86]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.305, 1.365, 1.87]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_pear_02x" offset="[-1.215, 1.165, 1.84]" rotation="[-3.0, 4.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.265, 1.48, 1.865]" rotation="[0.0, 0.0, 0.0]" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_bread06x" offset="[-1.24, -0.06, 1.06]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_bread06x" offset="[-4.62, 1.185, 0.386]" rotation="[0.0, 0.0, 30.0]" />
+        <item model="s_cheeseWedge1x" offset="[-1.18, 2.22, 1.46]" rotation="[100.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.27, 0.24, 1.065]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-4.56, 1.51, 0.38]" rotation="[0.0, 0.0, 167.0]" />
+        <item model="s_biscuits01x" offset="[-1.275, 2.39, 1.055]" rotation="[0.0, 0.0, -10.0]" />
+        <item model="s_canKidney01x" offset="[-1.295, 2.55, 1.055]" rotation="[0.0, 0.0, 170.0]" />
+        <item model="s_canBeans01x" offset="[-1.615, -0.735, 0.97]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canPeas01x" offset="[-1.51, -0.61, 0.965]" rotation="[0.0, 0.0, -65.0]" />
+        <item model="s_offal01x" offset="[-1.245, 2.69, 1.06]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.275, 1.26, 1.86]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.305, 1.365, 1.87]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_pear_02x" offset="[-1.215, 1.165, 1.84]" rotation="[-3.0, 4.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.265, 1.48, 1.865]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canStrawberries01x" offset="[-1.175, -0.28, 1.185]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canPeaches01x" offset="[-1.28, -0.175, 1.18]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_package01x" offset="[-0.4, -2.37, 0.81]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_package01x" offset="[-1.24, 0.05, 1.065]" rotation="[0.0, 0.0, -178.0]" />
+        <item model="s_inv_tabacco01x" offset="[-0.355, -2.54, 0.811]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_tabacco01x" offset="[-4.665, 1.46, 0.375]" rotation="[0.0, 0.0, 0.0]" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_bread06x" offset="[-1.24, -0.06, 1.06]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_chocolateBar02x" offset="[-4.67, 1.21, 0.386]" rotation="[0.0, 0.0, -65.0]" />
+        <item model="s_inv_CocaineGum01x" offset="[-1.18, 2.22, 1.48]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.27, 0.24, 1.065]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_chocolateBar02x" offset="[-4.67, 1.455, 0.375]" rotation="[0.0, 0.0, 90.0]" />
+        <item model="s_biscuits01x" offset="[-1.275, 2.39, 1.065]" rotation="[0.0, 0.0, -10.0]" />
+        <item model="s_canKidney01x" offset="[-1.295, 2.55, 1.06]" rotation="[0.0, 0.0, 170.0]" />
+        <item model="s_canBeans01x" offset="[-1.615, -0.735, 0.97]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canPeas01x" offset="[-1.51, -0.61, 0.965]" rotation="[0.0, 0.0, -65.0]" />
+        <item model="s_offal01x" offset="[-1.245, 2.69, 1.06]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.275, 1.26, 1.86]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.305, 1.365, 1.87]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_pear_02x" offset="[-1.215, 1.165, 1.84]" rotation="[-3.0, 4.0, 0.0]" />
+        <item model="p_apple01x" offset="[-1.265, 1.48, 1.865]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canStrawberries01x" offset="[-1.175, -0.28, 1.185]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_canPeaches01x" offset="[-1.28, -0.175, 1.18]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_package01x" offset="[-0.4, -2.37, 0.81]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_package01x" offset="[-1.24, 0.05, 1.065]" rotation="[0.0, 0.0, -178.0]" />
+        <item model="s_inv_tabacco01x" offset="[-0.355, -2.54, 0.811]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_tabacco01x" offset="[-4.57, 1.505, 0.38]" rotation="[0.0, 0.0, 0.0]" />
+      </UNK_53C887C2>
+    </camp>
+    <camp id="bvh" UNK_E87AAD6C="[2368.728, 1350.747, 105.1249]" UNK_A4A56636="[-0.1111, -0.5783, 59.2779]">
+      <UNK_53C887C2>
+        <item model="p_bread06x" offset="[-1.235, -0.14, 1.05]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="P_BREAD06X" offset="[-4.68, 1.46, 0.416]" rotation="[0.0, 0.0, 140.0]" />
+        <item model="s_cheeseWedge1x" offset="[-1.245, 2.215, 1.032]" rotation="[100.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.27, 0.24, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="S_CRACKERS01X" offset="[-4.59, 1.465, 0.416]" rotation="[1.0, 0.0, 167.0]" />
+        <item model="s_biscuits01x" offset="[-1.275, 2.39, 1.055]" rotation="[0.0, 0.0, -10.0]" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_bread06x" offset="[-1.235, -0.14, 1.05]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="P_BREAD06X" offset="[-4.68, 1.46, 0.416]" rotation="[0.0, 0.0, 140.0]" />
+        <item model="s_cheeseWedge1x" offset="[-1.245, 2.215, 1.032]" rotation="[100.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.27, 0.24, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="S_CRACKERS01X" offset="[-4.59, 1.465, 0.416]" rotation="[1.0, 0.0, 167.0]" />
+        <item model="s_biscuits01x" offset="[-1.275, 2.39, 1.055]" rotation="[0.0, 0.0, -10.0]" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_bread06x" offset="[-1.235, -0.14, 1.05]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="P_BREAD06X" offset="[-4.68, 1.46, 0.416]" rotation="[0.0, 0.0, 140.0]" />
+        <item model="s_cheeseWedge1x" offset="[-1.245, 2.215, 1.032]" rotation="[100.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.27, 0.24, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="S_CRACKERS01X" offset="[-4.59, 1.465, 0.416]" rotation="[1.0, 0.0, 167.0]" />
+        <item model="s_biscuits01x" offset="[-1.275, 2.39, 1.055]" rotation="[0.0, 0.0, -10.0]" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_bread06x" offset="[-1.235, -0.14, 1.05]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="P_BREAD06X" offset="[-4.68, 1.46, 0.416]" rotation="[0.0, 0.0, 140.0]" />
+        <item model="s_cheeseWedge1x" offset="[-1.245, 2.215, 1.032]" rotation="[100.0, 0.0, 0.0]" />
+        <item model="s_crackers01x" offset="[-1.27, 0.24, 1.055]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="S_CRACKERS01X" offset="[-4.59, 1.465, 0.416]" rotation="[1.0, 0.0, 167.0]" />
+        <item model="s_biscuits01x" offset="[-1.275, 2.39, 1.055]" rotation="[0.0, 0.0, -10.0]" />
+      </UNK_53C887C2>
+    </camp>
+  </supplies>
+</root>

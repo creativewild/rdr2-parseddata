@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4A1A2EA>
+    <camp name="GRE_3" pos="[1394.754, 1025.714, 172.5909]" zone="1">
+      <preset recipe="CFRT_FOLIAGE_CONIFEROUS_LRG1" />
+    </camp>
+    <camp camper="Fisherman" horse="false" name="GRE_4" pos="[1666.142, 1350.294, 145.4012]" UNK_7BF5E826="amb_camps_gre_004" zone="2">
+      <preset cluster="pg_ambient_camp_add_games01" core="pg_ambient_campfire01ax" id="GRE_4" tent="pg_ambcamp01x_tent_plaid_lean02" travel="pg_ambient_camp_add_canoe02" />
+    </camp>
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_gre_story_hunter" name="GRE_6 STY-Panther" pos="[799.362, 1512.22, 203.6078]" story="CSH_BAY_PANTHER_STORY" />
+    <camp name="GRE_7" pos="[108.2844, 1587.768, 169.9825]" zone="2">
+      <preset recipe="CFRT_ROUGH_LRG1" />
+    </camp>
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_gre_story_treasure" name="GRE_9 STY-Treasure" pos="[711.4525, 1882.17, 238.4335]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_38" story="CSH_TREASURE_STORY" />
+    <camp UNK_DA3CFFD1="true" name="GRE_10 Robbery" pos="[1887.53, 2044.917, 269.9734]" zone="1">
+      <preset recipe="CFRT_HUNTER_MED1" />
+    </camp>
+    <camp name="GRE_11" pos="[189.572, 1751.42, 195.127]" zone="1">
+      <preset recipe="CFRT_FOLIAGE_CONIFEROUS_SML1" />
+    </camp>
+  </UNK_B4A1A2EA>
+</root>

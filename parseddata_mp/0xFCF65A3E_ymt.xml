@@ -1,0 +1,1209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_82257DBB release="1">
+    <shopitems id="SHOP_AMD_GENERAL_STORE">
+      <vector data="[-3687.3, -2623.39, -14.43116]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="U_M_M_ARMGENERALSTOREOWNER_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[-3679.454, -2621.485, -13.4283]" id="0" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_AMD_POST_OFFICE">
+      <vector data="[-3732.6, -2598.1, -13.9373]" id="vPos" />
+      <float data="90" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="S_M_M_TrainStationWorker_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_AMD_HONOR_MP">
+      <vector data="[-3638.655, -2778.648, -14.9985]" id="vPos" />
+      <float data="45.6844" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_MORTAR_PESTLE" id="sHash" />
+      <string data="CS_MP_OLDMAN_JONES" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_ASB_GUNSMITH">
+      <vector data="[2948.227, 1319.467, 43.82]" id="vPos" />
+      <float data="70.72" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="U_M_M_ASBGUNSMITH_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[2940.388, 1321.078, 44.7414]" id="0" />
+        <vector data="[2953.551, 1317.42, 44.7758]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_ASB_POST_OFFICE">
+      <vector data="[2939.087, 1287.062, 43.666]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="S_M_M_TrainStationWorker_01" id="sModel" />
+      <string data="META_OUTFIT_ANNESBURG_VAR_01" id="sOutfit" />
+      <UNK_8F9A56EF>
+        <vector data="[2927.646, 1285.041, 44.6704]" id="0" />
+        <vector data="[2930.823, 1293.192, 44.6591]" id="1" />
+        <vector data="[2942.373, 1289.141, 44.645]" id="2" />
+        <vector data="[2935.901, 1268.257, 44.6307]" id="3" />
+        <vector data="[2928.317, 1266.78, 44.6574]" id="4" />
+        <vector data="[2923.45, 1272.365, 44.6619]" id="5" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_ASB_HORSE_FENCE_MP">
+      <vector data="[2903.993, 1238.222, 43.92266]" id="vPos" />
+      <float data="65.172" id="fHeading" />
+      <string data="WORLD_HUMAN_WAITING_IMPATIENT" id="sHash" />
+      <string data="CS_CLAY" id="sModel" />
+      <vector data="[2902.047, 1233.567, 43.87243]" id="vClosedPos" />
+      <float data="125.831" id="fClosedHeading" />
+      <string data="WORLD_HUMAN_LEAN_BACK_WALL_DRINKING" id="sClosedHash" />
+      <vector data="[2905.043, 1236.646, 43.77]" id="vPropPos" />
+      <vector data="[2.1, 355.3, 130.644]" id="vPropRot" />
+    </shopitems>
+    <shopitems id="SHOP_BUT_HORSE_FENCE_MP">
+      <vector data="[2581.489, 741.2914, 80.48071]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_WAITING_IMPATIENT" id="sHash" />
+      <string data="CS_CLAY" id="sModel" />
+      <vector data="[2576.407, 741.866, 79.23555]" id="vClosedPos" />
+      <float data="69.345" id="fClosedHeading" />
+      <string data="WORLD_HUMAN_LEAN_BACK_WALL_DRINKING" id="sClosedHash" />
+      <vector data="[2580.555, 739.936, 80.419]" id="vPropPos" />
+      <vector data="[345.124, 3.659, 73.06]" id="vPropRot" />
+    </shopitems>
+    <shopitems id="SHOP_BEN_POST_OFFICE">
+      <vector data="[-5227.357, -3469.135, -21.57]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="U_M_M_TUMTRAINSTATIONWORKER_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[-5231.636, -3472.11, -20.5546]" id="0" />
+        <vector data="[-5223.803, -3466.187, -20.4889]" id="1" />
+        <vector data="[-5221.509, -3475.764, -20.5322]" id="2" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_BEN_HORSE_FENCE_MP">
+      <vector data="[-5229.326, -3522.597, -22.9]" id="vPos" />
+      <float data="40.66278" id="fHeading" />
+      <string data="WORLD_HUMAN_WAITING_IMPATIENT" id="sHash" />
+      <string data="CS_CLAY" id="sModel" />
+      <vector data="[-5229.2, -3523.6, -22.9]" id="vClosedPos" />
+      <float data="124.0218" id="fClosedHeading" />
+      <string data="WORLD_HUMAN_LEAN_BACK_WALL_DRINKING" id="sClosedHash" />
+      <vector data="[-5230.275, -3524.959, -22.96]" id="vPropPos" />
+      <vector data="[0.0, 0.0, 105.837]" id="vPropRot" />
+    </shopitems>
+    <shopitems id="SHOP_BLK_BARBER">
+      <vector data="[-815.841, -1365.019, 42.751]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="S_M_M_BARBER_01" id="sModel" />
+      <string data="META_OUTFIT_BLACKWATER_VAR_01" id="sOutfit" />
+      <UNK_8F9A56EF>
+        <vector data="[-806.0546, -1366.855, 43.6598]" id="0" />
+        <vector data="[-823.8553, -1364.872, 43.4772]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_BLK_BUTCHER">
+      <vector data="[-753.092, -1284.72, 42.48]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_STARE_STOIC" id="sHash" />
+      <string data="S_M_M_UNIBUTCHERS_01" id="sModel" />
+      <string data="META_OUTFIT_BLACKWATER_VAR_01" id="sOutfit" />
+    </shopitems>
+    <shopitems id="SHOP_BLK_HORSE_SHOP">
+      <vector data="[-868.3356, -1366.207, 44.75311]" id="vPos" />
+      <UNK_8F9A56EF>
+        <vector data="[-854.0, -1366.2, 43.5875]" id="0" />
+        <vector data="[-873.9195, -1356.35, 43.5627]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_BLK_GENERAL_STORE">
+      <vector data="[-784.48, -1322.26, 42.89]" id="vPos" />
+      <float data="180" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="U_M_O_BLWGENERALSTOREOWNER_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[-793.2, -1322.3, 43.6355]" id="0" />
+        <vector data="[-773.0955, -1320.716, 43.6904]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_BLK_PHOTO_STUDIO">
+      <vector data="[-813.457, -1371.768, 43.563]" id="vPos" />
+      <float data="228.119" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_READ_NEWSPAPER" id="sHash" />
+      <string data="U_M_O_BlWPhotographer_01" id="sModel" />
+      <vector data="[-811.8171, -1373.381, 43.0233]" id="vDragInPos" />
+      <UNK_8F9A56EF>
+        <vector data="[-805.8171, -1374.153, 43.6671]" id="0" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_BLK_POST_OFFICE">
+      <vector data="[-875.051, -1327.27, 42.95]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="U_M_M_BLWTRAINSTATIONWORKER_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[-869.6785, -1332.679, 43.949]" id="0" />
+        <vector data="[-880.3595, -1337.954, 43.9744]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_BLK_TRAIN_STATION">
+      <vector data="[-875.02, -1326.71, 42.97]" id="vPos" />
+      <float data="2.679" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="U_M_M_BLWTRAINSTATIONWORKER_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_BLK_TAILOR">
+      <vector data="[-762.125, -1293.49, 42.836]" id="vPos" />
+      <float data="0.545" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="S_M_M_Tailor_01" id="sModel" />
+      <string data="META_OUTFIT_BLACKWATER_VAR_01" id="sOutfit" />
+      <UNK_8F9A56EF>
+        <vector data="[-755.337, -1290.7, 43.6386]" id="0" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_BLK_HORSE_FENCE_MP">
+      <vector data="[-862.7132, -1318.233, 42.18139]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_WAITING_IMPATIENT" id="sHash" />
+      <string data="CS_CLAY" id="sModel" />
+      <vector data="[-855.2618, -1316.853, 42.21533]" id="vClosedPos" />
+      <float data="0.0" id="fClosedHeading" />
+      <string data="WORLD_HUMAN_LEAN_BACK_WALL_DRINKING" id="sClosedHash" />
+      <vector data="[-861.46, -1317.31, 42.108]" id="vPropPos" />
+      <vector data="[0.8, 0.0, 276.763]" id="vPropRot" />
+    </shopitems>
+    <shopitems id="SHOP_CKT_HORSE_FENCE_MP">
+      <vector data="[548.2063, 628.9953, 108.4814]" id="vPos" />
+      <float data="80.684" id="fHeading" />
+      <string data="WORLD_HUMAN_WAITING_IMPATIENT" id="sHash" />
+      <string data="CS_CLAY" id="sModel" />
+      <vector data="[549.6334, 624.9617, 108.7573]" id="vClosedPos" />
+      <float data="161.874" id="fClosedHeading" />
+      <string data="WORLD_HUMAN_LEAN_BACK_WALL_DRINKING" id="sClosedHash" />
+      <vector data="[550.76, 629.176, 108.651]" id="vPropPos" />
+      <vector data="[0.0, 7.918, 164.114]" id="vPropRot" />
+    </shopitems>
+    <shopitems id="SHOP_EMR_POST_OFFICE">
+      <vector data="[1521.914, 441.147, 89.679]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="S_M_M_TrainStationWorker_01" id="sModel" />
+      <string data="META_OUTFIT_EMERALDRANCH_VAR_01" id="sOutfit" />
+    </shopitems>
+    <shopitems id="SHOP_EMR_HORSE_FENCE_MP">
+      <vector data="[1421.052, 365.723, 88.066]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_WAITING_IMPATIENT" id="sHash" />
+      <string data="CS_CLAY" id="sModel" />
+      <vector data="[1418.709, 369.24, 88.406]" id="vClosedPos" />
+      <float data="0.0" id="fClosedHeading" />
+      <string data="WORLD_HUMAN_LEAN_BACK_WALL_DRINKING" id="sClosedHash" />
+      <vector data="[1419.005, 365.066, 87.902]" id="vPropPos" />
+      <vector data="[5.359, 0.0, 0.0]" id="vPropRot" />
+    </shopitems>
+    <shopitems id="SHOP_EMR_FENCE">
+      <vector data="[1417.338, 273.64, 88.483]" id="vPos" />
+      <float data="195.5" id="fHeading" />
+      <string data="WORLD_HUMAN_STARE_STOIC" id="sHash" />
+      <string data="U_M_Y_EMRSON_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_LAG_BAIT_STORE">
+      <vector data="[2163.553, -618.939, 42.328]" id="vPos" />
+      <float data="52.33" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_KNITTING" id="sHash" />
+      <string data="U_F_M_LAGMOTHER_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_LAG_HORSE_FENCE_MP">
+      <vector data="[2058.441, -571.702, 40.82048]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_WAITING_IMPATIENT" id="sHash" />
+      <string data="CS_CLAY" id="sModel" />
+      <vector data="[2054.2, -572.9265, 40.61633]" id="vClosedPos" />
+      <float data="64.358" id="fClosedHeading" />
+      <string data="WORLD_HUMAN_LEAN_BACK_WALL_DRINKING" id="sClosedHash" />
+      <vector data="[2058.426, -573.906, 40.61]" id="vPropPos" />
+      <vector data="[0.5, 353.982, 71.26]" id="vPropRot" />
+    </shopitems>
+    <shopitems id="SHOP_RGG_POST_OFFICE">
+      <vector data="[-1092.875, -575.689, 81.409]" id="vPos" />
+      <float data="51.244" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="S_M_M_TrainStationWorker_01" id="sModel" />
+      <string data="META_OUTFIT_RIGGSSTATION_VAR_01" id="sOutfit" />
+      <UNK_8F9A56EF>
+        <vector data="[-1097.86, -573.2375, 82.3974]" id="0" />
+        <vector data="[-1091.222, -574.2878, 82.4104]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_RHO_BUTCHER">
+      <vector data="[1297.676, -1277.629, 74.881]" id="vPos" />
+      <float data="144.708" id="fHeading" />
+      <string data="WORLD_HUMAN_STARE_STOIC" id="sHash" />
+      <string data="S_M_M_UNIBUTCHERS_01" id="sModel" />
+      <string data="META_OUTFIT_RHODES_VAR_01" id="sOutfit" />
+    </shopitems>
+    <shopitems id="SHOP_RHO_FENCE">
+      <vector data="[1319.432, -1142.082, 81.414]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SMOKE_NERVOUS_STRESSED" id="sHash" />
+      <string data="U_M_M_RHDGENSTOREOWNER_02" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_RHO_GENERAL_STORE">
+      <vector data="[1329.608, -1294.375, 76.008]" id="vPos" />
+      <float data="65.072" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="U_M_M_RHDGENSTOREOWNER_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[1324.92, -1296.66, 76.99]" id="0" />
+        <vector data="[1333.33, -1292.16, 76.6]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_RHO_GUNSMITH">
+      <vector data="[1322.25, -1322.96, 76.89]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="U_M_M_RHDGUNSMITH_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[1326.31, -1316.88, 77.9]" id="0" />
+        <vector data="[1317.79, -1323.4, 76.99]" id="1" />
+        <vector data="[1331.14, -1328.95, 77.93]" id="2" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_RHO_POST_OFFICE">
+      <vector data="[1226.677, -1295.074, 75.903]" id="vPos" />
+      <float data="43.767" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="S_M_M_TrainStationWorker_01" id="sModel" />
+      <string data="META_OUTFIT_RHODES_VAR_01" id="sOutfit" />
+      <UNK_8F9A56EF>
+        <vector data="[1229.933, -1286.794, 76.9026]" id="0" />
+        <vector data="[1220.155, -1289.64, 76.898]" id="1" />
+        <vector data="[1232.285, -1304.044, 76.9118]" id="2" />
+        <vector data="[1239.689, -1304.521, 76.8982]" id="3" />
+        <vector data="[1237.168, -1293.608, 76.9643]" id="4" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_RHO_HORSE_FENCE_MP">
+      <vector data="[1325.144, -1246.491, 77.1234]" id="vPos" />
+      <float data="252.4364" id="fHeading" />
+      <string data="WORLD_HUMAN_WAITING_IMPATIENT" id="sHash" />
+      <string data="CS_CLAY" id="sModel" />
+      <vector data="[1323.961, -1246.352, 77.9807]" id="vClosedPos" />
+      <float data="64.358" id="fClosedHeading" />
+      <string data="WORLD_HUMAN_LEAN_BACK_WALL_DRINKING" id="sClosedHash" />
+      <vector data="[1323.05, -1246.504, 77.9367]" id="vPropPos" />
+      <vector data="[3.4, 0.0, 8.0]" id="vPropRot" />
+    </shopitems>
+    <shopitems id="SHOP_SDN_BARBER">
+      <vector data="[2656.396, -1180.011, 52.279]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_STARE_STOIC" id="sHash" />
+      <string data="S_M_M_BARBER_01" id="sModel" />
+      <string data="META_OUTFIT_SAINTDENIS_VAR_01" id="sOutfit" />
+      <UNK_8F9A56EF>
+        <vector data="[2662.97, -1179.12, 53.09]" id="0" />
+        <vector data="[2648.42, -1178.82, 53.21]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_SDN_BUTCHER">
+      <vector data="[2819.511, -1331.339, 45.514]" id="vPos" />
+      <float data="49.933" id="fHeading" />
+      <string data="WORLD_HUMAN_STARE_STOIC" id="sHash" />
+      <string data="S_M_M_UNIBUTCHERS_01" id="sModel" />
+      <string data="META_OUTFIT_SAINTDENIS_VAR_01" id="sOutfit" />
+    </shopitems>
+    <shopitems id="SHOP_SDN_DOCTOR">
+      <vector data="[2721.171, -1231.66, 49.37]" id="vPos" />
+      <float data="90" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="CS_SDDOCTOR_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[2713.58, -1229.36, 50.15]" id="0" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_SDN_FENCE">
+      <vector data="[2859.507, -1202.118, 48.589]" id="vPos" />
+      <float data="5.65" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="U_M_M_NBXShadyDealer_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[2849.8, -1202.54, 47.69]" id="0" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_SDN_GENERAL_STORE">
+      <vector data="[2824.745, -1319.45, 45.756]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="U_M_M_NBXGENERALSTOREOWNER_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[2822.26, -1312.58, 46.71]" id="0" />
+        <vector data="[2831.18, -1320.17, 46.67]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_SDN_GUNSMITH">
+      <vector data="[2716.682, -1287.071, 48.63645]" id="vPos" />
+      <float data="25.17" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="U_M_M_NBXGUNSMITH_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[2722.16, -1281.49, 49.48]" id="0" />
+        <vector data="[2708.772, -1291.64, 49.62]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_SDN_PHOTO_STUDIO">
+      <vector data="[2732.669, -1120.571, 49.134]" id="vPos" />
+      <float data="310.601" id="fHeading" />
+      <string data="WORLD_HUMAN_STARE_STOIC" id="sHash" />
+      <string data="U_M_M_SDPhotographer_01" id="sModel" />
+      <vector data="[2733.616, -1119.579, 48.1012]" id="vDragInPos" />
+      <UNK_8F9A56EF>
+        <vector data="[2734.8, -1113.14, 49.02]" id="0" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_SDN_POST_OFFICE">
+      <vector data="[2748.788, -1398.223, 45.184]" id="vPos" />
+      <float data="0" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="S_M_M_TrainStationWorker_01" id="sModel" />
+      <string data="META_OUTFIT_SAINTDENIS_VAR_01" id="sOutfit" />
+      <UNK_8F9A56EF>
+        <vector data="[2745.754, -1402.776, 45.1924]" id="0" />
+        <vector data="[2738.476, -1406.516, 45.1927]" id="1" />
+        <vector data="[2736.107, -1392.171, 45.2289]" id="2" />
+        <vector data="[2727.268, -1402.703, 45.2234]" id="3" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_SDN_TAILOR">
+      <vector data="[2555.218, -1167.04, 52.684]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="S_M_M_Tailor_01" id="sModel" />
+      <string data="META_OUTFIT_SAINTDENIS_VAR_01" id="sOutfit" />
+      <UNK_8F9A56EF>
+        <vector data="[2552.377, -1176.03, 53.31]" id="0" />
+        <vector data="[2544.844, -1163.55, 53.31]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_SDN_THEATER_MP">
+      <vector data="[2553.5, -1284.2, 48.218]" id="vPos" />
+      <float data="44.261" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="S_M_M_SDTICKETSELLER_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[2532.1, -1275.8, 49.2]" id="0" />
+        <vector data="[2534.6, -1272.6, 49.2]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_SDN_THEATER_MAGIC_MP">
+      <vector data="[2694.172, -1359.592, 48.03417]" id="vPos" />
+      <float data="129.887" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="S_M_M_MAGICLANTERN_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[2685.927, -1360.176, 47.21452]" id="0" />
+        <vector data="[2686.854, -1364.189, 47.21408]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_SDN_HORSE_SHOP">
+      <vector data="[2508.275, -1449.654, 48.41523]" id="vPos" />
+      <UNK_8F9A56EF>
+        <vector data="[2502.27, -1432.92, 46.26]" id="0" />
+        <vector data="[2502.16, -1467.65, 46.22]" id="1" />
+        <vector data="[2497.283, -1450.49, 46.32]" id="2" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_SDN_HORSE_FENCE_MP">
+      <vector data="[2661.031, -1045.048, 45.10538]" id="vPos" />
+      <float data="47.66278" id="fHeading" />
+      <string data="WORLD_HUMAN_WAITING_IMPATIENT" id="sHash" />
+      <string data="CS_CLAY" id="sModel" />
+      <vector data="[2660.398, -1049.265, 45.32564]" id="vClosedPos" />
+      <float data="124.0218" id="fClosedHeading" />
+      <string data="WORLD_HUMAN_LEAN_BACK_WALL_DRINKING" id="sClosedHash" />
+      <vector data="[2663.44, -1046.234, 45.192]" id="vPropPos" />
+      <vector data="[0.8, 4.359, 133.103]" id="vPropRot" />
+    </shopitems>
+    <shopitems id="SHOP_STR_BUTCHER">
+      <vector data="[-1751.93, -393.46, 155.23]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="PROP_HUMAN_BUTCHER_DEER_ALWAYS" id="sHash" />
+      <string data="S_M_M_UNIBUTCHERS_01" id="sModel" />
+      <string data="META_OUTFIT_STRAWBERRY_VAR_01" id="sOutfit" />
+    </shopitems>
+    <shopitems id="SHOP_STR_GENERAL_STORE">
+      <vector data="[-1790.02, -388.29, 159.33]" id="vPos" />
+      <float data="54.112" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="U_M_M_StrGenStoreOwner_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[-1796.37, -381.28, 160.26]" id="0" />
+        <vector data="[-1785.4, -387.26, 160.23]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_STR_POST_OFFICE">
+      <vector data="[-1763.916, -385.113, 156.74]" id="vPos" />
+      <float data="55.151" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="S_M_M_TrainStationWorker_01" id="sModel" />
+      <string data="META_OUTFIT_STRAWBERRY_VAR_01" id="sOutfit" />
+      <UNK_8F9A56EF>
+        <vector data="[-1769.418, -384.3111, 157.7128]" id="0" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_STR_HORSE_FENCE_MP">
+      <vector data="[-1805.879, -444.9785, 156.4595]" id="vPos" />
+      <float data="170.3051" id="fHeading" />
+      <string data="WORLD_HUMAN_WAITING_IMPATIENT" id="sHash" />
+      <string data="CS_CLAY" id="sModel" />
+      <vector data="[-1814.26, -449.2955, 156.5532]" id="vClosedPos" />
+      <float data="100.856" id="fClosedHeading" />
+      <string data="WORLD_HUMAN_LEAN_WALL_RIGHT" id="sClosedHash" />
+      <vector data="[-1805.228, -443.5095, 157.4338]" id="vPropPos" />
+      <vector data="[6.439, 2.739, 89.974]" id="vPropRot" />
+    </shopitems>
+    <shopitems id="SHOP_STR_HORSE_SHOP">
+      <vector data="[-1817.052, -564.0616, 155.9847]" id="vPos" />
+      <UNK_8F9A56EF>
+        <vector data="[-1811.6, -564.06, 156.0]" id="0" />
+        <vector data="[-1827.63, -559.52, 155.99]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_TBL_BUTCHER">
+      <vector data="[-5508.963, -2946.32, -2.87]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_BUTCHER_RABBIT_ALWAYS" id="sHash" />
+      <string data="U_M_M_TUMBUTCHER_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_TBL_GENERAL_STORE">
+      <vector data="[-5485.918, -2938.131, -1.401]" id="vPos" />
+      <float data="130.601" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="U_F_M_TUMGENERALSTOREOWNER_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[-5492.166, -2942.87, -0.46]" id="0" />
+        <vector data="[-5486.99, -2931.19, -0.48]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_TBL_GUNSMITH">
+      <vector data="[-5506.569, -2963.89, -1.642]" id="vPos" />
+      <float data="111.144" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="U_M_M_TUMGUNSMITH_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[-5510.543, -2960.008, -0.6696]" id="0" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_TBL_HORSE_SHOP">
+      <vector data="[-5521.667, -3043.99, -3.29536]" id="vPos" />
+      <UNK_8F9A56EF>
+        <vector data="[-5508.26, -3045.04, -2.53]" id="0" />
+        <vector data="[-5529.86, -3043.81, -2.36]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_VAL_BARBER">
+      <vector data="[-308.183, 812.195, 117.99]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_STARE_STOIC" id="sHash" />
+      <string data="U_M_M_valbarber_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_VAL_BUTCHER">
+      <vector data="[-339.664, 766.318, 115.595]" id="vPos" />
+      <float data="101.432" id="fHeading" />
+      <string data="PROP_HUMAN_BUTCHER_DEER_ALWAYS" id="sHash" />
+      <string data="U_M_M_ValButcher_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_VAL_DOCTOR">
+      <vector data="[-287.9, 804.15, 118.386]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="U_M_M_ValDoctor_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[-283.3, 802.33, 119.38]" id="0" />
+        <vector data="[-279.31, 816.04, 119.31]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_VAL_GENERAL_STORE">
+      <vector data="[-324.0, 803.723, 116.882]" id="vPos" />
+      <float data="0" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="U_M_M_VALGENSTOREOWNER_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[-319.55, 794.2, 117.89]" id="0" />
+        <vector data="[-330.31, 804.79, 117.52]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_VAL_GUNSMITH">
+      <vector data="[-281.8048, 779.0587, 118.5]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="U_M_M_ValGunsmith_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[-283.17, 786.4, 119.5]" id="0" />
+        <vector data="[-276.96, 774.6669, 118.95]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_VAL_POST_OFFICE">
+      <vector data="[-177.999, 628.106, 113.09]" id="vPos" />
+      <float data="145.543" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="S_M_M_TrainStationWorker_01" id="sModel" />
+      <string data="META_OUTFIT_VALENTINE_VAR_01" id="sOutfit" />
+      <UNK_8F9A56EF>
+        <vector data="[-186.8184, 629.3851, 114.0321]" id="0" />
+        <vector data="[-182.1854, 620.1247, 114.0321]" id="1" />
+        <vector data="[-170.0671, 634.7339, 114.0321]" id="2" />
+        <vector data="[-170.6279, 642.3668, 114.0321]" id="3" />
+        <vector data="[-180.2545, 637.9244, 114.0321]" id="4" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_VAL_HORSE_FENCE_MP">
+      <vector data="[-322.885, 698.202, 114.995]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_WAITING_IMPATIENT" id="sHash" />
+      <string data="CS_CLAY" id="sModel" />
+      <vector data="[-326.576, 699.911, 115.405]" id="vClosedPos" />
+      <float data="29.055" id="fClosedHeading" />
+      <string data="WORLD_HUMAN_LEAN_BACK_WALL_DRINKING" id="sClosedHash" />
+      <vector data="[-324.213, 696.9391, 115.105]" id="vPropPos" />
+      <vector data="[5.0, 5.758, 27.712]" id="vPropRot" />
+    </shopitems>
+    <shopitems id="SHOP_VAL_HORSE_SHOP">
+      <vector data="[-369.5308, 787.9053, 116.1974]" id="vPos" />
+      <UNK_8F9A56EF>
+        <vector data="[-359.57, 787.39, 116.2]" id="0" />
+        <vector data="[-379.31, 786.76, 116.04]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_VAN_FENCE">
+      <vector data="[3025.72, 562.38, 43.72]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="U_M_O_VHTEXOTICSHOPKEEPER_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[3025.155, 554.04, 44.7]" id="0" />
+        <vector data="[3027.5, 568.9, 44.7]" id="1" />
+        <vector data="[3018.52, 567.81, 44.7]" id="2" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_VAN_HORSE_SHOP">
+      <vector data="[2964.148, 795.9768, 51.94672]" id="vPos" />
+      <UNK_8F9A56EF>
+        <vector data="[2958.4, 796.25, 51.4]" id="0" />
+        <vector data="[2976.24, 795.49, 51.3]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_VAN_POST_OFFICE">
+      <vector data="[2986.244, 570.122, 43.639]" id="vPos" />
+      <float data="170.243" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="U_M_M_VHTSTATIONCLERK_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_VAN_HORSE_FENCE_MP">
+      <vector data="[2965.145, 551.869, 43.38702]" id="vPos" />
+      <float data="79.439" id="fHeading" />
+      <string data="WORLD_HUMAN_WAITING_IMPATIENT" id="sHash" />
+      <string data="CS_CLAY" id="sModel" />
+      <vector data="[2966.696, 547.6255, 43.30239]" id="vClosedPos" />
+      <float data="163.796" id="fClosedHeading" />
+      <string data="WORLD_HUMAN_LEAN_BACK_WALL_DRINKING" id="sClosedHash" />
+      <vector data="[2966.821, 551.968, 43.239]" id="vPropPos" />
+      <vector data="[359.2, 354.501, 172.392]" id="vPropRot" />
+    </shopitems>
+    <shopitems id="SHOP_WAL_GENERAL_STORE">
+      <vector data="[-1301.81, 393.48, 94.43]" id="vPos" />
+      <float data="64.411" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER_MP_CATALOG" id="sHash" />
+      <string data="U_M_M_WALGENERALSTOREOWNER_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[-1306.48, 396.99, 95.46]" id="0" />
+        <vector data="[-1298.92, 388.06, 95.29]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_WAL_POST_OFFICE">
+      <vector data="[-1299.809, 400.866, 94.38]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_STARE_STOIC" id="sHash" />
+      <string data="S_M_M_TrainStationWorker_01" id="sModel" />
+      <string data="META_OUTFIT_WALLACESTATION_VAR_01" id="sOutfit" />
+    </shopitems>
+    <shopitems id="SHOP_MAP_HORSE_FENCE_MP">
+      <vector data="[-1948.997, -1664.295, 116.6853]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_WAITING_IMPATIENT" id="sHash" />
+      <string data="CS_CLAY" id="sModel" />
+      <vector data="[-1952.035, -1659.657, 116.3283]" id="vClosedPos" />
+      <float data="2.789" id="fClosedHeading" />
+      <string data="WORLD_HUMAN_LEAN_BACK_WALL_DRINKING" id="sClosedHash" />
+      <vector data="[-1950.709, -1663.818, 116.534]" id="vPropPos" />
+      <vector data="[357.6, 0.0, 14.396]" id="vPropRot" />
+    </shopitems>
+    <shopitems id="SHOP_THL_FENCE">
+      <vector data="[-1401.694, -2317.165, 42.6241]" id="vPos" />
+      <float data="92.5851" id="fHeading" />
+      <string data="WORLD_HUMAN_SMOKE_NERVOUS_STRESSED" id="sHash" />
+      <string data="MP_U_M_M_TVLFENCE_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_SCM_HORSE_SHOP">
+      <vector data="[1209.053, -193.1814, 101.9785]" id="vPos" />
+      <UNK_8F9A56EF>
+        <vector data="[1206.848, -183.6114, 100.2396]" id="0" />
+        <vector data="[1211.669, -201.3721, 100.4382]" id="1" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_BOJ_HONOR_MP">
+      <vector data="[-1249.156, -607.2252, 100.1561]" id="vPos" />
+      <float data="79.5768" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_MORTAR_PESTLE" id="sHash" />
+      <string data="CS_MP_OLDMAN_JONES" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_ROJ_HONOR_MP">
+      <vector data="[2625.55, 1328.568, 113.7663]" id="vPos" />
+      <float data="239.3778" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_MORTAR_PESTLE" id="sHash" />
+      <string data="CS_MP_OLDMAN_JONES" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_AMD_BARTENDER">
+      <vector data="[-3699.017, -2595.52, -14.32132]" id="vPos" />
+      <float data="93.3" id="fHeading" />
+      <string data="WORLD_HUMAN_BARTENDER_CLEAN_GLASS" id="sHash" />
+      <string data="U_M_O_ARMBARTENDER_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_BLK_BARTENDER">
+      <vector data="[-817.81, -1320.197, 42.679]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_BARTENDER_CLEAN_GLASS" id="sHash" />
+      <string data="U_M_O_BlWBartender_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_RHO_BARTENDER">
+      <vector data="[1339.223, -1375.298, 79.481]" id="vPos" />
+      <float data="170.38" id="fHeading" />
+      <string data="WORLD_HUMAN_BARTENDER_CLEAN_GLASS" id="sHash" />
+      <string data="U_M_M_RhdBartender_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_SDN_BARTENDER">
+      <vector data="[2639.916, -1222.941, 52.38]" id="vPos" />
+      <float data="91.272" id="fHeading" />
+      <string data="WORLD_HUMAN_BARTENDER_CLEAN_GLASS" id="sHash" />
+      <string data="U_M_M_NbxBartender_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_SDN_BARTENDER_SLUM">
+      <vector data="[2793.235, -1166.77, 46.933]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_BARTENDER_CLEAN_GLASS" id="sHash" />
+      <string data="U_M_M_NbxBartender_02" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_TBL_BARTENDER">
+      <vector data="[-5518.909, -2906.424, -2.751]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_BARTENDER_CLEAN_GLASS" id="sHash" />
+      <string data="U_M_M_TUMBARTENDER_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_VAL_BARTENDER">
+      <vector data="[-313.891, 807.679, 117.982]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_BARTENDER_CLEAN_GLASS" id="sHash" />
+      <string data="U_M_M_ValBartender_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_VAL_THEATER_MAGIC_MP">
+      <vector data="[-355.308, 704.938, 115.936]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SHOPKEEPER" id="sHash" />
+      <string data="S_M_M_MAGICLANTERN_01" id="sModel" />
+      <UNK_8F9A56EF>
+        <vector data="[-351.9561, 705.3148, 116.2702]" id="0" />
+      </UNK_8F9A56EF>
+    </shopitems>
+    <shopitems id="SHOP_VAL_BARTENDER_KEANE">
+      <vector data="[-238.493, 769.079, 117.097]" id="vPos" />
+      <float data="107.531" id="fHeading" />
+      <string data="WORLD_HUMAN_BARTENDER_CLEAN_GLASS" id="sHash" />
+      <string data="U_M_O_ValBartender_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_VAN_BARTENDER">
+      <vector data="[2947.676, 529.057, 44.339]" id="vPos" />
+      <float data="105.768" id="fHeading" />
+      <string data="WORLD_HUMAN_BARTENDER_CLEAN_GLASS" id="sHash" />
+      <string data="U_F_M_VhTBartender_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_BLK_PIANIST">
+      <vector data="[-814.97, -1313.08, 43.2]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="PROP_HUMAN_PIANO" id="sHash" />
+      <string data="A_M_M_BLWUPPERCLASS_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_RHO_PIANIST">
+      <vector data="[1346.95, -1371.12, 79.98]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="PROP_HUMAN_PIANO" id="sHash" />
+      <string data="A_M_M_RHDUPPERCLASS_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_SDN_PIANIST">
+      <vector data="[2631.83, -1232.3, 53.69]" id="vPos" />
+      <float data="65.295" id="fHeading" />
+      <string data="PROP_HUMAN_PIANO" id="sHash" />
+      <string data="A_M_M_NbxUpperClass_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_SDN_PIANIST_SLUM">
+      <vector data="[2800.64, -1164.33, 47.43]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="PROP_HUMAN_PIANO" id="sHash" />
+      <string data="A_M_M_LowerSDTownfolk_02" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_TBL_PIANIST">
+      <vector data="[-5516.0, -2914.51, -2.25]" id="vPos" />
+      <float data="122.513" id="fHeading" />
+      <string data="PROP_HUMAN_PIANO" id="sHash" />
+      <string data="A_M_M_TumTownfolk_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_VAL_PIANIST">
+      <vector data="[-312.33, 799.01, 118.48]" id="vPos" />
+      <float data="100.038" id="fHeading" />
+      <string data="PROP_HUMAN_PIANO" id="sHash" />
+      <string data="A_M_M_VALLABORER_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_VAN_PIANIST">
+      <vector data="[2944.15, 528.79, 44.86]" id="vPos" />
+      <float data="3.308" id="fHeading" />
+      <string data="PROP_HUMAN_PIANO" id="sHash" />
+      <string data="A_M_M_VhtTownfolk_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_BLK_MUSICIAN_GUITARIST_FIRST">
+      <vector data="[-778.9, -1297.01, 42.8]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SIT_GUITAR" id="sHash" />
+      <string data="A_M_M_BlWLaborer_02" id="sModel" />
+      <int data="6" id="startTime" />
+      <int data="23" id="endTime" />
+    </shopitems>
+    <shopitems id="SHOP_BLK_MUSICIAN_GUITARIST_SECOND">
+      <vector data="[-811.66, -1406.96, 42.71]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SIT_GUITAR" id="sHash" />
+      <string data="A_M_M_BlWLaborer_01" id="sModel" />
+      <int data="19" id="startTime" />
+      <int data="5" id="endTime" />
+    </shopitems>
+    <shopitems id="SHOP_BLK_MUSICIAN_GUITARIST_THIRD">
+      <vector data="[-823.7, -1345.42, 42.65]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SIT_GUITAR" id="sHash" />
+      <string data="A_M_M_BlWLaborer_01" id="sModel" />
+      <int data="8" id="startTime" />
+      <int data="22" id="endTime" />
+    </shopitems>
+    <shopitems id="SHOP_BUT_MUSICIAN_BANJO">
+      <vector data="[2536.89, 773.55, 75.63]" id="vPos" />
+      <float data="13.644" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_BANJO_UPBEAT" id="sHash" />
+      <string data="A_M_M_BtcHillbilly_01" id="sModel" />
+    </shopitems>
+    <shopitems id="SHOP_RHO_MUSICIAN_BANJO">
+      <vector data="[1351.37, -1324.15, 77.3]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_BANJO" id="sHash" />
+      <string data="A_M_M_RhdForeman_01" id="sModel" />
+      <int data="6" id="startTime" />
+      <int data="17" id="endTime" />
+    </shopitems>
+    <shopitems id="SHOP_SDN_MUSICIAN_GUITARIST">
+      <vector data="[2826.18, -1096.53, 46.3]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_GUITAR" id="sHash" />
+      <string data="A_M_M_SDSlums_02" id="sModel" />
+      <int data="13" id="startTime" />
+      <int data="1" id="endTime" />
+    </shopitems>
+    <shopitems id="SHOP_SDN_MUSICIAN_BANJO">
+      <vector data="[2777.02, -957.04, 43.78]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_BANJO" id="sHash" />
+      <string data="A_M_M_SDSlums_02" id="sModel" />
+      <int data="6" id="startTime" />
+      <int data="21" id="endTime" />
+    </shopitems>
+    <shopitems id="SHOP_STR_MUSICIAN_BANJO">
+      <vector data="[-1781.33, -371.85, 162.57]" id="vPos" />
+      <float data="135.0" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_BANJO_UPBEAT" id="sHash" />
+      <string data="A_M_M_STRTOWNFOLK_01" id="sModel" />
+      <int data="12" id="startTime" />
+      <int data="17" id="endTime" />
+    </shopitems>
+    <shopitems id="SHOP_STR_MUSICIAN_GUITARIST">
+      <vector data="[-1805.92, -427.22, 158.29]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_GUITAR" id="sHash" />
+      <string data="A_M_M_STRTOWNFOLK_01" id="sModel" />
+      <int data="7" id="startTime" />
+      <int data="2" id="endTime" />
+    </shopitems>
+    <shopitems id="SHOP_RIO_TRAVELLING_SALESMAN">
+      <vector data="[-4925.96, -3883.26, -0.07]" id="vPos" />
+      <float data="20.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SMOKE_NAZAR" id="sHash" />
+      <string data="CS_MP_TRAVELLINGSALESWOMAN" id="sModel" />
+      <vector data="[-4927.109, -3885.56, -0.06]" id="vPropPos" />
+      <float data="0" id="fPropHead" />
+      <string data="PG_MP005_COLLECTORWAGONCAMP01" id="sPropModel" />
+      <string data="AZ_Traveling_Saleslady" id="sPropAmbientZone" />
+      <UNK_D1ABFED3>
+        <vector data="[-4942.506, -3878.163, 0.1271]" id="vPlayerPos1" />
+        <float data="70.5592" id="fPlayerHead1" />
+        <vector data="[-4941.218, -3873.616, 0.3241]" id="vPlayerPos2" />
+        <float data="65.5638" id="fPlayerHead2" />
+        <vector data="[-4942.586, -3870.557, 0.6261]" id="vPlayerPos3" />
+        <float data="62.521" id="fPlayerHead3" />
+        <vector data="[-4951.648, -3876.982, 0.5622]" id="vHorsePos1" />
+        <float data="122.566" id="fHorseHead1" />
+        <vector data="[-4951.711, -3872.582, 0.823]" id="vHorsePos2" />
+        <float data="63.6573" id="fHorseHead2" />
+        <vector data="[-4950.31, -3866.268, 1.2008]" id="vHorsePos3" />
+        <float data="1.9593" id="fHorseHead3" />
+      </UNK_D1ABFED3>
+    </shopitems>
+    <shopitems id="SHOP_CHO_TRAVELLING_SALESMAN">
+      <vector data="[-4005.81, -2351.16, -9.08]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_DANCING" id="sHash" />
+      <string data="CS_MP_TRAVELLINGSALESWOMAN" id="sModel" />
+      <vector data="[-4008.6, -2350.14, -9.06]" id="vPropPos" />
+      <float data="100.0" id="fPropHead" />
+      <string data="PG_MP005_COLLECTORWAGONCAMP01" id="sPropModel" />
+      <string data="AZ_Traveling_Saleslady" id="sPropAmbientZone" />
+      <UNK_D1ABFED3>
+        <vector data="[-4004.748, -2357.987, -8.984]" id="vPlayerPos1" />
+        <float data="206.2817" id="fPlayerHead1" />
+        <vector data="[-4008.06, -2362.515, -9.067]" id="vPlayerPos2" />
+        <float data="194.4861" id="fPlayerHead2" />
+        <vector data="[-4012.612, -2358.41, -9.062]" id="vPlayerPos3" />
+        <float data="153.5797" id="fPlayerHead3" />
+        <vector data="[-4001.714, -2361.697, -8.984]" id="vHorsePos1" />
+        <float data="102.1762" id="fHorseHead1" />
+        <vector data="[-4007.899, -2366.141, -9.092]" id="vHorsePos2" />
+        <float data="270.1511" id="fHorseHead2" />
+        <vector data="[-4016.372, -2364.203, -9.09]" id="vHorsePos3" />
+        <float data="273.7438" id="fHorseHead3" />
+      </UNK_D1ABFED3>
+    </shopitems>
+    <shopitems id="SHOP_HEN_TRAVELLING_SALESMAN">
+      <vector data="[-1646.67, -2650.09, 63.51]" id="vPos" />
+      <float data="30" id="fHeading" />
+      <string data="WORLD_HUMAN_SMOKE_NAZAR" id="sHash" />
+      <string data="CS_MP_TRAVELLINGSALESWOMAN" id="sModel" />
+      <vector data="[-1647.41, -2652.57, 63.48]" id="vPropPos" />
+      <float data="0.0" id="fPropHead" />
+      <string data="PG_MP005_COLLECTORWAGONCAMP01" id="sPropModel" />
+      <string data="AZ_Traveling_Saleslady" id="sPropAmbientZone" />
+      <UNK_D1ABFED3>
+        <vector data="[-1655.478, -2637.164, 63.1529]" id="vPlayerPos1" />
+        <float data="31.4015" id="fPlayerHead1" />
+        <vector data="[-1663.083, -2640.583, 63.5163]" id="vPlayerPos2" />
+        <float data="45.3344" id="fPlayerHead2" />
+        <vector data="[-1668.906, -2643.935, 63.7536]" id="vPlayerPos3" />
+        <float data="72.6752" id="fPlayerHead3" />
+        <vector data="[-1649.677, -2628.19, 62.3315]" id="vHorsePos1" />
+        <float data="323.3231" id="fHorseHead1" />
+        <vector data="[-1665.386, -2636.009, 63.249]" id="vHorsePos2" />
+        <float data="352.1113" id="fHorseHead2" />
+        <vector data="[-1677.733, -2639.693, 63.9455]" id="vHorsePos3" />
+        <float data="88.4578" id="fHorseHead3" />
+      </UNK_D1ABFED3>
+    </shopitems>
+    <shopitems id="SHOP_TAL_TRAVELLING_SALESMAN">
+      <vector data="[-1861.68, -1335.65, 97.83]" id="vPos" />
+      <float data="40.0" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_READING" id="sHash" />
+      <string data="CS_MP_TRAVELLINGSALESWOMAN" id="sModel" />
+      <vector data="[-1858.17, -1333.59, 97.37]" id="vPropPos" />
+      <float data="0.0" id="fPropHead" />
+      <string data="PG_MP005_COLLECTORWAGONCAMP01" id="sPropModel" />
+      <string data="AZ_Traveling_Saleslady" id="sPropAmbientZone" />
+      <UNK_D1ABFED3>
+        <vector data="[-1870.015, -1332.809, 97.608]" id="vPlayerPos1" />
+        <float data="69.7695" id="fPlayerHead1" />
+        <vector data="[-1869.971, -1328.782, 97.918]" id="vPlayerPos2" />
+        <float data="68.7847" id="fPlayerHead2" />
+        <vector data="[-1865.112, -1326.468, 97.398]" id="vPlayerPos3" />
+        <float data="21.3277" id="fPlayerHead3" />
+        <vector data="[-1872.792, -1334.126, 97.935]" id="vHorsePos1" />
+        <float data="317.7868" id="fHorseHead1" />
+        <vector data="[-1872.434, -1327.152, 98.206]" id="vHorsePos2" />
+        <float data="133.6946" id="fHorseHead2" />
+        <vector data="[-1865.905, -1322.086, 97.472]" id="vHorsePos3" />
+        <float data="135.2475" id="fHorseHead3" />
+      </UNK_D1ABFED3>
+    </shopitems>
+    <shopitems id="SHOP_BGV_TRAVELLING_SALESMAN">
+      <vector data="[-2110.54, 477.47, 117.08]" id="vPos" />
+      <float data="170.0" id="fHeading" />
+      <string data="WORLD_HUMAN_DANCING" id="sHash" />
+      <string data="CS_MP_TRAVELLINGSALESWOMAN" id="sModel" />
+      <vector data="[-2112.76, 479.26, 117.13]" id="vPropPos" />
+      <float data="80.0" id="fPropHead" />
+      <string data="PG_MP005_COLLECTORWAGONCAMP01" id="sPropModel" />
+      <string data="AZ_Traveling_Saleslady" id="sPropAmbientZone" />
+      <UNK_D1ABFED3>
+        <vector data="[-2100.27, 473.7804, 116.8164]" id="vPlayerPos1" />
+        <float data="259.3323" id="fPlayerHead1" />
+        <vector data="[-2102.437, 466.571, 116.73]" id="vPlayerPos2" />
+        <float data="228.783" id="fPlayerHead2" />
+        <vector data="[-2113.075, 464.5726, 116.7689]" id="vPlayerPos3" />
+        <float data="209.6069" id="fPlayerHead3" />
+        <vector data="[-2091.645, 475.7498, 116.7854]" id="vHorsePos1" />
+        <float data="314.0591" id="fHorseHead1" />
+        <vector data="[-2092.431, 460.3848, 116.3084]" id="vHorsePos2" />
+        <float data="203.7288" id="fHorseHead2" />
+        <vector data="[-2117.104, 456.3825, 116.7212]" id="vHorsePos3" />
+        <float data="218.8913" id="fHorseHead3" />
+      </UNK_D1ABFED3>
+    </shopitems>
+    <shopitems id="SHOP_HRT_E_TRAVELLING_SALESMAN">
+      <vector data="[1244.56, 174.05, 87.44]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_READING" id="sHash" />
+      <string data="CS_MP_TRAVELLINGSALESWOMAN" id="sModel" />
+      <vector data="[1244.63, 169.96, 87.09]" id="vPropPos" />
+      <float data="0.0" id="fPropHead" />
+      <string data="PG_MP005_COLLECTORWAGONCAMP01" id="sPropModel" />
+      <string data="AZ_Traveling_Saleslady" id="sPropAmbientZone" />
+      <UNK_D1ABFED3>
+        <vector data="[1261.038, 180.1389, 86.7037]" id="vPlayerPos1" />
+        <float data="312.9836" id="fPlayerHead1" />
+        <vector data="[1264.814, 174.9355, 87.1435]" id="vPlayerPos2" />
+        <float data="310.0963" id="fPlayerHead2" />
+        <vector data="[1264.082, 169.279, 87.3348]" id="vPlayerPos3" />
+        <float data="280.1706" id="fPlayerHead3" />
+        <vector data="[1264.426, 188.193, 86.2159]" id="vHorsePos1" />
+        <float data="213.89" id="fHorseHead1" />
+        <vector data="[1269.782, 178.5355, 87.1756]" id="vHorsePos2" />
+        <float data="3.9353" id="fHorseHead2" />
+        <vector data="[1274.936, 174.0713, 87.5877]" id="vHorsePos3" />
+        <float data="210.6367" id="fHorseHead3" />
+      </UNK_D1ABFED3>
+    </shopitems>
+    <shopitems id="SHOP_HRT_W_TRAVELLING_SALESMAN">
+      <vector data="[-381.77, -21.31, 42.14]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SMOKE_NAZAR" id="sHash" />
+      <string data="CS_MP_TRAVELLINGSALESWOMAN" id="sModel" />
+      <vector data="[-382.76, -18.86, 42.11]" id="vPropPos" />
+      <float data="160.0" id="fPropHead" />
+      <string data="PG_MP005_COLLECTORWAGONCAMP01" id="sPropModel" />
+      <string data="AZ_Traveling_Saleslady" id="sPropAmbientZone" />
+      <UNK_D1ABFED3>
+        <vector data="[-373.23, -16.544, 41.801]" id="vPlayerPos1" />
+        <float data="308.4137" id="fPlayerHead1" />
+        <vector data="[-370.936, -19.502, 41.579]" id="vPlayerPos2" />
+        <float data="276.175" id="fPlayerHead2" />
+        <vector data="[-371.749, -23.57, 41.675]" id="vPlayerPos3" />
+        <float data="243.4758" id="fPlayerHead3" />
+        <vector data="[-371.67, -13.502, 41.75]" id="vHorsePos1" />
+        <float data="172.0181" id="fHorseHead1" />
+        <vector data="[-366.319, -19.404, 41.754]" id="vHorsePos2" />
+        <float data="356.5984" id="fHorseHead2" />
+        <vector data="[-368.294, -26.076, 41.842]" id="vHorsePos3" />
+        <float data="354.8041" id="fHorseHead3" />
+      </UNK_D1ABFED3>
+    </shopitems>
+    <shopitems id="SHOP_GRZ_TRAVELLING_SALESMAN">
+      <vector data="[1389.91, 1318.67, 163.97]" id="vPos" />
+      <float data="170.0" id="fHeading" />
+      <string data="WORLD_HUMAN_DANCING" id="sHash" />
+      <string data="CS_MP_TRAVELLINGSALESWOMAN" id="sModel" />
+      <vector data="[1387.65, 1320.58, 164.02]" id="vPropPos" />
+      <float data="80.0" id="fPropHead" />
+      <string data="PG_MP005_COLLECTORWAGONCAMP01" id="sPropModel" />
+      <string data="AZ_Traveling_Saleslady" id="sPropAmbientZone" />
+      <UNK_D1ABFED3>
+        <vector data="[1385.911, 1309.343, 163.926]" id="vPlayerPos1" />
+        <float data="175.9775" id="fPlayerHead1" />
+        <vector data="[1382.082, 1308.258, 164.22]" id="vPlayerPos2" />
+        <float data="179.4593" id="fPlayerHead2" />
+        <vector data="[1378.348, 1311.822, 164.467]" id="vPlayerPos3" />
+        <float data="126.4461" id="fPlayerHead3" />
+        <vector data="[1387.591, 1306.722, 163.781]" id="vHorsePos1" />
+        <float data="93.6375" id="fHorseHead1" />
+        <vector data="[1380.328, 1303.013, 164.201]" id="vHorsePos2" />
+        <float data="272.8639&gt;&gt;" id="fHorseHead2" />
+        <vector data="[1374.246, 1308.317, 164.659]" id="vHorsePos3" />
+        <float data="236.4502" id="fHorseHead3" />
+      </UNK_D1ABFED3>
+    </shopitems>
+    <shopitems id="SHOP_SCM_TRAVELLING_SALESMAN">
+      <vector data="[1570.19, -1707.22, 54.0]" id="vPos" />
+      <float data="160" id="fHeading" />
+      <string data="WORLD_HUMAN_SMOKE_NAZAR" id="sHash" />
+      <string data="CS_MP_TRAVELLINGSALESWOMAN" id="sModel" />
+      <vector data="[1572.61, -1706.2, 53.99]" id="vPropPos" />
+      <float data="70.0" id="fPropHead" />
+      <string data="PG_MP005_COLLECTORWAGONCAMP01" id="sPropModel" />
+      <string data="AZ_Traveling_Saleslady" id="sPropAmbientZone" />
+      <UNK_D1ABFED3>
+        <vector data="[1570.889, -1723.694, 54.0248]" id="vPlayerPos1" />
+        <float data="171.5144" id="fPlayerHead1" />
+        <vector data="[1566.028, -1718.559, 54.0711]" id="vPlayerPos2" />
+        <float data="145.7381" id="fPlayerHead2" />
+        <vector data="[1560.809, -1716.676, 54.0921]" id="vPlayerPos3" />
+        <float data="151.5882" id="fPlayerHead3" />
+        <vector data="[1570.241, -1728.874, 53.61]" id="vHorsePos1" />
+        <float data="140.4974" id="fHorseHead1" />
+        <vector data="[1562.078, -1727.38, 53.3489]" id="vHorsePos2" />
+        <float data="212.776" id="fHorseHead2" />
+        <vector data="[1551.756, -1724.972, 53.655]" id="vHorsePos3" />
+        <float data="85.2746" id="fHorseHead3" />
+      </UNK_D1ABFED3>
+    </shopitems>
+    <shopitems id="SHOP_BLU_TRAVELLING_SALESMAN">
+      <vector data="[2526.56, -154.62, 44.36]" id="vPos" />
+      <float data="160.0" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_READING" id="sHash" />
+      <string data="CS_MP_TRAVELLINGSALESWOMAN" id="sModel" />
+      <vector data="[2522.99, -152.63, 44.03]" id="vPropPos" />
+      <float data="70.0" id="fPropHead" />
+      <string data="PG_MP005_COLLECTORWAGONCAMP01" id="sPropModel" />
+      <string data="AZ_Traveling_Saleslady" id="sPropAmbientZone" />
+      <UNK_D1ABFED3>
+        <vector data="[2525.268, -163.654, 43.846]" id="vPlayerPos1" />
+        <float data="197.7816" id="fPlayerHead1" />
+        <vector data="[2521.98, -164.262, 43.763]" id="vPlayerPos2" />
+        <float data="183.9644" id="fPlayerHead2" />
+        <vector data="[2518.428, -163.273, 43.62]" id="vPlayerPos3" />
+        <float data="151.5334" id="fPlayerHead3" />
+        <vector data="[2527.575, -165.944, 43.806]" id="vHorsePos1" />
+        <float data="71.44" id="fHorseHead1" />
+        <vector data="[2521.671, -169.622, 43.852]" id="vHorsePos2" />
+        <float data="250.3345" id="fHorseHead2" />
+        <vector data="[2515.042, -167.952, 43.521]" id="vHorsePos3" />
+        <float data="276.8935" id="fHorseHead3" />
+      </UNK_D1ABFED3>
+    </shopitems>
+    <shopitems id="SHOP_DER_TRAVELLING_SALESMAN">
+      <vector data="[-119.0, 1469.76, 111.18]" id="vPos" />
+      <float data="40.0" id="fHeading" />
+      <string data="WORLD_HUMAN_DANCING" id="sHash" />
+      <string data="CS_MP_TRAVELLINGSALESWOMAN" id="sModel" />
+      <vector data="[-116.219, 1470.254, 111.197]" id="vPropPos" />
+      <float data="0.0" id="fPropHead" />
+      <string data="PG_MP005_COLLECTORWAGONCAMP01" id="sPropModel" />
+      <string data="AZ_Traveling_Saleslady" id="sPropAmbientZone" />
+      <UNK_D1ABFED3>
+        <vector data="[-136.9328, 1473.907, 111.9145]" id="vPlayerPos1" />
+        <float data="70.8912" id="fPlayerHead1" />
+        <vector data="[-131.116, 1476.044, 111.7192]" id="vPlayerPos2" />
+        <float data="59.411" id="fPlayerHead2" />
+        <vector data="[-130.8848, 1482.427, 112.1176]" id="vPlayerPos3" />
+        <float data="70.9029" id="fPlayerHead3" />
+        <vector data="[-142.6417, 1477.345, 112.7138]" id="vHorsePos1" />
+        <float data="55.4919" id="fHorseHead1" />
+        <vector data="[-139.4234, 1479.925, 112.6446]" id="vHorsePos2" />
+        <float data="104.4548" id="fHorseHead2" />
+        <vector data="[-140.6788, 1484.75, 113.1973]" id="vHorsePos3" />
+        <float data="8.6423" id="fHorseHead3" />
+      </UNK_D1ABFED3>
+    </shopitems>
+    <shopitems id="SHOP_BBR_TRAVELLING_SALESMAN">
+      <vector data="[2765.23, 1749.37, 148.6]" id="vPos" />
+      <float data="0.0" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_READING" id="sHash" />
+      <string data="CS_MP_TRAVELLINGSALESWOMAN" id="sModel" />
+      <vector data="[2763.909, 1745.511, 148.22]" id="vPropPos" />
+      <float data="170.0" id="fPropHead" />
+      <string data="PG_MP005_COLLECTORWAGONCAMP01" id="sPropModel" />
+      <string data="AZ_Traveling_Saleslady" id="sPropAmbientZone" />
+      <UNK_D1ABFED3>
+        <vector data="[2773.721, 1754.114, 148.049]" id="vPlayerPos1" />
+        <float data="293.1492" id="fPlayerHead1" />
+        <vector data="[2776.858, 1749.302, 147.696]" id="vPlayerPos2" />
+        <float data="272.5519" id="fPlayerHead2" />
+        <vector data="[2776.191, 1742.54, 147.616]" id="vPlayerPos3" />
+        <float data="250.3819" id="fPlayerHead3" />
+        <vector data="[2776.195, 1755.878, 148.02]" id="vHorsePos1" />
+        <float data="177.9685" id="fHorseHead1" />
+        <vector data="[2782.241, 1750.625, 147.79]" id="vHorsePos2" />
+        <float data="3.0266" id="fHorseHead2" />
+        <vector data="[2780.729, 1741.432, 147.586]" id="vHorsePos3" />
+        <float data="177.9996" id="fHorseHead3" />
+      </UNK_D1ABFED3>
+    </shopitems>
+    <shopitems id="SHOP_SDN_TRAPPER">
+      <vector data="[2829.474, -1223.242, 46.6557]" id="vPos" />
+      <float data="181.9778" id="fHeading" />
+      <string data="WORLD_CAMP_DUTCH_SMOKE_CIGAR_GUS" id="sHash" />
+      <string data="CS_MP_GUS_MACMILLAN" id="sModel" />
+      <string data="META_OUTFIT_WORKING" id="sOutfit" />
+    </shopitems>
+    <shopitems id="SHOP_BGV_TRAPPER_1">
+      <vector data="[-2840.46, 137.04, 184.28]" id="vPos" />
+      <float data="355.3002" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_CLEAN_RIFLE_GUS" id="sHash" />
+      <string data="CS_MP_GUS_MACMILLAN" id="sModel" />
+      <vector data="[-2840.46, 137.08, 183.86]" id="vPropPos" />
+      <float data="170.0" id="fPropHead" />
+      <string data="p_chairrustic05x" id="sPropModel" />
+      <string data="META_OUTFIT_WORKING" id="sOutfit" />
+    </shopitems>
+    <shopitems id="SHOP_BGV_TRAPPER_2">
+      <vector data="[-1007.35, -544.42, 98.7]" id="vPos" />
+      <float data="271.8647" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_SHARPEN_KNIFE_GUS" id="sHash" />
+      <string data="CS_MP_GUS_MACMILLAN" id="sModel" />
+      <vector data="[-1007.5, -544.46, 98.2]" id="vPropPos" />
+      <float data="110.0" id="fPropHead" />
+      <string data="p_chairrustic04x" id="sPropModel" />
+      <string data="META_OUTFIT_WORKING" id="sOutfit" />
+    </shopitems>
+    <shopitems id="SHOP_ROA_TRAPPER">
+      <vector data="[2074.658, 1004.108, 111.7034]" id="vPos" />
+      <float data="262.3543" id="fHeading" />
+      <string data="PROP_HUMAN_SOAK_SKINS_GUS" id="sHash" />
+      <string data="CS_MP_GUS_MACMILLAN" id="sModel" />
+      <vector data="[2075.35, 1003.99, 111.69]" id="vPropPos" />
+      <float data="0.0" id="fPropHead" />
+      <string data="p_barrelladle1x_hobo" id="sPropModel" />
+      <string data="META_OUTFIT_WORKING" id="sOutfit" />
+    </shopitems>
+    <shopitems id="SHOP_TAL_TRAPPER">
+      <vector data="[-2255.184, -1911.091, 116.4466]" id="vPos" />
+      <float data="169.7974" id="fHeading" />
+      <string data="PROP_HUMAN_SOAK_SKINS_GUS" id="sHash" />
+      <string data="CS_MP_GUS_MACMILLAN" id="sModel" />
+      <vector data="[-2255.35, -1911.83, 116.32]" id="vPropPos" />
+      <float data="0.0" id="fPropHead" />
+      <string data="p_barrelladle1x_hobo" id="sPropModel" />
+      <string data="META_OUTFIT_WORKING" id="sOutfit" />
+    </shopitems>
+    <shopitems id="SHOP_CHO_TRAPPER">
+      <vector data="[-4728.45, -2940.5, -19.63]" id="vPos" />
+      <float data="178.74" id="fHeading" />
+      <string data="PROP_HUMAN_SEAT_CHAIR_CLEAN_RIFLE_GUS" id="sHash" />
+      <string data="CS_MP_GUS_MACMILLAN" id="sModel" />
+      <string data="META_OUTFIT_WORKING" id="sOutfit" />
+    </shopitems>
+    <shopitems id="SHOP_HEN_HARRIET">
+      <vector data="[-2185.63, -2132.347, 74.0567]" id="vPos" />
+      <float data="40.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SMOKE_NAZAR" id="sHash" />
+      <vector data="[-2182.08, -2134.76, 72.82]" id="vPropPos" />
+      <float data="220.0" id="fPropHead" />
+      <string data="pg_mp007_naturalist_camp01x" id="sPropModel" />
+    </shopitems>
+    <shopitems id="SHOP_BGV_HARRIET">
+      <vector data="[-1574.344, 485.7104, 114.879]" id="vPos" />
+      <float data="180.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SMOKE_NAZAR" id="sHash" />
+      <vector data="[-1575.49, 489.934, 113.707]" id="vPropPos" />
+      <float data="0.0" id="fPropHead" />
+      <string data="pg_mp007_naturalist_camp01x" id="sPropModel" />
+      <string data="mp007_naturalist_camp01x" id="sPropVegIPL" />
+    </shopitems>
+    <shopitems id="SHOP_BAY_HARRIET">
+      <vector data="[1966.679, -527.5971, 41.941]" id="vPos" />
+      <float data="270.0" id="fHeading" />
+      <string data="WORLD_HUMAN_SMOKE_NAZAR" id="sHash" />
+      <vector data="[1963.127, -528.779, 40.712]" id="vPropPos" />
+      <float data="90.0" id="fPropHead" />
+      <string data="pg_mp007_naturalist_camp01x" id="sPropModel" />
+    </shopitems>
+  </UNK_82257DBB>
+</root>

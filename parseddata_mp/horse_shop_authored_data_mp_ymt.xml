@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_1AF9B630 id="ST_HORSE_SHOP">
+    <region id="REGION_HRT_VALENTINE">
+      <volume id="volShop" name="Valentine - m_volHorseShop" position="[-369.4457, 786.6935, 115.9904]" rotation="[0.0, 0.0, 49.92305]" scale="[53.2038, 44.64085, 10.33971]" />
+      <volume id="volPrompt" name="Valentine - m_volHorseShopPrompt" position="[-273.9764, 689.3572, 114.3808]" rotation="[0.0, 0.0, 49.92316]" scale="[31.46096, 13.5, 4.202538]" />
+      <volume id="volOfflimits" name="Valentine - m_volHorseShopOfflimits" position="[-273.9764, 689.3572, 114.3808]" rotation="[0.0, 0.0, 49.92316]" scale="[33.46096, 15.5, 4.202538]" />
+      <vector data="[-369.8832, 787.0, 116.1954]" id="horsePos" />
+      <float data="270.0" id="horseHeading" />
+      <vector data="[2.225, 3.73, 1.0]" id="diagonalCollisionBox" />
+      <vector data="[1.9684, 2.938, 1.6]" id="activeHorseCamOffset" />
+      <vector data="[-365.5, 790.86, 116.17]" id="shopkeeperPos" />
+      <float data="140" id="shopkeeperHeading" />
+      <vector data="[-361.9, 784.5, 120.5]" id="coachCamPos" />
+      <vector data="[-28.2913, 0.0, 81.646]" id="coachCamRot" />
+      <float data="57.0" id="coachCamFOV" />
+      <int data="1" id="numExitLocations" />
+      <vector data="[-361.8995, 787.5135, 116.1981]" id="exitDoorPos0" />
+      <float data="270" id="exitHeading0" />
+      <int data="4" id="numPens" />
+      <vector data="[-263.7824, 693.7316, 113.35]" id="penPos0" />
+      <vector data="[-261.8018, 696.0538, 113.35]" id="penPos1" />
+      <vector data="[-269.6759, 702.5242, 113.5]" id="penPos2" />
+      <vector data="[-271.2711, 699.8901, 113.5]" id="penPos3" />
+      <float data="50" id="penHeading0" />
+      <float data="50" id="penHeading1" />
+      <float data="230" id="penHeading2" />
+      <float data="230" id="penHeading3" />
+      <vector data="[-265.5913, 695.1785, 113.3]" id="penContext0" />
+      <vector data="[-263.6812, 697.4234, 113.3]" id="penContext1" />
+      <vector data="[-267.4623, 700.7797, 113.4]" id="penContext2" />
+      <vector data="[-269.7974, 698.5801, 113.4]" id="penContext3" />
+      <vector data="[-365.237, 788.206, 116.518]" id="shopKeeperCamPos" />
+      <vector data="[-2.634, 0.0, 22.994]" id="shopKeeperCamRot" />
+      <float data="37.8" id="shopKeeperCamFOV" />
+      <float data="7.174" id="shopKeeperCamFNum" />
+      <float data="37.8" id="shopKeeperCamFocalLength" />
+      <float data="2.44" id="shopKeeperCamFocusDistance" />
+      <vector data="[-369.1126, 781.4221, 116.5]" id="shopPenPos" />
+      <float data="0.0" id="shopPenHeading" />
+      <float data="42.0" id="shopPenCamFOV" />
+      <vector data="[-0.2931, 3.5142, 0.5]" id="shopPenCamOffsets" />
+      <vector data="[-362.8567, 798.3038, 115.7576]" id="playerBackupSpawnPos" />
+    </region>
+    <region id="REGION_BAY_SAINT_DENIS">
+      <volume id="volShop" name="St. Denis - m_volHorseShop" position="[2503.543, -1449.654, 48.41523]" rotation="[0.0, 0.0, 0.0]" scale="[27.47042, 48.38275, 6.829615]" />
+      <volume id="volPrompt" name="St. Denis - m_volHorseShopPrompt" position="[2508.275, -1449.654, 48.41523]" rotation="[0.0, 0.0, 0.0]" scale="[17.55273, 28.94081, 6.593266]" />
+      <volume id="volOfflimits" name="St. Denis - m_volHorseShopOfflimits" position="[2508.275, -1449.654, 48.41523]" rotation="[0.0, 0.0, 0.0]" scale="[19.55273, 30.94081, 6.593266]" />
+      <vector data="[2503.259, -1441.508, 45.31266]" id="horsePos" />
+      <float data="180.0" id="horseHeading" />
+      <vector data="[2.42, 3.73, 1.0]" id="diagonalCollisionBox" />
+      <vector data="[1.9684, 2.938, 1.6]" id="activeHorseCamOffset" />
+      <vector data="[2505.81, -1445.37, 46.26]" id="shopkeeperPos" />
+      <float data="90" id="shopkeeperHeading" />
+      <vector data="[2505.0, -1450.1, 49.1]" id="coachCamPos" />
+      <vector data="[-21.9734, 0.0, 28.0453]" id="coachCamRot" />
+      <float data="57.0" id="coachCamFOV" />
+      <int data="3" id="numExitLocations" />
+      <vector data="[2502.3, -1435.3, 46.2846]" id="exitDoorPos0" />
+      <float data="0" id="exitHeading0" />
+      <vector data="[2502.3, -1465.0, 46.2846]" id="exitDoorPos1" />
+      <float data="180" id="exitHeading1" />
+      <vector data="[2499.7, -1450.1, 46.2846]" id="exitDoorPos2" />
+      <float data="90" id="exitHeading2" />
+      <vector data="[2503.724, -1447.229, 46.626]" id="shopKeeperCamPos" />
+      <vector data="[-4.42, 0.0, -32.81]" id="shopKeeperCamRot" />
+      <float data="37.8" id="shopKeeperCamFOV" />
+      <float data="7.3" id="shopKeeperCamFNum" />
+      <float data="35.184" id="shopKeeperCamFocalLength" />
+      <float data="2.54" id="shopKeeperCamFocusDistance" />
+      <vector data="[2508.947, -1447.4, 46.45]" id="shopPenPos" />
+      <float data="90.0" id="shopPenHeading" />
+      <float data="42.0" id="shopPenCamFOV" />
+      <vector data="[-0.5585, 4.3772, 0.7486]" id="shopPenCamOffsets" />
+      <vector data="[2499.441, -1433.011, 45.28401]" id="playerBackupSpawnPos" />
+    </region>
+    <region id="REGION_GRT_BLACKWATER">
+      <volume id="volShop" name="Blackwater - m_volHorseShop" position="[-868.3356, -1361.725, 44.75311]" rotation="[0.0, 0.0, 0.0]" scale="[35.36713, 21.8712, 5.420662]" />
+      <volume id="volPrompt" name="Blackwater - m_volHorseShopPrompt" position="[-868.3356, -1366.207, 44.75311]" rotation="[0.0, 0.0, 0.0]" scale="[23.77083, 12.62259, 4.473029]" />
+      <volume id="volOfflimits" name="Blackwater - m_volHorseShopOfflimits" position="[-868.3356, -1366.207, 44.75311]" rotation="[0.0, 0.0, 0.0]" scale="[25.77083, 14.62259, 4.473029]" />
+      <vector data="[-863.438, -1366.244, 43.8052]" id="horsePos" />
+      <float data="90.0" id="horseHeading" />
+      <vector data="[2.2, 3.73, 1.0]" id="diagonalCollisionBox" />
+      <vector data="[1.9684, 2.938, 1.6]" id="activeHorseCamOffset" />
+      <vector data="[-871.22, -1369.54, 43.53]" id="shopkeeperPos" />
+      <float data="75" id="shopkeeperHeading" />
+      <vector data="[-864.8, -1362.4, 45.5]" id="coachCamPos" />
+      <vector data="[-18.3, 0.0, -142.9]" id="coachCamRot" />
+      <float data="57.0" id="coachCamFOV" />
+      <int data="2" id="numExitLocations" />
+      <vector data="[-873.8, -1360.0, 43.7012]" id="exitDoorPos0" />
+      <float data="0" id="exitHeading0" />
+      <vector data="[-856.4, -1366.3, 43.7015]" id="exitDoorPos1" />
+      <float data="270" id="exitHeading1" />
+      <vector data="[-872.615, -1367.235, 43.886]" id="shopKeeperCamPos" />
+      <vector data="[-1.475, 0.0, -149.533]" id="shopKeeperCamRot" />
+      <float data="37.8" id="shopKeeperCamFOV" />
+      <float data="5.997" id="shopKeeperCamFNum" />
+      <float data="37.236" id="shopKeeperCamFocalLength" />
+      <float data="2.42" id="shopKeeperCamFocusDistance" />
+      <vector data="[-861.0, -1371.221, 44.05]" id="shopPenPos" />
+      <float data="0.0" id="shopPenHeading" />
+      <float data="43.0" id="shopPenCamFOV" />
+      <vector data="[-0.4, 4.0, 0.1]" id="shopPenCamOffsets" />
+      <vector data="[-867.9723, -1356.029, 42.53014]" id="playerBackupSpawnPos" />
+    </region>
+    <region id="REGION_BGV_STRAWBERRY">
+      <volume id="volShop" name="Strawberry - m_volHorseShop" position="[-1819.88, -561.8194, 157.2323]" rotation="[0.0, 0.0, 74.99999]" scale="[6.328568, 11.11597, 3.806699]" />
+      <volume id="volPrompt" name="Strawberry - m_volHorseShopPrompt" position="[-1819.88, -561.8194, 157.2323]" rotation="[0.0, 0.0, 74.99999]" scale="[6.328568, 11.11597, 3.806699]" />
+      <volume id="volOfflimits" name="Strawberry - m_volHorseShopOfflimits" position="[-1819.88, -561.8194, 157.2323]" rotation="[0.0, 0.0, 74.99999]" scale="[6.328568, 11.11597, 3.806699]" />
+      <vector data="[-1820.757, -561.5499, 156.059]" id="horsePos" />
+      <float data="255.5" id="horseHeading" />
+      <vector data="[2.435, 3.73, 1.0]" id="diagonalCollisionBox" />
+      <vector data="[1.9684, 2.938, 1.6]" id="activeHorseCamOffset" />
+      <vector data="[-1824.627, -559.243, 156.0636]" id="shopkeeperPos" />
+      <float data="180" id="shopkeeperHeading" />
+      <vector data="[-1817.0, -565.5, 158.8]" id="coachCamPos" />
+      <vector data="[-25.611, 0.0, 48.3256]" id="coachCamRot" />
+      <float data="50.0" id="coachCamFOV" />
+      <int data="1" id="numExitLocations" />
+      <vector data="[-1814.302, -563.3636, 156.0649]" id="exitDoorPos0" />
+      <float data="0.0" id="exitHeading0" />
+      <vector data="[-1823.274, -561.634, 156.334]" id="shopKeeperCamPos" />
+      <vector data="[-0.065, 0.0, 45.16]" id="shopKeeperCamRot" />
+      <float data="37.8" id="shopKeeperCamFOV" />
+      <float data="8.56" id="shopKeeperCamFNum" />
+      <float data="37.8" id="shopKeeperCamFocalLength" />
+      <float data="2.66" id="shopKeeperCamFocusDistance" />
+      <vector data="[-1820.197, -555.8152, 156.6]" id="shopPenPos" />
+      <float data="167.0" id="shopPenHeading" />
+      <float data="42.0" id="shopPenCamFOV" />
+      <vector data="[-0.8, 3.563, 0.5]" id="shopPenCamOffsets" />
+      <vector data="[-1815.128, -573.3941, 155.0084]" id="playerBackupSpawnPos" />
+    </region>
+    <region id="REGION_SCM_HORSE_SHOP">
+      <volume id="volShop" name="SCM - m_volHorseShop" position="[1209.053, -193.1814, 101.9785]" rotation="[0.0, 0.0, 19.83985]" scale="[6.216366, 11.62523, 2.888809]" />
+      <volume id="volPrompt" name="SCM - m_volHorseShopPrompt" position="[1209.053, -193.1814, 101.9785]" rotation="[0.0, 0.0, 19.83985]" scale="[6.216366, 11.62523, 2.888809]" />
+      <vector data="[1210.091, -194.7009, 101.4569]" id="horsePos" />
+      <float data="17.0" id="horseHeading" />
+      <vector data="[2.495, 3.73, 1.0]" id="diagonalCollisionBox" />
+      <vector data="[1.9684, 2.938, 1.6]" id="activeHorseCamOffset" />
+      <vector data="[1206.98, -192.35, 101.39]" id="shopkeeperPos" />
+      <float data="0.0" id="shopkeeperHeading" />
+      <vector data="[1210.2, -186.6, 104.4]" id="coachCamPos" />
+      <vector data="[-21.9634, 0.0, 173.7614]" id="coachCamRot" />
+      <float data="50.0" id="coachCamFOV" />
+      <int data="1" id="numExitLocations" />
+      <vector data="[1207.55, -186.9647, 100.3771]" id="exitDoorPos0" />
+      <float data="20.0" id="exitHeading0" />
+      <vector data="[1209.077, -190.606, 101.733]" id="shopKeeperCamPos" />
+      <vector data="[-3.554, 0.0, 128.351]" id="shopKeeperCamRot" />
+      <float data="37.8" id="shopKeeperCamFOV" />
+      <float data="9.614" id="shopKeeperCamFNum" />
+      <float data="37.8" id="shopKeeperCamFocalLength" />
+      <float data="2.78" id="shopKeeperCamFocusDistance" />
+      <vector data="[1204.596, -196.1067, 102.0]" id="shopPenPos" />
+      <float data="290.0" id="shopPenHeading" />
+      <float data="42.0" id="shopPenCamFOV" />
+      <vector data="[-0.8, 3.663, 0.0]" id="shopPenCamOffsets" />
+      <vector data="[1215.781, -183.2493, 100.3488]" id="playerBackupSpawnPos" />
+    </region>
+    <region id="REGION_GAP_TUMBLEWEED">
+      <volume id="volShop" name="Tumbleweed - m_volHorseShop" position="[-5520.701, -3044.427, -1.40419]" rotation="[0.0, 0.0, 0.0]" scale="[12.45713, 12.72223, 4.472662]" />
+      <volume id="volPrompt" name="Tumbleweed - m_volHorseShopPrompt" position="[-5520.701, -3044.427, -1.40419]" rotation="[0.0, 0.0, 0.0]" scale="[12.45713, 12.72223, 4.472662]" />
+      <vector data="[-5521.924, -3044.513, -3.29078]" id="horsePos" />
+      <float data="270.0" id="horseHeading" />
+      <vector data="[2.99, 3.73, 1.0]" id="diagonalCollisionBox" />
+      <vector data="[1.9684, 2.938, 1.6]" id="activeHorseCamOffset" />
+      <vector data="[-5515.73, -3042.0, -2.39]" id="shopkeeperPos" />
+      <float data="140" id="shopkeeperHeading" />
+      <vector data="[-5513.3, -3047.7, 2.6]" id="coachCamPos" />
+      <vector data="[-31.4608, 0.0, 76.7214]" id="coachCamRot" />
+      <float data="50.0" id="coachCamFOV" />
+      <int data="1" id="numExitLocations" />
+      <vector data="[-5511.014, -3044.257, -3.38814]" id="exitDoorPos0" />
+      <float data="270" id="exitHeading0" />
+      <vector data="[-5515.389, -3044.722, -1.98]" id="shopKeeperCamPos" />
+      <vector data="[-4.022, 0.0, 25.062]" id="shopKeeperCamRot" />
+      <float data="37.8" id="shopKeeperCamFOV" />
+      <float data="23.239" id="shopKeeperCamFNum" />
+      <float data="37.8" id="shopKeeperCamFocalLength" />
+      <float data="2.5" id="shopKeeperCamFocusDistance" />
+      <vector data="[-5519.228, -3050.51, -2.1]" id="shopPenPos" />
+      <float data="0.0" id="shopPenHeading" />
+      <float data="42.0" id="shopPenCamFOV" />
+      <vector data="[-0.8, 4.00949, 0.50593]" id="shopPenCamOffsets" />
+      <vector data="[-5510.429, -3035.986, -3.52945]" id="playerBackupSpawnPos" />
+    </region>
+    <region id="REGION_ROA_VANHORNPOST">
+      <volume id="volShop" name="Strawberry - m_volHorseShop" position="[-1819.88, -561.8194, 157.2323]" rotation="[0.0, 0.0, 74.99999]" scale="[6.328568, 11.11597, 3.806699]" />
+      <volume id="volPrompt" name="Strawberry - m_volHorseShopPrompt" position="[-1819.88, -561.8194, 157.2323]" rotation="[0.0, 0.0, 74.99999]" scale="[6.328568, 11.11597, 3.806699]" />
+      <volume id="volOfflimits" name="Strawberry - m_volHorseShopOfflimits" position="[-1819.88, -561.8194, 157.2323]" rotation="[0.0, 0.0, 74.99999]" scale="[6.328568, 11.11597, 3.806699]" />
+      <vector data="[2969.81, 796.8518, 50.40256]" id="horsePos" />
+      <float data="90.0" id="horseHeading" />
+      <vector data="[2.645, 3.73, 1.0]" id="diagonalCollisionBox" />
+      <vector data="[1.9684, 2.938, 1.6]" id="activeHorseCamOffset" />
+      <vector data="[2968.368, 793.5932, 51.4027]" id="shopkeeperPos" />
+      <float data="90.0" id="shopkeeperHeading" />
+      <vector data="[2960.3, 801.5, 55.1]" id="coachCamPos" />
+      <vector data="[-20.6419, 0.0, -125.1963]" id="coachCamRot" />
+      <float data="50.0" id="coachCamFOV" />
+      <int data="1" id="numExitLocations" />
+      <vector data="[2959.735, 795.9651, 50.45257]" id="exitDoorPos0" />
+      <float data="90.0" id="exitHeading0" />
+      <vector data="[2966.37, 795.224, 51.928]" id="shopKeeperCamPos" />
+      <vector data="[-5.585, 0.0, -130.838]" id="shopKeeperCamRot" />
+      <float data="37.8" id="shopKeeperCamFOV" />
+      <float data="11.08" id="shopKeeperCamFNum" />
+      <float data="39.744" id="shopKeeperCamFocalLength" />
+      <float data="2.3" id="shopKeeperCamFocusDistance" />
+      <vector data="[2972.768, 791.6138, 51.5]" id="shopPenPos" />
+      <float data="0.0" id="shopPenHeading" />
+      <float data="42.0" id="shopPenCamFOV" />
+      <vector data="[-1.0, 4.1, 1.0]" id="shopPenCamOffsets" />
+      <vector data="[2958.344, 786.7661, 50.39946]" id="playerBackupSpawnPos" />
+    </region>
+  </UNK_1AF9B630>
+</root>

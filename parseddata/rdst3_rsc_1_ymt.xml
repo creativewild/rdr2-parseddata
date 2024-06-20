@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_55DB8A90>
+    <versions>
+      <version id="1.03" />
+    </versions>
+    <zones>
+      <zone UNK_71E6DE57="1" UNK_14427759="false" UNK_E73C69B1="0.0" UNK_D9D1CEDC="0.0" UNK_EFA67A81="0.0" UNK_88ACFA4E="6.5" UNK_D1CC2184="7.5" height="2.0" UNK_97B41572="0" index="0" UNK_C6CB964C="false" UNK_7B5351BD="DST3AUD" UNK_B4A9F4D4="DST3RSC1LI" UNK_9EA26942="3.2" UNK_70498C91="0.0" x1="1399.271" x2="3.25" UNK_43F130B3="1399.271" UNK_7F247680="0.0" UNK_6DE3D3FF="80.0" UNK_8281CFBE="0.0" UNK_A0DF3421="71.0739" UNK_6B79C957="165.0" UNK_3D66C993="71.074" />
+      <zone UNK_71E6DE57="1" UNK_14427759="false" UNK_E73C69B1="0.0" UNK_D9D1CEDC="0.0" UNK_EFA67A81="0.0" UNK_88ACFA4E="10.0" UNK_D1CC2184="13.0" height="2.0" UNK_97B41572="0" index="1" UNK_C6CB964C="false" UNK_7B5351BD="DST3AUD" UNK_B4A9F4D4="DST3RSC1LI" UNK_9EA26942="7.0" UNK_70498C91="0.0" x1="1402.565" x2="8.0" UNK_43F130B3="1401.165" UNK_7F247680="0.0" UNK_6DE3D3FF="0.0" UNK_8281CFBE="0.0" UNK_A0DF3421="70.0" UNK_6B79C957="0.0" UNK_3D66C993="70.2" />
+      <zone UNK_71E6DE57="1" UNK_14427759="false" UNK_E73C69B1="0.0" UNK_D9D1CEDC="0.0" UNK_EFA67A81="0.0" UNK_88ACFA4E="10.0" UNK_D1CC2184="13.0" height="2.0" UNK_97B41572="0" index="2" UNK_C6CB964C="false" UNK_7B5351BD="DST3AUD" UNK_B4A9F4D4="DST3RSC1LI" UNK_9EA26942="7.0" UNK_70498C91="0.0" x1="1402.565" x2="8.0" UNK_43F130B3="1401.165" UNK_7F247680="0.0" UNK_6DE3D3FF="0.0" UNK_8281CFBE="0.0" UNK_A0DF3421="70.0" UNK_6B79C957="0.0" UNK_3D66C993="70.2" />
+      <zone UNK_71E6DE57="1" UNK_14427759="false" UNK_E73C69B1="0.0" UNK_D9D1CEDC="0.0" UNK_EFA67A81="0.0" UNK_88ACFA4E="6.0" UNK_D1CC2184="7.0" height="3.0" UNK_97B41572="0" index="3" UNK_C6CB964C="false" UNK_7B5351BD="" UNK_B4A9F4D4="" UNK_9EA26942="0.0" UNK_70498C91="0.0" x1="1402.565" x2="0.0" UNK_43F130B3="0.0" UNK_7F247680="0.0" UNK_6DE3D3FF="0.0" UNK_8281CFBE="0.0" UNK_A0DF3421="69.0" UNK_6B79C957="180.0" UNK_3D66C993="0.0" />
+    </zones>
+    <scenes>
+      <scene UNK_C45F9BF2="0" scenename="script@rcm@DST3@LEADIN@RSC_1@base" UNK_5EA95DD1="false" />
+      <scene UNK_C45F9BF2="1" scenename="script@rcm@DST3@LEADIN@RSC_1@leadin_front" UNK_5EA95DD1="false" />
+      <scene UNK_C45F9BF2="2" scenename="script@rcm@DST3@LEADIN@RSC_1@leadin_left" UNK_5EA95DD1="false" />
+      <scene UNK_C45F9BF2="3" scenename="script@rcm@DST3@LEADIN@RSC_1@leadin_left_player" UNK_5EA95DD1="true" />
+      <scene UNK_C45F9BF2="4" scenename="script@rcm@DST3@LEADIN@RSC_1@leadin_wide_player" UNK_5EA95DD1="true" />
+      <scene UNK_C45F9BF2="5" scenename="script@rcm@DST3@LEADIN@RSC_1@leadin_wide" UNK_5EA95DD1="false" />
+    </scenes>
+    <entities>
+      <entity UNK_766694D3="0.0" UNK_C43F6820="false" UNK_FFF87C90="1" index="0" model="1939579094" UNK_3809BF34="KIERAN" weapon="0" />
+      <entity UNK_766694D3="0.0" UNK_C43F6820="false" UNK_FFF87C90="0" index="1" model="225514697" UNK_3809BF34="ARTHUR" weapon="0" />
+    </entities>
+    <cutscenes>
+      <cutscene cutname="rdst3_rsc_1" UNK_CA4B747="2" UNK_5EE4F054="0" UNK_D9832406="0" UNK_D59EFBF2="false" />
+    </cutscenes>
+    <behaviours>
+      <behaviour animscene="0" UNK_E336E40F="0" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="0" UNK_DC71B730="false" UNK_77360A2F="0" loop="true" master="false" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="13" when="1" who="0" zone="10" />
+      <behaviour animscene="0" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="1" UNK_DC71B730="false" UNK_77360A2F="0" loop="false" master="false" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="7" when="2" who="0" zone="0" />
+      <behaviour animscene="1" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="2" UNK_DC71B730="false" UNK_77360A2F="0" loop="false" master="true" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="13" when="3" who="0" zone="0" />
+      <behaviour animscene="0" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="3" UNK_DC71B730="false" UNK_77360A2F="0" loop="false" master="false" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="7" when="2" who="0" zone="1" />
+      <behaviour animscene="2" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="4" UNK_DC71B730="true" UNK_77360A2F="0" loop="false" master="true" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="13" when="3" who="0" zone="1" />
+      <behaviour animscene="3" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="5" UNK_DC71B730="false" UNK_77360A2F="0" loop="false" master="false" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="13" when="3" who="0" zone="1" />
+      <behaviour animscene="0" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="6" UNK_DC71B730="false" UNK_77360A2F="0" loop="false" master="false" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="6" when="2" who="0" zone="1" />
+      <behaviour animscene="0" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="7" UNK_DC71B730="false" UNK_77360A2F="0" loop="false" master="false" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="7" when="2" who="0" zone="2" />
+      <behaviour animscene="5" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="8" UNK_DC71B730="true" UNK_77360A2F="0" loop="false" master="true" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="13" when="3" who="0" zone="2" />
+      <behaviour animscene="4" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="9" UNK_DC71B730="false" UNK_77360A2F="0" loop="false" master="false" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="13" when="3" who="0" zone="2" />
+      <behaviour animscene="0" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="10" UNK_DC71B730="false" UNK_77360A2F="0" loop="false" master="false" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="6" when="2" who="0" zone="2" />
+      <behaviour animscene="0" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="11" UNK_DC71B730="false" UNK_77360A2F="0" loop="false" master="false" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="6" when="2" who="0" zone="0" />
+      <behaviour animscene="0" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="12" UNK_DC71B730="false" UNK_77360A2F="0" loop="false" master="false" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="12" when="3" who="0" zone="0" />
+      <behaviour animscene="0" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="13" UNK_DC71B730="false" UNK_77360A2F="0" loop="false" master="false" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="12" when="3" who="0" zone="1" />
+      <behaviour animscene="0" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="14" UNK_DC71B730="false" UNK_77360A2F="0" loop="false" master="false" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_80BBBEA4="false" UNK_B276C570="false" what="12" when="3" who="0" zone="2" />
+    </behaviours>
+    <cameras>
+      <camera UNK_645C338C="0.51" UNK_345A3DB9="30.0" UNK_57FC2160="0.4" UNK_77A8AF4D="0.0" UNK_435EB0A="0.5" UNK_8DC60DB4="0.0" UNK_FD4F833D="0" UNK_1B87D130="2000" zone="1" />
+      <camera UNK_645C338C="0.51" UNK_345A3DB9="30.0" UNK_57FC2160="0.4" UNK_77A8AF4D="0.0" UNK_435EB0A="0.5" UNK_8DC60DB4="0.0" UNK_FD4F833D="0" UNK_1B87D130="2000" zone="2" />
+      <camera UNK_645C338C="0.51" UNK_345A3DB9="30.0" UNK_57FC2160="0.4" UNK_77A8AF4D="0.0" UNK_435EB0A="0.5" UNK_8DC60DB4="0.0" UNK_FD4F833D="0" UNK_1B87D130="2000" zone="0" />
+    </cameras>
+  </UNK_55DB8A90>
+</root>

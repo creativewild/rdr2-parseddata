@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <gun_for_hire>
+    <locations>
+      <location UNK_F0B40E4E="[1226.677, -1295.074, 76.9027]" UNK_EEEDA15E="100.0" UNK_59A7782D="20.0" location="GFH_RHODES_TRAIN_STATION">
+        <UNK_F1111DD0>
+          <state position="[1226.677, -1295.074, 76.9027]" type="NEW" />
+          <state position="[1226.677, -1295.074, 76.9027]" type="INTERACTED" />
+        </UNK_F1111DD0>
+        <UNK_357F8007 radius="5.0" />
+        <UNK_D0EC7950 UNK_813B03CC="Rhodes Post Office" UNK_424B5C46="[1223.654, -1288.603, 77.24864]" />
+        <schedule>
+          <UNK_68FAD0F3>
+            <mission UNK_324086E9="INTRO_HIDEOUT" unlock="INTRO_HIDEOUT_RHODES" />
+          </UNK_68FAD0F3>
+          <UNK_68FAD0F3>
+            <mission UNK_324086E9="INTRO_HIDEOUT" unlock="INTRO_HIDEOUT_RHODES" />
+          </UNK_68FAD0F3>
+          <UNK_68FAD0F3>
+            <mission UNK_324086E9="INTRO_HIDEOUT" unlock="INTRO_HIDEOUT_RHODES" />
+          </UNK_68FAD0F3>
+          <UNK_68FAD0F3>
+            <mission UNK_324086E9="INTRO_HIDEOUT" unlock="INTRO_HIDEOUT_RHODES" />
+          </UNK_68FAD0F3>
+        </schedule>
+        <UNK_663F4ABA>
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+        </UNK_663F4ABA>
+        <volumes UNK_E8C41362="DEFAULT">
+          <volume UNK_A0DB690="INNER" UNK_918B3023="RHOPostClerk-Inner">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, -44.137]" position="[1231.003, -1296.035, 78.444]" scale="[22.447, 8.469, 4.966]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="OUTER" UNK_918B3023="RHOPostClerk-Outer">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 45.522]" position="[1230.03, -1294.539, 79.526]" scale="[9.286, 18.474, 4.599]" type="volCylinder" />
+          </volume>
+          <volume UNK_A0DB690="FOCUS" UNK_918B3023="RHOPostClerk-Focus">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, -45.277]" position="[1225.442, -1294.169, 77.649]" scale="[2.511, 2.633, 3.494]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="AVOIDANCE_0" UNK_918B3023="RHOPostClerk-Area-Restrict">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, -45.277]" position="[1228.558, -1296.3, 77.649]" scale="[9.074, 4.735, 3.494]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="NO_SPAWN_0" UNK_918B3023="RHOPostClerk-Spawn-Restrict">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, -45.277]" position="[1228.139, -1297.182, 77.649]" scale="[6.527, 3.86, 3.494]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="DIALOGUE_VOLUME" UNK_918B3023="RHOPostClerk-Dialogue">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 44.546]" position="[1223.053, -1291.421, 76.116]" scale="[3.773, 4.746, 5.246]" type="volBox" />
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 44.546]" position="[1224.972, -1294.185, 76.001]" scale="[2.73, 2.149, 5.535]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="CLIMBING_RESTRICTION_VOLUME_0" UNK_918B3023="RHOTrainClerk-ClimbingRestriction0">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, -44.355]" position="[1226.293, -1298.486, 76.307]" scale="[8.614, 3.325, 6.165]" type="volBox" />
+          </volume>
+        </volumes>
+        <UNK_31870B95>
+          <UNK_6807AA00 position="[1226.677, -1295.074, 76.9027]" radius="13.0" />
+        </UNK_31870B95>
+        <doors>
+          <door UNK_89D99703="door_rho_train_booths">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="true" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_rho_train_back_l">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="true" />
+          </door>
+          <door UNK_89D99703="door_rho_train_front_l">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_rho_train_front_r">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_rho_train_outer_left">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_rho_train_outer_right">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_rho_train_noentry2">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="true" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="true" />
+          </door>
+          <door UNK_89D99703="door_rho_train_noentry1">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="true" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="true" />
+          </door>
+          <door UNK_89D99703="door_rho_train_back_middle_r">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_rho_train_back_middle">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_rho_train_left">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+        </doors>
+        <peds>
+          <ped model="U_M_M_RHDTRAINSTATIONWORKER_01" spawn_heading="25.2667" spawn_position="[1226.677, -1295.074, 76.9027]">
+            <scenario float="1.0" position="[1226.677, -1295.074, 76.9027]" UNK_C6843EBB="REGION_AUTHORED" type="WORLD_HUMAN_SHOPKEEPER" />
+            <flags type="ENTITY">
+              <flag type="GIVER_PRIMARY" />
+            </flags>
+            <dialogue handle="RHO_STATWRK" type="PRIMARY_SPEAKER" />
+          </ped>
+        </peds>
+      </location>
+      <location UNK_F0B40E4E="[-177.4645, 628.2946, 113.0896]" UNK_EEEDA15E="100.0" UNK_59A7782D="20.0" location="GFH_VALENTINE_TRAIN_STATION">
+        <UNK_F1111DD0>
+          <state position="[-177.4645, 628.2946, 113.0896]" type="NEW" />
+          <state position="[-177.4645, 628.2946, 113.0896]" type="INTERACTED" />
+        </UNK_F1111DD0>
+        <UNK_357F8007 radius="5.0" />
+        <UNK_D0EC7950 UNK_813B03CC="Valentine Post Office" UNK_424B5C46="[-178.1275, 632.9683, 116.0668]" />
+        <schedule>
+          <UNK_68FAD0F3>
+            <mission UNK_324086E9="INTRO_HIDEOUT" unlock="INTRO_HIDEOUT_VALENTINE" />
+          </UNK_68FAD0F3>
+          <UNK_68FAD0F3>
+            <mission UNK_324086E9="INTRO_HIDEOUT" unlock="INTRO_HIDEOUT_VALENTINE" />
+          </UNK_68FAD0F3>
+          <UNK_68FAD0F3>
+            <mission UNK_324086E9="INTRO_HIDEOUT" unlock="INTRO_HIDEOUT_VALENTINE" />
+          </UNK_68FAD0F3>
+          <UNK_68FAD0F3>
+            <mission UNK_324086E9="INTRO_HIDEOUT" unlock="INTRO_HIDEOUT_VALENTINE" />
+          </UNK_68FAD0F3>
+        </schedule>
+        <UNK_663F4ABA>
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+        </UNK_663F4ABA>
+        <volumes UNK_E8C41362="DEFAULT">
+          <volume UNK_A0DB690="INNER" UNK_918B3023="VALPostClerk-Inner">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 54.297]" position="[-177.923, 632.455, 113.569]" scale="[22.49, 8.541, 10.0]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="OUTER" UNK_918B3023="VALPostClerk-Outer">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, -32.954]" position="[-178.267, 631.494, 117.294]" scale="[7.924, 15.448, 4.79]" type="volCylinder" />
+          </volume>
+          <volume UNK_A0DB690="FOCUS" UNK_918B3023="VALPostClerk-Focus">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 54.297]" position="[-178.545, 627.15, 115.067]" scale="[3.585, 3.138, 5.594]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="AVOIDANCE_0" UNK_918B3023="VALPostClerk-Area-Restrict">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 54.297]" position="[-176.811, 630.241, 115.067]" scale="[9.482, 4.147, 5.594]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="NO_SPAWN_0" UNK_918B3023="VALPostClerk-Spawn-Restrict">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 54.297]" position="[-176.462, 629.99, 115.067]" scale="[6.165, 3.333, 5.594]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="DIALOGUE_VOLUME" UNK_918B3023="VALPostClerk-Dialogue">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 55.663]" position="[-180.764, 624.087, 114.572]" scale="[5.301, 3.638, 3.163]" type="volBox" />
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 54.711]" position="[-178.953, 626.698, 114.201]" scale="[2.043, 1.741, 2.979]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="CLIMBING_RESTRICTION_VOLUME_0" UNK_918B3023="VALTrainClerk-ClimbingRestriction0">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 56.551]" position="[-174.196, 628.014, 113.513]" scale="[7.025, 2.481, 6.486]" type="volBox" />
+          </volume>
+        </volumes>
+        <UNK_31870B95>
+          <UNK_6807AA00 position="[1226.677, -1295.074, 76.9027]" radius="13.0" />
+        </UNK_31870B95>
+        <doors>
+          <door UNK_89D99703="door_val_train_booths">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="true" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_val_trainst_side_03">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_val_trainst_back_04">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_val_trainst_back_03">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_val_trainst_back_02">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_val_trainst_back_01">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_val_trainst_side_02">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_val_trainst_side_01">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_val_trainst_front_01">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_val_trainst_front_02">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+        </doors>
+        <peds>
+          <ped model="U_M_M_RHDTRAINSTATIONWORKER_01" spawn_heading="132.1105" spawn_position="[-177.4645, 628.2946, 113.0896]">
+            <scenario float="1.0" position="[-178.0394, 628.1296, 113.0896]" UNK_C6843EBB="REGION_AUTHORED" type="WORLD_HUMAN_SHOPKEEPER" />
+            <flags type="ENTITY">
+              <flag type="GIVER_PRIMARY" />
+            </flags>
+            <dialogue handle="RHO_STATWRK" type="PRIMARY_SPEAKER" />
+          </ped>
+        </peds>
+      </location>
+      <location UNK_F0B40E4E="[-5227.309, -3469.061, -21.5697]" UNK_EEEDA15E="100.0" UNK_59A7782D="20.0" location="GFH_BENEDICT_TRAIN_STATION">
+        <UNK_F1111DD0>
+          <state position="[-5227.309, -3469.061, -21.5697]" type="NEW" />
+          <state position="[-5227.309, -3469.061, -21.5697]" type="INTERACTED" />
+        </UNK_F1111DD0>
+        <UNK_357F8007 radius="1.8" />
+        <UNK_D0EC7950 UNK_813B03CC="Benedict Point Post Clerk" UNK_424B5C46="[-5236.994, -3477.746, -22.4718]" />
+        <schedule>
+          <UNK_68FAD0F3>
+            <mission UNK_324086E9="INTRO_HIDEOUT" unlock="INTRO_HIDEOUT_TUMBLEWEED" />
+          </UNK_68FAD0F3>
+          <UNK_68FAD0F3>
+            <mission UNK_324086E9="INTRO_HIDEOUT" unlock="INTRO_HIDEOUT_TUMBLEWEED" />
+          </UNK_68FAD0F3>
+          <UNK_68FAD0F3>
+            <mission UNK_324086E9="INTRO_HIDEOUT" unlock="INTRO_HIDEOUT_TUMBLEWEED" />
+          </UNK_68FAD0F3>
+          <UNK_68FAD0F3>
+            <mission UNK_324086E9="INTRO_HIDEOUT" unlock="INTRO_HIDEOUT_TUMBLEWEED" />
+          </UNK_68FAD0F3>
+        </schedule>
+        <UNK_663F4ABA>
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+        </UNK_663F4ABA>
+        <volumes UNK_E8C41362="DEFAULT">
+          <volume UNK_A0DB690="INNER" UNK_918B3023="BenedictPost-Inner">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 0.0]" position="[-5226.078, -3473.518, -20.27]" scale="[7.891, 6.95, 2.61]" type="volBox" />
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 0.0]" position="[-5226.056, -3468.558, -20.05871]" scale="[6.60913, 3.713962, 2.936196]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="OUTER" UNK_918B3023="BenedictPost-Outer">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, -1.314]" position="[-5225.969, -3472.717, -20.078]" scale="[7.645, 8.344, 3.068]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="FOCUS" UNK_918B3023="BenedictPost-Focus">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, -1.314]" position="[-5227.321, -3470.446, -20.27]" scale="[2.193, 2.19, 2.524]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="AVOIDANCE_0" UNK_918B3023="BenedictPost-Area-Restrict">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, -1.314]" position="[-5227.321, -3470.446, -20.27]" scale="[2.193, 2.19, 2.524]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="NO_SPAWN_0" UNK_918B3023="BenedictPost-Spawn-Restrict">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, -1.314]" position="[-5225.986, -3469.222, -20.038]" scale="[6.465, 4.652, 3.28]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="DIALOGUE_VOLUME" UNK_918B3023="BenedictPost-Dialogue">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 0.0]" position="[-5226.012, -3473.495, -20.334]" scale="[7.67, 7.145, 2.799]" type="volBox" />
+          </volume>
+        </volumes>
+        <UNK_31870B95>
+          <UNK_6807AA00 position="[1226.677, -1295.074, 76.9027]" radius="13.0" />
+        </UNK_31870B95>
+        <doors>
+          <door UNK_89D99703="door_ben_train_int_2">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="true" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_ben_train_int_4">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="true" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_ben_train_int_5">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_ben_train_int_6">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+        </doors>
+        <peds>
+          <ped model="U_M_M_RHDTRAINSTATIONWORKER_01" spawn_heading="179.5184" spawn_position="[-5227.309, -3469.061, -21.5697]">
+            <scenario float="179.5184" position="[-5227.309, -3469.061, -21.5697]" UNK_C6843EBB="SCRIPT_AUTHORED" type="WORLD_HUMAN_STAND_WAITING" />
+            <flags type="ENTITY">
+              <flag type="GIVER_PRIMARY" />
+            </flags>
+            <dialogue handle="RHO_STATWRK" type="PRIMARY_SPEAKER" />
+          </ped>
+        </peds>
+      </location>
+      <location UNK_F0B40E4E="[-874.9689, -1327.132, 42.957]" UNK_EEEDA15E="100.0" UNK_59A7782D="20.0" location="GFH_BLACKWATER_POST_OFFICE">
+        <UNK_F1111DD0>
+          <state position="[-874.9689, -1327.132, 42.957]" type="NEW" />
+          <state position="[-874.9689, -1327.132, 42.957]" type="INTERACTED" />
+        </UNK_F1111DD0>
+        <UNK_357F8007 radius="5.0" />
+        <UNK_D0EC7950 UNK_813B03CC="Blackwater Post Office" UNK_424B5C46="[-875.5406, -1328.635, 44.45868]" />
+        <schedule>
+          <UNK_68FAD0F3>
+            <mission UNK_324086E9="INTRO_HIDEOUT" unlock="INTRO_HIDEOUT_BLACKWATER" />
+          </UNK_68FAD0F3>
+          <UNK_68FAD0F3>
+            <mission UNK_324086E9="INTRO_HIDEOUT" unlock="INTRO_HIDEOUT_BLACKWATER" />
+          </UNK_68FAD0F3>
+          <UNK_68FAD0F3>
+            <mission UNK_324086E9="INTRO_HIDEOUT" unlock="INTRO_HIDEOUT_BLACKWATER" />
+          </UNK_68FAD0F3>
+          <UNK_68FAD0F3>
+            <mission UNK_324086E9="INTRO_HIDEOUT" unlock="INTRO_HIDEOUT_BLACKWATER" />
+          </UNK_68FAD0F3>
+        </schedule>
+        <UNK_663F4ABA>
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+          <hour giver="PRIMARY" />
+        </UNK_663F4ABA>
+        <volumes UNK_E8C41362="DEFAULT">
+          <volume UNK_A0DB690="INNER" UNK_918B3023="BLKPostClerk-Inner">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 0.622]" position="[-875.204, -1332.745, 44.629]" scale="[8.732, 13.531, 2.97]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="OUTER" UNK_918B3023="BLKPostClerk-Outer">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 3.199]" position="[-875.538, -1329.365, 44.45551]" scale="[8.446864, 6.429, 3.330119]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="FOCUS" UNK_918B3023="BLKPostClerk-Focus">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 2.032]" position="[-874.938, -1328.614, 44.45868]" scale="[2.363132, 2.292288, 1.983848]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="AVOIDANCE_0" UNK_918B3023="BLKPostClerk-Area-Restrict">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 2.032]" position="[-875.049, -1327.52, 44.459]" scale="[4.149, 3.026, 1.984]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="NO_SPAWN_0" UNK_918B3023="BLKPostClerk-Spawn-Restrict">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 2.032]" position="[-875.071, -1326.897, 44.459]" scale="[4.149, 1.971, 1.984]" type="volBox" />
+          </volume>
+          <volume UNK_A0DB690="DIALOGUE_VOLUME" UNK_918B3023="BLKPostClerk-Dialogue">
+            <UNK_D8E9B33F orientation="[0.0, 0.0, 1.947]" position="[-874.692, -1331.887, 44.574]" scale="[5.599, 7.099, 3.504]" type="volBox" />
+          </volume>
+        </volumes>
+        <UNK_31870B95>
+          <UNK_6807AA00 position="[1226.677, -1295.074, 76.9027]" radius="13.0" />
+        </UNK_31870B95>
+        <doors>
+          <door UNK_89D99703="door_bla_train_front_01">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_bla_train_front_02">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+          <door UNK_89D99703="door_bla_train_clerk">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="true" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="true" />
+          </door>
+          <door UNK_89D99703="door_bla_train_back">
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="RUNNING" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+            <UNK_2EF3F25D UNK_E2B2488C="0.0" config="CLEANUP" UNK_DE7F64CA="false" UNK_ED55709A="false" UNK_1B5B2B85="0.0" UNK_7C41221C="false" />
+          </door>
+        </doors>
+        <peds>
+          <ped model="U_M_M_RHDTRAINSTATIONWORKER_01" spawn_heading="166.8255" spawn_position="[-874.9689, -1327.132, 42.957]">
+            <scenario float="0.5" position="[-875.011, -1327.277, 42.957]" UNK_C6843EBB="REGION_AUTHORED" type="WORLD_HUMAN_SHOPKEEPER" />
+            <flags type="ENTITY">
+              <flag type="GIVER_PRIMARY" />
+            </flags>
+            <dialogue handle="RHO_STATWRK" type="PRIMARY_SPEAKER" />
+          </ped>
+        </peds>
+      </location>
+    </locations>
+    <UNK_1FBB68BD>
+      <UNK_276B330D giver="ALDEN" type="STANDARD">
+        <UNK_7B8C1E97>
+          <giver gender="MALE" id="PRIMARY" model="U_M_M_RHDTRAINSTATIONWORKER_01" />
+        </UNK_7B8C1E97>
+        <UNK_6AAB2FB5>
+          <UNK_6D3EE150 type="ONLINE">
+            <name name="GFH_HELP_MISSION_GIVER_ON_COOLDOWN_ALDEN" UNK_7C346836="STRANGER_HELP_COOLDOWN" />
+            <name name="GFH_HELP_HAVE_BOUNTY_ALDEN" UNK_7C346836="STRANGER_HELP_BOUNTY" />
+            <name name="GFH_HELP_IS_WANTED_ALDEN" UNK_7C346836="STRANGER_HELP_WANTED" />
+            <name name="GFH_HELP_GANG_LEADER_ALDEN" UNK_7C346836="STRANGER_HELP_LEADER" />
+            <name name="GFH_HELP_GIVER_HIDDEN_ALDEN" UNK_7C346836="STRANGER_HELP_HIDDEN" />
+            <name name="GFH_HELP_NO_MISSION_ALDEN" UNK_7C346836="STRANGER_HELP_NO_MISSION" />
+            <name name="GFH_HELP_MISSION_GIVER_ON_COOLDOWN_ALDEN" UNK_7C346836="GIVER_HELP_COOLDOWN" />
+            <name name="GFH_HELP_HAVE_BOUNTY_ALDEN" UNK_7C346836="GIVER_HELP_BOUNTY" />
+            <name name="GFH_HELP_IS_WANTED_ALDEN" UNK_7C346836="GIVER_HELP_WANTED" />
+            <name name="GFH_HELP_GANG_LEADER_ALDEN" UNK_7C346836="GIVER_HELP_LEADER" />
+            <name name="GFH_HELP_GIVER_HIDDEN_ALDEN" UNK_7C346836="GIVER_HELP_HIDDEN" />
+            <name name="GFH_HELP_NO_MISSION_ALDEN" UNK_7C346836="GIVER_HELP_NO_MISSION" />
+          </UNK_6D3EE150>
+          <UNK_6D3EE150 type="MANAGER">
+            <name name="GEM_ALDEN" UNK_7C346836="GIVER_NAME" />
+            <name name="GEM_POST_CLERK" UNK_7C346836="GIVER_STRANGER_NAME" />
+          </UNK_6D3EE150>
+        </UNK_6AAB2FB5>
+        <locations>
+          <location type="INTRO" UNK_24944909="GFH_BLACKWATER_POST_OFFICE" />
+          <location type="INTRO" UNK_24944909="GFH_RHODES_TRAIN_STATION" />
+          <location type="INTRO" UNK_24944909="GFH_BENEDICT_TRAIN_STATION" />
+          <location type="INTRO" UNK_24944909="GFH_VALENTINE_TRAIN_STATION" />
+        </locations>
+        <UNK_F1111DD0>
+          <state UNK_99ACED98="BLIP_MP_GUN_FOR_HIRE" UNK_D0FB26A7="BLIP_STYLE_MP_MISSION_GIVER" UNK_71E63BE2="BLIP_STYLE_COMPANION" type="INTERACTED" />
+          <state UNK_99ACED98="BLIP_MP_GUN_FOR_HIRE" UNK_D0FB26A7="BLIP_STYLE_MP_MISSION_GIVER" UNK_71E63BE2="BLIP_STYLE_COMPANION" type="NEW" />
+        </UNK_F1111DD0>
+      </UNK_276B330D>
+    </UNK_1FBB68BD>
+    <UNK_241B59DA>
+      <UNK_15221E3A type="DEFAULT">
+        <UNK_E7B44FF2 type="FOCUS" />
+        <UNK_E7B44FF2 type="INNER" />
+        <UNK_E7B44FF2 type="OUTER" />
+        <UNK_E7B44FF2 type="NO_SPAWN_0" />
+        <UNK_E7B44FF2 type="AVOIDANCE_0" />
+      </UNK_15221E3A>
+    </UNK_241B59DA>
+  </gun_for_hire>
+</root>

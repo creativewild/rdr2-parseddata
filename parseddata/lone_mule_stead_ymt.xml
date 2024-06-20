@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <location center="[-860.7332, -743.8611, 60.9091]" id="LONE_MULE_STEAD">
+    <volumes>
+      <house>
+        <placement id="volBox" size="[13.45, 6.5, 7.0]" spawn_heading="20.0" spawn_position="[-858.1768, -743.6752, 59.5978]" />
+      </house>
+      <blocking>
+        <placement id="volBox" size="[17.0, 8.0, 5.0]" spawn_heading="20.0" spawn_position="[-859.0809, -744.019, 61.25877]" />
+      </blocking>
+    </volumes>
+  </location>
+</root>

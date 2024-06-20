@@ -1,0 +1,457 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data>
+    <UNK_FCAC7D18>
+      <UNK_AD305933 id="STANDARD">
+        <text id="SHARD_TEAM_PRIMARY_INTRO" UNK_EC4B42F9="FETCH_CAMP_RESUPPLY_INTRO_SHARD_PRIMARY" />
+        <text id="SHARD_TEAM_PRIMARY_PASS" UNK_EC4B42F9="FETCH_CAMP_RESUPPLY_INTRO_SHARD_PRIMARY_PASS" />
+        <text id="SHARD_TEAM_PRIMARY_FAIL" UNK_EC4B42F9="FETCH_CAMP_RESUPPLY_INTRO_SHARD_PRIMARY_FAIL" />
+        <text id="SHARD_DESTROYED" UNK_EC4B42F9="FETCH_CAMP_RESUPPLY_INTRO_DESTROYED" />
+        <text id="SHARD_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_POSSE_ABANDONED" />
+        <text id="SHARD_YOUR_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOUR_POSSE_ABANDONED" />
+        <text id="SHARD_YOU_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOU_ABANDONED" />
+        <text id="HELP_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_CAMP_RESUPPLY_INTRO_HELP" />
+        <text id="HELP_GHOST_LOCAL_PLAYER" UNK_EC4B42F9="FETCH_HELP_LOCAL_PLAYER_GHOSTED_WAGON" />
+        <text id="HELP_GHOST_POSSE_PLAYER" UNK_EC4B42F9="FETCH_HELP_TEAMMATE_GHOSTED_SUPPLIES" />
+        <text id="HELP_MISSION_FAIL" UNK_EC4B42F9="FETCH_CAMP_RESUPPLY_INTRO_HELP_MISSION_FAIL" />
+        <text id="OBJ_GO_TO_0" UNK_EC4B42F9="FETCH_CRSINT_OBJ_GO_TO_0" />
+        <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_CRSINT_OBJ_ENTER_DRIVER_SEAT" />
+        <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_CRSINT_OBJ_ENTER_DRIVER_SEAT" />
+        <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_CRSINT_OBJ_RETURN_WAGON" />
+        <text id="OBJ_ESCORT_DEFEND" UNK_EC4B42F9="FETCH_CRSINT_OBJ_DEFEND_WAGON" />
+        <text id="OBJ_GET_ON_MOUNT" UNK_EC4B42F9="FETCH_OBJ_GET_ON_MOUNT" />
+      </UNK_AD305933>
+    </UNK_FCAC7D18>
+    <locations>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="CAMP_RESUPPLY_INTRO_BAYOU_NWA" UNK_7C1FCD5E="MODEL_CONFIG_BAYOU" UNK_C0F9D21B="MUSIC_RESUPPLY_SETUP" UNK_68A6C8C6="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_GOTO_BAYOU_NWA" position="[2567.756, -786.4789, 41.3603]" rotation="[0.0, 0.0, 0.0]" scale="[30.0, 30.0, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_PLAYER_APPROACHES">
+            <config position="[2566.756, -785.4789, 41.3603]" rotation="[0.0, 0.0, 0.0]" scale="[57.0, 57.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="FIRST_PLAYER_APPROACHES" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger UNK_6E20B30A="2800" id="FIRST_PED_LINE_DELIVERED" role="PLAYER_IN_VOLUME_FOR_MS" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+        </triggers>
+        <objectives>
+          <objective config="RESUPPLY_CART_08" UNK_F5D3F1EC="VEHICLE" UNK_7C35C06D="1" spawn_heading="244.8341" spawn_position="[2566.756, -785.4789, 41.3603]" />
+        </objectives>
+        <guards>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="RANSACK_COACH_BOOT_OPEN" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="257.0536" spawn_position="[2565.352, -784.8242, 41.3603]" UNK_B59BB1D4="0.0">
+            <UNK_6AC736F6 voice="1056_G_M_M_UniCriminals_01_WHITE_03">
+              <conversations>
+                <conversation UNK_6536569E="CHAT_PATROL" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_APPROACHES" type="ON_TRIGGER" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_CHECK_PISTOL" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="168.4424" spawn_position="[2567.031, -786.8223, 41.3603]" UNK_B59BB1D4="20.0" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_INTRO" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="CAMP_RESUPPLY_INTRO_CALIGA_HALL" UNK_7C1FCD5E="MODEL_CONFIG_CALIGA" UNK_C0F9D21B="MUSIC_RESUPPLY_SETUP" UNK_68A6C8C6="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_CRSINT_GOTO_CALIGA_HALL" position="[1840.212, -1424.342, 41.3203]" rotation="[0.0, 0.0, 0.0]" scale="[30.0, 30.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_PLAYER_APPROACHES">
+            <config position="[1841.212, -1424.342, 41.3203]" rotation="[0.0, 0.0, 0.0]" scale="[57.0, 57.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+            <UNK_7007E78D>
+              <UNK_15FC714F position="[1852.693, -1443.565, 41.34308]" radius="14.0" />
+            </UNK_7007E78D>
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="FIRST_PLAYER_APPROACHES" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger UNK_6E20B30A="2800" id="FIRST_PED_LINE_DELIVERED" role="PLAYER_IN_VOLUME_FOR_MS" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+        </triggers>
+        <objectives>
+          <objective config="RESUPPLY_CART_08" UNK_F5D3F1EC="VEHICLE" UNK_7C35C06D="1" spawn_heading="6.7812" spawn_position="[1841.212, -1424.342, 41.3203]" />
+        </objectives>
+        <guards>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="RANSACK_COACH_BOOT_OPEN" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="350.7556" spawn_position="[1841.483, -1425.712, 41.2787]" UNK_B59BB1D4="0.0">
+            <UNK_6AC736F6 voice="1056_G_M_M_UniCriminals_01_WHITE_03">
+              <conversations>
+                <conversation UNK_6536569E="CHAT_PATROL" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_APPROACHES" type="ON_TRIGGER" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_CHECK_PISTOL" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="76.3385" spawn_position="[1840.26, -1423.322, 41.4106]" UNK_B59BB1D4="20.0" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_INTRO" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="CAMP_RESUPPLY_INTRO_CUMBERLAND" UNK_7C1FCD5E="MODEL_CONFIG_CUMBERLAND" UNK_C0F9D21B="MUSIC_RESUPPLY_SETUP" UNK_68A6C8C6="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_CRSINT_GOTO_CARMODY_DELL" position="[813.942, 865.9477, 115.8741]" rotation="[0.0, 0.0, 0.0]" scale="[30.0, 30.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_PLAYER_APPROACHES">
+            <config position="[812.8287, 861.77, 115.8294]" rotation="[0.0, 0.0, 0.0]" scale="[57.0, 57.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="FIRST_PLAYER_APPROACHES" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger UNK_6E20B30A="2800" id="FIRST_PED_LINE_DELIVERED" role="PLAYER_IN_VOLUME_FOR_MS" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+        </triggers>
+        <objectives>
+          <objective config="RESUPPLY_CART_08" UNK_F5D3F1EC="VEHICLE" UNK_7C35C06D="1" spawn_heading="134.7" spawn_position="[814.942, 864.9477, 115.8741]" />
+        </objectives>
+        <guards>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="RANSACK_COACH_BOOT_OPEN" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="122.2729" spawn_position="[815.9779, 865.9274, 115.8378]" UNK_B59BB1D4="0.0">
+            <UNK_6AC736F6 voice="1056_G_M_M_UniCriminals_01_WHITE_03">
+              <conversations>
+                <conversation UNK_6536569E="CHAT_PATROL" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_APPROACHES" type="ON_TRIGGER" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_CHECK_PISTOL" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="65.6659" spawn_position="[812.4004, 851.3512, 115.7005]" UNK_B59BB1D4="20.0" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_INTRO" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="CAMP_RESUPPLY_INTRO_DOVER_HILL" UNK_7C1FCD5E="MODEL_CONFIG_ROANOKE" UNK_C0F9D21B="MUSIC_RESUPPLY_SETUP" UNK_68A6C8C6="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_GOTO_DOVERHILL" position="[2528.8, 2278.659, 175.5411]" rotation="[0.0, 0.0, 0.0]" scale="[30.0, 30.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_PLAYER_APPROACHES">
+            <config position="[2527.8, 2279.659, 175.5411]" rotation="[0.0, 0.0, 0.0]" scale="[57.0, 57.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="FIRST_PLAYER_APPROACHES" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger UNK_6E20B30A="2800" id="FIRST_PED_LINE_DELIVERED" role="PLAYER_IN_VOLUME_FOR_MS" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+        </triggers>
+        <objectives>
+          <objective config="RESUPPLY_CART_08" UNK_F5D3F1EC="VEHICLE" UNK_7C35C06D="1" spawn_heading="156.8063" spawn_position="[2527.8, 2279.659, 175.5411]" />
+        </objectives>
+        <guards>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="RANSACK_COACH_BOOT_OPEN" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="155.7513" spawn_position="[2528.307, 2280.948, 175.5461]" UNK_B59BB1D4="0.0">
+            <UNK_6AC736F6 voice="1056_G_M_M_UniCriminals_01_WHITE_03">
+              <conversations>
+                <conversation UNK_6536569E="CHAT_PATROL" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_APPROACHES" type="ON_TRIGGER" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_CHECK_PISTOL" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="153.688" spawn_position="[2522.723, 2277.455, 175.562]" UNK_B59BB1D4="20.0" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_INTRO" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="CAMP_RESUPPLY_INTRO_GRIZZLIES" UNK_7C1FCD5E="MODEL_CONFIG_GRIZZLIES" UNK_C0F9D21B="MUSIC_RESUPPLY_SETUP" UNK_68A6C8C6="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="720000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_CRSINT_GOTO_GRIZZLIES" position="[-693.8939, 1038.598, 133.5959]" rotation="[0.0, 0.0, 0.0]" scale="[30.0, 30.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_PLAYER_APPROACHES">
+            <config position="[-693.8939, 1037.598, 133.5959]" rotation="[0.0, 0.0, 0.0]" scale="[57.0, 57.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON">
+              <UNK_7007E78D>
+                <UNK_15FC714F position="[-336.2398, 1146.608, 92.9368]" radius="30.0" />
+                <UNK_15FC714F position="[-481.7736, 1008.192, 86.8983]" radius="20.0" />
+              </UNK_7007E78D>
+            </config>
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="FIRST_PLAYER_APPROACHES" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger UNK_6E20B30A="2800" id="FIRST_PED_LINE_DELIVERED" role="PLAYER_IN_VOLUME_FOR_MS" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+        </triggers>
+        <objectives>
+          <objective config="RESUPPLY_CART_08" UNK_F5D3F1EC="VEHICLE" UNK_7C35C06D="1" spawn_heading="72.8166" spawn_position="[-695.1018, 1039.926, 133.6859]" />
+        </objectives>
+        <guards>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="RANSACK_COACH_BOOT_OPEN" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="47.4904" spawn_position="[-693.8762, 1039.324, 133.6927]" UNK_B59BB1D4="0.0">
+            <UNK_6AC736F6 voice="1056_G_M_M_UniCriminals_01_WHITE_03">
+              <conversations>
+                <conversation UNK_6536569E="CHAT_PATROL" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_APPROACHES" type="ON_TRIGGER" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_CHECK_PISTOL" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="87.2707" spawn_position="[-694.8369, 1044.846, 134.1413]" UNK_B59BB1D4="20.0" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_INTRO" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="CAMP_RESUPPLY_INTRO_LANNAHECHEE" UNK_7C1FCD5E="MODEL_CONFIG_BLUEWATER_RECOVER" UNK_C0F9D21B="MUSIC_RESUPPLY_SETUP" UNK_68A6C8C6="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_CRSINT_GOTO_VAN_HORN_MAN" position="[2812.491, 266.1902, 46.9754]" rotation="[0.0, 0.0, 0.0]" scale="[30.0, 30.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_PLAYER_APPROACHES">
+            <config position="[2813.491, 265.1902, 46.9754]" rotation="[0.0, 0.0, 0.0]" scale="[57.0, 57.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="FIRST_PLAYER_APPROACHES" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger UNK_6E20B30A="2800" id="FIRST_PED_LINE_DELIVERED" role="PLAYER_IN_VOLUME_FOR_MS" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+        </triggers>
+        <objectives>
+          <objective config="RESUPPLY_CART_08" UNK_F5D3F1EC="VEHICLE" UNK_7C35C06D="1" spawn_heading="68.1243" spawn_position="[2813.491, 265.1902, 46.9754]" />
+        </objectives>
+        <guards>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="RANSACK_COACH_BOOT_OPEN" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="57.7678" spawn_position="[2814.772, 264.6068, 46.8954]" UNK_B59BB1D4="0.0">
+            <UNK_6AC736F6 voice="1056_G_M_M_UniCriminals_01_WHITE_03">
+              <conversations>
+                <conversation UNK_6536569E="CHAT_PATROL" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_APPROACHES" type="ON_TRIGGER" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_CHECK_PISTOL" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="91.482" spawn_position="[2813.362, 272.0573, 48.9287]" UNK_B59BB1D4="20.0" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_INTRO" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="CAMP_RESUPPLY_INTRO_RIDGEWOOD_FARM" UNK_7C1FCD5E="MODEL_CONFIG_NEW_AUSTIN" UNK_C0F9D21B="MUSIC_RESUPPLY_SETUP" UNK_68A6C8C6="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_GOTO_RIDGEWOOD_FARM" position="[-4825.705, -2669.141, -13.524]" rotation="[0.0, 0.0, 0.0]" scale="[30.0, 30.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_PLAYER_APPROACHES">
+            <config position="[-4826.705, -2668.141, -13.524]" rotation="[0.0, 0.0, 0.0]" scale="[57.0, 57.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="FIRST_PLAYER_APPROACHES" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger UNK_6E20B30A="2800" id="FIRST_PED_LINE_DELIVERED" role="PLAYER_IN_VOLUME_FOR_MS" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+        </triggers>
+        <objectives>
+          <objective config="RESUPPLY_CART_08" UNK_F5D3F1EC="VEHICLE" UNK_7C35C06D="1" spawn_heading="213.0914" spawn_position="[-4826.705, -2668.141, -13.524]" />
+        </objectives>
+        <guards>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="RANSACK_COACH_BOOT_OPEN" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="208.6301" spawn_position="[-4827.565, -2667.055, -13.5283]" UNK_B59BB1D4="0.0">
+            <UNK_6AC736F6 voice="1056_G_M_M_UniCriminals_01_WHITE_03">
+              <conversations>
+                <conversation UNK_6536569E="CHAT_PATROL" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_APPROACHES" type="ON_TRIGGER" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_CHECK_PISTOL" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="181.1098" spawn_position="[-4822.456, -2670.549, -13.2029]" UNK_B59BB1D4="20.0" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_INTRO" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="CAMP_RESUPPLY_INTRO_SCRATCHING_POST" UNK_7C1FCD5E="MODEL_CONFIG_NEW_AUSTIN" UNK_C0F9D21B="MUSIC_RESUPPLY_SETUP" UNK_68A6C8C6="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_GOTO_SCRATCHING_POST" position="[-5837.738, -3740.864, -26.4582]" rotation="[0.0, 0.0, 0.0]" scale="[30.0, 30.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_PLAYER_APPROACHES">
+            <config position="[-5837.738, -3741.864, -26.4582]" rotation="[0.0, 0.0, 0.0]" scale="[57.0, 57.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="FIRST_PLAYER_APPROACHES" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger UNK_6E20B30A="2800" id="FIRST_PED_LINE_DELIVERED" role="PLAYER_IN_VOLUME_FOR_MS" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+        </triggers>
+        <objectives>
+          <objective config="RESUPPLY_CART_08" UNK_F5D3F1EC="VEHICLE" UNK_7C35C06D="1" spawn_heading="320.4189" spawn_position="[-5837.738, -3740.864, -26.4582]" />
+        </objectives>
+        <guards>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="RANSACK_COACH_BOOT_OPEN" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="303.6841" spawn_position="[-5838.718, -3741.789, -26.4395]" UNK_B59BB1D4="0.0">
+            <UNK_6AC736F6 voice="1056_G_M_M_UniCriminals_01_WHITE_03">
+              <conversations>
+                <conversation UNK_6536569E="CHAT_PATROL" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_APPROACHES" type="ON_TRIGGER" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_CHECK_PISTOL" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="23.8273" spawn_position="[-5838.259, -3739.61, -26.3767]" UNK_B59BB1D4="20.0" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_INTRO" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="CAMP_RESUPPLY_INTRO_STRAWBERRY" UNK_7C1FCD5E="MODEL_CONFIG_BIG_VALLEY" UNK_C0F9D21B="MUSIC_RESUPPLY_SETUP" UNK_68A6C8C6="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_GOTO_STRAWBERRY" position="[-1834.898, -603.605, 153.4303]" rotation="[0.0, 0.0, 0.0]" scale="[30.0, 30.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_PLAYER_APPROACHES">
+            <config position="[-1833.898, -603.605, 153.4303]" rotation="[0.0, 0.0, 0.0]" scale="[57.0, 57.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="FIRST_PLAYER_APPROACHES" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger UNK_6E20B30A="2800" id="FIRST_PED_LINE_DELIVERED" role="PLAYER_IN_VOLUME_FOR_MS" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+        </triggers>
+        <objectives>
+          <objective config="RESUPPLY_CART_08" UNK_F5D3F1EC="VEHICLE" UNK_7C35C06D="1" spawn_heading="280.2144" spawn_position="[-1833.898, -603.605, 153.4303]" />
+        </objectives>
+        <guards>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="RANSACK_COACH_BOOT_OPEN" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="293.2523" spawn_position="[-1835.268, -603.9, 153.4631]" UNK_B59BB1D4="0.0">
+            <UNK_6AC736F6 voice="1056_G_M_M_UniCriminals_01_WHITE_03">
+              <conversations>
+                <conversation UNK_6536569E="CHAT_PATROL" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_APPROACHES" type="ON_TRIGGER" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_CHECK_PISTOL" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="339.5496" spawn_position="[-1830.016, -607.6181, 153.5238]" UNK_B59BB1D4="20.0" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_INTRO" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="CAMP_RESUPPLY_INTRO_THIEVES_LANDING" UNK_7C1FCD5E="MODEL_CONFIG_GREAT_PLAINS" UNK_C0F9D21B="MUSIC_RESUPPLY_SETUP" UNK_68A6C8C6="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_GOTO_THIEVES_LANDING" position="[-1417.427, -2202.379, 42.3812]" rotation="[0.0, 0.0, 0.0]" scale="[30.0, 30.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_PLAYER_APPROACHES">
+            <config position="[-1416.951, -2197.761, 42.3888]" rotation="[0.0, 0.0, 0.0]" scale="[57.0, 57.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_AMB_PED_EXCLUSION">
+            <config position="[-1416.951, -2197.761, 42.3888]" rotation="[0.0, 0.0, 0.0]" scale="[90.0, 90.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="FIRST_PLAYER_APPROACHES" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger UNK_6E20B30A="2800" id="FIRST_PED_LINE_DELIVERED" role="PLAYER_IN_VOLUME_FOR_MS" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+        </triggers>
+        <objectives>
+          <objective config="RESUPPLY_CART_08" UNK_F5D3F1EC="VEHICLE" UNK_7C35C06D="1" spawn_heading="226.2121" spawn_position="[-1416.951, -2197.761, 42.3888]" />
+        </objectives>
+        <guards>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="RANSACK_COACH_BOOT_OPEN" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="220.127" spawn_position="[-1417.878, -2196.771, 42.3849]" UNK_B59BB1D4="0.0">
+            <UNK_6AC736F6 voice="1056_G_M_M_UniCriminals_01_WHITE_03">
+              <conversations>
+                <conversation UNK_6536569E="CHAT_PATROL" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_APPROACHES" type="ON_TRIGGER" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_CHECK_PISTOL" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="243.0152" spawn_position="[-1414.81, -2204.056, 42.4052]" UNK_B59BB1D4="20.0" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_INTRO" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="CAMP_RESUPPLY_INTRO_VENTNERS_PLACE" UNK_7C1FCD5E="MODEL_CONFIG_NEW_AUSTIN" UNK_C0F9D21B="MUSIC_RESUPPLY_SETUP" UNK_68A6C8C6="true" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_GOTO_VENTERS_PLACE" position="[-3547.803, -3054.219, 11.0242]" rotation="[0.0, 0.0, 0.0]" scale="[30.0, 30.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_PLAYER_APPROACHES">
+            <config position="[-3548.803, -3055.219, 11.0242]" rotation="[0.0, 0.0, 0.0]" scale="[57.0, 57.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_WAGON" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="FIRST_PLAYER_APPROACHES" role="PLAYER_IN_VOLUME" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger UNK_6E20B30A="2800" id="FIRST_PED_LINE_DELIVERED" role="PLAYER_IN_VOLUME_FOR_MS" UNK_E5C5EAB3="TRIGGER_ONCE" UNK_B71C8EA1="VOL_PLAYER_APPROACHES" />
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+        </triggers>
+        <objectives>
+          <objective config="RESUPPLY_CART_08" UNK_F5D3F1EC="VEHICLE" UNK_7C35C06D="1" spawn_heading="259.6251" spawn_position="[-3548.803, -3055.219, 11.0242]" />
+        </objectives>
+        <guards>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="RANSACK_COACH_BOOT_OPEN" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="276.6339" spawn_position="[-3550.159, -3054.969, 11.0035]" UNK_B59BB1D4="0.0">
+            <UNK_6AC736F6 voice="1056_G_M_M_UniCriminals_01_WHITE_03">
+              <conversations>
+                <conversation UNK_6536569E="CHAT_PATROL" UNK_615C7D65="true" UNK_E9EDC3EB="FIRST_PLAYER_APPROACHES" type="ON_TRIGGER" />
+              </conversations>
+            </UNK_6AC736F6>
+          </guard>
+          <guard config="GUARD_WARN_BANDIT_REVOLVER" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_CHECK_PISTOL" UNK_CA822909="VOL_PLAYER_APPROACHES" spawn_heading="252.0083" spawn_position="[-3540.556, -3054.411, 11.126]" UNK_B59BB1D4="20.0" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_INTRO" />
+        </cutscenes>
+      </location>
+    </locations>
+  </data>
+</root>

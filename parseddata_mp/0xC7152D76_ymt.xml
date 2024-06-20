@@ -1,0 +1,3486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_AAC149EA>
+    <giver giver="SAD5_LANGTON" UNK_5BB656FE="MGLANAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_MALE" root="MGLAN_INT_CO2" />
+        <line id="APPROACH_NEW_FEMALE" root="MGLAN_INT_CO1" />
+        <line id="APPROACH_NEW_GENERIC" root="" />
+        <line id="APPROACH_LAST_PASSED" root="LAN_PASSED_LM" />
+        <line id="APPROACH_LAST_PASSED_M" root="LAN_PASSED_LMM" />
+        <line id="APPROACH_LAST_FAILED" root="LAN_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="LAN_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="MGLAN_IG1_2NDF" />
+        <line id="APPROACH_INTRO_PASSED" root="MGLAN_IG1_2NDP" />
+        <line id="APPROACH_LONG_TIME" root="MGLAN_IG1_RET" />
+        <line id="RETURN_WITH_OBJECTIVE" root="LAN_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="LAN_R_WO_OBJ" />
+        <line id="LOCKED" root="LAN_LOCKED" />
+        <line id="APPROACH_NO_OUTLAW_INTRO" root="GHLA9_NO_INT" />
+        <line id="APPROACH_OUTLAW_INTRO" root="GHLA9_POST_INT" />
+        <line id="APPROACH_HALLOWEEN" root="GHLA9_HALLOWEEN" />
+        <line id="APPROACH_XMAS" root="GHLA9_XMAS" />
+        <line id="APPROACH_LAST_PASSED_O" root="GHLA9_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED_O" root="GHLA9_FAILED_LM" />
+        <line id="APPROACH_LAST_PASSED_O_SDD" root="GHLA9_PASS_SSD" />
+        <line id="APPROACH_LAST_PASSED_O_RWE" root="GHLA9_PASS_RWE" />
+        <line id="APPROACH_LAST_PASSED_O_DTC" root="GHLA9_PASS_DTC" />
+        <line id="APPROACH_LAST_PASSED_O_TWI" root="GHLA9_PASS_TWI" />
+        <line id="APPROACH_LAST_PASSED_O_CWR" root="GHLA9_PASS_CWR" />
+        <line id="APPROACH_LAST_PASSED_O_SDS" root="GHLA9_PASS_SDS" />
+        <line id="APPROACH_LAST_PASSED_O_GEN" root="GHLA9_PASS_GEN" />
+        <line id="APPROACH_OUTLAW_STREAK" root="GHLA9_STREAK" />
+        <line id="APPROACH_BANDANA" root="GHLA9_BANDANA" />
+        <line id="APPROACH_LEGENDARY_HOOD" root="GHLA9_LEGENDH" />
+        <line id="APPROACH_INTRO_PLAYED" root="GHLA9_FIRST_GFH" />
+        <line id="APPROACH_LAST_FAILED_LOM" root="GHLA9_FAIL_LOM" />
+        <line id="APPROACH_LAST_PASSED_LOM_F" root="GHLA9_LOM_P_ANY" />
+        <line id="APPROACH_LAST_PASSED_LOM_E" root="GHLA9_LOM_EAS" />
+        <line id="APPROACH_LAST_PASSED_LOM_M" root="GHLA9_LOM_MED" />
+        <line id="APPROACH_LAST_PASSED_LOM_H" root="GHLA9_LOM_HRD" />
+        <line id="APPROACH_NEW_FLOW" root="GHLA9_NEW_FROUT" />
+        <line id="APPROACH_NEW_LOM_FIRST" root="GHLA9_LOM_AV_F" />
+        <line id="APPROACH_NEW_LOM_GEN" root="GHLA9_LOM_AV" />
+        <line id="APPROACH_NEW_LOM_TRAIN" root="GHLA9_LOM_AV_TR" />
+        <line id="APPROACH_NEW_LOM_INDUSTRY" root="GHLA9_LOM_AV_IR" />
+        <line id="APPROACH_NEW_LOM_SALOON" root="GHLA9_LOM_AV_SD" />
+        <line id="OUTLAW_MENU_FIRST" root="GHLA9_GFH_AC_ME" />
+        <line id="GFH_MENU" root="GHLA9_GFH_MENU" />
+        <line id="OUTLAW_MENU" root="GHLA9_OUT_MENU" />
+        <line id="SCROLL_LOM_AVAILABLE" root="GHLA9_SCROLL" />
+        <line id="SCROLL_LOM_UNAVAILABLE" root="GHLA9_SCROLL_UN" />
+        <line id="GFH_MENU_IDLE" root="GHLA9_GFH_IDLE" />
+        <line id="OUTLAW_MENU_IDLE" root="GHLA9_OUT_IDLE" />
+        <line id="LOM_MENU_IDLE" root="GHLA9_LOM_IDLE" />
+        <line id="OUTLAW_MENU_COOLDOWN" root="GHLA9_OUT_UNAV" />
+        <line id="LOM_MENU_COOLDOWN" root="GHLA9_LOM_UNAV" />
+        <line id="LOM_MENU_CAPITALE" root="GHLA9_LOM_CAPIT" />
+        <line id="OUTLAW_MENU_NEW_FLOW" root="GHLA9_OUT_AVAIL" />
+        <line id="LOM_MENU_NEW_GEN" root="GHLA9_LOM_M_AV" />
+        <line id="PASS_NEAR" root="LAN_PASS" />
+        <line id="FAIL_NEAR" root="LAN_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="MGLAN_IDLETIME" />
+        <line id="IDLE_ON_MISSION" root="LAN_IDLE" />
+        <line id="IDLE_OUTLAW">
+          <UNK_1FD76A8B root="GHLA9_IDLE" />
+          <UNK_1FD76A8B root="GHLA9_IDLE2" />
+          <UNK_1FD76A8B root="GHLA9_IDLE3" />
+          <UNK_1FD76A8B root="GHLA9_IDLE4" />
+          <UNK_1FD76A8B root="GHLA9_IDLE5" />
+          <UNK_1FD76A8B root="GHLA9_IDLE6" />
+          <UNK_1FD76A8B root="GHLA9_IDLE7" />
+          <UNK_1FD76A8B root="GHLA9_IDLE8" />
+          <UNK_1FD76A8B root="GHLA9_IDLE9" />
+        </line>
+        <line id="ILO" root="LAN_ILO" />
+        <line id="NOT_GANG_LEADER" root="LAN_NOT_GL" />
+        <line id="ARE_WANTED" root="LAN_WANTED" />
+        <line id="HAVE_BOUNTY" root="LAN_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="LAN_M_COOLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="LAN_COOLDOWN" />
+        <line id="NO_MISSION" root="LAN_NO_AVAIL" />
+        <line id="ON_STREAK" root="LAN_STREAK" />
+        <line id="ACCEPT_GENERIC" root="LAN_ACCEPT" />
+        <line id="MISSION_LOCKED" root="LAN_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="LAN_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="LAN_H_LOW" />
+        <line id="POSSE_SMALL" root="LAN_POSSE_SMALL" />
+        <line id="AGGRESSIVE_GENERAL" root="MGLAN_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="MGLAN_ACT_AGG" />
+        <line id="SHOOT" root="LAN_SHOOT" />
+        <line id="AIM" root="LAN_AIM" />
+        <line id="PUSH" root="LAN_PUSH" />
+        <line id="ESCALATE" root="MGLAN_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="MGLAN_LEAVE" />
+        <line id="LEFT_NO_MISSION" root="GHLA9_FAREWELL" />
+      </type>
+      <type id="dialogue_destroy_coots_chapel">
+        <line id="ACCEPT_MISSION" root="MGLAN_DTS_CC" />
+      </type>
+      <type id="dialogue_destroy_rio_bravo">
+        <line id="ACCEPT_MISSION" root="MGLAN_DTS_RIO" />
+      </type>
+      <type id="dialogue_destroy_generic">
+        <line id="ACCEPT_MISSION" root="MGLAN_DTS_GEN" />
+      </type>
+      <type id="dialogue_destroy_fort_mercer">
+        <line id="ACCEPT_MISSION" root="MGLAN_DTM_FOM" />
+      </type>
+      <type id="dialogue_destroy_rileys_charge">
+        <line id="ACCEPT_MISSION" root="MGLAN_DTM_RIC" />
+      </type>
+      <type id="dialogue_destroy_silent_stead">
+        <line id="ACCEPT_MISSION" root="MGLAN_DTM_SST" />
+      </type>
+      <type id="dialogue_destroy_stillwater">
+        <line id="ACCEPT_MISSION" root="MGLAN_DTM_STL" />
+      </type>
+      <type id="dialogue_destroy_moving_generic">
+        <line id="ACCEPT_MISSION" root="MGLAN_DTM_GEN" />
+      </type>
+      <type id="dialogue_breakout_macfarlane_blackwater">
+        <line id="ACCEPT_MISSION" root="MGLAN_WB_BLA" />
+      </type>
+      <type id="dialogue_breakout_don_julio_east">
+        <line id="ACCEPT_SINGLE_OBJECTIVE" root="MGLAN_WB_JUL_S" />
+        <line id="ACCEPT_MULTIPLE_OBJECTIVE" root="MGLAN_WB_JUL_M" />
+      </type>
+      <type id="dialogue_holdup_green_hallow">
+        <line id="ACCEPT_MISSION" root="MGLAN_CH_GRH" />
+      </type>
+      <type id="dialogue_coach_holdup_macfarlane_ranch">
+        <line id="ACCEPT_MISSION" root="MGLAN_CH_MFR" />
+      </type>
+      <type id="dialogue_coach_holdup_generic">
+        <line id="ACCEPT_MISSION" root="MGLAN_CH_GEN" />
+      </type>
+      <type id="dialogue_coach_holdup_kidnapping_armadillo">
+        <line id="ACCEPT_MISSION" root="MGLAN_JB_KDN_DC" />
+      </type>
+      <type id="dialogue_coach_holdup_kidnapping_tumbleweed">
+        <line id="ACCEPT_MISSION" root="MGLAN_CHK_TUM" />
+      </type>
+      <type id="dialogue_coach_holdup_kidnapping_generic">
+        <line id="ACCEPT_MISSION" root="MGLAN_CHK_GEN" />
+      </type>
+      <type id="dialogue_steal_horse_ridgewood_farm">
+        <line id="ACCEPT_SINGLE_OBJECTIVE" root="MGLAN_SH_RW_S" />
+        <line id="ACCEPT_MULTIPLE_OBJECTIVE" root="MGLAN_SH_RW_M" />
+      </type>
+      <type id="dialogue_steal_horse_venters_place">
+        <line id="ACCEPT_SINGLE_OBJECTIVE_FEMALE" root="MGLAN_SH_VP_S1" />
+        <line id="ACCEPT_SINGLE_OBJECTIVE_MALE" root="MGLAN_SH_VP_S2" />
+        <line id="ACCEPT_MULTIPLE_OBJECTIVE_FEMALE" root="MGLAN_SH_VP_M1" />
+        <line id="ACCEPT_MULTIPLE_OBJECTIVE_MALE" root="MGLAN_SH_VP_M2" />
+      </type>
+      <type id="dialogue_steal_horse_macfarlanes_ranch">
+        <line id="ACCEPT_SINGLE_OBJECTIVE" root="MGLAN_SH_MF_S" />
+        <line id="ACCEPT_MULTIPLE_OBJECTIVE" root="MGLAN_SH_MF_M" />
+      </type>
+      <type id="dialogue_steal_horse_hennigans_stead">
+        <line id="ACCEPT_SINGLE_OBJECTIVE" root="MGLAN_SH_HE_S" />
+        <line id="ACCEPT_MULTIPLE_OBJECTIVE" root="MGLAN_SH_HE_M" />
+      </type>
+      <type id="dialogue_assassination_pikes_basin">
+        <line id="ACCEPT_FEMALE" root="MGLAN_ASN_PB_1" />
+        <line id="ACCEPT_MALE" root="MGLAN_ASN_PB_2" />
+      </type>
+      <type id="dialogue_assassination_stillwater_creek">
+        <line id="ACCEPT_MISSION" root="MGLAN_ASN_SC" />
+      </type>
+      <type id="dialogue_assassination_fort_mercer">
+        <line id="ACCEPT_MISSION" root="MGLAN_JB_KLL_JH" />
+      </type>
+      <type id="dialogue_assassination_generic">
+        <line id="ACCEPT_MISSION" root="MGLAN_ASN_GEN" />
+      </type>
+      <type id="dialogue_player_assassination">
+        <line id="ACCEPT_MISSION" root="MGLAN_JB_SINGLE" />
+      </type>
+      <type id="dialogue_posse_assassination">
+        <line id="ACCEPT_MISSION" root="MGLAN_JB_MULTI" />
+      </type>
+      <type id="dialogue_intercept_benedict_point">
+        <line id="ACCEPT_MISSION" root="MGLAN_INT_BEN" />
+      </type>
+      <type id="dialogue_intercept_brittlebush">
+        <line id="ACCEPT_MISSION" root="MGLAN_INT_BRI" />
+      </type>
+      <type id="dialogue_prisoner_assassination_tl_mf">
+        <line id="ACCEPT_SINGLE_OBJECTIVE_FEMALE" root="MGLAN_PRA_TL_S1" />
+        <line id="ACCEPT_SINGLE_OBJECTIVE_MALE" root="MGLAN_PRA_TL_S2" />
+        <line id="ACCEPT_MULTIPLE_OBJECTIVE_FEMALE" root="MGLAN_PRA_TL_M1" />
+        <line id="ACCEPT_MULTIPLE_OBJECTIVE_MALE" root="MGLAN_PRA_TL_M2" />
+      </type>
+      <type id="dialogue_prisoner_assassination_greenhollow">
+        <line id="ACCEPT_SINGLE_OBJECTIVE" root="MGLAN_PRA_GRH_S" />
+        <line id="ACCEPT_MULTIPLE_OBJECTIVE" root="MGLAN_PRA_GRH_M" />
+      </type>
+      <type id="dialogue_steal_wagon_coots_chapel">
+        <line id="ACCEPT_SINGLE_OBJECTIVE" root="MGLAN_SW_CC_S" />
+        <line id="ACCEPT_MULTIPLE_OBJECTIVE" root="MGLAN_SW_CC_M" />
+      </type>
+      <type id="dialogue_steal_wagon_twin_rocks">
+        <line id="ACCEPT_SINGLE_OBJECTIVE" root="MGLAN_SW_TR_S" />
+        <line id="ACCEPT_MULTIPLE_OBJECTIVE" root="MGLAN_SW_TR_M" />
+      </type>
+      <type id="dialogue_gaptooh_south_murder">
+        <line id="ACCEPT_MISSION" root="MGLAN_G1_OUT" />
+      </type>
+      <type id="dialogue_railway_expansion_0">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_RW1" />
+      </type>
+      <type id="dialogue_railway_expansion_1">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_RW2" />
+      </type>
+      <type id="dialogue_railway_expansion_2">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_RW3" />
+      </type>
+      <type id="dialogue_saint_denis_docks_0">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_SD1" />
+      </type>
+      <type id="dialogue_saint_denis_docks_1">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_SD2" />
+      </type>
+      <type id="dialogue_saint_denis_docks_2">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_SD3" />
+      </type>
+      <type id="dialogue_town_intimidation_0">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_TI1" />
+      </type>
+      <type id="dialogue_town_intimidation_1">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_TI2" />
+      </type>
+      <type id="dialogue_town_intimidation_2">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_TI3" />
+      </type>
+      <type id="dialogue_debt_collection_0">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_DC1" />
+      </type>
+      <type id="dialogue_debt_collection_1">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_DC2" />
+      </type>
+      <type id="dialogue_debt_collection_2">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_DC3" />
+      </type>
+      <type id="dialogue_cornwall_robbery_0">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_CR1" />
+      </type>
+      <type id="dialogue_cornwall_robbery_1">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_CR2" />
+      </type>
+      <type id="dialogue_cornwall_robbery_2">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_CR3" />
+      </type>
+      <type id="dialogue_saint_denis_saloons_0">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_SS1" />
+      </type>
+      <type id="dialogue_saint_denis_saloons_1">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_SS2" />
+      </type>
+      <type id="dialogue_saint_denis_saloons_2">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_FW_SS3" />
+      </type>
+      <type id="dialogue_single_payroll_robbery">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_LO_IP1" />
+      </type>
+      <type id="dialogue_single_recovery">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_LO_RE1" />
+      </type>
+      <type id="dialogue_single_steal_wagon">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_LO_SW1" />
+      </type>
+      <type id="dialogue_homestead_robbery_0">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_LO_HR1" />
+      </type>
+      <type id="dialogue_homestead_robbery_1">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_LO_HR2" />
+      </type>
+      <type id="dialogue_homestead_robbery_2">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_LO_HR3" />
+      </type>
+      <type id="dialogue_camp_robbery_0">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_LO_WC1" />
+      </type>
+      <type id="dialogue_camp_robbery_1">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_LO_WC2" />
+      </type>
+      <type id="dialogue_camp_robbery_2">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_LO_WC3" />
+      </type>
+      <type id="dialogue_outlaw_coach_holdup_0">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_LO_CH1" />
+      </type>
+      <type id="dialogue_outlaw_coach_holdup_1">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_LO_CH2" />
+      </type>
+      <type id="dialogue_outlaw_coach_holdup_2">
+        <line id="ACCEPT_MISSION" root="GHLA9_JB_LO_CH2" />
+      </type>
+      <type id="dialogue_legendary_outlaw_industry">
+        <line id="ACCEPT_UGC_MISSION" root="GHLA9_JB_LOM_GN" />
+      </type>
+      <type id="dialogue_legendary_outlaw_saloon">
+        <line id="ACCEPT_UGC_MISSION" root="GHLA9_JB_LOM_G2" />
+      </type>
+      <type id="dialogue_legendary_outlaw_train">
+        <line id="ACCEPT_UGC_MISSION" root="GHLA9_JB_LOM_G3" />
+      </type>
+      <type id="dialogue_generic_outline_1">
+        <line id="ACCEPT_MISSION" root="MGLAN_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_outline_2">
+        <line id="ACCEPT_MISSION" root="MGLAN_G2_OUT" />
+      </type>
+      <type id="dialogue_generic_outline_3">
+        <line id="ACCEPT_MISSION" root="MGLAN_G3_OUT" />
+      </type>
+      <type id="dialogue_generic_outline_4">
+        <line id="ACCEPT_MISSION" root="MGLAN_G4_OUT" />
+      </type>
+      <type id="dialogue_generic_outline_5">
+        <line id="ACCEPT_FEMALE" root="MGLAN_G5_OUT" />
+        <line id="ACCEPT_MALE" root="MGLAN_G5_TAKE2" />
+      </type>
+      <type id="dialogue_generic_outline_6">
+        <line id="ACCEPT_MISSION" root="MGLAN_JB_ACCPT" />
+      </type>
+    </giver>
+    <giver giver="TRELAWNY" UNK_5BB656FE="MGTREAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_MALE" root="" />
+        <line id="APPROACH_NEW_FEMALE" root="" />
+        <line id="APPROACH_NEW_GENERIC" root="TRE_APPR_FIRST" />
+        <line id="APPROACH_LAST_PASSED" root="TRE_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="TRE_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="TRE_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="APPROACH_LONG_TIME" root="" />
+        <line id="RETURN_WITH_OBJECTIVE" root="TRE_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="TRE_R_WO_OBJ" />
+        <line id="LOCKED" root="TRE_LOCKED" />
+        <line id="PASS_NEAR" root="TRE_PASS" />
+        <line id="FAIL_NEAR" root="TRE_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="TRE_IDLETIME" />
+        <line id="IDLE_ON_MISSION" root="TRE_IDLE" />
+        <line id="ILO" root="TRE_ILO" />
+        <line id="NOT_GANG_LEADER" root="TRE_NOT_GL" />
+        <line id="ARE_WANTED" root="TRE_WANTED" />
+        <line id="HAVE_BOUNTY" root="TRE_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="TRE_M_COOLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="TRE_COOLDOWN" />
+        <line id="NO_MISSION" root="TRE_NO_AVAIL" />
+        <line id="ON_STREAK" root="TRE_STREAK" />
+        <line id="ACCEPT_GENERIC" root="TRE_ACCEPT" />
+        <line id="MISSION_LOCKED" root="TRE_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="TRE_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="TRE_H_LOW" />
+        <line id="POSSE_SMALL" root="TRE_POSSE_SMALL" />
+        <line id="AGGRESSIVE_GENERAL" root="TRE_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="TRE_ACT_AGG" />
+        <line id="SHOOT" root="TRE_SHOOT" />
+        <line id="AIM" root="TRE_AIM" />
+        <line id="PUSH" root="TRE_PUSH" />
+        <line id="ESCALATE" root="TRE_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="TRE_LEAVE" />
+        <line id="IDLE_TAKE_PAPER" root="MGTRE_TAKEP" />
+        <line id="LEFT_NO_MISSION" root="TRE_LEAVEN" />
+      </type>
+      <type id="dialogue_steal_horse_braithwaite">
+        <line id="ACCEPT_MISSION" root="MGTRE_SH_BRT" />
+      </type>
+      <type id="dialogue_steal_horse_caliga">
+        <line id="ACCEPT_MISSION" root="MGTRE_SH_CALI" />
+      </type>
+      <type id="dialogue_convoy_escort_braithwate">
+        <line id="ACCEPT_MISSION" root="MGTRE_CE_BRT" />
+      </type>
+      <type id="dialogue_destroy_caliga">
+        <line id="ACCEPT_MISSION" root="MGTRE_DS_CALI" />
+      </type>
+      <type id="dialogue_oth_civil_war">
+        <line id="ACCEPT_MISSION" root="MGTRE_OH_CIVIL" />
+      </type>
+      <type id="dialogue_oth_swamp_1">
+        <line id="ACCEPT_MISSION" root="MGTRE_OH_SDW" />
+      </type>
+      <type id="dialogue_repo_boat_clemens">
+        <line id="ACCEPT_MISSION" root="MGTRE_RB_CLEM" />
+      </type>
+      <type id="dialogue_repo_boat_macombs">
+        <line id="ACCEPT_MISSION" root="MGTRE_RB_MACM" />
+      </type>
+      <type id="dialogue_repo_boat_caliga">
+        <line id="ACCEPT_MISSION" root="MGTRE_RB_CALI" />
+      </type>
+      <type id="dialogue_repo_braithwaite">
+        <line id="ACCEPT_MISSION" root="MGTRE_RW_BRT" />
+      </type>
+      <type id="dialogue_repo_shady_belle">
+        <line id="ACCEPT_MISSION" root="MGTRE_RW_SBLLE" />
+      </type>
+      <type id="dialogue_rescue_vip_scarlett">
+        <line id="ACCEPT_MISSION" root="MGTRE_RV_WSM" />
+      </type>
+      <type id="dialogue_rescue_vip_lonnies">
+        <line id="ACCEPT_MISSION" root="MGTRE_RV_LON" />
+      </type>
+      <type id="dialogue_convoy_escort_lagras">
+        <line id="ACCEPT_MISSION" root="MGTRE_JB_LGWAG" />
+      </type>
+      <type id="dialogue_destroy_bolger">
+        <line id="ACCEPT_MISSION" root="MGTRE_JB_AMUBG" />
+      </type>
+      <type id="dialogue_generic_1">
+        <line id="ACCEPT_MISSION" root="MGTRE_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_2">
+        <line id="ACCEPT_MISSION" root="MGTRE_G2_OUT" />
+      </type>
+      <type id="dialogue_generic_3">
+        <line id="ACCEPT_MISSION" root="MGTRE_G3_OUT" />
+      </type>
+      <type id="dialogue_generic_4">
+        <line id="ACCEPT_MISSION" root="MGTRE_JB_HTHIEV" />
+      </type>
+    </giver>
+    <giver giver="SKIFF_CAPTN" UNK_5BB656FE="MGTHOAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_MALE" root="" />
+        <line id="APPROACH_NEW_FEMALE" root="" />
+        <line id="APPROACH_NEW_GENERIC" root="THO_APPR_FIRST" />
+        <line id="APPROACH_LAST_PASSED" root="THO_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="THO_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="THO_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="APPROACH_LONG_TIME" root="" />
+        <line id="RETURN_WITH_OBJECTIVE" root="THO_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="THO_R_WO_OBJ" />
+        <line id="LOCKED" root="THO_LOCKED" />
+        <line id="PASS_NEAR" root="THO_PASS" />
+        <line id="FAIL_NEAR" root="THO_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="THO_IDLETIME" />
+        <line id="IDLE_ON_MISSION" root="THO_IDLE" />
+        <line id="ILO" root="THO_ILO" />
+        <line id="NOT_GANG_LEADER" root="THO_NOT_GL" />
+        <line id="ARE_WANTED" root="THO_WANTED" />
+        <line id="HAVE_BOUNTY" root="THO_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="THO_M_COOLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="THO_COOLDOWN" />
+        <line id="NO_MISSION" root="THO_NO_AVAIL" />
+        <line id="ON_STREAK" root="THO_STREAK" />
+        <line id="ACCEPT_GENERIC" root="THO_ACCEPT" />
+        <line id="MISSION_LOCKED" root="THO_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="THO_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="THO_H_LOW" />
+        <line id="POSSE_SMALL" root="THO_POSSE_SMALL" />
+        <line id="AGGRESSIVE_GENERAL" root="THO_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="THO_ACT_AGG" />
+        <line id="SHOOT" root="THO_SHOOT" />
+        <line id="AIM" root="THO_AIM" />
+        <line id="PUSH" root="THO_PUSH" />
+        <line id="ESCALATE" root="THO_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="THO_LEAVE" />
+        <line id="IDLE_TAKE_PAPER" root="THO_TAKEP" />
+        <line id="LEFT_NO_MISSION" root="MGTHO_LEAVEN" />
+      </type>
+      <type id="dialogue_repo_boat_macombs">
+        <line id="ACCEPT_MISSION" root="MGTHO_RB_MACA" />
+        <line id="FOLLOW_UP" root="MGTHO_RB_MACB" />
+      </type>
+      <type id="dialogue_repo_boat_caliga">
+        <line id="ACCEPT_MISSION" root="MGTHO_RB_CALI" />
+      </type>
+      <type id="dialogue_oth_swamp_2">
+        <line id="ACCEPT_MISSION" root="MGTHO_OTH_SDS" />
+      </type>
+      <type id="dialogue_repo_wagon_macleans">
+        <line id="ACCEPT_MISSION" root="MGTHO_RW_MACA" />
+        <line id="FOLLOW_UP" root="MGTHO_RW_MACB" />
+      </type>
+      <type id="dialogue_resupply_lagras_caliga">
+        <line id="ACCEPT_MISSION" root="MGTHO_RE_CALI" />
+      </type>
+      <type id="dialogue_oth_swamp_1">
+        <line id="ACCEPT_MISSION" root="MGTHO_JB_OTH" />
+      </type>
+      <type id="dialogue_repo_wagon_caliga">
+        <line id="ACCEPT_MISSION" root="MGTHO_JB_RW" />
+      </type>
+      <type id="dialogue_resupply_slave_pen">
+        <line id="ACCEPT_MISSION" root="MGTHO_JB_RES" />
+      </type>
+      <type id="dialogue_generic_1">
+        <line id="ACCEPT_MISSION" root="MGTHO_G1_OUT" />
+        <line id="FOLLOW_UP" root="MGTHO_G1_SEND" />
+      </type>
+      <type id="dialogue_generic_2">
+        <line id="ACCEPT_MISSION" root="MGTHO_G2_OUT" />
+        <line id="FOLLOW_UP" root="MGTHO_G2_SEND" />
+      </type>
+      <type id="dialogue_generic_3">
+        <line id="ACCEPT_MISSION" root="MGTHO_G3_OUT" />
+        <line id="FOLLOW_UP" root="MGTHO_G3_SEND" />
+      </type>
+      <type id="dialogue_generic_4">
+        <line id="ACCEPT_MISSION" root="MGTHO_G4_OUT" />
+        <line id="FOLLOW_UP" root="MGTHO_G4_SEND" />
+      </type>
+      <type id="dialogue_generic_5">
+        <line id="ACCEPT_MISSION" root="MGTHO_JB_GEN" />
+      </type>
+    </giver>
+    <giver giver="SADIE_ADLER" UNK_5BB656FE="MGSADAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_MALE" root="" />
+        <line id="APPROACH_NEW_FEMALE" root="" />
+        <line id="APPROACH_NEW_GENERIC" root="SAD_APPR_FIRST" />
+        <line id="APPROACH_LAST_PASSED" root="SAD_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="SAD_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="SAD_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="APPROACH_LONG_TIME" root="" />
+        <line id="RETURN_WITH_OBJECTIVE" root="SAD_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="SAD_R_WO_OBJ" />
+        <line id="LOCKED" root="SAD_LOCKED" />
+        <line id="PASS_NEAR" root="SAD_PASS" />
+        <line id="FAIL_NEAR" root="SAD_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="MGSAD_IDLETIME" />
+        <line id="IDLE_ON_MISSION" root="SAD_IDLE" />
+        <line id="ILO" root="SAD_ILO" />
+        <line id="NOT_GANG_LEADER" root="SAD_NOT_GL" />
+        <line id="ARE_WANTED" root="SAD_WANTED" />
+        <line id="HAVE_BOUNTY" root="SAD_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="SAD_M_COOLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="SAD_COOLDOWN" />
+        <line id="NO_MISSION" root="SAD_NO_AVAIL" />
+        <line id="ON_STREAK" root="SAD_STREAK" />
+        <line id="ACCEPT_GENERIC" root="SAD_ACCEPT" />
+        <line id="MISSION_LOCKED" root="SAD_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="SAD_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="SAD_H_LOW" />
+        <line id="POSSE_SMALL" root="SAD_POSSE_SMALL" />
+        <line id="AGGRESSIVE_GENERAL" root="MGSAD_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="MGSAD_ACT_AGG" />
+        <line id="SHOOT" root="SAD_SHOOT" />
+        <line id="AIM" root="SAD_AIM" />
+        <line id="PUSH" root="SAD_PUSH" />
+        <line id="ESCALATE" root="MGSAD_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="MGSAD_LEAVE" />
+        <line id="IDLE_TAKE_PAPER" root="MGSAD_TAKEP" />
+        <line id="LEFT_NO_MISSION" root="MGSAD_LEAVEN" />
+      </type>
+      <type id="dialogue_delivery_griz">
+        <line id="ACCEPT_MISSION" root="MGSAD_G1_OUT" />
+      </type>
+      <type id="dialogue_delivery_griz_2">
+        <line id="ACCEPT_MISSION" root="MGSAD_G2_OUT" />
+      </type>
+      <type id="dialogue_recover_central_griz">
+        <line id="ACCEPT_MISSION" root="MGSAD_JB_REC" />
+      </type>
+      <type id="dialogue_recover_central_griz_2">
+        <line id="ACCEPT_MISSION" root="MGSAD_REC_CGRZ2" />
+      </type>
+      <type id="dialogue_oth_spider_gorge">
+        <line id="ACCEPT_MISSION" root="MGSAD_OTH_SPID" />
+      </type>
+      <type id="dialogue_oth_colter">
+        <line id="ACCEPT_MISSION" root="MGSAD_G4_OUT" />
+      </type>
+      <type id="dialogue_rescue_vip_mountainmen">
+        <line id="ACCEPT_MISSION" root="MGSAD_VIP_MMSH" />
+      </type>
+      <type id="dialogue_rescue_vip_colter">
+        <line id="ACCEPT_MISSION" root="MGSAD_VIP_COLT" />
+      </type>
+      <type id="dialogue_generic_1">
+        <line id="ACCEPT_MISSION" root="MGSAD_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_2">
+        <line id="ACCEPT_MISSION" root="MGSAD_G2_OUT" />
+      </type>
+      <type id="dialogue_generic_3">
+        <line id="ACCEPT_MISSION" root="MGSAD_G3_OUT" />
+      </type>
+      <type id="dialogue_generic_4">
+        <line id="ACCEPT_MISSION" root="MGSAD_G4_OUT" />
+      </type>
+    </giver>
+    <giver giver="JAKE_ADLER" UNK_5BB656FE="MGSADAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_MALE" root="" />
+        <line id="APPROACH_NEW_FEMALE" root="" />
+        <line id="APPROACH_NEW_GENERIC" root="MGSAD_JAPR_FRST" />
+        <line id="APPROACH_LAST_PASSED" root="MGSAD_JPASS_LM" />
+        <line id="APPROACH_LAST_FAILED" root="MGSAD_JFAIL_LM" />
+        <line id="APPROACH_GENERIC" root="MGSAD_JAPPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="APPROACH_LONG_TIME" root="" />
+        <line id="RETURN_WITH_OBJECTIVE" root="MGSAD_JR_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="MGSAD_JR_WO_OBJ" />
+        <line id="LOCKED" root="MGSAD_JLOCKED" />
+        <line id="PASS_NEAR" root="MGSAD_JPASS" />
+        <line id="FAIL_NEAR" root="MGSAD_JFAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="MGSAD_JIDLETIME" />
+        <line id="IDLE_ON_MISSION" root="MGSAD_JIDLE" />
+        <line id="ILO" root="MGSAD_JILO" />
+        <line id="NOT_GANG_LEADER" root="MGSAD_JNOT_GL" />
+        <line id="ARE_WANTED" root="MGSAD_JWANTED" />
+        <line id="HAVE_BOUNTY" root="MGSAD_JBOUNTY" />
+        <line id="GIVER_COOLDOWN" root="MGSAD_JM_CLDWN" />
+        <line id="GIVER_COOLDOWN" root="MGSAD_JCLDOWN" />
+        <line id="NO_MISSION" root="MGSAD_JNO_AVAIL" />
+        <line id="ON_STREAK" root="MGSAD_JSTREAK" />
+        <line id="ACCEPT_GENERIC" root="MGSAD_JACCEPT" />
+        <line id="MISSION_LOCKED" root="MGSAD_JM_LOCK" />
+        <line id="HONOR_TOO_HIGH" root="MGSAD_JH_HIGH" />
+        <line id="HONOR_TOO_LOW" root="MGSAD_JH_LOW" />
+        <line id="POSSE_SMALL" root="MGSAD_JPSSE_SML" />
+        <line id="AGGRESSIVE_GENERAL" root="MGSAD_JAGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="MGSAD_JACT_AGG" />
+        <line id="SHOOT" root="MGSAD_JSHOOT" />
+        <line id="AIM" root="MGSAD_JAIM" />
+        <line id="PUSH" root="MGSAD_JPUSH" />
+        <line id="ESCALATE" root="MGSAD_JESCALATE" />
+        <line id="TELL_TO_LEAVE" root="MGSAD_JLEAVE" />
+        <line id="IDLE_TAKE_PAPER" root="MGSAD_JTAKEP" />
+        <line id="LEFT_NO_MISSION" root="MGSAD_JLEAVEN" />
+      </type>
+      <type id="dialogue_delivery_griz">
+        <line id="ACCEPT_MISSION" root="MGSAD_JG1_OUT" />
+      </type>
+      <type id="dialogue_delivery_griz_2">
+        <line id="ACCEPT_MISSION" root="MGSAD_JG2_OUT" />
+      </type>
+      <type id="dialogue_rescue_vip_mountainmen">
+        <line id="ACCEPT_MISSION" root="MGSAD_JRV_MMS" />
+      </type>
+      <type id="dialogue_rescue_vip_colter">
+        <line id="ACCEPT_MISSION" root="MGSAD_JRV_COLT" />
+      </type>
+      <type id="dialogue_recover_central_griz">
+        <line id="ACCEPT_MISSION" root="MGSAD_JRE_CGZ1" />
+      </type>
+      <type id="dialogue_recover_central_griz_2">
+        <line id="ACCEPT_MISSION" root="MGSAD_JRE_CGZ2" />
+      </type>
+      <type id="dialogue_oth_colter">
+        <line id="ACCEPT_MISSION" root="MGSAD_JOTH_COLT" />
+      </type>
+      <type id="dialogue_oth_spider_gorge">
+        <line id="ACCEPT_MISSION" root="MGSAD_JB_OTH" />
+      </type>
+      <type id="dialogue_generic_1">
+        <line id="ACCEPT_MISSION" root="MGSAD_JG1_OUT" />
+      </type>
+      <type id="dialogue_generic_2">
+        <line id="ACCEPT_MISSION" root="MGSAD_JG2_OUT" />
+      </type>
+      <type id="dialogue_generic_3">
+        <line id="ACCEPT_MISSION" root="MGSAD_JG3_OUT" />
+      </type>
+      <type id="dialogue_generic_4">
+        <line id="ACCEPT_MISSION" root="MGSAD_JG4_OUT" />
+      </type>
+      <type id="dialogue_generic_5">
+        <line id="ACCEPT_MISSION" root="MGSAD_JB_JGEN" />
+      </type>
+    </giver>
+    <giver giver="ABDN_SISTER" UNK_5BB656FE="MGABDAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_MALE" root="" />
+        <line id="APPROACH_NEW_FEMALE" root="" />
+        <line id="APPROACH_NEW_GENERIC" root="MGABD_APP_FIRST" />
+        <line id="APPROACH_LAST_PASSED" root="MGABD_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="MGABD_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="MGABD_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="APPROACH_LONG_TIME" root="" />
+        <line id="RETURN_WITH_OBJECTIVE" root="MGABD_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="MGABD_R_WO_OBJ" />
+        <line id="LOCKED" root="MGABD_LOCKED" />
+        <line id="PASS_NEAR" root="MGABD_PASS" />
+        <line id="FAIL_NEAR" root="MGABD_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="MGABD_IDLETIME" />
+        <line id="IDLE_ON_MISSION" root="MGABD_IDLE" />
+        <line id="ILO" root="MGABD_ILO" />
+        <line id="NOT_GANG_LEADER" root="MGABD_NOT_GL" />
+        <line id="ARE_WANTED" root="MGABD_WANTED" />
+        <line id="HAVE_BOUNTY" root="MGABD_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="MGABD_M_CLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="MGABD_COOLDOWN" />
+        <line id="NO_MISSION" root="MGABD_NO_AVAIL" />
+        <line id="ON_STREAK" root="MGABD_STREAK" />
+        <line id="ACCEPT_GENERIC" root="MGABD_ACCEPT" />
+        <line id="MISSION_LOCKED" root="MGABD_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="MGABD_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="MGABD_H_LOW" />
+        <line id="POSSE_SMALL" root="MGABD_POSSE_SML" />
+        <line id="AGGRESSIVE_GENERAL" root="MGABD_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="MGABD_ACT_AGG" />
+        <line id="SHOOT" root="MGABD_SHOOT" />
+        <line id="AIM" root="MGABD_AIM" />
+        <line id="PUSH" root="MGABD_PUSH" />
+        <line id="ESCALATE" root="MGABD_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="MGABD_LEAVE" />
+        <line id="IDLE_TAKE_PAPER" root="MGABD_TAKEP" />
+        <line id="LEFT_NO_MISSION" root="MGABD_LEAVEN" />
+      </type>
+      <type id="dialogue_posse_assassination">
+        <line id="ACCEPT_MISSION" root="MGABD_ASN_PSSE" />
+      </type>
+      <type id="dialogue_player_assassination">
+        <line id="ACCEPT_MISSION" root="MGABD_JB_ASN" />
+      </type>
+      <type id="dialogue_assassination_hagen_orchard">
+        <line id="ACCEPT_MISSION" root="MGABD_AST_HORC" />
+      </type>
+      <type id="dialogue_steal_horses_lakay">
+        <line id="ACCEPT_MISSION" root="MGABD_SH_LAKAY" />
+      </type>
+      <type id="dialogue_chu_emerald">
+        <line id="ACCEPT_MISSION" root="MGABD_CHK_EMRS" />
+      </type>
+      <type id="dialogue_chu_scarlett">
+        <line id="ACCEPT_MISSION" root="MGABD_CHK_SCLT" />
+      </type>
+      <type id="dialogue_steal_wagon_cornwall">
+        <line id="ACCEPT_MISSION" root="MGABD_SW_CORN" />
+      </type>
+      <type id="dialogue_chu_lemoyne">
+        <line id="ACCEPT_MISSION" root="MGABD_CHK_LEM" />
+      </type>
+      <type id="dialogue_assassination_elysian">
+        <line id="ACCEPT_MISSION" root="MGABD_AST_SORC" />
+      </type>
+      <type id="dialogue_steal_horses_grangers">
+        <line id="ACCEPT_MISSION" root="MGABD_JB_SH" />
+      </type>
+      <type id="dialogue_steal_wagon_hill_haven">
+        <line id="ACCEPT_MISSION" root="MGABD_JB_SW" />
+      </type>
+      <type id="dialogue_generic_1">
+        <line id="ACCEPT_MISSION" root="MGABD_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_2">
+        <line id="ACCEPT_MISSION" root="MGABD_G2_OUT" />
+      </type>
+      <type id="dialogue_generic_3">
+        <line id="ACCEPT_MISSION" root="MGABD_G3_OUT" />
+      </type>
+      <type id="dialogue_generic_4">
+        <line id="ACCEPT_MISSION" root="MGABD_G4_OUT" />
+      </type>
+      <type id="dialogue_generic_5">
+        <line id="ACCEPT_MISSION" root="MGABD_JB_GEN" />
+      </type>
+    </giver>
+    <giver giver="ABDN_BROTHER" UNK_5BB656FE="MGABDAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_MALE" root="" />
+        <line id="APPROACH_NEW_FEMALE" root="" />
+        <line id="APPROACH_NEW_GENERIC" root="MGABD_B_APPFST" />
+        <line id="APPROACH_LAST_PASSED" root="MGABD_B_PASS_LM" />
+        <line id="APPROACH_LAST_FAILED" root="MGABD_B_FAIL_LM" />
+        <line id="APPROACH_GENERIC" root="MGABD_B_APPRCH" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="APPROACH_LONG_TIME" root="" />
+        <line id="RETURN_WITH_OBJECTIVE" root="MGABD_B_RET_W" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="MGABD_B_RET_WO" />
+        <line id="LOCKED" root="MGABD_B_LOCKED" />
+        <line id="PASS_NEAR" root="MGABD_B_PASS" />
+        <line id="FAIL_NEAR" root="MGABD_B_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="MGABD_B_IDLETME" />
+        <line id="IDLE_ON_MISSION" root="MGABD_B_IDLE" />
+        <line id="ILO" root="MGABD_B_ILO" />
+        <line id="NOT_GANG_LEADER" root="MGABD_B_NOT_GL" />
+        <line id="ARE_WANTED" root="MGABD_B_WANTED" />
+        <line id="HAVE_BOUNTY" root="MGABD_B_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="MGABD_B_M_CLDWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="MGABD_B_CLDOWN" />
+        <line id="NO_MISSION" root="MGABD_B_NO_AVL" />
+        <line id="ON_STREAK" root="MGABD_B_STREAK" />
+        <line id="ACCEPT_GENERIC" root="" />
+        <line id="MISSION_LOCKED" root="MGABD_B_M_LOCK" />
+        <line id="HONOR_TOO_HIGH" root="MGABD_B_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="MGABD_B_H_LOW" />
+        <line id="POSSE_SMALL" root="MGABD_B_PSE_SML" />
+        <line id="AGGRESSIVE_GENERAL" root="MGABD_B_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="MGABD_B_ACT_AGG" />
+        <line id="SHOOT" root="MGABD_B_SHOOT" />
+        <line id="AIM" root="MGABD_B_AIM" />
+        <line id="PUSH" root="MGABD_B_PUSH" />
+        <line id="ESCALATE" root="MGABD_B_ESCALTE" />
+        <line id="TELL_TO_LEAVE" root="MGABD_B_LEAVE" />
+        <line id="LEFT_NO_MISSION" root="MGABD_B_LEAVEN" />
+      </type>
+    </giver>
+    <giver giver="RGUN5_Slinger" UNK_5BB656FE="MGBBAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_MALE" root="" />
+        <line id="APPROACH_NEW_FEMALE" root="" />
+        <line id="APPROACH_NEW_GENERIC" root="" />
+        <line id="APPROACH_LAST_PASSED" root="BB_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="BB_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="BB_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="APPROACH_LONG_TIME" root="" />
+        <line id="RETURN_WITH_OBJECTIVE" root="BB_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="BB_R_WO_OBJ" />
+        <line id="LOCKED" root="BB_LOCKED" />
+        <line id="PASS_NEAR" root="BB_PASS" />
+        <line id="FAIL_NEAR" root="BB_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="MGBB_IDLETIME" />
+        <line id="IDLE_ON_MISSION" root="BB_IDLE" />
+        <line id="ILO" root="BB_ILO" />
+        <line id="NOT_GANG_LEADER" root="BB_NOT_GL" />
+        <line id="ARE_WANTED" root="BB_WANTED" />
+        <line id="HAVE_BOUNTY" root="BB_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="BB_M_COOLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="BB_COOLDOWN" />
+        <line id="NO_MISSION" root="BB_NO_AVAIL" />
+        <line id="ON_STREAK" root="BB_STREAK" />
+        <line id="ACCEPT_GENERIC" root="BB_ACCEPT" />
+        <line id="MISSION_LOCKED" root="BB_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="BB_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="BB_H_LOW" />
+        <line id="POSSE_SMALL" root="BB_POSSE_SMALL" />
+        <line id="AGGRESSIVE_GENERAL" root="MGBB_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="MGBB_ACT_AGG" />
+        <line id="SHOOT" root="BB_SHOOT" />
+        <line id="AIM" root="BB_AIM" />
+        <line id="PUSH" root="BB_PUSH" />
+        <line id="ESCALATE" root="MGBB_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="MGBB_LEAVE" />
+        <line id="IDLE_TAKE_PAPER" root="MGBB_TAKEP" />
+        <line id="LEFT_NO_MISSION" root="MGBB_LEAVEN" />
+      </type>
+      <type id="dialogue_coach_holdup_rhodes_robbery">
+        <line id="ACCEPT_MISSION" root="MGBB_CH_RHO" />
+      </type>
+      <type id="dialogue_prisoner_assassination_lagras">
+        <line id="ACCEPT_MISSION" root="MGBB_PRA_LAGR" />
+      </type>
+      <type id="dialogue_prisoner_assassination_rhodes">
+        <line id="ACCEPT_MISSION" root="MGBB_PRA_RHO" />
+      </type>
+      <type id="dialogue_assassination_braithwaite">
+        <line id="ACCEPT_MISSION" root="MGBB_ASN_BRT" />
+      </type>
+      <type id="dialogue_assassination_shady_belle">
+        <line id="ACCEPT_MISSION" root="MGBB_ASN_SHB" />
+      </type>
+      <type id="dialogue_steal_horse_caliga">
+        <line id="ACCEPT_MISSION" root="MGBB_SH_CALI" />
+      </type>
+      <type id="dialogue_wagon_breakout_east_rhodes">
+        <line id="ACCEPT_MISSION" root="MGBB_WB_ERHO" />
+      </type>
+      <type id="dialogue_coach_holdup_caliga_robbery">
+        <line id="ACCEPT_MISSION" root="MGBB_JB_CH" />
+      </type>
+      <type id="dialogue_player_assassination">
+        <line id="ACCEPT_MISSION" root="MGBB_JB_ASN_PLY" />
+      </type>
+      <type id="dialogue_posse_assassination">
+        <line id="ACCEPT_MISSION" root="MGBB_JB_ASN_PSE" />
+      </type>
+      <type id="dialogue_wagon_breakout_lemoyne_rhodes">
+        <line id="ACCEPT_MISSION" root="MGBB_WB_NLEM" />
+      </type>
+      <type id="dialogue_steal_horse_braithwaite">
+        <line id="ACCEPT_MISSION" root="MGBB_SH_BRT" />
+      </type>
+      <type id="dialogue_intercept_rhodes_to_greenbank">
+        <line id="ACCEPT_MISSION" root="MGBB_G1_OUT" />
+      </type>
+      <type id="dialogue_intercept_std_to_pleasance">
+        <line id="ACCEPT_MISSION" root="MGBB_G2_OUT" />
+      </type>
+      <type id="dialogue_destroy_caliga">
+        <line id="ACCEPT_MISSION" root="MGBB_JB_GEN" />
+      </type>
+      <type id="dialogue_destroy_clemens_point">
+        <line id="ACCEPT_MISSION" root="MGBB_JB_GEN" />
+      </type>
+      <type id="dialogue_destroy_bolger">
+        <line id="ACCEPT_MISSION" root="MGBB_JB_GEN" />
+      </type>
+      <type id="dialogue_generic_1">
+        <line id="ACCEPT_MISSION" root="MGBB_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_2">
+        <line id="ACCEPT_MISSION" root="MGBB_G2_OUT" />
+      </type>
+      <type id="dialogue_generic_3">
+        <line id="ACCEPT_MISSION" root="MGBB_G3_OUT" />
+      </type>
+      <type id="dialogue_generic_4">
+        <line id="ACCEPT_MISSION" root="MGBB_G4_OUT" />
+      </type>
+      <type id="dialogue_generic_5">
+        <line id="ACCEPT_MISSION" root="MGBB_JB_GEN" />
+      </type>
+    </giver>
+    <giver giver="SHAKY" UNK_5BB656FE="MGSHAAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_MALE" root="" />
+        <line id="APPROACH_NEW_FEMALE" root="" />
+        <line id="APPROACH_NEW_GENERIC" root="SHA_APPR_FIRST" />
+        <line id="APPROACH_LAST_PASSED" root="SHA_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="SHA_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="SHA_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="APPROACH_LONG_TIME" root="" />
+        <line id="RETURN_WITH_OBJECTIVE" root="SHA_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="SHA_R_WO_OBJ" />
+        <line id="LOCKED" root="SHA_LOCKED" />
+        <line id="PASS_NEAR" root="SHA_PASS" />
+        <line id="FAIL_NEAR" root="SHA_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="SHA_IDLETIME" />
+        <line id="IDLE_ON_MISSION" root="SHA_IDLE" />
+        <line id="ILO" root="SHA_ILO" />
+        <line id="NOT_GANG_LEADER" root="SHA_NOT_GL" />
+        <line id="ARE_WANTED" root="SHA_WANTED" />
+        <line id="HAVE_BOUNTY" root="SHA_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="SHA_M_COOLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="SHA_COOLDOWN" />
+        <line id="NO_MISSION" root="SHA_NO_AVAIL" />
+        <line id="ON_STREAK" root="SHA_STREAK" />
+        <line id="ACCEPT_GENERIC" root="SHA_ACCEPT" />
+        <line id="MISSION_LOCKED" root="SHA_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="SHA_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="SHA_H_LOW" />
+        <line id="POSSE_SMALL" root="SHA_POSSE_SMALL" />
+        <line id="AGGRESSIVE_GENERAL" root="SHA_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="SHA_ACT_AGG" />
+        <line id="SHOOT" root="SHA_SHOOT" />
+        <line id="AIM" root="SHA_AIM" />
+        <line id="PUSH" root="SHA_PUSH" />
+        <line id="ESCALATE" root="SHA_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="SHA_LEAVE" />
+        <line id="IDLE_TAKE_PAPER" root="MGSHA_TAKEP" />
+        <line id="LEFT_NO_MISSION" root="MGSHA_LEAVEN" />
+      </type>
+      <type id="dialogue_assassination_benedict_point">
+        <line id="ACCEPT_MISSION" root="MGSHA_G1_OUT" />
+      </type>
+      <type id="dialogue_assassination_bristlebush">
+        <line id="ACCEPT_MISSION" root="MGSHA_G2_OUT" />
+      </type>
+      <type id="dialogue_assassination_cholla_springs">
+        <line id="ACCEPT_MISSION" root="MGSHA_ASN_CHO" />
+      </type>
+      <type id="dialogue_assassination_gaptooth_breach">
+        <line id="ACCEPT_MISSION" root="MGSHA_G3_OUT" />
+      </type>
+      <type id="dialogue_assassination_hamlins_passing">
+        <line id="ACCEPT_MISSION" root="MGSHA_G4_OUT" />
+      </type>
+      <type id="dialogue_player_assassination">
+        <line id="ACCEPT_MISSION" root="MGSHA_ASN_PLYR" />
+      </type>
+      <type id="dialogue_posse_assassination">
+        <line id="ACCEPT_MISSION" root="MGSHA_ASN_PSSE" />
+      </type>
+      <type id="dialogue_assassination_tall_trees">
+        <line id="ACCEPT_MISSION" root="MGSHA_AST_TALL" />
+      </type>
+      <type id="dialogue_coach_holdup_benedict_point">
+        <line id="ACCEPT_MISSION" root="MGSHA_G2_OUT" />
+      </type>
+      <type id="dialogue_coach_holdup_coronado">
+        <line id="ACCEPT_MISSION" root="MGSHA_G3_OUT" />
+      </type>
+      <type id="dialogue_coach_holdup_fort_mercer">
+        <line id="ACCEPT_MISSION" root="MGSHA_CH_FMER" />
+      </type>
+      <type id="dialogue_coach_holdup_rathskeller_fork">
+        <line id="ACCEPT_MISSION" root="MGSHA_G4_OUT" />
+      </type>
+      <type id="dialogue_destroy_crates_rathskeller_fork">
+        <line id="ACCEPT_MISSION" root="MGSHA_DS_RATH" />
+      </type>
+      <type id="dialogue_destroy_rio_bravo">
+        <line id="ACCEPT_MISSION" root="MGSHA_DS_RIO" />
+      </type>
+      <type id="dialogue_destroy_vehicles_gaptooth">
+        <line id="ACCEPT_MISSION" root="MGSHA_DM_GAPT" />
+      </type>
+      <type id="dialogue_destroy_vehicles_rathskeller_fork">
+        <line id="ACCEPT_MISSION" root="MGSHA_DM_RATH" />
+      </type>
+      <type id="dialogue_destroy_stillwater">
+        <line id="ACCEPT_MISSION" root="MGSHA_JB_DM" />
+      </type>
+      <type id="dialogue_destroy_twin_rocks">
+        <line id="ACCEPT_MISSION" root="MGSHA_G2_OUT" />
+      </type>
+      <type id="dialogue_intercept_benedict_point">
+        <line id="ACCEPT_MISSION" root="MGSHA_IN_BENE" />
+      </type>
+      <type id="dialogue_intercept_blackwater_03">
+        <line id="ACCEPT_MISSION" root="MGSHA_IN_LONM" />
+      </type>
+      <type id="dialogue_intercept_blackwater_04">
+        <line id="ACCEPT_MISSION" root="MGSHA_G4_OUT" />
+      </type>
+      <type id="dialogue_intercept_gaptooth_to_plainview">
+        <line id="ACCEPT_MISSION" root="MGSHA_G3_OUT" />
+      </type>
+      <type id="dialogue_intercept_scatching_post_to_ridgewood">
+        <line id="ACCEPT_MISSION" root="MGSHA_G4_OUT" />
+      </type>
+      <type id="dialogue_intercept_brittlebush">
+        <line id="ACCEPT_MISSION" root="MGSHA_G4_OUT" />
+      </type>
+      <type id="dialogue_prisoner_assassination_rathskeller_fork">
+        <line id="ACCEPT_MISSION" root="MGSHA_PAS_RATH" />
+      </type>
+      <type id="dialogue_prisoner_assassination_tumbleweed">
+        <line id="ACCEPT_MISSION" root="MGSHA_G1_OUT" />
+      </type>
+      <type id="dialogue_steal_boat_montana_fall">
+        <line id="ACCEPT_MISSION" root="MGSHA_G2_OUT" />
+      </type>
+      <type id="dialogue_steal_boat_montana_river">
+        <line id="ACCEPT_MISSION" root="MGSHA_SB_LMR" />
+      </type>
+      <type id="dialogue_steal_horses_pleasance_house">
+        <line id="ACCEPT_MISSION" root="MGSHA_G3_OUT" />
+      </type>
+      <type id="dialogue_steal_horse_ridgewood_farm">
+        <line id="ACCEPT_MISSION" root="MGSHA_G4_OUT" />
+      </type>
+      <type id="dialogue_steal_horses_tumbleweed">
+        <line id="ACCEPT_MISSION" root="MGSHA_G1_OUT" />
+      </type>
+      <type id="dialogue_steal_wagon_gaptooth_ridge">
+        <line id="ACCEPT_MISSION" root="MGSHA_SW_GAPT" />
+      </type>
+      <type id="dialogue_steal_wagon_solomon">
+        <line id="ACCEPT_MISSION" root="MGSHA_SW_SOLO" />
+      </type>
+      <type id="dialogue_steal_wagon_twin_rocks">
+        <line id="ACCEPT_MISSION" root="MGSHA_G2_OUT" />
+      </type>
+      <type id="dialogue_wagon_breakout_blackwater">
+        <line id="ACCEPT_MISSION" root="MGSHA_WB_BLW" />
+      </type>
+      <type id="dialogue_breakout_macfarlane_to_armadillo">
+        <line id="ACCEPT_MISSION" root="MGSHA_G3_OUT" />
+      </type>
+      <type id="dialogue_gaptooh_south_murder">
+        <line id="ACCEPT_MISSION" root="MGSHA_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_1">
+        <line id="ACCEPT_MISSION" root="MGSHA_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_2">
+        <line id="ACCEPT_MISSION" root="MGSHA_G2_OUT" />
+      </type>
+      <type id="dialogue_generic_3">
+        <line id="ACCEPT_MISSION" root="MGSHA_G3_OUT" />
+      </type>
+      <type id="dialogue_generic_4">
+        <line id="ACCEPT_MISSION" root="MGSHA_G4_OUT" />
+      </type>
+    </giver>
+    <giver giver="SEAN" UNK_5BB656FE="MGSEAAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_MALE" root="" />
+        <line id="APPROACH_NEW_FEMALE" root="" />
+        <line id="APPROACH_NEW_GENERIC" root="" />
+        <line id="APPROACH_LAST_PASSED" root="SEA_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="SEA_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="SEA_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="APPROACH_LONG_TIME" root="" />
+        <line id="RETURN_WITH_OBJECTIVE" root="SEA_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="SEA_R_WO_OBJ" />
+        <line id="LOCKED" root="SEA_LOCKED" />
+        <line id="APPROACH_NO_OUTLAW_INTRO" root="GHSE9_NO_INT" />
+        <line id="APPROACH_OUTLAW_INTRO" root="GHSE9_POST_INT" />
+        <line id="APPROACH_HALLOWEEN" root="GHSE9_HALLOWEEN" />
+        <line id="APPROACH_XMAS" root="GHSE9_XMAS" />
+        <line id="APPROACH_LAST_PASSED_O" root="GHSE9_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED_O" root="GHSE9_FAILED_LM" />
+        <line id="APPROACH_LAST_PASSED_O_SDD" root="GHSE9_PASS_SDD" />
+        <line id="APPROACH_LAST_PASSED_O_RWE" root="GHSE9_PASS_RWE" />
+        <line id="APPROACH_LAST_PASSED_O_DTC" root="GHSE9_PASS_DTC" />
+        <line id="APPROACH_LAST_PASSED_O_TWI" root="GHSE9_PASS_TWI" />
+        <line id="APPROACH_LAST_PASSED_O_CWR" root="GHSE9_PASS_CWR" />
+        <line id="APPROACH_LAST_PASSED_O_SDS" root="GHSE9_PASS_SDS" />
+        <line id="APPROACH_LAST_PASSED_O_GEN" root="GHSE9_PASS_GEN" />
+        <line id="APPROACH_OUTLAW_STREAK" root="GHSE9_STREAK" />
+        <line id="APPROACH_BANDANA" root="GHSE9_BANDANA" />
+        <line id="APPROACH_LEGENDARY_HOOD" root="GHSE9_LEGENDH" />
+        <line id="APPROACH_INTRO_PLAYED" root="GHSE9_FIRST_GFH" />
+        <line id="APPROACH_LAST_FAILED_LOM" root="GHSE9_FAIL_LOM" />
+        <line id="APPROACH_LAST_PASSED_LOM_F" root="GHSE9_LOM_P_ANY" />
+        <line id="APPROACH_LAST_PASSED_LOM_E" root="GHSE9_LOM_EAS" />
+        <line id="APPROACH_LAST_PASSED_LOM_M" root="GHSE9_LOM_MED" />
+        <line id="APPROACH_LAST_PASSED_LOM_H" root="GHSE9_LOM_HRD" />
+        <line id="APPROACH_NEW_FLOW" root="GHSE9_NEW_FROUT" />
+        <line id="APPROACH_NEW_LOM_FIRST" root="GHSE9_LOM_AV_F" />
+        <line id="APPROACH_NEW_LOM_GEN" root="GHSE9_LOM_AV" />
+        <line id="APPROACH_NEW_LOM_TRAIN" root="GHSE9_LOM_AV_TR" />
+        <line id="APPROACH_NEW_LOM_INDUSTRY" root="GHSE9_LOM_AV_IR" />
+        <line id="APPROACH_NEW_LOM_SALOON" root="GHSE9_LOM_AV_SD" />
+        <line id="OUTLAW_MENU_FIRST" root="GHSE9_GFH_AC_ME" />
+        <line id="GFH_MENU" root="GHSE9_GFH_MENU" />
+        <line id="OUTLAW_MENU" root="GHSE9_OUT_MENU" />
+        <line id="SCROLL_LOM_AVAILABLE" root="GHSE9_SCROLL" />
+        <line id="SCROLL_LOM_UNAVAILABLE" root="GHSE9_SCROLL_UN" />
+        <line id="GFH_MENU_IDLE" root="GHSE9_GFH_IDLE" />
+        <line id="OUTLAW_MENU_IDLE" root="GHSE9_OUT_IDLE" />
+        <line id="LOM_MENU_IDLE" root="GHSE9_LOM_IDLE" />
+        <line id="OUTLAW_MENU_COOLDOWN" root="GHSE9_OUT_UNAV" />
+        <line id="LOM_MENU_COOLDOWN" root="GHSE9_LOM_UNAV" />
+        <line id="LOM_MENU_CAPITALE" root="GHSE9_LOM_CAPIT" />
+        <line id="OUTLAW_MENU_NEW_FLOW" root="GHSE9_OUT_AVAIL" />
+        <line id="LOM_MENU_NEW_GEN" root="GHSE9_LOM_AVA" />
+        <line id="PASS_NEAR" root="SEA_PASS" />
+        <line id="FAIL_NEAR" root="SEA_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="SEA_IDLETIME" />
+        <line id="IDLE_ON_MISSION" root="SEA_IDLE" />
+        <line id="IDLE_OUTLAW">
+          <UNK_1FD76A8B root="GHSE9_IDLE" />
+          <UNK_1FD76A8B root="GHSE9_IDLE2" />
+          <UNK_1FD76A8B root="GHSE9_IDLE3" />
+          <UNK_1FD76A8B root="GHSE9_IDLE4" />
+          <UNK_1FD76A8B root="GHSE9_IDLE5" />
+          <UNK_1FD76A8B root="GHSE9_IDLE6" />
+          <UNK_1FD76A8B root="GHSE9_IDLE7" />
+          <UNK_1FD76A8B root="GHSE9_IDLE8" />
+          <UNK_1FD76A8B root="GHSE9_IDLE9" />
+        </line>
+        <line id="ILO" root="SEA_ILO" />
+        <line id="NOT_GANG_LEADER" root="SEA_NOT_GL" />
+        <line id="ARE_WANTED" root="SEA_WANTED" />
+        <line id="HAVE_BOUNTY" root="SEA_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="SEA_M_COOLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="SEA_COOLDOWN" />
+        <line id="NO_MISSION" root="SEA_NO_AVAIL" />
+        <line id="ON_STREAK" root="SEA_STREAK" />
+        <line id="ACCEPT_GENERIC" root="SEA_ACCEPT" />
+        <line id="MISSION_LOCKED" root="SEA_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="SEA_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="SEA_H_LOW" />
+        <line id="POSSE_SMALL" root="SEA_POSSE_SMALL" />
+        <line id="AGGRESSIVE_GENERAL" root="SEA_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="SEA_ACT_AGG" />
+        <line id="SHOOT" root="SEA_SHOOT" />
+        <line id="AIM" root="SEA_AIM" />
+        <line id="PUSH" root="SEA_PUSH" />
+        <line id="ESCALATE" root="SEA_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="SEA_LEAVE" />
+        <line id="IDLE_TAKE_PAPER" root="MGSEA_TAKEP" />
+        <line id="LEFT_NO_MISSION" root="MGSEA_LEAVEN" />
+        <line id="FAREWELL" root="GHSE9_FAREWELL" />
+      </type>
+      <type id="dialogue_coach_holdup_lower_mont_river">
+        <line id="ACCEPT_MISSION" root="MGSEA_JB_CH" />
+      </type>
+      <type id="dialogue_posse_assassination">
+        <line id="ACCEPT_MISSION" root="MGSEA_ASN_PSSE" />
+      </type>
+      <type id="dialogue_player_assassination">
+        <line id="ACCEPT_MISSION" root="MGSEA_ASN_PLYR" />
+      </type>
+      <type id="dialogue_steal_horse_great_plains">
+        <line id="ACCEPT_MISSION" root="MGSEA_G1_OUT" />
+      </type>
+      <type id="dialogue_coach_holdup_blackwater">
+        <line id="ACCEPT_MISSION" root="MGSEA_CH_BLW" />
+      </type>
+      <type id="dialogue_steal_horse_bear_claw">
+        <line id="ACCEPT_MISSION" root="MGSEA_G2_OUT" />
+      </type>
+      <type id="dialogue_intercept_strawberry_02">
+        <line id="ACCEPT_MISSION" root="MGSEA_IN_CRN" />
+      </type>
+      <type id="dialogue_destroy_great_plains">
+        <line id="ACCEPT_MISSION" root="MGSEA_DM_NGP" />
+      </type>
+      <type id="dialogue_destroy_manzanita">
+        <line id="ACCEPT_MISSION" root="MGSEA_DM_MANZ" />
+      </type>
+      <type id="dialogue_assassination_blackwater">
+        <line id="ACCEPT_MISSION" root="MGSEA_ASN_BLW" />
+      </type>
+      <type id="dialogue_assassination_stillwater_creek">
+        <line id="ACCEPT_MISSION" root="MGSEA_ASN_STLL" />
+      </type>
+      <type id="dialogue_destroy_aurora_basin">
+        <line id="ACCEPT_MISSION" root="MGSEA_DS_AURO" />
+      </type>
+      <type id="dialogue_intercept_blackwater_03">
+        <line id="ACCEPT_MISSION" root="MGSEA_IN_LMS" />
+      </type>
+      <type id="dialogue_jailbreak_blackwater">
+        <line id="ACCEPT_MISSION" root="MGSEA_JB_JAILB" />
+      </type>
+      <type id="dialogue_coach_holdup_kidnapping_great_plains">
+        <line id="ACCEPT_MISSION" root="MGSEA_G3_OUT" />
+      </type>
+      <type id="dialogue_prisoner_assassination_theives_landing">
+        <line id="ACCEPT_MISSION" root="MGSEA_PAS_BLW" />
+      </type>
+      <type id="dialogue_prisoner_assassination_tall_trees">
+        <line id="ACCEPT_MISSION" root="MGSEA_PAS_TALL" />
+      </type>
+      <type id="dialogue_assassination_tall_trees">
+        <line id="ACCEPT_MISSION" root="MGSEA_AST_TALL" />
+      </type>
+      <type id="dialogue_oth_tall_trees">
+        <line id="ACCEPT_MISSION" root="MGSEA_G4_OUT" />
+      </type>
+      <type id="dialogue_on_the_hunt_stillwater">
+        <line id="ACCEPT_MISSION" root="MGSEA_G4_OUT" />
+      </type>
+      <type id="dialogue_destroy_creates_manzanita">
+        <line id="ACCEPT_MISSION" root="MGSEA_DS_MANZ" />
+      </type>
+      <type id="dialogue_railway_expansion_0">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_RW1" />
+      </type>
+      <type id="dialogue_railway_expansion_1">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_RW2" />
+      </type>
+      <type id="dialogue_railway_expansion_2">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_RW3" />
+      </type>
+      <type id="dialogue_saint_denis_docks_0">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_SD1" />
+      </type>
+      <type id="dialogue_saint_denis_docks_1">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_SD2" />
+      </type>
+      <type id="dialogue_saint_denis_docks_2">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_SD3" />
+      </type>
+      <type id="dialogue_town_intimidation_0">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_TI1" />
+      </type>
+      <type id="dialogue_town_intimidation_1">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_TI2" />
+      </type>
+      <type id="dialogue_town_intimidation_2">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_TI3" />
+      </type>
+      <type id="dialogue_debt_collection_0">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_DC1" />
+      </type>
+      <type id="dialogue_debt_collection_1">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_DC2" />
+      </type>
+      <type id="dialogue_debt_collection_2">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_DC3" />
+      </type>
+      <type id="dialogue_cornwall_robbery_0">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_CR1" />
+      </type>
+      <type id="dialogue_cornwall_robbery_1">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_CR2" />
+      </type>
+      <type id="dialogue_cornwall_robbery_2">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_CR3" />
+      </type>
+      <type id="dialogue_saint_denis_saloons_0">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_SS1" />
+      </type>
+      <type id="dialogue_saint_denis_saloons_1">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_SS2" />
+      </type>
+      <type id="dialogue_saint_denis_saloons_2">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_FW_SS3" />
+      </type>
+      <type id="dialogue_single_payroll_robbery">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_LO_IP1" />
+      </type>
+      <type id="dialogue_single_recovery">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_LO_RE1" />
+      </type>
+      <type id="dialogue_single_steal_wagon">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_LO_SW1" />
+      </type>
+      <type id="dialogue_homestead_robbery_0">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_LO_HR1" />
+      </type>
+      <type id="dialogue_homestead_robbery_1">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_LO_HR2" />
+      </type>
+      <type id="dialogue_homestead_robbery_2">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_LO_HR3" />
+      </type>
+      <type id="dialogue_camp_robbery_0">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_LO_WC1" />
+      </type>
+      <type id="dialogue_camp_robbery_1">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_LO_WC2" />
+      </type>
+      <type id="dialogue_camp_robbery_2">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_LO_WC3" />
+      </type>
+      <type id="dialogue_outlaw_coach_holdup_0">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_LO_CH1" />
+      </type>
+      <type id="dialogue_outlaw_coach_holdup_1">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_LO_CH2" />
+      </type>
+      <type id="dialogue_outlaw_coach_holdup_2">
+        <line id="ACCEPT_MISSION" root="GHSE9_JB_LO_CH2" />
+      </type>
+      <type id="dialogue_legendary_outlaw_industry">
+        <line id="ACCEPT_UGC_MISSION" root="GHSE9_JB_LOM_GN" />
+      </type>
+      <type id="dialogue_legendary_outlaw_saloon">
+        <line id="ACCEPT_UGC_MISSION" root="GHSE9_JB_LOM_G2" />
+      </type>
+      <type id="dialogue_legendary_outlaw_train">
+        <line id="ACCEPT_UGC_MISSION" root="GHSE9_JB_LOM_G3" />
+      </type>
+    </giver>
+    <giver giver="WATSON_LADY" UNK_5BB656FE="MGMAWAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_MALE" root="" />
+        <line id="APPROACH_NEW_FEMALE" root="" />
+        <line id="APPROACH_NEW_GENERIC" root="MAW_APPR_FIRST" />
+        <line id="APPROACH_LAST_PASSED" root="MAW_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="MAW_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="MAW_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="APPROACH_LONG_TIME" root="" />
+        <line id="RETURN_WITH_OBJECTIVE" root="MAW_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="MAW_R_WO_OBJ" />
+        <line id="LOCKED" root="MAW_LOCKED" />
+        <line id="PASS_NEAR" root="MAW_PASS" />
+        <line id="FAIL_NEAR" root="MAW_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="MAW_IDLETIME" />
+        <line id="IDLE_ON_MISSION" root="MAW_IDLE" />
+        <line id="ILO" root="MAW_ILO" />
+        <line id="NOT_GANG_LEADER" root="MAW_NOT_GL" />
+        <line id="ARE_WANTED" root="MAW_WANTED" />
+        <line id="HAVE_BOUNTY" root="MAW_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="MAW_M_COOLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="MAW_COOLDOWN" />
+        <line id="NO_MISSION" root="MAW_NO_AVAIL" />
+        <line id="ON_STREAK" root="MAW_STREAK" />
+        <line id="ACCEPT_GENERIC" root="MAW_ACCEPT" />
+        <line id="MISSION_LOCKED" root="MAW_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="MAW_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="MAW_H_LOW" />
+        <line id="POSSE_SMALL" root="MAW_POSSE_SMALL" />
+        <line id="AGGRESSIVE_GENERAL" root="MAW_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="MAW_ACT_AGG" />
+        <line id="SHOOT" root="MAW_SHOOT" />
+        <line id="AIM" root="MAW_AIM" />
+        <line id="PUSH" root="MAW_PUSH" />
+        <line id="ESCALATE" root="MAW_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="MAW_LEAVE" />
+        <line id="IDLE_TAKE_PAPER" root="MGMAW_TAKEP" />
+        <line id="LEFT_NO_MISSION" root="MGMAW_LEAVEN" />
+      </type>
+      <type id="dialogue_breakout_strawberry">
+        <line id="ACCEPT_MISSION" root="MGMAW_WB_STR" />
+      </type>
+      <type id="dialogue_destroy_black_bone">
+        <line id="ACCEPT_MISSION" root="MGMAW_DS_BBF" />
+      </type>
+      <type id="dialogue_posse_assassination">
+        <line id="ACCEPT_MISSION" root="MGMAW_ASN_PSSE" />
+      </type>
+      <type id="dialogue_player_assassination">
+        <line id="ACCEPT_MISSION" root="MGMAW_ASN_PLYR" />
+      </type>
+      <type id="dialogue_coach_holdup_strawberry">
+        <line id="ACCEPT_MISSION" root="MGMAW_CH_STR" />
+      </type>
+      <type id="dialogue_prisoner_assassination_hanging_dog">
+        <line id="ACCEPT_MISSION" root="MGMAW_PRA_HD" />
+      </type>
+      <type id="dialogue_intercept_strawberry_01">
+        <line id="ACCEPT_MISSION" root="MGMAW_IN_DWN" />
+      </type>
+      <type id="dialogue_intercept_strawberry_02">
+        <line id="ACCEPT_MISSION" root="MGMAW_IN_CRN" />
+      </type>
+      <type id="dialogue_destroy_little_creek">
+        <line id="ACCEPT_MISSION" root="MGMAW_JB_KILL" />
+      </type>
+      <type id="dialogue_prisoner_assassination_black_bone">
+        <line id="ACCEPT_MISSION" root="MGMAW_PRA_BBF" />
+      </type>
+      <type id="dialogue_jailbreak_strawberry">
+        <line id="ACCEPT_MISSION" root="MGMAW_JB_JAILB" />
+      </type>
+      <type id="dialogue_breakout_big_valley_riggs_station">
+        <line id="ACCEPT_MISSION" root="MGMAW_WB_RIG" />
+      </type>
+      <type id="dialogue_coach_holdup_millesani">
+        <line id="ACCEPT_MISSION" root="MGMAW_CH_MILL" />
+      </type>
+      <type id="dialogue_prisoner_assassination_painted_sky">
+        <line id="ACCEPT_MISSION" root="MGMAW_G4_OUT" />
+      </type>
+      <type id="dialogue_generic_1">
+        <line id="ACCEPT_MISSION" root="MGMAW_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_2">
+        <line id="ACCEPT_MISSION" root="MGMAW_G2_OUT" />
+      </type>
+      <type id="dialogue_generic_3">
+        <line id="ACCEPT_MISSION" root="MGMAW_G3_OUT" />
+      </type>
+      <type id="dialogue_generic_4">
+        <line id="ACCEPT_MISSION" root="MGMAW_G4_OUT" />
+      </type>
+      <type id="dialogue_generic_5">
+        <line id="ACCEPT_MISSION" root="MGMAW_JB_GEN" />
+      </type>
+    </giver>
+    <giver giver="RWARV_VETERAN" UNK_5BB656FE="MGHAMAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_MALE" root="" />
+        <line id="APPROACH_NEW_FEMALE" root="" />
+        <line id="APPROACH_NEW_GENERIC" root="HAM_APPR_FIRST" />
+        <line id="APPROACH_LAST_PASSED" root="HAM_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="HAM_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="HAM_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="APPROACH_LONG_TIME" root="MGHAM_SEEPLYR" />
+        <line id="RETURN_WITH_OBJECTIVE" root="HAM_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="HAM_R_WO_OBJ" />
+        <line id="LOCKED" root="HAM_LOCKED" />
+        <line id="PASS_NEAR" root="HAM_PASS" />
+        <line id="FAIL_NEAR" root="HAM_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="HAM_IDLETIME" />
+        <line id="IDLE_ON_MISSION" root="HAM_IDLE" />
+        <line id="LEFT_NO_MISSION" root="MGHAM_LEAVEN" />
+        <line id="ILO" root="HAM_ILO" />
+        <line id="NOT_GANG_LEADER" root="HAM_NOT_GL" />
+        <line id="ARE_WANTED" root="HAM_WANTED" />
+        <line id="HAVE_BOUNTY" root="HAM_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="HAM_M_COOLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="HAM_COOLDOWN" />
+        <line id="NO_MISSION" root="HAM_NO_AVAIL" />
+        <line id="ON_STREAK" root="HAM_STREAK" />
+        <line id="ACCEPT_GENERIC" root="MAW_ACCEPT" />
+        <line id="MISSION_LOCKED" root="HAM_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="HAM_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="HAM_H_LOW" />
+        <line id="POSSE_SMALL" root="HAM_POSSE_SMALL" />
+        <line id="AGGRESSIVE_GENERAL" root="HAM_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="HAM_ACT_AGG" />
+        <line id="SHOOT" root="HAM_SHOOT" />
+        <line id="AIM" root="HAM_AIM" />
+        <line id="PUSH" root="HAM_PUSH" />
+        <line id="ESCALATE" root="HAM_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="HAM_LEAVE" />
+        <line id="IDLE_TAKE_PAPER" root="MGHAM_TAKEP" />
+        <line id="LEFT_NO_MISSION" root="MGHAM_LEAVEN" />
+      </type>
+      <type id="dialogue_rescue_multiple_crater_sacrifice">
+        <line id="ACCEPT_MISSION" root="MGHAM_VIP_CRA" />
+      </type>
+      <type id="dialogue_rescue_vip_loft_kidnapping">
+        <line id="ACCEPT_MISSION" root="MGHAM_VIP_LOFT" />
+      </type>
+      <type id="dialogue_steal_boat_rkr_north_east">
+        <line id="ACCEPT_MISSION" root="MGHAM_SB_RRN" />
+      </type>
+      <type id="dialogue_oth_cumberland">
+        <line id="ACCEPT_MISSION" root="MGHAM_OH_CFOR" />
+      </type>
+      <type id="dialogue_repo_east_grizzlies">
+        <line id="ACCEPT_MISSION" root="MGHAM_RW_EGRZ" />
+      </type>
+      <type id="dialogue_repo_beaver">
+        <line id="ACCEPT_MISSION" root="MGHAM_RW_BHOL" />
+      </type>
+      <type id="dialogue_repo_cumberland">
+        <line id="ACCEPT_MISSION" root="MGHAM_RW_ECFR" />
+      </type>
+      <type id="dialogue_recover_east_cumberland_1">
+        <line id="ACCEPT_MISSION" root="MGHAM_RE_ECFRA" />
+      </type>
+      <type id="dialogue_recover_east_cumberland_2">
+        <line id="ACCEPT_MISSION" root="MGHAM_RE_ECFRB" />
+      </type>
+      <type id="dialogue_steal_boat_butcher_creek_south">
+        <line id="ACCEPT_MISSION" root="MGHAM_SB_BCS" />
+      </type>
+      <type id="dialogue_wagon_th_wapiti_2">
+        <line id="ACCEPT_MISSION" root="MGHAM_WT_WAP" />
+      </type>
+      <type id="dialogue_rescue_ped_moonstone">
+        <line id="ACCEPT_MISSION" root="MGHAM_JB_VIP" />
+      </type>
+      <type id="dialogue_oth_hot_springs">
+        <line id="ACCEPT_MISSION" root="MGHAM_JB_OTH" />
+      </type>
+      <type id="dialogue_generic_1">
+        <line id="ACCEPT_MISSION" root="MGHAM_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_2">
+        <line id="ACCEPT_MISSION" root="MGHAM_G2_OUT" />
+      </type>
+      <type id="dialogue_generic_3">
+        <line id="ACCEPT_MISSION" root="MGHAM_G3_OUT" />
+      </type>
+      <type id="dialogue_generic_4">
+        <line id="ACCEPT_MISSION" root="MGHAM_G4_OUT" />
+      </type>
+      <type id="dialogue_generic_5">
+        <line id="ACCEPT_MISSION" root="MGHAM_JB_GEN" />
+      </type>
+    </giver>
+    <giver giver="TWD_Sheriff" UNK_5BB656FE="MPSFMAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_MALE" root="" />
+        <line id="APPROACH_NEW_FEMALE" root="" />
+        <line id="APPROACH_NEW_GENERIC" root="SFM_APPR_FIRST" />
+        <line id="APPROACH_LAST_PASSED" root="SFM_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="SFM_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="SFM_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="APPROACH_LONG_TIME" root="" />
+        <line id="RETURN_WITH_OBJECTIVE" root="SFM_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="SFM_R_WO_OBJ" />
+        <line id="LOCKED" root="SFM_LOCKED" />
+        <line id="PASS_NEAR" root="SFM_PASS" />
+        <line id="FAIL_NEAR" root="SFM_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="SFM_IDLETIME" />
+        <line id="IDLE_ON_MISSION" root="SFM_IDLE" />
+        <line id="ILO" root="SFM_ILO" />
+        <line id="NOT_GANG_LEADER" root="SFM_NOT_GL" />
+        <line id="ARE_WANTED" root="SFM_WANTED" />
+        <line id="HAVE_BOUNTY" root="SFM_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="SFM_M_COOLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="SFM_COOLDOWN" />
+        <line id="NO_MISSION" root="SFM_NO_AVAIL" />
+        <line id="ON_STREAK" root="SFM_STREAK" />
+        <line id="ACCEPT_GENERIC" root="SFM_ACCEPT" />
+        <line id="MISSION_LOCKED" root="SFM_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="SFM_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="SFM_H_LOW" />
+        <line id="POSSE_SMALL" root="SFM_POSSE_SMALL" />
+        <line id="AGGRESSIVE_GENERAL" root="SFM_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="SFM_ACT_AGG" />
+        <line id="SHOOT" root="SFM_SHOOT" />
+        <line id="AIM" root="SFM_AIM" />
+        <line id="PUSH" root="SFM_PUSH" />
+        <line id="ESCALATE" root="SFM_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="SFM_LEAVE" />
+        <line id="IDLE_TAKE_PAPER" root="MPSFM_TAKEP" />
+        <line id="LEFT_NO_MISSION" root="MPSFM_LEAVEN" />
+      </type>
+      <type id="dialogue_recover_cuevo_seco">
+        <line id="ACCEPT_MISSION" root="MPSFM_CE_CUE" />
+      </type>
+      <type id="dialogue_convoy_escort_gaptooth">
+        <line id="ACCEPT_MISSION" root="MPSFM_CE_GAPT" />
+      </type>
+      <type id="dialogue_convoy_escort_mercer">
+        <line id="ACCEPT_MISSION" root="MPSFM_JB_CE" />
+      </type>
+      <type id="dialogue_repo_ridgewood">
+        <line id="ACCEPT_MISSION" root="MPSFM_RW_RIDG" />
+      </type>
+      <type id="dialogue_repo_gaptooth">
+        <line id="ACCEPT_MISSION" root="MPSFM_RW_GAPT" />
+      </type>
+      <type id="dialogue_wagon_thieves_rio_bravo">
+        <line id="ACCEPT_MISSION" root="MPSFM_WT_RIO" />
+      </type>
+      <type id="dialogue_wagon_thieves_jorges">
+        <line id="ACCEPT_MISSION" root="MPSFM_JB_WT" />
+      </type>
+      <type id="dialogue_generic_1">
+        <line id="ACCEPT_MISSION" root="MPSFM_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_2">
+        <line id="ACCEPT_MISSION" root="MPSFM_G2_OUT" />
+      </type>
+      <type id="dialogue_generic_3">
+        <line id="ACCEPT_MISSION" root="MPSFM_G3_OUT" />
+      </type>
+      <type id="dialogue_generic_4">
+        <line id="ACCEPT_MISSION" root="MPSFM_G4_OUT" />
+      </type>
+    </giver>
+    <giver giver="THE_BOY" UNK_5BB656FE="MPTBYAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_MALE" root="" />
+        <line id="APPROACH_NEW_FEMALE" root="" />
+        <line id="APPROACH_NEW_GENERIC" root="TBY_APPR_FIRST" />
+        <line id="APPROACH_LAST_PASSED" root="TBY_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="TBY_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="TBY_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="MPTBY_IG1_FAIL1" />
+        <line id="APPROACH_INTRO_PASSED" root="MPTBY_IG1_PASS1" />
+        <line id="APPROACH_LONG_TIME" root="" />
+        <line id="RETURN_WITH_OBJECTIVE" root="TBY_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="TBY_R_WO_OBJ" />
+        <line id="LOCKED" root="TBY_LOCKED" />
+        <line id="PASS_NEAR" root="TBY_PASS" />
+        <line id="FAIL_NEAR" root="TBY_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="TBY_IDLETIME" />
+        <line id="IDLE_ON_MISSION" root="TBY_IDLE" />
+        <line id="ILO" root="TBY_ILO" />
+        <line id="NOT_GANG_LEADER" root="TBY_NOT_GL" />
+        <line id="ARE_WANTED" root="TBY_WANTED" />
+        <line id="HAVE_BOUNTY" root="TBY_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="TBY_M_COOLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="TBY_COOLDOWN" />
+        <line id="NO_MISSION" root="TBY_NO_AVAIL" />
+        <line id="ON_STREAK" root="TBY_STREAK" />
+        <line id="ACCEPT_GENERIC" root="TBY_ACCEPT" />
+        <line id="MISSION_LOCKED" root="TBY_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="TBY_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="TBY_H_LOW" />
+        <line id="POSSE_SMALL" root="TBY_POSSE_SMALL" />
+        <line id="AGGRESSIVE_GENERAL" root="TBY_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="TBY_ACT_AGG" />
+        <line id="SHOOT" root="TBY_SHOOT" />
+        <line id="AIM" root="TBY_AIM" />
+        <line id="PUSH" root="TBY_PUSH" />
+        <line id="ESCALATE" root="TBY_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="TBY_LEAVE" />
+        <line id="IDLE_TAKE_PAPER" root="MPTBY_TAKEP" />
+        <line id="LEFT_NO_MISSION" root="MPTBY_LEAVEN" />
+      </type>
+      <type id="dialogue_player_assassination">
+        <line id="ACCEPT_MISSION" root="MPTBY_ASN_PLYRA" />
+        <line id="FOLLOW_UP" root="MPTBY_ASN_PLYRB" />
+      </type>
+      <type id="dialogue_posse_assassination">
+        <line id="ACCEPT_MISSION" root="MPTBY_ASN_PSSEA" />
+        <line id="FOLLOW_UP" root="MPTBY_ASN_PSSEB" />
+      </type>
+      <type id="dialogue_coach_holdup_robbery_painted">
+        <line id="ACCEPT_MISSION" root="MPTBY_CH_SKYA" />
+        <line id="FOLLOW_UP" root="MPTBY_CH_SKYB" />
+      </type>
+      <type id="dialogue_coach_holdup_rhodes_robbery">
+        <line id="ACCEPT_MISSION" root="MPTBY_CH_RHOA" />
+        <line id="FOLLOW_UP" root="MPTBY_CH_RHOB" />
+      </type>
+      <type id="dialogue_coach_holdup_valentine">
+        <line id="ACCEPT_MISSION" root="MPTBY_CHK_VALA" />
+        <line id="FOLLOW_UP" root="MPTBY_CHK_VALB" />
+      </type>
+      <type id="dialogue_coach_holdup_kidnap_heartlands">
+        <line id="ACCEPT_MISSION" root="MPTBY_CHK_HRTA" />
+        <line id="FOLLOW_UP" root="MPTBY_CHK_HRTB" />
+      </type>
+      <type id="dialogue_jailbreak_val">
+        <line id="ACCEPT_MISSION" root="MPTBY_JLB_VALA" />
+        <line id="FOLLOW_UP" root="MPTBY_JLB_VALB" />
+      </type>
+      <type id="dialogue_rescue_vip_heartlands_tree">
+        <line id="ACCEPT_MISSION" root="MPTBY_RV_HBTA" />
+        <line id="FOLLOW_UP" root="MPTBY_RV_HBTB" />
+      </type>
+      <type id="dialogue_rescue_vip_north_heartlands">
+        <line id="ACCEPT_MISSION" root="MPTBY_RV_NHRA" />
+        <line id="FOLLOW_UP" root="MPTBY_RV_NHRB" />
+      </type>
+      <type id="dialogue_destroy_oilfield">
+        <line id="ACCEPT_MISSION" root="MPTBY_DS_OIL" />
+      </type>
+      <type id="dialogue_destroy_greenbank">
+        <line id="ACCEPT_MISSION" root="MPTBY_DS_GRN" />
+      </type>
+      <type id="dialogue_destroy_mule">
+        <line id="ACCEPT_MISSION" root="MPTBY_DS_LMS" />
+      </type>
+      <type id="dialogue_destroy_cornwall">
+        <line id="ACCEPT_MISSION" root="MPTBY_DM_CRN" />
+      </type>
+      <type id="dialogue_intercept_macleans">
+        <line id="ACCEPT_MISSION" root="MPTBY_IN_MAC" />
+      </type>
+      <type id="dialogue_intercept_greenbank">
+        <line id="ACCEPT_MISSION" root="MPTBY_IN_GRN" />
+      </type>
+      <type id="dialogue_oth_castors">
+        <line id="ACCEPT_MISSION" root="MPTBY_OH_CAST" />
+      </type>
+      <type id="dialogue_oth_cumberland">
+        <line id="ACCEPT_MISSION" root="MPTBY_OH_CFOR" />
+      </type>
+      <type id="dialogue_pas_wallace">
+        <line id="ACCEPT_MISSION" root="MPTBY_PAS_FWAL" />
+      </type>
+      <type id="dialogue_pas_carmody">
+        <line id="ACCEPT_MISSION" root="MPTBY_PAS_CARM" />
+      </type>
+      <type id="dialogue_steal_boat_dakota">
+        <line id="ACCEPT_MISSION" root="MPTBY_SB_DAK" />
+      </type>
+      <type id="dialogue_steal_boat_bards">
+        <line id="ACCEPT_MISSION" root="MPTBY_SB_BLW" />
+      </type>
+      <type id="dialogue_steal_boat_cumberland">
+        <line id="ACCEPT_MISSION" root="MPTBY_SB_CFN" />
+      </type>
+      <type id="dialogue_steal_horses_castors">
+        <line id="ACCEPT_MISSION" root="MPTBY_SH_CASP" />
+      </type>
+      <type id="dialogue_steal_horses_mules">
+        <line id="ACCEPT_MISSION" root="MPTBY_SH_LMUL" />
+      </type>
+      <type id="dialogue_steal_wagon_val">
+        <line id="ACCEPT_MISSION" root="MPTBY_SW_VAL" />
+      </type>
+      <type id="dialogue_steal_wagon_wallace">
+        <line id="ACCEPT_MISSION" root="MPTBY_SW_FWAL" />
+      </type>
+      <type id="dialogue_steal_wagon_carmody">
+        <line id="ACCEPT_MISSION" root="MPTBY_SW_DAK" />
+      </type>
+      <type id="dialogue_wagon_breakout_lemoyne_rhodes">
+        <line id="ACCEPT_MISSION" root="MPTBY_WB_RHO" />
+      </type>
+      <type id="dialogue_breakout_big_valley_riggs_station">
+        <line id="ACCEPT_MISSION" root="MPTBY_WB_RIGG" />
+      </type>
+      <type id="dialogue_steal_horses_cornwall">
+        <line id="ACCEPT_MISSION" root="MPTBY_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_1">
+        <line id="ACCEPT_MISSION" root="MPTBY_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_2">
+        <line id="ACCEPT_MISSION" root="MPTBY_G2_OUT" />
+      </type>
+      <type id="dialogue_generic_3">
+        <line id="ACCEPT_MISSION" root="MPTBY_G3_OUT" />
+      </type>
+      <type id="dialogue_generic_4">
+        <line id="ACCEPT_MISSION" root="MPTBY_G4_OUT" />
+      </type>
+      <type id="dialogue_generic_5">
+        <line id="ACCEPT_MISSION" root="MPTBY_JB_GEN" />
+      </type>
+    </giver>
+    <giver giver="JOE" UNK_5BB656FE="MGJOEAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_MALE" root="" />
+        <line id="APPROACH_NEW_FEMALE" root="" />
+        <line id="APPROACH_NEW_GENERIC" root="" />
+        <line id="APPROACH_LAST_PASSED" root="JOE_PASSED_LAST" />
+        <line id="APPROACH_LAST_FAILED" root="JOE_FAILED_LAST" />
+        <line id="APPROACH_GENERIC" root="JOE_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="JOE_FAILED_LAST" />
+        <line id="APPROACH_INTRO_PASSED" root="JOE_PASSED_LAST" />
+        <line id="APPROACH_LONG_TIME" root="" />
+        <line id="RETURN_WITH_OBJECTIVE" root="JOE_WITHOBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="JOE_RETURN_JOB" />
+        <line id="LOCKED" root="JOE_LOCK" />
+        <line id="APPROACH_NO_OUTLAW_INTRO" root="GHJO9_NO_INT" />
+        <line id="APPROACH_OUTLAW_INTRO" root="GHJO9_POST_INT" />
+        <line id="APPROACH_HALLOWEEN" root="GHJO9_HALLOWEEN" />
+        <line id="APPROACH_XMAS" root="GHJO9_XMAS" />
+        <line id="APPROACH_LAST_PASSED_O" root="GHJO9_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED_O" root="GHJO9_FAILED_LM" />
+        <line id="APPROACH_LAST_PASSED_O_SDD" root="GHJO9_PASS_SSD" />
+        <line id="APPROACH_LAST_PASSED_O_RWE" root="GHJO9_PASS_RWE" />
+        <line id="APPROACH_LAST_PASSED_O_DTC" root="GHJO9_PASS_DTC" />
+        <line id="APPROACH_LAST_PASSED_O_TWI" root="GHJO9_PASS_TWI" />
+        <line id="APPROACH_LAST_PASSED_O_CWR" root="GHJO9_PASS_CWR" />
+        <line id="APPROACH_LAST_PASSED_O_SDS" root="GHJO9_PASS_SDS" />
+        <line id="APPROACH_LAST_PASSED_O_GEN" root="GHJO9_PASS_GEN" />
+        <line id="APPROACH_OUTLAW_STREAK" root="GHJO9_STREAK" />
+        <line id="APPROACH_BANDANA" root="GHJO9_BANDANA" />
+        <line id="APPROACH_LEGENDARY_HOOD" root="GHJO9_LEGENDH" />
+        <line id="APPROACH_INTRO_PLAYED" root="GHJO9_FIRST_GFH" />
+        <line id="APPROACH_LAST_FAILED_LOM" root="GHJO9_FAIL_LOM" />
+        <line id="APPROACH_LAST_PASSED_LOM_F" root="GHJO9_LOM_P_ANY" />
+        <line id="APPROACH_LAST_PASSED_LOM_E" root="GHJO9_LOM_EAS" />
+        <line id="APPROACH_LAST_PASSED_LOM_M" root="GHJO9_LOM_MED" />
+        <line id="APPROACH_LAST_PASSED_LOM_H" root="GHJO9_LOM_HRD" />
+        <line id="APPROACH_NEW_FLOW" root="GHJO9_NEW_FROUT" />
+        <line id="APPROACH_NEW_LOM_FIRST" root="GHJO9_LOM_AV_F" />
+        <line id="APPROACH_NEW_LOM_GEN" root="GHJO9_LOM_AV" />
+        <line id="APPROACH_NEW_LOM_TRAIN" root="GHJO9_LOM_AV_TR" />
+        <line id="APPROACH_NEW_LOM_INDUSTRY" root="GHJO9_LOM_AV_IR" />
+        <line id="APPROACH_NEW_LOM_SALOON" root="GHJO9_LOM_AV_SD" />
+        <line id="OUTLAW_MENU_FIRST" root="GHJO9_GFH_AC_ME" />
+        <line id="GFH_MENU" root="GHJO9_GFH_MENU" />
+        <line id="OUTLAW_MENU" root="GHJO9_OUT_MENU" />
+        <line id="SCROLL_LOM_AVAILABLE" root="GHJO9_SCROLL" />
+        <line id="SCROLL_LOM_UNAVAILABLE" root="GHJO9_SCROLL_UN" />
+        <line id="GFH_MENU_IDLE" root="GHJO9_GFH_IDLE" />
+        <line id="OUTLAW_MENU_IDLE" root="GHJO9_OUT_IDLE" />
+        <line id="LOM_MENU_IDLE" root="GHJO9_LOM_IDLE" />
+        <line id="OUTLAW_MENU_COOLDOWN" root="GHJO9_OUT_UNAV" />
+        <line id="LOM_MENU_COOLDOWN" root="GHJO9_LOM_UNAV" />
+        <line id="LOM_MENU_CAPITALE" root="GHJO9_LOM_CAPIT" />
+        <line id="OUTLAW_MENU_NEW_FLOW" root="GHJO9_OUT_AVAIL" />
+        <line id="LOM_MENU_NEW_GEN" root="GHJO9_LOM_AVA" />
+        <line id="IDLE_OUTLAW" root="GHJO9_IDLE" />
+        <line id="PASS_NEAR" root="JOE_PASS" />
+        <line id="FAIL_NEAR" root="JOE_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="JOE_IDLETIME" />
+        <line id="IDLE_ON_MISSION" root="JOE_IDLE_ACCEPT" />
+        <line id="ILO" root="JOE_ILO" />
+        <line id="NOT_GANG_LEADER" root="MGJOE_GANGL" />
+        <line id="ARE_WANTED" root="JOE_WANTED" />
+        <line id="HAVE_BOUNTY" root="MGJOE_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="JOE_MISCOL" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="MGJOE_COOLDOWN" />
+        <line id="NO_MISSION" root="JOE_NO_JOBS" />
+        <line id="ON_STREAK" root="JOE_STREAK" />
+        <line id="ACCEPT_GENERIC" root="JOE_ACCEPT" />
+        <line id="MISSION_LOCKED" root="JOE_MISLOC" />
+        <line id="HONOR_TOO_HIGH" root="JOE_HONOR_H" />
+        <line id="HONOR_TOO_LOW" root="JOE_HONOR_L" />
+        <line id="POSSE_SMALL" root="MGJOE_POSSESMAL" />
+        <line id="LEFT_NO_MISSION" root="GHJ09_FAREWELL" />
+        <line id="AGGRESSIVE_GENERAL" root="JOE_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="JOE_ACT_AGG" />
+        <line id="SHOOT" root="JOE_SHOOT" />
+        <line id="AIM" root="JOE_AIM" />
+        <line id="PUSH" root="MGJOE_PUSH" />
+        <line id="ESCALATE" root="JOE_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="JOE_LEAVE" />
+        <line id="IDLE_TAKE_PAPER" root="MGJOE_TAKEP" />
+      </type>
+      <type id="dialogue_player_assassination">
+        <line id="ACCEPT_MISSION" root="MGJOE_ASN_PLYR" />
+      </type>
+      <type id="dialogue_assassination_pleasance">
+        <line id="ACCEPT_MISSION" root="MGJOE_ASN_PLEA" />
+      </type>
+      <type id="dialogue_wagon_breakout_lemoyne_rhodes">
+        <line id="ACCEPT_MISSION" root="MGJOE_WB_RHO" />
+      </type>
+      <type id="dialogue_wagon_breakout_west_van_horn">
+        <line id="ACCEPT_MISSION" root="MGJOE_WB_VANH" />
+      </type>
+      <type id="dialogue_coach_holdup_robbery">
+        <line id="ACCEPT_MISSION" root="MGJOE_CH_MAC" />
+      </type>
+      <type id="dialogue_intercept_orchard">
+        <line id="ACCEPT_MISSION" root="MGJOE_IN_HAGN" />
+      </type>
+      <type id="dialogue_intercept_aberdeen">
+        <line id="ACCEPT_MISSION" root="MGJOE_IN_ABER" />
+      </type>
+      <type id="dialogue_intercept_greenbank">
+        <line id="ACCEPT_MISSION" root="MGJOE_IN_GRN" />
+      </type>
+      <type id="dialogue_posse_assassination">
+        <line id="ACCEPT_MISSION" root="MGJOE_JB_KILL" />
+      </type>
+      <type id="dialogue_steal_boat_lagras_west">
+        <line id="ACCEPT_MISSION" root="MGJOE_SB_LAGW" />
+      </type>
+      <type id="dialogue_steal_boat_bluewater">
+        <line id="ACCEPT_MISSION" root="MGJOE_SB_LAG" />
+      </type>
+      <type id="dialogue_steal_horses_cornwall">
+        <line id="ACCEPT_MISSION" root="MGJOE_SH_CRN" />
+      </type>
+      <type id="dialogue_steal_horses_central_u">
+        <line id="ACCEPT_MISSION" root="MGJOE_SH_RAIL" />
+      </type>
+      <type id="dialogue_coach_holdup_annesburg">
+        <line id="ACCEPT_MISSION" root="MGJOE_JB_ROBCH" />
+      </type>
+      <type id="dialogue_railway_expansion_0">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_RW1" />
+      </type>
+      <type id="dialogue_railway_expansion_1">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_RW2" />
+      </type>
+      <type id="dialogue_railway_expansion_2">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_RW3" />
+      </type>
+      <type id="dialogue_saint_denis_docks_0">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_SD1" />
+      </type>
+      <type id="dialogue_saint_denis_docks_1">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_SD2" />
+      </type>
+      <type id="dialogue_saint_denis_docks_2">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_SD3" />
+      </type>
+      <type id="dialogue_town_intimidation_0">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_TI1" />
+      </type>
+      <type id="dialogue_town_intimidation_1">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_TI2" />
+      </type>
+      <type id="dialogue_town_intimidation_2">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_TI3" />
+      </type>
+      <type id="dialogue_debt_collection_0">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_DC1" />
+      </type>
+      <type id="dialogue_debt_collection_1">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_DC2" />
+      </type>
+      <type id="dialogue_debt_collection_2">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_DC3" />
+      </type>
+      <type id="dialogue_cornwall_robbery_0">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_CR1" />
+      </type>
+      <type id="dialogue_cornwall_robbery_1">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_CR2" />
+      </type>
+      <type id="dialogue_cornwall_robbery_2">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_CR3" />
+      </type>
+      <type id="dialogue_saint_denis_saloons_0">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_SS1" />
+      </type>
+      <type id="dialogue_saint_denis_saloons_1">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_SS2" />
+      </type>
+      <type id="dialogue_saint_denis_saloons_2">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_FW_SS3" />
+      </type>
+      <type id="dialogue_single_payroll_robbery">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_LO_IP1" />
+      </type>
+      <type id="dialogue_single_recovery">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_LO_RE1" />
+      </type>
+      <type id="dialogue_single_steal_wagon">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_LO_SW1" />
+      </type>
+      <type id="dialogue_homestead_robbery_0">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_LO_HR1" />
+      </type>
+      <type id="dialogue_homestead_robbery_1">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_LO_HR2" />
+      </type>
+      <type id="dialogue_homestead_robbery_2">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_LO_HR3" />
+      </type>
+      <type id="dialogue_camp_robbery_0">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_LO_WC1" />
+      </type>
+      <type id="dialogue_camp_robbery_1">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_LO_WC2" />
+      </type>
+      <type id="dialogue_camp_robbery_2">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_LO_WC3" />
+      </type>
+      <type id="dialogue_outlaw_coach_holdup_0">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_LO_CH1" />
+      </type>
+      <type id="dialogue_outlaw_coach_holdup_1">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_LO_CH2" />
+      </type>
+      <type id="dialogue_outlaw_coach_holdup_2">
+        <line id="ACCEPT_MISSION" root="GHJO9_JB_LO_CH2" />
+      </type>
+      <type id="dialogue_legendary_outlaw_industry">
+        <line id="ACCEPT_UGC_MISSION" root="GHJO9_JB_LOM_GN" />
+      </type>
+      <type id="dialogue_legendary_outlaw_saloon">
+        <line id="ACCEPT_UGC_MISSION" root="GHJO9_JB_LOM_G2" />
+      </type>
+      <type id="dialogue_legendary_outlaw_train">
+        <line id="ACCEPT_UGC_MISSION" root="GHJO9_JB_LOM_G3" />
+      </type>
+      <type id="dialogue_generic_1">
+        <line id="ACCEPT_MISSION" root="MGJOE_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_2">
+        <line id="ACCEPT_MISSION" root="MGJOE_G2_OUT" />
+      </type>
+      <type id="dialogue_generic_3">
+        <line id="ACCEPT_MISSION" root="MGJOE_G3_OUT" />
+      </type>
+      <type id="dialogue_generic_4">
+        <line id="ACCEPT_MISSION" root="MGJOE_G4_OUT" />
+      </type>
+      <type id="dialogue_generic_5">
+        <line id="ACCEPT_MISSION" root="MGJOE_JB_GEN" />
+      </type>
+    </giver>
+    <giver giver="RHO_STATWRK" UNK_5BB656FE="MGRHCAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_MALE" root="" />
+        <line id="APPROACH_NEW_FEMALE" root="" />
+        <line id="APPROACH_NEW_GENERIC" root="" />
+        <line id="APPROACH_LAST_PASSED" root="RHC_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="RHC_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="MGRHC_APPRCH" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="APPROACH_LONG_TIME" root="MGRHC_APPRCHF" />
+        <line id="RETURN_WITH_OBJECTIVE" root="RHC_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="RHC_R_WO_OBJ" />
+        <line id="LOCKED" root="RHC_LOCKED" />
+        <line id="PASS_NEAR" root="RHC_PASS" />
+        <line id="FAIL_NEAR" root="RHC_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="MGRHC_IDLE_TIME" />
+        <line id="IDLE_ON_MISSION" root="RHC_IDLE" />
+        <line id="ILO" root="RHC_ILO" />
+        <line id="ILO_M" root="MGRHC_GREET1" />
+        <line id="ILO_F" root="MGRHC_GREET2" />
+        <line id="ILO_FIRST" root="MGRHC_APPRCHF" />
+        <line id="NOT_GANG_LEADER" root="RHC_NOT_GL" />
+        <line id="ARE_WANTED" root="RHC_WANTED" />
+        <line id="HAVE_BOUNTY" root="RHC_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="RHC_M_COOLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="RHC_COOLDOWN" />
+        <line id="NO_MISSION" root="RHC_NO_AVAIL" />
+        <line id="ON_STREAK" root="RHC_STREAK" />
+        <line id="ACCEPT_GENERIC" root="RHC_ACCEPT" />
+        <line id="MISSION_LOCKED" root="RHC_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="RHC_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="RHC_H_LOW" />
+        <line id="POSSE_SMALL" root="RHC_POSSE_SMALL" />
+        <line id="AGGRESSIVE_GENERAL" root="MGRHC_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="MGRHC_ACTAGG" />
+        <line id="SHOOT" root="RHC_SHOOT" />
+        <line id="AIM" root="RHC_AIM" />
+        <line id="PUSH" root="RHC_PUSH" />
+        <line id="ESCALATE" root="MGRHC_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="MGLAN_LEAVE" />
+        <line id="IDLE_TAKE_PAPER" root="MGRHC_TAKEP" />
+        <line id="LEFT_NO_MISSION" root="MGRHC_LEAVECLM" />
+      </type>
+      <type id="dialogue_intro_hideout">
+        <line id="ACCEPT_SINGLE_OBJECTIVE" root="RHC_ACCEPT" />
+        <line id="ACCEPT_MULTIPLE_OBJECTIVE" root="RHC_ACCEPT" />
+      </type>
+      <type id="dialogue_delivery_rhodes_1">
+        <line id="ACCEPT_MISSION" root="MGRHC_DM_RHOA" />
+      </type>
+      <type id="dialogue_delivery_rhodes_2">
+        <line id="ACCEPT_MISSION" root="MGRHC_DM_RHOB" />
+      </type>
+      <type id="dialogue_resupply_rhodes">
+        <line id="ACCEPT_MISSION" root="MGRHC_RS_EMR" />
+      </type>
+      <type id="dialogue_relay_rhodes_1">
+        <line id="ACCEPT_MISSION" root="MGRHC_DRM_RHOA" />
+      </type>
+      <type id="dialogue_relay_rhodes_2">
+        <line id="ACCEPT_MISSION" root="MGRHC_DRM_RHOB" />
+      </type>
+      <type id="dialogue_wagon_thieves_braithwaite">
+        <line id="ACCEPT_MISSION" root="MGRHC_WT_BRT" />
+      </type>
+      <type id="dialogue_convoy_escort_braithwate">
+        <line id="ACCEPT_MISSION" root="MGRHC_CE_BRT" />
+      </type>
+      <type id="dialogue_wagon_thieves_std">
+        <line id="ACCEPT_MISSION" root="MGRHC_WT_SAN" />
+      </type>
+      <type id="dialogue_resupply_valentine">
+        <line id="ACCEPT_MISSION" root="MGRHC_RS_VAL" />
+      </type>
+      <type id="dialogue_convoy_escort_lagras">
+        <line id="ACCEPT_MISSION" root="MGRHC_CE_LAG" />
+      </type>
+      <type id="dialogue_convoy_escort_carmody">
+        <line id="ACCEPT_MISSION" root="MGRHC_CE_CAR" />
+      </type>
+      <type id="dialogue_convoy_escort_val_to_rhodes">
+        <line id="ACCEPT_MISSION" root="MGRHC_CE_RHO" />
+      </type>
+      <type id="dialogue_delivery_valentine_1">
+        <line id="ACCEPT_MISSION" root="MGRHC_DM_VALA" />
+      </type>
+      <type id="dialogue_delivery_valentine_2">
+        <line id="ACCEPT_MISSION" root="MGRHC_DM_VALB" />
+      </type>
+      <type id="dialogue_recover_big_valley_4">
+        <line id="ACCEPT_MISSION" root="MGRHC_REC_BIGV" />
+      </type>
+      <type id="dialogue_recover_west_heartlands_1">
+        <line id="ACCEPT_MISSION" root="MGRHC_REC_WHRA" />
+      </type>
+      <type id="dialogue_recover_west_heartlands_3">
+        <line id="ACCEPT_MISSION" root="MGRHC_REC_SWHA" />
+      </type>
+      <type id="dialogue_wagon_thieves_cumberland_forest">
+        <line id="ACCEPT_MISSION" root="MGRHC_WT_CBF" />
+      </type>
+      <type id="dialogue_wagon_thieves_scarlett_meadows_ne">
+        <line id="ACCEPT_MISSION" root="MGRHC_WT_SMWB" />
+      </type>
+      <type id="dialogue_convoy_escort_macleans">
+        <line id="ACCEPT_MISSION" root="MGRHC_CE_MAC" />
+      </type>
+      <type id="dialogue_convoy_escort_aberdeen">
+        <line id="ACCEPT_MISSION" root="MGRHC_CE_ABD" />
+      </type>
+      <type id="dialogue_recover_blue_marsh">
+        <line id="ACCEPT_MISSION" root="MGRHC_REC_VANA" />
+      </type>
+      <type id="dialogue_recover_east_cumberland_1">
+        <line id="ACCEPT_MISSION" root="MGRHC_REC_CROPA" />
+      </type>
+      <type id="dialogue_recover_east_cumberland_2">
+        <line id="ACCEPT_MISSION" root="MGRHC_REC_CROPB" />
+      </type>
+      <type id="WAGON_THIEVES_GRIZZLES_EAST">
+        <line id="ACCEPT_MISSION" root="MGRHC_WT_GRZ" />
+      </type>
+      <type id="dialogue_wagon_thieves_van_horn">
+        <line id="ACCEPT_MISSION" root="MGRHC_WT_VAN" />
+      </type>
+      <type id="dialogue_convoy_escort_emerald_station">
+        <line id="ACCEPT_MISSION" root="MGRHC_CE_EMR" />
+      </type>
+      <type id="dialogue_convoy_escort_vet_homestead">
+        <line id="ACCEPT_MISSION" root="MGRHC_CE_VET" />
+      </type>
+      <type id="dialogue_delivery_relay_annesburg_1">
+        <line id="ACCEPT_MISSION" root="MGRHC_DR_ANNA" />
+      </type>
+      <type id="dialogue_delivery_relay_annesburg_2">
+        <line id="ACCEPT_MISSION" root="MGRHC_DR_ANNB" />
+      </type>
+      <type id="dialogue_repo_beaver">
+        <line id="ACCEPT_MISSION" root="MGRHC_RW_BEH" />
+      </type>
+      <type id="dialogue_repo_cumberland">
+        <line id="ACCEPT_MISSION" root="MGRHC_RW_ECU" />
+      </type>
+      <type id="dialogue_resupply_butchers">
+        <line id="ACCEPT_MISSION" root="MGRHC_RS_BUT" />
+      </type>
+      <type id="dialogue_resupply_isolationist_shack">
+        <line id="ACCEPT_MISSION" root="MGRHC_RS_VET" />
+      </type>
+      <type id="dialogue_relay_van_horn_1">
+        <line id="ACCEPT_MISSION" root="MGRHC_G1_OUT" />
+      </type>
+      <type id="dialogue_relay_van_horn_2">
+        <line id="ACCEPT_MISSION" root="MGRHC_G2_OUT" />
+      </type>
+      <type id="dialogue_resupply_van_horn">
+        <line id="ACCEPT_MISSION" root="MGRHC_G3_OUT" />
+      </type>
+      <type id="dialogue_resupply_van_to_ocreacg">
+        <line id="ACCEPT_MISSION" root="MGRHC_G4_OUT" />
+      </type>
+      <type id="dialogue_generic_5">
+        <line id="ACCEPT_MISSION" root="MGRHC_G5_OUT" />
+      </type>
+    </giver>
+    <giver giver="RGUN2_Slinger" UNK_5BB656FE="MGFLAAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_GENERIC" root="" />
+        <line id="APPROACH_LAST_PASSED" root="FLA_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="FLA_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="FLA_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="MGFLA_IG1_FAIL1" />
+        <line id="APPROACH_INTRO_PASSED" root="MGFLA_IG1_PASS1" />
+        <line id="RETURN_WITH_OBJECTIVE" root="FLAR_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="FLA_R_WO_OBJ" />
+        <line id="LOCKED" root="FLA_LOCKED" />
+        <line id="IDLE_PRIOR" root="MGFLA_ILO_IDLE" />
+        <line id="PASS_NEAR" root="FLA_PASS" />
+        <line id="FAIL_NEAR" root="FLA_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="FLA_IDLETIME" />
+        <line id="IDLE_ON_MISSION" root="FLA_IDLE" />
+        <line id="ILO" root="FLA_ILO" />
+        <line id="NOT_GANG_LEADER" root="FLA_NOT_GL" />
+        <line id="ARE_WANTED" root="FLA_WANTED" />
+        <line id="HAVE_BOUNTY" root="FLA_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="FLA_M_COOLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="FLA_COOLDOWN" />
+        <line id="NO_MISSION" root="FLA_NO_AVAIL" />
+        <line id="ON_STREAK" root="FLA_STREAK" />
+        <line id="ACCEPT_GENERIC" root="FLA_ACCEPT" />
+        <line id="MISSION_LOCKED" root="FLA_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="FLA_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="FLA_H_LOW" />
+        <line id="POSSE_SMALL" root="FLA_POSSE_SMALL" />
+        <line id="AGGRESSIVE_GENERAL" root="FLA_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="FLA_ACT_AGG" />
+        <line id="SHOOT" root="FLA_SHOOT" />
+        <line id="AIM" root="FLA_AIM" />
+        <line id="PUSH" root="FLA_PUSH" />
+        <line id="ESCALATE" root="FLA_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="FLA_LEAVE" />
+        <line id="LEFT_NO_MISSION" root="MGFLA_BYE" />
+        <line id="IDLE_TAKE_PAPER" root="MGFLA_TAKEPAPER" />
+      </type>
+      <type id="dialogue_assassination_lake_isa">
+        <line id="ACCEPT_MISSION" root="MGFLA_ATR_ISA_A" />
+        <line id="FOLLOW_UP" root="MGFLA_ATR_ISA_B" />
+      </type>
+      <type id="dialogue_oth_grizzlies">
+        <line id="ACCEPT_MISSION" root="MGFLA_IG2_JB3" />
+      </type>
+      <type id="dialogue_destroy_colter">
+        <line id="ACCEPT_MISSION" root="MGFLA_DS_COLT" />
+      </type>
+      <type id="dialogue_destroy_ambarino">
+        <line id="ACCEPT_MISSION" root="MGFLA_DS_GRIZ" />
+      </type>
+      <type id="dialogue_assassination_ambarino">
+        <line id="ACCEPT_MISSION" root="MGFLA_ATR_AMB_A" />
+        <line id="FOLLOW_UP" root="MGFLA_ATR_AMB_B" />
+      </type>
+      <type id="dialogue_player_assassination">
+        <line id="ACCEPT_MISSION" root="MGFLA_IG2_JB1" />
+      </type>
+      <type id="dialogue_posse_assassination">
+        <line id="ACCEPT_MISSION" root="MGFLA_ASN_PSE_A" />
+        <line id="FOLLOW_UP" root="MGFLA_ASN_PSE_B" />
+      </type>
+      <type id="dialogue_oth_colter">
+        <line id="ACCEPT_MISSION" root="MGFLA_OH_COLT" />
+      </type>
+      <type id="dialogue_steal_horses_colter">
+        <line id="ACCEPT_MISSION" root="MGFLA_G2_OUT" />
+      </type>
+      <type id="dialogue_breakout_grizzlies">
+        <line id="ACCEPT_MISSION" root="MGFLA_WB_GRIZ" />
+      </type>
+      <type id="dialogue_breakout_colter_to_wallace">
+        <line id="ACCEPT_MISSION" root="MGFLA_WB_HGN_A" />
+        <line id="FOLLOW_UP" root="MGFLA_WB_HGN_B" />
+      </type>
+      <type id="dialogue_coach_holdup_millesani">
+        <line id="ACCEPT_MISSION" root="MGFLA_IG2_JB2" />
+      </type>
+      <type id="dialogue_steal_boat_window_rock_s">
+        <line id="ACCEPT_MISSION" root="MGFLA_SB_WRS" />
+      </type>
+      <type id="dialogue_coach_holdup_ambarino">
+        <line id="ACCEPT_MISSION" root="MGFLA_CH_AMB" />
+      </type>
+      <type id="dialogue_generic_1">
+        <line id="ACCEPT_MISSION" root="MGFLA_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_2">
+        <line id="ACCEPT_MISSION" root="MGFLA_G2_OUT" />
+      </type>
+      <type id="dialogue_generic_3">
+        <line id="ACCEPT_MISSION" root="MGFLA_G3_OUT" />
+      </type>
+      <type id="dialogue_generic_4">
+        <line id="ACCEPT_MISSION" root="MGFLA_IG2_JB4" />
+      </type>
+    </giver>
+    <giver giver="ANTHONY_FOREMAN" UNK_5BB656FE="MGFORAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_GENERIC" root="" />
+        <line id="APPROACH_LAST_PASSED" root="MGFOR_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="MGFOR_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="MGFOR_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="APPROACH_INTRO_PLAYED" root="GHAF9_FIRST_GFH" />
+        <line id="RETURN_WITH_OBJECTIVE" root="MGFOR_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="MGFOR_R_WO_OBJ" />
+        <line id="LOCKED" root="MGFOR_LOCKED" />
+        <line id="APPROACH_NO_OUTLAW_INTRO" root="GHAF9_NO_INT" />
+        <line id="APPROACH_OUTLAW_INTRO" root="GHAF9_POST_INT" />
+        <line id="APPROACH_LAST_PASSED_O" root="GHAF9_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED_O" root="GHAF9_FAILED_LM" />
+        <line id="APPROACH_LAST_PASSED_O_SDD" root="GHAF9_PASS_SSD" />
+        <line id="APPROACH_LAST_PASSED_O_RWE" root="GHAF9_PASS_RWE" />
+        <line id="APPROACH_LAST_PASSED_O_DTC" root="GHAF9_PASS_DTC" />
+        <line id="APPROACH_LAST_PASSED_O_TWI" root="GHAF9_PASS_TWI" />
+        <line id="APPROACH_LAST_PASSED_O_CWR" root="GHAF9_PASS_CWR" />
+        <line id="APPROACH_LAST_PASSED_O_SDS" root="GHAF9_PASS_SDS" />
+        <line id="APPROACH_LAST_PASSED_O_GEN" root="GHAF9_PASS_GEN" />
+        <line id="APPROACH_BANDANA" root="GHAF9_BANDANA" />
+        <line id="APPROACH_LEGENDARY_HOOD" root="GHAF9_LEGENDH" />
+        <line id="APPROACH_XMAS" root="GHAF9_XMAS" />
+        <line id="APPROACH_HALLOWEEN" root="GHAF9_HALLOWEEN" />
+        <line id="APPROACH_LAST_FAILED_LOM" root="GHAF9_FAIL_LOM" />
+        <line id="APPROACH_LAST_PASSED_LOM_E" root="GHAF9_LOM_P_EAS" />
+        <line id="APPROACH_LAST_PASSED_LOM_M" root="GHAF9_LOM_P_MED" />
+        <line id="APPROACH_LAST_PASSED_LOM_H" root="GHAF9_LOM_P_HRD" />
+        <line id="APPROACH_LAST_PASSED_LOM_F" root="GHAF9_LOM_P_ANY" />
+        <line id="APPROACH_RETRY_LOM" root="GHAF9_LOM_RETRY" />
+        <line id="APPROACH_OUTLAW_STREAK" root="GHAF9_STREAK" />
+        <line id="APPROACH_NEW_MISSION" root="GHAF9_NEW_ANYMI" />
+        <line id="APPROACH_NEW_FLOW" root="GHAF9_NEW_FROUT" />
+        <line id="APPROACH_NEW_LOM_TRAIN" root="GHAF9_LOM_AV_TR" />
+        <line id="APPROACH_NEW_LOM_INDUSTRY" root="GHAF9_LOM_AV_IR" />
+        <line id="APPROACH_NEW_LOM_SALOON" root="GHAF9_LOM_AV_SD" />
+        <line id="APPROACH_NEW_LOM_GEN" root="GHAF9_LOM_AV" />
+        <line id="APPROACH_NEW_LOM_FIRST" root="GHAF9_LOM_AV_F" />
+        <line id="IDLE_OUTLAW" root="GHAF9_IDLE" />
+        <line id="PASS_NEAR" root="MGFOR_PASS" />
+        <line id="FAIL_NEAR" root="MGFOR_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="MGFOR_IDLE_TIME" />
+        <line id="IDLE_ON_MISSION" root="MGFOR_IDLE" />
+        <line id="ILO" root="MGFOR_ILO" />
+        <line id="NOT_GANG_LEADER" root="MGFOR_NOT_GL" />
+        <line id="ARE_WANTED" root="MGFOR_WANTED" />
+        <line id="HAVE_BOUNTY" root="MGFOR_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="MGFOR_M_CLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="MGFOR_COOLDOWN" />
+        <line id="NO_MISSION" root="MGFOR_NO_AVAIL" />
+        <line id="ON_STREAK" root="MGFOR_STREAK" />
+        <line id="OUTLAW_MENU_FIRST" root="GHAF9_GFH_AC_ME" />
+        <line id="GFH_MENU" root="GHAF9_GFH_MENU" />
+        <line id="OUTLAW_MENU" root="GHAF9_OUT_MENU" />
+        <line id="SCROLL_LOM_AVAILABLE" root="GHAF9_SCROLL" />
+        <line id="SCROLL_LOM_UNAVAILABLE" root="GHAF9_SCROLL_UN" />
+        <line id="GFH_MENU_IDLE" root="GHAF9_GFH_IDLE" />
+        <line id="OUTLAW_MENU_IDLE">
+          <UNK_1FD76A8B root="GHAF9_OUT_IDLE" />
+          <UNK_1FD76A8B root="GHAF9_OUT_IDLE2" />
+          <UNK_1FD76A8B root="GHAF9_OUT_IDLE3" />
+          <UNK_1FD76A8B root="GHAF9_OUT_IDLE4" />
+          <UNK_1FD76A8B root="GHAF9_OUT_IDLE5" />
+          <UNK_1FD76A8B root="GHAF9_OUT_IDLE6" />
+          <UNK_1FD76A8B root="GHAF9_OUT_IDLE7" />
+        </line>
+        <line id="LOM_MENU_IDLE" root="GHAF9_LOM_IDLE" />
+        <line id="OUTLAW_MENU_COOLDOWN" root="GHAF9_OUT_UNAV" />
+        <line id="LOM_MENU_COOLDOWN" root="GHAF9_LOM_UNAV" />
+        <line id="LOM_MENU_CAPITALE" root="GHAF9_LOM_CAPIT" />
+        <line id="OUTLAW_MENU_NEW_FLOW" root="GHAF9_OUT_AVAIL" />
+        <line id="LOM_MENU_NEW_GEN" root="GHAF9_LOM_AVA" />
+        <line id="ACCEPT_GENERIC" root="MGFOR_ACCEPT" />
+        <line id="MISSION_LOCKED" root="MGFOR_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="MGFOR_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="MGFOR_H_LOW" />
+        <line id="POSSE_SMALL" root="MGFOR_PSSE_SML" />
+        <line id="AGGRESSIVE_GENERAL" root="MGTIL_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="MGFOR_ACT_AGG" />
+        <line id="SHOOT" root="MGFOR_SHOOT" />
+        <line id="AIM" root="MGFOR_AIM" />
+        <line id="PUSH" root="MGFOR_PUSH" />
+        <line id="ESCALATE" root="MGFOR_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="MGFOR_LEAVE" />
+        <line id="LEFT_NO_MISSION" root="MGFOR_LEAVEN" />
+        <line id="FAREWELL" root="GHAF9_FAREWELL" />
+        <line id="IDLE_TAKE_PAPER" root="MGFOR_TAKEP" />
+      </type>
+      <type id="dialogue_player_assassination">
+        <line id="ACCEPT_MISSION" root="MGFOR_ASN_PLYRA" />
+        <line id="FOLLOW_UP" root="MGFOR_ASN_PLYRB" />
+      </type>
+      <type id="dialogue_assassination_std_wedding">
+        <line id="ACCEPT_MISSION" root="MGFOR_ASN_SDWA" />
+        <line id="FOLLOW_UP" root="MGFOR_ASN_SDWB" />
+      </type>
+      <type id="dialogue_assassination_std_police">
+        <line id="ACCEPT_MISSION" root="MGFOR_ASN_SDPA" />
+        <line id="FOLLOW_UP" root="MGFOR_ASN_SDPB" />
+      </type>
+      <type id="dialogue_assassination_std_graveyard">
+        <line id="ACCEPT_MISSION" root="MGFOR_ASN_SDGA" />
+        <line id="FOLLOW_UP" root="MGFOR_ASN_SDGB" />
+      </type>
+      <type id="dialogue_coach_holdup_rhodes_robbery">
+        <line id="ACCEPT_MISSION" root="MGFOR_CH_RHOA" />
+        <line id="FOLLOW_UP" root="MGFOR_CH_RHOB" />
+      </type>
+      <type id="dialogue_coach_holdup_caliga_robbery">
+        <line id="ACCEPT_MISSION" root="MGFOR_CH_CALA" />
+        <line id="FOLLOW_UP" root="MGFOR_CH_CALB" />
+      </type>
+      <type id="dialogue_destroy_std">
+        <line id="ACCEPT_MISSION" root="MGFOR_DS_STDA" />
+        <line id="FOLLOW_UP" root="MGFOR_DS_STDB" />
+      </type>
+      <type id="dialogue_destroy_greenbank">
+        <line id="ACCEPT_MISSION" root="MGFOR_G2_OUT" />
+      </type>
+      <type id="dialogue_destroy_clemens_point">
+        <line id="ACCEPT_MISSION" root="MGFOR_G2_OUT" />
+      </type>
+      <type id="dialogue_destroy_bolger">
+        <line id="ACCEPT_MISSION" root="MGFOR_DS_CIVA" />
+        <line id="FOLLOW_UP" root="MGFOR_DS_CIVB" />
+      </type>
+      <type id="dialogue_destroy_oilfield">
+        <line id="ACCEPT_MISSION" root="MGFOR_DS_OILA" />
+        <line id="FOLLOW_UP" root="MGFOR_DS_OILB" />
+      </type>
+      <type id="dialogue_destroy_macombs_end">
+        <line id="ACCEPT_MISSION" root="MGFOR_DM_MCMA" />
+        <line id="FOLLOW_UP" root="MGFOR_DM_MCMB" />
+      </type>
+      <type id="dialogue_destroy_crawdad_willies">
+        <line id="ACCEPT_MISSION" root="MGFOR_DM_CRWA" />
+        <line id="FOLLOW_UP" root="MGFOR_DM_CRWB" />
+      </type>
+      <type id="dialogue_intercept_std_to_mac">
+        <line id="ACCEPT_MISSION" root="MGFOR_IN_MACA" />
+        <line id="FOLLOW_UP" root="MGFOR_IN_MACB" />
+      </type>
+      <type id="dialogue_intercept_std_to_pleasance">
+        <line id="ACCEPT_MISSION" root="MGFOR_IN_PLSA" />
+        <line id="FOLLOW_UP" root="MGFOR_IN_PLSB" />
+      </type>
+      <type id="dialogue_intercept_rhodes_to_greenbank">
+        <line id="ACCEPT_MISSION" root="MGFOR_IN_GRNA" />
+        <line id="FOLLOW_UP" root="MGFOR_IN_GRNB" />
+      </type>
+      <type id="dialogue_prisoner_assassination_lagras">
+        <line id="ACCEPT_MISSION" root="MGFOR_PAS_LAGA" />
+        <line id="FOLLOW_UP" root="MGFOR_PAS_LAGB" />
+      </type>
+      <type id="dialogue_prisoner_assassination_emerald">
+        <line id="ACCEPT_MISSION" root="MGFOR_PAS_EMRA" />
+        <line id="FOLLOW_UP" root="MGFOR_PAS_EMRB" />
+      </type>
+      <type id="dialogue_rescue_std_dogfight">
+        <line id="ACCEPT_MISSION" root="MGFOR_RV_SDDA" />
+        <line id="FOLLOW_UP" root="MGFOR_RV_SDDB" />
+      </type>
+      <type id="dialogue_rescue_vip_scarlett">
+        <line id="ACCEPT_MISSION" root="MGFOR_RV_WSMA" />
+        <line id="FOLLOW_UP" root="MGFOR_RV_WSMB" />
+      </type>
+      <type id="dialogue_steal_wagon_std_docks">
+        <line id="ACCEPT_MISSION" root="MGFOR_SW_SDKA" />
+        <line id="FOLLOW_UP" root="MGFOR_SW_SDKB" />
+      </type>
+      <type id="dialogue_steal_wagon_lakay">
+        <line id="ACCEPT_MISSION" root="MGFOR_SW_LAKA" />
+        <line id="FOLLOW_UP" root="MGFOR_SW_LAKB" />
+      </type>
+      <type id="dialogue_posse_assassination">
+        <line id="ACCEPT_MISSION" root="MGFOR_JB_PO_ASN" />
+      </type>
+      <type id="dialogue_destroy_caliga">
+        <line id="ACCEPT_MISSION" root="MGFOR_JB_DESTS" />
+      </type>
+      <type id="dialogue_jailbreak_std">
+        <line id="ACCEPT_MISSION" root="MGFOR_JB_JAILB" />
+      </type>
+      <type id="dialogue_coach_holdup_valentine">
+        <line id="ACCEPT_MISSION" root="MGFOR_JB_GEN" />
+      </type>
+      <type id="dialogue_steal_horse_caliga">
+        <line id="ACCEPT_MISSION" root="MGFOR_JB_GEN" />
+      </type>
+      <type id="dialogue_railway_expansion_0">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_RW1" />
+      </type>
+      <type id="dialogue_railway_expansion_1">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_RW2" />
+      </type>
+      <type id="dialogue_railway_expansion_2">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_RW3" />
+      </type>
+      <type id="dialogue_saint_denis_docks_0">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_SD1" />
+      </type>
+      <type id="dialogue_saint_denis_docks_1">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_SD2" />
+      </type>
+      <type id="dialogue_saint_denis_docks_2">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_SD3" />
+      </type>
+      <type id="dialogue_town_intimidation_0">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_TI1" />
+      </type>
+      <type id="dialogue_town_intimidation_1">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_TI2" />
+      </type>
+      <type id="dialogue_town_intimidation_2">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_TI3" />
+      </type>
+      <type id="dialogue_debt_collection_0">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_DC1" />
+      </type>
+      <type id="dialogue_debt_collection_1">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_DC2" />
+      </type>
+      <type id="dialogue_debt_collection_2">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_DC3" />
+      </type>
+      <type id="dialogue_cornwall_robbery_0">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_CR1" />
+      </type>
+      <type id="dialogue_cornwall_robbery_1">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_CR2" />
+      </type>
+      <type id="dialogue_cornwall_robbery_2">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_CR3" />
+      </type>
+      <type id="dialogue_saint_denis_saloons_0">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_SS1" />
+      </type>
+      <type id="dialogue_saint_denis_saloons_1">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_SS2" />
+      </type>
+      <type id="dialogue_saint_denis_saloons_2">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_FW_SS3" />
+      </type>
+      <type id="dialogue_single_payroll_robbery">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_LO_IP1" />
+      </type>
+      <type id="dialogue_single_recovery">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_LO_RE1" />
+      </type>
+      <type id="dialogue_single_steal_wagon">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_LO_SW1" />
+      </type>
+      <type id="dialogue_homestead_robbery_0">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_LO_HR1" />
+      </type>
+      <type id="dialogue_homestead_robbery_1">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_LO_HR2" />
+      </type>
+      <type id="dialogue_homestead_robbery_2">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_LO_HR3" />
+      </type>
+      <type id="dialogue_camp_robbery_0">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_LO_WC1" />
+      </type>
+      <type id="dialogue_camp_robbery_1">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_LO_WC2" />
+      </type>
+      <type id="dialogue_camp_robbery_2">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_LO_WC3" />
+      </type>
+      <type id="dialogue_outlaw_coach_holdup_0">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_LO_CH1" />
+      </type>
+      <type id="dialogue_outlaw_coach_holdup_1">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_LO_CH2" />
+      </type>
+      <type id="dialogue_outlaw_coach_holdup_2">
+        <line id="ACCEPT_MISSION" root="GHAF9_JB_LO_CH2" />
+      </type>
+      <type id="dialogue_legendary_outlaw_industry">
+        <line id="ACCEPT_UGC_MISSION" root="GHAF9_JB_LOM_GN" />
+      </type>
+      <type id="dialogue_legendary_outlaw_saloon">
+        <line id="ACCEPT_UGC_MISSION" root="GHAF9_JB_LOM_G2" />
+      </type>
+      <type id="dialogue_legendary_outlaw_train">
+        <line id="ACCEPT_UGC_MISSION" root="GHAF9_JB_LOM_G3" />
+      </type>
+      <type id="dialogue_generic_1">
+        <line id="ACCEPT_MISSION" root="MGFOR_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_2">
+        <line id="ACCEPT_MISSION" root="MGFOR_G2_OUT" />
+      </type>
+      <type id="dialogue_generic_3">
+        <line id="ACCEPT_MISSION" root="MGFOR_G3_OUT" />
+      </type>
+      <type id="dialogue_generic_4">
+        <line id="ACCEPT_MISSION" root="MGFOR_G4_OUT" />
+      </type>
+      <type id="dialogue_generic_5">
+        <line id="ACCEPT_MISSION" root="MGFOR_JB_GEN" />
+      </type>
+    </giver>
+    <giver giver="STR_Freight_Clerk" UNK_5BB656FE="MGSTCAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_GENERIC" root="MGSTC_FIRSTTIME" />
+        <line id="APPROACH_LAST_PASSED" root="STC_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="STC_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="MGSTC_GREET" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="RETURN_WITH_OBJECTIVE" root="STC_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="STC_R_WO_OBJ" />
+        <line id="LOCKED" root="STC_LOCKED" />
+        <line id="IDLE_PRIOR" root="MGSTC_WANTJOB" />
+        <line id="PASS_NEAR" root="STC_PASS" />
+        <line id="FAIL_NEAR" root="STC_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="MGSTC_IDLETIME" />
+        <line id="IDLE_ON_MISSION" root="STC_IDLE" />
+        <line id="IDLE_ILO" root="" />
+        <line id="ILO" root="STC_ILO" />
+        <line id="ILO_FIRST_M" root="MGSTC_INTRO2" />
+        <line id="ILO_FIRST_F" root="MGSTC_INTRO1" />
+        <line id="ILO_FIRST" root="STC_APPR_FIRST" />
+        <line id="NOT_GANG_LEADER" root="STC_NOT_GL" />
+        <line id="ARE_WANTED" root="STC_WANTED" />
+        <line id="HAVE_BOUNTY" root="STC_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="STC_M_COOLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="STC_COOLDOWN" />
+        <line id="NO_MISSION" root="STC_NO_AVAIL" />
+        <line id="ON_STREAK" root="STC_STREAK" />
+        <line id="ACCEPT_GENERIC" root="STC_ACCEPT" />
+        <line id="MISSION_LOCKED" root="STC_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="STC_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="STC_H_LOW" />
+        <line id="POSSE_SMALL" root="STC_POSSE_SMALL" />
+        <line id="AGGRESSIVE_GENERAL" root="MGSTC_AGGREFUSE" />
+        <line id="AGGRESSIVE_TO_GIVER" root="MGSTC_AGGRESS" />
+        <line id="SHOOT" root="STC_SHOOT" />
+        <line id="AIM" root="STC_AIM" />
+        <line id="PUSH" root="STC_PUSH" />
+        <line id="ESCALATE" root="MGSTC_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="MGSTC_LEAVE" />
+        <line id="LEFT_NO_MISSION" root="MGSTC_LEAVEN" />
+        <line id="IDLE_TAKE_PAPER" root="MGSTC_TAKEP" />
+      </type>
+      <type id="dialogue_convoy_escort_benedict_rath">
+        <line id="ACCEPT_MISSION" root="MGSTC_CE_RATH" />
+      </type>
+      <type id="dialogue_convoy_escort_benedict_tumb">
+        <line id="ACCEPT_MISSION" root="MGSTC_CE_TUM" />
+      </type>
+      <type id="dialogue_convoy_escort_blackwater_manz">
+        <line id="ACCEPT_MISSION" root="MGSTC_CE_MANZ" />
+      </type>
+      <type id="dialogue_convoy_escort_blackwater_theiv">
+        <line id="ACCEPT_MISSION" root="MGSTC_CE_TLAN" />
+      </type>
+      <type id="dialogue_convoy_escort_riggs_black">
+        <line id="ACCEPT_MISSION" root="MGSTC_CE_BLW" />
+      </type>
+      <type id="dialogue_convoy_escort_riggs_straw">
+        <line id="ACCEPT_MISSION" root="MGSTC_CE_STR" />
+      </type>
+      <type id="dialogue_delivery_benedict_multi_1">
+        <line id="ACCEPT_MISSION" root="MGSTC_DM_BENA" />
+      </type>
+      <type id="dialogue_delivery_benedict_multi_2">
+        <line id="ACCEPT_MISSION" root="MGSTC_DM_BENB" />
+      </type>
+      <type id="dialogue_delivery_riggs_multi_1">
+        <line id="ACCEPT_MISSION" root="MGSTC_DM_RIGA" />
+      </type>
+      <type id="dialogue_delivery_riggs_multi_2">
+        <line id="ACCEPT_MISSION" root="MGSTC_DM_RIGB" />
+      </type>
+      <type id="dialogue_delivery_strawberry_multi_1">
+        <line id="ACCEPT_SINGLE_OBJECTIVE" root="MGSTC_DRM_STAS" />
+        <line id="ACCEPT_MULTIPLE_OBJECTIVE" root="MGSTC_DRM_STAM" />
+      </type>
+      <type id="dialogue_delivery_strawberry_multi_2">
+        <line id="ACCEPT_SINGLE_OBJECTIVE" root="MGSTC_DRM_STBS" />
+        <line id="ACCEPT_MULTIPLE_OBJECTIVE" root="MGSTC_DRM_STBM" />
+      </type>
+      <type id="dialogue_oth_hanging">
+        <line id="ACCEPT_MISSION" root="MGSTC_OH_HRCK" />
+      </type>
+      <type id="dialogue_oth_solomon">
+        <line id="ACCEPT_MISSION" root="MGSTC_OH_SOLO" />
+      </type>
+      <type id="dialogue_delivery_black_relay_1">
+        <line id="ACCEPT_MISSION" root="MGSTC_DRE_BLWA" />
+      </type>
+      <type id="dialogue_delivery_black_relay_2">
+        <line id="ACCEPT_MISSION" root="MGSTC_DRE_BLWB" />
+      </type>
+      <type id="dialogue_repo_west_tall_trees">
+        <line id="ACCEPT_MISSION" root="MGSTC_RW_TALL" />
+      </type>
+      <type id="dialogue_repo_great_plains">
+        <line id="ACCEPT_MISSION" root="MGSTC_RW_GPLN" />
+      </type>
+      <type id="dialogue_repo_hanging_dog">
+        <line id="ACCEPT_MISSION" root="MGSTC_RW_HDR" />
+      </type>
+      <type id="dialogue_repo_black_bone">
+        <line id="ACCEPT_MISSION" root="MGSTC_RW_BBNE" />
+      </type>
+      <type id="dialogue_resupply_bwater_tanners">
+        <line id="ACCEPT_MISSION" root="MGSTC_RE_TANN" />
+      </type>
+      <type id="dialogue_resupply_bwater_thieves">
+        <line id="ACCEPT_MISSION" root="MGSTC_RE_TLAN" />
+      </type>
+      <type id="dialogue_repo_boat_up_montana">
+        <line id="ACCEPT_SINGLE_OBJECTIVE" root="MGSTC_RB_MRIVS" />
+        <line id="ACCEPT_MULTIPLE_OBJECTIVE" root="MGSTC_RB_MRIVM" />
+      </type>
+      <type id="dialogue_repo_boat_bards">
+        <line id="ACCEPT_SINGLE_OBJECTIVE" root="MGSTC_RB_BRDS" />
+        <line id="ACCEPT_MULTIPLE_OBJECTIVE" root="MGSTC_RB_BRDM" />
+      </type>
+      <type id="dialogue_wagon_th_riggs_straw">
+        <line id="ACCEPT_MISSION" root="MGSTC_WT_STR" />
+      </type>
+      <type id="dialogue_wagon_th_wall_lilcrk">
+        <line id="ACCEPT_MISSION" root="MGSTC_WT_LCRK" />
+      </type>
+      <type id="dialogue_generic_1">
+        <line id="ACCEPT_MISSION" root="MGSTC_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_2">
+        <line id="ACCEPT_MISSION" root="MGSTC_G2_OUT" />
+      </type>
+      <type id="dialogue_generic_3">
+        <line id="ACCEPT_MISSION" root="MGSTC_G3_OUT" />
+      </type>
+      <type id="dialogue_generic_4">
+        <line id="ACCEPT_MISSION" root="MGSTC_G4_OUT" />
+      </type>
+      <type id="dialogue_generic_5">
+        <line id="ACCEPT_MISSION" root="MGSTC_G5_OUT" />
+      </type>
+    </giver>
+    <giver giver="BONNIE" UNK_5BB656FE="MGBONAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_GENERIC" root="MGBON_PREINT" />
+        <line id="APPROACH_LAST_PASSED" root="MGBON_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="MGBON_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="MGBON_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="RETURN_WITH_OBJECTIVE" root="MGBON_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="MGBON_R_WO_OBJ" />
+        <line id="LOCKED" root="MGBON_LOCKED" />
+        <line id="IDLE_PRIOR" root="" />
+        <line id="PASS_NEAR" root="MGBON_PASS" />
+        <line id="FAIL_NEAR" root="MGBON_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="MGBON_IDLE_TIME" />
+        <line id="IDLE_ON_MISSION" root="MGBON_IDLE" />
+        <line id="ILO" root="MGBON_ILO" />
+        <line id="NOT_GANG_LEADER" root="MGBON_NOT_GL" />
+        <line id="ARE_WANTED_MALE" root="MGBON_WANTED2" />
+        <line id="ARE_WANTED_FEMALE" root="MGBON_WANTED1" />
+        <line id="HAVE_BOUNTY" root="MGBON_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="MGBON_M_CLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="MGBON_COOLDOWN" />
+        <line id="NO_MISSION" root="MGBON_NO_AVAIL" />
+        <line id="ON_STREAK" root="MGBON_STREAK" />
+        <line id="ACCEPT_GENERIC" root="MGBON_ACCEPT" />
+        <line id="MISSION_LOCKED" root="MGBON_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="MGBON_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="MGBON_H_LOW" />
+        <line id="POSSE_SMALL" root="MGBON_PSSE_SML" />
+        <line id="AGGRESSIVE_GENERAL" root="MGBON_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="MGBON_ACT_AGG" />
+        <line id="SHOOT" root="MGBON_SHOOT" />
+        <line id="AIM" root="MGBON_AIM" />
+        <line id="PUSH" root="MGBON_PUSH" />
+        <line id="ESCALATE" root="MGBON_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="MGBON_LEAVE" />
+        <line id="IDLE_TAKE_PAPER" root="MGBON_TAKEP" />
+        <line id="LEFT_NO_MISSION" root="MGBON_LEAVEN" />
+      </type>
+      <type id="dialogue_delivery_multibag_macfarlane">
+        <line id="ACCEPT_MISSION" root="MGBON_JB_DMB" />
+      </type>
+      <type id="dialogue_delivery_multibag_macfarlane2">
+        <line id="ACCEPT_MISSION" root="MGBON_DMB_MCF" />
+      </type>
+      <type id="dialogue_convoy_macfarlane_theives">
+        <line id="ACCEPT_MISSION" root="MGBON_CE_TLAN" />
+      </type>
+      <type id="dialogue_convoy_macfarlane_ridge">
+        <line id="ACCEPT_MISSION" root="MGBON_CE_RIDG" />
+      </type>
+      <type id="dialogue_on_the_hunt_brittle">
+        <line id="ACCEPT_MISSION" root="MGBON_OH_BRIT" />
+      </type>
+      <type id="dialogue_oth_hanging">
+        <line id="ACCEPT_MISSION" root="MGBON_OH_HANG" />
+      </type>
+      <type id="dialogue_on_the_hunt_stillwater">
+        <line id="ACCEPT_MISSION" root="MGBON_OG_STIL" />
+      </type>
+      <type id="dialogue_repo_boat_quakers">
+        <line id="ACCEPT_MISSION" root="MGBON_RB_QKRS" />
+      </type>
+      <type id="dialogue_repo_wagon_hennigans">
+        <line id="ACCEPT_MISSION" root="MGBON_RW_HENN" />
+      </type>
+      <type id="dialogue_recover_menteca">
+        <line id="ACCEPT_MISSION" root="MGBON_RE_MFAL" />
+      </type>
+      <type id="dialogue_recover_pikes">
+        <line id="ACCEPT_MISSION" root="MGBON_RE_PIKE" />
+      </type>
+      <type id="dialogue_repo_boat_low_montana">
+        <line id="ACCEPT_MISSION" root="MGBON_RB_LMR" />
+      </type>
+      <type id="dialogue_on_the_hunt_north_macfarlane">
+        <line id="ACCEPT_MISSION" root="MGBON_JB_OTH" />
+      </type>
+      <type id="dialogue_repo_brittle">
+        <line id="ACCEPT_MISSION" root="MGBON_JB_RW" />
+      </type>
+      <type id="dialogue_generic_job_1">
+        <line id="ACCEPT_MISSION" root="MGBON_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_job_2">
+        <line id="ACCEPT_MISSION" root="MGBON_G2_OUT" />
+      </type>
+      <type id="dialogue_generic_job_3">
+        <line id="ACCEPT_MISSION" root="MGBON_G3_OUT" />
+      </type>
+      <type id="dialogue_generic_job_4">
+        <line id="ACCEPT_MISSION" root="MGBON_G4_OUT" />
+      </type>
+      <type id="dialogue_generic_job_5">
+        <line id="ACCEPT_MISSION" root="MGBON_JB_GENT" />
+      </type>
+    </giver>
+    <giver giver="CLERK_A" UNK_5BB656FE="MGCLAAU">
+      <type id="dialogue_giver">
+        <line id="APPROACH_NEW_GENERIC" root="MGCLA_APP_FIRST">
+          <location id="GFH_WALLACE_TRAIN_STATION" root="MGCLA_FIRST_WLS" />
+          <location id="GFH_SAINT_DENIS_TRAIN_STATION" root="MGCLA_FIRST_STD" />
+          <location id="GFH_EMERALD_RANCH_TRAIN_STATION" root="MGCLA_FIRST_EMR" />
+        </line>
+        <line id="APPROACH_LAST_PASSED" root="MGCLA_PASSED_LM" />
+        <line id="APPROACH_LAST_FAILED" root="MGCLA_FAILED_LM" />
+        <line id="APPROACH_GENERIC" root="MGCLA_APPROACH" />
+        <line id="APPROACH_INTRO_FAILED" root="" />
+        <line id="APPROACH_INTRO_PASSED" root="" />
+        <line id="RETURN_WITH_OBJECTIVE" root="MGCLA_R_W_OBJ" />
+        <line id="RETURN_WITHOUT_OBJECTIVE" root="MGCLA_R_WO_OBJ" />
+        <line id="LOCKED" root="MGCLA_LOCKED" />
+        <line id="IDLE_PRIOR" root="MGCLA_WORK" />
+        <line id="PASS_NEAR" root="MGCLA_PASS" />
+        <line id="FAIL_NEAR" root="MGCLA_FAIL" />
+        <line id="IDLE_TIME_RUNNING_OUT_NEAR" root="MGCLA_IDLETIME" />
+        <line id="IDLE_ON_MISSION" root="MGCLA_IDLE" />
+        <line id="ILO" root="MGCLA_ILO" />
+        <line id="ILO_FIRST" root="MGCLA_PREINTRO" />
+        <line id="NOT_GANG_LEADER" root="MGCLA_NOT_GL" />
+        <line id="ARE_WANTED" root="MGCLA_WANTED" />
+        <line id="HAVE_BOUNTY" root="MGCLA_BOUNTY" />
+        <line id="GIVER_COOLDOWN" root="MGCLA_M_CLDOWN" />
+        <line id="GIVER_AGGRO_COOLDOWN" root="MGCLA_COOLDOWN" />
+        <line id="NO_MISSION" root="MGCLA_NO_AVAIL" />
+        <line id="ON_STREAK" root="MGCLA_STREAK" />
+        <line id="ACCEPT_GENERIC" root="MGCLA_ACCEPT" />
+        <line id="MISSION_LOCKED" root="MGCLA_M_LOCKED" />
+        <line id="HONOR_TOO_HIGH" root="MGCLA_H_HIGH" />
+        <line id="HONOR_TOO_LOW" root="MGCLA_H_LOW" />
+        <line id="POSSE_SMALL" root="MGCLA_POSSE_SML" />
+        <line id="AGGRESSIVE_GENERAL" root="MGCLA_AGGRESS" />
+        <line id="AGGRESSIVE_TO_GIVER" root="MGCLA_ACT_AGG" />
+        <line id="SHOOT" root="MGCLA_SHOOT" />
+        <line id="AIM" root="MGCLA_AIM" />
+        <line id="PUSH" root="MGCLA_PUSH" />
+        <line id="ESCALATE" root="MGCLA_ESCALATE" />
+        <line id="TELL_TO_LEAVE" root="MGCLA_LEAVE" />
+        <line id="IDLE_TAKE_PAPER" root="MGCLA_TAKEP" />
+        <line id="LEFT_NO_MISSION" root="MGCLA_LEAVEN" />
+      </type>
+      <type id="dialogue_convoy_escort_emerald_compson">
+        <line id="ACCEPT_MISSION" root="MGCLA_CE_COMP" />
+      </type>
+      <type id="dialogue_convoy_escort_emerald_rhodes">
+        <line id="ACCEPT_MISSION" root="MGCLA_CE_RHO" />
+      </type>
+      <type id="dialogue_convoy_escort_stdenis_caliga">
+        <line id="ACCEPT_MISSION" root="MGCLA_CE_CALI" />
+      </type>
+      <type id="dialogue_convoy_escort_stdenis_braithwaite">
+        <line id="ACCEPT_MISSION" root="MGCLA_CE_BRT" />
+      </type>
+      <type id="dialogue_delivery_relay_emerald_1">
+        <line id="ACCEPT_MISSION" root="MGCLA_DRE_EMRA" />
+      </type>
+      <type id="dialogue_delivery_relay_emerald_2">
+        <line id="ACCEPT_MISSION" root="MGCLA_DRE_EMRB" />
+      </type>
+      <type id="dialogue_delivery_relay_stdenis_1">
+        <line id="ACCEPT_MISSION" root="MGCLA_DRE_SD0" />
+      </type>
+      <type id="dialogue_delivery_relay_stdenis_2">
+        <line id="ACCEPT_MISSION" root="MGCLA_DRE_SD1" />
+      </type>
+      <type id="dialogue_resupply_emerald_ocreaghs">
+        <line id="ACCEPT_MISSION" root="MGCLA_RE_CIVIL" />
+      </type>
+      <type id="dialogue_oth_castors">
+        <line id="ACCEPT_MISSION" root="MGCLA_OH_CAST" />
+      </type>
+      <type id="dialogue_oth_shepherds">
+        <line id="ACCEPT_MISSION" root="MGCLA_OH_SHEP" />
+      </type>
+      <type id="dialogue_recover_big_valley_4">
+        <line id="ACCEPT_MISSION" root="MGCLA_REC_NBV" />
+      </type>
+      <type id="dialogue_recover_south_grizzlies_1">
+        <line id="ACCEPT_MISSION" root="MGCLA_REC_GRIZ" />
+      </type>
+      <type id="dialogue_wagon_thieves_scarlett_meadows_ne">
+        <line id="ACCEPT_MISSION" root="MGCLA_WT_SMNE" />
+      </type>
+      <type id="dialogue_wagon_th_wall_lilcrk">
+        <line id="ACCEPT_MISSION" root="MGCLA_WT_LCRK" />
+      </type>
+      <type id="dialogue_wagon_thieves_grizz_cumberland">
+        <line id="ACCEPT_MISSION" root="MGCLA_WT_CFALL" />
+      </type>
+      <type id="dialogue_wagon_thieves_std">
+        <line id="ACCEPT_MISSION" root="MGCLA_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_job_1">
+        <line id="ACCEPT_MISSION" root="MGCLA_G1_OUT" />
+      </type>
+      <type id="dialogue_generic_job_2">
+        <line id="ACCEPT_MISSION" root="MGCLA_G2_OUT" />
+      </type>
+      <type id="dialogue_generic_job_3">
+        <line id="ACCEPT_MISSION" root="MGCLA_G3_OUT" />
+      </type>
+      <type id="dialogue_generic_job_4">
+        <line id="ACCEPT_MISSION" root="MGCLA_G4_OUT" />
+      </type>
+    </giver>
+    <giver giver="CRIPPS" UNK_5BB656FE="TRADAUD">
+      <type id="dialogue_trader_failed_intro_relaunch">
+        <line id="ACCEPT_MISSION" root="TRAD_INT_FAIL1" />
+      </type>
+      <type id="dialogue_trader_resupply_chokepoint_1_2">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_CP1_2" />
+      </type>
+      <type id="dialogue_trader_resupply_chokepoint_3_1">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_CP3_1" />
+      </type>
+      <type id="dialogue_trader_resupply_chokepoint_3_3">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_CP3_3" />
+      </type>
+      <type id="dialogue_trader_resupply_stationary_supplies_2">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_STS2" />
+      </type>
+      <type id="dialogue_trader_resupply_moving_target_2">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_MOVT2" />
+      </type>
+      <type id="dialogue_trader_resupply_defend_against_wolves_2">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_DWOLF2" />
+      </type>
+      <type id="dialogue_trader_resupply_supply_train_3">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_SUPT3" />
+      </type>
+      <type id="dialogue_trader_resupply_broken_down_3">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_BRDW3" />
+      </type>
+      <type id="dialogue_trader_resupply_sheriffs_supplies_1">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_SHRS1" />
+      </type>
+      <type id="dialogue_trader_resupply_unloading_supplies_2">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_UNSP2" />
+      </type>
+      <type id="dialogue_trader_resupply_Defend_2">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_DEF2" />
+      </type>
+      <type id="dialogue_trader_resupply_defend_animal_2">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_DEFA2" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_generic_2">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_GN2" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_gator_skin">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_GTS" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_wolf_body">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_WFS" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_wolf_body_multi">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_WFM" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_cougar_body">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_CGM" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_bison_pelt">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_BSM" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_pigs">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_PGN" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_herbs">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_HBM" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_animals_2">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_AM2" />
+      </type>
+      <type id="dialogue_trader_sell_jb1_1">
+        <line id="ACCEPT_NEAR" root="TRAD_SL_NEAR1" />
+        <line id="ACCEPT_FAR" root="TRAD_SL_FAR2" />
+      </type>
+      <type id="dialogue_trader_sell_jb1_2">
+        <line id="ACCEPT_NEAR" root="TRAD_SL_NEAR3" />
+        <line id="ACCEPT_FAR" root="TRAD_SL_FAR4" />
+      </type>
+      <type id="dialogue_trader_sell_jb1_3">
+        <line id="ACCEPT_NEAR" root="TRAD_SL_NEAR3" />
+        <line id="ACCEPT_FAR" root="TRAD_SL_FAR5" />
+      </type>
+      <type id="dialogue_trader_failed_intro_relaunch_2">
+        <line id="ACCEPT_MISSION" root="TRAD_INT_FAIL2" />
+      </type>
+      <type id="dialogue_trader_resupply_chokepoint_1_2">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_CP1_2" />
+      </type>
+      <type id="dialogue_trader_resupply_chokepoint_3_2">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_CP3_2" />
+      </type>
+      <type id="dialogue_trader_resupply_chokepoint_3_3">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_CP2_3" />
+      </type>
+      <type id="dialogue_trader_resupply_stationary_supplies_3">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_STS3" />
+      </type>
+      <type id="dialogue_trader_resupply_moving_target_3">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_MOVT3" />
+      </type>
+      <type id="dialogue_trader_resupply_defend_against_wolves_3">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_DWOLF3" />
+      </type>
+      <type id="dialogue_trader_resupply_broken_down_1">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_BRDW1" />
+      </type>
+      <type id="dialogue_trader_resupply_chemical_wagon_2">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_CHEM2" />
+      </type>
+      <type id="dialogue_trader_resupply_sheriffs_supplies_2">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_SHRS2" />
+      </type>
+      <type id="dialogue_trader_resupply_defend_3">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_DEF3" />
+      </type>
+      <type id="dialogue_trader_resupply_defend_animal_3">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_DEFA3" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_generic_1">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_GN1" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_generic_3">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_GN3" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_bear_pelt">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_BRS" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_gator_skin">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_GTM" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_bear_pelt_multi">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_BRM" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_panther_body">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_PNM" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_birds">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_BDM" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_beaver">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_BVM" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_animals_generic_1">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_AM1" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_animals_generic_3">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_AM3" />
+      </type>
+      <type id="dialogue_trader_sell_jb2_1">
+        <line id="ACCEPT_NEAR" root="TRAD_SL_NEAR2" />
+        <line id="ACCEPT_FAR" root="TRAD_SL_FAR3" />
+      </type>
+      <type id="dialogue_trader_sell_jb2_2">
+        <line id="ACCEPT_NEAR" root="TRAD_SL_NEAR4" />
+        <line id="ACCEPT_FAR" root="TRAD_SL_FAR6" />
+      </type>
+      <type id="dialogue_trader_sell_jb2_2">
+        <line id="ACCEPT_NEAR" root="TRAD_SL_NEAR5" />
+        <line id="ACCEPT_FAR" root="TRAD_SL_FAR6" />
+      </type>
+      <type id="dialogue_trader_resupply_chokepoint_1_3">
+        <line id="ACCEPT_MISSION" root="TRAD_CP1_3" />
+      </type>
+      <type id="dialogue_trader_resupply_chokepoint_2_2">
+        <line id="ACCEPT_MISSION" root="TRAD_CP2_2" />
+      </type>
+      <type id="dialogue_trader_resupply_stationary_supplies_1">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_STS1" />
+      </type>
+      <type id="dialogue_trader_resupply_moving_target_1">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_MOVT1" />
+      </type>
+      <type id="dialogue_trader_resupply_defend_against_wolves_1">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_DWOLF1" />
+      </type>
+      <type id="dialogue_trader_resupply_supply_train_2">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_SUPT2" />
+      </type>
+      <type id="dialogue_trader_resupply_broken_down_2">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_BRDW2" />
+      </type>
+      <type id="dialogue_trader_resupply_chemical_wagon_3">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_CHEM3" />
+      </type>
+      <type id="dialogue_trader_resupply_sheriffs_supplies_3">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_SHRS3" />
+      </type>
+      <type id="dialogue_trader_resupply_unloading_supplies_1">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_UNSP1" />
+      </type>
+      <type id="dialogue_trader_resupply_unloading_supplies_3">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_UNSP3" />
+      </type>
+      <type id="dialogue_trader_resupply_defend_1">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_DEF1" />
+      </type>
+      <type id="dialogue_trader_resupply_defend_animals_1">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_DEFA1" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_cougar">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_CGS" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_panther_body">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_PNS" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_bison_pelt">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_BSS" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_deer">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_DRM" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_racoons">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_RCM" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_possum">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_PSM" />
+      </type>
+      <type id="dialogue_trader_resupply_trade_big_horn">
+        <line id="ACCEPT_MISSION" root="TRAD_RE_TRD_BHM" />
+      </type>
+      <type id="dialogue_trader_sell_jb3_1">
+        <line id="ACCEPT_NEAR" root="TRAD_SL_NEAR6" />
+        <line id="ACCEPT_FAR" root="TRAD_SL_FAR1" />
+      </type>
+    </giver>
+    <giver giver="MAGGIE" UNK_5BB656FE="MAGGAUD">
+      <type id="dialogue_moon2_intro">
+        <line id="ACCEPT_MISSION" root="MAGG_STORY2" />
+      </type>
+      <type id="dialogue_moon3_intro">
+        <line id="ACCEPT_MISSION" root="MAGG_STORY3" />
+      </type>
+      <type id="dialogue_moon4_intro">
+        <line id="ACCEPT_MISSION" root="MAGG_STORY4" />
+      </type>
+      <type id="dialogue_jb_1_setup_get_supplies">
+        <line id="ACCEPT_MISSION" root="MAGG_SU_SUPPLIE" />
+      </type>
+      <type id="dialogue_jb_1_bar_brawl_1">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_BBRL1" />
+      </type>
+      <type id="dialogue_jb_1_sabotage_1">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_SABO1" />
+      </type>
+      <type id="dialogue_jb_1_bar_brawl_2">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_BBRL2" />
+      </type>
+      <type id="dialogue_jb_1_sabotage_2">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_SABO2" />
+      </type>
+      <type id="dialogue_jb_1_sabotage_3">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_SABO3" />
+      </type>
+      <type id="dialogue_jb_1_destroy_rival_setups_2">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_RSET2" />
+      </type>
+      <type id="dialogue_jb_1_destroy_rival_setups_5">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_RSET5" />
+      </type>
+      <type id="dialogue_jb_1_intimidation_1">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_INTI1" />
+      </type>
+      <type id="dialogue_jb_1_intimidation_4">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_INTI4" />
+      </type>
+      <type id="dialogue_jb_1_intimidation_5">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_INTI5" />
+      </type>
+      <type id="dialogue_jb_1_bar_protection_3">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_BPRT3" />
+      </type>
+      <type id="dialogue_jb_1_bar_protection_4">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_BPRT4" />
+      </type>
+      <type id="dialogue_jb_1_roadblock_3">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_RBLK3" />
+      </type>
+      <type id="dialogue_jb_1_roadblock_4">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_RBLK4" />
+      </type>
+      <type id="dialogue_jb_1_roadblock_5">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_RBLK5" />
+      </type>
+      <type id="dialogue_jb_2_bar_protection_1">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_BPRT1" />
+      </type>
+      <type id="dialogue_jb_2_sabotage_4">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_SABO4" />
+      </type>
+      <type id="dialogue_jb_2_sabotage_5">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_SABO5" />
+      </type>
+      <type id="dialogue_jb_2_bar_brawl_3">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_BBRL3" />
+      </type>
+      <type id="dialogue_jb_2_bar_brawl_4">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_BBRL4" />
+      </type>
+      <type id="dialogue_jb_2_bar_brawl_5">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_BBRL5" />
+      </type>
+      <type id="dialogue_jb_2_destroy_rival_setups_1">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_RSET1" />
+      </type>
+      <type id="dialogue_jb_2_destroy_rival_setups_3">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_RSET3" />
+      </type>
+      <type id="dialogue_jb_2_destroy_rival_setups_4">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_RSET4" />
+      </type>
+      <type id="dialogue_jb_2_intimidation_2">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_INTI2" />
+      </type>
+      <type id="dialogue_jb_2_intimidation_3">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_INTI3" />
+      </type>
+      <type id="dialogue_jb_2_bar_protection_2">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_BPRT2" />
+      </type>
+      <type id="dialogue_jb_2_bar_protection_5">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_BPRT5" />
+      </type>
+      <type id="dialogue_jb_2_roadblock_1">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_RBLK1" />
+      </type>
+      <type id="dialogue_jb_2_roadblock_2">
+        <line id="ACCEPT_MISSION" root="MAGG_MM_RBLK2" />
+      </type>
+      <type id="dialogue_jb_3_setup_rescue_cook">
+        <line id="ACCEPT_MISSION" root="MAGG_SU_RESCUE" />
+      </type>
+    </giver>
+    <giver giver="MARCEL" UNK_5BB656FE="COOKAUD">
+      <type id="dialogue_jb_1_accept_1">
+        <line id="ACCEPT_MISSION" root="COOK_JB_GEN2" />
+        <line id="ACCEPT_REGULAR" root="COOK_JB_REGULR3" />
+        <line id="ACCEPT_IMPROVED" root="COOK_JB_IMPROV4" />
+        <line id="ACCEPT_SPECIAL" root="COOK_JB_SPCIAL2" />
+        <line id="ACCEPT_DRUNK" root="COOK_JB_DRUNK1" />
+        <line id="ACCEPT_FALLBACK" root="COOK_JB_FALLBK3" />
+      </type>
+      <type id="dialogue_jb_1_accept_2">
+        <line id="ACCEPT_MISSION" root="COOK_JB_GEN5" />
+        <line id="ACCEPT_REGULAR" root="COOK_JB_REGULR3" />
+        <line id="ACCEPT_IMPROVED" root="COOK_JB_IMPROV4" />
+        <line id="ACCEPT_SPECIAL" root="COOK_JB_SPCIAL5" />
+        <line id="ACCEPT_DRUNK" root="COOK_JB_DRUNK1" />
+        <line id="ACCEPT_FALLBACK" root="COOK_JB_FALLBK3" />
+      </type>
+      <type id="dialogue_jb_1_accept_3">
+        <line id="ACCEPT_MISSION" root="COOK_JB_GEN8" />
+        <line id="ACCEPT_REGULAR" root="COOK_JB_REGULR3" />
+        <line id="ACCEPT_IMPROVED" root="COOK_JB_IMPROV4" />
+        <line id="ACCEPT_SPECIAL" root="COOK_JB_SPCIAL2" />
+        <line id="ACCEPT_DRUNK" root="COOK_JB_DRUNK1" />
+        <line id="ACCEPT_FALLBACK" root="COOK_JB_FALLBK3" />
+      </type>
+      <type id="dialogue_jb_1_accept_4">
+        <line id="ACCEPT_MISSION" root="COOK_JB_SELL1" />
+        <line id="ACCEPT_REGULAR" root="COOK_JB_REGULR3" />
+        <line id="ACCEPT_IMPROVED" root="COOK_JB_IMPROV4" />
+        <line id="ACCEPT_SPECIAL" root="COOK_JB_SPCIAL5" />
+        <line id="ACCEPT_DRUNK" root="COOK_JB_DRUNK1" />
+        <line id="ACCEPT_FALLBACK" root="COOK_JB_FALLBK3" />
+      </type>
+      <type id="dialogue_jb_2_accept_1">
+        <line id="ACCEPT_MISSION" root="COOK_JB_GEN3" />
+        <line id="ACCEPT_REGULAR" root="COOK_JB_REGULR1" />
+        <line id="ACCEPT_IMPROVED" root="COOK_JB_IMPROV2" />
+        <line id="ACCEPT_SPECIAL" root="COOK_JB_SPCIAL3" />
+        <line id="ACCEPT_DRUNK" root="COOK_JB_DRUNK2" />
+        <line id="ACCEPT_FALLBACK" root="COOK_JB_FALLBK1" />
+      </type>
+      <type id="dialogue_jb_2_accept_2">
+        <line id="ACCEPT_MISSION" root="COOK_JB_GEN6" />
+        <line id="ACCEPT_REGULAR" root="COOK_JB_REGULR4" />
+        <line id="ACCEPT_IMPROVED" root="COOK_JB_IMPROV5" />
+        <line id="ACCEPT_SPECIAL" root="COOK_JB_SPCIAL3" />
+        <line id="ACCEPT_DRUNK" root="COOK_JB_DRUNK2" />
+        <line id="ACCEPT_FALLBACK" root="COOK_JB_FALLBK4" />
+      </type>
+      <type id="dialogue_jb_2_accept_3">
+        <line id="ACCEPT_MISSION" root="COOK_JB_SELL2" />
+        <line id="ACCEPT_REGULAR" root="COOK_JB_REGULR4" />
+        <line id="ACCEPT_IMPROVED" root="COOK_JB_IMPROV2" />
+        <line id="ACCEPT_SPECIAL" root="COOK_JB_SPCIAL3" />
+        <line id="ACCEPT_DRUNK" root="COOK_JB_DRUNK2" />
+        <line id="ACCEPT_FALLBACK" root="COOK_JB_FALLBK1" />
+      </type>
+      <type id="dialogue_jb_3_accept_1">
+        <line id="ACCEPT_MISSION" root="COOK_JB_GEN1" />
+        <line id="ACCEPT_REGULAR" root="COOK_JB_REGULR2" />
+        <line id="ACCEPT_IMPROVED" root="COOK_JB_IMPROV3" />
+        <line id="ACCEPT_SPECIAL" root="COOK_JB_SPCIAL1" />
+        <line id="ACCEPT_DRUNK" root="COOK_JB_DRUNK3" />
+        <line id="ACCEPT_FALLBACK" root="COOK_JB_FALLBK2" />
+      </type>
+      <type id="dialogue_jb_3_accept_2">
+        <line id="ACCEPT_MISSION" root="COOK_JB_GEN4" />
+        <line id="ACCEPT_REGULAR" root="COOK_JB_REGULR5" />
+        <line id="ACCEPT_IMPROVED" root="COOK_JB_IMPROV3" />
+        <line id="ACCEPT_SPECIAL" root="COOK_JB_SPCIAL4" />
+        <line id="ACCEPT_DRUNK" root="COOK_JB_DRUNK3" />
+        <line id="ACCEPT_FALLBACK" root="COOK_JB_FALLBK5" />
+      </type>
+      <type id="dialogue_jb_3_accept_3">
+        <line id="ACCEPT_MISSION" root="COOK_JB_GEN7" />
+        <line id="ACCEPT_REGULAR" root="COOK_JB_REGULR5" />
+        <line id="ACCEPT_IMPROVED" root="COOK_JB_IMPROV3" />
+        <line id="ACCEPT_SPECIAL" root="COOK_JB_SPCIAL1" />
+        <line id="ACCEPT_DRUNK" root="COOK_JB_DRUNK3" />
+        <line id="ACCEPT_FALLBACK" root="COOK_JB_FALLBK5" />
+      </type>
+      <type id="dialogue_jb_3_accept_4">
+        <line id="ACCEPT_MISSION" root="COOK_JB_SELL3" />
+        <line id="ACCEPT_REGULAR" root="COOK_JB_REGULR2" />
+        <line id="ACCEPT_IMPROVED" root="COOK_JB_IMPROV3" />
+        <line id="ACCEPT_SPECIAL" root="COOK_JB_SPCIAL4" />
+        <line id="ACCEPT_DRUNK" root="COOK_JB_DRUNK3" />
+        <line id="ACCEPT_FALLBACK" root="COOK_JB_FALLBK2" />
+      </type>
+    </giver>
+    <giver giver="HARRIET" UNK_5BB656FE="NATURAU">
+      <type id="dialogue_giver">
+        <line id="MENU_OPEN">
+          <context id="LEGENDARY_ALLIGATOR" root="NATUR_MSMALLIGA" />
+          <context id="LEGENDARY_BEAR" root="NATUR_MSMBEAR" />
+          <context id="LEGENDARY_BEAVER" root="NATUR_MSMBEAVER" />
+          <context id="LEGENDARY_BOAR" root="NATUR_MSMBOAR" />
+          <context id="LEGENDARY_COUGAR" root="NATUR_MSMCOUG" />
+          <context id="LEGENDARY_COYOTE" root="NATUR_MSMCOYOT" />
+          <context id="LEGENDARY_FOX" root="NATUR_MSMFOX" />
+          <context id="LEGENDARY_WOLF" root="NATUR_MSMWOLF" />
+          <context id="LEGENDARY_BISON" root="NATUR_MSMBISON" />
+          <context id="LEGENDARY_BUCK" root="NATUR_MSMBUCK" />
+          <context id="LEGENDARY_ELK" root="NATUR_MSMELK" />
+          <context id="LEGENDARY_MOOSE" root="NATUR_MSMMOOSE" />
+          <context id="LEGENDARY_PANTHER" root="NATUR_MSMPANTH" />
+          <context id="LEGENDARY_RAM" root="NATUR_MSMRAM" />
+          <context id="FISH" root="NATUR_MSMFISH" />
+          <context id="BIRD" root="NATUR_MSMBIRD" />
+          <context id="GENERIC" root="NATUR_MSMGENER" />
+          <context id="ENTER" root="NATUR_MENUGEN" />
+          <context id="LOW_LEVEL" root="NATUR_MSMUNAVAI" />
+          <context id="NONE" root="NATUR_MSMUNAVAI" />
+          <context id="COOLDOWN" root="NATUR_MSMCOOL" />
+        </line>
+        <line id="IDLE_ILO" root="NATUR_MENUACC" />
+        <line id="TIMEOUT" root="NATUR_MSMREFRES" />
+      </type>
+      <type id="dialogue_bear_ambarino">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_BSIGH1" />
+      </type>
+      <type id="dialogue_alligator_banded">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SIASP1" />
+      </type>
+      <type id="dialogue_coyote_white_blue_eyes">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SCYSP1" />
+      </type>
+      <type id="dialogue_fox_generic">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SIFGE1" />
+      </type>
+      <type id="dialogue_panther_generic">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SIPGE1" />
+      </type>
+      <type id="dialogue_ram_black">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SIRSP1" />
+      </type>
+      <type id="dialogue_elk_generic">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SIEGE1" />
+      </type>
+      <type id="dialogue_sighting_generic_1">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SNSS1" />
+      </type>
+      <type id="dialogue_poacher_jb1_1">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SPHI1" />
+      </type>
+      <type id="dialogue_poacher_jb1_2">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SPHI4" />
+      </type>
+      <type id="dialogue_poacher_jb1_3">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SPHI7" />
+      </type>
+      <type id="dialogue_wolf_grizzlies">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_BSIGH2" />
+      </type>
+      <type id="dialogue_moose_cream_red">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SIMSP2" />
+      </type>
+      <type id="dialogue_alligator_generic">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SIAGE2" />
+      </type>
+      <type id="dialogue_beaver_black">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SBVSP2" />
+      </type>
+      <type id="dialogue_boar_generic">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SBOGE2" />
+      </type>
+      <type id="dialogue_cougar_generic">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SCOGE2" />
+      </type>
+      <type id="dialogue_coyote_generic">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SCYGE2" />
+      </type>
+      <type id="dialogue_panther_braithwaite">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SPASP2" />
+      </type>
+      <type id="dialogue_bison_little_creek">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SBISP2" />
+      </type>
+      <type id="dialogue_ram_generic">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SIRGE2" />
+      </type>
+      <type id="dialogue_buck_shadow">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SBUSP2" />
+      </type>
+      <type id="dialogue_sighting_generic_2">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SNSS2" />
+      </type>
+      <type id="dialogue_poacher_jb2_1">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_2SPHI2" />
+      </type>
+      <type id="dialogue_poacher_jb2_2">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_2SPHI5" />
+      </type>
+      <type id="dialogue_poacher_jb2_3">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_2SPHI1" />
+      </type>
+      <type id="dialogue_beaver_kamassa">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_BSIGH3" />
+      </type>
+      <type id="dialogue_bear_blonde">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SBESP3" />
+      </type>
+      <type id="dialogue_cougar_sapa">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SCOSP3" />
+      </type>
+      <type id="dialogue_fox_fog">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SFXSP3" />
+      </type>
+      <type id="dialogue_wolf_white">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SWOSP3" />
+      </type>
+      <type id="dialogue_bison_generic">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SBIGE3" />
+      </type>
+      <type id="dialogue_elk_inahme">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SELSP3" />
+      </type>
+      <type id="dialogue_buck_generic">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SBUGE3" />
+      </type>
+      <type id="dialogue_moose_generic">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SMOGE3" />
+      </type>
+      <type id="dialogue_boar_ichai">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_SBOSP3" />
+      </type>
+      <type id="dialogue_sighting_generic_3">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_3SNSS2" />
+      </type>
+      <type id="dialogue_poacher_jb3_1">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_3SPHI3" />
+      </type>
+      <type id="dialogue_poacher_jb3_2">
+        <line id="ACCEPT_MISSION" root="NATUR_JB_3SPHI6" />
+      </type>
+    </giver>
+  </UNK_AAC149EA>
+</root>

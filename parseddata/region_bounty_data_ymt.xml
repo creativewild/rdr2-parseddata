@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <regions>
+    <region name="REGION_BAY_SAINT_DENIS">
+      <UNK_A1E743E0 value="false" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <region name="REGION_BGV_STRAWBERRY">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <region name="REGION_GRT_BLACKWATER">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="150000" />
+    </region>
+    <region name="REGION_GRZ_WAPITI">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <region name="REGION_CML_OLDFORTWALLACE">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <region name="REGION_GUA_AGUASDULCES">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <region name="REGION_GUA_MANICATO">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <region name="REGION_HRT_CORNWALLKEROSENE">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <region name="REGION_HRT_EMERALDRANCH">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <region name="REGION_HRT_VALENTINE">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <region name="REGION_ROA_ANNESBURG">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <region name="REGION_ROA_BUTCHERCREEK">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <region name="REGION_ROA_VANHORNPOST">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <region name="REGION_SCM_BRAITHWAITEMANOR">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <region name="REGION_SCM_RHODES">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <region name="REGION_TAL_MANZANITAPOST">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <region name="REGION_SCM_CALIGAHALL">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <region name="REGION_BLU_SISIKA">
+      <UNK_A1E743E0 value="true" />
+      <UNK_45065CAE value="false" />
+      <UNK_E3EEB6B0 value="0" />
+    </region>
+    <state name="LAW_BOUNTY_STATE_AMBARINO">
+      <UNK_4EEE828B value="34" />
+    </state>
+    <state name="LAW_BOUNTY_STATE_NEW_HANOVER">
+      <UNK_4EEE828B value="34" />
+    </state>
+    <state name="LAW_BOUNTY_STATE_WEST_ELIZABETH">
+      <UNK_4EEE828B value="34" />
+    </state>
+    <state name="LAW_BOUNTY_STATE_LEMOYNE">
+      <UNK_4EEE828B value="34" />
+    </state>
+    <state name="LAW_BOUNTY_STATE_GUARMA">
+      <UNK_4EEE828B value="34" />
+    </state>
+    <state name="LAW_BOUNTY_STATE_NEW_AUSTIN">
+      <UNK_4EEE828B value="34" />
+    </state>
+  </regions>
+</root>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <location center="[-1817.236, 660.0837, 127.9247]" id="WATSONS_CABIN">
+    <volumes>
+      <house>
+        <placement id="volBox" size="[9.99999, 5.999999, 10.0]" spawn_heading="0.0" spawn_position="[-1817.833, 658.1175, 130.857]" />
+        <placement id="volBox" size="[3.499986, 5.5, 9.999996]" spawn_heading="0.0" spawn_position="[-1815.29, 663.1945, 130.8135]" />
+      </house>
+      <blocking>
+        <placement id="volBox" size="[13.00001, 5.2, 5.999998]" spawn_heading="0.0" spawn_position="[-1817.56, 657.9005, 130.857]" />
+        <placement id="volBox" size="[3.499986, 5.5, 9.999996]" spawn_heading="0.0" spawn_position="[-1815.29, 663.1945, 130.8135]" />
+      </blocking>
+    </volumes>
+  </location>
+</root>

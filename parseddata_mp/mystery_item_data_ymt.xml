@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <mystery_item_data>
+    <locations>
+      <location id="MYSTERY_ITEM_LOCATION_00" position="[2994.217, 2184.89, 166.2237]" radius="50.0">
+        <props>
+          <prop model="P_PAMPHLETSTACK01X" position="[2994.217, 2184.89, 166.2237]" rotation="0.0" />
+        </props>
+      </location>
+      <location id="MYSTERY_ITEM_LOCATION_01" position="[-1135.002, 608.6867, 117.217]" radius="50.0">
+        <props>
+          <prop model="P_PAMPHLETSTACK01X" position="[-1135.002, 608.6867, 117.217]" rotation="0.0" />
+        </props>
+      </location>
+    </locations>
+  </mystery_item_data>
+</root>

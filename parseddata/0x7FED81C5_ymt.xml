@@ -1,0 +1,2780 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_6DB663AB>
+    <item description="HORSE_EQUIPMENT_REINS_BROWN_DESC" id="HORSE_EQUIPMENT_REINS_BROWN" name="HORSE_EQUIPMENT_REINS_BROWN">
+      <components>
+        <component category="horse_reins" id="p_c_horse_01_uppr_002">
+          <texture id="p_c_horse_01_uppr_002_c0_000_ab" type="albedo" />
+          <texture id="p_c_horse_01_uppr_002_c0_000_nm" type="normal" />
+          <texture id="p_c_horse_01_uppr_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HORSE_EQUIPMENT_MALE_GENITALS_DESC" id="HORSE_EQUIPMENT_MALE_GENITALS" name="HORSE_EQUIPMENT_MALE_GENITALS">
+      <components>
+        <component category="horse_genitals" id="p_c_horse_01_decl_001">
+          <texture id="p_c_horse_01_decl_001_c0_000_ab" type="albedo" />
+          <texture id="p_c_horse_01_decl_001_c0_000_nm" type="normal" />
+          <texture id="p_c_horse_01_decl_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HORSE_EQUIPMENT_SADDLE_BROWN_DESC" id="HORSE_EQUIPMENT_SADDLE_BROWN" name="HORSE_EQUIPMENT_SADDLE_BROWN">
+      <components>
+        <component category="horse_saddles" id="saddlecombo_hr1_003">
+          <texture id="saddlecombo_hr1_003_c3_999_ab" type="albedo" />
+          <texture id="saddlecombo_hr1_003_c3_999_nm" type="normal" />
+          <texture id="saddlecombo_hr1_003_c3_999_m" type="material" />
+          <palette id="metaped_tint_combined_leather" />
+          <tint1 UNK_D9A7EC35="10" />
+          <tint2 UNK_D9A7EC35="14" />
+          <UNK_EC69767E UNK_D9A7EC35="15" />
+        </component>
+      </components>
+    </item>
+    <item description="HORSE_EQUIPMENT_SADDLE_BLACK_DESC" id="HORSE_EQUIPMENT_SADDLE_BLACK" name="HORSE_EQUIPMENT_SADDLE_BLACK">
+      <components>
+        <component category="horse_saddles" id="saddlecombo_hr1_003">
+          <texture id="saddlecombo_hr1_003_c3_999_ab" type="albedo" />
+          <texture id="saddlecombo_hr1_003_c3_999_nm" type="normal" />
+          <texture id="saddlecombo_hr1_003_c3_999_m" type="material" />
+          <palette id="metaped_tint_combined_leather" />
+          <tint1 UNK_D9A7EC35="10" />
+          <tint2 UNK_D9A7EC35="14" />
+          <UNK_EC69767E UNK_D9A7EC35="15" />
+        </component>
+      </components>
+    </item>
+    <item description="HORSE_EQUIPMENT_SADDLE_LIGHT_BROWN_DESC" id="HORSE_EQUIPMENT_SADDLE_LIGHT_BROWN" name="HORSE_EQUIPMENT_SADDLE_LIGHT_BROWN">
+      <components>
+        <component category="horse_saddles" id="saddlecombo_hr1_003">
+          <texture id="saddlecombo_hr1_003_c3_999_ab" type="albedo" />
+          <texture id="saddlecombo_hr1_003_c3_999_nm" type="normal" />
+          <texture id="saddlecombo_hr1_003_c3_999_m" type="material" />
+          <palette id="metaped_tint_combined_leather" />
+          <tint1 UNK_D9A7EC35="10" />
+          <tint2 UNK_D9A7EC35="14" />
+          <UNK_EC69767E UNK_D9A7EC35="15" />
+        </component>
+      </components>
+    </item>
+    <item description="HORSE_EQUIPMENT_BLANKET_GREEN_DESC" id="HORSE_EQUIPMENT_BLANKET_GREEN" name="HORSE_EQUIPMENT_BLANKET_GREEN">
+      <components>
+        <component category="horse_blankets" id="p_c_horse_01_acc2_001">
+          <texture id="p_c_horse_01_acc2_001_c0_000_ab" type="albedo" />
+          <texture id="p_c_horse_01_acc2_001_c0_000_nm" type="normal" />
+          <texture id="p_c_horse_01_acc2_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HORSE_EQUIPMENT_BLANKET_RED_DESC" id="HORSE_EQUIPMENT_BLANKET_RED" name="HORSE_EQUIPMENT_BLANKET_RED">
+      <components>
+        <component category="horse_blankets" id="p_c_horse_01_acc2_001">
+          <texture id="p_c_horse_01_acc2_001_c0_001_ab" type="albedo" />
+          <texture id="p_c_horse_01_acc2_001_c0_000_nm" type="normal" />
+          <texture id="p_c_horse_01_acc2_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HORSE_EQUIPMENT_BLANKET_GRAY_DESC" id="HORSE_EQUIPMENT_BLANKET_GRAY" name="HORSE_EQUIPMENT_BLANKET_GRAY">
+      <components>
+        <component category="horse_blankets" id="p_c_horse_01_acc2_001">
+          <texture id="p_c_horse_01_acc2_001_c0_002_ab" type="albedo" />
+          <texture id="p_c_horse_01_acc2_001_c0_000_nm" type="normal" />
+          <texture id="p_c_horse_01_acc2_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HORSE_EQUIPMENT_BEDROLL_GRAY_DESC" id="HORSE_EQUIPMENT_BEDROLL_GRAY" name="HORSE_EQUIPMENT_BEDROLL_GRAY">
+      <components>
+        <component category="horse_bedrolls" id="p_c_horse_01_acc3_001">
+          <texture id="p_c_horse_01_acc3_001_c0_000_ab" type="albedo" />
+          <texture id="p_c_horse_01_acc3_001_c0_000_nm" type="normal" />
+          <texture id="p_c_horse_01_acc3_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HORSE_EQUIPMENT_BEDROLL_BROWN_DESC" id="HORSE_EQUIPMENT_BEDROLL_BROWN" name="HORSE_EQUIPMENT_BEDROLL_BROWN">
+      <components>
+        <component category="horse_bedrolls" id="p_c_horse_01_acc3_001">
+          <texture id="p_c_horse_01_acc3_001_c0_001_ab" type="albedo" />
+          <texture id="p_c_horse_01_acc3_001_c0_000_nm" type="normal" />
+          <texture id="p_c_horse_01_acc3_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HORSE_EQUIPMENT_BEDROLL_LIGHT_BROWN_DESC" id="HORSE_EQUIPMENT_BEDROLL_LIGHT_BROWN" name="HORSE_EQUIPMENT_BEDROLL_LIGHT_BROWN">
+      <components>
+        <component category="horse_bedrolls" id="p_c_horse_01_acc3_001">
+          <texture id="p_c_horse_01_acc3_001_c0_002_ab" type="albedo" />
+          <texture id="p_c_horse_01_acc3_001_c0_000_nm" type="normal" />
+          <texture id="p_c_horse_01_acc3_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HORSE_EQUIPMENT_SADDLEBAG_LIGHT_BROWN_DESC" id="HORSE_EQUIPMENT_SADDLEBAG_LIGHT_BROWN" name="HORSE_EQUIPMENT_SADDLEBAG_LIGHT_BROWN">
+      <components>
+        <component category="horse_saddlebags" id="p_c_horse_01_accs_001">
+          <texture id="p_c_horse_01_accs_001_c0_000_ab" type="albedo" />
+          <texture id="p_c_horse_01_accs_001_c0_000_nm" type="normal" />
+          <texture id="p_c_horse_01_accs_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HORSE_EQUIPMENT_SADDLEBAG_BLACK_DESC" id="HORSE_EQUIPMENT_SADDLEBAG_BLACK" name="HORSE_EQUIPMENT_SADDLEBAG_BLACK">
+      <components>
+        <component category="horse_saddlebags" id="p_c_horse_01_accs_001">
+          <texture id="p_c_horse_01_accs_001_c0_001_ab" type="albedo" />
+          <texture id="p_c_horse_01_accs_001_c0_000_nm" type="normal" />
+          <texture id="p_c_horse_01_accs_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HORSE_EQUIPMENT_SADDLEBAG_BROWN_DESC" id="HORSE_EQUIPMENT_SADDLEBAG_BROWN" name="HORSE_EQUIPMENT_SADDLEBAG_BROWN">
+      <components>
+        <component category="horse_saddlebags" id="p_c_horse_01_accs_001">
+          <texture id="p_c_horse_01_accs_001_c0_002_ab" type="albedo" />
+          <texture id="p_c_horse_01_accs_001_c0_000_nm" type="normal" />
+          <texture id="p_c_horse_01_accs_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane000_color_0" id="HORSE_EQUIPMENT_MANE_0_COLOR_0" name="HORSE_EQUIPMENT_MANE_0_COLOR_0">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_000">
+          <texture id="P_C_Horse_01_hair_000_c0_000_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane000_color_1" id="HORSE_EQUIPMENT_MANE_0_COLOR_1" name="HORSE_EQUIPMENT_MANE_0_COLOR_1">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_000">
+          <texture id="P_C_Horse_01_hair_000_c0_001_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane000_color_2" id="HORSE_EQUIPMENT_MANE_0_COLOR_2" name="HORSE_EQUIPMENT_MANE_0_COLOR_2">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_000">
+          <texture id="P_C_Horse_01_hair_000_c0_002_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane000_color_3" id="HORSE_EQUIPMENT_MANE_0_COLOR_3" name="HORSE_EQUIPMENT_MANE_0_COLOR_3">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_000">
+          <texture id="P_C_Horse_01_hair_000_c0_003_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane001_color_0" id="HORSE_EQUIPMENT_MANE_1_COLOR_0" name="HORSE_EQUIPMENT_MANE_1_COLOR_0">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_001">
+          <texture id="P_C_Horse_01_hair_000_c0_000_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane001_color_1" id="HORSE_EQUIPMENT_MANE_1_COLOR_1" name="HORSE_EQUIPMENT_MANE_1_COLOR_1">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_001">
+          <texture id="P_C_Horse_01_hair_000_c0_001_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane001_color_2" id="HORSE_EQUIPMENT_MANE_1_COLOR_2" name="HORSE_EQUIPMENT_MANE_1_COLOR_2">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_001">
+          <texture id="P_C_Horse_01_hair_000_c0_002_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane001_color_3" id="HORSE_EQUIPMENT_MANE_1_COLOR_3" name="HORSE_EQUIPMENT_MANE_1_COLOR_3">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_001">
+          <texture id="P_C_Horse_01_hair_000_c0_003_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane002_color_0" id="HORSE_EQUIPMENT_MANE_2_COLOR_0" name="HORSE_EQUIPMENT_MANE_2_COLOR_0">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_002">
+          <texture id="P_C_Horse_01_hair_000_c0_000_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane002_color_1" id="HORSE_EQUIPMENT_MANE_2_COLOR_1" name="HORSE_EQUIPMENT_MANE_2_COLOR_1">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_002">
+          <texture id="P_C_Horse_01_hair_000_c0_001_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane002_color_2" id="HORSE_EQUIPMENT_MANE_2_COLOR_2" name="HORSE_EQUIPMENT_MANE_2_COLOR_2">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_002">
+          <texture id="P_C_Horse_01_hair_000_c0_002_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane002_color_3" id="HORSE_EQUIPMENT_MANE_2_COLOR_3" name="HORSE_EQUIPMENT_MANE_2_COLOR_3">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_002">
+          <texture id="P_C_Horse_01_hair_000_c0_003_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane003_color_0" id="HORSE_EQUIPMENT_MANE_3_COLOR_0" name="HORSE_EQUIPMENT_MANE_3_COLOR_0">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_003">
+          <texture id="P_C_Horse_01_hair_000_c0_000_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane003_color_1" id="HORSE_EQUIPMENT_MANE_3_COLOR_1" name="HORSE_EQUIPMENT_MANE_3_COLOR_1">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_003">
+          <texture id="P_C_Horse_01_hair_000_c0_001_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane003_color_2" id="HORSE_EQUIPMENT_MANE_3_COLOR_2" name="HORSE_EQUIPMENT_MANE_3_COLOR_2">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_003">
+          <texture id="P_C_Horse_01_hair_000_c0_002_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane003_color_3" id="HORSE_EQUIPMENT_MANE_3_COLOR_3" name="HORSE_EQUIPMENT_MANE_3_COLOR_3">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_003">
+          <texture id="P_C_Horse_01_hair_000_c0_003_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane003_color_0" id="HORSE_EQUIPMENT_MANE_4_COLOR_0" name="HORSE_EQUIPMENT_MANE_4_COLOR_0">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_004">
+          <texture id="P_C_Horse_01_hair_000_c0_000_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane003_color_1" id="HORSE_EQUIPMENT_MANE_4_COLOR_1" name="HORSE_EQUIPMENT_MANE_4_COLOR_1">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_004">
+          <texture id="P_C_Horse_01_hair_000_c0_001_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane003_color_2" id="HORSE_EQUIPMENT_MANE_4_COLOR_2" name="HORSE_EQUIPMENT_MANE_4_COLOR_2">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_004">
+          <texture id="P_C_Horse_01_hair_000_c0_002_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseMane003_color_3" id="HORSE_EQUIPMENT_MANE_4_COLOR_3" name="HORSE_EQUIPMENT_MANE_4_COLOR_3">
+      <components>
+        <component category="horse_manes" id="P_C_Horse_01_mane_004">
+          <texture id="P_C_Horse_01_hair_000_c0_003_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail000_color_0" id="HORSE_EQUIPMENT_TAIL_0_COLOR_0" name="HORSE_EQUIPMENT_TAIL_0_COLOR_0">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_000">
+          <texture id="P_C_Horse_01_hair_000_c0_000_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail000_color_1" id="HORSE_EQUIPMENT_TAIL_0_COLOR_1" name="HORSE_EQUIPMENT_TAIL_0_COLOR_1">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_000">
+          <texture id="P_C_Horse_01_hair_000_c0_001_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail000_color_2" id="HORSE_EQUIPMENT_TAIL_0_COLOR_2" name="HORSE_EQUIPMENT_TAIL_0_COLOR_2">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_000">
+          <texture id="P_C_Horse_01_hair_000_c0_002_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail000_color_3" id="HORSE_EQUIPMENT_TAIL_0_COLOR_3" name="HORSE_EQUIPMENT_TAIL_0_COLOR_3">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_000">
+          <texture id="P_C_Horse_01_hair_000_c0_003_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail001_color_0" id="HORSE_EQUIPMENT_TAIL_1_COLOR_0" name="HORSE_EQUIPMENT_TAIL_1_COLOR_0">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_001">
+          <texture id="P_C_Horse_01_hair_000_c0_000_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail001_color_1" id="HORSE_EQUIPMENT_TAIL_1_COLOR_1" name="HORSE_EQUIPMENT_TAIL_1_COLOR_1">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_001">
+          <texture id="P_C_Horse_01_hair_000_c0_001_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail001_color_2" id="HORSE_EQUIPMENT_TAIL_1_COLOR_2" name="HORSE_EQUIPMENT_TAIL_1_COLOR_2">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_001">
+          <texture id="P_C_Horse_01_hair_000_c0_002_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail001_color_3" id="HORSE_EQUIPMENT_TAIL_1_COLOR_3" name="HORSE_EQUIPMENT_TAIL_1_COLOR_3">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_001">
+          <texture id="P_C_Horse_01_hair_000_c0_003_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail002_color_0" id="HORSE_EQUIPMENT_TAIL_2_COLOR_0" name="HORSE_EQUIPMENT_TAIL_2_COLOR_0">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_002">
+          <texture id="P_C_Horse_01_hair_000_c0_000_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail002_color_1" id="HORSE_EQUIPMENT_TAIL_2_COLOR_1" name="HORSE_EQUIPMENT_TAIL_2_COLOR_1">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_002">
+          <texture id="P_C_Horse_01_hair_000_c0_001_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail002_color_2" id="HORSE_EQUIPMENT_TAIL_2_COLOR_2" name="HORSE_EQUIPMENT_TAIL_2_COLOR_2">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_002">
+          <texture id="P_C_Horse_01_hair_000_c0_002_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail002_color_3" id="HORSE_EQUIPMENT_TAIL_2_COLOR_3" name="HORSE_EQUIPMENT_TAIL_2_COLOR_3">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_002">
+          <texture id="P_C_Horse_01_hair_000_c0_003_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail003_color_0" id="HORSE_EQUIPMENT_TAIL_3_COLOR_0" name="HORSE_EQUIPMENT_TAIL_3_COLOR_0">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_003">
+          <texture id="P_C_Horse_01_hair_000_c0_000_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail003_color_1" id="HORSE_EQUIPMENT_TAIL_3_COLOR_1" name="HORSE_EQUIPMENT_TAIL_3_COLOR_1">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_003">
+          <texture id="P_C_Horse_01_hair_000_c0_001_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail003_color_2" id="HORSE_EQUIPMENT_TAIL_3_COLOR_2" name="HORSE_EQUIPMENT_TAIL_3_COLOR_2">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_003">
+          <texture id="P_C_Horse_01_hair_000_c0_002_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail003_color_3" id="HORSE_EQUIPMENT_TAIL_3_COLOR_3" name="HORSE_EQUIPMENT_TAIL_3_COLOR_3">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_003">
+          <texture id="P_C_Horse_01_hair_000_c0_003_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail004_color_0" id="HORSE_EQUIPMENT_TAIL_4_COLOR_0" name="HORSE_EQUIPMENT_TAIL_4_COLOR_0">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_004">
+          <texture id="P_C_Horse_01_hair_000_c0_000_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail004_color_1" id="HORSE_EQUIPMENT_TAIL_4_COLOR_1" name="HORSE_EQUIPMENT_TAIL_4_COLOR_1">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_004">
+          <texture id="P_C_Horse_01_hair_000_c0_001_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail004_color_2" id="HORSE_EQUIPMENT_TAIL_4_COLOR_2" name="HORSE_EQUIPMENT_TAIL_4_COLOR_2">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_004">
+          <texture id="P_C_Horse_01_hair_000_c0_002_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HorseTail004_color_3" id="HORSE_EQUIPMENT_TAIL_4_COLOR_3" name="HORSE_EQUIPMENT_TAIL_4_COLOR_3">
+      <components>
+        <component category="horse_tails" id="P_C_Horse_01_hair_004">
+          <texture id="P_C_Horse_01_hair_000_c0_003_ab" type="albedo" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_nm" type="normal" />
+          <texture id="P_C_Horse_01_hair_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="HORSE_EQUIPMENT_SADDLE_HR1_SADDLEBASE_DESC" id="HORSE_EQUIPMENT_SADDLE_HR1_SADDLEBASE" name="HORSE_EQUIPMENT_SADDLE_HR1_SADDLEBASE">
+      <components>
+        <component category="horse_saddles" id="SaddleCombo_HR1_001">
+          <texture id="SaddleCombo_HR1_001_C1_997_ab" type="albedo" />
+          <texture id="SaddleCombo_HR1_001_C1_000_nm" type="normal" />
+          <texture id="SaddleCombo_HR1_001_C1_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_000_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_HORN_0_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_HORN_0_COLOR_0">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_000">
+          <texture id="horn_hr1_000_c0_000_ab" type="albedo" />
+          <texture id="horn_hr1_000_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_000_color_001" id="horn_hr1_000_color_001" name="horn_hr1_000_color_001">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_000">
+          <texture id="horn_hr1_000_c0_001_ab" type="albedo" />
+          <texture id="horn_hr1_000_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_000_color_002" id="horn_hr1_000_color_002" name="horn_hr1_000_color_002">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_000">
+          <texture id="horn_hr1_000_c0_002_ab" type="albedo" />
+          <texture id="horn_hr1_000_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_000_color_003" id="horn_hr1_000_color_003" name="horn_hr1_000_color_003">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_000">
+          <texture id="horn_hr1_000_c0_003_ab" type="albedo" />
+          <texture id="horn_hr1_000_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_000_color_004" id="horn_hr1_000_color_004" name="horn_hr1_000_color_004">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_000">
+          <texture id="horn_hr1_000_c0_004_ab" type="albedo" />
+          <texture id="horn_hr1_000_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_000_color_005" id="horn_hr1_000_color_005" name="horn_hr1_000_color_005">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_000">
+          <texture id="horn_hr1_000_c0_005_ab" type="albedo" />
+          <texture id="horn_hr1_000_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_001_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_HORN_1_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_HORN_1_COLOR_0">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_001">
+          <texture id="horn_hr1_001_c0_000_ab" type="albedo" />
+          <texture id="horn_hr1_001_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_001_color_001" id="horn_hr1_001_color_001" name="horn_hr1_001_color_001">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_001">
+          <texture id="horn_hr1_001_c0_001_ab" type="albedo" />
+          <texture id="horn_hr1_001_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_001_color_002" id="horn_hr1_001_color_002" name="horn_hr1_001_color_002">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_001">
+          <texture id="horn_hr1_001_c0_002_ab" type="albedo" />
+          <texture id="horn_hr1_001_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_001_color_003" id="horn_hr1_001_color_003" name="horn_hr1_001_color_003">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_001">
+          <texture id="horn_hr1_001_c0_003_ab" type="albedo" />
+          <texture id="horn_hr1_001_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_001_color_004" id="horn_hr1_001_color_004" name="horn_hr1_001_color_004">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_001">
+          <texture id="horn_hr1_001_c0_004_ab" type="albedo" />
+          <texture id="horn_hr1_001_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_001_color_005" id="horn_hr1_001_color_005" name="horn_hr1_001_color_005">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_001">
+          <texture id="horn_hr1_001_c0_005_ab" type="albedo" />
+          <texture id="horn_hr1_001_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_002_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_HORN_2_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_HORN_2_COLOR_0">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_002">
+          <texture id="horn_hr1_002_c0_000_ab" type="albedo" />
+          <texture id="horn_hr1_002_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_002_color_001" id="horn_hr1_002_color_001" name="horn_hr1_002_color_001">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_002">
+          <texture id="horn_hr1_002_c0_001_ab" type="albedo" />
+          <texture id="horn_hr1_002_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_002_color_002" id="horn_hr1_002_color_002" name="horn_hr1_002_color_002">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_002">
+          <texture id="horn_hr1_002_c0_002_ab" type="albedo" />
+          <texture id="horn_hr1_002_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_002_color_003" id="horn_hr1_002_color_003" name="horn_hr1_002_color_003">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_002">
+          <texture id="horn_hr1_002_c0_003_ab" type="albedo" />
+          <texture id="horn_hr1_002_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_002_color_004" id="horn_hr1_002_color_004" name="horn_hr1_002_color_004">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_002">
+          <texture id="horn_hr1_002_c0_004_ab" type="albedo" />
+          <texture id="horn_hr1_002_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_002_color_005" id="horn_hr1_002_color_005" name="horn_hr1_002_color_005">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_002">
+          <texture id="horn_hr1_002_c0_005_ab" type="albedo" />
+          <texture id="horn_hr1_002_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_003_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_HORN_3_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_HORN_3_COLOR_0">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_003">
+          <texture id="horn_hr1_003_c0_000_ab" type="albedo" />
+          <texture id="horn_hr1_003_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_003_color_001" id="horn_hr1_003_color_001" name="horn_hr1_003_color_001">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_003">
+          <texture id="horn_hr1_003_c0_001_ab" type="albedo" />
+          <texture id="horn_hr1_003_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_003_color_002" id="horn_hr1_003_color_002" name="horn_hr1_003_color_002">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_003">
+          <texture id="horn_hr1_003_c0_002_ab" type="albedo" />
+          <texture id="horn_hr1_003_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_003_color_003" id="horn_hr1_003_color_003" name="horn_hr1_003_color_003">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_003">
+          <texture id="horn_hr1_003_c0_003_ab" type="albedo" />
+          <texture id="horn_hr1_003_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_003_color_004" id="horn_hr1_003_color_004" name="horn_hr1_003_color_004">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_003">
+          <texture id="horn_hr1_003_c0_004_ab" type="albedo" />
+          <texture id="horn_hr1_003_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_003_color_005" id="horn_hr1_003_color_005" name="horn_hr1_003_color_005">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_003">
+          <texture id="horn_hr1_003_c0_005_ab" type="albedo" />
+          <texture id="horn_hr1_003_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_004_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_HORN_4_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_HORN_4_COLOR_0">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_004">
+          <texture id="horn_hr1_004_c0_000_ab" type="albedo" />
+          <texture id="horn_hr1_004_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_004_color_001" id="horn_hr1_004_color_001" name="horn_hr1_004_color_001">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_004">
+          <texture id="horn_hr1_004_c0_001_ab" type="albedo" />
+          <texture id="horn_hr1_004_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_004_color_002" id="horn_hr1_004_color_002" name="horn_hr1_004_color_002">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_004">
+          <texture id="horn_hr1_004_c0_002_ab" type="albedo" />
+          <texture id="horn_hr1_004_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_004_color_003" id="horn_hr1_004_color_003" name="horn_hr1_004_color_003">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_004">
+          <texture id="horn_hr1_004_c0_003_ab" type="albedo" />
+          <texture id="horn_hr1_004_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_004_color_004" id="horn_hr1_004_color_004" name="horn_hr1_004_color_004">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_004">
+          <texture id="horn_hr1_004_c0_004_ab" type="albedo" />
+          <texture id="horn_hr1_004_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_004_color_005" id="horn_hr1_004_color_005" name="horn_hr1_004_color_005">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_004">
+          <texture id="horn_hr1_004_c0_005_ab" type="albedo" />
+          <texture id="horn_hr1_004_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_005_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_HORN_5_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_HORN_5_COLOR_0">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_005">
+          <texture id="horn_hr1_005_c0_000_ab" type="albedo" />
+          <texture id="horn_hr1_005_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_005_color_001" id="horn_hr1_005_color_001" name="horn_hr1_005_color_001">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_005">
+          <texture id="horn_hr1_005_c0_001_ab" type="albedo" />
+          <texture id="horn_hr1_005_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_005_color_002" id="horn_hr1_005_color_002" name="horn_hr1_005_color_002">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_005">
+          <texture id="horn_hr1_005_c0_002_ab" type="albedo" />
+          <texture id="horn_hr1_005_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_005_color_003" id="horn_hr1_005_color_003" name="horn_hr1_005_color_003">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_005">
+          <texture id="horn_hr1_005_c0_003_ab" type="albedo" />
+          <texture id="horn_hr1_005_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_005_color_004" id="horn_hr1_005_color_004" name="horn_hr1_005_color_004">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_005">
+          <texture id="horn_hr1_005_c0_004_ab" type="albedo" />
+          <texture id="horn_hr1_005_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_005_color_005" id="horn_hr1_005_color_005" name="horn_hr1_005_color_005">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_005">
+          <texture id="horn_hr1_005_c0_005_ab" type="albedo" />
+          <texture id="horn_hr1_005_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_006_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_HORN_6_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_HORN_6_COLOR_0">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_006">
+          <texture id="horn_hr1_006_c0_000_ab" type="albedo" />
+          <texture id="horn_hr1_006_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_006_color_001" id="horn_hr1_006_color_001" name="horn_hr1_006_color_001">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_006">
+          <texture id="horn_hr1_006_c0_001_ab" type="albedo" />
+          <texture id="horn_hr1_006_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_006_color_002" id="horn_hr1_006_color_002" name="horn_hr1_006_color_002">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_006">
+          <texture id="horn_hr1_006_c0_002_ab" type="albedo" />
+          <texture id="horn_hr1_006_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_006_color_003" id="horn_hr1_006_color_003" name="horn_hr1_006_color_003">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_006">
+          <texture id="horn_hr1_006_c0_003_ab" type="albedo" />
+          <texture id="horn_hr1_006_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_006_color_004" id="horn_hr1_006_color_004" name="horn_hr1_006_color_004">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_006">
+          <texture id="horn_hr1_006_c0_004_ab" type="albedo" />
+          <texture id="horn_hr1_006_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_006_color_005" id="horn_hr1_006_color_005" name="horn_hr1_006_color_005">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_006">
+          <texture id="horn_hr1_006_c0_005_ab" type="albedo" />
+          <texture id="horn_hr1_006_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_007_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_HORN_7_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_HORN_7_COLOR_0">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_007">
+          <texture id="horn_hr1_007_c0_000_ab" type="albedo" />
+          <texture id="horn_hr1_007_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_007_color_001" id="horn_hr1_007_color_001" name="horn_hr1_007_color_001">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_007">
+          <texture id="horn_hr1_007_c0_001_ab" type="albedo" />
+          <texture id="horn_hr1_007_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_007_color_002" id="horn_hr1_007_color_002" name="horn_hr1_007_color_002">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_007">
+          <texture id="horn_hr1_007_c0_002_ab" type="albedo" />
+          <texture id="horn_hr1_007_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_007_color_003" id="horn_hr1_007_color_003" name="horn_hr1_007_color_003">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_007">
+          <texture id="horn_hr1_007_c0_003_ab" type="albedo" />
+          <texture id="horn_hr1_007_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_007_color_004" id="horn_hr1_007_color_004" name="horn_hr1_007_color_004">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_007">
+          <texture id="horn_hr1_007_c0_004_ab" type="albedo" />
+          <texture id="horn_hr1_007_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_007_color_005" id="horn_hr1_007_color_005" name="horn_hr1_007_color_005">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_007">
+          <texture id="horn_hr1_007_c0_005_ab" type="albedo" />
+          <texture id="horn_hr1_007_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_008_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_HORN_8_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_HORN_8_COLOR_0">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_008">
+          <texture id="horn_hr1_008_c0_000_ab" type="albedo" />
+          <texture id="horn_hr1_008_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_008_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_008_color_001" id="horn_hr1_008_color_001" name="horn_hr1_008_color_001">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_008">
+          <texture id="horn_hr1_008_c0_001_ab" type="albedo" />
+          <texture id="horn_hr1_008_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_008_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_008_color_002" id="horn_hr1_008_color_002" name="horn_hr1_008_color_002">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_008">
+          <texture id="horn_hr1_008_c0_002_ab" type="albedo" />
+          <texture id="horn_hr1_008_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_008_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_008_color_003" id="horn_hr1_008_color_003" name="horn_hr1_008_color_003">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_008">
+          <texture id="horn_hr1_008_c0_003_ab" type="albedo" />
+          <texture id="horn_hr1_008_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_008_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_008_color_004" id="horn_hr1_008_color_004" name="horn_hr1_008_color_004">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_008">
+          <texture id="horn_hr1_008_c0_004_ab" type="albedo" />
+          <texture id="horn_hr1_008_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_008_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_008_color_005" id="horn_hr1_008_color_005" name="horn_hr1_008_color_005">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_008">
+          <texture id="horn_hr1_008_c0_005_ab" type="albedo" />
+          <texture id="horn_hr1_008_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_008_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_009_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_HORN_9_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_HORN_9_COLOR_0">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_009">
+          <texture id="horn_hr1_009_c0_000_ab" type="albedo" />
+          <texture id="horn_hr1_009_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_009_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_009_color_001" id="horn_hr1_009_color_001" name="horn_hr1_009_color_001">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_009">
+          <texture id="horn_hr1_009_c0_001_ab" type="albedo" />
+          <texture id="horn_hr1_009_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_009_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_009_color_002" id="horn_hr1_009_color_002" name="horn_hr1_009_color_002">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_009">
+          <texture id="horn_hr1_009_c0_002_ab" type="albedo" />
+          <texture id="horn_hr1_009_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_009_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_009_color_003" id="horn_hr1_009_color_003" name="horn_hr1_009_color_003">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_009">
+          <texture id="horn_hr1_009_c0_003_ab" type="albedo" />
+          <texture id="horn_hr1_009_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_009_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_009_color_004" id="horn_hr1_009_color_004" name="horn_hr1_009_color_004">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_009">
+          <texture id="horn_hr1_009_c0_004_ab" type="albedo" />
+          <texture id="horn_hr1_009_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_009_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_009_color_005" id="horn_hr1_009_color_005" name="horn_hr1_009_color_005">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_009">
+          <texture id="horn_hr1_009_c0_005_ab" type="albedo" />
+          <texture id="horn_hr1_009_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_009_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_010_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_HORN_10_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_HORN_10_COLOR_0">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_010">
+          <texture id="horn_hr1_010_c0_000_ab" type="albedo" />
+          <texture id="horn_hr1_010_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_010_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_010_color_001" id="horn_hr1_010_color_001" name="horn_hr1_010_color_001">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_010">
+          <texture id="horn_hr1_010_c0_001_ab" type="albedo" />
+          <texture id="horn_hr1_010_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_010_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_010_color_002" id="horn_hr1_010_color_002" name="horn_hr1_010_color_002">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_010">
+          <texture id="horn_hr1_010_c0_002_ab" type="albedo" />
+          <texture id="horn_hr1_010_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_010_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_010_color_003" id="horn_hr1_010_color_003" name="horn_hr1_010_color_003">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_010">
+          <texture id="horn_hr1_010_c0_003_ab" type="albedo" />
+          <texture id="horn_hr1_010_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_010_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_010_color_004" id="horn_hr1_010_color_004" name="horn_hr1_010_color_004">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_010">
+          <texture id="horn_hr1_010_c0_004_ab" type="albedo" />
+          <texture id="horn_hr1_010_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_010_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_010_color_005" id="horn_hr1_010_color_005" name="horn_hr1_010_color_005">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_010">
+          <texture id="horn_hr1_010_c0_005_ab" type="albedo" />
+          <texture id="horn_hr1_010_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_010_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_011_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_HORN_11_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_HORN_11_COLOR_0">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_011">
+          <texture id="horn_hr1_011_c0_000_ab" type="albedo" />
+          <texture id="horn_hr1_011_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_011_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_011_color_001" id="horn_hr1_011_color_001" name="horn_hr1_011_color_001">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_011">
+          <texture id="horn_hr1_011_c0_001_ab" type="albedo" />
+          <texture id="horn_hr1_011_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_011_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_011_color_002" id="horn_hr1_011_color_002" name="horn_hr1_011_color_002">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_011">
+          <texture id="horn_hr1_011_c0_002_ab" type="albedo" />
+          <texture id="horn_hr1_011_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_011_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_011_color_003" id="horn_hr1_011_color_003" name="horn_hr1_011_color_003">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_011">
+          <texture id="horn_hr1_011_c0_003_ab" type="albedo" />
+          <texture id="horn_hr1_011_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_011_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_011_color_004" id="horn_hr1_011_color_004" name="horn_hr1_011_color_004">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_011">
+          <texture id="horn_hr1_011_c0_004_ab" type="albedo" />
+          <texture id="horn_hr1_011_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_011_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_011_color_005" id="horn_hr1_011_color_005" name="horn_hr1_011_color_005">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_011">
+          <texture id="horn_hr1_011_c0_005_ab" type="albedo" />
+          <texture id="horn_hr1_011_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_011_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_012_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_HORN_12_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_HORN_12_COLOR_0">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_012">
+          <texture id="horn_hr1_012_c0_000_ab" type="albedo" />
+          <texture id="horn_hr1_012_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_012_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_012_color_001" id="horn_hr1_012_color_001" name="horn_hr1_012_color_001">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_012">
+          <texture id="horn_hr1_012_c0_001_ab" type="albedo" />
+          <texture id="horn_hr1_012_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_012_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_012_color_002" id="horn_hr1_012_color_002" name="horn_hr1_012_color_002">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_012">
+          <texture id="horn_hr1_012_c0_002_ab" type="albedo" />
+          <texture id="horn_hr1_012_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_012_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_012_color_003" id="horn_hr1_012_color_003" name="horn_hr1_012_color_003">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_012">
+          <texture id="horn_hr1_012_c0_003_ab" type="albedo" />
+          <texture id="horn_hr1_012_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_012_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_012_color_004" id="horn_hr1_012_color_004" name="horn_hr1_012_color_004">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_012">
+          <texture id="horn_hr1_012_c0_004_ab" type="albedo" />
+          <texture id="horn_hr1_012_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_012_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="horn_hr1_012_color_005" id="horn_hr1_012_color_005" name="horn_hr1_012_color_005">
+      <components>
+        <component category="saddle_horns" id="horn_hr1_012">
+          <texture id="horn_hr1_012_c0_005_ab" type="albedo" />
+          <texture id="horn_hr1_012_c0_000_nm" type="normal" />
+          <texture id="horn_hr1_012_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_000_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_SEAT_0_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_SEAT_0_COLOR_0">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_000">
+          <texture id="seat_hr1_000_c0_000_ab" type="albedo" />
+          <texture id="seat_hr1_000_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_000_color_001" id="seat_hr1_000_color_001" name="seat_hr1_000_color_001">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_000">
+          <texture id="seat_hr1_000_c0_001_ab" type="albedo" />
+          <texture id="seat_hr1_000_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_000_color_002" id="seat_hr1_000_color_002" name="seat_hr1_000_color_002">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_000">
+          <texture id="seat_hr1_000_c0_002_ab" type="albedo" />
+          <texture id="seat_hr1_000_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_000_color_003" id="seat_hr1_000_color_003" name="seat_hr1_000_color_003">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_000">
+          <texture id="seat_hr1_000_c0_003_ab" type="albedo" />
+          <texture id="seat_hr1_000_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_000_color_004" id="seat_hr1_000_color_004" name="seat_hr1_000_color_004">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_000">
+          <texture id="seat_hr1_000_c0_004_ab" type="albedo" />
+          <texture id="seat_hr1_000_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_000_color_005" id="seat_hr1_000_color_005" name="seat_hr1_000_color_005">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_000">
+          <texture id="seat_hr1_000_c0_005_ab" type="albedo" />
+          <texture id="seat_hr1_000_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_001_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_SEAT_1_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_SEAT_1_COLOR_0">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_001">
+          <texture id="seat_hr1_001_c0_000_ab" type="albedo" />
+          <texture id="seat_hr1_001_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_001_color_001" id="seat_hr1_001_color_001" name="seat_hr1_001_color_001">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_001">
+          <texture id="seat_hr1_001_c0_001_ab" type="albedo" />
+          <texture id="seat_hr1_001_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_001_color_002" id="seat_hr1_001_color_002" name="seat_hr1_001_color_002">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_001">
+          <texture id="seat_hr1_001_c0_002_ab" type="albedo" />
+          <texture id="seat_hr1_001_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_001_color_003" id="seat_hr1_001_color_003" name="seat_hr1_001_color_003">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_001">
+          <texture id="seat_hr1_001_c0_003_ab" type="albedo" />
+          <texture id="seat_hr1_001_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_001_color_004" id="seat_hr1_001_color_004" name="seat_hr1_001_color_004">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_001">
+          <texture id="seat_hr1_001_c0_004_ab" type="albedo" />
+          <texture id="seat_hr1_001_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_001_color_005" id="seat_hr1_001_color_005" name="seat_hr1_001_color_005">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_001">
+          <texture id="seat_hr1_001_c0_005_ab" type="albedo" />
+          <texture id="seat_hr1_001_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_002_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_SEAT_2_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_SEAT_2_COLOR_0">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_002">
+          <texture id="seat_hr1_002_c0_000_ab" type="albedo" />
+          <texture id="seat_hr1_002_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_002_color_001" id="seat_hr1_002_color_001" name="seat_hr1_002_color_001">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_002">
+          <texture id="seat_hr1_002_c0_001_ab" type="albedo" />
+          <texture id="seat_hr1_002_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_002_color_002" id="seat_hr1_002_color_002" name="seat_hr1_002_color_002">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_002">
+          <texture id="seat_hr1_002_c0_002_ab" type="albedo" />
+          <texture id="seat_hr1_002_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_002_color_003" id="seat_hr1_002_color_003" name="seat_hr1_002_color_003">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_002">
+          <texture id="seat_hr1_002_c0_003_ab" type="albedo" />
+          <texture id="seat_hr1_002_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_002_color_004" id="seat_hr1_002_color_004" name="seat_hr1_002_color_004">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_002">
+          <texture id="seat_hr1_002_c0_004_ab" type="albedo" />
+          <texture id="seat_hr1_002_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_002_color_005" id="seat_hr1_002_color_005" name="seat_hr1_002_color_005">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_002">
+          <texture id="seat_hr1_002_c0_005_ab" type="albedo" />
+          <texture id="seat_hr1_002_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_003_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_SEAT_3_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_SEAT_3_COLOR_0">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_003">
+          <texture id="seat_hr1_003_c0_000_ab" type="albedo" />
+          <texture id="seat_hr1_003_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_003_color_001" id="seat_hr1_003_color_001" name="seat_hr1_003_color_001">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_003">
+          <texture id="seat_hr1_003_c0_001_ab" type="albedo" />
+          <texture id="seat_hr1_003_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_003_color_002" id="seat_hr1_003_color_002" name="seat_hr1_003_color_002">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_003">
+          <texture id="seat_hr1_003_c0_002_ab" type="albedo" />
+          <texture id="seat_hr1_003_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_003_color_003" id="seat_hr1_003_color_003" name="seat_hr1_003_color_003">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_003">
+          <texture id="seat_hr1_003_c0_003_ab" type="albedo" />
+          <texture id="seat_hr1_003_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_003_color_004" id="seat_hr1_003_color_004" name="seat_hr1_003_color_004">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_003">
+          <texture id="seat_hr1_003_c0_004_ab" type="albedo" />
+          <texture id="seat_hr1_003_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_003_color_005" id="seat_hr1_003_color_005" name="seat_hr1_003_color_005">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_003">
+          <texture id="seat_hr1_003_c0_005_ab" type="albedo" />
+          <texture id="seat_hr1_003_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_004_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_SEAT_4_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_SEAT_4_COLOR_0">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_004">
+          <texture id="seat_hr1_004_c0_000_ab" type="albedo" />
+          <texture id="seat_hr1_004_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_004_color_001" id="seat_hr1_004_color_001" name="seat_hr1_004_color_001">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_004">
+          <texture id="seat_hr1_004_c0_001_ab" type="albedo" />
+          <texture id="seat_hr1_004_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_004_color_002" id="seat_hr1_004_color_002" name="seat_hr1_004_color_002">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_004">
+          <texture id="seat_hr1_004_c0_002_ab" type="albedo" />
+          <texture id="seat_hr1_004_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_004_color_003" id="seat_hr1_004_color_003" name="seat_hr1_004_color_003">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_004">
+          <texture id="seat_hr1_004_c0_003_ab" type="albedo" />
+          <texture id="seat_hr1_004_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_004_color_004" id="seat_hr1_004_color_004" name="seat_hr1_004_color_004">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_004">
+          <texture id="seat_hr1_004_c0_004_ab" type="albedo" />
+          <texture id="seat_hr1_004_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_004_color_005" id="seat_hr1_004_color_005" name="seat_hr1_004_color_005">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_004">
+          <texture id="seat_hr1_004_c0_005_ab" type="albedo" />
+          <texture id="seat_hr1_004_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_005_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_SEAT_5_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_SEAT_5_COLOR_0">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_005">
+          <texture id="seat_hr1_005_c0_000_ab" type="albedo" />
+          <texture id="seat_hr1_005_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_005_color_001" id="seat_hr1_005_color_001" name="seat_hr1_005_color_001">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_005">
+          <texture id="seat_hr1_005_c0_001_ab" type="albedo" />
+          <texture id="seat_hr1_005_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_005_color_002" id="seat_hr1_005_color_002" name="seat_hr1_005_color_002">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_005">
+          <texture id="seat_hr1_005_c0_002_ab" type="albedo" />
+          <texture id="seat_hr1_005_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_005_color_003" id="seat_hr1_005_color_003" name="seat_hr1_005_color_003">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_005">
+          <texture id="seat_hr1_005_c0_003_ab" type="albedo" />
+          <texture id="seat_hr1_005_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_005_color_004" id="seat_hr1_005_color_004" name="seat_hr1_005_color_004">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_005">
+          <texture id="seat_hr1_005_c0_004_ab" type="albedo" />
+          <texture id="seat_hr1_005_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="seat_hr1_005_color_005" id="seat_hr1_005_color_005" name="seat_hr1_005_color_005">
+      <components>
+        <component category="saddle_seats" id="seat_hr1_005">
+          <texture id="seat_hr1_005_c0_005_ab" type="albedo" />
+          <texture id="seat_hr1_005_c0_000_nm" type="normal" />
+          <texture id="seat_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_000_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_CANTLE_0_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_CANTLE_0_COLOR_0">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_000">
+          <texture id="cantle_hr1_000_c0_000_ab" type="albedo" />
+          <texture id="cantle_hr1_000_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_000_color_001" id="cantle_hr1_000_color_001" name="cantle_hr1_000_color_001">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_000">
+          <texture id="cantle_hr1_000_c0_001_ab" type="albedo" />
+          <texture id="cantle_hr1_000_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_000_color_002" id="cantle_hr1_000_color_002" name="cantle_hr1_000_color_002">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_000">
+          <texture id="cantle_hr1_000_c0_002_ab" type="albedo" />
+          <texture id="cantle_hr1_000_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_000_color_003" id="cantle_hr1_000_color_003" name="cantle_hr1_000_color_003">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_000">
+          <texture id="cantle_hr1_000_c0_003_ab" type="albedo" />
+          <texture id="cantle_hr1_000_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_000_color_004" id="cantle_hr1_000_color_004" name="cantle_hr1_000_color_004">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_000">
+          <texture id="cantle_hr1_000_c0_004_ab" type="albedo" />
+          <texture id="cantle_hr1_000_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_000_color_005" id="cantle_hr1_000_color_005" name="cantle_hr1_000_color_005">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_000">
+          <texture id="cantle_hr1_000_c0_005_ab" type="albedo" />
+          <texture id="cantle_hr1_000_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_001_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_CANTLE_1_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_CANTLE_1_COLOR_0">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_001">
+          <texture id="cantle_hr1_001_c0_000_ab" type="albedo" />
+          <texture id="cantle_hr1_001_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_001_color_001" id="cantle_hr1_001_color_001" name="cantle_hr1_001_color_001">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_001">
+          <texture id="cantle_hr1_001_c0_001_ab" type="albedo" />
+          <texture id="cantle_hr1_001_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_001_color_002" id="cantle_hr1_001_color_002" name="cantle_hr1_001_color_002">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_001">
+          <texture id="cantle_hr1_001_c0_002_ab" type="albedo" />
+          <texture id="cantle_hr1_001_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_001_color_003" id="cantle_hr1_001_color_003" name="cantle_hr1_001_color_003">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_001">
+          <texture id="cantle_hr1_001_c0_003_ab" type="albedo" />
+          <texture id="cantle_hr1_001_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_001_color_004" id="cantle_hr1_001_color_004" name="cantle_hr1_001_color_004">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_001">
+          <texture id="cantle_hr1_001_c0_004_ab" type="albedo" />
+          <texture id="cantle_hr1_001_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_001_color_005" id="cantle_hr1_001_color_005" name="cantle_hr1_001_color_005">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_001">
+          <texture id="cantle_hr1_001_c0_005_ab" type="albedo" />
+          <texture id="cantle_hr1_001_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_002_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_CANTLE_2_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_CANTLE_2_COLOR_0">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_002">
+          <texture id="cantle_hr1_002_c0_000_ab" type="albedo" />
+          <texture id="cantle_hr1_002_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_002_color_001" id="cantle_hr1_002_color_001" name="cantle_hr1_002_color_001">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_002">
+          <texture id="cantle_hr1_002_c0_001_ab" type="albedo" />
+          <texture id="cantle_hr1_002_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_002_color_002" id="cantle_hr1_002_color_002" name="cantle_hr1_002_color_002">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_002">
+          <texture id="cantle_hr1_002_c0_002_ab" type="albedo" />
+          <texture id="cantle_hr1_002_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_002_color_003" id="cantle_hr1_002_color_003" name="cantle_hr1_002_color_003">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_002">
+          <texture id="cantle_hr1_002_c0_003_ab" type="albedo" />
+          <texture id="cantle_hr1_002_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_002_color_004" id="cantle_hr1_002_color_004" name="cantle_hr1_002_color_004">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_002">
+          <texture id="cantle_hr1_002_c0_004_ab" type="albedo" />
+          <texture id="cantle_hr1_002_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="cantle_hr1_002_color_005" id="cantle_hr1_002_color_005" name="cantle_hr1_002_color_005">
+      <components>
+        <component category="saddle_cantles" id="cantle_hr1_002">
+          <texture id="cantle_hr1_002_c0_005_ab" type="albedo" />
+          <texture id="cantle_hr1_002_c0_000_nm" type="normal" />
+          <texture id="cantle_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_000_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_SKIRT_0_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_SKIRT_0_COLOR_0">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_000">
+          <texture id="skirt_hr1_000_c0_000_ab" type="albedo" />
+          <texture id="skirt_hr1_000_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_000_color_001" id="skirt_hr1_000_color_001" name="skirt_hr1_000_color_001">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_000">
+          <texture id="skirt_hr1_000_c0_001_ab" type="albedo" />
+          <texture id="skirt_hr1_000_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_000_color_002" id="skirt_hr1_000_color_002" name="skirt_hr1_000_color_002">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_000">
+          <texture id="skirt_hr1_000_c0_002_ab" type="albedo" />
+          <texture id="skirt_hr1_000_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_000_color_003" id="skirt_hr1_000_color_003" name="skirt_hr1_000_color_003">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_000">
+          <texture id="skirt_hr1_000_c0_003_ab" type="albedo" />
+          <texture id="skirt_hr1_000_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_000_color_004" id="skirt_hr1_000_color_004" name="skirt_hr1_000_color_004">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_000">
+          <texture id="skirt_hr1_000_c0_004_ab" type="albedo" />
+          <texture id="skirt_hr1_000_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_000_color_005" id="skirt_hr1_000_color_005" name="skirt_hr1_000_color_005">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_000">
+          <texture id="skirt_hr1_000_c0_005_ab" type="albedo" />
+          <texture id="skirt_hr1_000_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_001_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_SKIRT_1_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_SKIRT_1_COLOR_0">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_001">
+          <texture id="skirt_hr1_001_c0_000_ab" type="albedo" />
+          <texture id="skirt_hr1_001_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_001_color_001" id="skirt_hr1_001_color_001" name="skirt_hr1_001_color_001">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_001">
+          <texture id="skirt_hr1_001_c0_001_ab" type="albedo" />
+          <texture id="skirt_hr1_001_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_001_color_002" id="skirt_hr1_001_color_002" name="skirt_hr1_001_color_002">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_001">
+          <texture id="skirt_hr1_001_c0_002_ab" type="albedo" />
+          <texture id="skirt_hr1_001_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_001_color_003" id="skirt_hr1_001_color_003" name="skirt_hr1_001_color_003">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_001">
+          <texture id="skirt_hr1_001_c0_003_ab" type="albedo" />
+          <texture id="skirt_hr1_001_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_001_color_004" id="skirt_hr1_001_color_004" name="skirt_hr1_001_color_004">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_001">
+          <texture id="skirt_hr1_001_c0_004_ab" type="albedo" />
+          <texture id="skirt_hr1_001_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_001_color_005" id="skirt_hr1_001_color_005" name="skirt_hr1_001_color_005">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_001">
+          <texture id="skirt_hr1_001_c0_005_ab" type="albedo" />
+          <texture id="skirt_hr1_001_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_002_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_SKIRT_2_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_SKIRT_2_COLOR_0">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_002">
+          <texture id="skirt_hr1_002_c0_000_ab" type="albedo" />
+          <texture id="skirt_hr1_002_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_002_color_001" id="skirt_hr1_002_color_001" name="skirt_hr1_002_color_001">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_002">
+          <texture id="skirt_hr1_002_c0_001_ab" type="albedo" />
+          <texture id="skirt_hr1_002_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_002_color_002" id="skirt_hr1_002_color_002" name="skirt_hr1_002_color_002">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_002">
+          <texture id="skirt_hr1_002_c0_002_ab" type="albedo" />
+          <texture id="skirt_hr1_002_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_002_color_003" id="skirt_hr1_002_color_003" name="skirt_hr1_002_color_003">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_002">
+          <texture id="skirt_hr1_002_c0_003_ab" type="albedo" />
+          <texture id="skirt_hr1_002_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_002_color_004" id="skirt_hr1_002_color_004" name="skirt_hr1_002_color_004">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_002">
+          <texture id="skirt_hr1_002_c0_004_ab" type="albedo" />
+          <texture id="skirt_hr1_002_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="skirt_hr1_002_color_005" id="skirt_hr1_002_color_005" name="skirt_hr1_002_color_005">
+      <components>
+        <component category="saddle_skirts" id="skirt_hr1_002">
+          <texture id="skirt_hr1_002_c0_005_ab" type="albedo" />
+          <texture id="skirt_hr1_002_c0_000_nm" type="normal" />
+          <texture id="skirt_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_000_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_0_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_0_COLOR_0">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_000">
+          <texture id="stirrup_hr1_000_c0_000_ab" type="albedo" />
+          <texture id="stirrup_hr1_000_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_000_color_001" id="stirrup_hr1_000_color_001" name="stirrup_hr1_000_color_001">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_000">
+          <texture id="stirrup_hr1_000_c0_001_ab" type="albedo" />
+          <texture id="stirrup_hr1_000_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_000_color_002" id="stirrup_hr1_000_color_002" name="stirrup_hr1_000_color_002">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_000">
+          <texture id="stirrup_hr1_000_c0_002_ab" type="albedo" />
+          <texture id="stirrup_hr1_000_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_000_color_003" id="stirrup_hr1_000_color_003" name="stirrup_hr1_000_color_003">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_000">
+          <texture id="stirrup_hr1_000_c0_003_ab" type="albedo" />
+          <texture id="stirrup_hr1_000_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_000_color_004" id="stirrup_hr1_000_color_004" name="stirrup_hr1_000_color_004">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_000">
+          <texture id="stirrup_hr1_000_c0_004_ab" type="albedo" />
+          <texture id="stirrup_hr1_000_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_000_color_005" id="stirrup_hr1_000_color_005" name="stirrup_hr1_000_color_005">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_000">
+          <texture id="stirrup_hr1_000_c0_005_ab" type="albedo" />
+          <texture id="stirrup_hr1_000_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_001_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_1_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_1_COLOR_0">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_001">
+          <texture id="stirrup_hr1_001_c0_000_ab" type="albedo" />
+          <texture id="stirrup_hr1_001_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_001_color_001" id="stirrup_hr1_001_color_001" name="stirrup_hr1_001_color_001">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_001">
+          <texture id="stirrup_hr1_001_c0_001_ab" type="albedo" />
+          <texture id="stirrup_hr1_001_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_001_color_002" id="stirrup_hr1_001_color_002" name="stirrup_hr1_001_color_002">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_001">
+          <texture id="stirrup_hr1_001_c0_002_ab" type="albedo" />
+          <texture id="stirrup_hr1_001_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_001_color_003" id="stirrup_hr1_001_color_003" name="stirrup_hr1_001_color_003">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_001">
+          <texture id="stirrup_hr1_001_c0_003_ab" type="albedo" />
+          <texture id="stirrup_hr1_001_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_001_color_004" id="stirrup_hr1_001_color_004" name="stirrup_hr1_001_color_004">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_001">
+          <texture id="stirrup_hr1_001_c0_004_ab" type="albedo" />
+          <texture id="stirrup_hr1_001_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_001_color_005" id="stirrup_hr1_001_color_005" name="stirrup_hr1_001_color_005">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_001">
+          <texture id="stirrup_hr1_001_c0_005_ab" type="albedo" />
+          <texture id="stirrup_hr1_001_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_002_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_2_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_2_COLOR_0">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_002">
+          <texture id="stirrup_hr1_002_c0_000_ab" type="albedo" />
+          <texture id="stirrup_hr1_002_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_002_color_001" id="stirrup_hr1_002_color_001" name="stirrup_hr1_002_color_001">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_002">
+          <texture id="stirrup_hr1_002_c0_001_ab" type="albedo" />
+          <texture id="stirrup_hr1_002_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_002_color_002" id="stirrup_hr1_002_color_002" name="stirrup_hr1_002_color_002">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_002">
+          <texture id="stirrup_hr1_002_c0_002_ab" type="albedo" />
+          <texture id="stirrup_hr1_002_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_002_color_003" id="stirrup_hr1_002_color_003" name="stirrup_hr1_002_color_003">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_002">
+          <texture id="stirrup_hr1_002_c0_003_ab" type="albedo" />
+          <texture id="stirrup_hr1_002_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_002_color_004" id="stirrup_hr1_002_color_004" name="stirrup_hr1_002_color_004">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_002">
+          <texture id="stirrup_hr1_002_c0_004_ab" type="albedo" />
+          <texture id="stirrup_hr1_002_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_002_color_005" id="stirrup_hr1_002_color_005" name="stirrup_hr1_002_color_005">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_002">
+          <texture id="stirrup_hr1_002_c0_005_ab" type="albedo" />
+          <texture id="stirrup_hr1_002_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_003_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_3_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_3_COLOR_0">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_003">
+          <texture id="stirrup_hr1_003_c0_000_ab" type="albedo" />
+          <texture id="stirrup_hr1_003_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_003_color_001" id="stirrup_hr1_003_color_001" name="stirrup_hr1_003_color_001">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_003">
+          <texture id="stirrup_hr1_003_c0_001_ab" type="albedo" />
+          <texture id="stirrup_hr1_003_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_003_color_002" id="stirrup_hr1_003_color_002" name="stirrup_hr1_003_color_002">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_003">
+          <texture id="stirrup_hr1_003_c0_002_ab" type="albedo" />
+          <texture id="stirrup_hr1_003_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_003_color_003" id="stirrup_hr1_003_color_003" name="stirrup_hr1_003_color_003">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_003">
+          <texture id="stirrup_hr1_003_c0_003_ab" type="albedo" />
+          <texture id="stirrup_hr1_003_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_003_color_004" id="stirrup_hr1_003_color_004" name="stirrup_hr1_003_color_004">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_003">
+          <texture id="stirrup_hr1_003_c0_004_ab" type="albedo" />
+          <texture id="stirrup_hr1_003_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_003_color_005" id="stirrup_hr1_003_color_005" name="stirrup_hr1_003_color_005">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_003">
+          <texture id="stirrup_hr1_003_c0_005_ab" type="albedo" />
+          <texture id="stirrup_hr1_003_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_004_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_4_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_4_COLOR_0">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_004">
+          <texture id="stirrup_hr1_004_c0_000_ab" type="albedo" />
+          <texture id="stirrup_hr1_004_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_004_color_001" id="stirrup_hr1_004_color_001" name="stirrup_hr1_004_color_001">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_004">
+          <texture id="stirrup_hr1_004_c0_001_ab" type="albedo" />
+          <texture id="stirrup_hr1_004_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_004_color_002" id="stirrup_hr1_004_color_002" name="stirrup_hr1_004_color_002">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_004">
+          <texture id="stirrup_hr1_004_c0_002_ab" type="albedo" />
+          <texture id="stirrup_hr1_004_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_004_color_003" id="stirrup_hr1_004_color_003" name="stirrup_hr1_004_color_003">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_004">
+          <texture id="stirrup_hr1_004_c0_003_ab" type="albedo" />
+          <texture id="stirrup_hr1_004_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_004_color_004" id="stirrup_hr1_004_color_004" name="stirrup_hr1_004_color_004">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_004">
+          <texture id="stirrup_hr1_004_c0_004_ab" type="albedo" />
+          <texture id="stirrup_hr1_004_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_004_color_005" id="stirrup_hr1_004_color_005" name="stirrup_hr1_004_color_005">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_004">
+          <texture id="stirrup_hr1_004_c0_005_ab" type="albedo" />
+          <texture id="stirrup_hr1_004_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_005_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_5_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_5_COLOR_0">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_005">
+          <texture id="stirrup_hr1_005_c0_000_ab" type="albedo" />
+          <texture id="stirrup_hr1_005_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_005_color_001" id="stirrup_hr1_005_color_001" name="stirrup_hr1_005_color_001">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_005">
+          <texture id="stirrup_hr1_005_c0_001_ab" type="albedo" />
+          <texture id="stirrup_hr1_005_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_005_color_002" id="stirrup_hr1_005_color_002" name="stirrup_hr1_005_color_002">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_005">
+          <texture id="stirrup_hr1_005_c0_002_ab" type="albedo" />
+          <texture id="stirrup_hr1_005_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_005_color_003" id="stirrup_hr1_005_color_003" name="stirrup_hr1_005_color_003">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_005">
+          <texture id="stirrup_hr1_005_c0_003_ab" type="albedo" />
+          <texture id="stirrup_hr1_005_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_005_color_004" id="stirrup_hr1_005_color_004" name="stirrup_hr1_005_color_004">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_005">
+          <texture id="stirrup_hr1_005_c0_004_ab" type="albedo" />
+          <texture id="stirrup_hr1_005_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_005_color_005" id="stirrup_hr1_005_color_005" name="stirrup_hr1_005_color_005">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_005">
+          <texture id="stirrup_hr1_005_c0_005_ab" type="albedo" />
+          <texture id="stirrup_hr1_005_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_006_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_6_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_6_COLOR_0">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_006">
+          <texture id="stirrup_hr1_006_c0_000_ab" type="albedo" />
+          <texture id="stirrup_hr1_006_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_006_color_001" id="stirrup_hr1_006_color_001" name="stirrup_hr1_006_color_001">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_006">
+          <texture id="stirrup_hr1_006_c0_001_ab" type="albedo" />
+          <texture id="stirrup_hr1_006_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_006_color_002" id="stirrup_hr1_006_color_002" name="stirrup_hr1_006_color_002">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_006">
+          <texture id="stirrup_hr1_006_c0_002_ab" type="albedo" />
+          <texture id="stirrup_hr1_006_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_006_color_003" id="stirrup_hr1_006_color_003" name="stirrup_hr1_006_color_003">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_006">
+          <texture id="stirrup_hr1_006_c0_003_ab" type="albedo" />
+          <texture id="stirrup_hr1_006_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_006_color_004" id="stirrup_hr1_006_color_004" name="stirrup_hr1_006_color_004">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_006">
+          <texture id="stirrup_hr1_006_c0_004_ab" type="albedo" />
+          <texture id="stirrup_hr1_006_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_006_color_005" id="stirrup_hr1_006_color_005" name="stirrup_hr1_006_color_005">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_006">
+          <texture id="stirrup_hr1_006_c0_005_ab" type="albedo" />
+          <texture id="stirrup_hr1_006_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_007_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_7_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_7_COLOR_0">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_007">
+          <texture id="stirrup_hr1_007_c0_000_ab" type="albedo" />
+          <texture id="stirrup_hr1_007_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_007_color_001" id="stirrup_hr1_007_color_001" name="stirrup_hr1_007_color_001">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_007">
+          <texture id="stirrup_hr1_007_c0_001_ab" type="albedo" />
+          <texture id="stirrup_hr1_007_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_007_color_002" id="stirrup_hr1_007_color_002" name="stirrup_hr1_007_color_002">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_007">
+          <texture id="stirrup_hr1_007_c0_002_ab" type="albedo" />
+          <texture id="stirrup_hr1_007_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_007_color_003" id="stirrup_hr1_007_color_003" name="stirrup_hr1_007_color_003">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_007">
+          <texture id="stirrup_hr1_007_c0_003_ab" type="albedo" />
+          <texture id="stirrup_hr1_007_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_007_color_004" id="stirrup_hr1_007_color_004" name="stirrup_hr1_007_color_004">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_007">
+          <texture id="stirrup_hr1_007_c0_004_ab" type="albedo" />
+          <texture id="stirrup_hr1_007_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_007_color_005" id="stirrup_hr1_007_color_005" name="stirrup_hr1_007_color_005">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_007">
+          <texture id="stirrup_hr1_007_c0_005_ab" type="albedo" />
+          <texture id="stirrup_hr1_007_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_008_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_8_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_STIRRUP_8_COLOR_0">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_008">
+          <texture id="stirrup_hr1_008_c0_000_ab" type="albedo" />
+          <texture id="stirrup_hr1_008_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_008_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_008_color_001" id="stirrup_hr1_008_color_001" name="stirrup_hr1_008_color_001">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_008">
+          <texture id="stirrup_hr1_008_c0_001_ab" type="albedo" />
+          <texture id="stirrup_hr1_008_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_008_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_008_color_002" id="stirrup_hr1_008_color_002" name="stirrup_hr1_008_color_002">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_008">
+          <texture id="stirrup_hr1_008_c0_002_ab" type="albedo" />
+          <texture id="stirrup_hr1_008_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_008_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_008_color_003" id="stirrup_hr1_008_color_003" name="stirrup_hr1_008_color_003">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_008">
+          <texture id="stirrup_hr1_008_c0_003_ab" type="albedo" />
+          <texture id="stirrup_hr1_008_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_008_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_008_color_004" id="stirrup_hr1_008_color_004" name="stirrup_hr1_008_color_004">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_008">
+          <texture id="stirrup_hr1_008_c0_004_ab" type="albedo" />
+          <texture id="stirrup_hr1_008_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_008_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="stirrup_hr1_008_color_005" id="stirrup_hr1_008_color_005" name="stirrup_hr1_008_color_005">
+      <components>
+        <component category="saddle_stirrups" id="stirrup_hr1_008">
+          <texture id="stirrup_hr1_008_c0_005_ab" type="albedo" />
+          <texture id="stirrup_hr1_008_c0_000_nm" type="normal" />
+          <texture id="stirrup_hr1_008_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_000_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_FENDER_0_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_FENDER_0_COLOR_0">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_000">
+          <texture id="fender_hr1_000_c0_000_ab" type="albedo" />
+          <texture id="fender_hr1_000_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_000_color_001" id="fender_hr1_000_color_001" name="fender_hr1_000_color_001">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_000">
+          <texture id="fender_hr1_000_c0_001_ab" type="albedo" />
+          <texture id="fender_hr1_000_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_000_color_002" id="fender_hr1_000_color_002" name="fender_hr1_000_color_002">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_000">
+          <texture id="fender_hr1_000_c0_002_ab" type="albedo" />
+          <texture id="fender_hr1_000_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_000_color_003" id="fender_hr1_000_color_003" name="fender_hr1_000_color_003">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_000">
+          <texture id="fender_hr1_000_c0_003_ab" type="albedo" />
+          <texture id="fender_hr1_000_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_000_color_004" id="fender_hr1_000_color_004" name="fender_hr1_000_color_004">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_000">
+          <texture id="fender_hr1_000_c0_004_ab" type="albedo" />
+          <texture id="fender_hr1_000_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_000_color_005" id="fender_hr1_000_color_005" name="fender_hr1_000_color_005">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_000">
+          <texture id="fender_hr1_000_c0_005_ab" type="albedo" />
+          <texture id="fender_hr1_000_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_000_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_001_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_FENDER_1_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_FENDER_1_COLOR_0">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_001">
+          <texture id="fender_hr1_001_c0_000_ab" type="albedo" />
+          <texture id="fender_hr1_001_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_001_color_001" id="fender_hr1_001_color_001" name="fender_hr1_001_color_001">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_001">
+          <texture id="fender_hr1_001_c0_001_ab" type="albedo" />
+          <texture id="fender_hr1_001_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_001_color_002" id="fender_hr1_001_color_002" name="fender_hr1_001_color_002">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_001">
+          <texture id="fender_hr1_001_c0_002_ab" type="albedo" />
+          <texture id="fender_hr1_001_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_001_color_003" id="fender_hr1_001_color_003" name="fender_hr1_001_color_003">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_001">
+          <texture id="fender_hr1_001_c0_003_ab" type="albedo" />
+          <texture id="fender_hr1_001_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_001_color_004" id="fender_hr1_001_color_004" name="fender_hr1_001_color_004">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_001">
+          <texture id="fender_hr1_001_c0_004_ab" type="albedo" />
+          <texture id="fender_hr1_001_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_001_color_005" id="fender_hr1_001_color_005" name="fender_hr1_001_color_005">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_001">
+          <texture id="fender_hr1_001_c0_005_ab" type="albedo" />
+          <texture id="fender_hr1_001_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_001_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_002_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_FENDER_2_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_FENDER_2_COLOR_0">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_002">
+          <texture id="fender_hr1_002_c0_000_ab" type="albedo" />
+          <texture id="fender_hr1_002_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_002_color_001" id="fender_hr1_002_color_001" name="fender_hr1_002_color_001">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_002">
+          <texture id="fender_hr1_002_c0_001_ab" type="albedo" />
+          <texture id="fender_hr1_002_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_002_color_002" id="fender_hr1_002_color_002" name="fender_hr1_002_color_002">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_002">
+          <texture id="fender_hr1_002_c0_002_ab" type="albedo" />
+          <texture id="fender_hr1_002_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_002_color_003" id="fender_hr1_002_color_003" name="fender_hr1_002_color_003">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_002">
+          <texture id="fender_hr1_002_c0_003_ab" type="albedo" />
+          <texture id="fender_hr1_002_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_002_color_004" id="fender_hr1_002_color_004" name="fender_hr1_002_color_004">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_002">
+          <texture id="fender_hr1_002_c0_004_ab" type="albedo" />
+          <texture id="fender_hr1_002_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_002_color_005" id="fender_hr1_002_color_005" name="fender_hr1_002_color_005">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_002">
+          <texture id="fender_hr1_002_c0_005_ab" type="albedo" />
+          <texture id="fender_hr1_002_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_002_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_003_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_FENDER_3_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_FENDER_3_COLOR_0">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_003">
+          <texture id="fender_hr1_003_c0_000_ab" type="albedo" />
+          <texture id="fender_hr1_003_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_003_color_001" id="fender_hr1_003_color_001" name="fender_hr1_003_color_001">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_003">
+          <texture id="fender_hr1_003_c0_001_ab" type="albedo" />
+          <texture id="fender_hr1_003_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_003_color_002" id="fender_hr1_003_color_002" name="fender_hr1_003_color_002">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_003">
+          <texture id="fender_hr1_003_c0_002_ab" type="albedo" />
+          <texture id="fender_hr1_003_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_003_color_003" id="fender_hr1_003_color_003" name="fender_hr1_003_color_003">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_003">
+          <texture id="fender_hr1_003_c0_003_ab" type="albedo" />
+          <texture id="fender_hr1_003_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_003_color_004" id="fender_hr1_003_color_004" name="fender_hr1_003_color_004">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_003">
+          <texture id="fender_hr1_003_c0_004_ab" type="albedo" />
+          <texture id="fender_hr1_003_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_003_color_005" id="fender_hr1_003_color_005" name="fender_hr1_003_color_005">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_003">
+          <texture id="fender_hr1_003_c0_005_ab" type="albedo" />
+          <texture id="fender_hr1_003_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_003_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_004_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_FENDER_4_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_FENDER_4_COLOR_0">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_004">
+          <texture id="fender_hr1_004_c0_000_ab" type="albedo" />
+          <texture id="fender_hr1_004_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_004_color_001" id="fender_hr1_004_color_001" name="fender_hr1_004_color_001">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_004">
+          <texture id="fender_hr1_004_c0_001_ab" type="albedo" />
+          <texture id="fender_hr1_004_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_004_color_002" id="fender_hr1_004_color_002" name="fender_hr1_004_color_002">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_004">
+          <texture id="fender_hr1_004_c0_002_ab" type="albedo" />
+          <texture id="fender_hr1_004_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_004_color_003" id="fender_hr1_004_color_003" name="fender_hr1_004_color_003">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_004">
+          <texture id="fender_hr1_004_c0_003_ab" type="albedo" />
+          <texture id="fender_hr1_004_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_004_color_004" id="fender_hr1_004_color_004" name="fender_hr1_004_color_004">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_004">
+          <texture id="fender_hr1_004_c0_004_ab" type="albedo" />
+          <texture id="fender_hr1_004_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_004_color_005" id="fender_hr1_004_color_005" name="fender_hr1_004_color_005">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_004">
+          <texture id="fender_hr1_004_c0_005_ab" type="albedo" />
+          <texture id="fender_hr1_004_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_004_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_005_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_FENDER_5_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_FENDER_5_COLOR_0">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_005">
+          <texture id="fender_hr1_005_c0_000_ab" type="albedo" />
+          <texture id="fender_hr1_005_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_005_color_001" id="fender_hr1_005_color_001" name="fender_hr1_005_color_001">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_005">
+          <texture id="fender_hr1_005_c0_001_ab" type="albedo" />
+          <texture id="fender_hr1_005_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_005_color_002" id="fender_hr1_005_color_002" name="fender_hr1_005_color_002">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_005">
+          <texture id="fender_hr1_005_c0_002_ab" type="albedo" />
+          <texture id="fender_hr1_005_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_005_color_003" id="fender_hr1_005_color_003" name="fender_hr1_005_color_003">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_005">
+          <texture id="fender_hr1_005_c0_003_ab" type="albedo" />
+          <texture id="fender_hr1_005_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_005_color_004" id="fender_hr1_005_color_004" name="fender_hr1_005_color_004">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_005">
+          <texture id="fender_hr1_005_c0_004_ab" type="albedo" />
+          <texture id="fender_hr1_005_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_005_color_005" id="fender_hr1_005_color_005" name="fender_hr1_005_color_005">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_005">
+          <texture id="fender_hr1_005_c0_005_ab" type="albedo" />
+          <texture id="fender_hr1_005_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_005_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_006_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_FENDER_6_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_FENDER_6_COLOR_0">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_006">
+          <texture id="fender_hr1_006_c0_000_ab" type="albedo" />
+          <texture id="fender_hr1_006_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_006_color_001" id="fender_hr1_006_color_001" name="fender_hr1_006_color_001">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_006">
+          <texture id="fender_hr1_006_c0_001_ab" type="albedo" />
+          <texture id="fender_hr1_006_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_006_color_002" id="fender_hr1_006_color_002" name="fender_hr1_006_color_002">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_006">
+          <texture id="fender_hr1_006_c0_002_ab" type="albedo" />
+          <texture id="fender_hr1_006_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_006_color_003" id="fender_hr1_006_color_003" name="fender_hr1_006_color_003">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_006">
+          <texture id="fender_hr1_006_c0_003_ab" type="albedo" />
+          <texture id="fender_hr1_006_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_006_color_004" id="fender_hr1_006_color_004" name="fender_hr1_006_color_004">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_006">
+          <texture id="fender_hr1_006_c0_004_ab" type="albedo" />
+          <texture id="fender_hr1_006_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_006_color_005" id="fender_hr1_006_color_005" name="fender_hr1_006_color_005">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_006">
+          <texture id="fender_hr1_006_c0_005_ab" type="albedo" />
+          <texture id="fender_hr1_006_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_006_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_007_color_000" id="HORSE_EQUIPMENT_SADDLE_HR1_FENDER_7_COLOR_0" name="HORSE_EQUIPMENT_SADDLE_HR1_FENDER_7_COLOR_0">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_007">
+          <texture id="fender_hr1_007_c0_000_ab" type="albedo" />
+          <texture id="fender_hr1_007_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_007_color_001" id="fender_hr1_007_color_001" name="fender_hr1_007_color_001">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_007">
+          <texture id="fender_hr1_007_c0_001_ab" type="albedo" />
+          <texture id="fender_hr1_007_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_007_color_002" id="fender_hr1_007_color_002" name="fender_hr1_007_color_002">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_007">
+          <texture id="fender_hr1_007_c0_002_ab" type="albedo" />
+          <texture id="fender_hr1_007_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_007_color_003" id="fender_hr1_007_color_003" name="fender_hr1_007_color_003">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_007">
+          <texture id="fender_hr1_007_c0_003_ab" type="albedo" />
+          <texture id="fender_hr1_007_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_007_color_004" id="fender_hr1_007_color_004" name="fender_hr1_007_color_004">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_007">
+          <texture id="fender_hr1_007_c0_004_ab" type="albedo" />
+          <texture id="fender_hr1_007_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+    <item description="fender_hr1_007_color_005" id="fender_hr1_007_color_005" name="fender_hr1_007_color_005">
+      <components>
+        <component category="saddle_fenders" id="fender_hr1_007">
+          <texture id="fender_hr1_007_c0_005_ab" type="albedo" />
+          <texture id="fender_hr1_007_c0_000_nm" type="normal" />
+          <texture id="fender_hr1_007_c0_000_m" type="material" />
+        </component>
+      </components>
+    </item>
+  </UNK_6DB663AB>
+</root>

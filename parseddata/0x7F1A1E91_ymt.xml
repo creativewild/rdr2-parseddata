@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4A1A2EA>
+    <camp name="TAL_0" pos="[-2256.2, -1869.6, 120.0141]" zone="1">
+      <preset recipe="CFRT_UNIQUE_TREE_SCAFF1" />
+    </camp>
+    <camp name="TAL_1" pos="[-2043.712, -1799.445, 114.7959]" zone="1">
+      <preset recipe="CFRT_FOLIAGE_CONIFEROUS_SML1" />
+    </camp>
+    <camp name="TAL_2 Scavenger (Bear)" pos="[-2167.581, -1765.488, 138.8783]" schedule="HSID_SCAVENGER" zone="2">
+      <preset recipe="CFRT_HOBO_LRG1" />
+    </camp>
+    <camp camper="Criminal" name="TAL_3" pos="[-2220.421, -1689.662, 141.4693]" zone="2">
+      <preset cluster="pg_ambient_camp_add_butcher01" core="pg_ambient_campfire01ax" id="TAL_3" tent="pg_ambcamp01x_tent_sticks" travel="pg_ambient_camp_add_PackCart01" />
+    </camp>
+    <camp name="TAL_4" pos="[-2140.052, -1494.227, 139.909]" zone="2">
+      <preset recipe="CFRT_DBL_HUNTER" />
+    </camp>
+    <camp UNK_D43B0E78="tall_5_rope_ends" name="TAL_5" pos="[-2188.504, -1434.742, 136.6764]" zone="2">
+      <preset recipe="CFRT_UNIQUE_TREE_TIE2" />
+    </camp>
+    <camp name="TAL_6" pos="[-2331.433, -1396.048, 142.7258]" zone="2">
+      <preset recipe="CFRT_HERBALIST_LRG1" />
+    </camp>
+    <camp UNK_DA3CFFD1="true" camper="Rough" name="TAL_7 Robbery" pos="[-2414.786, -1342.548, 152.858]" zone="2">
+      <preset cluster="pg_ambient_camp_add_bathtub01" core="pg_ambient_campfire01bx" id="TAL_7 Robbery" tent="pg_ambcamp01x_tent_sticks_tall" travel="pg_ambient_camp_add_cart01" />
+    </camp>
+    <camp camper="Hunter" name="TAL_8" pos="[-2229.221, -1292.981, 133.229]" zone="3">
+      <preset cluster="pg_ambient_camp_add_gamePole01" core="pg_ambient_campfire01ax" id="TAL_8" tent="pg_ambcamp01x_tent_pupoil02" travel="pg_ambient_camp_add_PackCart01" />
+    </camp>
+    <camp name="TAL_9" pos="[-2015.239, -1309.898, 114.871]" zone="2">
+      <preset recipe="CFRT_DBL_CONIFEROUS" />
+    </camp>
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_tal_story_emranch" name="TAL_10 STY-EmeraldRanch" pos="[-2002.941, -1166.401, 98.90932]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_5" story="CSH_EMR_STORY" />
+    <camp name="GRT_2" pos="[-1816.616, -1411.358, 94.42287]" zone="1">
+      <preset recipe="CFRT_GENERIC_LRG_PLAIN" />
+    </camp>
+  </UNK_B4A1A2EA>
+</root>

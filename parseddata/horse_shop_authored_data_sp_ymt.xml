@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_1AF9B630 id="ST_HORSE_SHOP">
+    <region id="REGION_HRT_VALENTINE">
+      <vector data="[-369.8832, 787.0, 116.1954]" id="horsePos" />
+      <float data="270.0" id="horseHeading" />
+      <vector data="[2.225, 3.73, 1.0]" id="diagonalCollisionBox" />
+      <vector data="[-363.0903, 799.8878, 115.2581]" id="droppedHatPos" />
+      <vector data="[-363.4, 798.6, 116.5]" id="saddleCamPos" />
+      <vector data="[-15.7046, 0.0, 66.9386]" id="saddleCamRot" />
+      <vector data="[-357.6993, 788.1744, 116.138]" id="activeHorsePos" />
+      <float data="0.0" id="activeHorseHeading" />
+      <vector data="[1.9684, 2.938, 1.6]" id="activeHorseCamOffset" />
+      <vector data="[-357.6993, 788.1744, 116.138]" id="playerExitSpawnPos" />
+      <float data="283.3953" id="playerExitSpawnHeading" />
+      <vector data="[-367.196, 786.728, 116.1529]" id="shopKeeperCamPos" />
+      <vector data="[7.9823, 0.0, -18.1742]" id="shopKeeperCamRot" />
+      <float data="47.4261" id="shopKeeperCamFOV" />
+      <float data="3" id="shopKeeperCamFNum" />
+      <float data="33" id="shopKeeperCamFocalLength" />
+      <float data="3.68" id="shopKeeperCamFocusDistance" />
+      <int data="3" id="numPens" />
+      <vector data="[-369.1126, 781.4221, 116.5]" id="penPos0" />
+      <vector data="[-371.7212, 781.5007, 116.5]" id="penPos1" />
+      <vector data="[-374.7855, 781.563, 116.5]" id="penPos2" />
+      <float data="0.0" id="penHeading0" />
+      <float data="0.0" id="penHeading1" />
+      <float data="0.0" id="penHeading2" />
+      <vector data="[-0.4027, 3.2739, 0.5]" id="ownedPenCamOffset0" />
+      <vector data="[-0.4027, 3.2739, 0.5]" id="ownedPenCamOffset1" />
+      <vector data="[-0.4027, 3.2739, 0.5]" id="ownedPenCamOffset2" />
+      <float data="42.0" id="ownedPenCamFOV0" />
+      <float data="42.0" id="ownedPenCamFOV1" />
+      <float data="42.0" id="ownedPenCamFOV2" />
+      <float data="7.5" id="ownedPenCamFNum" />
+      <float data="35" id="ownedPenCamFocalLength" />
+      <float data="1.68" id="ownedPenCamFocusDistance" />
+      <int data="5" id="numShopPens" />
+      <vector data="[-369.4892, 792.4187, 116.5]" id="shopPenPos0" />
+      <vector data="[-372.4594, 792.1448, 116.5]" id="shopPenPos1" />
+      <vector data="[-375.3773, 791.795, 116.5]" id="shopPenPos2" />
+      <vector data="[-363.0708, 781.8851, 116.5]" id="shopPenPos3" />
+      <vector data="[-366.0562, 781.5255, 116.5]" id="shopPenPos4" />
+      <float data="180.0" id="shopPenHeading0" />
+      <float data="180.0" id="shopPenHeading1" />
+      <float data="180.0" id="shopPenHeading2" />
+      <float data="0.0" id="shopPenHeading3" />
+      <float data="0.0" id="shopPenHeading4" />
+      <vector data="[-0.2931, 3.5142, 0.5]" id="shopPenCamOffset0" />
+      <vector data="[-0.2931, 3.5142, 0.5]" id="shopPenCamOffset1" />
+      <vector data="[-0.2931, 3.5142, 0.5]" id="shopPenCamOffset2" />
+      <vector data="[-0.2931, 3.5142, 0.5]" id="shopPenCamOffset3" />
+      <vector data="[-0.2931, 3.5142, 0.5]" id="shopPenCamOffset4" />
+      <float data="42.0" id="shopPenCamFOV0" />
+      <float data="42.0" id="shopPenCamFOV1" />
+      <float data="42.0" id="shopPenCamFOV2" />
+      <float data="42.0" id="shopPenCamFOV3" />
+      <float data="42.0" id="shopPenCamFOV4" />
+      <float data="7.5" id="shopPenCamFNum" />
+      <float data="28.48" id="shopPenCamFocalLength" />
+      <float data="1.68" id="shopPenCamFocusDistance" />
+      <vector data="[-355.1141, 801.9305, 115.2452]" id="holding1Pos" />
+      <float data="180.0" id="holding1Heading" />
+      <vector data="[-353.6035, 801.8997, 115.1902]" id="holding2Pos" />
+      <float data="180.0" id="holding2Heading" />
+      <vector data="[-392.6954, 778.2996, 115.5156]" id="holding3VolPos" />
+      <float data="8.0" id="holding3VolRadius" />
+      <vector data="[-374.1284, 804.1434, 117.8709]" id="coachSpawnVolPos" />
+      <float data="270.0" id="coachSpawnHeading" />
+      <vector data="[-362.8567, 798.3038, 115.7576]" id="horseCarriablesSpawnVolPos" />
+      <int data="2" id="numShopEntrances" />
+      <vector data="[-361.9031, 787.535, 115.1952]" id="shopEntrancePos0" />
+      <float data="0" id="shopEntranceHeading0" />
+      <vector data="[-376.9041, 786.5308, 115.1673]" id="shopEntrancePos1" />
+      <float data="90" id="shopEntranceHeading1" />
+      <vector data="[-370.9709, 789.7946, 115.1495]" id="shopkeeperScenarioPos" />
+      <float data="0" id="shopkeeperScenarioHeading" />
+      <vector data="[-361.8084, 787.4797, 115.1952]" id="shopkeeperWarpPos" />
+    </region>
+    <region id="REGION_BAY_SAINT_DENIS">
+      <vector data="[2503.259, -1441.508, 45.31266]" id="horsePos" />
+      <float data="180.0" id="horseHeading" />
+      <vector data="[2.42, 3.73, 1.0]" id="diagonalCollisionBox" />
+      <vector data="[2508.686, -1462.5, 45.31579]" id="droppedHatPos" />
+      <vector data="[1.1882, -3.5095, 2.5059]" id="saddleCamOffset" />
+      <vector data="[-363.4, 798.6, 116.5]" id="saddleCamPos" />
+      <vector data="[-15.7046, 0.0, 66.9386]" id="saddleCamRot" />
+      <vector data="[2494.585, -1450.327, 45.21372]" id="activeHorsePos" />
+      <float data="90.0" id="activeHorseHeading" />
+      <vector data="[1.9684, 2.938, 1.6]" id="activeHorseCamOffset" />
+      <vector data="[2494.585, -1450.327, 45.21372]" id="playerExitSpawnPos" />
+      <float data="90.0" id="playerExitSpawnHeading" />
+      <vector data="[2502.582, -1442.619, 46.651]" id="shopKeeperCamPos" />
+      <vector data="[-7.9411, 0.0, 146.9233]" id="shopKeeperCamRot" />
+      <float data="42.5081" id="shopKeeperCamFOV" />
+      <float data="3" id="shopKeeperCamFNum" />
+      <float data="35" id="shopKeeperCamFocalLength" />
+      <float data="2.98" id="shopKeeperCamFocusDistance" />
+      <int data="3" id="numPens" />
+      <vector data="[2508.704, -1436.5, 46.45]" id="penPos0" />
+      <vector data="[2508.727, -1440.0, 46.45]" id="penPos1" />
+      <vector data="[2508.727, -1443.0, 46.45]" id="penPos2" />
+      <float data="90.0" id="penHeading0" />
+      <float data="90.0" id="penHeading1" />
+      <float data="90.0" id="penHeading2" />
+      <vector data="[-0.7988, 3.4265, 0.6]" id="ownedPenCamOffset0" />
+      <vector data="[-0.7988, 3.4265, 0.6]" id="ownedPenCamOffset1" />
+      <vector data="[-0.7988, 3.4265, 0.6]" id="ownedPenCamOffset2" />
+      <float data="42.0" id="ownedPenCamFOV0" />
+      <float data="42.0" id="ownedPenCamFOV1" />
+      <float data="42.0" id="ownedPenCamFOV2" />
+      <float data="7.5" id="ownedPenCamFNum" />
+      <float data="28.48" id="ownedPenCamFocalLength" />
+      <float data="1.68" id="ownedPenCamFocusDistance" />
+      <int data="3" id="numShopPens" />
+      <vector data="[2508.947, -1447.4, 46.45]" id="shopPenPos0" />
+      <vector data="[2508.947, -1450.269, 46.45]" id="shopPenPos1" />
+      <vector data="[2508.947, -1453.683, 46.45]" id="shopPenPos2" />
+      <float data="90.0" id="shopPenHeading0" />
+      <float data="90.0" id="shopPenHeading1" />
+      <float data="90.0" id="shopPenHeading2" />
+      <vector data="[-0.7988, 3.4265, 0.6]" id="shopPenCamOffset0" />
+      <vector data="[-0.7988, 3.4265, 0.6]" id="shopPenCamOffset1" />
+      <vector data="[-0.7988, 3.4265, 0.6]" id="shopPenCamOffset2" />
+      <float data="42.0" id="shopPenCamFOV0" />
+      <float data="42.0" id="shopPenCamFOV1" />
+      <float data="42.0" id="shopPenCamFOV2" />
+      <float data="7.5" id="shopPenCamFNum" />
+      <float data="28.48" id="shopPenCamFocalLength" />
+      <float data="1.68" id="shopPenCamFocusDistance" />
+      <vector data="[2496.69, -1438.434, 45.32683]" id="holding1Pos" />
+      <float data="90.0" id="holding1Heading" />
+      <vector data="[2496.686, -1436.346, 45.32688]" id="holding2Pos" />
+      <float data="90.0" id="holding2Heading" />
+      <vector data="[2501.272, -1429.579, 45.17522]" id="holding3VolPos" />
+      <float data="4.0" id="holding3VolRadius" />
+      <vector data="[2500.308, -1418.968, 45.13254]" id="coachSpawnVolPos" />
+      <float data="180.0" id="coachSpawnHeading" />
+      <vector data="[2499.441, -1433.011, 45.28401]" id="horseCarriablesSpawnVolPos" />
+      <int data="4" id="numShopEntrances" />
+      <vector data="[2502.259, -1464.604, 45.31366]" id="shopEntrancePos0" />
+      <float data="0" id="shopEntranceHeading0" />
+      <vector data="[2514.186, -1464.834, 45.31316]" id="shopEntrancePos1" />
+      <float data="0" id="shopEntranceHeading1" />
+      <vector data="[2499.667, -1450.139, 45.31302]" id="shopEntrancePos2" />
+      <float data="90" id="shopEntranceHeading2" />
+      <vector data="[2502.266, -1435.447, 45.31796]" id="shopEntrancePos3" />
+      <float data="0" id="shopEntranceHeading3" />
+      <vector data="[2506.046, -1442.15, 45.31863]" id="shopkeeperScenarioPos" />
+      <float data="90" id="shopkeeperScenarioHeading" />
+      <vector data="[2505.47, -1446.701, 45.31228]" id="shopkeeperWarpPos" />
+    </region>
+    <region id="REGION_GRT_BLACKWATER">
+      <vector data="[-863.438, -1366.244, 43.8052]" id="horsePos" />
+      <float data="90.0" id="horseHeading" />
+      <vector data="[2.2, 3.73, 1.0]" id="diagonalCollisionBox" />
+      <vector data="[-870.9222, -1359.086, 42.67086]" id="droppedHatPos" />
+      <vector data="[-363.4, 798.6, 116.5]" id="saddleCamPos" />
+      <vector data="[-15.7046, 0.0, 66.9386]" id="saddleCamRot" />
+      <vector data="[-873.6778, -1356.932, 42.56723]" id="activeHorsePos" />
+      <float data="1.92" id="activeHorseHeading" />
+      <vector data="[1.9684, 2.938, 1.6]" id="activeHorseCamOffset" />
+      <vector data="[-873.6778, -1356.932, 42.56723]" id="playerExitSpawnPos" />
+      <float data="1.92" id="playerExitSpawnHeading" />
+      <vector data="[-876.3066, -1361.889, 43.2445]" id="shopKeeperCamPos" />
+      <vector data="[2.0917, 0.0, 155.9012]" id="shopKeeperCamRot" />
+      <float data="37.8934" id="shopKeeperCamFOV" />
+      <float data="3" id="shopKeeperCamFNum" />
+      <float data="35" id="shopKeeperCamFocalLength" />
+      <float data="3.37" id="shopKeeperCamFocusDistance" />
+      <int data="3" id="numPens" />
+      <vector data="[-861.0, -1371.221, 44.05]" id="penPos0" />
+      <vector data="[-864.4691, -1371.21, 44.05]" id="penPos1" />
+      <vector data="[-867.8, -1371.348, 44.05]" id="penPos2" />
+      <float data="0.0" id="penHeading0" />
+      <float data="0.0" id="penHeading1" />
+      <float data="0.0" id="penHeading2" />
+      <vector data="[0.8, 4.2565, 0.05]" id="ownedPenCamOffset0" />
+      <vector data="[0.8, 4.2565, 0.05]" id="ownedPenCamOffset1" />
+      <vector data="[0.8, 4.2565, 0.05]" id="ownedPenCamOffset2" />
+      <float data="43.0" id="ownedPenCamFOV0" />
+      <float data="43.0" id="ownedPenCamFOV1" />
+      <float data="43.0" id="ownedPenCamFOV2" />
+      <float data="7.5" id="ownedPenCamFNum" />
+      <float data="28.48" id="ownedPenCamFocalLength" />
+      <float data="1.68" id="ownedPenCamFocusDistance" />
+      <int data="3" id="numShopPens" />
+      <vector data="[-867.3337, -1361.334, 44.05]" id="shopPenPos0" />
+      <vector data="[-864.0938, -1361.374, 44.05]" id="shopPenPos1" />
+      <vector data="[-860.8175, -1361.51, 44.05]" id="shopPenPos2" />
+      <float data="180.0" id="shopPenHeading0" />
+      <float data="180.0" id="shopPenHeading1" />
+      <float data="180.0" id="shopPenHeading2" />
+      <vector data="[0.8, 4.2565, 0.05]" id="shopPenCamOffset0" />
+      <vector data="[0.8, 4.2565, 0.05]" id="shopPenCamOffset1" />
+      <vector data="[0.8, 4.2565, 0.05]" id="shopPenCamOffset2" />
+      <float data="43.0" id="shopPenCamFOV0" />
+      <float data="43.0" id="shopPenCamFOV1" />
+      <float data="43.0" id="shopPenCamFOV2" />
+      <float data="7.5" id="shopPenCamFNum" />
+      <float data="28.48" id="shopPenCamFocalLength" />
+      <float data="1.68" id="shopPenCamFocusDistance" />
+      <vector data="[-859.9355, -1355.588, 42.51578]" id="holding1Pos" />
+      <float data="180.0" id="holding1Heading" />
+      <vector data="[-858.541, -1355.639, 42.50845]" id="holding2Pos" />
+      <float data="180.0" id="holding2Heading" />
+      <vector data="[-888.8157, -1366.928, 42.55536]" id="holding3VolPos" />
+      <float data="6.0" id="holding3VolRadius" />
+      <vector data="[-885.5377, -1387.511, 43.18726]" id="coachSpawnVolPos" />
+      <float data="0.0" id="coachSpawnHeading" />
+      <vector data="[-867.9723, -1356.029, 42.53014]" id="horseCarriablesSpawnVolPos" />
+      <int data="2" id="numShopEntrances" />
+      <vector data="[-873.753, -1359.973, 42.68236]" id="shopEntrancePos0" />
+      <float data="0" id="shopEntranceHeading0" />
+      <vector data="[-856.429, -1366.283, 42.53141]" id="shopEntrancePos1" />
+      <float data="0" id="shopEntranceHeading1" />
+      <vector data="[-862.621, -1369.046, 43.643]" id="shopkeeperScenarioPos" />
+      <float data="0.0" id="shopkeeperScenarioHeading" />
+      <vector data="[-874.3941, -1367.562, 42.52935]" id="shopkeeperWarpPos" />
+    </region>
+    <region id="REGION_BGV_STRAWBERRY">
+      <vector data="[-1820.757, -561.5499, 156.059]" id="horsePos" />
+      <float data="255.5" id="horseHeading" />
+      <vector data="[2.435, 3.73, 1.0]" id="diagonalCollisionBox" />
+      <vector data="[-1815.447, -567.8979, 156.0049]" id="droppedHatPos" />
+      <vector data="[-363.4, 798.6, 116.5]" id="saddleCamPos" />
+      <vector data="[-15.7046, 0.0, 66.9386]" id="saddleCamRot" />
+      <vector data="[-1811.075, -563.7875, 154.9997]" id="activeHorsePos" />
+      <float data="0.0" id="activeHorseHeading" />
+      <vector data="[1.9684, 2.938, 1.6]" id="activeHorseCamOffset" />
+      <vector data="[-1811.075, -563.7875, 154.9997]" id="playerExitSpawnPos" />
+      <float data="0.0" id="playerExitSpawnHeading" />
+      <vector data="[-1820.596, -559.6572, 155.828]" id="shopKeeperCamPos" />
+      <vector data="[-13.904, 0.0, 58.5618]" id="shopKeeperCamRot" />
+      <float data="45.0" id="shopKeeperCamFOV" />
+      <float data="1.66" id="shopKeeperCamFNum" />
+      <float data="35" id="shopKeeperCamFocalLength" />
+      <float data="1.48" id="shopKeeperCamFocusDistance" />
+      <int data="3" id="numPens" />
+      <vector data="[-1823.129, -555.6431, 156.6]" id="penPos0" />
+      <vector data="[-1825.796, -565.3656, 156.6]" id="penPos1" />
+      <vector data="[-1822.63, -566.2571, 156.6]" id="penPos2" />
+      <float data="167.0" id="penHeading0" />
+      <float data="345.0" id="penHeading1" />
+      <float data="345.0" id="penHeading2" />
+      <vector data="[-0.6, 2.863, 0.5]" id="ownedPenCamOffset0" />
+      <vector data="[-0.6, 2.863, 0.5]" id="ownedPenCamOffset1" />
+      <vector data="[-0.6, 2.863, 0.5]" id="ownedPenCamOffset2" />
+      <float data="42.0" id="ownedPenCamFOV0" />
+      <float data="42.0" id="ownedPenCamFOV1" />
+      <float data="42.0" id="ownedPenCamFOV2" />
+      <float data="7.5" id="ownedPenCamFNum" />
+      <float data="28.48" id="ownedPenCamFocalLength" />
+      <float data="1.68" id="ownedPenCamFocusDistance" />
+      <int data="3" id="numShopPens" />
+      <vector data="[-1814.555, -557.5134, 156.6]" id="shopPenPos0" />
+      <vector data="[-1817.655, -557.0908, 156.6]" id="shopPenPos1" />
+      <vector data="[-1820.431, -556.3431, 156.6]" id="shopPenPos2" />
+      <float data="167.0" id="shopPenHeading0" />
+      <float data="167.0" id="shopPenHeading1" />
+      <float data="167.0" id="shopPenHeading2" />
+      <vector data="[-0.6, 2.863, 0.5]" id="shopPenCamOffset0" />
+      <vector data="[-0.6, 2.863, 0.5]" id="shopPenCamOffset1" />
+      <vector data="[-0.6, 2.863, 0.5]" id="shopPenCamOffset2" />
+      <float data="42.0" id="shopPenCamFOV0" />
+      <float data="42.0" id="shopPenCamFOV1" />
+      <float data="42.0" id="shopPenCamFOV2" />
+      <float data="7.5" id="shopPenCamFNum" />
+      <float data="28.48" id="shopPenCamFocalLength" />
+      <float data="1.68" id="shopPenCamFocusDistance" />
+      <vector data="[-1815.755, -573.9429, 155.0087]" id="holding1Pos" />
+      <float data="0.0" id="holding1Heading" />
+      <vector data="[-1815.201, -572.1921, 155.0077]" id="holding2Pos" />
+      <float data="0.0" id="holding2Heading" />
+      <vector data="[-1827.144, -574.8065, 155.0038]" id="holding3VolPos" />
+      <float data="5.0" id="holding3VolRadius" />
+      <vector data="[-1793.635, -543.5572, 155.1869]" id="coachSpawnVolPos" />
+      <float data="0.0" id="coachSpawnHeading" />
+      <vector data="[-1815.128, -573.3941, 155.0084]" id="horseCarriablesSpawnVolPos" />
+      <int data="2" id="numShopEntrances" />
+      <vector data="[-1814.295, -563.2038, 155.0766]" id="shopEntrancePos0" />
+      <float data="0.0" id="shopEntranceHeading0" />
+      <vector data="[-1826.123, -560.1987, 155.0907]" id="shopEntrancePos1" />
+      <float data="73.47" id="shopEntranceHeading1" />
+      <vector data="[-1818.92, -559.3244, 155.0611]" id="shopkeeperScenarioPos" />
+      <float data="163.76" id="shopkeeperScenarioHeading" />
+      <vector data="[-1814.182, -562.0668, 155.0709]" id="shopkeeperWarpPos" />
+    </region>
+    <region id="REGION_SCM_HORSE_SHOP">
+      <vector data="[1210.091, -194.7009, 101.4569]" id="horsePos" />
+      <float data="17.0" id="horseHeading" />
+      <vector data="[2.495, 3.73, 1.0]" id="diagonalCollisionBox" />
+      <vector data="[1211.412, -185.131, 101.3316]" id="droppedHatPos" />
+      <vector data="[-363.4, 798.6, 116.5]" id="saddleCamPos" />
+      <vector data="[-15.7046, 0.0, 66.9386]" id="saddleCamRot" />
+      <vector data="[1205.891, -183.9089, 101.2838]" id="activeHorsePos" />
+      <float data="7.0" id="activeHorseHeading" />
+      <vector data="[1.9684, 2.938, 1.6]" id="activeHorseCamOffset" />
+      <vector data="[1205.891, -183.9089, 101.2838]" id="playerExitSpawnPos" />
+      <float data="18.8" id="playerExitSpawnHeading" />
+      <vector data="[1207.773, -194.3252, 101.3112]" id="shopKeeperCamPos" />
+      <vector data="[-19.4266, 0.0, -175.098]" id="shopKeeperCamRot" />
+      <float data="42.7925" id="shopKeeperCamFOV" />
+      <float data="1.96" id="shopKeeperCamFNum" />
+      <float data="35" id="shopKeeperCamFocalLength" />
+      <float data="1.69" id="shopKeeperCamFocusDistance" />
+      <int data="3" id="numPens" />
+      <vector data="[1205.593, -198.8297, 102.0]" id="penPos0" />
+      <vector data="[1215.538, -195.6097, 102.0]" id="penPos1" />
+      <vector data="[1214.869, -192.8022, 102.0]" id="penPos2" />
+      <float data="290.0" id="penHeading0" />
+      <float data="105.0" id="penHeading1" />
+      <float data="105.0" id="penHeading2" />
+      <vector data="[-0.3, 2.863, 0.0]" id="ownedPenCamOffset0" />
+      <vector data="[-0.3, 2.863, 0.0]" id="ownedPenCamOffset1" />
+      <vector data="[-0.3, 2.863, 0.0]" id="ownedPenCamOffset2" />
+      <float data="40.0" id="ownedPenCamFOV0" />
+      <float data="40.0" id="ownedPenCamFOV1" />
+      <float data="40.0" id="ownedPenCamFOV2" />
+      <float data="7.5" id="ownedPenCamFNum" />
+      <float data="28.48" id="ownedPenCamFocalLength" />
+      <float data="1.68" id="ownedPenCamFocusDistance" />
+      <int data="3" id="numShopPens" />
+      <vector data="[1202.489, -190.5593, 102.0]" id="shopPenPos0" />
+      <vector data="[1203.245, -193.623, 102.0]" id="shopPenPos1" />
+      <vector data="[1204.596, -196.1067, 102.0]" id="shopPenPos2" />
+      <float data="290.0" id="shopPenHeading0" />
+      <float data="290.0" id="shopPenHeading1" />
+      <float data="290.0" id="shopPenHeading2" />
+      <vector data="[-0.3, 2.863, 0.0]" id="shopPenCamOffset0" />
+      <vector data="[-0.3, 2.863, 0.0]" id="shopPenCamOffset1" />
+      <vector data="[-0.3, 2.863, 0.0]" id="shopPenCamOffset2" />
+      <float data="40.0" id="shopPenCamFOV0" />
+      <float data="40.0" id="shopPenCamFOV1" />
+      <float data="40.0" id="shopPenCamFOV2" />
+      <float data="7.5" id="shopPenCamFNum" />
+      <float data="28.48" id="shopPenCamFocalLength" />
+      <float data="1.68" id="shopPenCamFocusDistance" />
+      <vector data="[1199.467, -183.3027, 99.78293]" id="holding1Pos" />
+      <float data="0.0" id="holding1Heading" />
+      <vector data="[1198.467, -181.1771, 99.64074]" id="holding2Pos" />
+      <float data="0.0" id="holding2Heading" />
+      <vector data="[1234.701, -188.5158, 100.2334]" id="holding3VolPos" />
+      <float data="10.0" id="holding3VolRadius" />
+      <vector data="[1190.478, -173.5284, 99.14404]" id="coachSpawnVolPos" />
+      <float data="0.0" id="coachSpawnHeading" />
+      <vector data="[1215.781, -183.2493, 100.3488]" id="horseCarriablesSpawnVolPos" />
+      <int data="2" id="numShopEntrances" />
+      <vector data="[1207.512, -187.1891, 100.4027]" id="shopEntrancePos0" />
+      <float data="17.46" id="shopEntranceHeading0" />
+      <vector data="[1211.209, -198.8475, 100.3328]" id="shopEntrancePos1" />
+      <float data="0.0" id="shopEntranceHeading1" />
+      <vector data="[1206.713, -193.3959, 100.3857]" id="shopkeeperScenarioPos" />
+      <float data="0.0" id="shopkeeperScenarioHeading" />
+      <vector data="[1207.656, -186.8778, 100.3405]" id="shopkeeperWarpPos" />
+    </region>
+    <region id="REGION_ROA_VANHORNPOST">
+      <vector data="[2969.81, 796.8518, 50.40256]" id="horsePos" />
+      <float data="90.0" id="horseHeading" />
+      <vector data="[2.645, 3.73, 1.0]" id="diagonalCollisionBox" />
+      <vector data="[2960.437, 792.1623, 50.39946]" id="droppedHatPos" />
+      <vector data="[-363.4, 798.6, 116.5]" id="saddleCamPos" />
+      <vector data="[-15.7046, 0.0, 66.9386]" id="saddleCamRot" />
+      <vector data="[2955.432, 795.9939, 50.39946]" id="activeHorsePos" />
+      <float data="90.0" id="activeHorseHeading" />
+      <vector data="[1.9684, 2.938, 1.6]" id="activeHorseCamOffset" />
+      <vector data="[2955.432, 795.9939, 50.39946]" id="playerExitSpawnPos" />
+      <float data="90.0" id="playerExitSpawnHeading" />
+      <vector data="[2967.74, 795.2246, 51.3515]" id="shopKeeperCamPos" />
+      <vector data="[0.4773, 0.0, -151.7522]" id="shopKeeperCamRot" />
+      <float data="47.7669" id="shopKeeperCamFOV" />
+      <float data="4" id="shopKeeperCamFNum" />
+      <float data="35" id="shopKeeperCamFocalLength" />
+      <float data="2.2" id="shopKeeperCamFocusDistance" />
+      <int data="3" id="numPens" />
+      <vector data="[2961.334, 802.2183, 51.5]" id="penPos0" />
+      <vector data="[2964.254, 802.2183, 51.5]" id="penPos1" />
+      <vector data="[2967.109, 802.2183, 51.5]" id="penPos2" />
+      <float data="180.0" id="penHeading0" />
+      <float data="180.0" id="penHeading1" />
+      <float data="180.0" id="penHeading2" />
+      <vector data="[-1.0, 4.6, 1.0]" id="ownedPenCamOffset0" />
+      <vector data="[-1.0, 4.6, 1.0]" id="ownedPenCamOffset1" />
+      <vector data="[-1.0, 4.6, 1.0]" id="ownedPenCamOffset2" />
+      <float data="42.0" id="ownedPenCamFOV0" />
+      <float data="42.0" id="ownedPenCamFOV1" />
+      <float data="42.0" id="ownedPenCamFOV2" />
+      <float data="7.5" id="ownedPenCamFNum" />
+      <float data="28.48" id="ownedPenCamFocalLength" />
+      <float data="1.68" id="ownedPenCamFocusDistance" />
+      <int data="3" id="numShopPens" />
+      <vector data="[2970.085, 802.3006, 51.5]" id="shopPenPos0" />
+      <vector data="[2973.066, 801.9429, 51.5]" id="shopPenPos1" />
+      <vector data="[2972.768, 791.6138, 51.5]" id="shopPenPos2" />
+      <float data="180.0" id="shopPenHeading0" />
+      <float data="180.0" id="shopPenHeading1" />
+      <float data="0.0" id="shopPenHeading2" />
+      <vector data="[-1.0, 4.6, 1.0]" id="shopPenCamOffset0" />
+      <vector data="[-1.0, 4.6, 1.0]" id="shopPenCamOffset1" />
+      <vector data="[-1.0, 4.6, 1.0]" id="shopPenCamOffset2" />
+      <float data="42.0" id="shopPenCamFOV0" />
+      <float data="42.0" id="shopPenCamFOV1" />
+      <float data="42.0" id="shopPenCamFOV2" />
+      <float data="7.5" id="shopPenCamFNum" />
+      <float data="28.48" id="shopPenCamFocalLength" />
+      <float data="1.68" id="shopPenCamFocusDistance" />
+      <vector data="[2958.216, 787.4628, 50.39946]" id="holding1Pos" />
+      <float data="90.0" id="holding1Heading" />
+      <vector data="[2958.258, 785.4326, 50.39946]" id="holding2Pos" />
+      <float data="90.0" id="holding2Heading" />
+      <vector data="[2954.51, 810.1989, 50.47215]" id="holding3VolPos" />
+      <float data="6.0" id="holding3VolRadius" />
+      <vector data="[2936.82, 799.044, 50.40077]" id="coachSpawnVolPos" />
+      <float data="90.0" id="coachSpawnHeading" />
+      <vector data="[2958.344, 786.7661, 50.39946]" id="horseCarriablesSpawnVolPos" />
+      <int data="2" id="numShopEntrances" />
+      <vector data="[2959.725, 795.969, 50.40228]" id="shopEntrancePos0" />
+      <float data="90" id="shopEntranceHeading0" />
+      <vector data="[2974.673, 795.9483, 50.39822]" id="shopEntrancePos1" />
+      <float data="0" id="shopEntranceHeading1" />
+      <vector data="[2968.059, 792.8206, 50.40256]" id="shopkeeperScenarioPos" />
+      <float data="0.0" id="shopkeeperScenarioHeading" />
+      <vector data="[2960.123, 794.9871, 50.40256]" id="shopkeeperWarpPos" />
+    </region>
+    <region id="REGION_GAP_TUMBLEWEED">
+      <vector data="[-5521.924, -3044.513, -3.29078]" id="horsePos" />
+      <float data="270.0" id="horseHeading" />
+      <vector data="[2.99, 3.73, 1.0]" id="diagonalCollisionBox" />
+      <vector data="[-5510.216, -3039.507, -3.38929]" id="droppedHatPos" />
+      <vector data="[-5507.436, -3041.712, -2.1683]" id="saddleCamPos" />
+      <vector data="[-10.7253, 0.0, 77.4611]" id="saddleCamRot" />
+      <vector data="[-5507.997, -3044.546, -3.57183]" id="activeHorsePos" />
+      <float data="270.0" id="activeHorseHeading" />
+      <vector data="[1.9684, 2.938, 1.6]" id="activeHorseCamOffset" />
+      <vector data="[-5507.997, -3044.546, -3.57183]" id="playerExitSpawnPos" />
+      <float data="270.0" id="playerExitSpawnHeading" />
+      <vector data="[-5513.999, -3045.399, -2.2192]" id="shopKeeperCamPos" />
+      <vector data="[2.5309, 0.0, 14.1129]" id="shopKeeperCamRot" />
+      <float data="43.4019" id="shopKeeperCamFOV" />
+      <float data="1.85" id="shopKeeperCamFNum" />
+      <float data="35" id="shopKeeperCamFocalLength" />
+      <float data="4.78" id="shopKeeperCamFocusDistance" />
+      <int data="3" id="numPens" />
+      <vector data="[-5519.222, -3039.0, -2.1]" id="penPos0" />
+      <vector data="[-5525.059, -3039.0, -2.1]" id="penPos1" />
+      <vector data="[-5522.244, -3039.0, -2.1]" id="penPos2" />
+      <float data="0.0" id="penHeading0" />
+      <float data="0.0" id="penHeading1" />
+      <float data="0.0" id="penHeading2" />
+      <vector data="[-0.8, 3.50949, 0.50593]" id="ownedPenCamOffset0" />
+      <vector data="[-0.8, 3.50949, 0.50593]" id="ownedPenCamOffset1" />
+      <vector data="[-0.8, 3.50949, 0.50593]" id="ownedPenCamOffset2" />
+      <float data="42.0" id="ownedPenCamFOV0" />
+      <float data="42.0" id="ownedPenCamFOV1" />
+      <float data="42.0" id="ownedPenCamFOV2" />
+      <float data="7.5" id="ownedPenCamFNum" />
+      <float data="28.48" id="ownedPenCamFocalLength" />
+      <float data="1.68" id="ownedPenCamFocusDistance" />
+      <int data="5" id="numShopPens" />
+      <vector data="[-5513.447, -3050.202, -2.1]" id="shopPenPos0" />
+      <vector data="[-5516.447, -3050.202, -2.1]" id="shopPenPos1" />
+      <vector data="[-5519.228, -3050.51, -2.1]" id="shopPenPos2" />
+      <vector data="[-5522.365, -3050.401, -2.1]" id="shopPenPos3" />
+      <vector data="[-5525.216, -3050.402, -2.1]" id="shopPenPos4" />
+      <float data="0.0" id="shopPenHeading0" />
+      <float data="0.0" id="shopPenHeading1" />
+      <float data="0.0" id="shopPenHeading2" />
+      <float data="0.0" id="shopPenHeading3" />
+      <float data="0.0" id="shopPenHeading4" />
+      <vector data="[-0.8, 3.50949, 0.50593]" id="shopPenCamOffset0" />
+      <vector data="[-0.8, 3.50949, 0.50593]" id="shopPenCamOffset1" />
+      <vector data="[-0.8, 3.50949, 0.50593]" id="shopPenCamOffset2" />
+      <vector data="[-0.8, 3.50949, 0.50593]" id="shopPenCamOffset3" />
+      <vector data="[-0.8, 3.50949, 0.50593]" id="shopPenCamOffset4" />
+      <float data="42.0" id="shopPenCamFOV0" />
+      <float data="42.0" id="shopPenCamFOV1" />
+      <float data="42.0" id="shopPenCamFOV2" />
+      <float data="42.0" id="shopPenCamFOV3" />
+      <float data="42.0" id="shopPenCamFOV4" />
+      <float data="7.5" id="shopPenCamFNum" />
+      <float data="28.48" id="shopPenCamFocalLength" />
+      <float data="1.68" id="shopPenCamFocusDistance" />
+      <vector data="[-5509.895, -3051.488, -3.36161]" id="holding1Pos" />
+      <float data="0.0" id="holding1Heading" />
+      <vector data="[-5509.968, -3053.668, -3.51215]" id="holding2Pos" />
+      <float data="0.0" id="holding2Heading" />
+      <vector data="[-5526.276, -3025.969, -2.61631]" id="holding3VolPos" />
+      <float data="6.0" id="holding3VolRadius" />
+      <vector data="[-5509.217, -3060.693, -3.569]" id="coachSpawnVolPos" />
+      <float data="0.0" id="coachSpawnHeading" />
+      <vector data="[-5510.429, -3035.986, -3.52945]" id="horseCarriablesSpawnVolPos" />
+      <int data="2" id="numShopEntrances" />
+      <vector data="[-5511.179, -3044.354, -3.38769]" id="shopEntrancePos0" />
+      <float data="0" id="shopEntranceHeading0" />
+      <vector data="[-5527.373, -3044.354, -3.38769]" id="shopEntrancePos1" />
+      <float data="90" id="shopEntranceHeading1" />
+      <vector data="[-5517.905, -3041.136, -3.38769]" id="shopkeeperScenarioPos" />
+      <float data="0.0" id="shopkeeperScenarioHeading" />
+      <vector data="[-5513.078, -3042.228, -3.38769]" id="shopkeeperWarpPos" />
+    </region>
+  </UNK_1AF9B630>
+</root>

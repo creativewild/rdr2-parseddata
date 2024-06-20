@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_72F62642 id="STABLE_EMERALD_RANCH" position="[1420.971, 314.6212, 108.5148]" UNK_8BA9C149="600.0" UNK_686B52B6="400.0">
+    <UNK_DB880643>
+      <UNK_D4DF3BF9 UNK_B574D91="9.7822" UNK_6A5FC8C6="[1432.838, 284.1739, 109.0018]" UNK_1025F7AB="NSMT_HORSE" UNK_159EFA44="299.1736" UNK_BFF2A943="[1428.459, 283.235, 109.2026]" />
+      <UNK_D4DF3BF9 UNK_B574D91="9.7822" UNK_6A5FC8C6="[1432.838, 284.1739, 109.0018]" UNK_1025F7AB="NSMT_VEHICLE" UNK_159EFA44="299.1736" UNK_BFF2A943="[1428.459, 283.235, 109.2026]" />
+    </UNK_DB880643>
+    <pens>
+      <UNK_8B44FDB3 id="EMERALD_RANCH_PEN1">
+        <bounds>
+          <point position="[1421.463, 325.9517, 109.2497]" />
+          <point position="[1422.228, 337.7892, 109.3766]" />
+          <point position="[1405.137, 358.8901, 109.3913]" />
+          <point position="[1401.866, 357.4366, 108.9702]" />
+          <point position="[1399.003, 366.0676, 109.3297]" />
+          <point position="[1370.535, 358.55, 108.7697]" />
+          <point position="[1372.822, 351.9388, 109.1225]" />
+          <point position="[1379.811, 316.5439, 108.601]" />
+          <point position="[1391.852, 320.0689, 108.801]" />
+          <point position="[1397.619, 321.0703, 108.9244]" />
+        </bounds>
+        <layouts>
+          <UNK_14E6965B id="LAYOUT_DEFAULT">
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN1_A" UNK_B574D91="131.5574" UNK_6A5FC8C6="[1409.724, 336.1271, 108.1992]" UNK_1025F7AB="NSMT_VEHICLE" UNK_159EFA44="32.6743" UNK_BFF2A943="[1410.387, 332.0635, 108.3377]" />
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN1_B" UNK_B574D91="203.0645" UNK_6A5FC8C6="[1391.328, 352.4265, 107.6261]" UNK_1025F7AB="NSMT_HORSE" UNK_159EFA44="336.1347" UNK_BFF2A943="[1390.362, 350.5273, 107.6029]" />
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN1_C" UNK_B574D91="292.2953" UNK_6A5FC8C6="[1382.92, 350.9538, 107.6136]" UNK_1025F7AB="NSMT_HORSE" UNK_159EFA44="59.4639" UNK_BFF2A943="[1385.068, 349.8079, 107.5741]" />
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN1_D" UNK_B574D91="98.7703" UNK_6A5FC8C6="[1376.588, 341.209, 107.9675]" UNK_1025F7AB="NSMT_HORSE" UNK_159EFA44="181.4584" UNK_BFF2A943="[1376.516, 342.6885, 107.973]" />
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN1_E" UNK_B574D91="276.2304" UNK_6A5FC8C6="[1381.782, 325.6623, 107.9403]" UNK_1025F7AB="NSMT_HORSE" UNK_159EFA44="201.8336" UNK_BFF2A943="[1382.247, 327.517, 107.9276]" />
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN1_F" UNK_B574D91="222.8329" UNK_6A5FC8C6="[1391.909, 334.6468, 107.6923]" UNK_1025F7AB="NSMT_VEHICLE" UNK_159EFA44="344.2731" UNK_BFF2A943="[1391.295, 331.1789, 107.7845]" />
+          </UNK_14E6965B>
+        </layouts>
+      </UNK_8B44FDB3>
+      <UNK_8B44FDB3 id="EMERALD_RANCH_PEN2">
+        <bounds>
+          <point position="[1379.812, 316.5725, 108.6154]" />
+          <point position="[1372.59, 348.9413, 108.6854]" />
+          <point position="[1360.993, 346.1108, 109.4474]" />
+          <point position="[1367.64, 314.0351, 108.319]" />
+        </bounds>
+        <layouts>
+          <UNK_14E6965B id="LAYOUT_DEFAULT">
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN2_A" UNK_B574D91="260.5938" UNK_6A5FC8C6="[1371.249, 341.6395, 108.0125]" UNK_1025F7AB="NSMT_HORSE" UNK_159EFA44="303.6869" UNK_BFF2A943="[1371.015, 340.2864, 107.9963]" />
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN2_B" UNK_B574D91="193.8851" UNK_6A5FC8C6="[1368.597, 318.2415, 107.5824]" UNK_1025F7AB="NSMT_HORSE" UNK_159EFA44="89.3711" UNK_BFF2A943="[1371.385, 318.0383, 107.5779]" />
+          </UNK_14E6965B>
+        </layouts>
+      </UNK_8B44FDB3>
+      <UNK_8B44FDB3 id="EMERALD_RANCH_PEN3">
+        <bounds>
+          <point position="[1367.661, 313.9507, 108.319]" />
+          <point position="[1360.948, 346.0764, 109.4474]" />
+          <point position="[1353.413, 323.0335, 108.5201]" />
+          <point position="[1355.797, 311.2494, 108.3537]" />
+        </bounds>
+        <layouts>
+          <UNK_14E6965B id="LAYOUT_DEFAULT">
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN3_A" UNK_B574D91="110.5984" UNK_6A5FC8C6="[1356.984, 321.765, 107.8203]" UNK_1025F7AB="NSMT_HORSE" UNK_159EFA44="183.3543" UNK_BFF2A943="[1356.532, 323.4365, 107.8434]" />
+          </UNK_14E6965B>
+        </layouts>
+      </UNK_8B44FDB3>
+      <UNK_8B44FDB3 id="EMERALD_RANCH_PEN4">
+        <bounds>
+          <point position="[1356.581, 298.7614, 108.6182]" />
+          <point position="[1361.697, 272.1634, 109.5879]" />
+          <point position="[1367.654, 272.4629, 109.6863]" />
+          <point position="[1369.105, 268.7085, 110.7735]" />
+          <point position="[1378.846, 272.9683, 109.9635]" />
+          <point position="[1371.092, 301.9367, 108.7148]" />
+        </bounds>
+        <layouts>
+          <UNK_14E6965B id="LAYOUT_DEFAULT">
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN4_A" UNK_B574D91="359.1273" UNK_6A5FC8C6="[1362.321, 297.5525, 107.8896]" UNK_1025F7AB="NSMT_HORSE" UNK_159EFA44="111.3148" UNK_BFF2A943="[1364.495, 298.8762, 107.8273]" />
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN4_B" UNK_B574D91="105.5145" UNK_6A5FC8C6="[1366.244, 275.5966, 108.4632]" UNK_1025F7AB="NSMT_HORSE" UNK_159EFA44="211.8052" UNK_BFF2A943="[1364.676, 277.3581, 108.3972]" />
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN4_C" UNK_B574D91="290.5972" UNK_6A5FC8C6="[1372.962, 287.1994, 108.373]" UNK_1025F7AB="NSMT_HORSE" UNK_159EFA44="255.4367" UNK_BFF2A943="[1371.071, 288.2056, 108.2315]" />
+          </UNK_14E6965B>
+        </layouts>
+      </UNK_8B44FDB3>
+      <UNK_8B44FDB3 id="EMERALD_RANCH_PEN5">
+        <bounds>
+          <point position="[1378.219, 275.9576, 109.7778]" />
+          <point position="[1383.055, 255.3822, 110.4349]" />
+          <point position="[1388.86, 257.0666, 110.2911]" />
+          <point position="[1388.323, 259.8704, 110.3382]" />
+          <point position="[1392.935, 261.1894, 110.2295]" />
+          <point position="[1392.631, 263.3971, 110.0942]" />
+          <point position="[1395.441, 264.1909, 110.2051]" />
+          <point position="[1392.607, 278.9608, 110.211]" />
+        </bounds>
+        <layouts>
+          <UNK_14E6965B id="LAYOUT_DEFAULT">
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN5_A" UNK_B574D91="39.5565" UNK_6A5FC8C6="[1382.619, 268.9062, 109.6597]" UNK_1025F7AB="NSMT_HORSE" UNK_159EFA44="137.9794" UNK_BFF2A943="[1384.294, 270.8469, 109.2381]" />
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN5_B" UNK_B574D91="2.66" UNK_6A5FC8C6="[1390.775, 273.3785, 109.0841]" UNK_1025F7AB="NSMT_HORSE" UNK_159EFA44="259.355" UNK_BFF2A943="[1388.673, 274.2321, 109.0705]" />
+          </UNK_14E6965B>
+        </layouts>
+      </UNK_8B44FDB3>
+      <UNK_8B44FDB3 id="EMERALD_RANCH_PEN6">
+        <bounds>
+          <point position="[1415.426, 311.9449, 109.2751]" />
+          <point position="[1371.107, 301.8914, 108.7148]" />
+          <point position="[1378.201, 275.9548, 109.774]" />
+          <point position="[1392.582, 279.1022, 109.7379]" />
+          <point position="[1395.814, 264.5373, 110.0401]" />
+          <point position="[1415.723, 269.7928, 110.2276]" />
+          <point position="[1419.375, 281.6586, 110.0161]" />
+          <point position="[1422.124, 282.3597, 109.9511]" />
+        </bounds>
+        <layouts>
+          <UNK_14E6965B id="LAYOUT_DEFAULT">
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN6_A" UNK_B574D91="315.41" UNK_6A5FC8C6="[1385.828, 288.6017, 108.2748]" UNK_1025F7AB="NSMT_VEHICLE" UNK_159EFA44="47.8263" UNK_BFF2A943="[1390.349, 286.7992, 108.632]" />
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN6_B" UNK_B574D91="314.528" UNK_6A5FC8C6="[1402.524, 284.2935, 108.8416]" UNK_1025F7AB="NSMT_VEHICLE" UNK_159EFA44="224.6552" UNK_BFF2A943="[1401.227, 288.1383, 108.6433]" />
+            <UNK_D4DF3BF9 id="DEFAULT_EM_PEN6_C" UNK_B574D91="160.271" UNK_6A5FC8C6="[1408.924, 303.4868, 108.6282]" UNK_1025F7AB="NSMT_VEHICLE" UNK_159EFA44="79.8168" UNK_BFF2A943="[1410.949, 300.8768, 108.6343]" />
+          </UNK_14E6965B>
+        </layouts>
+      </UNK_8B44FDB3>
+    </pens>
+  </UNK_72F62642>
+</root>

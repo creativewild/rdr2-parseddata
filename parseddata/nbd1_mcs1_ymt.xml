@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_55DB8A90>
+    <versions>
+      <version id="1.03" />
+    </versions>
+    <zones>
+      <zone UNK_71E6DE57="1" UNK_B656FEB3="false" UNK_E17B2EE9="false" UNK_14427759="true" UNK_E73C69B1="0.0" UNK_D9D1CEDC="0.0" UNK_EFA67A81="0.0" UNK_88ACFA4E="8.5" UNK_D1CC2184="8.0" height="2.0" UNK_97B41572="0" index="0" UNK_C6CB964C="false" UNK_7B5351BD="" UNK_B4A9F4D4="" UNK_9EA26942="1.8" UNK_70498C91="0.0" x1="2636.7" x2="5.0" UNK_43F130B3="2636.7" UNK_7F247680="0.0" UNK_6DE3D3FF="0.0" UNK_8281CFBE="0.0" UNK_A0DF3421="51.3" UNK_6B79C957="120.0" UNK_3D66C993="51.3" />
+    </zones>
+    <scenes>
+      <scene UNK_C45F9BF2="0" scenename="script@story@nbd1@leadin@mcs1@Leadin" UNK_5EA95DD1="false" />
+    </scenes>
+    <entities>
+      <entity UNK_766694D3="0.0" UNK_C43F6820="false" UNK_C9B3C137="0" index="0" model="1944593012" UNK_3809BF34="" weapon="0" />
+      <entity UNK_766694D3="0.0" UNK_C43F6820="false" UNK_C9B3C137="0" index="1" model="1407031519" UNK_3809BF34="" weapon="0" />
+      <entity UNK_766694D3="0.0" UNK_C43F6820="false" UNK_C9B3C137="0" index="2" model="2070393450" UNK_3809BF34="" weapon="0" />
+      <entity UNK_766694D3="0.0" UNK_C43F6820="false" UNK_C9B3C137="0" index="3" model="1843625996" UNK_3809BF34="" weapon="0" />
+      <entity UNK_766694D3="0.0" UNK_C43F6820="false" UNK_C9B3C137="0" index="4" model="95866989" UNK_3809BF34="" weapon="0" />
+      <entity UNK_766694D3="0.0" UNK_C43F6820="false" UNK_C9B3C137="0" index="5" model="0" UNK_3809BF34="" weapon="0" />
+      <entity UNK_766694D3="0.0" UNK_C43F6820="false" UNK_C9B3C137="0" index="6" model="0" UNK_3809BF34="" weapon="0" />
+      <entity UNK_766694D3="0.0" UNK_C43F6820="false" UNK_C9B3C137="0" index="7" model="225514697" UNK_3809BF34="" weapon="0" />
+      <entity UNK_766694D3="0.0" UNK_C43F6820="false" UNK_C9B3C137="0" index="8" model="0" UNK_3809BF34="" weapon="0" />
+    </entities>
+    <cutscenes>
+      <cutscene cutname="nbd1_mcs1" UNK_CA4B747="2" UNK_5EE4F054="0" UNK_D9832406="0" UNK_D59EFBF2="false" />
+    </cutscenes>
+    <behaviours>
+      <behaviour animscene="0" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="0" UNK_DC71B730="false" UNK_77360A2F="0" UNK_69F7ED75="0" UNK_357E105B="0" loop="false" master="false" UNK_EB43513A="true" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_B276C570="false" what="7" when="2" who="0" zone="0" />
+      <behaviour animscene="0" UNK_E336E40F="1" UNK_BB808638="0.0" bezier="false" UNK_766694D3="1.0" index="1" UNK_DC71B730="false" UNK_77360A2F="0" UNK_69F7ED75="0" UNK_357E105B="0" loop="false" master="true" UNK_EB43513A="false" pause="false" UNK_854B65EF="1.0" UNK_64670530="0.0" UNK_935DC624="false" UNK_B276C570="false" what="13" when="3" who="0" zone="0" />
+    </behaviours>
+    <cameras text="" />
+  </UNK_55DB8A90>
+</root>

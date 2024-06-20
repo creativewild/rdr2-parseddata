@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <lobby>
+    <camp position="[-580.0, -3934.0, 76.0]" UNK_6914F31F="[-563.099, -3940.83, 75.5661]" rotation="0.0">
+      <camera UNK_BC5E8F1E="[-0.3, 0.0, 38.1056]" fov="45.5" position="[-578.1153, -3934.302, 75.4]" />
+      <UNK_20DD06D0 UNK_BC5E8F1E="[3.1082, 0.0, 38.0208]" fov="50.0076" position="[-576.1852, -3938.55, 75.4238]" />
+      <scenarios>
+        <scenario heading="0.0" position="[-581.73, -3929.632, 75.062]" type="MP_LOBBY_SCENARIO_00">
+          <camera UNK_BC5E8F1E="[2.5, 0.0, 186.962]" fov="18.0426" UNK_B0494C63="[-0.0539, 3.8372, 0.2024]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[2.5, 0.0, 184.586]" fov="18.0426" UNK_B0494C63="[-0.086, 3.7917, 0.238]" />
+        </scenario>
+        <scenario heading="0.0" position="[-580.911, -3928.987, 74.995]" type="MP_LOBBY_SCENARIO_01">
+          <camera UNK_BC5E8F1E="[-1.4004, 0.0, 200.761]" fov="18.0426" UNK_B0494C63="[-0.8746, 3.0165, 0.5903]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[-1.4004, 0.0, 200.761]" fov="18.0426" UNK_B0494C63="[-0.8746, 3.0165, 0.5903]" />
+        </scenario>
+        <scenario heading="0.0" position="[-581.729, -3928.558, 74.597]" type="MP_LOBBY_SCENARIO_02">
+          <camera UNK_BC5E8F1E="[1.8246, 0.0, 184.294]" fov="18.0426" UNK_B0494C63="[0.0036, 3.446, 1.2551]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[1.5, 0.0, 184.898]" fov="18.0426" UNK_B0494C63="[-0.1004, 3.4493, 1.203]" />
+        </scenario>
+        <scenario heading="0.0" position="[-582.271, -3930.429, 74.581]" type="MP_LOBBY_SCENARIO_03">
+          <camera UNK_BC5E8F1E="[-2.4109, 0.0, 175.781]" fov="18.0426" UNK_B0494C63="[0.5341, 3.5623, 0.6834]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[-4.4, 0.0, 175.023]" fov="18.0426" UNK_B0494C63="[0.5344, 3.3133, 0.619]" />
+        </scenario>
+        <scenario heading="0.0" position="[-580.769, -3928.145, 74.606]" type="MP_LOBBY_SCENARIO_04">
+          <camera UNK_BC5E8F1E="[3.0144, 0.0, 180.218]" fov="18.0426" UNK_B0494C63="[0.1638, 3.2474, 1.2568]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[0.0, 0.0, 183.508]" fov="18.0426" UNK_B0494C63="[0.0241, 3.3004, 1.294]" />
+        </scenario>
+        <scenario heading="0.0" position="[-579.978, -3927.961, 74.613]" type="MP_LOBBY_SCENARIO_05">
+          <camera UNK_BC5E8F1E="[1.2691, 0.0, 189.849]" fov="18.0426" UNK_B0494C63="[-0.4003, 3.4127, 1.2466]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[-0.8, 0.0, 189.912]" fov="18.0426" UNK_B0494C63="[-0.4342, 3.4601, 1.287]" />
+        </scenario>
+        <scenario heading="0.0" position="[-579.167, -3928.502, 74.96]" type="MP_LOBBY_SCENARIO_06">
+          <camera UNK_BC5E8F1E="[8.3297, 0.0, 184.786]" fov="18.0426" UNK_B0494C63="[-0.0693, 3.7025, 0.0475]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.5, 0.0, 184.786]" fov="18.0426" UNK_B0494C63="[0.0168, 2.822, 0.14]" />
+        </scenario>
+        <scenario heading="0.0" position="[-583.039, -3929.888, 74.58]" type="MP_LOBBY_SCENARIO_07">
+          <camera UNK_BC5E8F1E="[0.4916, 0.0, 178.507]" fov="18.0426" UNK_B0494C63="[0.2787, 3.8929, 1.2762]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[-0.5, 0.0, 180.129]" fov="18.0426" UNK_B0494C63="[0.2889, 3.6383, 1.32]" />
+        </scenario>
+        <scenario heading="0.0" position="[-578.476, -3927.604, 74.627]" type="MP_LOBBY_SCENARIO_08">
+          <camera UNK_BC5E8F1E="[4.8, 0.0, 182.867]" fov="18.0426" UNK_B0494C63="[0.2805, 3.2887, 1.073]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[4.1, 0.0, 179.467]" fov="18.0426" UNK_B0494C63="[0.2805, 3.2887, 0.973]" />
+        </scenario>
+        <scenario heading="0.0" position="[-583.252, -3930.84, 74.749]" type="MP_LOBBY_SCENARIO_09">
+          <camera UNK_BC5E8F1E="[3.9, 0.0, 195.575]" fov="18.0426" UNK_B0494C63="[-0.4427, 3.4454, 1.151]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[2.4, 0.0, 188.675]" fov="18.0426" UNK_B0494C63="[-0.2952, 3.7744, 1.051]" />
+        </scenario>
+        <scenario heading="176.703" position="[-577.823, -3928.524, 74.99]" type="MP_LOBBY_SCENARIO_10">
+          <camera UNK_BC5E8F1E="[6.3, 0.0, -174.103]" fov="18.0426" UNK_B0494C63="[-0.0828, 2.776, 0.31]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[6.3, 0.0, -174.103]" fov="18.0426" UNK_B0494C63="[-0.0828, 2.776, 0.31]" />
+        </scenario>
+        <scenario heading="0.0" position="[-583.412, -3931.884, 74.63]" type="MP_LOBBY_SCENARIO_11">
+          <camera UNK_BC5E8F1E="[2.5575, 0.0, 192.408]" fov="18.0426" UNK_B0494C63="[-0.6645, 3.4707, 1.2144]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[0.7, 0.0, 194.312]" fov="18.0426" UNK_B0494C63="[-0.607, 3.4553, 1.17]" />
+        </scenario>
+        <scenario heading="160.084" position="[-576.99, -3928.188, 74.648]" type="MP_LOBBY_SCENARIO_12">
+          <camera UNK_BC5E8F1E="[3.8, 0.0, -173.784]" fov="18.0426" UNK_B0494C63="[-0.2385, 3.3298, 1.052]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[3.9, 0.0, -170.884]" fov="18.0426" UNK_B0494C63="[-0.2385, 3.3298, 1.052]" />
+        </scenario>
+        <scenario heading="0.0" position="[-582.455, -3931.88, 74.572]" type="MP_LOBBY_SCENARIO_13">
+          <camera UNK_BC5E8F1E="[-2.891, 0.0, 192.251]" fov="18.0426" UNK_B0494C63="[-0.5426, 3.422, 0.8206]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[-5.5, 0.0, 192.012]" fov="18.0426" UNK_B0494C63="[-0.5805, 3.4047, 0.728]" />
+        </scenario>
+        <scenario heading="0.0" position="[-576.667, -3929.022, 74.935]" type="MP_LOBBY_SCENARIO_14">
+          <camera UNK_BC5E8F1E="[1.3, 0.0, 142.499]" fov="18.0426" UNK_B0494C63="[1.8953, 2.3827, 0.465]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[0.9, 0.0, 142.099]" fov="18.0426" UNK_B0494C63="[1.8953, 2.3827, 0.465]" />
+        </scenario>
+        <scenario heading="0.0" position="[-583.041, -3933.222, 75.122]" type="MP_LOBBY_SCENARIO_15">
+          <camera UNK_BC5E8F1E="[1.2571, 0.0, 256.581]" fov="18.0426" UNK_B0494C63="[-3.7782, 1.1881, 0.271]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[1.2571, 0.0, 256.581]" fov="18.0426" UNK_B0494C63="[-3.7782, 1.1881, 0.271]" />
+        </scenario>
+      </scenarios>
+      <UNK_B986B65F>
+        <horse heading="0.0" position="[-569.0549, -3921.266, 75.086]">
+          <spawn heading="0.0" position="[-569.3537, -3922.201, 75.08192]" />
+          <camera UNK_BC5E8F1E="[3.5, 0.0, 33.4]" fov="38.5" position="[-566.9, -3925.2, 75.9]" />
+        </horse>
+        <vehicle heading="148.83" position="[-564.939, -3921.423, 75.483]">
+          <spawn heading="0.0" position="[-564.939, -3921.423, 75.483]" />
+          <camera UNK_BC5E8F1E="[5.1, 0.0, 20.3]" fov="41.6" position="[-564.9, -3929.0, 75.8]" />
+        </vehicle>
+        <boat heading="156.0" position="[-539.7, -3916.7, 74.2]">
+          <spawn heading="0.0" position="[-539.7, -3916.7, 74.2]" />
+          <camera UNK_BC5E8F1E="[-5.0557, 0.0, 41.3351]" fov="65.0" position="[-535.245, -3924.377, 76.2858]" />
+        </boat>
+      </UNK_B986B65F>
+    </camp>
+    <UNK_4F06D30 id="UGC_SUBTYPE_MISSION_PREDATOR_HUNT" position="[-580.0, -3934.0, 76.0]" UNK_6914F31F="[-563.099, -3940.83, 75.5661]" rotation="0.0">
+      <camera UNK_BC5E8F1E="[0.9588, 0.0, 62.5345]" fov="45" position="[-580.6011, -3930.672, 75.7656]" />
+      <UNK_20DD06D0 UNK_BC5E8F1E="[-0.3, 0.0, 38.1056]" fov="45.5" position="[-578.1153, -3934.302, 75.4]" />
+      <scenarios>
+        <scenario heading="254.88" position="[-583.7, -3929.2, 75.5]" type="MP_LOBBY_PHNS_STANDING_A">
+          <camera UNK_BC5E8F1E="[2.8861, 0.0, 171.3383]" fov="18.0426" UNK_B0494C63="[0.7063, 3.2282, 0.4358]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.1553, 0.0, 170.1739]" fov="18.0426" UNK_B0494C63="[0.7422, 2.9439, 0.2229]" />
+        </scenario>
+        <scenario heading="226.44" position="[-583.1, -3928.1, 75.3]" type="MP_LOBBY_PHNS_STANDING_B">
+          <camera UNK_BC5E8F1E="[2.1517, 0.0, 186.3676]" fov="18.0426" UNK_B0494C63="[-0.1597, 3.2256, 0.6058]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.1553, 0.0, 200.6775]" fov="18.0426" UNK_B0494C63="[-0.841, 2.8522, 0.4229]" />
+        </scenario>
+      </scenarios>
+    </UNK_4F06D30>
+    <mission id="MISSION_COOP_CLAY2_RHODES" position="[1143.5, -1380.4, 65.6]" UNK_6914F31F="[1139.6, -1381.7, 65.5]" rotation="12.2">
+      <camera UNK_BC5E8F1E="[-1.2269, 0.0, 15.9152]" fov="43" position="[-0.3316, -2.85721, -0.819397]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, -1.8857]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+    <mission id="MISSION_COOP_CLAY2_VALENTINE" position="[-420.98, 493.58, 98.12]" UNK_6914F31F="[-717.1, 373.3, 98.1]" rotation="7.3">
+      <camera UNK_BC5E8F1E="[-1.2269, 0.0, -117.2024]" fov="43" position="[-0.3316, -2.85721, 0.061303]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, -1.005]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+    <mission id="MISSION_COOP_CLAY2_BLACKWATER" position="[-1994.0, -1377.4, 118.4]" UNK_6914F31F="[-1986.8, -1378.2, 118.1]" rotation="0.0">
+      <camera UNK_BC5E8F1E="[-1.2269, 0.0, -176.3024]" fov="43" position="[-0.3316, -2.85721, -1.285697]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, -2.352]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+    <mission id="MISSION_COOP_CLAY2_TUMBLEWEED" position="[-5559.6, -2585.5, -8.2]" UNK_6914F31F="[-5255.9, -2291.4, -3.4]" rotation="11.7">
+      <camera UNK_BC5E8F1E="[-1.2269, 0.0, 94.6976]" fov="43" position="[-0.3316, -2.85721, -0.520197]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, -1.5865]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+    <mission id="MISSION_COOP_GVO_INTRO_1" position="[-5524.3, -2938.6, -1.7]">
+      <camera UNK_BC5E8F1E="[-1.2269, 0.0, 32.4976]" fov="43" position="[-0.3316, -2.85721, -0.194897]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, -1.2612]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+    <mission id="MISSION_COOP_GVO_INTRO_2" position="[-600.3, -30.9, 85.6]">
+      <camera UNK_BC5E8F1E="[-1.2269, 0.0, -122.9024]" fov="43" position="[-0.3316, -2.85721, -0.101797]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, -1.168114]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+    <mission id="MISSION_COOP_GVO_INTRO_3" position="[-2687.5, -2178.2, 80.8]">
+      <camera UNK_BC5E8F1E="[-1.2269, 0.0, 37.0976]" fov="43" position="[-0.3316, -2.85721, -0.185697]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, -1.252]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+    <mission id="MISSION_COOP_GVO_OUTLAW_1" position="[1179.7, -184.1, 100.9]">
+      <camera UNK_BC5E8F1E="[-1.2269, 0.0, -87.7024]" fov="43" position="[-0.3316, -2.85721, -0.763697]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, -1.83]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+    <mission id="MISSION_COOP_GVO_OUTLAW_2" position="[299.1, 1294.6, 197.6]">
+      <camera UNK_BC5E8F1E="[-1.2269, 0.0, -28.1024]" fov="43" position="[-0.3316, -2.85721, -0.033287]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, -1.099594]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+    <mission id="MISSION_COOP_GVO_OUTLAW_3" position="[-1486.1, -773.0, 104.3]">
+      <camera UNK_BC5E8F1E="[1.0, 0.0, -34.9]" fov="26.9" position="[-0.3, -4.5, 0.8]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, 0.0]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+    <mission id="MISSION_COOP_GVO_OUTLAW_4" position="[2688.3, -1122.5, 50.6]" rotation="0.0">
+      <camera UNK_BC5E8F1E="[2.4, 0.0, -167.0]" fov="26.9" position="[-0.3, -5.0, 0.8]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, 0.0]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+    <mission id="MISSION_COOP_GVO_GUNSLINGER_1" position="[-1933.2, -1406.4, 107.8]">
+      <camera UNK_BC5E8F1E="[-1.2269, 0.0, 2.5976]" fov="43" position="[-0.3316, -2.85721, -0.048901]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, -1.115204]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+    <mission id="MISSION_COOP_GVO_GUNSLINGER_2" position="[2950.4, 796.9, 51.9]" UNK_6914F31F="[2950.9, 792.7, 51.9]" rotation="0.0">
+      <camera UNK_BC5E8F1E="[-1.2269, 0.0, -83.4024]" fov="43" position="[-0.3316, -2.85721, -0.434197]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, -1.500538]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+    <mission id="MISSION_COOP_GVO_GUNSLINGER_3" position="[95.5, 183.8, 109.5]">
+      <camera UNK_BC5E8F1E="[3.6, 0.0, -85.2]" fov="37.8" position="[-0.4, -3.0, 0.7]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, 0.0]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+    <mission id="MISSION_COOP_GVO_GUNSLINGER_4" position="[-4804.6, -2709.3, -13.5]">
+      <camera UNK_BC5E8F1E="[0.8, 0.0, 28.9]" fov="26.9" position="[-0.3, -4.4, 0.8]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, 0.0]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+    <mission id="MISSION_COOP_GVO_REVENGE_1" position="[-3838.7, -3018.7, -8.1]">
+      <camera UNK_BC5E8F1E="[-1.2269, 0.0, 37.2976]" fov="43" position="[-0.3316, -2.85721, 0.935103]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, -0.1312]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+    <mission id="MISSION_COOP_GVO_REVENGE_2" position="[-1205.0, -1941.3, 43.4]">
+      <camera UNK_BC5E8F1E="[-0.8, 0.0, -49.7]" fov="26.9" position="[-0.3, -4.2, 0.95]" />
+      <scenarios>
+        <scenario heading="165.415" position="[0.0, 0.0, 0.0]" type="MP_COOP_LOBBY_STANDING_A">
+          <camera UNK_BC5E8F1E="[10.1845, 0.0, -170.497]" fov="20.0465" UNK_B0494C63="[-0.201985, 1.99278, 1.1682]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[10.9113, 0.0, -169.679]" fov="20.0465" UNK_B0494C63="[-0.198934, 1.9763, 1.0815]" />
+        </scenario>
+        <scenario heading="174.393" position="[0.633, 0.504, 0.0]" type="MP_COOP_LOBBY_STANDING_B">
+          <camera UNK_BC5E8F1E="[8.5318, 0.0, -175.067]" fov="20.0465" UNK_B0494C63="[-0.0260858, 1.99307, 1.249004]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.8786, 0.0, -174.64]" fov="20.0465" UNK_B0494C63="[-0.0247698, 1.9795, 1.1526]" />
+        </scenario>
+        <scenario heading="0.0" position="[-0.496, 0.523, 0.0]" type="MP_COOP_LOBBY_STANDING_C">
+          <camera UNK_BC5E8F1E="[8.3463, 0.0, 162.013]" fov="20.0465" UNK_B0494C63="[0.599377, 1.8639, 1.2514]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[8.3463, 0.0, 162.397]" fov="20.0465" UNK_B0494C63="[0.700782, 1.90841, 1.1419]" />
+        </scenario>
+        <scenario heading="0.0" position="[1.238, 0.955, 0.0]" type="MP_COOP_LOBBY_STANDING_D">
+          <camera UNK_BC5E8F1E="[5.0939, 0.0, 177.391]" fov="20.0465" UNK_B0494C63="[0.283787, 2.26658, 1.282398]" />
+          <UNK_D2E80D0D UNK_BC5E8F1E="[5.6939, 0.0, 177.366]" fov="20.0465" UNK_B0494C63="[0.335612, 2.3071, 1.1644]" />
+        </scenario>
+      </scenarios>
+    </mission>
+  </lobby>
+</root>

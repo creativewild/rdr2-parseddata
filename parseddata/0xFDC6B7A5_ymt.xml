@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_55DB8A90>
+    <versions>
+      <version id="1.03" />
+    </versions>
+    <zones>
+      <zone UNK_71E6DE57="1" UNK_14427759="false" UNK_88ACFA4E="5.0" UNK_D1CC2184="6.0" height="2.6" UNK_97B41572="0" index="0" UNK_7B5351BD="CBL1AUD" UNK_B4A9F4D4="CCBLL_CNV1" UNK_9EA26942="2.58" UNK_70498C91="2.31" x1="0.0" x2="2.7" UNK_43F130B3="0.0" UNK_7F247680="2424.53" UNK_6DE3D3FF="0.0" UNK_8281CFBE="2424.53" UNK_A0DF3421="306.676" UNK_6B79C957="68.4" UNK_3D66C993="307.176" />
+      <zone UNK_71E6DE57="1" UNK_14427759="false" UNK_88ACFA4E="0.0" UNK_D1CC2184="0.0" height="2.4" UNK_97B41572="0" index="1" UNK_7B5351BD="CBL1AUD" UNK_B4A9F4D4="CCBLL_CNV1" UNK_9EA26942="1.95" UNK_70498C91="1.68" x1="0.0" x2="1.8" UNK_43F130B3="0.0" UNK_7F247680="2424.93" UNK_6DE3D3FF="0.0" UNK_8281CFBE="2424.93" UNK_A0DF3421="306.676" UNK_6B79C957="0.0" UNK_3D66C993="307.176" />
+      <zone UNK_71E6DE57="1" UNK_14427759="false" UNK_88ACFA4E="0.0" UNK_D1CC2184="0.0" height="1.8" UNK_97B41572="0" index="2" UNK_7B5351BD="CBL1AUD" UNK_B4A9F4D4="CCBLL_CNV1" UNK_9EA26942="2.22" UNK_70498C91="1.95" x1="0.0" x2="2.4" UNK_43F130B3="0.0" UNK_7F247680="2423.33" UNK_6DE3D3FF="0.0" UNK_8281CFBE="2423.33" UNK_A0DF3421="306.876" UNK_6B79C957="0.0" UNK_3D66C993="307.176" />
+      <zone UNK_71E6DE57="1" UNK_14427759="false" UNK_88ACFA4E="0.0" UNK_D1CC2184="0.0" height="2.1" UNK_97B41572="0" index="3" UNK_7B5351BD="CBL1AUD" UNK_B4A9F4D4="CCBLL_CNV1" UNK_9EA26942="1.79" UNK_70498C91="1.35" x1="0.0" x2="1.5" UNK_43F130B3="0.0" UNK_7F247680="2423.23" UNK_6DE3D3FF="138.24" UNK_8281CFBE="2423.83" UNK_A0DF3421="306.876" UNK_6B79C957="0.0" UNK_3D66C993="307.176" />
+    </zones>
+    <scenes>
+      <scene UNK_C45F9BF2="0" scenename="script@vignette@bill_1@base" UNK_1F71D77C="0" UNK_87A1F1AB="false" UNK_5EA95DD1="false" />
+      <scene UNK_C45F9BF2="1" scenename="script@vignette@bill_1@leadin_front" UNK_1F71D77C="0" UNK_87A1F1AB="false" UNK_5EA95DD1="false" />
+      <scene UNK_C45F9BF2="2" scenename="script@vignette@bill_1@leadin_left" UNK_1F71D77C="0" UNK_87A1F1AB="false" UNK_5EA95DD1="false" />
+      <scene UNK_C45F9BF2="3" scenename="script@vignette@bill_1@leadin_right" UNK_1F71D77C="0" UNK_87A1F1AB="false" UNK_5EA95DD1="false" />
+    </scenes>
+    <entities>
+      <entity UNK_766694D3="0.0" UNK_FFF87C90="1" index="0" model="2070393450" UNK_3809BF34="BILL" />
+      <entity UNK_766694D3="0.0" UNK_FFF87C90="0" index="1" model="225514697" UNK_3809BF34="ARTHUR" />
+    </entities>
+    <cutscenes>
+      <cutscene cutname="" UNK_CA4B747="1" UNK_5EE4F054="0" UNK_D9832406="0" UNK_D59EFBF2="false" />
+    </cutscenes>
+    <behaviours>
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="0" UNK_766694D3="1.0" index="0" loop="true" master="false" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="0" synctype="0" UNK_80BBBEA4="false" what="13" when="1" who="0" zone="10" />
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="1" UNK_766694D3="1.0" index="1" loop="false" master="false" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="0" synctype="0" UNK_80BBBEA4="false" what="12" when="3" who="0" zone="2" />
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="1" UNK_766694D3="1.0" index="2" loop="false" master="false" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="0" synctype="0" UNK_80BBBEA4="false" what="12" when="3" who="0" zone="3" />
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="1" UNK_766694D3="1.0" index="3" loop="false" master="true" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="0" synctype="0" UNK_80BBBEA4="false" what="13" when="3" who="3" zone="0" />
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="1" UNK_766694D3="1.0" index="4" loop="false" master="true" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="0" synctype="0" UNK_80BBBEA4="false" what="13" when="3" who="1" zone="1" />
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="1" UNK_766694D3="1.0" index="5" loop="false" master="false" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="0" synctype="0" UNK_80BBBEA4="false" what="12" when="3" who="0" zone="0" />
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="1" UNK_766694D3="1.0" index="8" loop="false" master="false" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="0" synctype="0" UNK_80BBBEA4="false" what="12" when="3" who="0" zone="1" />
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="1" UNK_766694D3="1.0" index="9" loop="false" master="true" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="0" synctype="0" UNK_80BBBEA4="false" what="13" when="4" who="1" zone="2" />
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="1" UNK_766694D3="1.0" index="10" loop="false" master="true" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="0" synctype="0" UNK_80BBBEA4="false" what="13" when="4" who="2" zone="3" />
+    </behaviours>
+    <cameras text="" />
+  </UNK_55DB8A90>
+</root>

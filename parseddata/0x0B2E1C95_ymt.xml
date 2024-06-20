@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_A324AF98>
+    <vignettes>
+      <vignette name="BCABI_CNV_1" UNK_AA4F4489="[-1599.68, -1409.4, 81.901]" />
+      <vignette name="BCABI_CNV_2" UNK_AA4F4489="[-1590.02, -1431.71, 81.6296]" />
+      <vignette name="BCABI_CNV_4" UNK_AA4F4489="[-1590.81, -1439.81, 81.3791]" />
+      <vignette name="BCABI_CNV_5" UNK_AA4F4489="[-1584.307, -1431.238, 80.333]" />
+      <vignette name="BCABI_CNV_6" UNK_AA4F4489="[-1650.66, -1381.45, 83.9626]" />
+      <vignette name="BCABI_CNV_7" UNK_AA4F4489="[-1633.18, -1365.76, 84.7165]" />
+      <vignette name="BCABI_SLP_CNV_1" UNK_AA4F4489="[-1634.721, -1360.413, 83.396]" />
+      <vignette name="BCABI_SLP_CNV_2" UNK_AA4F4489="[-1634.721, -1360.413, 83.396]" />
+      <vignette name="BCABI_SLP_CNV_3" UNK_AA4F4489="[-1634.721, -1360.413, 83.396]" />
+      <vignette name="BCABI_SLP_CNV_4" UNK_AA4F4489="[-1634.721, -1360.413, 83.396]" />
+      <vignette name="BCANC_CNV_1" UNK_AA4F4489="[-1643.06, -1359.57, 84.2091]" />
+      <vignette name="BCANJ_CNV_1" UNK_AA4F4489="[-1638.959, -1361.78, 83.3962]" />
+      <vignette name="BCANJ_CNV_2" UNK_AA4F4489="[-1640.91, -1364.57, 84.3211]" />
+      <vignette name="BCANJ_CNV_3" UNK_AA4F4489="[-1640.91, -1364.57, 84.3211]" />
+      <vignette name="BCANJ_CNV_4" UNK_AA4F4489="[-1634.6, -1363.55, 84.083]" />
+      <vignette name="BCANU_CNV_1" UNK_AA4F4489="[-1644.04, -1373.03, 84.0757]" />
+      <vignette name="BCCHR_CNV_1" UNK_AA4F4489="[-1597.175, -1407.71, 80.955]" />
+      <vignette name="BCCHR_CNV_2" UNK_AA4F4489="[-1623.258, -1395.501, 81.5211]" />
+      <vignette name="BCCHR_CNV_3" UNK_AA4F4489="[-1574.26, -1401.787, 80.78]" />
+      <vignette name="BCCHR_CNV_5" UNK_AA4F4489="[-1551.368, -1455.516, 93.863]" />
+      <vignette name="BCCNU_CNV_1" UNK_AA4F4489="[-1639.374, -1354.644, 82.9775]" />
+      <vignette name="BCCNU_CNV_2" UNK_AA4F4489="[-1639.374, -1354.644, 82.9775]" />
+      <vignette name="BCCNU_CNV_3" UNK_AA4F4489="[-1639.374, -1354.644, 82.9775]" />
+      <vignette name="BCCNU_CNV_4" UNK_AA4F4489="[-1649.057, -1373.154, 86.1655]" />
+      <vignette name="BCCNU_CNV_5" UNK_AA4F4489="[-1616.28, -1388.44, 82.1776]" />
+      <vignette name="BCCNJ_CNV_1" UNK_AA4F4489="[-1677.04, -1395.77, 84.4175]" />
+      <vignette name="BCJCK_CNV_1" UNK_AA4F4489="[-1596.284, -1436.341, 80.275]" />
+      <vignette name="BCJCK_CNV_3" UNK_AA4F4489="[-1595.798, -1412.841, 80.936]" />
+      <vignette name="BCJCK_CNV_4" UNK_AA4F4489="[-1588.927, -1406.608, 80.2]" />
+      <vignette name="BCJCK_CNV_5" UNK_AA4F4489="[-1600.62, -1410.08, 81.7591]" />
+      <vignette name="BCJCK_CNV_6" UNK_AA4F4489="[-1656.55, -1395.53, 83.8881]" />
+      <vignette name="BCUNC_CNV_1" UNK_AA4F4489="[-1595.798, -1412.841, 80.936]" />
+      <vignette name="BCUNC_CNV_2" UNK_AA4F4489="[-1600.55, -1409.6, 81.5091]" />
+      <vignette name="BCUNC_CNV_4" UNK_AA4F4489="[-1590.96, -1420.687, 80.4358]" />
+      <vignette name="BCUNC_CNV_6" UNK_AA4F4489="[-1626.801, -1364.551, 82.244]" />
+      <vignette name="BCUNC_CNV_7" UNK_AA4F4489="[-1630.56, -1363.7, 83.8066]" />
+      <vignette name="BCUNJ_CNV_1" UNK_AA4F4489="[-1612.15, -1383.95, 81.9462]" />
+      <vignette name="CCABIJCK_SNG1_ES_HELL_BOUND_TRAIN" UNK_AA4F4489="[-1662.01, -1337.22, 83.9302]" />
+      <vignette name="CCABIJCK_SNG1_ES_LITTLE_JOE_WRANGLER" UNK_AA4F4489="[-1661.97, -1337.3, 84.0121]" />
+      <vignette name="CCABIJCK_SNG1_ES_NEVER_GET_DRUNK" UNK_AA4F4489="[-1674.3, -1344.21, 84.2013]" />
+      <vignette name="CCABIJCK_SNG1_ES_WILD_ROVER" UNK_AA4F4489="[-1662.0, -1337.27, 83.5932]" />
+      <vignette name="CCJCK_SNG1_ES_CLEMENTINE" UNK_AA4F4489="[-1663.28, -1337.28, 83.5648]" />
+      <vignette name="CCJCK_SNG1_ES_LILY_OF_THE_VALLEY" UNK_AA4F4489="[-1674.691, -1344.548, 84.2438]" />
+      <vignette name="CCJCK_SNG1_ES_OH_SHENENDOH" UNK_AA4F4489="[-1663.28, -1337.28, 83.5648]" />
+      <vignette name="CCJCK_SNG1_ES_OH_SUSANNA" UNK_AA4F4489="[-1674.691, -1344.548, 83.2438]" />
+      <vignette name="CCJCK_SNG1_ES_YELLOW_ROSE_OF_TEXAS" UNK_AA4F4489="[-1663.28, -1337.28, 83.5648]" />
+      <vignette name="CCCHR_ITM_CNV_3" UNK_AA4F4489="[-1606.84, -1412.08, 81.9433]" />
+      <vignette name="CCUNC_ITM_CNV_1" UNK_AA4F4489="[-1636.9, -1378.8, 83.9]" />
+      <vignette name="BCABI_WLK_GEN_CNV1" UNK_AA4F4489="[-1636.9, -1378.8, 83.9]" />
+      <vignette name="BCABI_WLK_GEN_CNV2" UNK_AA4F4489="[-1636.9, -1378.8, 83.9]" />
+      <vignette name="BCABI_WLK_GEN_CNV3" UNK_AA4F4489="[-1636.9, -1378.8, 83.9]" />
+      <vignette name="BCCHR_WLK_GEN_CNV1" UNK_AA4F4489="[-1636.9, -1378.8, 83.9]" />
+      <vignette name="BCCHR_WLK_GEN_CNV2" UNK_AA4F4489="[-1636.9, -1378.8, 83.9]" />
+      <vignette name="BCUNC_WLK_GEN_CNV1" UNK_AA4F4489="[-1636.9, -1378.8, 83.9]" />
+      <vignette name="BCUNC_WLK_GEN_CNV2" UNK_AA4F4489="[-1636.9, -1378.8, 83.9]" />
+      <vignette name="BCUNC_WLK_GEN_CNV3" UNK_AA4F4489="[-1636.9, -1378.8, 83.9]" />
+      <vignette name="BCUNC_WLK_GEN_CNV4" UNK_AA4F4489="[-1636.9, -1378.8, 83.9]" />
+    </vignettes>
+  </UNK_A324AF98>
+</root>

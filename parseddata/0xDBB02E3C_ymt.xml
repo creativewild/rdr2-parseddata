@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4A1A2EA>
+    <camp name="GRW_3" pos="[-553.442, 1207.96, 156.434]" zone="2">
+      <preset recipe="CFRT_DBL_CONIFEROUS" />
+    </camp>
+    <camp UNK_DA3CFFD1="true" camper="Hunter" name="GRW_4 Robbery" pos="[-458.2869, 1393.359, 207.3898]" zone="2">
+      <preset cluster="pg_ambient_camp_add_wood" core="pg_ambient_campfire01ax" id="GRW_4 Robbery" tent="pg_ambcamp01x_tent_snow01" travel="pg_ambient_camp_add_PackCart01" />
+    </camp>
+    <camp name="GRW_5" pos="[-54.38935, 1579.027, 112.1133]" zone="2">
+      <preset recipe="CFRT_FISHERMAN_SML1" />
+    </camp>
+    <camp name="GRW_7" pos="[-308.9004, 1298.059, 146.4144]" zone="2">
+      <preset recipe="CFRT_HUNTER_MED2" />
+    </camp>
+  </UNK_B4A1A2EA>
+</root>

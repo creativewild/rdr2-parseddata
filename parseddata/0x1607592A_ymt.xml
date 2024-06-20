@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_59C3633C>
+    <UNK_3EE03696>
+      <UNK_8A464B6E hour="20" id="NET_PLAYLIST_RACE_SERIES" />
+      <UNK_8A464B6E hour="15" id="NET_PLAYLIST_RACE_SERIES" />
+      <UNK_8A464B6E hour="10" id="NET_PLAYLIST_RACE_SERIES" />
+      <UNK_8A464B6E hour="5" id="NET_PLAYLIST_RACE_SERIES" />
+      <UNK_8A464B6E hour="0" id="NET_PLAYLIST_RACE_SERIES" />
+    </UNK_3EE03696>
+    <UNK_4CE292DD>
+      <UNK_9437A8AF hash="Race Series" id="NET_PLAYLIST_RACE_SERIES" />
+      <UNK_9437A8AF hash="Special Modes 1" id="NET_PLAYLIST_GUN_RUSH_TEAMS" />
+      <UNK_9437A8AF hash="Special Modes 2" id="NET_PLAYLIST_GUN_RUSH_FREE_FOR_ALL" />
+      <UNK_9437A8AF hash="Adversary Medium" id="NET_PLAYLIST_ADVERSARY_MEDIUM" />
+      <UNK_9437A8AF hash="Adversary Large" id="NET_PLAYLIST_ADVERSARY_LARGE" />
+      <UNK_9437A8AF hash="Orbis Series 1" id="NET_PLAYLIST_ORBIS_SERIES_1" />
+      <UNK_9437A8AF hash="Orbis Series 2" id="NET_PLAYLIST_ORBIS_SERIES_2" />
+      <UNK_9437A8AF hash="Orbis Series 3" id="NET_PLAYLIST_ORBIS_SERIES_3" />
+    </UNK_4CE292DD>
+    <UNK_326A82F6>
+      <UNK_86D86F69 id="NET_PLAYLIST_ADVERSARY_MEDIUM">
+        <UNK_90114765 id="NET_PLAYLIST_GUN_RUSH_TEAMS" UNK_D43B0E78="mp001_trea2_hea_rd_sgn_PlaylistMarker_05" location="[-434.0, 549.0, 102.5695]" name="Valentine" />
+        <UNK_90114765 id="NET_PLAYLIST_GUN_RUSH_FREE_FOR_ALL" UNK_D43B0E78="mp001_trea2_hea_rd_sgn_PlaylistMarker_10" location="[28.8, -228.1, 102.6072]" name="Flatneck Station" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_MEDIUM" UNK_D43B0E78="mp001_trea2_hea_rd_sgn_PlaylistMarker_13" location="[1237.1, 236.2, 89.3231]" name="Emerald Ranch" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_LARGE" UNK_D43B0E78="mp001_trea2_hea_rd_sgn_PlaylistMarker_09" location="[2285.21, 705.1324, 84.0474]" name="Van Horn" />
+        <UNK_90114765 id="NET_PLAYLIST_GUN_RUSH_TEAMS" UNK_D43B0E78="mp001_trea3_sca_mea_rd_sgn_PlaylistMarker_07" location="[2581.415, -199.1853, 43.3414]" name="Bluewater Marsh" />
+        <UNK_90114765 id="NET_PLAYLIST_GUN_RUSH_FREE_FOR_ALL" UNK_D43B0E78="mp001_trea3_sca_mea_rd_sgn_PlaylistMarker_03" location="[1863.3, -454.2, 42.4113]" name="East Lagras" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_MEDIUM" UNK_D43B0E78="mp001_trea3_sca_mea_rd_sgn_PlaylistMarker_05" location="[1525.7, -1446.3, 67.6606]" name="South Rhodes" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_LARGE" UNK_D43B0E78="mp001_trea3_sca_mea_rd_sgn_PlaylistMarker_06" location="[1159.668, -891.2462, 71.4612]" name="Scarlett Meadows" />
+        <UNK_90114765 id="NET_PLAYLIST_GUN_RUSH_TEAMS" UNK_D43B0E78="mp001_trea1_gre_pla_rd_sgn_PlaylistMarker_05" location="[-1623.098, -1716.755, 81.1628]" name="Great Plains" />
+        <UNK_90114765 id="NET_PLAYLIST_GUN_RUSH_FREE_FOR_ALL" UNK_D43B0E78="mp001_trea1_big_val_rd_sgn_PlaylistMarker_06" location="[-1719.852, -240.8135, 181.4877]" name="North Strawberry" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_MEDIUM" UNK_D43B0E78="mp001_trea1_big_val_rd_sgn_PlaylistMarker_04" location="[-2050.066, 594.4809, 116.6914]" name="Hanging Dog Ranch" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_LARGE" UNK_D43B0E78="mp001_trea1_gre_pla_rd_sgn_PlaylistMarker_06" location="[-1258.081, -1208.071, 78.0607]" name="Blackwater" />
+        <UNK_90114765 id="NET_PLAYLIST_GUN_RUSH_TEAMS" UNK_D43B0E78="mp001_trea1_roa_rd_sgn_PlaylistMarker" location="[1743.4, 1552.2, 156.8587]" name="O'Creagh Run" />
+        <UNK_90114765 id="NET_PLAYLIST_GUN_RUSH_FREE_FOR_ALL" UNK_D43B0E78="mp001_trea2_hea_rd_sgn_PlaylistMarker_06" location="[466.7581, 1366.651, 169.5389]" name="Fort Wallace" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_MEDIUM" UNK_D43B0E78="mp001_trea1_hea_rd_sgn_PlaylistMarker_08" location="[-342.3367, 1574.824, 184.2439]" name="Window Rock" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_LARGE" UNK_D43B0E78="mp001_trea1_big_val_rd_sgn_PlaylistMarker_05" location="[-1015.26, 837.0391, 118.2934]" name="Cattail Pond" />
+        <UNK_90114765 id="NET_PLAYLIST_GUN_RUSH_TEAMS" UNK_D43B0E78="mp001_trea4_gap_rd_sgn_PlaylistMarker_03" location="[-3727.0, -2845.1, -7.0928]" name="Armadillo" />
+        <UNK_90114765 id="NET_PLAYLIST_GUN_RUSH_FREE_FOR_ALL" UNK_D43B0E78="mp001_trea4_hen_rd_sgn_PlaylistMarker" location="[-3013.73, -2809.269, 49.7133]" name="Hennigans Stead" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_MEDIUM" UNK_D43B0E78="mp001_trea4_rio_mp_fasttravel" location="[-4211.101, -3223.0, 26.34]" name="Mercer Station" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_LARGE" UNK_D43B0E78="mp001_trea4_gap_mp_fasttravel_01" location="[-5925.6, -3391.3, -15.9049]" name="Gaptooth Ridge" />
+      </UNK_86D86F69>
+    </UNK_326A82F6>
+  </UNK_59C3633C>
+</root>

@@ -1,0 +1,1328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_C91686D6>
+    <station category="NFT_CATEGORY_WEST_ELIZABETH" id="STATION_BLACKWATER" position="[-743.9, -1247.3, 43.4]">
+      <spawnpoints position="[-798.5806, -1300.198, 42.6778]" radius="150.0">
+        <spawn heading="225.8583" position="[-755.3285, -1259.776, 42.5957]" />
+        <spawn heading="346.3465" position="[-754.2557, -1302.224, 42.6361]" />
+        <spawn heading="103.3358" position="[-756.4717, -1330.141, 42.6474]" />
+        <spawn heading="47.7949" position="[-757.5366, -1344.503, 42.5548]" />
+        <spawn heading="49.071" position="[-789.4544, -1342.567, 42.7604]" />
+        <spawn heading="28.696" position="[-792.3849, -1330.506, 42.6459]" />
+        <spawn heading="159.6716" position="[-793.1556, -1263.189, 42.6386]" />
+        <spawn heading="180.053" position="[-806.3708, -1264.856, 42.6635]" />
+        <spawn heading="248.3831" position="[-810.1038, -1331.322, 42.6614]" />
+        <spawn heading="329.0671" position="[-826.7082, -1342.997, 42.6659]" />
+        <spawn heading="355.3897" position="[-805.9823, -1369.668, 42.663]" />
+        <spawn heading="9.3684" position="[-842.5013, -1386.34, 42.5776]" />
+        <spawn heading="242.8036" position="[-866.8245, -1327.562, 42.363]" />
+        <spawn heading="275.1069" position="[-837.2281, -1261.086, 42.5312]" />
+        <spawn heading="191.2381" position="[-843.4209, -1269.427, 42.5993]" />
+        <spawn heading="144.9057" position="[-773.8684, -1382.022, 42.6946]" />
+        <spawn heading="94.5035" position="[-840.9001, -1357.643, 42.5263]" />
+        <spawn heading="117.1283" position="[-842.1248, -1318.247, 42.6449]" />
+        <spawn heading="270.427" position="[-873.6982, -1272.22, 42.445]" />
+        <spawn heading="177.7529" position="[-799.1994, -1247.076, 42.433]" />
+        <spawn heading="147.356" position="[-740.4126, -1277.503, 42.5789]" />
+        <spawn heading="85.8424" position="[-743.7768, -1337.427, 42.3747]" />
+        <spawn heading="134.144" position="[-742.4551, -1238.856, 43.6817]" />
+        <spawn heading="77.5158" position="[-740.485, -1230.107, 43.6817]" />
+        <spawn heading="51.6605" position="[-739.175, -1221.837, 43.6817]" />
+        <spawn heading="275.4889" position="[-723.6821, -1238.356, 43.6817]" />
+        <spawn heading="231.4927" position="[-725.7176, -1259.063, 43.6817]" />
+        <spawn heading="289.5165" position="[-723.4096, -1264.776, 42.604]" />
+        <spawn heading="231.9871" position="[-722.6462, -1273.285, 42.5917]" />
+        <spawn heading="117.4245" position="[-737.5187, -1277.194, 42.5789]" />
+        <spawn heading="257.7825" position="[-744.0823, -1299.165, 42.1757]" />
+        <spawn heading="93.3277" position="[-754.8326, -1330.339, 42.6551]" />
+        <spawn heading="68.7994" position="[-757.033, -1345.337, 42.5772]" />
+        <spawn heading="92.0102" position="[-774.4865, -1342.339, 42.7621]" />
+        <spawn heading="105.1283" position="[-780.3013, -1330.845, 42.639]" />
+        <spawn heading="272.9881" position="[-819.2606, -1331.097, 42.6611]" />
+        <spawn heading="276.1318" position="[-829.3958, -1342.575, 42.6652]" />
+        <spawn heading="5.2914" position="[-813.2504, -1386.365, 42.6544]" />
+        <spawn heading="4.4942" position="[-792.8759, -1376.559, 42.6169]" />
+        <spawn heading="182.9785" position="[-805.8941, -1258.923, 42.6646]" />
+        <spawn heading="94.8717" position="[-819.4298, -1259.168, 42.6651]" />
+        <spawn heading="12.2232" position="[-798.7067, -1234.224, 42.5553]" />
+        <spawn heading="96.9898" position="[-815.4877, -1235.912, 42.5607]" />
+        <spawn heading="273.8858" position="[-791.9478, -1236.122, 42.5559]" />
+        <spawn heading="65.3082" position="[-853.2212, -1272.234, 42.3283]" />
+        <spawn heading="168.7033" position="[-844.2529, -1295.824, 42.474]" />
+        <spawn heading="190.2311" position="[-842.2325, -1311.31, 42.6449]" />
+        <spawn heading="93.4143" position="[-842.3898, -1322.047, 42.6449]" />
+        <spawn heading="259.8701" position="[-841.2194, -1329.249, 42.4682]" />
+        <spawn heading="202.7198" position="[-853.8781, -1340.921, 42.4115]" />
+        <spawn heading="30.8315" position="[-843.7894, -1358.921, 42.5928]" />
+        <spawn heading="264.0468" position="[-843.0331, -1384.277, 42.6328]" />
+        <spawn heading="26.2225" position="[-853.9599, -1401.368, 42.5957]" />
+        <spawn heading="113.9456" position="[-889.0262, -1355.368, 42.3722]" />
+        <spawn heading="185.1273" position="[-881.8095, -1342.953, 42.3219]" />
+        <spawn heading="309.0773" position="[-881.2236, -1324.238, 42.9824]" />
+        <spawn heading="140.9645" position="[-870.098, -1271.693, 42.4347]" />
+        <spawn heading="69.8901" position="[-852.3936, -1260.845, 42.637]" />
+        <spawn heading="181.4995" position="[-772.1525, -1326.247, 42.715]" />
+        <spawn heading="164.3613" position="[-779.1427, -1201.931, 42.5527]" />
+        <spawn heading="322.8432" position="[-771.3356, -1183.89, 42.5009]" />
+        <spawn heading="296.0665" position="[-764.8143, -1212.11, 42.5109]" />
+        <spawn heading="88.1271" position="[-730.6318, -1243.214, 43.6817]" />
+        <spawn heading="233.4713" position="[-694.766, -1243.31, 42.3815]" />
+      </spawnpoints>
+      <destinations>
+        <destination cost="1" distance="1275" id="STATION_MANZANITA" />
+        <destination cost="1" distance="1302" id="STATION_STRAWBERRY" />
+      </destinations>
+      <routes>
+        <UNK_2A39516C id="STATION_TUMBLEWEED" UNK_2824FB51="4" UNK_D82EAF5D="STATION_MANZANITA" UNK_C6710BE2="STATION_MACFARLANES" UNK_E47F47E2="STATION_ARMADILLO" UNK_D226A331="STATION_TUMBLEWEED" />
+        <UNK_2A39516C id="STATION_ARMADILLO" UNK_2824FB51="3" UNK_D82EAF5D="STATION_MANZANITA" UNK_C6710BE2="STATION_MACFARLANES" UNK_E47F47E2="STATION_ARMADILLO" />
+        <UNK_2A39516C id="STATION_MACFARLANES" UNK_2824FB51="2" UNK_D82EAF5D="STATION_MANZANITA" UNK_C6710BE2="STATION_MACFARLANES" />
+        <UNK_2A39516C id="STATION_MANZANITA" UNK_2824FB51="1" UNK_D82EAF5D="STATION_MANZANITA" />
+        <UNK_2A39516C id="STATION_STRAWBERRY" UNK_2824FB51="1" UNK_D82EAF5D="STATION_STRAWBERRY" />
+        <UNK_2A39516C id="STATION_VALENTINE" UNK_2824FB51="2" UNK_D82EAF5D="STATION_STRAWBERRY" UNK_C6710BE2="STATION_VALENTINE" />
+        <UNK_2A39516C id="STATION_COLTER" UNK_2824FB51="3" UNK_D82EAF5D="STATION_STRAWBERRY" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_COLTER" />
+        <UNK_2A39516C id="STATION_EMERALD" UNK_2824FB51="3" UNK_D82EAF5D="STATION_STRAWBERRY" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_EMERALD" />
+        <UNK_2A39516C id="STATION_RHODES" UNK_2824FB51="3" UNK_D82EAF5D="STATION_STRAWBERRY" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_RHODES" />
+        <UNK_2A39516C id="STATION_WAPITI" UNK_2824FB51="3" UNK_D82EAF5D="STATION_STRAWBERRY" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_WAPITI" />
+        <UNK_2A39516C id="STATION_VAN_HORN" UNK_2824FB51="4" UNK_D82EAF5D="STATION_STRAWBERRY" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_EMERALD" UNK_D226A331="STATION_VAN_HORN" />
+        <UNK_2A39516C id="STATION_ANNESBERG" UNK_2824FB51="5" UNK_D82EAF5D="STATION_STRAWBERRY" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_EMERALD" UNK_D226A331="STATION_VAN_HORN" UNK_8050EED="STATION_ANNESBERG" />
+        <UNK_2A39516C id="STATION_SAINT_DENIS" UNK_2824FB51="4" UNK_D82EAF5D="STATION_STRAWBERRY" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_RHODES" UNK_D226A331="STATION_SAINT_DENIS" />
+        <UNK_2A39516C id="STATION_LAGRAS" UNK_2824FB51="5" UNK_D82EAF5D="STATION_STRAWBERRY" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_RHODES" UNK_D226A331="STATION_SAINT_DENIS" UNK_8050EED="STATION_LAGRAS" />
+      </routes>
+    </station>
+    <station category="NFT_CATEGORY_WEST_ELIZABETH" id="STATION_MANZANITA" position="[-1963.8, -1609.9, 116.1]">
+      <spawnpoints position="[-1971.139, -1634.234, 116.194]" radius="150.0">
+        <spawn heading="223.7228" position="[-1951.319, -1668.209, 116.8471]" />
+        <spawn heading="339.3153" position="[-1981.948, -1661.084, 116.5687]" />
+        <spawn heading="12.1234" position="[-1992.387, -1645.691, 116.2015]" />
+        <spawn heading="170.606" position="[-1984.727, -1641.417, 116.1168]" />
+        <spawn heading="225.6653" position="[-1977.52, -1646.544, 116.1152]" />
+        <spawn heading="312.4735" position="[-1979.127, -1637.462, 116.1414]" />
+        <spawn heading="310.1101" position="[-1980.531, -1630.584, 117.0904]" />
+        <spawn heading="243.0277" position="[-1980.613, -1612.261, 116.2516]" />
+        <spawn heading="216.6515" position="[-1968.384, -1602.327, 115.6365]" />
+        <spawn heading="100.3139" position="[-1952.623, -1613.004, 114.8639]" />
+        <spawn heading="174.1341" position="[-1948.149, -1635.053, 115.1743]" />
+        <spawn heading="37.3615" position="[-1973.533, -1651.972, 116.1223]" />
+        <spawn heading="90.9907" position="[-1970.223, -1645.388, 116.121]" />
+        <spawn heading="252.0708" position="[-1974.263, -1638.027, 116.1374]" />
+        <spawn heading="311.1974" position="[-1977.182, -1627.387, 116.2217]" />
+        <spawn heading="141.739" position="[-1998.051, -1612.604, 117.1127]" />
+        <spawn heading="163.0984" position="[-2006.686, -1611.2, 116.9321]" />
+        <spawn heading="235.72" position="[-1992.287, -1603.011, 116.936]" />
+        <spawn heading="180.0678" position="[-1969.287, -1597.519, 115.7135]" />
+        <spawn heading="132.3666" position="[-1955.949, -1602.106, 114.9654]" />
+        <spawn heading="69.8399" position="[-1943.149, -1660.502, 116.7761]" />
+        <spawn heading="86.9483" position="[-1936.086, -1642.691, 115.9095]" />
+        <spawn heading="242.6607" position="[-1973.924, -1643.496, 116.1176]" />
+        <spawn heading="328.3963" position="[-1975.128, -1640.825, 116.1177]" />
+        <spawn heading="250.8423" position="[-1987.238, -1636.344, 116.1341]" />
+        <spawn heading="219.8691" position="[-1980.624, -1613.029, 116.2116]" />
+        <spawn heading="211.5464" position="[-1971.751, -1601.923, 116.7378]" />
+        <spawn heading="65.9276" position="[-1963.086, -1648.002, 116.087]" />
+        <spawn heading="41.6308" position="[-1970.775, -1659.588, 116.2324]" />
+        <spawn heading="335.7261" position="[-1985.711, -1663.736, 116.8407]" />
+        <spawn heading="293.8914" position="[-1994.778, -1651.302, 116.381]" />
+        <spawn heading="301.392" position="[-1983.902, -1645.81, 116.0953]" />
+        <spawn heading="309.3784" position="[-1989.103, -1607.301, 117.164]" />
+        <spawn heading="141.4383" position="[-1970.602, -1610.857, 116.7817]" />
+        <spawn heading="191.9263" position="[-1988.508, -1593.768, 116.1588]" />
+        <spawn heading="168.198" position="[-1963.536, -1640.743, 116.0216]" />
+        <spawn heading="66.2953" position="[-1963.932, -1659.411, 116.181]" />
+        <spawn heading="350.6353" position="[-1954.174, -1649.175, 115.6733]" />
+        <spawn heading="189.3701" position="[-1955.72, -1636.285, 115.2846]" />
+        <spawn heading="48.2797" position="[-1948.627, -1627.432, 115.0924]" />
+        <spawn heading="186.3641" position="[-1953.117, -1613.206, 114.8529]" />
+        <spawn heading="183.1485" position="[-1965.082, -1599.757, 115.1972]" />
+        <spawn heading="139.6818" position="[-1951.936, -1593.685, 115.0679]" />
+        <spawn heading="117.3796" position="[-1985.237, -1605.799, 116.8899]" />
+        <spawn heading="216.5033" position="[-1996.149, -1625.938, 116.2433]" />
+        <spawn heading="294.6008" position="[-1972.455, -1674.141, 117.0866]" />
+        <spawn heading="348.5827" position="[-1968.663, -1644.859, 116.1193]" />
+        <spawn heading="203.7984" position="[-1982.068, -1612.263, 116.2862]" />
+        <spawn heading="121.0325" position="[-1950.674, -1614.448, 114.9621]" />
+        <spawn heading="20.7477" position="[-1964.515, -1675.95, 117.1136]" />
+        <spawn heading="323.2282" position="[-1992.509, -1668.959, 118.749]" />
+        <spawn heading="296.8548" position="[-2002.961, -1651.075, 117.6578]" />
+        <spawn heading="338.0384" position="[-2003.231, -1634.596, 116.6264]" />
+        <spawn heading="196.0834" position="[-2007.037, -1600.396, 116.1956]" />
+        <spawn heading="156.0064" position="[-1956.096, -1599.471, 115.0357]" />
+        <spawn heading="60.3111" position="[-1945.855, -1621.121, 115.1374]" />
+        <spawn heading="76.0809" position="[-1943.568, -1628.377, 115.1772]" />
+        <spawn heading="38.9562" position="[-1944.458, -1640.193, 115.4865]" />
+        <spawn heading="62.3264" position="[-1945.985, -1647.242, 115.7355]" />
+        <spawn heading="56.6274" position="[-1943.297, -1661.624, 116.7806]" />
+        <spawn heading="213.0582" position="[-1950.162, -1673.881, 117.0886]" />
+        <spawn heading="317.6592" position="[-1964.718, -1679.482, 117.2955]" />
+        <spawn heading="323.186" position="[-1969.212, -1655.047, 116.157]" />
+        <spawn heading="353.1679" position="[-1981.508, -1655.677, 116.2021]" />
+      </spawnpoints>
+      <destinations>
+        <destination cost="1" distance="1275" id="STATION_BLACKWATER" />
+        <destination cost="1" distance="995" id="STATION_MACFARLANES" />
+      </destinations>
+      <routes>
+        <UNK_2A39516C id="STATION_TUMBLEWEED" UNK_2824FB51="3" UNK_D82EAF5D="STATION_MACFARLANES" UNK_C6710BE2="STATION_ARMADILLO" UNK_E47F47E2="STATION_TUMBLEWEED" />
+        <UNK_2A39516C id="STATION_ARMADILLO" UNK_2824FB51="2" UNK_D82EAF5D="STATION_MACFARLANES" UNK_C6710BE2="STATION_ARMADILLO" />
+        <UNK_2A39516C id="STATION_MACFARLANES" UNK_2824FB51="1" UNK_D82EAF5D="STATION_MACFARLANES" />
+        <UNK_2A39516C id="STATION_BLACKWATER" UNK_2824FB51="1" UNK_D82EAF5D="STATION_BLACKWATER" />
+        <UNK_2A39516C id="STATION_STRAWBERRY" UNK_2824FB51="2" UNK_D82EAF5D="STATION_BLACKWATER" UNK_C6710BE2="STATION_STRAWBERRY" />
+        <UNK_2A39516C id="STATION_VALENTINE" UNK_2824FB51="3" UNK_D82EAF5D="STATION_BLACKWATER" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_VALENTINE" />
+        <UNK_2A39516C id="STATION_COLTER" UNK_2824FB51="4" UNK_D82EAF5D="STATION_BLACKWATER" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_COLTER" />
+        <UNK_2A39516C id="STATION_EMERALD" UNK_2824FB51="4" UNK_D82EAF5D="STATION_BLACKWATER" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_EMERALD" />
+        <UNK_2A39516C id="STATION_RHODES" UNK_2824FB51="4" UNK_D82EAF5D="STATION_BLACKWATER" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_RHODES" />
+        <UNK_2A39516C id="STATION_WAPITI" UNK_2824FB51="4" UNK_D82EAF5D="STATION_BLACKWATER" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_WAPITI" />
+        <UNK_2A39516C id="STATION_VAN_HORN" UNK_2824FB51="5" UNK_D82EAF5D="STATION_BLACKWATER" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_EMERALD" UNK_8050EED="STATION_VAN_HORN" />
+        <UNK_2A39516C id="STATION_ANNESBERG" UNK_2824FB51="6" UNK_D82EAF5D="STATION_BLACKWATER" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_EMERALD" UNK_8050EED="STATION_VAN_HORN" UNK_F5936A0A="STATION_ANNESBERG" />
+        <UNK_2A39516C id="STATION_SAINT_DENIS" UNK_2824FB51="5" UNK_D82EAF5D="STATION_BLACKWATER" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_RHODES" UNK_8050EED="STATION_SAINT_DENIS" />
+        <UNK_2A39516C id="STATION_LAGRAS" UNK_2824FB51="6" UNK_D82EAF5D="STATION_BLACKWATER" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_RHODES" UNK_8050EED="STATION_SAINT_DENIS" UNK_F5936A0A="STATION_LAGRAS" />
+      </routes>
+    </station>
+    <station category="NFT_CATEGORY_WEST_ELIZABETH" id="STATION_STRAWBERRY" position="[-1737.784, -414.301, 154.2287]">
+      <spawnpoints position="[-1792.415, -405.6841, 158.0142]" radius="150.0">
+        <spawn heading="47.727" position="[-1723.073, -430.4347, 151.0119]" />
+        <spawn heading="113.4014" position="[-1730.063, -429.3813, 151.0134]" />
+        <spawn heading="34.9485" position="[-1722.448, -425.6783, 151.5909]" />
+        <spawn heading="25.485" position="[-1724.125, -429.8105, 150.9531]" />
+        <spawn heading="20.1744" position="[-1730.567, -428.2617, 151.0999]" />
+        <spawn heading="117.6096" position="[-1745.068, -421.3454, 151.9781]" />
+        <spawn heading="314.391" position="[-1785.845, -422.4947, 154.4879]" />
+        <spawn heading="107.4579" position="[-1768.196, -410.6485, 154.1064]" />
+        <spawn heading="153.6149" position="[-1771.456, -401.7672, 154.7455]" />
+        <spawn heading="146.8502" position="[-1759.994, -389.2811, 156.6945]" />
+        <spawn heading="23.7" position="[-1780.415, -386.6685, 156.8209]" />
+        <spawn heading="96.381" position="[-1748.745, -419.9634, 152.5926]" />
+        <spawn heading="24.6805" position="[-1750.905, -414.2978, 154.2857]" />
+        <spawn heading="204.3508" position="[-1744.218, -396.4787, 155.617]" />
+        <spawn heading="223.7016" position="[-1748.139, -396.0256, 155.2864]" />
+        <spawn heading="316.7318" position="[-1742.262, -413.0083, 154.3054]" />
+        <spawn heading="170.4118" position="[-1735.8, -408.0123, 154.5861]" />
+        <spawn heading="108.1917" position="[-1746.47, -398.1702, 155.2318]" />
+        <spawn heading="127.4277" position="[-1744.875, -413.1911, 154.3906]" />
+        <spawn heading="105.249" position="[-1736.514, -421.0336, 152.3855]" />
+        <spawn heading="79.0435" position="[-1746.205, -397.8327, 155.29]" />
+        <spawn heading="58.3896" position="[-1775.161, -381.8021, 156.6469]" />
+        <spawn heading="45.3505" position="[-1785.561, -382.0968, 157.0957]" />
+        <spawn heading="237.9263" position="[-1781.775, -387.6115, 158.2569]" />
+        <spawn heading="46.8035" position="[-1738.045, -406.0316, 154.6185]" />
+        <spawn heading="53.0806" position="[-1725.091, -413.927, 153.9841]" />
+        <spawn heading="315.9722" position="[-1759.056, -414.8096, 153.912]" />
+        <spawn heading="77.4603" position="[-1763.508, -413.7763, 154.1924]" />
+        <spawn heading="253.6099" position="[-1761.041, -407.6799, 155.7198]" />
+        <spawn heading="121.1374" position="[-1765.138, -405.1903, 154.3268]" />
+        <spawn heading="229.2065" position="[-1764.516, -403.6995, 154.4351]" />
+        <spawn heading="222.1714" position="[-1762.463, -394.8496, 155.2334]" />
+        <spawn heading="62.9939" position="[-1769.0, -387.7306, 156.7221]" />
+        <spawn heading="262.1324" position="[-1771.851, -394.9184, 155.4099]" />
+        <spawn heading="8.7116" position="[-1774.639, -399.5202, 155.4483]" />
+        <spawn heading="313.3487" position="[-1764.15, -436.5487, 154.2032]" />
+        <spawn heading="333.3876" position="[-1778.758, -389.2048, 156.6126]" />
+        <spawn heading="151.6908" position="[-1774.694, -404.2878, 155.4702]" />
+        <spawn heading="65.2974" position="[-1750.565, -377.9952, 160.7091]" />
+        <spawn heading="315.9074" position="[-1778.905, -389.8735, 156.6347]" />
+        <spawn heading="244.8399" position="[-1766.456, -426.568, 154.202]" />
+        <spawn heading="175.9901" position="[-1742.948, -385.3268, 156.083]" />
+        <spawn heading="87.4809" position="[-1742.503, -391.3509, 155.9115]" />
+        <spawn heading="122.7781" position="[-1786.693, -367.3568, 159.4324]" />
+        <spawn heading="206.3831" position="[-1785.281, -371.591, 158.6071]" />
+        <spawn heading="218.3522" position="[-1770.236, -386.791, 156.7219]" />
+        <spawn heading="86.742" position="[-1763.979, -412.9136, 154.2815]" />
+        <spawn heading="225.0381" position="[-1758.701, -414.8566, 153.9376]" />
+        <spawn heading="198.4271" position="[-1741.627, -423.6678, 151.5305]" />
+        <spawn heading="209.1319" position="[-1741.559, -429.1586, 149.2991]" />
+        <spawn heading="198.5912" position="[-1751.835, -422.7705, 151.1818]" />
+        <spawn heading="225.1612" position="[-1750.251, -424.449, 150.6514]" />
+        <spawn heading="245.1539" position="[-1748.212, -425.5839, 150.3646]" />
+        <spawn heading="233.0426" position="[-1745.254, -426.851, 150.0302]" />
+        <spawn heading="250.7201" position="[-1742.448, -428.1062, 149.697]" />
+        <spawn heading="221.1365" position="[-1740.239, -428.8869, 149.4254]" />
+        <spawn heading="358.9108" position="[-1733.587, -426.625, 151.5778]" />
+        <spawn heading="152.9852" position="[-1759.078, -386.0553, 156.6945]" />
+        <spawn heading="26.2923" position="[-1756.0, -431.0157, 151.2652]" />
+        <spawn heading="78.9817" position="[-1778.726, -408.7929, 154.5778]" />
+        <spawn heading="179.8719" position="[-1746.713, -370.6561, 165.8597]" />
+        <spawn heading="261.675" position="[-1766.719, -426.2728, 154.2167]" />
+        <spawn heading="216.2841" position="[-1762.475, -428.7166, 154.2167]" />
+        <spawn heading="270.5756" position="[-1773.347, -424.8648, 154.1295]" />
+      </spawnpoints>
+      <destinations>
+        <destination cost="1" distance="1302" id="STATION_BLACKWATER" />
+        <destination cost="2" distance="1879" id="STATION_VALENTINE" />
+      </destinations>
+      <routes>
+        <UNK_2A39516C id="STATION_TUMBLEWEED" UNK_2824FB51="5" UNK_D82EAF5D="STATION_BLACKWATER" UNK_C6710BE2="STATION_MANZANITA" UNK_E47F47E2="STATION_MACFARLANES" UNK_D226A331="STATION_ARMADILLO" UNK_8050EED="STATION_TUMBLEWEED" />
+        <UNK_2A39516C id="STATION_ARMADILLO" UNK_2824FB51="4" UNK_D82EAF5D="STATION_BLACKWATER" UNK_C6710BE2="STATION_MANZANITA" UNK_E47F47E2="STATION_MACFARLANES" UNK_D226A331="STATION_ARMADILLO" />
+        <UNK_2A39516C id="STATION_MACFARLANES" UNK_2824FB51="3" UNK_D82EAF5D="STATION_BLACKWATER" UNK_C6710BE2="STATION_MANZANITA" UNK_E47F47E2="STATION_MACFARLANES" />
+        <UNK_2A39516C id="STATION_MANZANITA" UNK_2824FB51="2" UNK_D82EAF5D="STATION_BLACKWATER" UNK_C6710BE2="STATION_MANZANITA" />
+        <UNK_2A39516C id="STATION_BLACKWATER" UNK_2824FB51="1" UNK_D82EAF5D="STATION_BLACKWATER" />
+        <UNK_2A39516C id="STATION_VALENTINE" UNK_2824FB51="1" UNK_D82EAF5D="STATION_VALENTINE" />
+        <UNK_2A39516C id="STATION_COLTER" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_COLTER" />
+        <UNK_2A39516C id="STATION_EMERALD" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_EMERALD" />
+        <UNK_2A39516C id="STATION_RHODES" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_RHODES" />
+        <UNK_2A39516C id="STATION_WAPITI" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_WAPITI" />
+        <UNK_2A39516C id="STATION_VAN_HORN" UNK_2824FB51="3" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_EMERALD" UNK_E47F47E2="STATION_VAN_HORN" />
+        <UNK_2A39516C id="STATION_ANNESBERG" UNK_2824FB51="4" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_EMERALD" UNK_E47F47E2="STATION_VAN_HORN" UNK_D226A331="STATION_ANNESBERG" />
+        <UNK_2A39516C id="STATION_SAINT_DENIS" UNK_2824FB51="3" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_RHODES" UNK_E47F47E2="STATION_SAINT_DENIS" />
+        <UNK_2A39516C id="STATION_LAGRAS" UNK_2824FB51="4" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_RHODES" UNK_E47F47E2="STATION_SAINT_DENIS" UNK_D226A331="STATION_LAGRAS" />
+      </routes>
+    </station>
+    <station category="NFT_CATEGORY_AMBARINO" id="STATION_COLTER" position="[-1305.1, 2423.2, 307.1]">
+      <spawnpoints position="[-1337.86, 2436.588, 307.5739]" radius="150.0">
+        <spawn heading="33.5598" position="[-1288.83, 2417.851, 304.9203]" />
+        <spawn heading="280.4175" position="[-1287.893, 2420.401, 304.7947]" />
+        <spawn heading="48.6733" position="[-1283.339, 2421.434, 304.6379]" />
+        <spawn heading="140.0595" position="[-1329.544, 2445.411, 308.3516]" />
+        <spawn heading="105.5534" position="[-1280.018, 2424.874, 304.5744]" />
+        <spawn heading="65.9153" position="[-1277.325, 2427.437, 304.4195]" />
+        <spawn heading="144.1921" position="[-1280.925, 2419.167, 304.7453]" />
+        <spawn heading="8.4373" position="[-1339.832, 2415.593, 307.0469]" />
+        <spawn heading="158.4224" position="[-1330.433, 2406.493, 306.604]" />
+        <spawn heading="64.4938" position="[-1322.88, 2427.609, 307.5328]" />
+        <spawn heading="257.2278" position="[-1339.438, 2445.078, 307.9396]" />
+        <spawn heading="53.1314" position="[-1338.526, 2425.379, 307.084]" />
+        <spawn heading="156.0283" position="[-1345.042, 2414.248, 306.8085]" />
+        <spawn heading="293.7444" position="[-1321.04, 2417.886, 307.1281]" />
+        <spawn heading="192.2435" position="[-1285.2, 2419.273, 304.8561]" />
+        <spawn heading="225.9554" position="[-1286.833, 2415.242, 304.8324]" />
+        <spawn heading="35.4669" position="[-1291.073, 2413.591, 305.0273]" />
+        <spawn heading="235.3158" position="[-1293.802, 2414.086, 305.0296]" />
+        <spawn heading="356.1377" position="[-1297.918, 2409.864, 305.2062]" />
+        <spawn heading="104.8889" position="[-1302.266, 2403.647, 305.933]" />
+        <spawn heading="295.108" position="[-1309.31, 2414.38, 305.9145]" />
+        <spawn heading="132.4119" position="[-1306.965, 2429.946, 307.5901]" />
+        <spawn heading="101.0402" position="[-1312.198, 2432.592, 308.3541]" />
+        <spawn heading="323.0911" position="[-1323.042, 2428.065, 307.5759]" />
+        <spawn heading="206.9265" position="[-1330.93, 2444.727, 308.2249]" />
+        <spawn heading="248.1864" position="[-1330.22, 2448.222, 308.3245]" />
+        <spawn heading="77.0602" position="[-1320.567, 2447.846, 308.9353]" />
+        <spawn heading="62.8219" position="[-1339.642, 2447.626, 307.9771]" />
+        <spawn heading="294.5792" position="[-1337.535, 2457.743, 308.1445]" />
+        <spawn heading="359.0704" position="[-1313.22, 2414.894, 306.2771]" />
+        <spawn heading="99.1724" position="[-1315.028, 2410.9, 306.0985]" />
+        <spawn heading="249.4341" position="[-1311.338, 2421.645, 306.6843]" />
+        <spawn heading="245.1712" position="[-1305.068, 2430.715, 307.2608]" />
+        <spawn heading="215.6783" position="[-1322.351, 2428.805, 307.2883]" />
+        <spawn heading="267.0013" position="[-1322.38, 2430.397, 307.4589]" />
+        <spawn heading="78.7993" position="[-1325.181, 2430.687, 307.3683]" />
+        <spawn heading="30.9317" position="[-1347.289, 2411.695, 306.4777]" />
+        <spawn heading="306.5213" position="[-1357.957, 2418.424, 306.8313]" />
+        <spawn heading="60.1206" position="[-1352.126, 2428.659, 307.0015]" />
+        <spawn heading="216.3684" position="[-1349.293, 2428.946, 307.1238]" />
+        <spawn heading="10.7922" position="[-1335.266, 2419.544, 307.4593]" />
+        <spawn heading="296.7228" position="[-1330.456, 2420.69, 307.4155]" />
+        <spawn heading="285.4659" position="[-1332.794, 2411.665, 307.1249]" />
+        <spawn heading="0.5696" position="[-1324.66, 2406.729, 306.634]" />
+        <spawn heading="79.8231" position="[-1321.342, 2402.884, 306.6662]" />
+        <spawn heading="344.8955" position="[-1317.327, 2409.79, 306.6398]" />
+        <spawn heading="283.2816" position="[-1313.789, 2423.718, 307.2007]" />
+        <spawn heading="222.8741" position="[-1304.988, 2430.511, 307.5809]" />
+        <spawn heading="31.9458" position="[-1307.153, 2440.734, 308.8516]" />
+        <spawn heading="93.4748" position="[-1329.882, 2432.634, 307.4333]" />
+        <spawn heading="226.0959" position="[-1308.513, 2455.953, 309.1565]" />
+        <spawn heading="172.9613" position="[-1329.543, 2421.514, 307.0076]" />
+        <spawn heading="263.9232" position="[-1334.337, 2406.928, 306.4052]" />
+        <spawn heading="330.9085" position="[-1319.195, 2405.134, 306.1121]" />
+        <spawn heading="176.1984" position="[-1315.594, 2401.555, 305.7928]" />
+        <spawn heading="195.0395" position="[-1310.656, 2400.409, 306.0758]" />
+        <spawn heading="287.8101" position="[-1306.118, 2400.743, 306.2923]" />
+        <spawn heading="275.2613" position="[-1301.002, 2399.886, 306.2441]" />
+        <spawn heading="350.0807" position="[-1298.1, 2403.247, 305.6719]" />
+        <spawn heading="280.6765" position="[-1293.443, 2405.591, 305.1643]" />
+        <spawn heading="16.2374" position="[-1290.361, 2411.263, 305.0014]" />
+        <spawn heading="29.0151" position="[-1286.075, 2410.415, 304.665]" />
+        <spawn heading="62.2821" position="[-1282.943, 2412.702, 304.5099]" />
+        <spawn heading="49.1826" position="[-1283.576, 2416.104, 304.7141]" />
+      </spawnpoints>
+      <destinations>
+        <destination cost="2" distance="2110" id="STATION_VALENTINE" />
+      </destinations>
+      <routes>
+        <UNK_2A39516C id="STATION_TUMBLEWEED" UNK_2824FB51="7" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_MANZANITA" UNK_8050EED="STATION_MACFARLANES" UNK_F5936A0A="STATION_ARMADILLO" UNK_3976F1D0="STATION_TUMBLEWEED" />
+        <UNK_2A39516C id="STATION_ARMADILLO" UNK_2824FB51="6" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_MANZANITA" UNK_8050EED="STATION_MACFARLANES" UNK_F5936A0A="STATION_ARMADILLO" />
+        <UNK_2A39516C id="STATION_MACFARLANES" UNK_2824FB51="5" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_MANZANITA" UNK_8050EED="STATION_MACFARLANES" />
+        <UNK_2A39516C id="STATION_MANZANITA" UNK_2824FB51="4" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_MANZANITA" />
+        <UNK_2A39516C id="STATION_BLACKWATER" UNK_2824FB51="3" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" />
+        <UNK_2A39516C id="STATION_STRAWBERRY" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" />
+        <UNK_2A39516C id="STATION_VALENTINE" UNK_2824FB51="1" UNK_D82EAF5D="STATION_VALENTINE" />
+        <UNK_2A39516C id="STATION_EMERALD" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_EMERALD" />
+        <UNK_2A39516C id="STATION_RHODES" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_RHODES" />
+        <UNK_2A39516C id="STATION_WAPITI" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_WAPITI" />
+        <UNK_2A39516C id="STATION_VAN_HORN" UNK_2824FB51="3" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_EMERALD" UNK_E47F47E2="STATION_VAN_HORN" />
+        <UNK_2A39516C id="STATION_ANNESBERG" UNK_2824FB51="4" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_EMERALD" UNK_E47F47E2="STATION_VAN_HORN" UNK_D226A331="STATION_ANNESBERG" />
+        <UNK_2A39516C id="STATION_SAINT_DENIS" UNK_2824FB51="3" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_RHODES" UNK_E47F47E2="STATION_SAINT_DENIS" />
+        <UNK_2A39516C id="STATION_LAGRAS" UNK_2824FB51="4" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_RHODES" UNK_E47F47E2="STATION_SAINT_DENIS" UNK_D226A331="STATION_LAGRAS" />
+      </routes>
+    </station>
+    <station category="NFT_CATEGORY_AMBARINO" id="STATION_WAPITI" position="[484.383, 2178.266, 243.389]">
+      <spawnpoints position="[458.7854, 2221.129, 246.7369]" radius="150.0">
+        <spawn heading="313.2323" position="[453.9858, 2164.378, 242.7504]" />
+        <spawn heading="321.4514" position="[460.2316, 2182.322, 244.4674]" />
+        <spawn heading="194.5222" position="[431.9801, 2200.948, 245.6331]" />
+        <spawn heading="31.6036" position="[421.7759, 2225.291, 251.3219]" />
+        <spawn heading="104.1597" position="[452.1849, 2250.362, 247.9233]" />
+        <spawn heading="262.9333" position="[460.2752, 2250.848, 247.4856]" />
+        <spawn heading="340.6407" position="[467.4876, 2259.101, 247.6959]" />
+        <spawn heading="248.7819" position="[479.0192, 2248.57, 247.2273]" />
+        <spawn heading="80.2286" position="[492.7318, 2226.434, 245.9008]" />
+        <spawn heading="116.0743" position="[479.5173, 2222.705, 246.0508]" />
+        <spawn heading="58.0116" position="[467.9971, 2207.988, 245.2902]" />
+        <spawn heading="94.6035" position="[448.3507, 2232.036, 246.6019]" />
+        <spawn heading="202.179" position="[460.5853, 2243.665, 247.0253]" />
+        <spawn heading="231.6013" position="[435.0722, 2207.364, 245.8064]" />
+        <spawn heading="238.5111" position="[445.576, 2163.293, 243.3457]" />
+        <spawn heading="358.3024" position="[445.5208, 2192.904, 245.1716]" />
+        <spawn heading="118.072" position="[488.3275, 2260.244, 248.8645]" />
+        <spawn heading="143.6384" position="[473.8631, 2266.162, 248.0561]" />
+        <spawn heading="285.0269" position="[419.0098, 2229.1, 252.7374]" />
+        <spawn heading="254.2887" position="[455.7517, 2219.975, 245.6226]" />
+        <spawn heading="255.0476" position="[423.9707, 2250.085, 252.3906]" />
+        <spawn heading="123.3194" position="[427.9019, 2244.052, 251.8582]" />
+        <spawn heading="219.5017" position="[425.815, 2236.767, 251.8372]" />
+        <spawn heading="232.3048" position="[418.6186, 2226.36, 252.3958]" />
+        <spawn heading="324.7997" position="[429.0901, 2208.595, 246.6836]" />
+        <spawn heading="261.1762" position="[425.6562, 2199.863, 246.8516]" />
+        <spawn heading="352.9747" position="[422.4317, 2189.968, 246.6168]" />
+        <spawn heading="271.2226" position="[429.3903, 2189.46, 245.2935]" />
+        <spawn heading="209.7734" position="[431.6818, 2174.896, 244.4957]" />
+        <spawn heading="220.5969" position="[443.6291, 2163.089, 243.1968]" />
+        <spawn heading="165.2544" position="[450.2296, 2152.12, 242.881]" />
+        <spawn heading="358.2667" position="[467.1359, 2205.09, 244.8332]" />
+        <spawn heading="280.7421" position="[474.8834, 2207.03, 246.0972]" />
+        <spawn heading="94.103" position="[496.7503, 2225.267, 245.7544]" />
+        <spawn heading="46.9714" position="[494.7646, 2235.39, 246.478]" />
+        <spawn heading="37.4178" position="[478.6017, 2246.974, 247.1676]" />
+        <spawn heading="152.0173" position="[474.2339, 2242.773, 246.9498]" />
+        <spawn heading="91.8622" position="[466.8912, 2244.058, 247.2716]" />
+        <spawn heading="168.747" position="[476.7937, 2225.966, 246.2623]" />
+        <spawn heading="106.1947" position="[467.5858, 2216.189, 245.4988]" />
+        <spawn heading="322.5027" position="[430.5183, 2244.864, 251.6209]" />
+        <spawn heading="293.3556" position="[454.7244, 2248.57, 247.8036]" />
+        <spawn heading="338.2885" position="[467.8152, 2260.122, 247.8716]" />
+        <spawn heading="204.8331" position="[475.1556, 2253.532, 247.274]" />
+        <spawn heading="115.3793" position="[477.1961, 2242.104, 247.1132]" />
+        <spawn heading="88.3558" position="[461.8604, 2243.694, 247.0294]" />
+        <spawn heading="177.6174" position="[459.8571, 2237.14, 246.769]" />
+        <spawn heading="135.8707" position="[448.6124, 2231.598, 246.5996]" />
+        <spawn heading="236.8241" position="[447.6059, 2217.441, 245.6495]" />
+        <spawn heading="245.0033" position="[456.4405, 2217.385, 245.4594]" />
+        <spawn heading="243.5551" position="[467.0274, 2218.958, 245.6808]" />
+        <spawn heading="182.3307" position="[471.2195, 2205.279, 245.7625]" />
+        <spawn heading="143.5983" position="[463.9401, 2184.854, 243.9746]" />
+        <spawn heading="265.3814" position="[448.6648, 2179.11, 244.0644]" />
+        <spawn heading="17.3145" position="[493.3041, 2189.134, 244.422]" />
+        <spawn heading="30.3962" position="[505.1462, 2205.933, 246.4342]" />
+        <spawn heading="52.3575" position="[508.6113, 2215.903, 246.1208]" />
+        <spawn heading="72.3676" position="[487.8416, 2242.584, 247.1803]" />
+        <spawn heading="88.765" position="[468.1945, 2237.768, 246.7422]" />
+        <spawn heading="108.1824" position="[445.2224, 2237.946, 247.2333]" />
+        <spawn heading="231.7393" position="[447.5763, 2220.712, 245.9796]" />
+        <spawn heading="201.2209" position="[466.6606, 2219.99, 245.7378]" />
+        <spawn heading="343.4602" position="[467.609, 2231.013, 246.3752]" />
+        <spawn heading="233.117" position="[476.1649, 2228.903, 246.4726]" />
+      </spawnpoints>
+      <destinations>
+        <destination cost="2" distance="1722" id="STATION_VALENTINE" />
+        <destination cost="3" distance="2274" id="STATION_EMERALD" />
+      </destinations>
+      <routes>
+        <UNK_2A39516C id="STATION_TUMBLEWEED" UNK_2824FB51="7" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_MANZANITA" UNK_8050EED="STATION_MACFARLANES" UNK_F5936A0A="STATION_ARMADILLO" UNK_3976F1D0="STATION_TUMBLEWEED" />
+        <UNK_2A39516C id="STATION_ARMADILLO" UNK_2824FB51="6" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_MANZANITA" UNK_8050EED="STATION_MACFARLANES" UNK_F5936A0A="STATION_ARMADILLO" />
+        <UNK_2A39516C id="STATION_MACFARLANES" UNK_2824FB51="5" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_MANZANITA" UNK_8050EED="STATION_MACFARLANES" />
+        <UNK_2A39516C id="STATION_MANZANITA" UNK_2824FB51="4" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_MANZANITA" />
+        <UNK_2A39516C id="STATION_BLACKWATER" UNK_2824FB51="3" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" />
+        <UNK_2A39516C id="STATION_STRAWBERRY" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" />
+        <UNK_2A39516C id="STATION_VALENTINE" UNK_2824FB51="1" UNK_D82EAF5D="STATION_VALENTINE" />
+        <UNK_2A39516C id="STATION_COLTER" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_COLTER" />
+        <UNK_2A39516C id="STATION_EMERALD" UNK_2824FB51="1" UNK_D82EAF5D="STATION_EMERALD" />
+        <UNK_2A39516C id="STATION_RHODES" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_RHODES" />
+        <UNK_2A39516C id="STATION_VAN_HORN" UNK_2824FB51="2" UNK_D82EAF5D="STATION_EMERALD" UNK_C6710BE2="STATION_VAN_HORN" />
+        <UNK_2A39516C id="STATION_ANNESBERG" UNK_2824FB51="2" UNK_D82EAF5D="STATION_EMERALD" UNK_C6710BE2="STATION_VAN_HORN" UNK_E47F47E2="STATION_ANNESBERG" />
+        <UNK_2A39516C id="STATION_SAINT_DENIS" UNK_2824FB51="3" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_RHODES" UNK_E47F47E2="STATION_SAINT_DENIS" />
+        <UNK_2A39516C id="STATION_LAGRAS" UNK_2824FB51="4" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_RHODES" UNK_E47F47E2="STATION_SAINT_DENIS" UNK_D226A331="STATION_LAGRAS" />
+      </routes>
+    </station>
+    <station category="NFT_CATEGORY_NEW_HANOVER" id="STATION_VALENTINE" position="[-186.4, 644.2, 113.5]">
+      <spawnpoints position="[-267.0157, 729.7272, 115.4911]" radius="150.0">
+        <spawn heading="126.6376" position="[-190.3148, 639.5237, 112.2634]" />
+        <spawn heading="90.0715" position="[-194.2493, 633.8243, 112.2867]" />
+        <spawn heading="194.3094" position="[-183.982, 650.3109, 112.5789]" />
+        <spawn heading="241.234" position="[-173.6305, 651.3355, 112.7283]" />
+        <spawn heading="25.1305" position="[-174.5777, 652.6843, 112.7827]" />
+        <spawn heading="156.8127" position="[-163.9791, 637.5687, 113.0321]" />
+        <spawn heading="246.9435" position="[-181.8528, 618.8435, 113.0321]" />
+        <spawn heading="37.8739" position="[-190.1631, 625.1815, 113.0321]" />
+        <spawn heading="105.8549" position="[-216.7392, 635.1291, 112.2081]" />
+        <spawn heading="24.6123" position="[-217.9171, 646.1891, 112.0451]" />
+        <spawn heading="82.4787" position="[-206.1503, 658.0631, 112.2741]" />
+        <spawn heading="36.5308" position="[-211.3622, 679.0715, 112.6095]" />
+        <spawn heading="130.0107" position="[-219.9929, 694.223, 112.7583]" />
+        <spawn heading="39.1867" position="[-238.0402, 739.3297, 114.9393]" />
+        <spawn heading="349.5466" position="[-248.1142, 737.6091, 115.8116]" />
+        <spawn heading="108.2204" position="[-261.1659, 731.236, 117.1378]" />
+        <spawn heading="47.9936" position="[-277.4331, 729.152, 115.8696]" />
+        <spawn heading="336.0389" position="[-279.3194, 741.5828, 116.3031]" />
+        <spawn heading="281.5751" position="[-259.72, 749.9311, 116.2391]" />
+        <spawn heading="18.8225" position="[-257.056, 765.0678, 116.3168]" />
+        <spawn heading="123.1294" position="[-267.6821, 770.6212, 116.9486]" />
+        <spawn heading="64.289" position="[-275.4452, 786.465, 121.4295]" />
+        <spawn heading="353.7576" position="[-267.807, 801.9346, 118.059]" />
+        <spawn heading="286.1076" position="[-249.9374, 796.6813, 118.7492]" />
+        <spawn heading="84.8188" position="[-251.4666, 790.4833, 117.9673]" />
+        <spawn heading="193.7357" position="[-299.042, 783.1811, 117.2767]" />
+        <spawn heading="88.6556" position="[-304.0182, 782.8871, 117.7491]" />
+        <spawn heading="190.2413" position="[-315.4387, 780.9046, 117.0274]" />
+        <spawn heading="67.9553" position="[-318.8555, 779.8515, 116.9828]" />
+        <spawn heading="191.254" position="[-332.5796, 776.3901, 116.4407]" />
+        <spawn heading="234.1339" position="[-328.4243, 755.9083, 119.036]" />
+        <spawn heading="253.1679" position="[-315.7281, 761.2666, 120.6004]" />
+        <spawn heading="200.1257" position="[-316.3162, 798.1511, 116.6698]" />
+        <spawn heading="299.9447" position="[-318.5746, 819.8673, 120.8743]" />
+        <spawn heading="276.4623" position="[-307.2529, 822.365, 120.86]" />
+        <spawn heading="142.0118" position="[-339.8627, 811.8168, 115.8864]" />
+        <spawn heading="227.7005" position="[-367.0365, 804.8859, 115.0466]" />
+        <spawn heading="280.3128" position="[-359.4015, 776.0661, 115.3084]" />
+        <spawn heading="115.1173" position="[-353.7466, 752.097, 115.4892]" />
+        <spawn heading="344.0715" position="[-211.0028, 620.4976, 112.3585]" />
+        <spawn heading="42.9907" position="[-215.2676, 614.061, 112.3332]" />
+        <spawn heading="302.1074" position="[-225.0685, 624.5552, 112.2112]" />
+        <spawn heading="43.0367" position="[-226.5878, 628.9916, 112.1578]" />
+        <spawn heading="97.1154" position="[-236.7666, 617.8021, 112.8186]" />
+        <spawn heading="28.6637" position="[-264.6873, 658.7367, 112.3653]" />
+        <spawn heading="28.0952" position="[-259.084, 674.0828, 112.281]" />
+        <spawn heading="222.5442" position="[-251.8221, 668.3663, 112.415]" />
+        <spawn heading="300.8837" position="[-253.711, 667.6695, 112.2883]" />
+        <spawn heading="116.0629" position="[-260.5551, 664.8451, 112.3154]" />
+        <spawn heading="341.4675" position="[-255.9009, 699.0898, 112.3251]" />
+        <spawn heading="45.9542" position="[-295.9075, 721.3128, 115.7259]" />
+        <spawn heading="90.9097" position="[-296.4319, 730.9158, 116.4063]" />
+        <spawn heading="138.5042" position="[-303.1174, 746.436, 117.1594]" />
+        <spawn heading="280.2088" position="[-296.5757, 754.644, 117.1985]" />
+        <spawn heading="287.5424" position="[-323.9272, 752.5787, 116.0843]" />
+        <spawn heading="138.0443" position="[-325.2743, 740.1869, 116.4157]" />
+        <spawn heading="195.9604" position="[-260.8281, 774.0421, 117.0061]" />
+        <spawn heading="191.4713" position="[-267.7303, 806.178, 118.1887]" />
+        <spawn heading="264.1504" position="[-273.0846, 817.4133, 118.1224]" />
+        <spawn heading="69.1139" position="[-277.2018, 826.7123, 118.2887]" />
+        <spawn heading="248.7565" position="[-283.571, 840.1791, 118.8503]" />
+        <spawn heading="118.5478" position="[-310.627, 833.9124, 118.588]" />
+        <spawn heading="176.1595" position="[-331.2561, 828.4444, 117.0225]" />
+        <spawn heading="222.3804" position="[-348.6428, 823.2031, 115.8533]" />
+      </spawnpoints>
+      <destinations>
+        <destination cost="2" distance="1879" id="STATION_STRAWBERRY" />
+        <destination cost="2" distance="2110" id="STATION_COLTER" />
+        <destination cost="2" distance="1722" id="STATION_WAPITI" />
+        <destination cost="2" distance="1714" id="STATION_EMERALD" />
+        <destination cost="2" distance="2409" id="STATION_RHODES" />
+      </destinations>
+      <routes>
+        <UNK_2A39516C id="STATION_TUMBLEWEED" UNK_2824FB51="6" UNK_D82EAF5D="STATION_STRAWBERRY" UNK_C6710BE2="STATION_BLACKWATER" UNK_E47F47E2="STATION_MANZANITA" UNK_D226A331="STATION_MACFARLANES" UNK_8050EED="STATION_ARMADILLO" UNK_F5936A0A="STATION_TUMBLEWEED" />
+        <UNK_2A39516C id="STATION_ARMADILLO" UNK_2824FB51="5" UNK_D82EAF5D="STATION_STRAWBERRY" UNK_C6710BE2="STATION_BLACKWATER" UNK_E47F47E2="STATION_MANZANITA" UNK_D226A331="STATION_MACFARLANES" UNK_8050EED="STATION_ARMADILLO" />
+        <UNK_2A39516C id="STATION_MACFARLANES" UNK_2824FB51="4" UNK_D82EAF5D="STATION_STRAWBERRY" UNK_C6710BE2="STATION_BLACKWATER" UNK_E47F47E2="STATION_MANZANITA" UNK_D226A331="STATION_MACFARLANES" />
+        <UNK_2A39516C id="STATION_MANZANITA" UNK_2824FB51="3" UNK_D82EAF5D="STATION_STRAWBERRY" UNK_C6710BE2="STATION_BLACKWATER" UNK_E47F47E2="STATION_MANZANITA" />
+        <UNK_2A39516C id="STATION_BLACKWATER" UNK_2824FB51="2" UNK_D82EAF5D="STATION_STRAWBERRY" UNK_C6710BE2="STATION_BLACKWATER" />
+        <UNK_2A39516C id="STATION_STRAWBERRY" UNK_2824FB51="1" UNK_D82EAF5D="STATION_STRAWBERRY" />
+        <UNK_2A39516C id="STATION_COLTER" UNK_2824FB51="1" UNK_D82EAF5D="STATION_COLTER" />
+        <UNK_2A39516C id="STATION_EMERALD" UNK_2824FB51="1" UNK_D82EAF5D="STATION_EMERALD" />
+        <UNK_2A39516C id="STATION_RHODES" UNK_2824FB51="1" UNK_D82EAF5D="STATION_RHODES" />
+        <UNK_2A39516C id="STATION_WAPITI" UNK_2824FB51="1" UNK_D82EAF5D="STATION_WAPITI" />
+        <UNK_2A39516C id="STATION_VAN_HORN" UNK_2824FB51="2" UNK_D82EAF5D="STATION_EMERALD" UNK_C6710BE2="STATION_VAN_HORN" />
+        <UNK_2A39516C id="STATION_ANNESBERG" UNK_2824FB51="3" UNK_D82EAF5D="STATION_EMERALD" UNK_C6710BE2="STATION_VAN_HORN" UNK_E47F47E2="STATION_ANNESBERG" />
+        <UNK_2A39516C id="STATION_SAINT_DENIS" UNK_2824FB51="2" UNK_D82EAF5D="STATION_RHODES" UNK_C6710BE2="STATION_SAINT_DENIS" />
+        <UNK_2A39516C id="STATION_LAGRAS" UNK_2824FB51="3" UNK_D82EAF5D="STATION_RHODES" UNK_C6710BE2="STATION_SAINT_DENIS" UNK_E47F47E2="STATION_LAGRAS" />
+      </routes>
+    </station>
+    <station category="NFT_CATEGORY_NEW_HANOVER" id="STATION_VAN_HORN" position="[2901.696, 635.25, 55.215]">
+      <spawnpoints position="[2965.267, 537.7161, 44.3825]" radius="150.0">
+        <spawn heading="318.9447" position="[2975.263, 589.3384, 43.592]" />
+        <spawn heading="280.5527" position="[2989.747, 585.5959, 43.0522]" />
+        <spawn heading="69.1984" position="[2965.675, 583.0071, 43.3327]" />
+        <spawn heading="321.8154" position="[3005.56, 573.3297, 43.1923]" />
+        <spawn heading="224.2866" position="[3009.113, 555.185, 43.6764]" />
+        <spawn heading="254.0701" position="[2983.047, 553.3134, 42.0716]" />
+        <spawn heading="240.9713" position="[2969.804, 536.6841, 42.5173]" />
+        <spawn heading="242.8325" position="[2973.302, 519.2215, 42.1981]" />
+        <spawn heading="335.1505" position="[2967.557, 505.0544, 44.1421]" />
+        <spawn heading="289.6031" position="[2977.909, 476.7418, 45.6339]" />
+        <spawn heading="238.8664" position="[2979.753, 458.7148, 49.3753]" />
+        <spawn heading="5.735" position="[2969.884, 459.6518, 48.5583]" />
+        <spawn heading="2.0732" position="[2960.961, 482.7735, 46.3497]" />
+        <spawn heading="358.5463" position="[2956.34, 498.4181, 44.8699]" />
+        <spawn heading="340.821" position="[2954.462, 516.9403, 44.482]" />
+        <spawn heading="324.2882" position="[2953.871, 534.6669, 43.6651]" />
+        <spawn heading="342.7862" position="[2957.975, 559.982, 43.8156]" />
+        <spawn heading="11.6819" position="[2943.852, 583.045, 43.4742]" />
+        <spawn heading="169.0967" position="[2931.566, 543.8757, 44.1868]" />
+        <spawn heading="269.5236" position="[2944.129, 514.2793, 44.4009]" />
+        <spawn heading="355.7375" position="[2941.712, 484.6364, 45.773]" />
+        <spawn heading="113.3801" position="[2904.085, 636.6734, 54.6545]" />
+        <spawn heading="322.5732" position="[2890.079, 615.3349, 56.5088]" />
+        <spawn heading="199.6591" position="[2934.645, 585.0378, 43.6463]" />
+        <spawn heading="154.2944" position="[2951.717, 586.9715, 43.3511]" />
+        <spawn heading="20.4136" position="[2963.139, 590.0959, 43.6331]" />
+        <spawn heading="229.0522" position="[2994.09, 589.3387, 41.1039]" />
+        <spawn heading="327.1665" position="[2995.49, 589.968, 41.0393]" />
+        <spawn heading="135.7304" position="[2973.576, 581.6879, 43.3832]" />
+        <spawn heading="211.0175" position="[2970.049, 570.7961, 43.4]" />
+        <spawn heading="59.0428" position="[2981.251, 559.0038, 43.4044]" />
+        <spawn heading="351.7682" position="[2997.702, 565.4107, 43.4628]" />
+        <spawn heading="320.0121" position="[3032.349, 557.0646, 43.7082]" />
+        <spawn heading="145.7083" position="[3029.542, 552.7784, 43.7104]" />
+        <spawn heading="217.8948" position="[2978.904, 553.9821, 42.2658]" />
+        <spawn heading="59.8313" position="[2969.361, 553.0455, 43.237]" />
+        <spawn heading="83.4992" position="[2968.769, 543.7136, 42.7426]" />
+        <spawn heading="225.7139" position="[2981.942, 536.3675, 42.4591]" />
+        <spawn heading="303.1243" position="[2988.552, 514.5402, 41.5596]" />
+        <spawn heading="192.6019" position="[2981.661, 514.4436, 41.822]" />
+        <spawn heading="52.9492" position="[2968.853, 516.8898, 43.0628]" />
+        <spawn heading="154.0472" position="[2965.816, 512.2673, 43.7847]" />
+        <spawn heading="304.1577" position="[2970.089, 504.786, 44.0028]" />
+        <spawn heading="357.0914" position="[2966.361, 499.8146, 44.2318]" />
+        <spawn heading="89.4888" position="[2955.837, 497.7514, 44.8712]" />
+        <spawn heading="212.7689" position="[2958.701, 487.508, 46.3498]" />
+        <spawn heading="234.2038" position="[2973.336, 478.954, 45.8962]" />
+        <spawn heading="246.5033" position="[2994.209, 472.3853, 41.3329]" />
+        <spawn heading="332.6759" position="[2983.744, 487.0749, 42.0221]" />
+        <spawn heading="1.0672" position="[2970.222, 460.6938, 48.5645]" />
+        <spawn heading="326.4161" position="[2956.625, 512.9269, 44.2677]" />
+        <spawn heading="206.6799" position="[2939.104, 508.6538, 44.9025]" />
+        <spawn heading="304.7293" position="[2938.541, 496.5553, 44.7668]" />
+        <spawn heading="177.2181" position="[2941.949, 486.1321, 45.5205]" />
+        <spawn heading="304.8065" position="[2944.348, 474.9698, 46.9153]" />
+        <spawn heading="333.4699" position="[2926.01, 525.8888, 44.5178]" />
+        <spawn heading="355.0898" position="[2930.82, 538.2427, 44.2557]" />
+        <spawn heading="345.5994" position="[2939.979, 560.2415, 43.8344]" />
+        <spawn heading="264.1788" position="[2943.367, 556.5985, 43.8224]" />
+        <spawn heading="333.2843" position="[2957.722, 557.9744, 43.8253]" />
+        <spawn heading="182.5056" position="[2959.615, 569.863, 43.7784]" />
+        <spawn heading="144.8394" position="[2971.311, 595.7391, 43.9306]" />
+        <spawn heading="148.9924" position="[2965.231, 609.4036, 47.1579]" />
+        <spawn heading="192.1993" position="[2956.878, 591.8091, 43.4147]" />
+      </spawnpoints>
+      <destinations>
+        <destination cost="1" distance="663" id="STATION_ANNESBERG" />
+        <destination cost="1" distance="1399" id="STATION_EMERALD" />
+        <destination cost="2" distance="2115" id="STATION_SAINT_DENIS" />
+      </destinations>
+      <routes>
+        <UNK_2A39516C id="STATION_TUMBLEWEED" UNK_2824FB51="8" UNK_D82EAF5D="STATION_EMERALD" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_MANZANITA" UNK_F5936A0A="STATION_MACFARLANES" UNK_3976F1D0="STATION_ARMADILLO" UNK_175CAD9C="STATION_TUMBLEWEED" />
+        <UNK_2A39516C id="STATION_ARMADILLO" UNK_2824FB51="7" UNK_D82EAF5D="STATION_EMERALD" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_MANZANITA" UNK_F5936A0A="STATION_MACFARLANES" UNK_3976F1D0="STATION_ARMADILLO" />
+        <UNK_2A39516C id="STATION_MACFARLANES" UNK_2824FB51="6" UNK_D82EAF5D="STATION_EMERALD" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_MANZANITA" UNK_F5936A0A="STATION_MACFARLANES" />
+        <UNK_2A39516C id="STATION_MANZANITA" UNK_2824FB51="5" UNK_D82EAF5D="STATION_EMERALD" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_MANZANITA" />
+        <UNK_2A39516C id="STATION_BLACKWATER" UNK_2824FB51="4" UNK_D82EAF5D="STATION_EMERALD" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_BLACKWATER" />
+        <UNK_2A39516C id="STATION_STRAWBERRY" UNK_2824FB51="3" UNK_D82EAF5D="STATION_EMERALD" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_STRAWBERRY" />
+        <UNK_2A39516C id="STATION_VALENTINE" UNK_2824FB51="2" UNK_D82EAF5D="STATION_EMERALD" UNK_C6710BE2="STATION_VALENTINE" />
+        <UNK_2A39516C id="STATION_COLTER" UNK_2824FB51="3" UNK_D82EAF5D="STATION_EMERALD" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_COLTER" />
+        <UNK_2A39516C id="STATION_EMERALD" UNK_2824FB51="1" UNK_D82EAF5D="STATION_EMERALD" />
+        <UNK_2A39516C id="STATION_RHODES" UNK_2824FB51="2" UNK_D82EAF5D="STATION_EMERALD" UNK_C6710BE2="STATION_RHODES" />
+        <UNK_2A39516C id="STATION_WAPITI" UNK_2824FB51="2" UNK_D82EAF5D="STATION_EMERALD" UNK_C6710BE2="STATION_WAPITI" />
+        <UNK_2A39516C id="STATION_ANNESBERG" UNK_2824FB51="1" UNK_D82EAF5D="STATION_ANNESBERG" />
+        <UNK_2A39516C id="STATION_SAINT_DENIS" UNK_2824FB51="1" UNK_D82EAF5D="STATION_SAINT_DENIS" />
+        <UNK_2A39516C id="STATION_LAGRAS" UNK_2824FB51="2" UNK_D82EAF5D="STATION_SAINT_DENIS" UNK_C6710BE2="STATION_LAGRAS" />
+      </routes>
+    </station>
+    <station category="NFT_CATEGORY_NEW_HANOVER" id="STATION_ANNESBERG" position="[2928.8, 1296.3, 44.4]">
+      <spawnpoints position="[2937.4, 1337.556, 47.2949]" radius="150.0">
+        <spawn heading="174.0773" position="[2938.638, 1264.551, 43.6496]" />
+        <spawn heading="220.6992" position="[2941.566, 1268.984, 43.646]" />
+        <spawn heading="319.4889" position="[2946.645, 1273.828, 43.6422]" />
+        <spawn heading="119.911" position="[2941.75, 1271.531, 43.6391]" />
+        <spawn heading="69.3352" position="[2939.285, 1296.394, 43.7335]" />
+        <spawn heading="94.0782" position="[2936.513, 1311.1, 43.4805]" />
+        <spawn heading="340.9803" position="[2936.118, 1314.553, 43.4886]" />
+        <spawn heading="169.3583" position="[2909.414, 1294.84, 43.8373]" />
+        <spawn heading="333.8707" position="[2912.699, 1303.735, 43.463]" />
+        <spawn heading="326.0305" position="[2926.047, 1342.16, 43.0943]" />
+        <spawn heading="211.9738" position="[2972.161, 1274.816, 41.8682]" />
+        <spawn heading="166.2434" position="[2932.936, 1359.165, 43.0567]" />
+        <spawn heading="71.3143" position="[2949.604, 1293.053, 43.6342]" />
+        <spawn heading="2.7129" position="[2944.812, 1256.292, 42.8623]" />
+        <spawn heading="344.0078" position="[2944.211, 1270.022, 43.6407]" />
+        <spawn heading="331.762" position="[2954.802, 1284.048, 43.6185]" />
+        <spawn heading="156.2843" position="[2949.535, 1285.469, 43.6269]" />
+        <spawn heading="231.0471" position="[2897.506, 1289.288, 49.8192]" />
+        <spawn heading="251.3157" position="[2894.737, 1277.085, 50.3222]" />
+        <spawn heading="298.9915" position="[2893.348, 1271.349, 48.5005]" />
+        <spawn heading="260.8893" position="[2894.3, 1308.886, 50.9589]" />
+        <spawn heading="336.073" position="[2930.387, 1301.509, 43.5172]" />
+        <spawn heading="127.0692" position="[2935.713, 1309.535, 43.4821]" />
+        <spawn heading="62.2952" position="[2940.485, 1312.391, 43.4787]" />
+        <spawn heading="208.2477" position="[2892.749, 1313.985, 52.1979]" />
+        <spawn heading="271.37" position="[2891.761, 1318.576, 53.678]" />
+        <spawn heading="324.142" position="[2937.914, 1322.017, 43.2788]" />
+        <spawn heading="338.1053" position="[2941.826, 1335.107, 42.9892]" />
+        <spawn heading="239.5379" position="[2895.241, 1331.474, 52.5636]" />
+        <spawn heading="181.7436" position="[2958.11, 1319.257, 43.7563]" />
+        <spawn heading="70.4004" position="[2954.265, 1309.794, 43.4847]" />
+        <spawn heading="343.628" position="[2960.161, 1307.67, 43.4833]" />
+        <spawn heading="60.2581" position="[2958.395, 1308.671, 43.4799]" />
+        <spawn heading="254.9927" position="[2977.782, 1310.119, 42.6101]" />
+        <spawn heading="297.0042" position="[2979.425, 1311.644, 42.4504]" />
+        <spawn heading="8.7653" position="[2989.362, 1299.115, 40.6312]" />
+        <spawn heading="1.8898" position="[2993.269, 1299.923, 40.6882]" />
+        <spawn heading="237.936" position="[2994.466, 1296.847, 40.6309]" />
+        <spawn heading="258.8348" position="[2992.115, 1289.805, 40.8007]" />
+        <spawn heading="176.0047" position="[2989.34, 1280.86, 40.6328]" />
+        <spawn heading="175.6344" position="[2981.713, 1271.254, 40.8928]" />
+        <spawn heading="174.5182" position="[2978.978, 1265.799, 40.8371]" />
+        <spawn heading="264.0982" position="[2972.637, 1260.27, 40.963]" />
+        <spawn heading="235.0052" position="[2967.898, 1253.541, 40.7202]" />
+        <spawn heading="258.3443" position="[2960.974, 1248.835, 40.8868]" />
+        <spawn heading="204.3172" position="[2954.568, 1246.545, 40.9974]" />
+        <spawn heading="334.3725" position="[2948.472, 1249.756, 42.3775]" />
+        <spawn heading="348.5173" position="[2910.121, 1244.354, 43.7948]" />
+        <spawn heading="197.8713" position="[2909.25, 1242.687, 43.798]" />
+        <spawn heading="4.9178" position="[2908.262, 1246.375, 43.8787]" />
+        <spawn heading="343.871" position="[2920.794, 1249.646, 43.5129]" />
+        <spawn heading="256.8511" position="[2914.544, 1315.693, 43.5744]" />
+        <spawn heading="248.4628" position="[2915.257, 1323.328, 44.0688]" />
+        <spawn heading="256.8095" position="[2917.705, 1330.103, 43.9771]" />
+        <spawn heading="167.8714" position="[2925.229, 1340.172, 43.1079]" />
+        <spawn heading="312.7568" position="[2926.089, 1341.458, 43.0277]" />
+        <spawn heading="254.9171" position="[2910.15, 1305.169, 43.7637]" />
+        <spawn heading="333.9739" position="[2914.176, 1311.54, 43.6021]" />
+        <spawn heading="323.6793" position="[2919.805, 1326.178, 43.2988]" />
+        <spawn heading="156.944" position="[2925.301, 1340.343, 43.1068]" />
+        <spawn heading="78.9662" position="[2929.577, 1360.135, 43.3019]" />
+        <spawn heading="165.2951" position="[2949.963, 1354.692, 43.8342]" />
+        <spawn heading="342.856" position="[2904.877, 1285.191, 43.7154]" />
+        <spawn heading="174.104" position="[2904.811, 1282.275, 43.6001]" />
+      </spawnpoints>
+      <destinations>
+        <destination cost="1" distance="663" id="STATION_VAN_HORN" />
+      </destinations>
+      <routes>
+        <UNK_2A39516C id="STATION_TUMBLEWEED" UNK_2824FB51="9" UNK_D82EAF5D="STATION_VAN_HORN" UNK_C6710BE2="STATION_EMERALD" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_BLACKWATER" UNK_F5936A0A="STATION_MANZANITA" UNK_3976F1D0="STATION_MACFARLANES" UNK_175CAD9C="STATION_ARMADILLO" UNK_5E4ABB77="STATION_TUMBLEWEED" />
+        <UNK_2A39516C id="STATION_ARMADILLO" UNK_2824FB51="8" UNK_D82EAF5D="STATION_VAN_HORN" UNK_C6710BE2="STATION_EMERALD" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_BLACKWATER" UNK_F5936A0A="STATION_MANZANITA" UNK_3976F1D0="STATION_MACFARLANES" UNK_175CAD9C="STATION_ARMADILLO" />
+        <UNK_2A39516C id="STATION_MACFARLANES" UNK_2824FB51="7" UNK_D82EAF5D="STATION_VAN_HORN" UNK_C6710BE2="STATION_EMERALD" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_BLACKWATER" UNK_F5936A0A="STATION_MANZANITA" UNK_3976F1D0="STATION_MACFARLANES" />
+        <UNK_2A39516C id="STATION_MANZANITA" UNK_2824FB51="6" UNK_D82EAF5D="STATION_VAN_HORN" UNK_C6710BE2="STATION_EMERALD" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_BLACKWATER" UNK_F5936A0A="STATION_MANZANITA" />
+        <UNK_2A39516C id="STATION_BLACKWATER" UNK_2824FB51="5" UNK_D82EAF5D="STATION_VAN_HORN" UNK_C6710BE2="STATION_EMERALD" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_BLACKWATER" />
+        <UNK_2A39516C id="STATION_STRAWBERRY" UNK_2824FB51="4" UNK_D82EAF5D="STATION_VAN_HORN" UNK_C6710BE2="STATION_EMERALD" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_STRAWBERRY" />
+        <UNK_2A39516C id="STATION_VALENTINE" UNK_2824FB51="3" UNK_D82EAF5D="STATION_VAN_HORN" UNK_C6710BE2="STATION_EMERALD" UNK_E47F47E2="STATION_VALENTINE" />
+        <UNK_2A39516C id="STATION_COLTER" UNK_2824FB51="4" UNK_D82EAF5D="STATION_VAN_HORN" UNK_C6710BE2="STATION_EMERALD" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_COLTER" />
+        <UNK_2A39516C id="STATION_EMERALD" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VAN_HORN" UNK_C6710BE2="STATION_EMERALD" />
+        <UNK_2A39516C id="STATION_RHODES" UNK_2824FB51="3" UNK_D82EAF5D="STATION_VAN_HORN" UNK_C6710BE2="STATION_EMERALD" UNK_E47F47E2="STATION_RHODES" />
+        <UNK_2A39516C id="STATION_WAPITI" UNK_2824FB51="3" UNK_D82EAF5D="STATION_VAN_HORN" UNK_C6710BE2="STATION_EMERALD" UNK_E47F47E2="STATION_WAPITI" />
+        <UNK_2A39516C id="STATION_VAN_HORN" UNK_2824FB51="1" UNK_D82EAF5D="STATION_VAN_HORN" />
+        <UNK_2A39516C id="STATION_SAINT_DENIS" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VAN_HORN" UNK_C6710BE2="STATION_SAINT_DENIS" />
+        <UNK_2A39516C id="STATION_LAGRAS" UNK_2824FB51="3" UNK_D82EAF5D="STATION_VAN_HORN" UNK_C6710BE2="STATION_SAINT_DENIS" UNK_E47F47E2="STATION_LAGRAS" />
+      </routes>
+    </station>
+    <station category="NFT_CATEGORY_NEW_HANOVER" id="STATION_EMERALD" position="[1515.0, 437.9, 89.9]">
+      <spawnpoints position="[1521.857, 436.056, 89.3084]" radius="150.0">
+        <spawn heading="289.0168" position="[1522.472, 454.505, 88.828]" />
+        <spawn heading="158.1749" position="[1517.303, 452.9946, 88.8812]" />
+        <spawn heading="167.4283" position="[1515.857, 446.9843, 88.9123]" />
+        <spawn heading="10.1969" position="[1515.181, 429.2765, 88.8186]" />
+        <spawn heading="301.7571" position="[1524.24, 423.7854, 88.8842]" />
+        <spawn heading="142.8846" position="[1518.511, 423.237, 88.8577]" />
+        <spawn heading="174.5745" position="[1526.798, 443.0739, 89.6807]" />
+        <spawn heading="137.5855" position="[1526.946, 428.1883, 89.6807]" />
+        <spawn heading="150.5146" position="[1535.78, 426.5608, 89.3475]" />
+        <spawn heading="349.7133" position="[1538.129, 433.949, 89.1631]" />
+        <spawn heading="349.7133" position="[1538.129, 433.949, 89.1631]" />
+        <spawn heading="51.7369" position="[1538.862, 446.3167, 88.6976]" />
+        <spawn heading="307.6999" position="[1501.314, 422.8463, 89.2186]" />
+        <spawn heading="288.5123" position="[1499.592, 432.16, 88.4626]" />
+        <spawn heading="256.1939" position="[1497.903, 442.4164, 88.4866]" />
+        <spawn heading="248.2817" position="[1498.807, 454.6719, 88.2929]" />
+        <spawn heading="209.6339" position="[1505.797, 463.3831, 88.6591]" />
+        <spawn heading="170.3648" position="[1520.823, 464.3435, 88.9566]" />
+        <spawn heading="139.762" position="[1535.546, 463.9094, 88.2563]" />
+        <spawn heading="56.1148" position="[1540.044, 415.0105, 89.5594]" />
+        <spawn heading="138.001" position="[1538.375, 408.7188, 89.6694]" />
+        <spawn heading="201.9306" position="[1508.716, 458.7046, 88.9456]" />
+        <spawn heading="238.2066" position="[1501.654, 456.2277, 88.1184]" />
+        <spawn heading="253.7104" position="[1500.761, 447.2066, 88.2209]" />
+        <spawn heading="254.1462" position="[1494.046, 442.6947, 89.0336]" />
+        <spawn heading="285.2166" position="[1493.668, 435.4362, 88.7803]" />
+        <spawn heading="298.4338" position="[1494.333, 428.3507, 88.9005]" />
+        <spawn heading="308.0627" position="[1496.737, 422.9418, 89.6014]" />
+        <spawn heading="314.8752" position="[1507.313, 418.9327, 89.0294]" />
+        <spawn heading="357.4842" position="[1516.493, 413.97, 88.9876]" />
+        <spawn heading="346.7554" position="[1524.63, 413.7602, 88.8985]" />
+        <spawn heading="57.0487" position="[1535.664, 413.3286, 89.3936]" />
+        <spawn heading="48.5874" position="[1539.912, 424.5901, 89.5168]" />
+        <spawn heading="94.9141" position="[1547.944, 433.1299, 89.8572]" />
+        <spawn heading="64.8202" position="[1548.485, 442.0627, 89.2782]" />
+        <spawn heading="125.2913" position="[1547.93, 454.686, 88.4223]" />
+        <spawn heading="129.5486" position="[1541.834, 459.07, 88.0915]" />
+        <spawn heading="147.765" position="[1534.735, 463.8346, 88.4686]" />
+        <spawn heading="88.6502" position="[1526.586, 447.5415, 89.6807]" />
+        <spawn heading="170.2633" position="[1526.493, 444.381, 89.6807]" />
+        <spawn heading="122.218" position="[1526.612, 428.323, 89.6807]" />
+        <spawn heading="269.8476" position="[1516.928, 447.3033, 89.6807]" />
+        <spawn heading="176.4189" position="[1517.374, 445.4463, 89.6807]" />
+        <spawn heading="181.2475" position="[1517.268, 436.7527, 89.6807]" />
+        <spawn heading="12.5859" position="[1517.535, 428.7468, 89.6807]" />
+        <spawn heading="245.3743" position="[1520.553, 427.7223, 89.6807]" />
+        <spawn heading="332.9065" position="[1522.142, 428.3397, 89.6807]" />
+        <spawn heading="75.9606" position="[1522.568, 455.6453, 88.847]" />
+        <spawn heading="287.5751" position="[1524.925, 454.8246, 88.8132]" />
+        <spawn heading="330.1571" position="[1522.699, 470.2613, 88.8549]" />
+        <spawn heading="62.7638" position="[1517.123, 472.1681, 88.9419]" />
+        <spawn heading="146.9324" position="[1505.085, 465.6458, 88.4685]" />
+        <spawn heading="151.874" position="[1494.023, 449.1796, 88.9392]" />
+        <spawn heading="24.9116" position="[1495.172, 434.0874, 88.6056]" />
+        <spawn heading="111.7243" position="[1489.98, 417.9135, 91.1468]" />
+        <spawn heading="154.5062" position="[1498.634, 398.5311, 90.8919]" />
+        <spawn heading="93.155" position="[1506.794, 391.0468, 90.0598]" />
+        <spawn heading="337.4901" position="[1518.606, 382.1889, 90.9346]" />
+        <spawn heading="23.7084" position="[1536.848, 382.527, 89.56]" />
+        <spawn heading="38.9013" position="[1561.185, 397.7711, 93.8988]" />
+        <spawn heading="90.4707" position="[1562.904, 418.6746, 92.4958]" />
+        <spawn heading="139.6671" position="[1562.043, 435.616, 90.8986]" />
+        <spawn heading="355.4407" position="[1554.294, 456.9281, 88.7301]" />
+        <spawn heading="181.0144" position="[1543.188, 450.8152, 88.5033]" />
+      </spawnpoints>
+      <destinations>
+        <destination cost="2" distance="1714" id="STATION_VALENTINE" />
+        <destination cost="3" distance="2274" id="STATION_WAPITI" />
+        <destination cost="1" distance="1399" id="STATION_VAN_HORN" />
+        <destination cost="2" distance="1751" id="STATION_RHODES" />
+      </destinations>
+      <routes>
+        <UNK_2A39516C id="STATION_TUMBLEWEED" UNK_2824FB51="7" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_MANZANITA" UNK_8050EED="STATION_MACFARLANES" UNK_F5936A0A="STATION_ARMADILLO" UNK_3976F1D0="STATION_TUMBLEWEED" />
+        <UNK_2A39516C id="STATION_ARMADILLO" UNK_2824FB51="6" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_MANZANITA" UNK_8050EED="STATION_MACFARLANES" UNK_F5936A0A="STATION_ARMADILLO" />
+        <UNK_2A39516C id="STATION_MACFARLANES" UNK_2824FB51="5" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_MANZANITA" UNK_8050EED="STATION_MACFARLANES" />
+        <UNK_2A39516C id="STATION_MANZANITA" UNK_2824FB51="4" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_MANZANITA" />
+        <UNK_2A39516C id="STATION_BLACKWATER" UNK_2824FB51="3" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" />
+        <UNK_2A39516C id="STATION_STRAWBERRY" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" />
+        <UNK_2A39516C id="STATION_VALENTINE" UNK_2824FB51="1" UNK_D82EAF5D="STATION_VALENTINE" />
+        <UNK_2A39516C id="STATION_COLTER" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_COLTER" />
+        <UNK_2A39516C id="STATION_RHODES" UNK_2824FB51="1" UNK_D82EAF5D="STATION_RHODES" />
+        <UNK_2A39516C id="STATION_WAPITI" UNK_2824FB51="1" UNK_D82EAF5D="STATION_WAPITI" />
+        <UNK_2A39516C id="STATION_VAN_HORN" UNK_2824FB51="1" UNK_D82EAF5D="STATION_VAN_HORN" />
+        <UNK_2A39516C id="STATION_ANNESBERG" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VAN_HORN" UNK_C6710BE2="STATION_ANNESBERG" />
+        <UNK_2A39516C id="STATION_SAINT_DENIS" UNK_2824FB51="2" UNK_D82EAF5D="STATION_RHODES" UNK_C6710BE2="STATION_SAINT_DENIS" />
+        <UNK_2A39516C id="STATION_LAGRAS" UNK_2824FB51="3" UNK_D82EAF5D="STATION_RHODES" UNK_C6710BE2="STATION_SAINT_DENIS" UNK_E47F47E2="STATION_LAGRAS" />
+      </routes>
+    </station>
+    <station category="NFT_CATEGORY_LEMOYNE" id="STATION_RHODES" position="[1247.0, -1292.1, 76.0]">
+      <spawnpoints position="[1305.483, -1293.318, 76.0255]" radius="150.0">
+        <spawn heading="231.6083" position="[1235.993, -1279.31, 74.9174]" />
+        <spawn heading="282.0671" position="[1241.392, -1289.038, 75.9262]" />
+        <spawn heading="261.3119" position="[1254.85, -1279.423, 74.8392]" />
+        <spawn heading="191.4613" position="[1268.627, -1298.972, 76.0068]" />
+        <spawn heading="58.455" position="[1266.568, -1300.842, 76.0035]" />
+        <spawn heading="212.9396" position="[1282.233, -1317.478, 75.769]" />
+        <spawn heading="249.5608" position="[1301.21, -1298.485, 76.0373]" />
+        <spawn heading="235.7034" position="[1307.338, -1295.094, 74.8884]" />
+        <spawn heading="279.4206" position="[1307.192, -1280.551, 74.9774]" />
+        <spawn heading="111.2089" position="[1248.999, -1282.315, 74.9819]" />
+        <spawn heading="282.2854" position="[1251.998, -1281.195, 74.9837]" />
+        <spawn heading="197.3306" position="[1255.178, -1282.786, 74.6764]" />
+        <spawn heading="228.0214" position="[1257.158, -1281.24, 74.5699]" />
+        <spawn heading="299.1524" position="[1258.264, -1278.785, 74.4837]" />
+        <spawn heading="341.0974" position="[1257.791, -1276.39, 74.5343]" />
+        <spawn heading="50.6789" position="[1257.078, -1274.716, 74.5812]" />
+        <spawn heading="303.2101" position="[1252.557, -1270.439, 74.6122]" />
+        <spawn heading="36.8095" position="[1251.079, -1269.539, 74.6034]" />
+        <spawn heading="19.0012" position="[1247.499, -1268.056, 74.5819]" />
+        <spawn heading="28.7286" position="[1245.927, -1270.168, 74.8036]" />
+        <spawn heading="65.2411" position="[1243.763, -1271.443, 74.6855]" />
+        <spawn heading="198.8899" position="[1248.824, -1296.634, 75.2685]" />
+        <spawn heading="88.0327" position="[1256.165, -1304.089, 75.5012]" />
+        <spawn heading="303.9329" position="[1276.302, -1315.353, 75.6277]" />
+        <spawn heading="179.9081" position="[1282.725, -1291.859, 75.1543]" />
+        <spawn heading="54.248" position="[1275.757, -1281.789, 74.2316]" />
+        <spawn heading="106.2665" position="[1279.396, -1267.504, 74.4561]" />
+        <spawn heading="179.1193" position="[1284.424, -1271.055, 74.5123]" />
+        <spawn heading="2.7828" position="[1284.866, -1256.284, 77.0492]" />
+        <spawn heading="94.9374" position="[1271.403, -1246.744, 77.8349]" />
+        <spawn heading="112.9615" position="[1248.157, -1247.359, 72.7847]" />
+        <spawn heading="224.0089" position="[1231.914, -1250.593, 72.6743]" />
+        <spawn heading="215.3625" position="[1222.893, -1256.026, 73.7502]" />
+        <spawn heading="252.1239" position="[1217.039, -1270.47, 75.1817]" />
+        <spawn heading="149.5807" position="[1219.366, -1277.866, 75.5984]" />
+        <spawn heading="200.5276" position="[1217.118, -1290.808, 75.9022]" />
+        <spawn heading="241.607" position="[1222.37, -1299.673, 75.8974]" />
+        <spawn heading="219.343" position="[1237.048, -1310.418, 75.9091]" />
+        <spawn heading="242.0877" position="[1242.191, -1320.072, 75.9002]" />
+        <spawn heading="320.7599" position="[1256.797, -1316.837, 75.262]" />
+        <spawn heading="144.2465" position="[1258.571, -1324.038, 75.8883]" />
+        <spawn heading="50.6513" position="[1242.493, -1276.188, 74.9018]" />
+        <spawn heading="104.7229" position="[1243.177, -1277.763, 74.9724]" />
+        <spawn heading="13.7403" position="[1247.009, -1277.472, 75.1543]" />
+        <spawn heading="313.3933" position="[1247.608, -1274.818, 75.1461]" />
+        <spawn heading="263.7789" position="[1250.476, -1274.01, 75.1182]" />
+        <spawn heading="178.8289" position="[1253.021, -1275.555, 75.0636]" />
+        <spawn heading="162.4277" position="[1252.621, -1278.143, 75.1486]" />
+        <spawn heading="154.2513" position="[1269.248, -1265.598, 74.1687]" />
+        <spawn heading="153.4981" position="[1264.67, -1263.868, 74.1814]" />
+        <spawn heading="105.208" position="[1260.396, -1261.533, 74.0432]" />
+        <spawn heading="111.1869" position="[1254.208, -1257.456, 73.7948]" />
+        <spawn heading="114.8542" position="[1250.172, -1253.033, 73.4579]" />
+        <spawn heading="106.1646" position="[1246.309, -1247.166, 72.6194]" />
+        <spawn heading="151.6906" position="[1237.498, -1256.502, 73.0232]" />
+        <spawn heading="159.6586" position="[1230.443, -1265.487, 74.0708]" />
+        <spawn heading="227.483" position="[1220.834, -1270.825, 75.1349]" />
+        <spawn heading="146.394" position="[1277.122, -1267.03, 74.3432]" />
+        <spawn heading="100.9866" position="[1281.613, -1270.329, 74.2054]" />
+        <spawn heading="100.8005" position="[1273.06, -1279.409, 74.2368]" />
+        <spawn heading="264.264" position="[1274.626, -1281.906, 74.3076]" />
+        <spawn heading="75.7625" position="[1268.613, -1287.313, 74.3605]" />
+        <spawn heading="59.2897" position="[1269.161, -1297.4, 75.9711]" />
+        <spawn heading="86.7469" position="[1267.324, -1300.913, 76.0164]" />
+      </spawnpoints>
+      <destinations>
+        <destination cost="2" distance="2409" id="STATION_VALENTINE" />
+        <destination cost="2" distance="1751" id="STATION_EMERALD" />
+        <destination cost="1" distance="1432" id="STATION_SAINT_DENIS" />
+      </destinations>
+      <routes>
+        <UNK_2A39516C id="STATION_TUMBLEWEED" UNK_2824FB51="7" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_MANZANITA" UNK_8050EED="STATION_MACFARLANES" UNK_F5936A0A="STATION_ARMADILLO" UNK_3976F1D0="STATION_TUMBLEWEED" />
+        <UNK_2A39516C id="STATION_ARMADILLO" UNK_2824FB51="6" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_MANZANITA" UNK_8050EED="STATION_MACFARLANES" UNK_F5936A0A="STATION_ARMADILLO" />
+        <UNK_2A39516C id="STATION_MACFARLANES" UNK_2824FB51="5" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_MANZANITA" UNK_8050EED="STATION_MACFARLANES" />
+        <UNK_2A39516C id="STATION_MANZANITA" UNK_2824FB51="4" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_MANZANITA" />
+        <UNK_2A39516C id="STATION_BLACKWATER" UNK_2824FB51="3" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" UNK_E47F47E2="STATION_BLACKWATER" />
+        <UNK_2A39516C id="STATION_STRAWBERRY" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_STRAWBERRY" />
+        <UNK_2A39516C id="STATION_VALENTINE" UNK_2824FB51="1" UNK_D82EAF5D="STATION_VALENTINE" />
+        <UNK_2A39516C id="STATION_COLTER" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_COLTER" />
+        <UNK_2A39516C id="STATION_EMERALD" UNK_2824FB51="1" UNK_D82EAF5D="STATION_EMERALD" />
+        <UNK_2A39516C id="STATION_WAPITI" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VALENTINE" UNK_C6710BE2="STATION_WAPITI" />
+        <UNK_2A39516C id="STATION_VAN_HORN" UNK_2824FB51="2" UNK_D82EAF5D="STATION_EMERALD" UNK_C6710BE2="STATION_VAN_HORN" />
+        <UNK_2A39516C id="STATION_ANNESBERG" UNK_2824FB51="3" UNK_D82EAF5D="STATION_EMERALD" UNK_C6710BE2="STATION_VAN_HORN" UNK_E47F47E2="STATION_ANNESBERG" />
+        <UNK_2A39516C id="STATION_SAINT_DENIS" UNK_2824FB51="1" UNK_D82EAF5D="STATION_SAINT_DENIS" />
+        <UNK_2A39516C id="STATION_LAGRAS" UNK_2824FB51="2" UNK_D82EAF5D="STATION_SAINT_DENIS" UNK_C6710BE2="STATION_LAGRAS" />
+      </routes>
+    </station>
+    <station category="NFT_CATEGORY_LEMOYNE" id="STATION_LAGRAS" position="[2097.9, -582.3, 41.5]">
+      <spawnpoints position="[2114.449, -607.0916, 41.1529]" radius="150.0">
+        <spawn heading="257.5562" position="[2073.626, -576.4491, 40.6693]" />
+        <spawn heading="230.7625" position="[2091.753, -594.6593, 40.6075]" />
+        <spawn heading="238.5461" position="[2089.803, -587.8521, 40.577]" />
+        <spawn heading="254.1043" position="[2094.469, -600.6908, 40.5501]" />
+        <spawn heading="352.859" position="[2107.787, -559.1794, 40.5132]" />
+        <spawn heading="210.8237" position="[2114.536, -569.2194, 40.4638]" />
+        <spawn heading="12.7669" position="[2123.754, -587.7394, 41.6093]" />
+        <spawn heading="92.132" position="[2126.839, -608.5569, 40.5513]" />
+        <spawn heading="289.2354" position="[2114.991, -587.5931, 40.6744]" />
+        <spawn heading="314.9415" position="[2113.015, -580.9099, 40.4921]" />
+        <spawn heading="193.5298" position="[2102.272, -578.5032, 40.6295]" />
+        <spawn heading="110.353" position="[2106.177, -579.2067, 40.6238]" />
+        <spawn heading="278.7409" position="[2110.961, -580.6576, 40.6249]" />
+        <spawn heading="267.9041" position="[2108.582, -577.6902, 40.6628]" />
+        <spawn heading="39.8883" position="[2126.029, -593.9156, 41.4994]" />
+        <spawn heading="45.6167" position="[2124.31, -590.3206, 41.5301]" />
+        <spawn heading="78.5958" position="[2096.55, -612.2571, 44.1134]" />
+        <spawn heading="278.4788" position="[2098.437, -599.9145, 40.5929]" />
+        <spawn heading="123.1853" position="[2101.005, -605.8038, 40.6984]" />
+        <spawn heading="66.5605" position="[2066.811, -573.6913, 40.6959]" />
+        <spawn heading="232.0588" position="[2069.884, -565.2534, 40.7269]" />
+        <spawn heading="298.0955" position="[2113.659, -585.8996, 40.5815]" />
+        <spawn heading="276.6998" position="[2113.095, -573.4955, 40.5654]" />
+        <spawn heading="316.8261" position="[2122.187, -549.8132, 41.5925]" />
+        <spawn heading="142.1616" position="[2116.309, -548.5386, 41.0539]" />
+        <spawn heading="21.3771" position="[2106.597, -558.8321, 40.5438]" />
+        <spawn heading="189.3078" position="[2110.825, -592.715, 40.8217]" />
+        <spawn heading="301.1981" position="[2118.991, -601.472, 41.6138]" />
+        <spawn heading="17.3567" position="[2126.501, -597.8868, 41.6154]" />
+        <spawn heading="302.516" position="[2089.242, -593.9728, 40.5682]" />
+        <spawn heading="74.1716" position="[2146.189, -607.8859, 40.6957]" />
+        <spawn heading="181.5022" position="[2115.767, -605.0063, 40.7078]" />
+        <spawn heading="45.1738" position="[2113.997, -603.6274, 40.6771]" />
+        <spawn heading="133.3957" position="[2106.192, -619.4844, 40.7163]" />
+        <spawn heading="302.6209" position="[2121.538, -607.6139, 40.6408]" />
+        <spawn heading="356.2427" position="[2129.735, -608.2242, 40.4509]" />
+        <spawn heading="81.1227" position="[2132.723, -607.7299, 40.6341]" />
+        <spawn heading="6.7589" position="[2134.375, -606.538, 40.4862]" />
+        <spawn heading="144.3076" position="[2124.768, -608.2534, 40.5648]" />
+        <spawn heading="103.0978" position="[2121.193, -605.8832, 40.535]" />
+        <spawn heading="108.156" position="[2100.231, -603.9807, 40.6271]" />
+        <spawn heading="160.1932" position="[2092.782, -596.7852, 40.6311]" />
+        <spawn heading="62.6104" position="[2093.114, -610.2025, 44.0742]" />
+        <spawn heading="233.364" position="[2105.52, -586.9747, 40.6645]" />
+        <spawn heading="189.5731" position="[2108.342, -590.0112, 40.7918]" />
+        <spawn heading="151.6646" position="[2092.347, -599.2887, 40.4969]" />
+        <spawn heading="98.1313" position="[2083.31, -595.0612, 42.1337]" />
+        <spawn heading="242.0074" position="[2072.38, -586.4755, 42.1578]" />
+        <spawn heading="169.4888" position="[2069.745, -577.4496, 40.661]" />
+        <spawn heading="58.3649" position="[2064.869, -574.6125, 40.7326]" />
+        <spawn heading="0.5247" position="[2066.26, -560.0122, 40.6128]" />
+        <spawn heading="358.5469" position="[2086.356, -565.5405, 40.7443]" />
+        <spawn heading="134.8206" position="[2105.086, -583.8358, 40.6402]" />
+        <spawn heading="55.0372" position="[2095.438, -579.7642, 40.5215]" />
+        <spawn heading="27.4636" position="[2087.306, -584.282, 40.5834]" />
+        <spawn heading="291.9391" position="[2088.095, -587.5712, 40.6316]" />
+        <spawn heading="149.7433" position="[2086.52, -591.2344, 42.1543]" />
+        <spawn heading="106.6898" position="[2082.052, -595.9283, 42.1058]" />
+        <spawn heading="221.2448" position="[2094.464, -593.4805, 40.652]" />
+        <spawn heading="320.1443" position="[2108.252, -626.0989, 40.7163]" />
+        <spawn heading="138.5438" position="[2104.229, -628.9499, 40.6083]" />
+        <spawn heading="11.3674" position="[2104.038, -611.0956, 40.6109]" />
+        <spawn heading="236.7487" position="[2116.446, -604.1841, 40.7238]" />
+        <spawn heading="352.2827" position="[2109.986, -593.146, 40.8094]" />
+      </spawnpoints>
+      <destinations>
+        <destination cost="1" distance="1053" id="STATION_SAINT_DENIS" />
+      </destinations>
+      <routes>
+        <UNK_2A39516C id="STATION_TUMBLEWEED" UNK_2824FB51="9" UNK_D82EAF5D="STATION_SAINT_DENIS" UNK_C6710BE2="STATION_RHODES" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_BLACKWATER" UNK_F5936A0A="STATION_MANZANITA" UNK_3976F1D0="STATION_MACFARLANES" UNK_175CAD9C="STATION_ARMADILLO" UNK_5E4ABB77="STATION_TUMBLEWEED" />
+        <UNK_2A39516C id="STATION_ARMADILLO" UNK_2824FB51="8" UNK_D82EAF5D="STATION_SAINT_DENIS" UNK_C6710BE2="STATION_RHODES" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_BLACKWATER" UNK_F5936A0A="STATION_MANZANITA" UNK_3976F1D0="STATION_MACFARLANES" UNK_175CAD9C="STATION_ARMADILLO" />
+        <UNK_2A39516C id="STATION_MACFARLANES" UNK_2824FB51="7" UNK_D82EAF5D="STATION_SAINT_DENIS" UNK_C6710BE2="STATION_RHODES" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_BLACKWATER" UNK_F5936A0A="STATION_MANZANITA" UNK_3976F1D0="STATION_MACFARLANES" />
+        <UNK_2A39516C id="STATION_MANZANITA" UNK_2824FB51="6" UNK_D82EAF5D="STATION_SAINT_DENIS" UNK_C6710BE2="STATION_RHODES" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_BLACKWATER" UNK_F5936A0A="STATION_MANZANITA" />
+        <UNK_2A39516C id="STATION_BLACKWATER" UNK_2824FB51="5" UNK_D82EAF5D="STATION_SAINT_DENIS" UNK_C6710BE2="STATION_RHODES" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_BLACKWATER" />
+        <UNK_2A39516C id="STATION_STRAWBERRY" UNK_2824FB51="4" UNK_D82EAF5D="STATION_SAINT_DENIS" UNK_C6710BE2="STATION_RHODES" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_STRAWBERRY" />
+        <UNK_2A39516C id="STATION_VALENTINE" UNK_2824FB51="3" UNK_D82EAF5D="STATION_SAINT_DENIS" UNK_C6710BE2="STATION_RHODES" UNK_E47F47E2="STATION_VALENTINE" />
+        <UNK_2A39516C id="STATION_COLTER" UNK_2824FB51="4" UNK_D82EAF5D="STATION_SAINT_DENIS" UNK_C6710BE2="STATION_RHODES" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_COLTER" />
+        <UNK_2A39516C id="STATION_EMERALD" UNK_2824FB51="3" UNK_D82EAF5D="STATION_SAINT_DENIS" UNK_C6710BE2="STATION_RHODES" UNK_E47F47E2="STATION_EMERALD" />
+        <UNK_2A39516C id="STATION_RHODES" UNK_2824FB51="2" UNK_D82EAF5D="STATION_SAINT_DENIS" UNK_C6710BE2="STATION_RHODES" />
+        <UNK_2A39516C id="STATION_WAPITI" UNK_2824FB51="3" UNK_D82EAF5D="STATION_SAINT_DENIS" UNK_C6710BE2="STATION_RHODES" UNK_E47F47E2="STATION_VALENTINE" UNK_D226A331="STATION_WAPITI" />
+        <UNK_2A39516C id="STATION_VAN_HORN" UNK_2824FB51="2" UNK_D82EAF5D="STATION_SAINT_DENIS" UNK_C6710BE2="STATION_VAN_HORN" />
+        <UNK_2A39516C id="STATION_ANNESBERG" UNK_2824FB51="3" UNK_D82EAF5D="STATION_SAINT_DENIS" UNK_C6710BE2="STATION_VAN_HORN" UNK_E47F47E2="STATION_ANNESBERG" />
+        <UNK_2A39516C id="STATION_SAINT_DENIS" UNK_2824FB51="1" UNK_D82EAF5D="STATION_SAINT_DENIS" />
+      </routes>
+    </station>
+    <station category="NFT_CATEGORY_NEW_AUSTIN" id="STATION_TUMBLEWEED" position="[-5441.899, -2946.338, -1.6453]">
+      <spawnpoints position="[-5506.462, -2937.58, -2.426]" radius="150.0">
+        <spawn heading="133.4594" position="[-5433.782, -2933.446, -0.3272]" />
+        <spawn heading="53.8365" position="[-5458.306, -2895.514, -0.2358]" />
+        <spawn heading="113.8587" position="[-5470.188, -2938.312, -2.2324]" />
+        <spawn heading="69.9231" position="[-5466.365, -2954.73, -1.9964]" />
+        <spawn heading="36.283" position="[-5491.339, -2956.49, -2.9929]" />
+        <spawn heading="94.4449" position="[-5496.643, -2956.894, -1.6761]" />
+        <spawn heading="7.4987" position="[-5504.983, -2945.84, -2.7767]" />
+        <spawn heading="346.7491" position="[-5522.334, -2963.402, -2.549]" />
+        <spawn heading="97.3189" position="[-5548.287, -2933.319, -2.7101]" />
+        <spawn heading="235.3851" position="[-5534.309, -2935.015, -2.8724]" />
+        <spawn heading="346.8806" position="[-5544.139, -2909.347, -3.0351]" />
+        <spawn heading="191.2442" position="[-5515.262, -2929.247, -3.2807]" />
+        <spawn heading="134.1802" position="[-5496.925, -2924.156, -2.2688]" />
+        <spawn heading="80.604" position="[-5501.746, -2937.363, -2.3991]" />
+        <spawn heading="107.6663" position="[-5504.95, -2975.861, -2.5742]" />
+        <spawn heading="76.3059" position="[-5519.594, -2977.583, -1.7741]" />
+        <spawn heading="179.6052" position="[-5515.71, -2981.091, -2.5757]" />
+        <spawn heading="4.8819" position="[-5489.104, -2971.226, -2.5701]" />
+        <spawn heading="38.9416" position="[-5465.223, -2958.458, -1.5705]" />
+        <spawn heading="294.7164" position="[-5531.998, -2960.686, -2.5176]" />
+        <spawn heading="300.6717" position="[-5533.054, -2942.505, -2.7551]" />
+        <spawn heading="342.1436" position="[-5434.525, -2930.851, -0.2388]" />
+        <spawn heading="314.934" position="[-5427.21, -2928.848, -0.1207]" />
+        <spawn heading="116.9843" position="[-5431.396, -2931.55, -0.2119]" />
+        <spawn heading="18.669" position="[-5442.721, -2928.851, -0.2289]" />
+        <spawn heading="85.667" position="[-5448.606, -2949.712, -2.0512]" />
+        <spawn heading="93.9191" position="[-5480.54, -2956.515, -2.5113]" />
+        <spawn heading="141.3104" position="[-5484.793, -2970.102, -2.2637]" />
+        <spawn heading="55.4794" position="[-5494.136, -2957.018, -1.6726]" />
+        <spawn heading="266.7888" position="[-5488.764, -2946.069, -2.2447]" />
+        <spawn heading="62.5655" position="[-5492.13, -2946.164, -2.2517]" />
+        <spawn heading="247.975" position="[-5501.119, -2943.299, -2.2506]" />
+        <spawn heading="151.7185" position="[-5505.886, -2944.095, -2.7395]" />
+        <spawn heading="15.4934" position="[-5513.545, -2959.372, -2.5789]" />
+        <spawn heading="300.9586" position="[-5514.132, -2950.109, -2.8173]" />
+        <spawn heading="146.3097" position="[-5499.972, -2927.292, -2.3175]" />
+        <spawn heading="32.0303" position="[-5487.987, -2913.967, -2.1126]" />
+        <spawn heading="41.3837" position="[-5504.42, -2907.43, -3.4588]" />
+        <spawn heading="348.0863" position="[-5494.259, -2889.276, -5.4379]" />
+        <spawn heading="325.7836" position="[-5518.175, -2878.395, -6.1498]" />
+        <spawn heading="189.229" position="[-5519.548, -2887.542, -5.7585]" />
+        <spawn heading="21.1414" position="[-5530.47, -2893.268, -5.3173]" />
+        <spawn heading="206.2275" position="[-5524.613, -2905.642, -3.6373]" />
+        <spawn heading="108.3492" position="[-5530.874, -2942.377, -2.7565]" />
+        <spawn heading="160.0696" position="[-5541.753, -2916.935, -2.6273]" />
+        <spawn heading="124.762" position="[-5575.258, -2932.048, -2.1232]" />
+        <spawn heading="94.3025" position="[-5579.056, -2950.33, -1.0249]" />
+        <spawn heading="266.9208" position="[-5581.041, -2963.983, -0.6557]" />
+        <spawn heading="239.5895" position="[-5548.073, -2957.693, -1.8608]" />
+        <spawn heading="341.4205" position="[-5528.129, -2972.893, -2.3051]" />
+        <spawn heading="291.111" position="[-5532.1, -2961.631, -2.498]" />
+        <spawn heading="281.2699" position="[-5511.5, -2975.077, 1.2233]" />
+        <spawn heading="353.6342" position="[-5544.61, -2959.522, -2.0854]" />
+        <spawn heading="326.9321" position="[-5547.881, -2926.166, -2.6468]" />
+        <spawn heading="272.9193" position="[-5539.385, -2910.659, -3.3392]" />
+        <spawn heading="316.1304" position="[-5526.417, -2888.505, -5.5676]" />
+        <spawn heading="197.0063" position="[-5506.882, -2902.002, -3.7002]" />
+        <spawn heading="157.0637" position="[-5493.074, -2905.773, -2.3739]" />
+        <spawn heading="221.7066" position="[-5483.45, -2924.946, -2.1104]" />
+        <spawn heading="120.2982" position="[-5495.061, -2937.068, -1.4521]" />
+        <spawn heading="89.0275" position="[-5500.77, -2937.699, -2.3309]" />
+        <spawn heading="323.3354" position="[-5521.585, -2930.628, -3.0749]" />
+        <spawn heading="228.6842" position="[-5529.155, -2943.069, -2.6879]" />
+        <spawn heading="8.8602" position="[-5514.335, -2940.325, -3.205]" />
+      </spawnpoints>
+      <destinations>
+        <destination cost="2" distance="1745" id="STATION_ARMADILLO" />
+      </destinations>
+      <routes>
+        <UNK_2A39516C id="STATION_ARMADILLO" UNK_2824FB51="1" UNK_D82EAF5D="STATION_ARMADILLO" />
+        <UNK_2A39516C id="STATION_MACFARLANES" UNK_2824FB51="2" UNK_D82EAF5D="STATION_ARMADILLO" UNK_C6710BE2="STATION_MACFARLANES" />
+        <UNK_2A39516C id="STATION_MANZANITA" UNK_2824FB51="3" UNK_D82EAF5D="STATION_ARMADILLO" UNK_C6710BE2="STATION_MACFARLANES" UNK_E47F47E2="STATION_MANZANITA" />
+        <UNK_2A39516C id="STATION_BLACKWATER" UNK_2824FB51="4" UNK_D82EAF5D="STATION_ARMADILLO" UNK_C6710BE2="STATION_MACFARLANES" UNK_E47F47E2="STATION_MANZANITA" UNK_D226A331="STATION_BLACKWATER" />
+        <UNK_2A39516C id="STATION_STRAWBERRY" UNK_2824FB51="5" UNK_D82EAF5D="STATION_ARMADILLO" UNK_C6710BE2="STATION_MACFARLANES" UNK_E47F47E2="STATION_MANZANITA" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_STRAWBERRY" />
+        <UNK_2A39516C id="STATION_VALENTINE" UNK_2824FB51="6" UNK_D82EAF5D="STATION_ARMADILLO" UNK_C6710BE2="STATION_MACFARLANES" UNK_E47F47E2="STATION_MANZANITA" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_STRAWBERRY" UNK_F5936A0A="STATION_VALENTINE" />
+        <UNK_2A39516C id="STATION_COLTER" UNK_2824FB51="7" UNK_D82EAF5D="STATION_ARMADILLO" UNK_C6710BE2="STATION_MACFARLANES" UNK_E47F47E2="STATION_MANZANITA" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_STRAWBERRY" UNK_F5936A0A="STATION_VALENTINE" UNK_3976F1D0="STATION_COLTER" />
+        <UNK_2A39516C id="STATION_EMERALD" UNK_2824FB51="7" UNK_D82EAF5D="STATION_ARMADILLO" UNK_C6710BE2="STATION_MACFARLANES" UNK_E47F47E2="STATION_MANZANITA" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_STRAWBERRY" UNK_F5936A0A="STATION_VALENTINE" UNK_3976F1D0="STATION_EMERALD" />
+        <UNK_2A39516C id="STATION_RHODES" UNK_2824FB51="7" UNK_D82EAF5D="STATION_ARMADILLO" UNK_C6710BE2="STATION_MACFARLANES" UNK_E47F47E2="STATION_MANZANITA" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_STRAWBERRY" UNK_F5936A0A="STATION_VALENTINE" UNK_3976F1D0="STATION_RHODES" />
+        <UNK_2A39516C id="STATION_WAPITI" UNK_2824FB51="7" UNK_D82EAF5D="STATION_ARMADILLO" UNK_C6710BE2="STATION_MACFARLANES" UNK_E47F47E2="STATION_MANZANITA" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_STRAWBERRY" UNK_F5936A0A="STATION_VALENTINE" UNK_3976F1D0="STATION_WAPITI" />
+        <UNK_2A39516C id="STATION_VAN_HORN" UNK_2824FB51="8" UNK_D82EAF5D="STATION_ARMADILLO" UNK_C6710BE2="STATION_MACFARLANES" UNK_E47F47E2="STATION_MANZANITA" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_STRAWBERRY" UNK_F5936A0A="STATION_VALENTINE" UNK_3976F1D0="STATION_EMERALD" UNK_175CAD9C="STATION_VAN_HORN" />
+        <UNK_2A39516C id="STATION_ANNESBERG" UNK_2824FB51="9" UNK_D82EAF5D="STATION_ARMADILLO" UNK_C6710BE2="STATION_MACFARLANES" UNK_E47F47E2="STATION_MANZANITA" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_STRAWBERRY" UNK_F5936A0A="STATION_VALENTINE" UNK_3976F1D0="STATION_EMERALD" UNK_175CAD9C="STATION_VAN_HORN" UNK_5E4ABB77="STATION_ANNESBERG" />
+        <UNK_2A39516C id="STATION_SAINT_DENIS" UNK_2824FB51="8" UNK_D82EAF5D="STATION_ARMADILLO" UNK_C6710BE2="STATION_MACFARLANES" UNK_E47F47E2="STATION_MANZANITA" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_STRAWBERRY" UNK_F5936A0A="STATION_VALENTINE" UNK_3976F1D0="STATION_RHODES" UNK_175CAD9C="STATION_SAINT_DENIS" />
+        <UNK_2A39516C id="STATION_LAGRAS" UNK_2824FB51="9" UNK_D82EAF5D="STATION_ARMADILLO" UNK_C6710BE2="STATION_MACFARLANES" UNK_E47F47E2="STATION_MANZANITA" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_STRAWBERRY" UNK_F5936A0A="STATION_VALENTINE" UNK_3976F1D0="STATION_RHODES" UNK_175CAD9C="STATION_SAINT_DENIS" UNK_5E4ABB77="STATION_LAGRAS" />
+      </routes>
+    </station>
+    <station category="NFT_CATEGORY_NEW_AUSTIN" id="STATION_MACFARLANES" position="[-2502.207, -2444.424, 59.2093]">
+      <spawnpoints position="[-2385.989, -2410.368, 60.683]" radius="150.0">
+        <spawn heading="277.1067" position="[-2507.279, -2435.292, 59.2255]" />
+        <spawn heading="216.2269" position="[-2507.346, -2432.751, 59.3022]" />
+        <spawn heading="345.9745" position="[-2509.835, -2429.734, 59.299]" />
+        <spawn heading="256.9172" position="[-2513.333, -2431.193, 59.606]" />
+        <spawn heading="266.5666" position="[-2513.43, -2425.625, 59.3117]" />
+        <spawn heading="308.3049" position="[-2511.664, -2421.116, 59.437]" />
+        <spawn heading="230.7506" position="[-2498.5, -2405.944, 59.1661]" />
+        <spawn heading="118.8623" position="[-2498.514, -2409.869, 59.1611]" />
+        <spawn heading="68.3636" position="[-2469.877, -2414.671, 59.5368]" />
+        <spawn heading="264.9457" position="[-2488.342, -2431.046, 59.5775]" />
+        <spawn heading="32.6124" position="[-2496.318, -2433.624, 59.6006]" />
+        <spawn heading="246.8474" position="[-2492.184, -2407.217, 59.1713]" />
+        <spawn heading="237.6495" position="[-2492.941, -2410.833, 59.1708]" />
+        <spawn heading="262.1442" position="[-2490.834, -2417.867, 59.1711]" />
+        <spawn heading="151.7031" position="[-2488.004, -2420.505, 59.1726]" />
+        <spawn heading="151.6657" position="[-2488.004, -2420.505, 59.1726]" />
+        <spawn heading="121.7656" position="[-2485.536, -2423.225, 59.1728]" />
+        <spawn heading="160.4644" position="[-2482.504, -2424.579, 59.1574]" />
+        <spawn heading="259.1777" position="[-2440.378, -2413.133, 60.1422]" />
+        <spawn heading="264.8474" position="[-2478.474, -2426.977, 59.1072]" />
+        <spawn heading="122.8838" position="[-2474.19, -2430.17, 59.0853]" />
+        <spawn heading="160.3192" position="[-2502.21, -2438.462, 59.1529]" />
+        <spawn heading="295.3231" position="[-2502.365, -2415.56, 59.5844]" />
+        <spawn heading="177.6321" position="[-2500.561, -2420.355, 59.6001]" />
+        <spawn heading="250.4918" position="[-2491.487, -2429.851, 59.5999]" />
+        <spawn heading="284.0122" position="[-2488.475, -2437.391, 59.583]" />
+        <spawn heading="317.7472" position="[-2479.104, -2449.203, 59.4353]" />
+        <spawn heading="266.644" position="[-2474.664, -2429.272, 59.0629]" />
+        <spawn heading="219.567" position="[-2473.781, -2410.917, 59.5122]" />
+        <spawn heading="269.7855" position="[-2461.916, -2417.391, 59.8762]" />
+        <spawn heading="269.9195" position="[-2438.333, -2416.14, 59.9896]" />
+        <spawn heading="86.5563" position="[-2435.099, -2435.065, 59.1937]" />
+        <spawn heading="121.9539" position="[-2474.657, -2432.288, 59.1312]" />
+        <spawn heading="99.0712" position="[-2477.451, -2433.938, 59.1765]" />
+        <spawn heading="50.3543" position="[-2480.484, -2436.006, 59.1759]" />
+        <spawn heading="69.8038" position="[-2484.02, -2436.574, 59.2886]" />
+        <spawn heading="138.3265" position="[-2478.898, -2400.957, 59.9701]" />
+        <spawn heading="156.5187" position="[-2483.14, -2395.019, 60.0442]" />
+        <spawn heading="154.1826" position="[-2485.821, -2393.318, 59.6733]" />
+        <spawn heading="187.0174" position="[-2488.276, -2392.476, 59.3163]" />
+        <spawn heading="160.8144" position="[-2492.742, -2401.3, 59.1995]" />
+        <spawn heading="8.6015" position="[-2492.937, -2400.296, 59.2057]" />
+        <spawn heading="51.2379" position="[-2494.446, -2397.027, 59.2039]" />
+        <spawn heading="294.7998" position="[-2495.11, -2394.096, 59.2128]" />
+        <spawn heading="166.2613" position="[-2499.974, -2396.279, 59.1763]" />
+        <spawn heading="195.6158" position="[-2503.18, -2397.06, 59.1974]" />
+        <spawn heading="219.269" position="[-2503.366, -2392.806, 59.2362]" />
+        <spawn heading="177.2561" position="[-2500.904, -2392.16, 59.2017]" />
+        <spawn heading="155.5078" position="[-2497.641, -2391.405, 59.222]" />
+        <spawn heading="176.0232" position="[-2488.944, -2387.006, 59.2811]" />
+        <spawn heading="195.5116" position="[-2486.137, -2385.596, 59.658]" />
+        <spawn heading="169.8466" position="[-2482.648, -2386.399, 60.1429]" />
+        <spawn heading="108.3485" position="[-2459.532, -2416.749, 60.0454]" />
+        <spawn heading="121.6724" position="[-2456.49, -2417.485, 60.0328]" />
+        <spawn heading="49.0526" position="[-2473.676, -2448.951, 59.2338]" />
+        <spawn heading="64.6215" position="[-2476.83, -2449.034, 59.2759]" />
+        <spawn heading="352.96" position="[-2480.822, -2453.562, 59.2915]" />
+        <spawn heading="32.851" position="[-2478.399, -2454.134, 59.2131]" />
+        <spawn heading="34.0814" position="[-2473.652, -2454.893, 59.1715]" />
+        <spawn heading="20.2357" position="[-2468.233, -2454.778, 59.1715]" />
+        <spawn heading="56.0872" position="[-2463.447, -2451.534, 59.2624]" />
+        <spawn heading="70.6002" position="[-2457.876, -2446.742, 59.209]" />
+        <spawn heading="49.8153" position="[-2456.561, -2439.192, 59.1006]" />
+        <spawn heading="227.807" position="[-2454.708, -2438.725, 59.1193]" />
+      </spawnpoints>
+      <destinations>
+        <destination cost="1" distance="995" id="STATION_MANZANITA" />
+        <destination cost="1" distance="1240" id="STATION_ARMADILLO" />
+      </destinations>
+      <routes>
+        <UNK_2A39516C id="STATION_TUMBLEWEED" UNK_2824FB51="2" UNK_D82EAF5D="STATION_ARMADILLO" UNK_C6710BE2="STATION_TUMBLEWEED" />
+        <UNK_2A39516C id="STATION_ARMADILLO" UNK_2824FB51="1" UNK_D82EAF5D="STATION_ARMADILLO" />
+        <UNK_2A39516C id="STATION_MANZANITA" UNK_2824FB51="1" UNK_D82EAF5D="STATION_MANZANITA" />
+        <UNK_2A39516C id="STATION_BLACKWATER" UNK_2824FB51="2" UNK_D82EAF5D="STATION_MANZANITA" UNK_C6710BE2="STATION_BLACKWATER" />
+        <UNK_2A39516C id="STATION_STRAWBERRY" UNK_2824FB51="3" UNK_D82EAF5D="STATION_MANZANITA" UNK_C6710BE2="STATION_BLACKWATER" UNK_E47F47E2="STATION_STRAWBERRY" />
+        <UNK_2A39516C id="STATION_VALENTINE" UNK_2824FB51="4" UNK_D82EAF5D="STATION_MANZANITA" UNK_C6710BE2="STATION_BLACKWATER" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_VALENTINE" />
+        <UNK_2A39516C id="STATION_COLTER" UNK_2824FB51="5" UNK_D82EAF5D="STATION_MANZANITA" UNK_C6710BE2="STATION_BLACKWATER" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_VALENTINE" UNK_8050EED="STATION_COLTER" />
+        <UNK_2A39516C id="STATION_EMERALD" UNK_2824FB51="5" UNK_D82EAF5D="STATION_MANZANITA" UNK_C6710BE2="STATION_BLACKWATER" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_VALENTINE" UNK_8050EED="STATION_EMERALD" />
+        <UNK_2A39516C id="STATION_RHODES" UNK_2824FB51="5" UNK_D82EAF5D="STATION_MANZANITA" UNK_C6710BE2="STATION_BLACKWATER" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_VALENTINE" UNK_8050EED="STATION_RHODES" />
+        <UNK_2A39516C id="STATION_WAPITI" UNK_2824FB51="5" UNK_D82EAF5D="STATION_MANZANITA" UNK_C6710BE2="STATION_BLACKWATER" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_VALENTINE" UNK_8050EED="STATION_WAPITI" />
+        <UNK_2A39516C id="STATION_VAN_HORN" UNK_2824FB51="6" UNK_D82EAF5D="STATION_MANZANITA" UNK_C6710BE2="STATION_BLACKWATER" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_VALENTINE" UNK_8050EED="STATION_EMERALD" UNK_F5936A0A="STATION_VAN_HORN" />
+        <UNK_2A39516C id="STATION_ANNESBERG" UNK_2824FB51="7" UNK_D82EAF5D="STATION_MANZANITA" UNK_C6710BE2="STATION_BLACKWATER" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_VALENTINE" UNK_8050EED="STATION_EMERALD" UNK_F5936A0A="STATION_VAN_HORN" UNK_3976F1D0="STATION_ANNESBERG" />
+        <UNK_2A39516C id="STATION_SAINT_DENIS" UNK_2824FB51="6" UNK_D82EAF5D="STATION_MANZANITA" UNK_C6710BE2="STATION_BLACKWATER" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_VALENTINE" UNK_8050EED="STATION_RHODES" UNK_F5936A0A="STATION_SAINT_DENIS" />
+        <UNK_2A39516C id="STATION_LAGRAS" UNK_2824FB51="7" UNK_D82EAF5D="STATION_MANZANITA" UNK_C6710BE2="STATION_BLACKWATER" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_VALENTINE" UNK_8050EED="STATION_RHODES" UNK_F5936A0A="STATION_SAINT_DENIS" UNK_3976F1D0="STATION_LAGRAS" />
+      </routes>
+    </station>
+    <station category="NFT_CATEGORY_NEW_AUSTIN" id="STATION_ARMADILLO" position="[-3726.5, -2628.2, -13.6]">
+      <spawnpoints position="[-3677.641, -2605.957, -14.3287]" radius="150.0">
+        <spawn heading="178.6768" position="[-3746.484, -2624.808, -14.2403]" />
+        <spawn heading="136.466" position="[-3745.769, -2615.56, -14.2453]" />
+        <spawn heading="45.3025" position="[-3745.737, -2612.729, -14.2692]" />
+        <spawn heading="54.5181" position="[-3745.756, -2604.258, -14.2545]" />
+        <spawn heading="106.3505" position="[-3745.784, -2601.434, -14.2483]" />
+        <spawn heading="74.66" position="[-3745.344, -2598.454, -14.2564]" />
+        <spawn heading="32.2639" position="[-3745.636, -2596.027, -14.2477]" />
+        <spawn heading="4.2445" position="[-3742.215, -2589.993, -14.2755]" />
+        <spawn heading="16.4153" position="[-3694.413, -2619.188, -14.8779]" />
+        <spawn heading="332.2181" position="[-3737.486, -2591.195, -14.2864]" />
+        <spawn heading="184.4122" position="[-3714.127, -2586.337, -14.8785]" />
+        <spawn heading="150.0409" position="[-3740.061, -2596.418, -14.1803]" />
+        <spawn heading="269.5733" position="[-3732.741, -2617.265, -14.2673]" />
+        <spawn heading="301.5204" position="[-3728.292, -2625.506, -14.2794]" />
+        <spawn heading="28.8827" position="[-3708.696, -2636.445, -14.7286]" />
+        <spawn heading="4.7117" position="[-3733.671, -2590.607, -14.3022]" />
+        <spawn heading="44.8691" position="[-3729.259, -2590.001, -14.2911]" />
+        <spawn heading="346.4606" position="[-3640.113, -2626.966, -14.7211]" />
+        <spawn heading="150.3183" position="[-3714.475, -2543.098, -14.6163]" />
+        <spawn heading="60.3856" position="[-3736.174, -2555.922, -15.0303]" />
+        <spawn heading="220.3083" position="[-3728.524, -2591.709, -14.281]" />
+        <spawn heading="304.6358" position="[-3729.282, -2625.846, -14.2763]" />
+        <spawn heading="9.8709" position="[-3734.158, -2625.623, -14.2676]" />
+        <spawn heading="281.214" position="[-3746.059, -2616.883, -14.2364]" />
+        <spawn heading="50.1013" position="[-3743.311, -2604.831, -14.2438]" />
+        <spawn heading="337.9315" position="[-3740.857, -2597.164, -14.1903]" />
+        <spawn heading="231.5014" position="[-3733.504, -2590.344, -14.3101]" />
+        <spawn heading="9.7909" position="[-3724.603, -2589.859, -14.529]" />
+        <spawn heading="130.4002" position="[-3710.601, -2582.782, -14.8016]" />
+        <spawn heading="211.9935" position="[-3712.162, -2598.242, -11.3275]" />
+        <spawn heading="269.4442" position="[-3705.817, -2605.308, -11.3386]" />
+        <spawn heading="254.6456" position="[-3693.931, -2604.51, -11.2946]" />
+        <spawn heading="129.6069" position="[-3732.643, -2591.832, -14.2877]" />
+        <spawn heading="153.131" position="[-3737.769, -2593.615, -14.2792]" />
+        <spawn heading="168.4502" position="[-3739.028, -2597.177, -14.1792]" />
+        <spawn heading="161.9" position="[-3742.978, -2594.437, -14.2709]" />
+        <spawn heading="174.2381" position="[-3741.026, -2602.801, -14.2313]" />
+        <spawn heading="193.3453" position="[-3740.403, -2607.575, -14.235]" />
+        <spawn heading="239.8131" position="[-3739.826, -2612.308, -14.2368]" />
+        <spawn heading="204.3933" position="[-3734.135, -2621.271, -14.2723]" />
+        <spawn heading="130.7686" position="[-3735.327, -2625.578, -14.2689]" />
+        <spawn heading="55.2127" position="[-3741.859, -2626.361, -14.2448]" />
+        <spawn heading="308.6187" position="[-3739.535, -2622.924, -14.2696]" />
+        <spawn heading="284.7895" position="[-3728.059, -2625.312, -14.2808]" />
+        <spawn heading="308.2522" position="[-3724.01, -2619.744, -14.4965]" />
+        <spawn heading="159.7573" position="[-3723.833, -2622.258, -14.537]" />
+        <spawn heading="356.2894" position="[-3721.77, -2613.289, -14.3297]" />
+        <spawn heading="163.242" position="[-3725.962, -2595.158, -14.4319]" />
+        <spawn heading="214.5771" position="[-3723.778, -2597.783, -14.4479]" />
+        <spawn heading="331.8986" position="[-3725.887, -2590.489, -14.5036]" />
+        <spawn heading="240.0029" position="[-3724.85, -2591.046, -14.5271]" />
+        <spawn heading="257.6245" position="[-3725.01, -2592.67, -14.5201]" />
+        <spawn heading="137.7542" position="[-3711.534, -2584.371, -14.8414]" />
+        <spawn heading="142.9965" position="[-3711.586, -2639.373, -14.6049]" />
+        <spawn heading="296.3082" position="[-3704.106, -2615.841, -14.9296]" />
+        <spawn heading="172.8542" position="[-3713.992, -2586.888, -14.8474]" />
+        <spawn heading="191.3846" position="[-3714.271, -2593.816, -14.7216]" />
+        <spawn heading="73.2172" position="[-3707.54, -2606.55, -14.5623]" />
+        <spawn heading="100.1925" position="[-3699.687, -2616.831, -14.9629]" />
+        <spawn heading="296.8855" position="[-3691.654, -2617.696, -14.8497]" />
+        <spawn heading="87.2814" position="[-3699.484, -2616.96, -14.9625]" />
+        <spawn heading="90.1154" position="[-3704.471, -2607.635, -14.5984]" />
+        <spawn heading="175.535" position="[-3714.733, -2595.589, -14.8092]" />
+      </spawnpoints>
+      <destinations>
+        <destination cost="2" distance="1745" id="STATION_TUMBLEWEED" />
+        <destination cost="1" distance="1240" id="STATION_MACFARLANES" />
+      </destinations>
+      <routes>
+        <UNK_2A39516C id="STATION_TUMBLEWEED" UNK_2824FB51="1" UNK_D82EAF5D="STATION_TUMBLEWEED" />
+        <UNK_2A39516C id="STATION_MACFARLANES" UNK_2824FB51="1" UNK_D82EAF5D="STATION_MACFARLANES" />
+        <UNK_2A39516C id="STATION_MANZANITA" UNK_2824FB51="2" UNK_D82EAF5D="STATION_MACFARLANES" UNK_C6710BE2="STATION_MANZANITA" />
+        <UNK_2A39516C id="STATION_BLACKWATER" UNK_2824FB51="3" UNK_D82EAF5D="STATION_MACFARLANES" UNK_C6710BE2="STATION_MANZANITA" UNK_E47F47E2="STATION_BLACKWATER" />
+        <UNK_2A39516C id="STATION_STRAWBERRY" UNK_2824FB51="4" UNK_D82EAF5D="STATION_MACFARLANES" UNK_C6710BE2="STATION_MANZANITA" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_STRAWBERRY" />
+        <UNK_2A39516C id="STATION_VALENTINE" UNK_2824FB51="5" UNK_D82EAF5D="STATION_MACFARLANES" UNK_C6710BE2="STATION_MANZANITA" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_VALENTINE" />
+        <UNK_2A39516C id="STATION_COLTER" UNK_2824FB51="6" UNK_D82EAF5D="STATION_MACFARLANES" UNK_C6710BE2="STATION_MANZANITA" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_VALENTINE" UNK_F5936A0A="STATION_COLTER" />
+        <UNK_2A39516C id="STATION_EMERALD" UNK_2824FB51="6" UNK_D82EAF5D="STATION_MACFARLANES" UNK_C6710BE2="STATION_MANZANITA" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_VALENTINE" UNK_F5936A0A="STATION_EMERALD" />
+        <UNK_2A39516C id="STATION_RHODES" UNK_2824FB51="6" UNK_D82EAF5D="STATION_MACFARLANES" UNK_C6710BE2="STATION_MANZANITA" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_VALENTINE" UNK_F5936A0A="STATION_RHODES" />
+        <UNK_2A39516C id="STATION_WAPITI" UNK_2824FB51="6" UNK_D82EAF5D="STATION_MACFARLANES" UNK_C6710BE2="STATION_MANZANITA" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_VALENTINE" UNK_F5936A0A="STATION_WAPITI" />
+        <UNK_2A39516C id="STATION_VAN_HORN" UNK_2824FB51="7" UNK_D82EAF5D="STATION_MACFARLANES" UNK_C6710BE2="STATION_MANZANITA" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_VALENTINE" UNK_F5936A0A="STATION_EMERALD" UNK_3976F1D0="STATION_VAN_HORN" />
+        <UNK_2A39516C id="STATION_ANNESBERG" UNK_2824FB51="8" UNK_D82EAF5D="STATION_MACFARLANES" UNK_C6710BE2="STATION_MANZANITA" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_VALENTINE" UNK_F5936A0A="STATION_EMERALD" UNK_3976F1D0="STATION_VAN_HORN" UNK_175CAD9C="STATION_ANNESBERG" />
+        <UNK_2A39516C id="STATION_SAINT_DENIS" UNK_2824FB51="7" UNK_D82EAF5D="STATION_MACFARLANES" UNK_C6710BE2="STATION_MANZANITA" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_VALENTINE" UNK_F5936A0A="STATION_RHODES" UNK_3976F1D0="STATION_SAINT_DENIS" />
+        <UNK_2A39516C id="STATION_LAGRAS" UNK_2824FB51="8" UNK_D82EAF5D="STATION_MACFARLANES" UNK_C6710BE2="STATION_MANZANITA" UNK_E47F47E2="STATION_BLACKWATER" UNK_D226A331="STATION_STRAWBERRY" UNK_8050EED="STATION_VALENTINE" UNK_F5936A0A="STATION_RHODES" UNK_3976F1D0="STATION_SAINT_DENIS" UNK_175CAD9C="STATION_LAGRAS" />
+      </routes>
+    </station>
+    <station category="NFT_CATEGORY_LEMOYNE" id="STATION_SAINT_DENIS" position="[2667.5, -1467.7, 46.3]">
+      <spawnpoints position="[2649.006, -1385.983, 46.1493]" radius="150.0">
+        <spawn heading="359.6738" position="[2678.453, -1417.976, 45.6424]" />
+        <spawn heading="150.1843" position="[2672.467, -1429.597, 45.4771]" />
+        <spawn heading="71.5119" position="[2666.573, -1433.956, 45.4307]" />
+        <spawn heading="285.7494" position="[2714.949, -1387.692, 45.2522]" />
+        <spawn heading="174.8646" position="[2720.914, -1398.484, 45.2909]" />
+        <spawn heading="47.9922" position="[2758.261, -1382.878, 45.2861]" />
+        <spawn heading="157.0337" position="[2759.552, -1360.525, 45.2621]" />
+        <spawn heading="109.8204" position="[2683.832, -1410.722, 45.5514]" />
+        <spawn heading="18.0693" position="[2662.889, -1455.18, 45.3072]" />
+        <spawn heading="340.174" position="[2670.918, -1448.972, 45.2749]" />
+        <spawn heading="329.2382" position="[2683.421, -1442.517, 45.1922]" />
+        <spawn heading="338.2939" position="[2709.941, -1427.364, 45.0642]" />
+        <spawn heading="292.628" position="[2742.37, -1436.313, 45.2114]" />
+        <spawn heading="291.5076" position="[2749.245, -1428.93, 45.2334]" />
+        <spawn heading="85.9699" position="[2752.948, -1415.902, 45.1622]" />
+        <spawn heading="332.8687" position="[2763.438, -1409.11, 45.21]" />
+        <spawn heading="201.3602" position="[2762.145, -1397.384, 45.2553]" />
+        <spawn heading="172.7865" position="[2757.4, -1397.629, 45.2116]" />
+        <spawn heading="53.3263" position="[2762.599, -1384.891, 45.3327]" />
+        <spawn heading="167.8314" position="[2781.432, -1380.833, 45.5295]" />
+        <spawn heading="101.8065" position="[2779.533, -1377.756, 45.4956]" />
+        <spawn heading="282.5858" position="[2675.349, -1468.612, 45.2817]" />
+        <spawn heading="158.2283" position="[2689.97, -1462.045, 45.275]" />
+        <spawn heading="125.6994" position="[2711.138, -1452.915, 45.2581]" />
+        <spawn heading="25.0668" position="[2722.352, -1446.391, 45.2267]" />
+        <spawn heading="118.1666" position="[2742.712, -1436.175, 45.2129]" />
+        <spawn heading="325.7711" position="[2702.24, -1433.549, 45.211]" />
+        <spawn heading="297.6333" position="[2664.957, -1449.491, 45.3006]" />
+        <spawn heading="98.9869" position="[2644.826, -1428.34, 45.3653]" />
+        <spawn heading="89.4616" position="[2642.83, -1418.34, 45.3536]" />
+        <spawn heading="28.9862" position="[2676.879, -1389.664, 45.48]" />
+        <spawn heading="239.8758" position="[2743.275, -1371.82, 45.3868]" />
+        <spawn heading="168.6839" position="[2766.396, -1351.419, 45.3522]" />
+        <spawn heading="60.9518" position="[2771.015, -1333.645, 45.3253]" />
+        <spawn heading="86.3815" position="[2789.331, -1341.332, 45.3473]" />
+        <spawn heading="60.7386" position="[2779.411, -1371.201, 45.3861]" />
+        <spawn heading="100.5444" position="[2754.796, -1383.778, 45.2641]" />
+        <spawn heading="265.5446" position="[2728.189, -1413.431, 45.2804]" />
+        <spawn heading="250.0193" position="[2712.081, -1408.668, 45.6353]" />
+        <spawn heading="47.759" position="[2710.359, -1403.856, 45.6315]" />
+        <spawn heading="96.9205" position="[2700.207, -1403.956, 45.6325]" />
+        <spawn heading="81.09" position="[2759.96, -1475.943, 44.398]" />
+        <spawn heading="149.3354" position="[2670.684, -1513.718, 44.9695]" />
+        <spawn heading="333.4773" position="[2666.592, -1500.509, 44.969]" />
+        <spawn heading="94.7978" position="[2604.926, -1511.528, 44.9697]" />
+        <spawn heading="316.4886" position="[2590.652, -1430.351, 45.3647]" />
+        <spawn heading="303.6738" position="[2682.978, -1365.971, 46.4691]" />
+        <spawn heading="254.2038" position="[2740.521, -1370.167, 45.3762]" />
+        <spawn heading="31.3733" position="[2703.14, -1407.76, 46.0064]" />
+        <spawn heading="309.324" position="[2706.857, -1408.819, 46.0064]" />
+        <spawn heading="36.6155" position="[2703.523, -1429.54, 45.1743]" />
+        <spawn heading="27.4601" position="[2715.939, -1426.495, 44.9248]" />
+        <spawn heading="308.1567" position="[2718.971, -1426.881, 44.9589]" />
+        <spawn heading="48.084" position="[2701.64, -1412.974, 45.6279]" />
+        <spawn heading="31.6421" position="[2703.206, -1428.983, 45.1745]" />
+        <spawn heading="134.4758" position="[2662.233, -1472.251, 45.2504]" />
+        <spawn heading="137.9261" position="[2653.393, -1471.942, 45.2289]" />
+        <spawn heading="313.3506" position="[2653.471, -1468.35, 45.1404]" />
+        <spawn heading="347.1967" position="[2653.76, -1464.777, 45.2116]" />
+        <spawn heading="267.3788" position="[2641.918, -1473.255, 44.9781]" />
+        <spawn heading="251.3603" position="[2635.438, -1473.105, 45.1538]" />
+        <spawn heading="242.7869" position="[2630.603, -1472.431, 45.2106]" />
+        <spawn heading="87.4144" position="[2728.29, -1412.95, 45.2663]" />
+        <spawn heading="86.3691" position="[2711.164, -1429.455, 45.0911]" />
+      </spawnpoints>
+      <destinations>
+        <destination cost="2" distance="2115" id="STATION_VAN_HORN" />
+        <destination cost="1" distance="1432" id="STATION_RHODES" />
+        <destination cost="1" distance="1053" id="STATION_LAGRAS" />
+      </destinations>
+      <routes>
+        <UNK_2A39516C id="STATION_TUMBLEWEED" UNK_2824FB51="8" UNK_D82EAF5D="STATION_RHODES" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_MANZANITA" UNK_F5936A0A="STATION_MACFARLANES" UNK_3976F1D0="STATION_ARMADILLO" UNK_175CAD9C="STATION_TUMBLEWEED" />
+        <UNK_2A39516C id="STATION_ARMADILLO" UNK_2824FB51="7" UNK_D82EAF5D="STATION_RHODES" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_MANZANITA" UNK_F5936A0A="STATION_MACFARLANES" UNK_3976F1D0="STATION_ARMADILLO" />
+        <UNK_2A39516C id="STATION_MACFARLANES" UNK_2824FB51="6" UNK_D82EAF5D="STATION_RHODES" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_MANZANITA" UNK_F5936A0A="STATION_MACFARLANES" />
+        <UNK_2A39516C id="STATION_MANZANITA" UNK_2824FB51="5" UNK_D82EAF5D="STATION_RHODES" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_BLACKWATER" UNK_8050EED="STATION_MANZANITA" />
+        <UNK_2A39516C id="STATION_BLACKWATER" UNK_2824FB51="4" UNK_D82EAF5D="STATION_RHODES" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_STRAWBERRY" UNK_D226A331="STATION_BLACKWATER" />
+        <UNK_2A39516C id="STATION_STRAWBERRY" UNK_2824FB51="3" UNK_D82EAF5D="STATION_RHODES" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_STRAWBERRY" />
+        <UNK_2A39516C id="STATION_VALENTINE" UNK_2824FB51="2" UNK_D82EAF5D="STATION_RHODES" UNK_C6710BE2="STATION_VALENTINE" />
+        <UNK_2A39516C id="STATION_COLTER" UNK_2824FB51="3" UNK_D82EAF5D="STATION_RHODES" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_COLTER" />
+        <UNK_2A39516C id="STATION_EMERALD" UNK_2824FB51="2" UNK_D82EAF5D="STATION_RHODES" UNK_C6710BE2="STATION_EMERALD" />
+        <UNK_2A39516C id="STATION_RHODES" UNK_2824FB51="1" UNK_D82EAF5D="STATION_RHODES" />
+        <UNK_2A39516C id="STATION_WAPITI" UNK_2824FB51="3" UNK_D82EAF5D="STATION_RHODES" UNK_C6710BE2="STATION_VALENTINE" UNK_E47F47E2="STATION_WAPITI" />
+        <UNK_2A39516C id="STATION_VAN_HORN" UNK_2824FB51="1" UNK_D82EAF5D="STATION_VAN_HORN" />
+        <UNK_2A39516C id="STATION_ANNESBERG" UNK_2824FB51="2" UNK_D82EAF5D="STATION_VAN_HORN" UNK_C6710BE2="STATION_ANNESBERG" />
+        <UNK_2A39516C id="STATION_LAGRAS" UNK_2824FB51="1" UNK_D82EAF5D="STATION_LAGRAS" />
+      </routes>
+    </station>
+  </UNK_C91686D6>
+</root>

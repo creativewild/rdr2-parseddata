@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <location center="[-858.8, -1308.1, 43.1]" id="BLACKWATER">
+    <volumes>
+      <prison>
+        <building>
+          <placement id="volBox" size="[7.28625, 8.25655, 3.274269]" spawn_heading="0.0" spawn_position="[-815.5671, -1295.013, 44.81065]" />
+          <placement id="volBox" size="[4.567436, 3.880812, 3.274269]" spawn_heading="0.0" spawn_position="[-821.499, -1292.813, 44.81065]" />
+          <placement id="volBox" size="[6.715553, 2.703942, 2.303326]" spawn_heading="0.0" spawn_position="[-819.4334, -1289.305, 44.37807]" />
+        </building>
+        <cells>
+          <placement id="volBox" size="[6.715553, 2.703942, 2.303326]" spawn_heading="0.0" spawn_position="[-819.4334, -1289.305, 44.37807]" />
+        </cells>
+      </prison>
+      <UNK_BA392662>
+        <placement id="volBox" size="[12.0, 6.999998, 5.999999]" spawn_heading="0.0" spawn_position="[-833.2703, -1271.435, 45.28762]" />
+      </UNK_BA392662>
+    </volumes>
+    <props>
+      <UNK_BA392662>
+        <UNK_16C66C34>
+          <placement id="S_GALLOWSSTAIRS03X" spawn_position="[-835.7132, -1271.624, 45.2387]" />
+          <placement id="S_GALLOWSSTAIRS03X" spawn_position="[-830.7899, -1271.667, 45.2387]" />
+        </UNK_16C66C34>
+      </UNK_BA392662>
+    </props>
+    <doors>
+      <prison>
+        <cells id="P_DOOR48X" spawn_position="[-821.2581, -1290.796, 43.2269]" />
+      </prison>
+    </doors>
+  </location>
+</root>

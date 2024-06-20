@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <supplies>
+    <camp id="hso" UNK_E87AAD6C="[-123.4853, -40.4392, 94.4994]" UNK_A4A56636="[3.1552, 0.9712, -13.0049]">
+      <UNK_53C887C2>
+        <item model="s_inv_pistolAmmo01x" offset="[-0.505, -1.895, 1.16]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.445, -1.9, 1.16]" rotation="[0.0, 0.0, -14.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.375, -1.875, 1.16]" rotation="[0.0, 0.0, -15.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.44, -1.815, 1.16]" rotation="[0.0, 0.0, 170.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.63, -1.89, 1.19]" rotation="[-90.0, 0.0, -142.0]" />
+        <item model="W_SP_BowArrow_Fire" offset="[-1.425, -1.2, 1.06]" rotation="[2.0, -1.0, 164.0]" unlock="CIR_CHARLES_MOONSHINE" />
+        <item model="s_inv_highvlcty_revAmmo01x" offset="[-1.54, -1.32, 1.079]" rotation="[0.0, 1.0, 143.0]" unlock="CIR_BILL_POMADE" />
+        <item model="s_inv_arrowammo01p" offset="[-1.595, -1.015, 1.035]" rotation="[0.0, 0.0, -207.0]" unlock="CIR_CHARLES_OLEANDER" />
+        <item model="p_KnivesBundle02p" offset="[-1.76, -1.41, 1.086]" rotation="[0.0, 0.0, 205.0]" unlock="CIR_JAVIER_OLEANDER" />
+        <item model="p_throw_molotov01" offset="[-1.99, -1.31, 1.067]" rotation="[0.0, -2.0, -170.0]" unlock="CIR_SEAN_WHISKEY" />
+        <item model="s_gunOil01x" offset="[-1.94, -1.445, 1.099]" rotation="[-4.0, 60.0, -107.0]" unlock="CIR_SADIE_HARMONICA" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_inv_pistolAmmo01x" offset="[-0.505, -1.895, 1.16]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.445, -1.9, 1.16]" rotation="[0.0, 0.0, -14.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.375, -1.875, 1.16]" rotation="[0.0, 0.0, -15.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.44, -1.815, 1.16]" rotation="[0.0, 0.0, 170.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.63, -1.89, 1.19]" rotation="[-90.0, 0.0, -142.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.235, -1.795, 1.188]" rotation="[-90.0, 0.0, 160.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[0.485, -1.98, 1.5085]" rotation="[-90.0, 9.0, 175.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[0.405, -1.86, 1.492]" rotation="[0.0, 2.0, -30.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.145, -2.625, 0.48]" rotation="[-6.0, 0.0, -51.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.04, -2.57, 0.465]" rotation="[6.0, 15.0, -233.0]" />
+        <item model="W_SP_BowArrow_Fire" offset="[-1.425, -1.2, 1.06]" rotation="[2.0, -1.0, 164.0]" unlock="CIR_CHARLES_MOONSHINE" />
+        <item model="s_inv_highvlcty_revAmmo01x" offset="[-1.54, -1.32, 1.079]" rotation="[0.0, 1.0, 143.0]" unlock="CIR_BILL_POMADE" />
+        <item model="s_inv_arrowammo01p" offset="[-1.595, -1.015, 1.035]" rotation="[0.0, 0.0, -207.0]" unlock="CIR_CHARLES_OLEANDER" />
+        <item model="p_KnivesBundle02p" offset="[-1.76, -1.41, 1.086]" rotation="[0.0, 0.0, 205.0]" unlock="CIR_JAVIER_OLEANDER" />
+        <item model="p_throw_molotov01" offset="[-1.99, -1.31, 1.067]" rotation="[0.0, -2.0, -170.0]" unlock="CIR_SEAN_WHISKEY" />
+        <item model="s_gunOil01x" offset="[-1.94, -1.445, 1.099]" rotation="[-4.0, 60.0, -107.0]" unlock="CIR_SADIE_HARMONICA" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_inv_pistolAmmo01x" offset="[-0.505, -1.895, 1.16]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.445, -1.9, 1.16]" rotation="[0.0, 0.0, -14.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.375, -1.875, 1.16]" rotation="[0.0, 0.0, -15.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.44, -1.815, 1.16]" rotation="[0.0, 0.0, 170.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.63, -1.89, 1.19]" rotation="[-90.0, 0.0, -142.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.235, -1.795, 1.188]" rotation="[-90.0, 0.0, 160.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[0.485, -1.98, 1.5085]" rotation="[-90.0, 9.0, 175.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[0.405, -1.86, 1.492]" rotation="[0.0, 2.0, -30.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.145, -2.625, 0.48]" rotation="[-6.0, 0.0, -51.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.04, -2.57, 0.465]" rotation="[6.0, 15.0, -233.0]" />
+        <item model="s_inv_shotgunAmmo01x" offset="[1.24, -2.77, 0.46]" rotation="[0.0, 0.0, -45.0]" />
+        <item model="s_inv_shotgunAmmo01x" offset="[1.02, -2.945, 0.468]" rotation="[0.0, 0.0, -16.0]" />
+        <item model="s_inv_rifleAmmo01x" offset="[1.21, -2.875, 0.49]" rotation="[-90.0, 0.0, 524.0]" />
+        <item model="s_inv_rifleAmmo01x" offset="[1.095, -2.81, 0.46]" rotation="[0.0, 0.0, 65.0]" />
+        <item model="p_KnivesBundle02x" offset="[-1.275, -2.34, 1.032]" rotation="[180.0, 180.0, 120.0]" />
+        <item model="p_KnivesBundle02x" offset="[-1.4, -2.235, 1.028]" rotation="[180.0, 180.0, 139.0]" />
+        <item model="W_SP_BowArrow_Fire" offset="[-1.425, -1.2, 1.06]" rotation="[2.0, -1.0, 164.0]" unlock="CIR_CHARLES_MOONSHINE" />
+        <item model="s_inv_highvlcty_revAmmo01x" offset="[-1.54, -1.32, 1.079]" rotation="[0.0, 1.0, 143.0]" unlock="CIR_BILL_POMADE" />
+        <item model="s_inv_arrowammo01p" offset="[-1.595, -1.015, 1.035]" rotation="[0.0, 0.0, -207.0]" unlock="CIR_CHARLES_OLEANDER" />
+        <item model="p_KnivesBundle02p" offset="[-1.76, -1.41, 1.086]" rotation="[0.0, 0.0, 205.0]" unlock="CIR_JAVIER_OLEANDER" />
+        <item model="p_throw_molotov01" offset="[-1.99, -1.31, 1.067]" rotation="[0.0, -2.0, -170.0]" unlock="CIR_SEAN_WHISKEY" />
+        <item model="s_gunOil01x" offset="[-1.94, -1.445, 1.099]" rotation="[-4.0, 60.0, -107.0]" unlock="CIR_SADIE_HARMONICA" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_inv_pistolAmmo01x" offset="[-0.505, -1.895, 1.16]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.445, -1.9, 1.16]" rotation="[0.0, 0.0, -14.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.375, -1.875, 1.16]" rotation="[0.0, 0.0, -15.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.44, -1.815, 1.16]" rotation="[0.0, 0.0, 170.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.63, -1.89, 1.19]" rotation="[-90.0, 0.0, -142.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.235, -1.795, 1.188]" rotation="[-90.0, 0.0, 160.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[0.485, -1.98, 1.5085]" rotation="[-90.0, 9.0, 175.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[0.405, -1.86, 1.492]" rotation="[0.0, 2.0, -30.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.145, -2.625, 0.48]" rotation="[-6.0, 0.0, -51.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.04, -2.57, 0.465]" rotation="[6.0, 15.0, -233.0]" />
+        <item model="s_inv_shotgunAmmo01x" offset="[1.24, -2.54, 0.885]" rotation="[0.0, 0.0, -45.0]" />
+        <item model="s_inv_shotgunAmmo01x" offset="[1.085, -2.65, 0.67]" rotation="[0.0, 0.0, -16.0]" />
+        <item model="s_inv_rifleAmmo01x" offset="[1.49, -2.675, 0.7]" rotation="[-90.0, 0.0, 524.0]" />
+        <item model="s_inv_rifleAmmo01x" offset="[1.085, -2.505, 0.66]" rotation="[0.0, 0.0, 65.0]" />
+        <item model="p_KnivesBundle02x" offset="[-1.275, -2.34, 1.032]" rotation="[180.0, 180.0, 120.0]" />
+        <item model="p_KnivesBundle02x" offset="[-1.4, -2.235, 1.028]" rotation="[180.0, 180.0, 139.0]" />
+        <item model="p_throw_molotov01" offset="[1.315, -1.33, 1.038]" rotation="[0.0, 0.0, -20.0]" />
+        <item model="p_throw_molotov01" offset="[1.57, -1.42, 1.042]" rotation="[0.0, 0.0, -125.0]" />
+        <item model="s_inv_repeatHV_rifleammo01x" offset="[-0.035, -1.89, 1.162]" rotation="[0.0, 0.0, 149.0]" />
+        <item model="s_inv_repeatHV_rifleammo01x" offset="[-0.165, -1.875, 1.18]" rotation="[-90.0, 0.0, 155.0]" />
+        <item model="W_SP_BowArrow_Fire" offset="[-1.425, -1.2, 1.06]" rotation="[2.0, -1.0, 164.0]" unlock="CIR_CHARLES_MOONSHINE" />
+        <item model="s_inv_highvlcty_revAmmo01x" offset="[-1.54, -1.32, 1.079]" rotation="[0.0, 1.0, 143.0]" unlock="CIR_BILL_POMADE" />
+        <item model="s_inv_arrowammo01p" offset="[-1.595, -1.015, 1.035]" rotation="[0.0, 0.0, -207.0]" unlock="CIR_CHARLES_OLEANDER" />
+        <item model="p_KnivesBundle02p" offset="[-1.76, -1.41, 1.086]" rotation="[0.0, 0.0, 205.0]" unlock="CIR_JAVIER_OLEANDER" />
+        <item model="p_throw_molotov01" offset="[-1.99, -1.31, 1.067]" rotation="[0.0, -2.0, -170.0]" unlock="CIR_SEAN_WHISKEY" />
+        <item model="s_gunOil01x" offset="[-1.94, -1.445, 1.099]" rotation="[-4.0, 60.0, -107.0]" unlock="CIR_SADIE_HARMONICA" />
+      </UNK_53C887C2>
+    </camp>
+    <camp id="clm" UNK_E87AAD6C="[651.0757, -1245.762, 42.6605]" UNK_A4A56636="[0.0, 0.0, -127.7265]">
+      <UNK_53C887C2>
+        <item model="s_inv_pistolAmmo01x" offset="[-0.505, -1.895, 1.16]" rotation="[0.0, 0.0, 60.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.445, -1.9, 1.16]" rotation="[0.0, 0.0, 76.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.375, -1.875, 1.16]" rotation="[0.0, 0.0, 85.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.44, -1.815, 1.16]" rotation="[0.0, 0.0, 240.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.63, -1.89, 1.19]" rotation="[-90.0, 0.0, -242.0]" />
+        <item model="W_SP_BowArrow_Fire" offset="[-1.42, -1.05, 1.053]" rotation="[4.0, -1.0, 47.0]" unlock="CIR_CHARLES_MOONSHINE" />
+        <item model="s_inv_highvlcty_revAmmo01x" offset="[-1.53, -1.075, 1.062]" rotation="[0.0, 0.0, 23.0]" unlock="CIR_BILL_POMADE" />
+        <item model="s_inv_arrowammo01p" offset="[-1.62, -0.925, 1.043]" rotation="[1.0, 0.0, -314.0]" unlock="CIR_CHARLES_OLEANDER" />
+        <item model="p_KnivesBundle02p" offset="[-1.74, -1.15, 1.068]" rotation="[4.0, -2.0, 455.0]" unlock="CIR_JAVIER_OLEANDER" />
+        <item model="p_throw_molotov01" offset="[-1.97, -1.105, 1.052]" rotation="[0.0, -2.0, -170.0]" unlock="CIR_SEAN_WHISKEY" />
+        <item model="s_gunOil01x" offset="[-1.885, -1.225, 1.084]" rotation="[2.0, 60.0, -237.0]" unlock="CIR_SADIE_HARMONICA" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_inv_pistolAmmo01x" offset="[-0.505, -1.895, 1.16]" rotation="[0.0, 0.0, 60.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.445, -1.9, 1.16]" rotation="[0.0, 0.0, 76.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.375, -1.875, 1.16]" rotation="[0.0, 0.0, 85.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.44, -1.815, 1.16]" rotation="[0.0, 0.0, 240.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.63, -1.89, 1.19]" rotation="[-90.0, 0.0, -242.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.235, -1.795, 1.188]" rotation="[-90.0, 0.0, 60.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[0.485, -1.98, 1.5085]" rotation="[-90.0, 9.0, 65.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[0.405, -1.86, 1.492]" rotation="[0.0, 2.0, 40.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.145, -2.625, 0.505]" rotation="[-6.0, 0.0, -181.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.04, -2.57, 0.5]" rotation="[6.0, 15.0, 26.0]" />
+        <item model="W_SP_BowArrow_Fire" offset="[-1.42, -1.05, 1.053]" rotation="[4.0, -1.0, 47.0]" unlock="CIR_CHARLES_MOONSHINE" />
+        <item model="s_inv_highvlcty_revAmmo01x" offset="[-1.53, -1.075, 1.062]" rotation="[0.0, 0.0, 23.0]" unlock="CIR_BILL_POMADE" />
+        <item model="s_inv_arrowammo01p" offset="[-1.62, -0.925, 1.043]" rotation="[1.0, 0.0, -314.0]" unlock="CIR_CHARLES_OLEANDER" />
+        <item model="p_KnivesBundle02p" offset="[-1.74, -1.15, 1.068]" rotation="[4.0, -2.0, 455.0]" unlock="CIR_JAVIER_OLEANDER" />
+        <item model="p_throw_molotov01" offset="[-1.97, -1.105, 1.052]" rotation="[0.0, -2.0, -170.0]" unlock="CIR_SEAN_WHISKEY" />
+        <item model="s_gunOil01x" offset="[-1.885, -1.225, 1.084]" rotation="[2.0, 60.0, -237.0]" unlock="CIR_SADIE_HARMONICA" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_inv_pistolAmmo01x" offset="[-0.505, -1.895, 1.16]" rotation="[0.0, 0.0, 60.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.445, -1.9, 1.16]" rotation="[0.0, 0.0, 76.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.375, -1.875, 1.16]" rotation="[0.0, 0.0, 85.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.44, -1.815, 1.16]" rotation="[0.0, 0.0, 240.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.63, -1.89, 1.19]" rotation="[-90.0, 0.0, -242.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.235, -1.795, 1.188]" rotation="[-90.0, 0.0, 60.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[0.485, -1.98, 1.5085]" rotation="[-90.0, 9.0, 65.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[0.405, -1.86, 1.492]" rotation="[0.0, 2.0, 40.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.145, -2.625, 0.505]" rotation="[-6.0, 0.0, -181.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.04, -2.57, 0.5]" rotation="[6.0, 15.0, 26.0]" />
+        <item model="s_inv_shotgunAmmo01x" offset="[1.24, -2.77, 0.51]" rotation="[0.0, 0.0, -45.0]" />
+        <item model="s_inv_shotgunAmmo01x" offset="[1.02, -2.945, 0.523]" rotation="[0.0, 0.0, -16.0]" />
+        <item model="s_inv_rifleAmmo01x" offset="[1.21, -2.875, 0.55]" rotation="[-90.0, 0.0, 414.0]" />
+        <item model="s_inv_rifleAmmo01x" offset="[1.095, -2.81, 0.52]" rotation="[0.0, 0.0, 65.0]" />
+        <item model="p_KnivesBundle02x" offset="[-1.275, -2.34, 1.067]" rotation="[180.0, 180.0, 0.0]" />
+        <item model="p_KnivesBundle02x" offset="[-1.4, -2.235, 1.063]" rotation="[180.0, 180.0, 369.0]" />
+        <item model="W_SP_BowArrow_Fire" offset="[-1.42, -1.05, 1.053]" rotation="[4.0, -1.0, 47.0]" unlock="CIR_CHARLES_MOONSHINE" />
+        <item model="s_inv_highvlcty_revAmmo01x" offset="[-1.53, -1.075, 1.062]" rotation="[0.0, 0.0, 23.0]" unlock="CIR_BILL_POMADE" />
+        <item model="s_inv_arrowammo01p" offset="[-1.62, -0.925, 1.043]" rotation="[1.0, 0.0, -314.0]" unlock="CIR_CHARLES_OLEANDER" />
+        <item model="p_KnivesBundle02p" offset="[-1.74, -1.15, 1.068]" rotation="[4.0, -2.0, 455.0]" unlock="CIR_JAVIER_OLEANDER" />
+        <item model="p_throw_molotov01" offset="[-1.97, -1.105, 1.052]" rotation="[0.0, -2.0, -170.0]" unlock="CIR_SEAN_WHISKEY" />
+        <item model="s_gunOil01x" offset="[-1.885, -1.225, 1.084]" rotation="[2.0, 60.0, -237.0]" unlock="CIR_SADIE_HARMONICA" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_inv_pistolAmmo01x" offset="[-0.505, -1.895, 1.16]" rotation="[0.0, 0.0, 60.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.445, -1.9, 1.16]" rotation="[0.0, 0.0, 76.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.375, -1.875, 1.16]" rotation="[0.0, 0.0, 85.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.44, -1.815, 1.16]" rotation="[0.0, 0.0, 240.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.63, -1.89, 1.19]" rotation="[-90.0, 0.0, -242.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.235, -1.795, 1.188]" rotation="[-90.0, 0.0, 60.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[0.485, -1.98, 1.5085]" rotation="[-90.0, 9.0, 65.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[0.405, -1.86, 1.492]" rotation="[0.0, 2.0, 40.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.145, -2.625, 0.505]" rotation="[-6.0, 0.0, -181.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.04, -2.57, 0.5]" rotation="[6.0, 15.0, 26.0]" />
+        <item model="s_inv_shotgunAmmo01x" offset="[1.24, -2.54, 0.97]" rotation="[0.0, 0.0, -45.0]" />
+        <item model="s_inv_shotgunAmmo01x" offset="[1.09, -2.63, 0.735]" rotation="[0.0, 0.0, 754.0]" />
+        <item model="s_inv_rifleAmmo01x" offset="[1.49, -2.675, 0.775]" rotation="[-90.0, 0.0, 774.0]" />
+        <item model="s_inv_rifleAmmo01x" offset="[1.085, -2.505, 0.735]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="p_KnivesBundle02x" offset="[-1.275, -2.34, 1.067]" rotation="[180.0, 180.0, 0.0]" />
+        <item model="p_KnivesBundle02x" offset="[-1.4, -2.235, 1.063]" rotation="[180.0, 180.0, 369.0]" />
+        <item model="p_throw_molotov01" offset="[1.315, -1.33, 1.027]" rotation="[0.0, 0.0, -20.0]" />
+        <item model="p_throw_molotov01" offset="[1.57, -1.42, 1.027]" rotation="[0.0, 0.0, -125.0]" />
+        <item model="s_inv_repeatHV_rifleammo01x" offset="[-0.035, -1.89, 1.162]" rotation="[0.0, 0.0, 208.0]" />
+        <item model="s_inv_repeatHV_rifleammo01x" offset="[-0.165, -1.875, 1.18]" rotation="[-90.0, 0.0, 42.0]" />
+        <item model="W_SP_BowArrow_Fire" offset="[-1.42, -1.05, 1.053]" rotation="[4.0, -1.0, 47.0]" unlock="CIR_CHARLES_MOONSHINE" />
+        <item model="s_inv_highvlcty_revAmmo01x" offset="[-1.53, -1.075, 1.062]" rotation="[0.0, 0.0, 23.0]" unlock="CIR_BILL_POMADE" />
+        <item model="s_inv_arrowammo01p" offset="[-1.62, -0.925, 1.043]" rotation="[1.0, 0.0, -314.0]" unlock="CIR_CHARLES_OLEANDER" />
+        <item model="p_KnivesBundle02p" offset="[-1.74, -1.15, 1.068]" rotation="[4.0, -2.0, 455.0]" unlock="CIR_JAVIER_OLEANDER" />
+        <item model="p_throw_molotov01" offset="[-1.97, -1.105, 1.052]" rotation="[0.0, -2.0, -170.0]" unlock="CIR_SEAN_WHISKEY" />
+        <item model="s_gunOil01x" offset="[-1.885, -1.225, 1.084]" rotation="[2.0, 60.0, -237.0]" unlock="CIR_SADIE_HARMONICA" />
+      </UNK_53C887C2>
+    </camp>
+    <camp id="sdb" UNK_E87AAD6C="[1906.1, -1861.9, 47.3]" UNK_A4A56636="[0.0, 0.0, 0.0]">
+      <UNK_53C887C2>
+        <item model="s_inv_pistolAmmo01x" offset="[-1.905, -0.19, -0.134]" rotation="[0.0, 0.0, -49.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-1.925, -0.11, -0.138]" rotation="[0.0, 0.0, -45.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-2.135, -0.02, -0.124]" rotation="[0.0, 0.0, 143.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-2.015, -0.045, -0.135]" rotation="[0.0, 0.0, -80.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-2.06, -0.225, -0.13]" rotation="[0.0, 4.0, -25.0]" />
+        <item model="W_SP_BowArrow_Fire" offset="[-1.34, -0.835, -0.156]" rotation="[0.0, -131.0, 305.0]" unlock="CIR_CHARLES_MOONSHINE" />
+        <item model="s_inv_highvlcty_revAmmo01x" offset="[-2.37, 0.21, -0.123]" rotation="[0.0, 3.0, 95.0]" unlock="CIR_BILL_POMADE" />
+        <item model="s_inv_arrowammo01p" offset="[-1.375, -0.805, -0.156]" rotation="[1.0, -192.0, -231.0]" unlock="CIR_CHARLES_OLEANDER" />
+        <item model="p_KnivesBundle02p" offset="[-2.075, -0.405, 0.552]" rotation="[-1.0, 0.0, 99.0]" unlock="CIR_JAVIER_OLEANDER" />
+        <item model="p_throw_molotov01" offset="[-2.82, 0.24, 0.54]" rotation="[0.0, 0.0, 0.0]" unlock="CIR_SEAN_WHISKEY" />
+        <item model="s_gunOil01x" offset="[-1.825, -0.515, 0.564]" rotation="[0.0, 80.0, 66.0]" unlock="CIR_SADIE_HARMONICA" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_inv_pistolAmmo01x" offset="[-1.905, -0.19, -0.134]" rotation="[0.0, 0.0, -49.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-1.925, -0.11, -0.138]" rotation="[0.0, 0.0, -45.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-2.135, -0.02, -0.124]" rotation="[0.0, 0.0, 143.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-2.015, -0.045, -0.135]" rotation="[0.0, 0.0, -80.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-2.06, -0.225, -0.13]" rotation="[0.0, 4.0, -25.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-1.685, -0.365, 0.097]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[-1.67, -0.495, 0.119]" rotation="[-90.0, 0.0, -46.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[-1.87, -0.3, -0.13]" rotation="[0.0, 0.0, 20.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.095, -0.86, -0.165]" rotation="[0.0, 0.0, 119.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.145, -0.815, -0.16]" rotation="[0.0, 0.0, 125.0]" />
+        <item model="W_SP_BowArrow_Fire" offset="[-1.34, -0.835, -0.156]" rotation="[0.0, -131.0, 305.0]" unlock="CIR_CHARLES_MOONSHINE" />
+        <item model="s_inv_highvlcty_revAmmo01x" offset="[-2.37, 0.21, -0.123]" rotation="[0.0, 3.0, 95.0]" unlock="CIR_BILL_POMADE" />
+        <item model="s_inv_arrowammo01p" offset="[-1.375, -0.805, -0.156]" rotation="[1.0, -192.0, -231.0]" unlock="CIR_CHARLES_OLEANDER" />
+        <item model="p_KnivesBundle02p" offset="[-2.075, -0.405, 0.552]" rotation="[-1.0, 0.0, 99.0]" unlock="CIR_JAVIER_OLEANDER" />
+        <item model="p_throw_molotov01" offset="[-2.82, 0.24, 0.54]" rotation="[0.0, 0.0, 0.0]" unlock="CIR_SEAN_WHISKEY" />
+        <item model="s_gunOil01x" offset="[-1.825, -0.515, 0.564]" rotation="[0.0, 80.0, 66.0]" unlock="CIR_SADIE_HARMONICA" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_inv_pistolAmmo01x" offset="[-1.905, -0.19, -0.134]" rotation="[0.0, 0.0, -49.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-1.925, -0.11, -0.138]" rotation="[0.0, 0.0, -45.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-2.135, -0.02, -0.124]" rotation="[0.0, 0.0, 143.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-2.015, -0.045, -0.135]" rotation="[0.0, 0.0, -80.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-2.06, -0.225, -0.13]" rotation="[0.0, 4.0, -25.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-1.685, -0.365, 0.097]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[-1.67, -0.495, 0.119]" rotation="[-90.0, 0.0, -46.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[-1.87, -0.3, -0.13]" rotation="[0.0, 0.0, 20.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.095, -0.86, -0.165]" rotation="[0.0, 0.0, 119.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.145, -0.815, -0.16]" rotation="[0.0, 0.0, 125.0]" />
+        <item model="s_inv_shotgunAmmo01x" offset="[-1.795, -0.62, 0.298]" rotation="[0.0, 0.0, -55.0]" />
+        <item model="s_inv_shotgunAmmo01x" offset="[-1.65, -0.695, 0.296]" rotation="[0.0, 0.0, 101.0]" />
+        <item model="s_inv_rifleAmmo01x" offset="[-2.21, 0.125, -0.105]" rotation="[90.0, 0.0, -65.0]" />
+        <item model="s_inv_rifleAmmo01x" offset="[-1.515, -0.61, 0.097]" rotation="[0.0, 0.0, -45.0]" />
+        <item model="p_KnivesBundle02x" offset="[-2.23, -0.355, 0.552]" rotation="[180.0, 180.0, 319.0]" />
+        <item model="p_KnivesBundle02x" offset="[-2.325, -0.23, 0.548]" rotation="[0.0, 0.0, 490.0]" />
+        <item model="W_SP_BowArrow_Fire" offset="[-1.34, -0.835, -0.156]" rotation="[0.0, -131.0, 305.0]" unlock="CIR_CHARLES_MOONSHINE" />
+        <item model="s_inv_highvlcty_revAmmo01x" offset="[-2.37, 0.21, -0.123]" rotation="[0.0, 3.0, 95.0]" unlock="CIR_BILL_POMADE" />
+        <item model="s_inv_arrowammo01p" offset="[-1.375, -0.805, -0.156]" rotation="[1.0, -192.0, -231.0]" unlock="CIR_CHARLES_OLEANDER" />
+        <item model="p_KnivesBundle02p" offset="[-2.075, -0.405, 0.552]" rotation="[-1.0, 0.0, 99.0]" unlock="CIR_JAVIER_OLEANDER" />
+        <item model="p_throw_molotov01" offset="[-2.82, 0.24, 0.54]" rotation="[0.0, 0.0, 0.0]" unlock="CIR_SEAN_WHISKEY" />
+        <item model="s_gunOil01x" offset="[-1.825, -0.515, 0.564]" rotation="[0.0, 80.0, 66.0]" unlock="CIR_SADIE_HARMONICA" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_inv_pistolAmmo01x" offset="[-1.905, -0.19, -0.134]" rotation="[0.0, 0.0, -49.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-1.925, -0.11, -0.138]" rotation="[0.0, 0.0, -45.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-2.135, -0.02, -0.124]" rotation="[0.0, 0.0, 143.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-2.015, -0.045, -0.135]" rotation="[0.0, 0.0, -80.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-2.06, -0.225, -0.13]" rotation="[0.0, 4.0, -25.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-1.685, -0.365, 0.097]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[-1.67, -0.495, 0.119]" rotation="[-90.0, 0.0, -46.0]" />
+        <item model="s_inv_repeat_rifleammo01x" offset="[-1.87, -0.3, -0.13]" rotation="[0.0, 0.0, 20.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.095, -0.86, -0.165]" rotation="[0.0, 0.0, 119.0]" />
+        <item model="s_inv_arrowammo01x" offset="[-1.145, -0.815, -0.16]" rotation="[0.0, 0.0, 125.0]" />
+        <item model="s_inv_shotgunAmmo01x" offset="[-1.795, -0.62, 0.298]" rotation="[0.0, 0.0, -55.0]" />
+        <item model="s_inv_shotgunAmmo01x" offset="[-1.65, -0.695, 0.296]" rotation="[0.0, 0.0, 101.0]" />
+        <item model="s_inv_rifleAmmo01x" offset="[-2.21, 0.125, -0.105]" rotation="[90.0, 0.0, -65.0]" />
+        <item model="s_inv_rifleAmmo01x" offset="[-1.515, -0.61, 0.097]" rotation="[0.0, 0.0, -45.0]" />
+        <item model="p_KnivesBundle02x" offset="[-2.23, -0.355, 0.552]" rotation="[180.0, 180.0, 319.0]" />
+        <item model="p_KnivesBundle02x" offset="[-2.325, -0.23, 0.548]" rotation="[0.0, 0.0, 490.0]" />
+        <item model="p_throw_molotov01" offset="[-2.785, 0.255, 0.024]" rotation="[0.0, 0.0, 0.0]" />
+        <item model="p_throw_molotov01" offset="[-3.03, 0.305, 0.022]" rotation="[0.0, 0.0, -35.0]" />
+        <item model="s_inv_repeatHV_rifleammo01x" offset="[-1.025, -1.23, -0.525]" rotation="[-90.0, 0.0, 132.0]" />
+        <item model="s_inv_repeatHV_rifleammo01x" offset="[-0.91, -1.41, -0.521]" rotation="[-90.0, 0.0, 298.0]" />
+        <item model="W_SP_BowArrow_Fire" offset="[-1.34, -0.835, -0.156]" rotation="[0.0, -131.0, 305.0]" unlock="CIR_CHARLES_MOONSHINE" />
+        <item model="s_inv_highvlcty_revAmmo01x" offset="[-2.37, 0.21, -0.123]" rotation="[0.0, 3.0, 95.0]" unlock="CIR_BILL_POMADE" />
+        <item model="s_inv_arrowammo01p" offset="[-1.375, -0.805, -0.156]" rotation="[1.0, -192.0, -231.0]" unlock="CIR_CHARLES_OLEANDER" />
+        <item model="p_KnivesBundle02p" offset="[-2.075, -0.405, 0.552]" rotation="[-1.0, 0.0, 99.0]" unlock="CIR_JAVIER_OLEANDER" />
+        <item model="p_throw_molotov01" offset="[-2.86, 0.425, 0.035]" rotation="[0.0, 0.0, 0.0]" unlock="CIR_SEAN_WHISKEY" />
+        <item model="s_gunOil01x" offset="[-1.825, -0.515, 0.564]" rotation="[0.0, 80.0, 66.0]" unlock="CIR_SADIE_HARMONICA" />
+      </UNK_53C887C2>
+    </camp>
+    <camp id="bvh" UNK_E87AAD6C="[2339.788, 1356.592, 105.2986]" UNK_A4A56636="[1.1126, 0.5133, -96.4939]">
+      <UNK_53C887C2>
+        <item model="s_inv_pistolAmmo01x" offset="[-0.505, -1.895, 1.155]" rotation="[0.0, 0.0, -100.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.43, -1.9, 1.155]" rotation="[0.0, 0.0, 96.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.275, -1.875, 1.16]" rotation="[0.0, 0.0, -95.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.44, -1.775, 1.155]" rotation="[0.0, 0.0, 260.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.63, -1.89, 1.183]" rotation="[-90.0, 0.0, 148.0]" />
+        <item model="W_SP_BowArrow_Fire" offset="[-1.755, -1.275, 1.042]" rotation="[2.0, 0.0, 72.0]" unlock="CIR_CHARLES_MOONSHINE" />
+        <item model="s_inv_highvlcty_revAmmo01x" offset="[-1.86, -1.32, 1.048]" rotation="[0.0, 3.0, 59.0]" unlock="CIR_BILL_POMADE" />
+        <item model="s_inv_arrowammo01p" offset="[-1.975, -1.115, 1.02]" rotation="[0.0, 0.0, -272.0]" unlock="CIR_CHARLES_OLEANDER" />
+        <item model="p_KnivesBundle02p" offset="[-2.075, -1.33, 1.044]" rotation="[0.0, 0.0, 119.0]" unlock="CIR_JAVIER_OLEANDER" />
+        <item model="p_throw_molotov01" offset="[-2.43, -1.315, 1.025]" rotation="[0.0, -2.0, -170.0]" unlock="CIR_SEAN_WHISKEY" />
+        <item model="s_gunOil01x" offset="[-2.24, -1.36, 1.045]" rotation="[0.0, 320.0, -27.0]" unlock="CIR_SADIE_HARMONICA" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_inv_pistolAmmo01x" offset="[-0.505, -1.895, 1.155]" rotation="[0.0, 0.0, -100.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.43, -1.9, 1.155]" rotation="[0.0, 0.0, 96.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.275, -1.875, 1.16]" rotation="[0.0, 0.0, -95.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.44, -1.775, 1.155]" rotation="[0.0, 0.0, 260.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.63, -1.89, 1.183]" rotation="[-90.0, 0.0, 148.0]" />
+        <item model="W_SP_BowArrow_Fire" offset="[-1.755, -1.275, 1.042]" rotation="[2.0, 0.0, 72.0]" unlock="CIR_CHARLES_MOONSHINE" />
+        <item model="s_inv_highvlcty_revAmmo01x" offset="[-1.86, -1.32, 1.048]" rotation="[0.0, 3.0, 59.0]" unlock="CIR_BILL_POMADE" />
+        <item model="s_inv_arrowammo01p" offset="[-1.975, -1.115, 1.02]" rotation="[0.0, 0.0, -272.0]" unlock="CIR_CHARLES_OLEANDER" />
+        <item model="p_KnivesBundle02p" offset="[-2.075, -1.33, 1.044]" rotation="[0.0, 0.0, 119.0]" unlock="CIR_JAVIER_OLEANDER" />
+        <item model="p_throw_molotov01" offset="[-2.43, -1.315, 1.025]" rotation="[0.0, -2.0, -170.0]" unlock="CIR_SEAN_WHISKEY" />
+        <item model="s_gunOil01x" offset="[-2.24, -1.36, 1.045]" rotation="[0.0, 320.0, -27.0]" unlock="CIR_SADIE_HARMONICA" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_inv_pistolAmmo01x" offset="[-0.505, -1.895, 1.155]" rotation="[0.0, 0.0, -100.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.43, -1.9, 1.155]" rotation="[0.0, 0.0, 96.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.275, -1.875, 1.16]" rotation="[0.0, 0.0, -95.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.44, -1.775, 1.155]" rotation="[0.0, 0.0, 260.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.63, -1.89, 1.183]" rotation="[-90.0, 0.0, 148.0]" />
+        <item model="W_SP_BowArrow_Fire" offset="[-1.755, -1.275, 1.042]" rotation="[2.0, 0.0, 72.0]" unlock="CIR_CHARLES_MOONSHINE" />
+        <item model="s_inv_highvlcty_revAmmo01x" offset="[-1.86, -1.32, 1.048]" rotation="[0.0, 3.0, 59.0]" unlock="CIR_BILL_POMADE" />
+        <item model="s_inv_arrowammo01p" offset="[-1.975, -1.115, 1.02]" rotation="[0.0, 0.0, -272.0]" unlock="CIR_CHARLES_OLEANDER" />
+        <item model="p_KnivesBundle02p" offset="[-2.075, -1.33, 1.044]" rotation="[0.0, 0.0, 119.0]" unlock="CIR_JAVIER_OLEANDER" />
+        <item model="p_throw_molotov01" offset="[-2.43, -1.315, 1.025]" rotation="[0.0, -2.0, -170.0]" unlock="CIR_SEAN_WHISKEY" />
+        <item model="s_gunOil01x" offset="[-2.24, -1.36, 1.045]" rotation="[0.0, 320.0, -27.0]" unlock="CIR_SADIE_HARMONICA" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_inv_pistolAmmo01x" offset="[-0.505, -1.895, 1.155]" rotation="[0.0, 0.0, -100.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.43, -1.9, 1.155]" rotation="[0.0, 0.0, 96.0]" />
+        <item model="s_inv_pistolAmmo01x" offset="[-0.275, -1.875, 1.16]" rotation="[0.0, 0.0, -95.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.44, -1.775, 1.155]" rotation="[0.0, 0.0, 260.0]" />
+        <item model="s_inv_revolverAmmo01x" offset="[-0.63, -1.89, 1.183]" rotation="[-90.0, 0.0, 148.0]" />
+        <item model="W_SP_BowArrow_Fire" offset="[-1.755, -1.275, 1.042]" rotation="[2.0, 0.0, 72.0]" unlock="CIR_CHARLES_MOONSHINE" />
+        <item model="s_inv_highvlcty_revAmmo01x" offset="[-1.86, -1.32, 1.048]" rotation="[0.0, 3.0, 59.0]" unlock="CIR_BILL_POMADE" />
+        <item model="s_inv_arrowammo01p" offset="[-1.975, -1.115, 1.02]" rotation="[0.0, 0.0, -272.0]" unlock="CIR_CHARLES_OLEANDER" />
+        <item model="p_KnivesBundle02p" offset="[-2.075, -1.33, 1.044]" rotation="[0.0, 0.0, 119.0]" unlock="CIR_JAVIER_OLEANDER" />
+        <item model="p_throw_molotov01" offset="[-2.43, -1.315, 1.025]" rotation="[0.0, -2.0, -170.0]" unlock="CIR_SEAN_WHISKEY" />
+        <item model="s_gunOil01x" offset="[-2.24, -1.36, 1.045]" rotation="[0.0, 320.0, -27.0]" unlock="CIR_SADIE_HARMONICA" />
+      </UNK_53C887C2>
+    </camp>
+  </supplies>
+</root>

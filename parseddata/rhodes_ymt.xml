@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <location center="[1298.2, -1291.7, 75.6]" id="RHODES">
+    <volumes>
+      <prison>
+        <building>
+          <placement id="volBox" size="[5.604786, 8.81019, 2.453971]" spawn_heading="0.0" spawn_position="[1341.133, -1296.286, 77.59707]" />
+          <placement id="volBox" size="[3.64502, 6.58608, 2.453971]" spawn_heading="0.0" spawn_position="[1336.156, -1296.459, 77.59707]" />
+        </building>
+        <cells>
+          <placement id="volBox" size="[3.64502, 6.58608, 2.453971]" spawn_heading="0.0" spawn_position="[1336.156, -1296.459, 77.59707]" />
+        </cells>
+      </prison>
+      <UNK_BA392662>
+        <placement id="volBox" size="[5.699999, 9.700004, 5.5]" spawn_heading="0.0" spawn_position="[1373.743, -1216.211, 83.27795]" />
+      </UNK_BA392662>
+      <church>
+        <placement id="volBox" size="[6.9, 14.8, 4.0]" spawn_heading="90.0" spawn_position="[1289.196, -1224.139, 83.5]" />
+      </church>
+    </volumes>
+    <props>
+      <UNK_BA392662>
+        <UNK_16C66C34>
+          <placement id="S_GALLOWSDOOR01X" spawn_position="[1375.18, -1217.13, 83.2034]" />
+        </UNK_16C66C34>
+      </UNK_BA392662>
+    </props>
+    <doors>
+      <prison>
+        <cells id="p_doorrhosheriff01x" spawn_position="[1337.995, -1297.745, 76.3605]" />
+      </prison>
+    </doors>
+  </location>
+</root>

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data>
+    <UNK_FCAC7D18>
+      <UNK_AD305933 id="STANDARD">
+        <text id="SHARD_TEAM_PRIMARY_INTRO" UNK_EC4B42F9="INTRO_HIDEOUT_SHARD_TEAM_PRIMARY_INTRO" />
+        <text id="SHARD_TEAM_PRIMARY_PASS" UNK_EC4B42F9="INTRO_HIDEOUT_SHARD_TEAM_PRIMARY_PASS" />
+        <text id="SHARD_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_HIDEOUT_SHARD_OVER_ABANDON" />
+        <text id="SHARD_YOUR_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_HIDEOUT_SHARD_OVER_ABANDON" />
+        <text id="SHARD_YOU_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOU_ABANDONED" />
+        <text id="HELP_TEAM_PRIMARY" UNK_EC4B42F9="INTRO_HIDEOUT_HELP_TEAM_PRIMARY" />
+        <text id="OBJ_DESTROY" UNK_EC4B42F9="INTRO_HIDEOUT_OBJ_DESTROY" />
+        <text id="OBJ_LOOT" UNK_EC4B42F9="INTRO_HIDEOUT_OBJ_LOOT" />
+        <text id="CTX_OBJECTIVE_PRIMARY" UNK_EC4B42F9="INTRO_HIDEOUT_CTX_SPARE_ENEMY" />
+      </UNK_AD305933>
+    </UNK_FCAC7D18>
+    <locations>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="INTRO_HIDEOUT_RHODES" UNK_7C1FCD5E="MODEL_CONFIG_SCARLETT_MEADOWS" UNK_21B34E9A="true" UNK_17CC0711="false">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE_INTRO" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_CENTER_BLIP" role="CENTER_BLIP_USE_CENTER_POSITION">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[1780.619, -646.549, 41.56]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[1783.187, -642.711, 48.351]" rotation="[0.0, 0.0, -38.461]" scale="[38.9, 34.2, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_2">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[1834.677, -610.171, 45.696]" rotation="[0.0, 0.0, -38.97]" scale="[159.6, 100.6, 50.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="CLEAR_ALL_PEDS" id="VOL_GUARD_3">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[1780.619, -646.549, 41.56]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 20.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger id="IN_AREA" role="PLAYER_WITHIN_DIST_TO_CENTER_OR_AGGRO" UNK_4B061377="45.0">
+            <UNK_1331CF2C action="SHOW_ALL_PED_BLIPS" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_DAFFF024="IN_AREA" id="GO_TO_AREA" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="INTRO_HIDEOUT_OBJ_SECONDARY_GOAL" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <guards>
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REPEATER_WARN" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_SMOKE" UNK_CA822909="VOL_GUARD_1" UNK_895487CA="1.5" outfit="MP_INTRO_EXCONFED_01" UNK_35DDC98="true" spawn_heading="309.1674" spawn_position="[1785.287, -655.517, 41.643]" UNK_B59BB1D4="15.0" />
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REVOLVER_WARN" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STERNGUY_IDLES" UNK_CA822909="VOL_GUARD_1" UNK_895487CA="1.5" outfit="MP_INTRO_EXCONFED_02" UNK_35DDC98="true" spawn_heading="157.2472" spawn_position="[1772.783, -661.132, 41.645]" UNK_B59BB1D4="15.0" />
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REPEATER_WARN_APPROACH" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_GUARD_SCOUT" UNK_CA822909="VOL_GUARD_2" UNK_7638799D="15000" UNK_726F3B00="12000" UNK_895487CA="1.5" outfit="MP_INTRO_EXCONFED_03" UNK_35DDC98="true" spawn_heading="112.9399" spawn_position="[1761.11, -650.969, 42.069]" UNK_B59BB1D4="15.0" UNK_7BC2D902="net_fetch_intro_rhodes_hideout4_1" UNK_4F2F1B6="false" />
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REVOLVER_WARN_2" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_CLIPBOARD" UNK_CA822909="VOL_GUARD_2" UNK_895487CA="1.5" outfit="MP_INTRO_EXCONFED_04" UNK_35DDC98="true" spawn_heading="264.77" spawn_position="[1776.805, -650.102, 41.646]" UNK_B59BB1D4="15.0" />
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REPEATER_WARN_2" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_SIT_GROUND_WHITTLE" UNK_CA822909="VOL_GUARD_2" UNK_895487CA="1.5" outfit="MP_INTRO_EXCONFED_05" UNK_35DDC98="true" spawn_heading="107.2685" spawn_position="[1790.082, -655.157, 41.614]" UNK_B59BB1D4="15.0" />
+        </guards>
+        <UNK_CAA33602 spawn_position="[1786.54, -654.652, 41.933]" />
+        <UNK_D16E6597>
+          <world_state id="WS_MP_INTRO_HIDEOUT_RHODES" />
+        </UNK_D16E6597>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="INTRO_HIDEOUT_VALENTINE" UNK_7C1FCD5E="MODEL_CONFIG_CUMBERLAND" UNK_21B34E9A="true" UNK_17CC0711="false">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE_INTRO" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_CENTER_BLIP" role="CENTER_BLIP_USE_CENTER_POSITION">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[324.235, 1160.46, 181.128]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[324.078, 1165.77, 189.536]" rotation="[0.0, 0.0, 0.0]" scale="[20.0, 20.0, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_2">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[324.078, 1165.77, 189.536]" rotation="[0.0, 0.0, 0.0]" scale="[180.0, 180.0, 50.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="CLEAR_ALL_PEDS" id="VOL_GUARD_3">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[324.235, 1160.46, 181.128]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 20.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger id="IN_AREA" role="PLAYER_WITHIN_DIST_TO_CENTER_OR_AGGRO" UNK_4B061377="45.0">
+            <UNK_1331CF2C action="SHOW_ALL_PED_BLIPS" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_DAFFF024="IN_AREA" id="GO_TO_AREA" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="INTRO_HIDEOUT_OBJ_SECONDARY_GOAL" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <guards>
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REPEATER_WARN_APPROACH" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_2" UNK_7638799D="15000" UNK_726F3B00="12000" UNK_895487CA="1.5" outfit="MP_INTRO_CRIMINAL_01" UNK_35DDC98="true" spawn_heading="217.1203" spawn_position="[333.326, 1161.288, 180.452]" UNK_B59BB1D4="15.0" UNK_7BC2D902="net_fetch_intro_valentine_hideout2_1" />
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REPEATER_WARN" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_SMOKE" UNK_CA822909="VOL_GUARD_2" UNK_895487CA="1.5" outfit="MP_INTRO_CRIMINAL_02" UNK_35DDC98="true" spawn_heading="275.9591" spawn_position="[312.916, 1167.412, 180.122]" UNK_B59BB1D4="15.0" />
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REVOLVER_WARN" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STERNGUY_IDLES" UNK_CA822909="VOL_GUARD_1" UNK_895487CA="1.5" outfit="MP_INTRO_CRIMINAL_03" UNK_35DDC98="true" spawn_heading="77.0891" spawn_position="[330.952, 1159.437, 180.776]" UNK_B59BB1D4="15.0" />
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REVOLVER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_COFFEE_DRINK" UNK_CA822909="VOL_GUARD_1" UNK_895487CA="1.5" outfit="MP_INTRO_CRIMINAL_04" UNK_35DDC98="true" spawn_heading="213.9477" spawn_position="[324.809, 1158.52, 181.046]" />
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REPEATER_WARN" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_GUARD_SCOUT" UNK_CA822909="VOL_GUARD_2" UNK_895487CA="1.5" outfit="MP_INTRO_CRIMINAL_05" UNK_35DDC98="true" spawn_heading="130.028" spawn_position="[318.732, 1153.718, 181.051]" UNK_B59BB1D4="15.0" />
+        </guards>
+        <UNK_CAA33602 spawn_position="[325.403, 1157.187, 181.479]" />
+        <UNK_D16E6597>
+          <world_state id="WS_MP_INTRO_HIDEOUT_VALENTINE" />
+        </UNK_D16E6597>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="INTRO_HIDEOUT_BLACKWATER" UNK_7C1FCD5E="MODEL_CONFIG_TALL_TREES" UNK_21B34E9A="true" UNK_17CC0711="false">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE_INTRO" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_CENTER_BLIP" role="CENTER_BLIP_USE_CENTER_POSITION">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[-2254.774, -1335.922, 137.3]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 32.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[-2254.774, -1335.922, 137.3]" rotation="[0.0, 0.0, 0.0]" scale="[40.0, 40.0, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_2">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[-2254.774, -1335.922, 137.3]" rotation="[0.0, 0.0, 0.0]" scale="[120.0, 120.0, 50.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="CLEAR_ALL_PEDS" id="VOL_GUARD_3">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[-2254.774, -1335.922, 137.3]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 32.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger id="IN_AREA" role="PLAYER_WITHIN_DIST_TO_CENTER_OR_AGGRO" UNK_4B061377="45.0">
+            <UNK_1331CF2C action="SHOW_ALL_PED_BLIPS" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_DAFFF024="IN_AREA" id="GO_TO_AREA" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="INTRO_HIDEOUT_OBJ_SECONDARY_GOAL" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <guards>
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REVOLVER_WARN" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_SIT_GROUND_WHITTLE" UNK_CA822909="VOL_GUARD_1" UNK_895487CA="1.5" outfit="MP_INTRO_SKINNER_01" UNK_35DDC98="true" spawn_heading="234.7394" spawn_position="[-2257.89, -1331.788, 131.154]" UNK_B59BB1D4="10.0" />
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REPEATER_WARN" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_GUARD_SCOUT" UNK_CA822909="VOL_GUARD_2" UNK_895487CA="1.5" outfit="MP_INTRO_SKINNER_02" UNK_35DDC98="true" spawn_heading="145.3866" spawn_position="[-2261.247, -1356.851, 134.079]" UNK_B59BB1D4="10.0" />
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REPEATER_WARN_APPROACH" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_2" UNK_7638799D="15000" UNK_726F3B00="12000" UNK_895487CA="1.5" outfit="MP_INTRO_SKINNER_03" UNK_35DDC98="true" spawn_heading="97.1539" spawn_position="[-2238.127, -1333.545, 130.544]" UNK_B59BB1D4="10.0" UNK_7BC2D902="net_fetch_intro_blackwater_hideout3_1" />
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REVOLVER_WARN" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_SMOKE" UNK_CA822909="VOL_GUARD_1" UNK_895487CA="1.5" outfit="MP_INTRO_SKINNER_04" UNK_35DDC98="true" spawn_heading="224.3922" spawn_position="[-2255.334, -1322.262, 135.707]" UNK_B59BB1D4="10.0" />
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REVOLVER_WARN" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_COFFEE_DRINK" UNK_CA822909="VOL_GUARD_2" UNK_895487CA="1.5" outfit="MP_INTRO_SKINNER_05" UNK_35DDC98="true" spawn_heading="65.7817" spawn_position="[-2252.43, -1335.008, 131.059]" UNK_B59BB1D4="10.0" />
+        </guards>
+        <UNK_CAA33602 spawn_position="[-2253.877, -1334.267, 131.471]" />
+        <UNK_D16E6597>
+          <world_state id="WS_MP_INTRO_HIDEOUT_BLACKWATER" />
+        </UNK_D16E6597>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="INTRO_HIDEOUT_TUMBLEWEED" UNK_7C1FCD5E="MODEL_CONFIG_NEW_AUSTIN" UNK_21B34E9A="true" UNK_17CC0711="false">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE_INTRO" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_CENTER_BLIP" role="CENTER_BLIP_USE_CENTER_POSITION">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[-5241.207, -3854.639, -1.028]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[-5237.212, -3858.997, 4.332]" rotation="[0.0, 0.0, 0.0]" scale="[45.0, 45.0, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_2">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[-5223.98, -3853.268, 4.332]" rotation="[0.0, 0.0, 0.0]" scale="[145.0, 145.0, 50.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="CLEAR_ALL_PEDS" id="VOL_GUARD_3">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[-5241.207, -3854.639, -1.028]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 30.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger id="IN_AREA" role="PLAYER_WITHIN_DIST_TO_CENTER_OR_AGGRO" UNK_4B061377="45.0">
+            <UNK_1331CF2C action="SHOW_ALL_PED_BLIPS" />
+          </trigger>
+          <trigger id="COMBAT_STARTED" role="SHOULD_GO_AGGRO" />
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_DAFFF024="IN_AREA" id="GO_TO_AREA" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_SECONDARY_GOAL" UNK_EC4B42F9="INTRO_HIDEOUT_OBJ_SECONDARY_GOAL" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <guards>
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REPEATER_WARN_APPROACH" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_2" UNK_7638799D="15000" UNK_726F3B00="12000" UNK_895487CA="1.5" outfit="MP_INTRO_DELLOBO_01" UNK_35DDC98="true" spawn_heading="221.5918" spawn_position="[-5254.471, -3841.098, -2.61]" UNK_B59BB1D4="10.0" UNK_7BC2D902="net_fetch_intro_tumbleweed_hideout1_1" />
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REVOLVER_WARN" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_SMOKE" UNK_CA822909="VOL_GUARD_2" UNK_895487CA="1.5" outfit="MP_INTRO_DELLOBO_02" UNK_35DDC98="true" spawn_heading="265.9681" spawn_position="[-5245.708, -3855.062, -3.919]" UNK_B59BB1D4="10.0" />
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REVOLVER_WARN" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_1" UNK_E691240F="itchy" UNK_895487CA="1.5" outfit="MP_INTRO_DELLOBO_03" UNK_35DDC98="true" spawn_heading="239.1044" spawn_position="[-5248.412, -3850.895, -3.387]" UNK_B59BB1D4="10.0" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="COMBAT_STARTED" type="CLEAR_LOCO_MOTION_TYPE" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REVOLVER_WARN" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_SIT_GROUND_WHITTLE" UNK_CA822909="VOL_GUARD_1" UNK_895487CA="1.5" outfit="MP_INTRO_DELLOBO_04" UNK_35DDC98="true" spawn_heading="17.8814" spawn_position="[-5243.427, -3861.458, -4.059]" UNK_B59BB1D4="10.0" />
+          <guard UNK_15BA74F5="false" UNK_D1AEC922="false" UNK_DD318825="true" UNK_8C18419D="MP_INTRO_BANDIT" config="GUARD_INTRO_REPEATER_WARN" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_PEE" UNK_CA822909="VOL_GUARD_2" UNK_895487CA="1.5" outfit="MP_INTRO_DELLOBO_05" UNK_35DDC98="true" spawn_heading="265.3405" spawn_position="[-5232.647, -3853.564, -4.41]" UNK_B59BB1D4="10.0" />
+        </guards>
+        <UNK_CAA33602 spawn_position="[-5244.505, -3855.389, -3.722]" />
+        <UNK_D16E6597>
+          <world_state id="WS_MP_INTRO_HIDEOUT_TUMBLEWEED" />
+        </UNK_D16E6597>
+      </location>
+    </locations>
+  </data>
+</root>

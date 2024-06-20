@@ -1,0 +1,775 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <activity>
+    <data UNK_DD1EF770="100.0" UNK_C1B9F93E="2.0" UNK_73C7B3FF="45.0" UNK_659FEC65="10" UNK_A0CAF948="45" UNK_E465C294="5" />
+    <locations>
+      <location id="STRAWBERRY">
+        <variations>
+          <variation UNK_4819D8E1="600000" id="CRIMINAL" UNK_8FBF71F1="13" />
+        </variations>
+        <volumes>
+          <volume heading="0" location="[-1803.72, -354.4768, 163.0659]" rotation="[0.0, 0.0, -23.50484]" scale="[3.817259, 2.776295, 4.476044]" UNK_E43D0DDD="SPHERE" type="TURN_IN_AREA" />
+          <volume heading="242.5759" location="[-1812.055, -350.8521, 163.0659]" rotation="[0.0, 0.0, -23.50484]" scale="[6.080678, 10.85105, 11.42057]" UNK_E43D0DDD="BOX" type="TURN_IN_0" />
+          <volume heading="242.5759" location="[-1806.63, -350.9267, 164.9137]" rotation="[0.0, 0.0, -25.64314]" scale="[1.840959, 1.703233, 2.619103]" UNK_E43D0DDD="BOX" type="TURN_IN_1" />
+          <volume heading="18.686" location="[-1812.771, -345.564, 164.9137]" rotation="[0.0, 0.0, -25.64314]" scale="[1.840959, 1.703233, 2.619103]" UNK_E43D0DDD="BOX" type="TURN_IN_2" />
+          <volume heading="0" location="[-1814.847, -439.0443, 159.46]" rotation="[0.0, 0.0, 133.288]" scale="[4.675372, 4.306045, 4.746552]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_3" />
+          <volume heading="0" location="[-1745.087, -393.916, 157.422]" rotation="[0.0, 0.0, -156.6875]" scale="[4.073229, 3.177612, 3.307017]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_4" />
+        </volumes>
+        <vehicles>
+          <vehicle heading="89.0873" location="[-1818.211, -438.8543, 158.8255]" model="WAGONARMOURED01X" />
+          <vehicle heading="347.8457" location="[-1742.37, -389.1812, 156.007]" model="WAGONARMOURED01X" />
+        </vehicles>
+        <peds>
+          <ped heading="277.207" location="[-1811.892, -351.8727, 163.6565]" model="MP_U_M_M_PRISONWAGON_01" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+          <ped heading="201.512" location="[-1813.676, -437.3898, 158.15]" model="MP_U_M_M_PRISONWAGON_02" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+          <ped heading="129.6695" location="[-1744.276, -390.1898, 155.7449]" model="MP_U_M_M_PRISONWAGON_03" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+        </peds>
+        <UNK_F4C7EDBE>
+          <UNK_C34F88A4 heading="129.6695" id="0" location="[-1753.914, -398.5291, 154.8166]" />
+          <UNK_C34F88A4 heading="201.512" id="1" location="[-1813.142, -447.2012, 157.4162]" />
+          <UNK_C34F88A4 heading="68.384" id="2" location="[-1821.164, -332.0872, 175.6412]" />
+          <UNK_C34F88A4 heading="201.512" id="3" location="[-1867.837, -346.7195, 176.5049]" />
+        </UNK_F4C7EDBE>
+        <UNK_5D5322CA>
+          <UNK_3FCE8DD6 heading="61.2348" id="0" location="[-1823.261, -426.0242, 159.1992]" />
+          <UNK_3FCE8DD6 heading="341.5722" id="1" location="[-1816.805, -421.296, 159.0028]" />
+          <UNK_3FCE8DD6 heading="329.5722" id="2" location="[-1805.422, -427.1202, 157.9483]" />
+          <UNK_3FCE8DD6 heading="95.5722" id="3" location="[-1786.822, -404.7714, 155.6983]" />
+          <UNK_3FCE8DD6 heading="251.5324" id="4" location="[-1773.791, -381.0169, 157.3847]" />
+          <UNK_3FCE8DD6 heading="125.5324" id="5" location="[-1778.392, -361.1569, 160.2096]" />
+          <UNK_3FCE8DD6 heading="145.5324" id="6" location="[-1795.227, -397.9077, 160.0679]" />
+          <UNK_3FCE8DD6 heading="393.5324" id="7" location="[-1799.846, -384.9073, 159.5679]" />
+          <UNK_3FCE8DD6 heading="205.5324" id="8" location="[-1812.128, -366.869, 162.5679]" />
+          <UNK_3FCE8DD6 heading="0.0" id="9" location="[-1820.386, -377.1029, 162.6288]" />
+          <UNK_3FCE8DD6 heading="169.2215" id="10" location="[-1818.739, -370.8976, 166.1288]" />
+          <UNK_3FCE8DD6 heading="81.2215" id="11" location="[-1790.123, -359.5887, 164.3788]" />
+          <UNK_3FCE8DD6 heading="25.2215" id="12" location="[-1790.543, -389.6006, 159.8788]" />
+          <UNK_3FCE8DD6 heading="0.0" id="13" location="[-1794.306, -384.0215, 159.6169]" />
+          <UNK_3FCE8DD6 heading="0.0" id="14" location="[-1750.479, -457.832, 165.6231]" />
+        </UNK_5D5322CA>
+        <UNK_FEDC7694>
+          <UNK_556CF385 id="0" location="[-1859.922, -416.1039, 168.4]" type="HUMAN" />
+          <UNK_556CF385 id="1" location="[-1853.937, -396.9532, 168.5486]" type="HUMAN" />
+          <UNK_556CF385 id="2" location="[-1811.701, -413.9648, 158.9522]" type="HUMAN" />
+          <UNK_556CF385 id="3" location="[-1829.97, -372.2207, 165.6981]" type="HUMAN" />
+          <UNK_556CF385 id="4" location="[-1833.79, -331.1203, 176.3474]" type="HUMAN" />
+          <UNK_556CF385 id="5" location="[-1785.051, -381.1181, 157.3866]" type="HUMAN" />
+          <UNK_556CF385 id="6" location="[-1780.349, -361.6114, 159.8533]" type="HUMAN" />
+          <UNK_556CF385 id="7" location="[-1769.449, -442.4705, 154.398]" type="HUMAN" />
+          <UNK_556CF385 id="8" location="[-1822.738, -482.5192, 169.1031]" type="HUMAN" />
+          <UNK_556CF385 id="9" location="[-1759.275, -458.4718, 165.2372]" type="HUMAN" />
+          <UNK_556CF385 id="10" location="[-1770.99, -437.2771, 154.0939]" type="HUMAN" />
+          <UNK_556CF385 id="11" location="[-1758.029, -356.3216, 169.9664]" type="HUMAN" />
+          <UNK_556CF385 id="12" location="[-1761.575, -309.8633, 179.1062]" type="HUMAN" />
+          <UNK_556CF385 id="13" location="[-1899.817, -457.7458, 176.8617]" type="HUMAN" />
+          <UNK_556CF385 id="14" location="[-1811.626, -300.0469, 170.0734]" type="HUMAN" />
+          <UNK_556CF385 id="15" location="[-1704.604, -355.7871, 175.357]" type="HUMAN" />
+          <UNK_556CF385 id="16" location="[-1766.185, -374.7065, 157.0471]" type="HUMAN" />
+          <UNK_556CF385 id="17" location="[-1817.203, -396.8277, 160.5946]" type="HUMAN" />
+          <UNK_556CF385 id="18" location="[-1791.344, -440.7239, 154.7146]" type="HUMAN" />
+          <UNK_556CF385 id="19" location="[-1767.089, -401.2213, 155.1117]" type="HUMAN" />
+          <UNK_556CF385 id="20" location="[-1859.355, -488.9947, 175.1117]" type="HUMAN" />
+        </UNK_FEDC7694>
+        <UNK_F0610DEC>
+          <UNK_E8D09754 id="0" location="[-1768.65, -378.933, 156.4937]" />
+          <UNK_E8D09754 id="1" location="[-1773.194, -363.2577, 159.1327]" />
+          <UNK_E8D09754 id="2" location="[-1786.684, -393.1329, 156.8885]" />
+          <UNK_E8D09754 id="3" location="[-1820.185, -374.4689, 162.2944]" />
+          <UNK_E8D09754 id="4" location="[-1820.081, -367.4369, 165.5061]" />
+          <UNK_E8D09754 id="5" location="[-1812.666, -369.1318, 165.4997]" />
+          <UNK_E8D09754 id="6" location="[-1808.782, -369.6916, 165.3688]" />
+          <UNK_E8D09754 id="7" location="[-1795.863, -387.9489, 159.2712]" />
+          <UNK_E8D09754 id="8" location="[-1837.746, -399.9742, 161.2028]" />
+          <UNK_E8D09754 id="9" location="[-1843.542, -408.353, 160.8435]" />
+          <UNK_E8D09754 id="10" location="[-1768.699, -442.1275, 154.1363]" />
+          <UNK_E8D09754 id="11" location="[-1852.28, -398.6985, 168.2032]" />
+          <UNK_E8D09754 id="12" location="[-1885.602, -339.4126, 181.6071]" />
+          <UNK_E8D09754 id="13" location="[-1829.92, -336.0595, 172.0959]" />
+          <UNK_E8D09754 id="14" location="[-1804.877, -221.5103, 188.6129]" />
+          <UNK_E8D09754 id="15" location="[-1695.745, -344.2952, 174.4078]" />
+          <UNK_E8D09754 id="16" location="[-1670.28, -400.6005, 168.2699]" />
+          <UNK_E8D09754 id="17" location="[-1754.703, -453.3124, 165.1711]" />
+        </UNK_F0610DEC>
+        <UNK_32EA3E07>
+          <UNK_C696CD8C id="0" location="[-1737.778, -370.5573, 168.1743]" />
+          <UNK_C696CD8C id="1" location="[-1769.595, -351.9293, 170.1699]" />
+          <UNK_C696CD8C id="2" location="[-1808.061, -370.9467, 165.3653]" />
+          <UNK_C696CD8C id="3" location="[-1823.601, -357.7737, 168.5181]" />
+          <UNK_C696CD8C id="4" location="[-1860.821, -412.4812, 167.8768]" />
+          <UNK_C696CD8C id="5" location="[-1750.264, -447.9712, 164.8909]" />
+          <UNK_C696CD8C id="6" location="[-1795.539, -397.3777, 159.2981]" />
+          <UNK_C696CD8C id="7" location="[-1766.974, -411.2223, 159.8596]" />
+          <UNK_C696CD8C id="8" location="[-1803.039, -288.0822, 183.6723]" />
+        </UNK_32EA3E07>
+        <UNK_3BB69D55>
+          <UNK_5D778CFC heading="80.349" id="0" location="[-1756.505, -399.8879, 154.7228]" />
+          <UNK_5D778CFC heading="184.56" id="1" location="[-1798.876, -327.1811, 166.1641]" />
+          <UNK_5D778CFC heading="242.6625" id="2" location="[-1873.183, -424.7151, 162.8886]" />
+          <UNK_5D778CFC heading="16.8721" id="3" location="[-1794.14, -475.7251, 162.5964]" />
+        </UNK_3BB69D55>
+        <UNK_D14204F6>
+          <UNK_E55446E7 id="0" waypoint="mp_escaped_convicts_str_gatling_track_01" />
+          <UNK_E55446E7 id="1" waypoint="mp_escaped_convicts_str_gatling_track_02" />
+        </UNK_D14204F6>
+      </location>
+      <location id="RHODES">
+        <variations>
+          <variation UNK_4819D8E1="600000" id="CRIMINAL" UNK_8FBF71F1="13" />
+        </variations>
+        <volumes>
+          <volume heading="0" location="[1368.944, -1298.951, 76.19679]" rotation="[0.0, 0.0, -19.49914]" scale="[3.89862, 3.7208, 3.459596]" UNK_E43D0DDD="SPHERE" type="TURN_IN_AREA" />
+          <volume heading="170.8375" location="[1360.746, -1301.565, 77.95844]" rotation="[0.0, 0.0, -19.49914]" scale="[5.414611, 8.826703, 8.635854]" UNK_E43D0DDD="BOX" type="TURN_IN_0" />
+          <volume heading="170.8375" location="[1359.121, -1306.039, 77.68295]" rotation="[0.0, 0.0, -17.13566]" scale="[1.488831, 1.669846, 2.983796]" UNK_E43D0DDD="BOX" type="TURN_IN_1" />
+          <volume heading="69.5851" location="[1358.659, -1297.918, 77.95144]" rotation="[0.0, 0.0, 162.0012]" scale="[1.21236, 1.205942, 2.657417]" UNK_E43D0DDD="BOX" type="TURN_IN_2" />
+          <volume heading="0.0" location="[1374.693, -1219.385, 83.19341]" rotation="[0.0, 0.0, 0.0]" scale="[1.942315, 1.824938, 2.190405]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_3" />
+          <volume heading="0.0" location="[1358.433, -1357.743, 77.51193]" rotation="[0.0, 0.0, 0.0]" scale="[2.029429, 1.834664, 2.765837]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_4" />
+        </volumes>
+        <vehicles>
+          <vehicle heading="204.836" location="[1359.271, -1361.245, 77.8106]" model="WAGONARMOURED01X" />
+          <vehicle heading="95.2122" location="[1370.982, -1219.901, 82.0785]" model="WAGONARMOURED01X" />
+        </vehicles>
+        <peds>
+          <ped heading="79.8279" location="[1359.429, -1356.821, 77.5543]" model="MP_U_M_M_PRISONWAGON_04" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+          <ped heading="227.0017" location="[1376.0, -1218.615, 81.6235]" model="MP_U_M_M_PRISONWAGON_05" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+          <ped heading="293.8096" location="[1357.169, -1304.463, 76.7606]" model="MP_U_M_M_PRISONWAGON_06" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+        </peds>
+        <UNK_F4C7EDBE>
+          <UNK_C34F88A4 heading="79.8279" id="0" location="[1357.452, -1351.006, 77.086]" />
+          <UNK_C34F88A4 heading="293.8096" id="1" location="[1368.176, -1286.006, 76.1636]" />
+          <UNK_C34F88A4 heading="227.0017" id="2" location="[1370.74, -1225.615, 81.629]" />
+          <UNK_C34F88A4 heading="0.0" id="3" location="[1281.187, -1210.007, 81.3304]" />
+        </UNK_F4C7EDBE>
+        <UNK_5D5322CA>
+          <UNK_3FCE8DD6 heading="80.7972" id="0" location="[1350.141, -1343.447, 77.4058]" />
+          <UNK_3FCE8DD6 heading="184.7972" id="1" location="[1311.649, -1357.708, 77.1558]" />
+          <UNK_3FCE8DD6 heading="404.7972" id="2" location="[1343.439, -1377.314, 79.6558]" />
+          <UNK_3FCE8DD6 heading="424.5396" id="3" location="[1343.214, -1378.171, 79.7306]" />
+          <UNK_3FCE8DD6 heading="172.5396" id="4" location="[1340.213, -1372.059, 79.7306]" />
+          <UNK_3FCE8DD6 heading="434.5396" id="5" location="[1329.06, -1367.645, 83.9806]" />
+          <UNK_3FCE8DD6 heading="82.0183" id="6" location="[1327.687, -1322.396, 77.8108]" />
+          <UNK_3FCE8DD6 heading="158.0183" id="7" location="[1345.203, -1304.417, 77.3108]" />
+          <UNK_3FCE8DD6 heading="106.0183" id="8" location="[1244.862, -1315.397, 76.5608]" />
+          <UNK_3FCE8DD6 heading="0.0" id="9" location="[1229.565, -1289.843, 76.1526]" />
+          <UNK_3FCE8DD6 heading="135.3186" id="10" location="[1221.145, -1293.583, 76.4038]" />
+          <UNK_3FCE8DD6 heading="428.9906" id="11" location="[1324.478, -1283.895, 76.1533]" />
+          <UNK_3FCE8DD6 heading="39.6975" id="12" location="[1281.418, -1215.982, 82.4178]" />
+          <UNK_3FCE8DD6 heading="0.0" id="13" location="[1300.715, -1301.721, 75.9462]" />
+          <UNK_3FCE8DD6 heading="5.4105" id="14" location="[1323.876, -1315.283, 77.2365]" />
+        </UNK_5D5322CA>
+        <UNK_FEDC7694>
+          <UNK_556CF385 id="0" location="[1351.196, -1339.677, 78.1868]" type="HUMAN" />
+          <UNK_556CF385 id="1" location="[1322.958, -1351.432, 77.9058]" type="HUMAN" />
+          <UNK_556CF385 id="2" location="[1363.256, -1378.891, 78.2459]" type="HUMAN" />
+          <UNK_556CF385 id="3" location="[1391.428, -1369.729, 79.592]" type="HUMAN" />
+          <UNK_556CF385 id="4" location="[1375.704, -1301.104, 75.8869]" type="HUMAN" />
+          <UNK_556CF385 id="5" location="[1399.983, -1279.387, 77.5961]" type="HUMAN" />
+          <UNK_556CF385 id="6" location="[1357.946, -1283.756, 78.6558]" type="HUMAN" />
+          <UNK_556CF385 id="7" location="[1339.424, -1246.783, 78.4058]" type="HUMAN" />
+          <UNK_556CF385 id="8" location="[1296.472, -1245.217, 79.0682]" type="HUMAN" />
+          <UNK_556CF385 id="9" location="[1285.277, -1342.926, 76.9161]" type="HUMAN" />
+          <UNK_556CF385 id="10" location="[1246.296, -1283.945, 75.0994]" type="HUMAN" />
+          <UNK_556CF385 id="11" location="[1193.596, -1294.877, 74.9058]" type="HUMAN" />
+          <UNK_556CF385 id="12" location="[1246.393, -1181.215, 79.9058]" type="HUMAN" />
+          <UNK_556CF385 id="13" location="[1336.949, -1309.67, 76.1558]" type="HUMAN" />
+          <UNK_556CF385 id="14" location="[1367.939, -1416.839, 78.6558]" type="HUMAN" />
+          <UNK_556CF385 id="15" location="[1388.749, -1339.398, 77.6558]" type="HUMAN" />
+          <UNK_556CF385 id="16" location="[1314.396, -1321.835, 76.2378]" type="HUMAN" />
+          <UNK_556CF385 id="17" location="[1300.046, -1286.677, 76.6558]" type="HUMAN" />
+          <UNK_556CF385 id="18" location="[1448.268, -1291.221, 78.1558]" type="HUMAN" />
+          <UNK_556CF385 id="19" location="[1196.976, -1243.532, 74.1558]" type="HUMAN" />
+          <UNK_556CF385 id="20" location="[1224.641, -1344.592, 72.4058]" type="HUMAN" />
+        </UNK_FEDC7694>
+        <UNK_F0610DEC>
+          <UNK_E8D09754 id="0" location="[1334.768, -1371.123, 83.2963]" />
+          <UNK_E8D09754 id="1" location="[1351.774, -1377.003, 83.2893]" />
+          <UNK_E8D09754 id="2" location="[1353.475, -1380.733, 83.3711]" />
+          <UNK_E8D09754 id="3" location="[1348.744, -1381.757, 79.4806]" />
+          <UNK_E8D09754 id="4" location="[1332.422, -1376.645, 79.4877]" />
+          <UNK_E8D09754 id="5" location="[1330.546, -1372.406, 79.4902]" />
+          <UNK_E8D09754 id="6" location="[1311.072, -1354.722, 77.0279]" />
+          <UNK_E8D09754 id="7" location="[1402.446, -1286.384, 77.1758]" />
+          <UNK_E8D09754 id="8" location="[1411.649, -1281.412, 77.1758]" />
+          <UNK_E8D09754 id="9" location="[1430.232, -1289.365, 76.9866]" />
+          <UNK_E8D09754 id="10" location="[1327.741, -1321.864, 76.8877]" />
+          <UNK_E8D09754 id="11" location="[1325.759, -1327.475, 76.8842]" />
+          <UNK_E8D09754 id="12" location="[1372.605, -1293.661, 76.532]" />
+          <UNK_E8D09754 id="13" location="[1362.935, -1268.144, 76.9328]" />
+          <UNK_E8D09754 id="14" location="[1355.287, -1248.271, 78.9412]" />
+          <UNK_E8D09754 id="15" location="[1231.128, -1293.84, 75.9052]" />
+        </UNK_F0610DEC>
+        <UNK_32EA3E07>
+          <UNK_C696CD8C id="0" location="[1203.779, -1276.58, 80.5247]" />
+          <UNK_C696CD8C id="1" location="[1329.773, -1287.645, 79.2202]" />
+          <UNK_C696CD8C id="2" location="[1332.729, -1295.696, 79.2202]" />
+          <UNK_C696CD8C id="3" location="[1330.297, -1366.935, 83.3068]" />
+          <UNK_C696CD8C id="4" location="[1297.144, -1303.126, 80.9754]" />
+          <UNK_C696CD8C id="5" location="[1279.182, -1309.444, 80.9743]" />
+          <UNK_C696CD8C id="6" location="[1407.017, -1288.725, 79.9211]" />
+          <UNK_C696CD8C id="7" location="[1353.803, -1381.721, 83.3769]" />
+        </UNK_32EA3E07>
+        <UNK_3BB69D55>
+          <UNK_5D778CFC heading="204.8739" id="0" location="[1363.506, -1179.486, 80.9687]" />
+          <UNK_5D778CFC heading="359.1179" id="1" location="[1410.146, -1371.959, 80.5151]" />
+          <UNK_5D778CFC heading="252.5865" id="2" location="[1210.205, -1177.7, 76.7279]" />
+          <UNK_5D778CFC heading="58.9416" id="3" location="[1451.488, -1240.905, 73.1056]" />
+        </UNK_3BB69D55>
+        <UNK_D14204F6>
+          <UNK_E55446E7 id="0" waypoint="mp_escaped_convicts_rho_gatling_track_01" />
+          <UNK_E55446E7 id="1" waypoint="mp_escaped_convicts_rho_gatling_track_02" />
+        </UNK_D14204F6>
+      </location>
+      <location id="SAINT_DENIS">
+        <variations>
+          <variation UNK_4819D8E1="600000" id="CRIMINAL" UNK_8FBF71F1="13" />
+        </variations>
+        <volumes>
+          <volume heading="0" location="[2484.961, -1306.318, 47.92684]" rotation="[0.0, 0.0, 0.0]" scale="[5.283313, 5.063001, 5.178744]" UNK_E43D0DDD="SPHERE" type="TURN_IN_AREA" />
+          <volume heading="275.7973" location="[2505.681, -1308.829, 53.32609]" rotation="[0.0, 0.0, 0.0]" scale="[21.50327, 14.7768, 28.22059]" UNK_E43D0DDD="BOX" type="TURN_IN_0" />
+          <volume heading="275.7973" location="[2492.963, -1308.732, 49.70721]" rotation="[0.0, 0.0, 0.0]" scale="[3.055202, 7.421735, 4.615708]" UNK_E43D0DDD="BOX" type="TURN_IN_1" />
+          <volume heading="101.3064" location="[2516.988, -1308.732, 50.06729]" rotation="[0.0, 0.0, 0.0]" scale="[3.055202, 4.019731, 4.615708]" UNK_E43D0DDD="BOX" type="TURN_IN_2" />
+          <volume heading="0" location="[2686.02, -1117.895, 50.17287]" rotation="[0.0, 0.0, -162.7936]" scale="[4.813419, 2.481903, 2.597217]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_3" />
+          <volume heading="0" location="[2721.692, -1252.002, 50.17287]" rotation="[0.0, 0.0, -162.7936]" scale="[4.813419, 2.481903, 2.597217]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_4" />
+        </volumes>
+        <vehicles>
+          <vehicle heading="234.8943" location="[2724.492, -1252.609, 48.9052]" model="WAGONARMOURED01X" />
+          <vehicle heading="21.275" location="[2683.024, -1116.357, 49.6782]" model="WAGONARMOURED01X" />
+        </vehicles>
+        <peds>
+          <ped heading="272.1303" location="[2494.148, -1308.792, 47.9537]" model="S_M_M_AMBIENTSDPOLICE_01" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+          <ped heading="68.3234" location="[2721.594, -1253.291, 48.9126]" model="MP_U_M_M_PRISONWAGON_03" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+          <ped heading="160.5662" location="[2691.132, -1115.757, 49.6782]" model="MP_U_M_M_PRISONWAGON_05" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+        </peds>
+        <UNK_F4C7EDBE>
+          <UNK_C34F88A4 heading="85.1733" id="0" location="[2484.262, -1318.062, 47.8658]" />
+          <UNK_C34F88A4 heading="74.6441" id="1" location="[2687.991, -1125.272, 49.6754]" />
+          <UNK_C34F88A4 heading="47.4968" id="2" location="[2711.24, -1244.411, 49.0861]" />
+          <UNK_C34F88A4 heading="0.0" id="3" location="[2563.481, -1202.377, 52.9157]" />
+        </UNK_F4C7EDBE>
+        <UNK_5D5322CA>
+          <UNK_3FCE8DD6 heading="109.8382" id="0" location="[2622.33, -1224.141, 58.9406]" />
+          <UNK_3FCE8DD6 heading="262.7535" id="1" location="[2637.898, -1224.958, 53.1178]" />
+          <UNK_3FCE8DD6 heading="87.8282" id="2" location="[2638.895, -1230.12, 53.0534]" />
+          <UNK_3FCE8DD6 heading="276.1748" id="3" location="[2661.4, -1203.13, 53.5492]" />
+          <UNK_3FCE8DD6 heading="322.3978" id="4" location="[2566.621, -1207.928, 53.7603]" />
+          <UNK_3FCE8DD6 heading="111.6625" id="5" location="[2633.053, -1289.718, 51.4642]" />
+          <UNK_3FCE8DD6 heading="374.2809" id="6" location="[2646.06, -1244.091, 52.5482]" />
+          <UNK_3FCE8DD6 heading="281.0265" id="7" location="[2664.863, -1230.29, 52.4648]" />
+          <UNK_3FCE8DD6 heading="453.9041" id="8" location="[2716.335, -1172.304, 50.3828]" />
+          <UNK_3FCE8DD6 heading="0.0" id="9" location="[2687.957, -1307.926, 48.4197]" />
+          <UNK_3FCE8DD6 heading="7.411" id="10" location="[2699.201, -1337.141, 48.6139]" />
+          <UNK_3FCE8DD6 heading="136.128" id="11" location="[2737.2, -1349.911, 46.6157]" />
+          <UNK_3FCE8DD6 heading="302.6146" id="12" location="[2706.538, -1407.731, 46.122]" />
+          <UNK_3FCE8DD6 heading="0.0" id="13" location="[2651.405, -1442.009, 45.7514]" />
+          <UNK_3FCE8DD6 heading="275.6028" id="14" location="[2565.581, -1310.197, 48.4088]" />
+        </UNK_5D5322CA>
+        <UNK_FEDC7694>
+          <UNK_556CF385 id="0" location="[2492.72, -1337.567, 46.6116]" type="HUMAN" />
+          <UNK_556CF385 id="1" location="[2561.046, -1339.305, 47.1462]" type="HUMAN" />
+          <UNK_556CF385 id="2" location="[2505.144, -1234.855, 49.2732]" type="HUMAN" />
+          <UNK_556CF385 id="3" location="[2545.471, -1224.265, 53.185]" type="HUMAN" />
+          <UNK_556CF385 id="4" location="[2596.35, -1263.22, 52.6953]" type="HUMAN" />
+          <UNK_556CF385 id="5" location="[2650.739, -1270.938, 52.7473]" type="HUMAN" />
+          <UNK_556CF385 id="6" location="[2730.013, -1287.223, 50.6035]" type="HUMAN" />
+          <UNK_556CF385 id="7" location="[2705.79, -1213.844, 52.2345]" type="HUMAN" />
+          <UNK_556CF385 id="8" location="[2705.62, -1067.564, 46.1405]" type="HUMAN" />
+          <UNK_556CF385 id="9" location="[2725.803, -1080.625, 47.7346]" type="HUMAN" />
+          <UNK_556CF385 id="10" location="[2665.981, -1173.986, 52.1405]" type="HUMAN" />
+          <UNK_556CF385 id="11" location="[2646.877, -1212.752, 54.3568]" type="HUMAN" />
+          <UNK_556CF385 id="12" location="[2653.722, -1354.404, 49.8833]" type="HUMAN" />
+          <UNK_556CF385 id="13" location="[2736.575, -1378.895, 45.5545]" type="HUMAN" />
+          <UNK_556CF385 id="14" location="[2666.359, -1415.715, 45.8719]" type="HUMAN" />
+          <UNK_556CF385 id="15" location="[2603.212, -1176.129, 53.2027]" type="HUMAN" />
+          <UNK_556CF385 id="16" location="[2539.396, -1145.001, 50.1104]" type="HUMAN" />
+          <UNK_556CF385 id="17" location="[2747.086, -1220.854, 48.9918]" type="HUMAN" />
+          <UNK_556CF385 id="18" location="[2773.149, -1248.279, 49.768]" type="HUMAN" />
+          <UNK_556CF385 id="19" location="[2809.437, -1225.63, 46.9539]" type="HUMAN" />
+          <UNK_556CF385 id="20" location="[2788.726, -1260.182, 46.9539]" type="HUMAN" />
+        </UNK_FEDC7694>
+        <UNK_F0610DEC>
+          <UNK_E8D09754 id="0" location="[2640.315, -1226.566, 52.3804]" />
+          <UNK_E8D09754 id="1" location="[2636.932, -1227.845, 58.5866]" />
+          <UNK_E8D09754 id="2" location="[2636.932, -1227.845, 58.5866]" />
+          <UNK_E8D09754 id="3" location="[2636.443, -1222.693, 58.5864]" />
+          <UNK_E8D09754 id="4" location="[2645.25, -1205.301, 52.3588]" />
+          <UNK_E8D09754 id="5" location="[2637.615, -1196.767, 52.3459]" />
+          <UNK_E8D09754 id="6" location="[2648.73, -1172.265, 52.2014]" />
+          <UNK_E8D09754 id="7" location="[2680.838, -1183.717, 56.3542]" />
+          <UNK_E8D09754 id="8" location="[2683.784, -1190.351, 56.3168]" />
+          <UNK_E8D09754 id="9" location="[2683.685, -1186.944, 60.5253]" />
+          <UNK_E8D09754 id="10" location="[2688.159, -1167.133, 49.8824]" />
+          <UNK_E8D09754 id="11" location="[2731.726, -1159.706, 48.3537]" />
+          <UNK_E8D09754 id="12" location="[2733.689, -1182.656, 48.2367]" />
+          <UNK_E8D09754 id="13" location="[2730.485, -1181.914, 51.9567]" />
+          <UNK_E8D09754 id="14" location="[2731.427, -1214.275, 48.6663]" />
+          <UNK_E8D09754 id="15" location="[2651.18, -1245.933, 51.4162]" />
+          <UNK_E8D09754 id="16" location="[2664.572, -1228.635, 52.2685]" />
+          <UNK_E8D09754 id="17" location="[2658.117, -1231.895, 56.5803]" />
+          <UNK_E8D09754 id="18" location="[2628.995, -1235.073, 58.6092]" />
+          <UNK_E8D09754 id="19" location="[2770.449, -1299.716, 46.4645]" />
+          <UNK_E8D09754 id="20" location="[2780.484, -1309.123, 45.5924]" />
+          <UNK_E8D09754 id="21" location="[2774.337, -1232.601, 47.4203]" />
+          <UNK_E8D09754 id="22" location="[2796.101, -1196.522, 46.7283]" />
+          <UNK_E8D09754 id="23" location="[2734.241, -1059.978, 45.9019]" />
+          <UNK_E8D09754 id="24" location="[2677.001, -1053.269, 46.491]" />
+          <UNK_E8D09754 id="25" location="[2684.988, -1101.068, 48.2662]" />
+          <UNK_E8D09754 id="26" location="[2714.202, -1082.22, 46.3439]" />
+          <UNK_E8D09754 id="27" location="[2737.728, -1085.051, 46.1557]" />
+          <UNK_E8D09754 id="28" location="[2769.466, -1140.542, 49.359]" />
+          <UNK_E8D09754 id="29" location="[2774.443, -1125.474, 46.4768]" />
+        </UNK_F0610DEC>
+        <UNK_32EA3E07>
+          <UNK_C696CD8C id="0" location="[2630.097, -1216.884, 58.6092]" />
+          <UNK_C696CD8C id="1" location="[2646.351, -1195.949, 56.523]" />
+          <UNK_C696CD8C id="2" location="[2684.024, -1186.733, 56.3173]" />
+          <UNK_C696CD8C id="3" location="[2730.034, -1183.339, 51.9639]" />
+          <UNK_C696CD8C id="4" location="[2742.729, -1125.906, 49.8279]" />
+          <UNK_C696CD8C id="5" location="[2750.303, -1135.508, 50.977]" />
+          <UNK_C696CD8C id="6" location="[2769.804, -1134.422, 53.7045]" />
+          <UNK_C696CD8C id="7" location="[2662.772, -1275.608, 63.4955]" />
+          <UNK_C696CD8C id="8" location="[2652.036, -1279.908, 63.4783]" />
+          <UNK_C696CD8C id="9" location="[2684.65, -1283.303, 64.136]" />
+          <UNK_C696CD8C id="10" location="[2705.046, -1290.336, 59.3452]" />
+        </UNK_32EA3E07>
+        <UNK_3BB69D55>
+          <UNK_5D778CFC heading="108.9018" id="0" location="[2706.086, -1139.462, 49.5009]" />
+          <UNK_5D778CFC heading="185.033" id="1" location="[2496.964, -1186.979, 48.348]" />
+          <UNK_5D778CFC heading="318.5555" id="2" location="[2591.972, -1343.831, 46.8641]" />
+          <UNK_5D778CFC heading="9.8478" id="3" location="[2709.469, -1209.129, 50.7954]" />
+        </UNK_3BB69D55>
+        <UNK_D14204F6>
+          <UNK_E55446E7 id="0" waypoint="mp_escaped_convicts_snt_gatling_track_01" />
+          <UNK_E55446E7 id="1" waypoint="mp_escaped_convicts_snt_gatling_track_02" />
+        </UNK_D14204F6>
+      </location>
+      <location id="VALENTINE">
+        <variations>
+          <variation UNK_4819D8E1="600000" id="CRIMINAL" UNK_8FBF71F1="13" />
+        </variations>
+        <vehicles>
+          <vehicle heading="240.6403" location="[-234.1738, 696.4331, 112.5041]" model="WAGONARMOURED01X" />
+          <vehicle heading="190.5573" location="[-309.2206, 730.1961, 116.9683]" model="WAGONARMOURED01X" />
+        </vehicles>
+        <peds>
+          <ped heading="334.001" location="[-311.0569, 732.6093, 116.8764]" model="MP_U_M_M_PRISONWAGON_02" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+          <ped heading="34.1536" location="[-237.8066, 696.4416, 112.4574]" model="MP_U_M_M_PRISONWAGON_04" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+          <ped heading="229.7868" location="[-277.8644, 809.8544, 118.38]" model="MP_U_M_M_PRISONWAGON_06" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+        </peds>
+        <volumes>
+          <volume heading="0" location="[-277.558, 816.981, 117.3094]" rotation="[0.0, 0.0, -80.19949]" scale="[4.282797, 3.775241, 5.012273]" UNK_E43D0DDD="SPHERE" type="TURN_IN_AREA" />
+          <volume heading="185.8065" location="[-277.2395, 807.0722, 120.125]" rotation="[0.0, 0.0, -80.19949]" scale="[9.38054, 5.201645, 10.00354]" UNK_E43D0DDD="BOX" type="TURN_IN_0" />
+          <volume heading="185.8065" location="[-275.4324, 802.5247, 119.605]" rotation="[0.0, 0.0, 1.803655]" scale="[1.306854, 1.742066, 2.644764]" UNK_E43D0DDD="BOX" type="TURN_IN_1" />
+          <volume heading="6.5657" location="[-276.4529, 811.954, 119.605]" rotation="[0.0, 0.0, 13.37907]" scale="[1.306854, 1.742066, 2.644764]" UNK_E43D0DDD="BOX" type="TURN_IN_2" />
+          <volume heading="0" location="[-309.3414, 735.7113, 117.7396]" rotation="[0.0, 0.0, 0.0]" scale="[4.675372, 4.306045, 4.746552]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_3" />
+          <volume heading="0" location="[-239.8286, 699.592, 113.6016]" rotation="[0.0, 0.0, 145.3287]" scale="[4.808563, 4.651253, 3.457328]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_4" />
+        </volumes>
+        <UNK_F4C7EDBE>
+          <UNK_C34F88A4 heading="246.0855 " id="0" location="[-288.1909, 729.139, 115.81]" />
+          <UNK_C34F88A4 heading="141.3489" id="1" location="[-214.5341, 720.1699, 116.5699]" />
+          <UNK_C34F88A4 heading="86.1689" id="2" location="[-279.26, 832.2612, 118.3396]" />
+          <UNK_C34F88A4 heading="0.0" id="3" location="[-367.6371, 734.8359, 115.4683]" />
+        </UNK_F4C7EDBE>
+        <UNK_5D5322CA>
+          <UNK_3FCE8DD6 heading="0.0" id="0" location="[-240.6014, 770.0054, 117.3843]" />
+          <UNK_3FCE8DD6 heading="78.5981" id="1" location="[-244.4127, 769.0822, 117.3415]" />
+          <UNK_3FCE8DD6 heading="114.1149" id="2" location="[-242.4923, 753.6624, 117.5905]" />
+          <UNK_3FCE8DD6 heading="101.6622" id="3" location="[-311.1881, 806.1672, 118.9797]" />
+          <UNK_3FCE8DD6 heading="95.6641" id="4" location="[-303.265, 804.2336, 118.2297]" />
+          <UNK_3FCE8DD6 heading="369.8051" id="5" location="[-309.0935, 803.7764, 121.2308]" />
+          <UNK_3FCE8DD6 heading="11.3479" id="6" location="[-294.5942, 774.8903, 121.7307]" />
+          <UNK_3FCE8DD6 heading="189.6897" id="7" location="[-320.0632, 757.396, 121.1074]" />
+          <UNK_3FCE8DD6 heading="0.0" id="8" location="[-355.2533, 740.3076, 116.7905]" />
+          <UNK_3FCE8DD6 heading="152.5309" id="9" location="[-356.834, 699.3665, 116.3851]" />
+          <UNK_3FCE8DD6 heading="102.5946" id="10" location="[-192.8072, 626.3953, 113.1861]" />
+          <UNK_3FCE8DD6 heading="239.8455" id="11" location="[-167.3458, 636.6022, 114.0321]" />
+          <UNK_3FCE8DD6 heading="39.0902" id="12" location="[-183.6254, 629.51, 113.5321]" />
+          <UNK_3FCE8DD6 heading="103.1875" id="13" location="[-275.2977, 738.935, 116.5321]" />
+          <UNK_3FCE8DD6 heading="0.0" id="14" location="[-292.4961, 747.6235, 117.4518]" />
+        </UNK_5D5322CA>
+        <UNK_FEDC7694>
+          <UNK_556CF385 id="0" location="[-166.2794, 630.9981, 114.0321]" type="HUMAN" />
+          <UNK_556CF385 id="1" location="[-202.7988, 624.7264, 114.0321]" type="HUMAN" />
+          <UNK_556CF385 id="2" location="[-178.331, 693.593, 119.2821]" type="HUMAN" />
+          <UNK_556CF385 id="3" location="[-238.4223, 652.2684, 113.5897]" type="HUMAN" />
+          <UNK_556CF385 id="4" location="[-253.0574, 680.96, 114.0897]" type="HUMAN" />
+          <UNK_556CF385 id="5" location="[-274.4546, 711.9418, 114.8397]" type="HUMAN" />
+          <UNK_556CF385 id="6" location="[-355.0808, 680.8746, 118.4385]" type="HUMAN" />
+          <UNK_556CF385 id="7" location="[-281.8105, 757.2051, 118.0664]" types="HUMAN" />
+          <UNK_556CF385 id="8" location="[-317.3213, 822.4539, 119.4767]" type="HUMAN" />
+          <UNK_556CF385 id="9" location="[-313.4269, 844.2206, 119.8863]" type="HUMAN" />
+          <UNK_556CF385 id="10" location="[-358.5095, 791.6412, 115.2231]" type="HUMAN" />
+          <UNK_556CF385 id="11" location="[-350.1025, 802.2269, 118.4757]" type="HUMAN" />
+          <UNK_556CF385 id="12" location="[-310.2089, 790.422, 118.1149]" type="HUMAN" />
+          <UNK_556CF385 id="13" location="[-247.6205, 823.6392, 123.6322]" type="HUMAN" />
+          <UNK_556CF385 id="14" location="[-277.0179, 852.7407, 121.3545]" type="HUMAN" />
+          <UNK_556CF385 id="15" location="[-354.9424, 735.1816, 117.1169]" type="HUMAN" />
+          <UNK_556CF385 id="16" location="[-298.0267, 604.7505, 110.2637]" type="HUMAN" />
+          <UNK_556CF385 id="17" location="[-232.7256, 780.0022, 118.3886]" type="HUMAN" />
+          <UNK_556CF385 id="18" location="[-295.2, 677.3348, 113.0137]" type="HUMAN" />
+          <UNK_556CF385 id="19" location="[-170.8094, 764.4577, 126.1774]" type="HUMAN" />
+          <UNK_556CF385 id="20" location="[-196.2463, 841.4857, 133.4274]" type="HUMAN" />
+        </UNK_FEDC7694>
+        <UNK_F0610DEC>
+          <UNK_E8D09754 id="0" location="[-313.7883, 806.289, 117.9807]" />
+          <UNK_E8D09754 id="1" location="[-308.9904, 799.9927, 120.9764]" />
+          <UNK_E8D09754 id="2" location="[-306.0086, 818.9117, 120.9764]" />
+          <UNK_E8D09754 id="3" location="[-312.9281, 814.7734, 120.9789]" />
+          <UNK_E8D09754 id="4" location="[-312.2854, 818.2136, 120.9783]" />
+          <UNK_E8D09754 id="5" location="[-326.0019, 797.2035, 120.5124]" />
+          <UNK_E8D09754 id="6" location="[-325.0191, 803.5867, 116.8817]" />
+          <UNK_E8D09754 id="7" location="[-325.2278, 797.0098, 116.8817]" />
+          <UNK_E8D09754 id="8" location="[-331.8258, 799.2693, 116.0937]" />
+          <UNK_E8D09754 id="9" location="[-369.5874, 797.7346, 115.1926]" />
+          <UNK_E8D09754 id="10" location="[-325.6934, 772.9316, 116.4359]" />
+          <UNK_E8D09754 id="11" location="[-326.8542, 766.0509, 116.4341]" />
+          <UNK_E8D09754 id="12" location="[-324.2887, 760.2897, 116.4515]" />
+          <UNK_E8D09754 id="13" location="[-322.9641, 772.9801, 120.6319]" />
+          <UNK_E8D09754 id="14" location="[-327.6736, 772.8543, 120.6339]" />
+          <UNK_E8D09754 id="15" location="[-325.494, 765.2386, 120.6327]" />
+          <UNK_E8D09754 id="16" location="[-324.3319, 760.5408, 120.6445]" />
+          <UNK_E8D09754 id="17" location="[-267.6915, 693.0229, 112.4139]" />
+          <UNK_E8D09754 id="18" location="[-281.3587, 683.3486, 112.4139]" />
+          <UNK_E8D09754 id="19" location="[-265.4719, 639.8654, 112.4493]" />
+          <UNK_E8D09754 id="20" location="[-212.4129, 667.9373, 112.4042]" />
+          <UNK_E8D09754 id="21" location="[-229.5914, 682.73, 112.3679]" />
+          <UNK_E8D09754 id="22" location="[-186.2335, 747.0015, 122.8808]" />
+          <UNK_E8D09754 id="23" location="[-295.5774, 837.8535, 119.0404]" />
+          <UNK_E8D09754 id="24" location="[-297.4306, 872.7087, 119.5825]" />
+          <UNK_E8D09754 id="25" location="[-219.5597, 813.7637, 123.2641]" />
+        </UNK_F0610DEC>
+        <UNK_32EA3E07>
+          <UNK_C696CD8C id="0" location="[-224.3619, 669.9271, 117.6115]" />
+          <UNK_C696CD8C id="1" location="[-253.9701, 638.4301, 117.6124]" />
+          <UNK_C696CD8C id="2" location="[-268.974, 685.0292, 117.1437]" />
+          <UNK_C696CD8C id="3" location="[-303.6959, 777.5861, 122.1222]" />
+          <UNK_C696CD8C id="4" location="[-297.4048, 801.6854, 124.7928]" />
+          <UNK_C696CD8C id="5" location="[-329.8689, 777.6906, 120.5372]" />
+          <UNK_C696CD8C id="6" location="[-247.7567, 770.4097, 120.0431]" />
+          <UNK_C696CD8C id="7" location="[-207.8399, 793.3388, 124.4514]" />
+          <UNK_C696CD8C id="8" location="[-310.869, 821.4304, 120.8591]" />
+        </UNK_32EA3E07>
+        <UNK_3BB69D55>
+          <UNK_5D778CFC heading="328.5898" id="0" location="[-204.8022, 639.8926, 111.5741]" />
+          <UNK_5D778CFC heading="294.0028" id="1" location="[-403.4173, 747.9775, 113.4465]" />
+          <UNK_5D778CFC heading="313.9875" id="2" location="[-307.6534, 612.5917, 106.9963]" />
+          <UNK_5D778CFC heading="217.1792" id="3" location="[-380.381, 836.3588, 115.5062]" />
+        </UNK_3BB69D55>
+        <UNK_D14204F6>
+          <UNK_E55446E7 id="0" waypoint="mp_escaped_convicts_val_gatling_track_01" />
+          <UNK_E55446E7 id="1" waypoint="mp_escaped_convicts_val_gatling_track_02" />
+        </UNK_D14204F6>
+      </location>
+      <location id="EMERALD_RANCH">
+        <variations>
+          <variation UNK_4819D8E1="600000" id="CRIMINAL_WAGON_DROPOFF" UNK_8FBF71F1="13" />
+        </variations>
+        <vehicles>
+          <vehicle heading="287.5002" location="[1416.758, 257.7278, 89.1462]" model="WAGONARMOURED01X" />
+          <vehicle heading="245.3587" location="[1460.791, 333.1596, 88.797]" model="WAGONARMOURED01X" />
+          <vehicle heading="117.166" location="[1336.112, 289.588, 86.845]" model="WAGONARMOURED01X" />
+        </vehicles>
+        <peds>
+          <ped heading="230.437" location="[1414.228, 255.6101, 89.0463]" model="MP_U_M_M_PRISONWAGON_03" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+          <ped heading="30.1237" location="[1458.584, 331.339, 88.6772]" model="MP_U_M_M_PRISONWAGON_04" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+          <ped heading="270.8103" location="[1337.626, 291.9911, 86.941]" model="MP_U_M_M_PRISONWAGON_05" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+        </peds>
+        <volumes>
+          <volume heading="0" location="[1413.851, 256.7402, 90.39307]" rotation="[0.0, 0.0, 0.0]" scale="[2.76857, 2.583812, 1.770577]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_2" />
+          <volume heading="0" location="[1456.225, 334.4125, 89.20049]" rotation="[0.0, 0.0, 0.0]" scale="[2.876239, 3.290141, 2.858814]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_3" />
+          <volume heading="0" location="[1340.15, 291.0086, 89.20049]" rotation="[0.0, 0.0, 0.0]" scale="[2.876239, 3.290141, 2.858814]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_4" />
+        </volumes>
+        <UNK_F4C7EDBE>
+          <UNK_C34F88A4 heading="152.9124" id="0" location="[1465.595, 343.011, 88.6736]" />
+          <UNK_C34F88A4 heading="74.6441" id="1" location="[1446.754, 412.0944, 92.5088]" />
+          <UNK_C34F88A4 heading="47.4968" id="2" location="[1401.431, 228.9492, 89.7772]" />
+          <UNK_C34F88A4 heading="0.0" id="3" location="[1330.968, 316.7449, 86.5911]" />
+        </UNK_F4C7EDBE>
+        <UNK_5D5322CA>
+          <UNK_3FCE8DD6 heading="248.5476" id="0" location="[1462.238, 292.0982, 91.3962]" />
+          <UNK_3FCE8DD6 heading="317.5294" id="1" location="[1429.401, 298.8243, 88.2096]" />
+          <UNK_3FCE8DD6 heading="23.5683" id="2" location="[1405.39, 279.7033, 88.7352]" />
+          <UNK_3FCE8DD6 heading="281.0986" id="3" location="[1393.241, 261.1639, 88.6686]" />
+          <UNK_3FCE8DD6 heading="0.0" id="4" location="[1416.481, 346.5839, 87.7832]" />
+          <UNK_3FCE8DD6 heading="458.1227" id="5" location="[1440.224, 358.433, 88.8614]" />
+          <UNK_3FCE8DD6 heading="91.0545" id="6" location="[1440.974, 350.2478, 87.7789]" />
+          <UNK_3FCE8DD6 heading="95.3573" id="7" location="[1441.214, 349.0461, 87.7148]" />
+          <UNK_3FCE8DD6 heading="265.4144" id="8" location="[1425.518, 382.7609, 89.2121]" />
+          <UNK_3FCE8DD6 heading="102.974" id="9" location="[1392.485, 356.6088, 87.1142]" />
+          <UNK_3FCE8DD6 heading="231.0924" id="10" location="[1375.394, 354.0073, 86.7806]" />
+          <UNK_3FCE8DD6 heading="36.5822" id="11" location="[1414.591, 383.8941, 89.0198]" />
+          <UNK_3FCE8DD6 heading="185.2058" id="12" location="[1499.57, 299.9022, 90.1957]" />
+          <UNK_3FCE8DD6 heading="8.3722" id="13" location="[1364.809, 268.3734, 89.128]" />
+          <UNK_3FCE8DD6 heading="233.3785" id="14" location="[1360.808, 347.549, 87.8171]" />
+        </UNK_5D5322CA>
+        <UNK_FEDC7694>
+          <UNK_556CF385 id="0" location="[1376.892, 253.7183, 89.5518]" type="HUMAN" />
+          <UNK_556CF385 id="1" location="[1395.476, 215.8588, 91.0844]" type="HUMAN" />
+          <UNK_556CF385 id="2" location="[1381.549, 280.7023, 88.8062]" type="HUMAN" />
+          <UNK_556CF385 id="3" location="[1411.007, 298.7292, 87.9369]" type="HUMAN" />
+          <UNK_556CF385 id="4" location="[1388.142, 312.5201, 87.2501]" type="HUMAN" />
+          <UNK_556CF385 id="5" location="[1412.375, 331.3333, 87.687]" type="HUMAN" />
+          <UNK_556CF385 id="6" location="[1371.55, 324.242, 86.6928]" type="HUMAN" />
+          <UNK_556CF385 id="7" location="[1330.585, 380.3032, 87.8806]" type="HUMAN" />
+          <UNK_556CF385 id="8" location="[1440.609, 281.9777, 89.4465]" type="HUMAN" />
+          <UNK_556CF385 id="9" location="[1531.427, 275.1597, 85.9891]" type="HUMAN" />
+          <UNK_556CF385 id="10" location="[1427.157, 281.2375, 88.6884]" type="HUMAN" />
+          <UNK_556CF385 id="11" location="[1434.733, 347.8591, 88.2504]" type="HUMAN" />
+          <UNK_556CF385 id="12" location="[1448.347, 365.209, 87.591]" type="HUMAN" />
+          <UNK_556CF385 id="13" location="[1405.098, 360.984, 87.9546]" type="HUMAN" />
+          <UNK_556CF385 id="14" location="[1289.835, 344.6096, 91.1034]" type="HUMAN" />
+          <UNK_556CF385 id="15" location="[1366.885, 284.6518, 88.2815]" type="HUMAN" />
+          <UNK_556CF385 id="16" location="[1275.483, 268.4089, 88.5755]" type="HUMAN" />
+          <UNK_556CF385 id="17" location="[1373.104, 363.092, 89.7318]" type="HUMAN" />
+          <UNK_556CF385 id="18" location="[1302.028, 214.3918, 87.3445]" type="HUMAN" />
+          <UNK_556CF385 id="19" location="[1457.384, 267.2656, 91.4023]" type="HUMAN" />
+          <UNK_556CF385 id="20" location="[1476.388, 263.2608, 91.4023]" type="HUMAN" />
+        </UNK_FEDC7694>
+        <UNK_F0610DEC>
+          <UNK_E8D09754 id="0" location="[1445.058, 383.5815, 88.5568]" />
+          <UNK_E8D09754 id="1" location="[1398.37, 356.8535, 86.711]" />
+          <UNK_E8D09754 id="2" location="[1377.992, 349.8804, 86.7507]" />
+          <UNK_E8D09754 id="3" location="[1409.712, 273.5664, 88.5319]" />
+          <UNK_E8D09754 id="4" location="[1394.249, 265.9188, 88.363]" />
+          <UNK_E8D09754 id="5" location="[1370.443, 271.1697, 88.292]" />
+          <UNK_E8D09754 id="6" location="[1303.014, 320.6941, 87.3926]" />
+          <UNK_E8D09754 id="7" location="[1305.984, 326.7146, 87.0526]" />
+          <UNK_E8D09754 id="8" location="[1448.069, 370.9737, 88.8877]" />
+          <UNK_E8D09754 id="9" location="[1451.519, 370.622, 88.8883]" />
+        </UNK_F0610DEC>
+        <UNK_32EA3E07>
+          <UNK_C696CD8C id="0" location="[1442.519, 296.2957, 93.2743]" />
+          <UNK_C696CD8C id="1" location="[1450.776, 288.599, 103.5199]" />
+          <UNK_C696CD8C id="2" location="[1380.617, 356.6643, 92.7758]" />
+          <UNK_C696CD8C id="3" location="[1374.814, 270.8028, 90.9654]" />
+          <UNK_C696CD8C id="4" location="[1442.011, 358.1279, 91.0152]" />
+          <UNK_C696CD8C id="5" location="[1293.416, 345.1833, 88.9387]" />
+          <UNK_C696CD8C id="6" location="[1410.381, 369.0051, 88.2672]" />
+        </UNK_32EA3E07>
+        <UNK_3BB69D55>
+          <UNK_5D778CFC heading="161.4608 " id="0" location="[1491.661, 453.3551, 89.2126]" />
+          <UNK_5D778CFC heading="267.593" id="1" location="[1292.694, 295.6288, 86.492]" />
+          <UNK_5D778CFC heading="304.2467" id="2" location="[1397.09, 193.6874, 90.9646]" />
+          <UNK_5D778CFC heading="181.701" id="3" location="[1335.192, 397.2007, 88.8683]" />
+        </UNK_3BB69D55>
+        <UNK_D14204F6>
+          <UNK_E55446E7 id="0" waypoint="mp_escaped_convicts_emr_gatling_track_01" />
+          <UNK_E55446E7 id="1" waypoint="mp_escaped_convicts_emr_gatling_track_02" />
+        </UNK_D14204F6>
+      </location>
+      <location id="BLACKWATER">
+        <variations>
+          <variation UNK_4819D8E1="600000" id="CRIMINAL" UNK_8FBF71F1="13" />
+        </variations>
+        <volumes>
+          <volume heading="0" location="[-754.8522, -1261.697, 42.44233]" rotation="[0.0, 0.0, -0.114211]" scale="[2.162821, 3.269626, 3.738166]" UNK_E43D0DDD="SPHERE" type="TURN_IN_AREA" />
+          <volume heading="260.4119" location="[-763.1766, -1269.328, 43.9628]" rotation="[0.0, 0.0, -0.114211]" scale="[11.95175, 7.843596, 8.253509]" UNK_E43D0DDD="BOX" type="TURN_IN_0" />
+          <volume heading="260.4119" location="[-757.1182, -1269.346, 43.8216]" rotation="[0.0, 0.0, 0.0]" scale="[1.938913, 2.194227, 3.745745]" UNK_E43D0DDD="BOX" type="TURN_IN_1" />
+          <volume heading="83.3096" location="[-768.8685, -1269.346, 43.8216]" rotation="[0.0, 0.0, 0.0]" scale="[1.938913, 2.194227, 3.745745]" UNK_E43D0DDD="BOX" type="TURN_IN_2" />
+          <volume heading="0" location="[-834.0571, -1325.592, 43.39382]" rotation="[0.0, 0.0, 0.0]" scale="[3.205335, 3.236693, 2.360742]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_3" />
+          <volume heading="0" location="[-783.1057, -1377.287, 43.39382]" rotation="[0.0, 0.0, 0.0]" scale="[3.205335, 3.236693, 2.360742]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_4" />
+        </volumes>
+        <vehicles>
+          <vehicle heading="343.8426" location="[-833.8933, -1322.5, 42.5869]" model="WAGONARMOURED01X" />
+          <vehicle heading="315.4611" location="[-780.4955, -1374.616, 42.5385]" model="WAGONARMOURED01X" />
+        </vehicles>
+        <peds>
+          <ped heading="115.1669" location="[-762.9695, -1266.338, 43.0505]" model="S_M_M_AMBIENTBLWPOLICE_01" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+          <ped heading="193.6462" location="[-832.2325, -1325.287, 42.6009]" model="MP_U_M_M_PRISONWAGON_02" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+          <ped heading="125.1421" location="[-780.8358, -1378.26, 42.5409]" model="MP_U_M_M_PRISONWAGON_06" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+        </peds>
+        <UNK_F4C7EDBE>
+          <UNK_C34F88A4 heading="219.136" id="0" location="[-729.8775, -1272.359, 42.6805]" />
+          <UNK_C34F88A4 heading="74.6441" id="1" location="[-851.9255, -1332.477, 42.428]" />
+          <UNK_C34F88A4 heading="47.4968" id="2" location="[-772.1456, -1398.845, 42.39]" />
+          <UNK_C34F88A4 heading="0.0" id="3" location="[-849.4158, -1196.92, 42.4857]" />
+        </UNK_F4C7EDBE>
+        <UNK_5D5322CA>
+          <UNK_3FCE8DD6 heading="0.0" id="0" location="[-790.8577, -1281.234, 42.6404]" />
+          <UNK_3FCE8DD6 heading="0.0" id="1" location="[-807.8108, -1297.05, 42.8904]" />
+          <UNK_3FCE8DD6 heading="13.0174" id="2" location="[-790.008, -1342.099, 43.1404]" />
+          <UNK_3FCE8DD6 heading="99.0174" id="3" location="[-791.2805, -1271.908, 42.8904]" />
+          <UNK_3FCE8DD6 heading="0.0" id="4" location="[-723.0722, -1237.096, 44.3904]" />
+          <UNK_3FCE8DD6 heading="94.9036" id="5" location="[-732.4031, -1254.059, 44.1012]" />
+          <UNK_3FCE8DD6 heading="4.9036" id="6" location="[-777.7373, -1308.472, 43.255]" />
+          <UNK_3FCE8DD6 heading="90.9036" id="7" location="[-790.6296, -1319.594, 47.174]" />
+          <UNK_3FCE8DD6 heading="0.0" id="8" location="[-748.2234, -1185.998, 43.3209]" />
+          <UNK_3FCE8DD6 heading="0.0" id="9" location="[-800.2976, -1206.957, 43.3839]" />
+          <UNK_3FCE8DD6 heading="158.9036" id="10" location="[-830.1684, -1188.127, 42.5972]" />
+          <UNK_3FCE8DD6 heading="0.0" id="11" location="[-845.2868, -1200.57, 43.0298]" />
+          <UNK_3FCE8DD6 heading="10.9036" id="12" location="[-867.607, -1281.348, 42.1632]" />
+          <UNK_3FCE8DD6 heading="0.0" id="13" location="[-855.619, -1369.504, 42.8512]" />
+          <UNK_3FCE8DD6 heading="96.9036" id="14" location="[-893.2635, -1330.17, 42.8512]" />
+        </UNK_5D5322CA>
+        <UNK_FEDC7694>
+          <UNK_556CF385 heading="78.6942" id="0" location="[-725.5204, -1266.157, 43.5769]" type="HUMAN" />
+          <UNK_556CF385 heading="439.9736" id="1" location="[-709.6302, -1243.291, 43.8269]" type="HUMAN" />
+          <UNK_556CF385 heading="33.1627" id="2" location="[-766.9797, -1238.766, 45.0769]" type="HUMAN" />
+          <UNK_556CF385 heading="81.3483" id="3" location="[-770.6603, -1192.685, 43.5769]" type="HUMAN" />
+          <UNK_556CF385 heading="326.3638" id="4" location="[-821.3922, -1213.715, 43.5769]" type="HUMAN" />
+          <UNK_556CF385 heading="68.0515" id="5" location="[-848.7258, -1235.564, 43.2044]" type="HUMAN" />
+          <UNK_556CF385 heading="118.5045" id="6" location="[-923.6841, -1262.206, 48.3904]" type="HUMAN" />
+          <UNK_556CF385 heading="137.7293" id="7" location="[-798.2876, -1262.064, 43.4842]" type="HUMAN" />
+          <UNK_556CF385 heading="189.7783" id="8" location="[-776.4593, -1298.231, 43.3139]" type="HUMAN" />
+          <UNK_556CF385 heading="98.0" id="9" location="[-813.8677, -1336.297, 43.937]" type="HUMAN" />
+          <UNK_556CF385 heading="29.1079" id="10" location="[-836.7213, -1343.666, 42.4681]" type="HUMAN" />
+          <UNK_556CF385 heading="65.182" id="11" location="[-729.8505, -1411.712, 47.3531]" type="HUMAN" />
+          <UNK_556CF385 heading="143.9951" id="12" location="[-872.9748, -1351.44, 42.5214]" type="HUMAN" />
+          <UNK_556CF385 heading="0.0" id="13" location="[-948.8127, -1304.033, 49.6344]" type="HUMAN" />
+          <UNK_556CF385 heading="270.6633" id="14" location="[-765.8011, -1336.364, 43.7013]" type="HUMAN" />
+          <UNK_556CF385 heading="197.9904" id="15" location="[-800.3837, -1290.586, 43.8155]" type="HUMAN" />
+          <UNK_556CF385 heading="189.2652" id="16" location="[-801.9536, -1486.281, 62.0594]" type="HUMAN" />
+          <UNK_556CF385 heading="175.1362" id="17" location="[-799.3514, -1360.279, 43.1441]" type="HUMAN" />
+          <UNK_556CF385 heading="310.1735" id="18" location="[-863.6856, -1382.746, 43.775]" type="HUMAN" />
+          <UNK_556CF385 heading="120.9222" id="19" location="[-896.3109, -1422.587, 45.5881]" type="HUMAN" />
+          <UNK_556CF385 heading="120.9222" id="20" location="[-891.1231, -1408.153, 45.5881]" type="HUMAN" />
+        </UNK_FEDC7694>
+        <UNK_F0610DEC>
+          <UNK_E8D09754 id="0" location="[-734.3872, -1292.616, 41.0539]" />
+          <UNK_E8D09754 id="1" location="[-736.118, -1218.011, 40.9998]" />
+          <UNK_E8D09754 id="2" location="[-781.8953, -1322.094, 47.0881]" />
+          <UNK_E8D09754 id="3" location="[-857.2863, -1295.548, 42.7206]" />
+          <UNK_E8D09754 id="4" location="[-827.1303, -1198.047, 43.1458]" />
+          <UNK_E8D09754 id="5" location="[-860.5723, -1283.966, 42.153]" />
+          <UNK_E8D09754 id="6" location="[-953.6578, -1332.145, 49.9724]" />
+          <UNK_E8D09754 id="7" location="[-815.7821, -1281.192, 42.9728]" />
+          <UNK_E8D09754 id="8" location="[-818.3944, -1309.711, 43.1709]" />
+          <UNK_E8D09754 id="9" location="[-820.4359, -1353.191, 43.1456]" />
+          <UNK_E8D09754 id="10" location="[-810.3431, -1420.8, 44.1829]" />
+          <UNK_E8D09754 id="11" location="[-732.4489, -1443.804, 47.3531]" />
+          <UNK_E8D09754 id="12" location="[-877.353, -1340.783, 42.5214]" />
+          <UNK_E8D09754 id="13" location="[-915.5855, -1326.403, 44.5395]" />
+          <UNK_E8D09754 id="14" location="[-767.1173, -1358.964, 42.9384]" />
+          <UNK_E8D09754 id="15" location="[-812.3214, -1292.073, 42.6638]" />
+        </UNK_F0610DEC>
+        <UNK_32EA3E07>
+          <UNK_C696CD8C id="0" location="[-815.7764, -1375.983, 49.4005]" />
+          <UNK_C696CD8C id="1" location="[-820.5617, -1356.473, 50.9249]" />
+          <UNK_C696CD8C id="2" location="[-789.7875, -1347.96, 50.8418]" />
+          <UNK_C696CD8C id="3" location="[-758.6945, -1352.056, 51.5319]" />
+          <UNK_C696CD8C id="4" location="[-790.0719, -1318.478, 47.0517]" />
+          <UNK_C696CD8C id="5" location="[-778.6409, -1311.476, 51.182]" />
+          <UNK_C696CD8C id="6" location="[-790.226, -1302.523, 47.9293]" />
+          <UNK_C696CD8C id="7" location="[-789.4124, -1261.931, 57.6404]" />
+          <UNK_C696CD8C id="8" location="[-817.0088, -1301.104, 55.1076]" />
+          <UNK_C696CD8C id="9" location="[-807.258, -1342.686, 46.9423]" />
+          <UNK_C696CD8C id="10" location="[-809.7587, -1447.61, 51.9256]" />
+          <UNK_C696CD8C id="11" location="[-740.0117, -1445.9, 52.708]" />
+        </UNK_32EA3E07>
+        <UNK_3BB69D55>
+          <UNK_5D778CFC heading="246.9214" id="0" location="[-915.1295, -1199.207, 47.0884]" />
+          <UNK_5D778CFC heading="299.5938" id="1" location="[-941.9817, -1419.651, 47.6631]" />
+          <UNK_5D778CFC heading="349.5474" id="2" location="[-773.3765, -1435.453, 48.9859]" />
+          <UNK_5D778CFC heading="110.4108" id="3" location="[-748.6384, -1195.628, 42.912]" />
+        </UNK_3BB69D55>
+        <UNK_D14204F6>
+          <UNK_E55446E7 id="0" waypoint="mp_escaped_convicts_blk_gatling_track_01" />
+          <UNK_E55446E7 id="1" waypoint="mp_escaped_convicts_blk_gatling_track_02" />
+        </UNK_D14204F6>
+      </location>
+      <location id="ANNESBURG">
+        <variations>
+          <variation UNK_4819D8E1="600000" id="CRIMINAL" UNK_8FBF71F1="13" />
+        </variations>
+        <volumes>
+          <volume heading="0" location="[2914.265, 1314.672, 43.37083]" rotation="[0.862722, 0.034835, -20.2876]" scale="[1.920562, 3.186403, 3.379126]" UNK_E43D0DDD="SPHERE" type="TURN_IN_AREA" />
+          <volume heading="253.4313" location="[2906.492, 1312.238, 46.24583]" rotation="[0.862722, 0.034835, -20.2876]" scale="[10.38549, 7.324948, 5.460552]" UNK_E43D0DDD="BOX" type="TURN_IN_0" />
+          <volume heading="253.4313" location="[2911.314, 1310.337, 44.48181]" rotation="[0.0, 0.0, -18.99638]" scale="[1.559671, 1.696216, 3.94093]" UNK_E43D0DDD="BOX" type="TURN_IN_1" />
+          <volume heading="0" location="[2963.075, 1389.786, 43.4725]" rotation="[0.0, 0.0, 0.0]" scale="[2.540677, 3.411928, 2.340966]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_2" />
+          <volume heading="0" location="[2859.241, 1420.152, 69.09554]" rotation="[0.0, 0.0, 0.0]" scale="[3.191414, 3.411928, 2.340966]" UNK_E43D0DDD="CYLINDER" type="TURN_IN_3" />
+        </volumes>
+        <vehicles>
+          <vehicle heading="301.1537" location="[2965.996, 1394.002, 42.9698]" model="WAGONARMOURED01X" />
+          <vehicle heading="33.2247" location="[2855.565, 1424.56, 67.6324]" model="WAGONARMOURED01X" />
+        </vehicles>
+        <peds>
+          <ped heading="1.8838" location="[2907.412, 1309.071, 43.9382]" model="MP_U_M_M_PRISONWAGON_02" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+          <ped heading="129.4514 " location="[2965.456, 1391.464, 42.9864]" model="MP_U_M_M_PRISONWAGON_03" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+          <ped heading="196.0765" location="[2854.896, 1422.197, 67.6494]" model="MP_U_M_M_PRISONWAGON_04" UNK_8D559FD7="FRIENDLY" role="WAGON_GUARD" UNK_7D469A21="WORLD_HUMAN_GUARD" UNK_CF66FECA="WEAPON_REPEATER_EVANS" />
+        </peds>
+        <UNK_F4C7EDBE>
+          <UNK_C34F88A4 heading="58.5238" id="0" location="[3001.229, 1422.491, 44.8156]" />
+          <UNK_C34F88A4 heading="74.6441" id="1" location="[2846.101, 1423.182, 67.7399]" />
+          <UNK_C34F88A4 heading="47.4968" id="2" location="[2811.091, 1350.647, 70.4123]" />
+          <UNK_C34F88A4 heading="0.0" id="3" location="[2914.083, 1285.94, 43.2874]" />
+        </UNK_F4C7EDBE>
+        <UNK_5D5322CA>
+          <UNK_3FCE8DD6 heading="329.8702" id="0" location="[2933.933, 1418.824, 45.2785]" />
+          <UNK_3FCE8DD6 heading="335.8702" id="1" location="[2937.908, 1416.214, 44.327]" />
+          <UNK_3FCE8DD6 heading="241.8702" id="2" location="[2961.735, 1378.237, 46.0285]" />
+          <UNK_3FCE8DD6 heading="243.8702" id="3" location="[2930.91, 1363.054, 44.7785]" />
+          <UNK_3FCE8DD6 heading="337.8702" id="4" location="[2949.38, 1381.287, 50.5285]" />
+          <UNK_3FCE8DD6 heading="239.8747" id="5" location="[2935.795, 1377.461, 44.1648]" />
+          <UNK_3FCE8DD6 heading="0.0" id="6" location="[2953.216, 1371.515, 50.9486]" />
+          <UNK_3FCE8DD6 heading="249.8747" id="7" location="[2950.687, 1342.072, 44.4486]" />
+          <UNK_3FCE8DD6 heading="127.8747" id="8" location="[3025.248, 1441.072, 46.4486]" />
+          <UNK_3FCE8DD6 heading="271.8747" id="9" location="[2995.912, 1404.279, 43.6986]" />
+          <UNK_3FCE8DD6 heading="431.8747" id="10" location="[3022.298, 1354.589, 41.9486]" />
+          <UNK_3FCE8DD6 heading="239.8747" id="11" location="[2903.79, 1356.654, 50.9486]" />
+          <UNK_3FCE8DD6 heading="0.0" id="12" location="[2904.359, 1357.551, 51.0205]" />
+          <UNK_3FCE8DD6 heading="0.0" id="13" location="[2906.592, 1332.609, 47.5205]" />
+          <UNK_3FCE8DD6 heading="112.7277" id="14" location="[2878.49, 1371.501, 61.9994]" />
+        </UNK_5D5322CA>
+        <UNK_FEDC7694>
+          <UNK_556CF385 id="0" location="[2939.42, 1323.72, 44.0666]" type="HUMAN" />
+          <UNK_556CF385 id="1" location="[2925.993, 1262.937, 43.9622]" type="HUMAN" />
+          <UNK_556CF385 id="2" location="[2969.475, 1298.262, 43.0695]" type="HUMAN" />
+          <UNK_556CF385 id="3" location="[2935.509, 1349.169, 43.2524]" type="HUMAN" />
+          <UNK_556CF385 id="4" location="[2894.875, 1327.716, 47.2303]" type="HUMAN" />
+          <UNK_556CF385 id="5" location="[2918.029, 1349.747, 43.5626]" type="HUMAN" />
+          <UNK_556CF385 id="6" location="[2891.276, 1354.875, 61.7989]" type="HUMAN" />
+          <UNK_556CF385 id="7" location="[2868.719, 1364.874, 62.3447]" type="HUMAN" />
+          <UNK_556CF385 id="8" location="[2839.903, 1342.266, 64.5401]" type="HUMAN" />
+          <UNK_556CF385 id="9" location="[2800.862, 1353.653, 71.5584]" type="HUMAN" />
+          <UNK_556CF385 id="10" location="[2814.58, 1379.609, 72.3429]" type="HUMAN" />
+          <UNK_556CF385 id="11" location="[2837.178, 1378.451, 67.3447]" type="HUMAN" />
+          <UNK_556CF385 id="12" location="[2811.167, 1427.906, 77.0848]" type="HUMAN" />
+          <UNK_556CF385 id="13" location="[2851.496, 1454.881, 67.4543]" type="HUMAN" />
+          <UNK_556CF385 id="14" location="[2866.609, 1465.075, 67.8181]" type="HUMAN" />
+          <UNK_556CF385 id="15" location="[2890.091, 1505.949, 63.5909]" type="HUMAN" />
+          <UNK_556CF385 id="16" location="[2898.513, 1407.979, 58.3275]" type="HUMAN" />
+          <UNK_556CF385 id="17" location="[3003.838, 1443.6, 46.8409]" type="HUMAN" />
+          <UNK_556CF385 id="18" location="[3032.852, 1412.38, 41.7785]" type="HUMAN" />
+          <UNK_556CF385 id="19" location="[2989.77, 1371.792, 43.2598]" type="HUMAN" />
+          <UNK_556CF385 id="20" location="[2983.558, 1413.583, 44.7598]" type="HUMAN" />
+        </UNK_FEDC7694>
+        <UNK_F0610DEC>
+          <UNK_E8D09754 id="0" location="[2945.927, 1304.333, 43.4879]" />
+          <UNK_E8D09754 id="1" location="[2928.622, 1273.527, 43.6529]" />
+          <UNK_E8D09754 id="2" location="[2938.498, 1290.287, 43.6528]" />
+          <UNK_E8D09754 id="3" location="[3015.963, 1352.857, 41.7009]" />
+          <UNK_E8D09754 id="4" location="[2955.726, 1373.378, 50.3229]" />
+          <UNK_E8D09754 id="5" location="[2930.028, 1383.73, 55.2548]" />
+          <UNK_E8D09754 id="6" location="[2924.804, 1377.924, 55.2388]" />
+          <UNK_E8D09754 id="7" location="[2919.528, 1380.921, 55.2205]" />
+          <UNK_E8D09754 id="8" location="[2882.978, 1395.495, 65.6951]" />
+          <UNK_E8D09754 id="9" location="[2919.458, 1390.346, 52.3655]" />
+          <UNK_E8D09754 id="10" location="[2846.154, 1371.332, 64.8581]" />
+          <UNK_E8D09754 id="11" location="[2792.99, 1395.192, 68.7608]" />
+          <UNK_E8D09754 id="12" location="[2759.323, 1349.537, 69.2059]" />
+          <UNK_E8D09754 id="13" location="[2756.307, 1322.156, 68.9586]" />
+          <UNK_E8D09754 id="14" location="[2775.962, 1340.764, 69.734]" />
+          <UNK_E8D09754 id="15" location="[2913.097, 1345.858, 43.9473]" />
+        </UNK_F0610DEC>
+        <UNK_32EA3E07>
+          <UNK_C696CD8C id="0" location="[2895.55, 1345.249, 51.8626]" />
+          <UNK_C696CD8C id="1" location="[2894.749, 1361.752, 61.9878]" />
+          <UNK_C696CD8C id="2" location="[2944.694, 1374.486, 50.3227]" />
+          <UNK_C696CD8C id="3" location="[2896.554, 1397.153, 63.5958]" />
+          <UNK_C696CD8C id="4" location="[2877.852, 1384.026, 82.9846]" />
+          <UNK_C696CD8C id="5" location="[2804.12, 1385.916, 80.4354]" />
+          <UNK_C696CD8C id="6" location="[2790.817, 1328.829, 77.8834]" />
+          <UNK_C696CD8C id="7" location="[2841.113, 1284.059, 84.0627]" />
+        </UNK_32EA3E07>
+        <UNK_3BB69D55>
+          <UNK_5D778CFC heading="134.2111" id="0" location="[3019.89, 1471.163, 47.4158]" />
+          <UNK_5D778CFC heading="164.5935" id="1" location="[2875.538, 1505.489, 67.27191]" />
+          <UNK_5D778CFC heading="273.5129" id="2" location="[2790.908, 1341.094, 70.3047]" />
+          <UNK_5D778CFC heading="329.7365" id="3" location="[2895.413, 1247.232, 43.6128]" />
+        </UNK_3BB69D55>
+        <UNK_D14204F6>
+          <UNK_E55446E7 id="0" waypoint="mp_escaped_convicts_ans_gatling_track_01" />
+          <UNK_E55446E7 id="1" waypoint="mp_escaped_convicts_ans_gatling_track_02" />
+        </UNK_D14204F6>
+      </location>
+    </locations>
+  </activity>
+</root>

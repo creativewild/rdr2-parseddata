@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_A126D918>
+    <emote clipset="action@thumbs_up" directional="true" name="ThumbsUp" type="POKER_EMOTE_TYPE_ACTION" />
+    <emote clipset="greet@nod" directional="false" name="Nod" type="POKER_EMOTE_TYPE_GREET" />
+    <emote clipset="reaction@face_palm" directional="false" name="FacePalm" type="POKER_EMOTE_TYPE_REACT" />
+    <emote clipset="taunt@arm_flex" directional="false" name="ArmFlex" type="POKER_EMOTE_TYPE_TAUNT" />
+  </UNK_A126D918>
+</root>

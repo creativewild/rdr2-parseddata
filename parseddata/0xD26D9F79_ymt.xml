@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_4A9E109E>
+    <recipe>
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_GENERIC_SML_LEAN" tent="GENERIC_MED_LEAN" travel="NONE" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_GENERIC_SML_PUP" tent="GENERIC_MED_PUP" travel="NONE" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_GENERIC_SML_LIGHT" tent="GENERIC_LIGHT_PLAIN" travel="NONE" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_GENERIC_MED_PLAIN1" tent="GENERIC_MED_PLAIN" travel="GENERIC_MED" />
+      <type cluster="GENERIC_MED" core="pg_ambient_campfire01ax" id="CFRT_GENERIC_MED_PLAIN2" tent="GENERIC_MED_PLAIN" travel="NONE" />
+      <type cluster="GENERIC_LIGHT" core="pg_ambient_campfire01ax" id="CFRT_GENERIC_MED_LIGHT" tent="GENERIC_LIGHT_PLAIN" travel="NONE" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_GENERIC_MED_LEAN" tent="GENERIC_MED_LEAN" travel="GENERIC_MED" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_GENERIC_MED_PUP" tent="GENERIC_MED_PUP" travel="GENERIC_MED" />
+      <type cluster="GENERIC_HEAVY" core="pg_ambient_campfire01ax" id="CFRT_GENERIC_LRG" tent="GENERIC_HEAVY" travel="GENERIC_HEAVY" />
+      <type cluster="GENERIC_HEAVY" core="pg_ambient_campfire01ax" id="CFRT_GENERIC_LRG_PLAIN" tent="GENERIC_HEAVY_PLAIN" travel="GENERIC_HEAVY" />
+      <type cluster="GENERIC_LIGHT" core="pg_ambient_campfire01ax" id="CFRT_GENERIC_LRG_LIGHT" tent="GENERIC_LIGHT_PLAIN" travel="GENERIC_MED" />
+      <type cluster="GENERIC_BED" core="pg_ambient_campfire01bx" id="CFRT_GENERIC_LRG_BED" tent="GENERIC_BED" travel="GENERIC_BED" />
+      <type cluster="GENERIC_DBL" core="pg_ambient_campfire02x" id="CFRT_DBL_GENERIC1" tent="GENERIC_DBL_02X" travel="GENERIC_DBL" />
+      <type cluster="GENERIC_DBL" core="pg_ambient_campfire03x" id="CFRT_DBL_GENERIC2" tent="GENERIC_DBL_03X" travel="GENERIC_DBL" />
+      <type cluster="NONE" core="pg_ambient_campfire05x" id="CFRT_DBL_GENERIC3" tent="NONE" travel="NONE" />
+      <type cluster="PED_FISHERMAN" core="pg_ambient_campfire02x" id="CFRT_DBL_FISHERMAN" tent="GENERIC_DBL_02X" travel="PED_FISHERMAN" />
+      <type cluster="PED_HUNTER" core="pg_ambient_campfire02x" id="CFRT_DBL_HUNTER" tent="GENERIC_DBL_02X" travel="PED_HUNTER" />
+      <type cluster="FOLIAGE_CONIFEROUS" core="pg_ambient_campfire03x" id="CFRT_DBL_CONIFEROUS" tent="FOLIAGE_CONIFEROUS_DBL" travel="GENERIC_MED" />
+      <type cluster="GROUND_COLD" core="pg_ambient_campfire01ax" id="CFRT_GROUND_COLD_LRG1" tent="GROUND_COLD" travel="GROUND_COLD" />
+      <type cluster="GROUND_WET" core="pg_ambient_campfire01ax" id="CFRT_GROUND_WET_LRG1" tent="GROUND_WET" travel="GROUND_WET" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_FISHERMAN_SML1" tent="PED_FISHERMAN" travel="NONE" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_FISHERMAN_SML2" tent="PED_FISHERMAN_SML" travel="NONE" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_FISHERMAN_MED1" tent="GENERIC_MED_PLAIN" travel="PED_FISHERMAN" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_FISHERMAN_MED2" tent="PED_FISHERMAN" travel="GENERIC_LIGHT" />
+      <type cluster="PED_FISHERMAN" core="pg_ambient_campfire01ax" id="CFRT_FISHERMAN_LRG1" tent="GENERIC_MED_PUP" travel="PED_FISHERMAN" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_MINER_MED1" tent="PED_MINER" travel="PED_MINER" />
+      <type cluster="PED_MINER" core="pg_ambient_campfire01ax" id="CFRT_MINER_LRG1" tent="GROUND_COLD" travel="PED_MINER" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_HUNTER_SML1" tent="PED_HUNTER" travel="NONE" />
+      <type cluster="PED_HUNTER" core="pg_ambient_campfire01ax" id="CFRT_HUNTER_MED1" tent="PED_HUNTER" travel="NONE" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_HUNTER_MED2" tent="PED_HUNTER" travel="GENERIC_MED" />
+      <type cluster="PED_HUNTER" core="pg_ambient_campfire01ax" id="CFRT_HUNTER_LRG1" tent="GENERIC_MED_PUP" travel="PED_HUNTER" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_FANCY_SML1" tent="PED_FANCY" travel="NONE" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_FANCY_MED1" tent="PED_FANCY" travel="GENERIC_MED" />
+      <type cluster="PED_FANCY" core="pg_ambient_campfire01ax" id="CFRT_FANCY_MED2" tent="PED_FANCY" travel="NONE" />
+      <type cluster="PED_FANCY" core="pg_ambient_campfire01ax" id="CFRT_FANCY_LRG1" tent="PED_FANCY" travel="GENERIC_HEAVY" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_RANCHER_MED1" tent="PED_RANCHER" travel="GENERIC_MED" />
+      <type cluster="PED_RANCHER" core="pg_ambient_campfire01ax" id="CFRT_RANCHER_MED2" tent="PED_RANCHER" travel="NONE" />
+      <type cluster="PED_RANCHER" core="pg_ambient_campfire01ax" id="CFRT_RANCHER_LRG1" tent="PED_RANCHER" travel="GENERIC_HEAVY" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_ROUGH_SML1" tent="PED_ROUGH" travel="NONE" />
+      <type cluster="PED_ROUGH" core="pg_ambient_campfire01ax" id="CFRT_ROUGH_MED1" tent="PED_ROUGH" travel="NONE" />
+      <type cluster="PED_ROUGH" core="pg_ambient_campfire01ax" id="CFRT_ROUGH_LRG1" tent="PED_ROUGH" travel="PED_ROUGH" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_ABANDONED_SML1" tent="PED_ABANDONED" travel="NONE" />
+      <type cluster="PED_ABANDONED" core="pg_ambient_campfire01ax" id="CFRT_ABANDONED_MED1" tent="PED_ABANDONED" travel="NONE" />
+      <type cluster="PED_ABANDONED" core="pg_ambient_campfire01ax" id="CFRT_ABANDONED_LRG1" tent="PED_ABANDONED" travel="PED_ABANDONED" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_HOBO_SML1" tent="PED_HOBO" travel="NONE" />
+      <type cluster="PED_HOBO" core="pg_ambient_campfire01ax" id="CFRT_HOBO_MED1" tent="PED_HOBO" travel="NONE" />
+      <type cluster="PED_HOBO" core="pg_ambient_campfire01ax" id="CFRT_HOBO_LRG1" tent="PED_HOBO" travel="PED_HOBO" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_HERBALIST_SML1" tent="PED_HERBALIST" travel="NONE" />
+      <type cluster="PED_HERBALIST" core="pg_ambient_campfire01ax" id="CFRT_HERBALIST_MED1" tent="PED_HERBALIST" travel="NONE" />
+      <type cluster="PED_HERBALIST" core="pg_ambient_campfire01ax" id="CFRT_HERBALIST_LRG1" tent="PED_HERBALIST" travel="PED_HERBALIST" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_FOLIAGE_CONIFEROUS_SML1" tent="FOLIAGE_CONIFEROUS" travel="NONE" />
+      <type cluster="FOLIAGE_CONIFEROUS" core="pg_ambient_campfire01ax" id="CFRT_FOLIAGE_CONIFEROUS_MED1" tent="FOLIAGE_CONIFEROUS" travel="NONE" />
+      <type cluster="FOLIAGE_CONIFEROUS" core="pg_ambient_campfire01ax" id="CFRT_FOLIAGE_CONIFEROUS_LRG1" tent="FOLIAGE_CONIFEROUS" travel="NONE" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_FOLIAGE_DECIDUOUS_SML1" tent="FOLIAGE_DECIDUOUS" travel="NONE" />
+      <type cluster="FOLIAGE_DECIDUOUS" core="pg_ambient_campfire01ax" id="CFRT_FOLIAGE_DECIDUOUS_MED1" tent="FOLIAGE_DECIDUOUS" travel="NONE" />
+      <type cluster="FOLIAGE_DECIDUOUS" core="pg_ambient_campfire01ax" id="CFRT_FOLIAGE_DECIDUOUS_LRG1" tent="FOLIAGE_DECIDUOUS" travel="GENERIC_LIGHT" />
+      <type cluster="FOLIAGE_DRY_GRASS" core="pg_ambient_campfire01ax" id="CFRT_FOLIAGE_DRY_GRASS_SML1" tent="FOLIAGE_DRY_GRASS" travel="GENERIC_LIGHT" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_UNIQUE_TREE_HOUSE1" tent="TREE_HOUSE1" travel="NONE" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_UNIQUE_TREE_TIE1" tent="TREE_TIE1" travel="NONE" />
+      <type cluster="NONE" core="pg_ambient_campfire01ax" id="CFRT_UNIQUE_TREE_TIE2" tent="TREE_TIE2" travel="NONE" />
+      <type cluster="NONE" core="pg_ambient_campfire01bx" id="CFRT_UNIQUE_TREE_SCAFF1" tent="TREE_SCAFF1" travel="NONE" />
+    </recipe>
+    <tent>
+      <group id="FOLIAGE_CONIFEROUS">
+        <propset id="pg_ambcamp01x_tent_frame_pup" />
+        <propset id="pg_ambcamp01x_tent_ground08" />
+        <propset id="pg_ambcamp01x_tent_leantoPine" />
+        <propset id="pg_ambcamp01x_tent_scrub" />
+        <propset id="pg_ambcamp01x_tent_scrub_lean" />
+        <propset id="pg_ambcamp01x_tent_shelter_firewood" />
+        <propset id="pg_ambcamp01x_tent_sticks" />
+      </group>
+      <group id="FOLIAGE_CONIFEROUS_DBL">
+        <propset id="pg_ambient_campfire03x_tent_trap" />
+      </group>
+      <group id="FOLIAGE_DECIDUOUS">
+        <propset id="pg_ambcamp01x_tent_frame_dome" />
+        <propset id="pg_ambcamp01x_tent_leaves" />
+        <propset id="pg_ambcamp01x_tent_leaves_lean" />
+        <propset id="pg_ambcamp01x_tent_scrub" />
+        <propset id="pg_ambcamp01x_tent_scrub_lean" />
+        <propset id="pg_ambcamp01x_tent_shelter_firewood" />
+        <propset id="pg_ambcamp01x_tent_sticks" />
+        <propset id="pg_ambcamp01x_tent_wagon_debris" />
+      </group>
+      <group id="FOLIAGE_DRY_GRASS">
+        <propset id="pg_ambcamp01x_tent_grass_lean" />
+        <propset id="pg_ambcamp01x_tent_scrub" />
+        <propset id="pg_ambcamp01x_tent_scrub_lean" />
+      </group>
+      <group id="GENERIC_BED">
+        <propset id="pg_ambcamp01x_tent_shelter_scaff" />
+        <propset id="pg_ambcamp01x_tent_sticks_tall" />
+      </group>
+      <group id="GENERIC_DBL_02X">
+        <propset id="pg_ambcamp02x_tent_combo01" />
+        <propset id="pg_ambcamp02x_tent_pup" />
+        <propset id="pg_ambcamp02x_tent_pupOil" />
+        <propset id="pg_ambcamp02x_tent_snow" />
+      </group>
+      <group id="GENERIC_DBL_03X">
+        <propset id="pg_ambcamp03x_tent_leanto01" />
+        <propset id="pg_ambcamp03x_tent_leanto02" />
+      </group>
+      <group id="GENERIC_HEAVY">
+        <propset id="pg_ambcamp01x_tent_canvas_wedge_stripe" />
+        <propset id="pg_ambcamp01x_tent_plaid" />
+        <propset id="pg_ambcamp01x_tent_plaid01" />
+        <propset id="pg_ambcamp01x_tent_plaid_lean02" />
+        <propset id="pg_ambcamp01x_tent_snow" />
+        <propset id="pg_ambcamp01x_tent_wagon_debris" />
+      </group>
+      <group id="GENERIC_HEAVY_PLAIN">
+        <propset id="pg_ambcamp01x_tent_canvas_leanto02" />
+        <propset id="pg_ambcamp01x_tent_canvas_pup02" />
+        <propset id="pg_ambcamp01x_tent_canvas_wedge_plain" />
+      </group>
+      <group id="GENERIC_LIGHT_PLAIN">
+        <propset id="pg_ambcamp01x_tent_canvas_leanto03" />
+        <propset id="pg_ambcamp01x_tent_canvas_leanto04" />
+        <propset id="pg_ambcamp01x_tent_ground01" />
+        <propset id="pg_ambcamp01x_tent_ground02" />
+        <propset id="pg_ambcamp01x_tent_ground03" />
+        <propset id="pg_ambcamp01x_tent_ground04" />
+        <propset id="pg_ambcamp01x_tent_ground05" />
+        <propset id="pg_ambcamp01x_tent_ground06" />
+        <propset id="pg_ambcamp01x_tent_ground07" />
+        <propset id="pg_ambcamp01x_tent_shelter_build" />
+      </group>
+      <group id="GENERIC_MED_LEAN">
+        <propset id="pg_ambcamp01x_tent_leather_lean" />
+        <propset id="pg_ambcamp01x_tent_oilskin_lean01" />
+        <propset id="pg_ambcamp01x_tent_oilskin_lean02" />
+        <propset id="pg_ambcamp01x_tent_plaid_lean01" />
+        <propset id="pg_ambcamp01x_tent_plaid_lean02" />
+        <propset id="pg_ambcamp01x_tent_shelter_cart" />
+        <propset id="pg_ambcamp01x_tent_string_lean" />
+        <propset id="pg_ambcamp01x_tent_string_tarp" />
+        <propset id="pg_ambcamp01x_tent_woven_lean" />
+      </group>
+      <group id="GENERIC_MED_PLAIN">
+        <propset id="pg_ambcamp01x_tent_canvas_leanto01" />
+        <propset id="pg_ambcamp01x_tent_canvas_pup01" />
+        <propset id="pg_ambcamp01x_tent_leanto01" />
+        <propset id="pg_ambcamp01x_tent_leanto02" />
+        <propset id="pg_ambcamp01x_tent_leanto03" />
+      </group>
+      <group id="GENERIC_MED_PUP">
+        <propset id="pg_ambcamp01x_tent_plaid" />
+        <propset id="pg_ambcamp01x_tent_plaid01" />
+        <propset id="pg_ambcamp01x_tent_pupOil" />
+        <propset id="pg_ambcamp01x_tent_pupStripe" />
+        <propset id="pg_ambcamp01x_tent_string" />
+        <propset id="pg_ambcamp01x_tent_woven" />
+      </group>
+      <group id="GROUND_COLD">
+        <propset id="pg_ambcamp01x_tent_hide" />
+        <propset id="pg_ambcamp01x_tent_leather" />
+        <propset id="pg_ambcamp01x_tent_pupOil" />
+        <propset id="pg_ambcamp01x_tent_snow" />
+        <propset id="pg_ambcamp01x_tent_snow01" />
+        <propset id="pg_ambcamp01x_tent_snow02" />
+      </group>
+      <group id="GROUND_WET">
+        <propset id="pg_ambcamp01x_tent_burlap_lean" />
+        <propset id="pg_ambcamp01x_tent_debris01" />
+        <propset id="pg_ambcamp01x_tent_ground04" />
+        <propset id="pg_ambcamp01x_tent_leather" />
+        <propset id="pg_ambcamp01x_tent_string_tarp" />
+        <propset id="pg_ambcamp01x_tent_wagon_debris" />
+      </group>
+      <group id="PED_ABANDONED">
+        <propset id="pg_ambcamp01x_tent_abandon01" />
+        <propset id="pg_ambcamp01x_tent_destroyed" />
+        <propset id="pg_ambcamp01x_tent_ground04" />
+        <propset id="pg_ambcamp01x_tent_shelter_build" />
+        <propset id="pg_ambcamp01x_tent_wagon_debris" />
+      </group>
+      <group id="PED_FANCY">
+        <propset id="pg_ambcamp01x_tent_leanto02" />
+        <propset id="pg_ambcamp01x_tent_canvas_pup02" />
+        <propset id="pg_ambcamp01x_tent_canvas_wedge_stripe" />
+        <propset id="pg_ambcamp01x_tent_oilskin_lean01" />
+        <propset id="pg_ambcamp01x_tent_patchwork" />
+        <propset id="pg_ambcamp01x_tent_patchwork_lean" />
+        <propset id="pg_ambcamp01x_tent_plaid_lean02" />
+        <propset id="pg_ambcamp01x_tent_pupStripe_glamp" />
+      </group>
+      <group id="PED_FISHERMAN">
+        <propset id="pg_ambcamp01x_tent_pupOil01" />
+        <propset id="pg_ambcamp01x_tent_debris01" />
+      </group>
+      <group id="PED_FISHERMAN_SML">
+        <propset id="pg_ambcamp01x_tent_shelter_boat" />
+      </group>
+      <group id="PED_HERBALIST">
+        <propset id="pg_ambcamp01x_tent_canvas_tall01" />
+        <propset id="pg_ambcamp01x_tent_ground08" />
+        <propset id="pg_ambcamp01x_tent_woven" />
+        <propset id="pg_ambcamp01x_tent_woven_lean" />
+      </group>
+      <group id="PED_HOBO">
+        <propset id="pg_ambcamp01x_tent_blanket" />
+        <propset id="pg_ambcamp01x_tent_burlap" />
+        <propset id="pg_ambcamp01x_tent_burlap_lean" />
+        <propset id="pg_ambcamp01x_tent_debris01" />
+        <propset id="pg_ambcamp01x_tent_shelter_cart" />
+        <propset id="pg_ambcamp01x_tent_wagon_debris" />
+      </group>
+      <group id="PED_HUNTER">
+        <propset id="pg_ambcamp01x_tent_canvas_pup01" />
+        <propset id="pg_ambcamp01x_tent_hide" />
+        <propset id="pg_ambcamp01x_tent_pupOil02" />
+        <propset id="pg_ambcamp01x_tent_snow01" />
+        <propset id="pg_ambcamp01x_tent_snow02" />
+      </group>
+      <group id="PED_MINER">
+        <propset id="pg_ambcamp01x_tent_oilskin01" />
+        <propset id="pg_ambcamp01x_tent_snow" />
+        <propset id="pg_ambcamp01x_tent_string_tarp" />
+      </group>
+      <group id="PED_RANCHER">
+        <propset id="pg_ambcamp01x_tent_canvas_leanto02" />
+        <propset id="pg_ambcamp01x_tent_canvas_pup01" />
+        <propset id="pg_ambcamp01x_tent_plaid01" />
+        <propset id="pg_ambcamp01x_tent_string" />
+      </group>
+      <group id="PED_ROUGH">
+        <propset id="pg_ambcamp01x_tent_hide_lean" />
+        <propset id="pg_ambcamp01x_tent_sticks" />
+      </group>
+      <group id="TREE_HOUSE1">
+        <propset id="pg_ambcamp01x_tent_shelter_tree_trunk" />
+      </group>
+      <group id="TREE_TIE1">
+        <propset id="pg_ambcamp01x_tent_shelter_tree_tie01" />
+      </group>
+      <group id="TREE_TIE2">
+        <propset id="pg_ambcamp01x_tent_shelter_tree_tie02" />
+      </group>
+      <group id="TREE_SCAFF1">
+        <propset id="pg_ambcamp01x_tent_shelter_tree_scaff" />
+      </group>
+    </tent>
+    <travel>
+      <group id="GENERIC_BED">
+        <propset id="pg_ambient_camp_add_cart01" />
+        <propset id="pg_ambient_camp_add_PackCart02" />
+        <propset id="pg_ambient_camp_add_packWagonPacked01" />
+      </group>
+      <group id="GENERIC_DBL">
+        <propset id="pg_ambient_camp_add_cart01" />
+        <propset id="pg_ambient_camp_add_PackCart06" />
+        <propset id="pg_ambient_camp_add_packWagonConvoy01" />
+        <propset id="pg_ambient_camp_add_packWagonCookPrep01" />
+      </group>
+      <group id="GENERIC_HEAVY">
+        <propset id="pg_ambient_camp_add_packcart05" />
+        <propset id="pg_ambient_camp_add_PackCart06" />
+        <propset id="pg_ambient_camp_add_packWagonConvoy01" />
+        <propset id="pg_ambient_camp_add_packWagonCookPrep01" />
+        <propset id="pg_ambient_camp_add_packWagonPacked01" />
+      </group>
+      <group id="GENERIC_LIGHT">
+        <propset id="pg_ambient_camp_add_pack01" />
+        <propset id="pg_ambient_camp_add_pack02" />
+        <propset id="pg_ambient_camp_add_pack03" />
+        <propset id="pg_ambient_camp_add_pack04" />
+      </group>
+      <group id="GENERIC_MED">
+        <propset id="pg_ambient_camp_add_cart01" />
+        <propset id="pg_ambient_camp_add_PackCart01" />
+        <propset id="pg_ambient_camp_add_PackCart02" />
+        <propset id="pg_ambient_camp_add_PackCart03" />
+        <propset id="pg_ambient_camp_add_PackCart04" />
+        <propset id="pg_ambient_camp_add_PackCart05" />
+      </group>
+      <group id="GROUND_COLD">
+        <propset id="pg_ambient_camp_add_PackCart01" />
+        <propset id="pg_ambient_camp_add_PackCart05" />
+        <propset id="pg_ambient_camp_add_packWagonCookPrep01" />
+        <propset id="pg_ambient_camp_add_packWagonPacked01" />
+      </group>
+      <group id="GROUND_WET">
+        <propset id="pg_ambient_camp_add_PackCart01" />
+        <propset id="pg_ambient_camp_add_PackCart05" />
+        <propset id="pg_ambient_camp_add_packWagonCookPrep01" />
+        <propset id="pg_ambient_camp_add_packWagonPacked01" />
+      </group>
+      <group id="PED_ABANDONED">
+        <propset id="pg_ambient_camp_add_cart01" />
+      </group>
+      <group id="PED_FANCY">
+        <propset id="pg_ambient_camp_add_PackCart05" />
+        <propset id="pg_ambient_camp_add_packWagonCookPrep01" />
+      </group>
+      <group id="PED_FISHERMAN">
+        <propset id="pg_ambient_camp_add_boat01" />
+        <propset id="pg_ambient_camp_add_boat02" />
+        <propset id="pg_ambient_camp_add_canoe01" />
+        <propset id="pg_ambient_camp_add_canoe02" />
+      </group>
+      <group id="PED_HERBALIST">
+        <propset id="pg_ambient_camp_add_pack03" />
+        <propset id="pg_ambient_camp_add_PackCart01" />
+      </group>
+      <group id="PED_HOBO">
+        <propset id="pg_ambient_camp_add_cart01" />
+        <propset id="pg_ambient_camp_add_pack04" />
+        <propset id="pg_ambient_camp_add_PackCart02" />
+        <propset id="pg_ambient_camp_add_PackCart03" />
+      </group>
+      <group id="PED_HUNTER">
+        <propset id="pg_ambient_camp_add_packWagonButcher01" />
+      </group>
+      <group id="PED_MINER">
+        <propset id="pg_ambient_camp_add_pack02" />
+        <propset id="pg_ambient_camp_add_PackCart03" />
+        <propset id="pg_ambient_camp_add_PackCart04" />
+      </group>
+      <group id="PED_RANCHER">
+        <propset id="pg_ambient_camp_add_cart01" />
+        <propset id="pg_ambient_camp_add_PackCart06" />
+        <propset id="pg_ambient_camp_add_packWagonConvoy01" />
+        <propset id="pg_ambient_camp_add_packWagonCookPrep01" />
+      </group>
+      <group id="PED_ROUGH">
+        <propset id="pg_ambient_camp_add_pack03" />
+        <propset id="pg_ambient_camp_add_PackCart01" />
+      </group>
+    </travel>
+    <cluster>
+      <group id="FOLIAGE_CONIFEROUS">
+        <propset id="pg_ambient_camp_add_clothesline01" />
+        <propset id="pg_ambient_camp_add_debrisVeg01" />
+        <propset id="pg_ambient_camp_add_native01" />
+        <propset id="pg_ambient_camp_add_wood" />
+      </group>
+      <group id="FOLIAGE_DECIDUOUS">
+        <propset id="pg_ambient_camp_add_clothesline01" />
+        <propset id="pg_ambient_camp_add_debrisVeg01" />
+        <propset id="pg_ambient_camp_add_explore" />
+        <propset id="pg_ambient_camp_add_forage01" />
+        <propset id="pg_ambient_camp_add_forage02" />
+        <propset id="pg_ambient_camp_add_gamepole01" />
+        <propset id="pg_ambient_camp_add_gear02" />
+        <propset id="pg_ambient_camp_add_gear03" />
+        <propset id="pg_ambient_camp_add_native01" />
+        <propset id="pg_ambient_camp_add_wood" />
+      </group>
+      <group id="FOLIAGE_DRY_GRASS">
+        <propset id="pg_ambient_camp_add_debris01" />
+        <propset id="pg_ambient_camp_add_explore" />
+        <propset id="pg_ambient_camp_add_farmer01" />
+        <propset id="pg_ambient_camp_add_forage01" />
+        <propset id="pg_ambient_camp_add_gear01" />
+        <propset id="pg_ambient_camp_add_lampPost01" />
+        <propset id="pg_ambient_camp_add_makeshiftTable02" />
+        <propset id="pg_ambient_camp_add_tarp01" />
+      </group>
+      <group id="GENERIC_BED">
+        <propset id="pg_ambient_camp_add_bathtub01" />
+        <propset id="pg_ambient_camp_add_clothesline01" />
+        <propset id="pg_ambient_camp_add_forage02" />
+        <propset id="pg_ambient_camp_add_gear02" />
+        <propset id="pg_ambient_camp_add_makeshiftTable02" />
+        <propset id="pg_ambient_camp_add_station02" />
+        <propset id="pg_ambient_camp_add_water01" />
+      </group>
+      <group id="GENERIC_DBL">
+        <propset id="pg_ambient_camp_add_bathtub01" />
+        <propset id="pg_ambient_camp_add_cloth01" />
+        <propset id="pg_ambient_camp_add_cook01" />
+        <propset id="pg_ambient_camp_add_cook02" />
+        <propset id="pg_ambient_camp_add_games01" />
+        <propset id="pg_ambient_camp_add_gear02" />
+        <propset id="pg_ambient_camp_add_glamp" />
+        <propset id="pg_ambient_camp_add_horsetack01" />
+        <propset id="pg_ambient_camp_add_laundry" />
+        <propset id="pg_ambient_camp_add_makeshiftTable01" />
+        <propset id="pg_ambient_camp_add_tarp01" />
+        <propset id="pg_ambient_camp_add_water01" />
+        <propset id="pg_ambient_camp_add_wood" />
+      </group>
+      <group id="GENERIC_HEAVY">
+        <propset id="pg_ambient_camp_add_bathtub01" />
+        <propset id="pg_ambient_camp_add_build" />
+        <propset id="pg_ambient_camp_add_cook01" />
+        <propset id="pg_ambient_camp_add_cook02" />
+        <propset id="pg_ambient_camp_add_games01" />
+        <propset id="pg_ambient_camp_add_gear02" />
+        <propset id="pg_ambient_camp_add_horsetack01" />
+        <propset id="pg_ambient_camp_add_laundry" />
+        <propset id="pg_ambient_camp_add_makeshiftTable01" />
+        <propset id="pg_ambient_camp_add_makeshiftTable02" />
+        <propset id="pg_ambient_camp_add_picnic01" />
+        <propset id="pg_ambient_camp_add_station" />
+        <propset id="pg_ambient_camp_add_station02" />
+        <propset id="pg_ambient_camp_add_tarp01" />
+        <propset id="pg_ambient_camp_add_water01" />
+      </group>
+      <group id="GENERIC_LIGHT">
+        <propset id="pg_ambient_camp_add_cloth01" />
+        <propset id="pg_ambient_camp_add_clothesline01" />
+        <propset id="pg_ambient_camp_add_gamePole01" />
+        <propset id="pg_ambient_camp_add_gear01" />
+        <propset id="pg_ambient_camp_add_gear03" />
+        <propset id="pg_ambient_camp_add_wood" />
+      </group>
+      <group id="GENERIC_MED">
+        <propset id="pg_ambient_camp_add_bathtub01" />
+        <propset id="pg_ambient_camp_add_debris01" />
+        <propset id="pg_ambient_camp_add_gamePole01" />
+        <propset id="pg_ambient_camp_add_games01" />
+        <propset id="pg_ambient_camp_add_gear02" />
+        <propset id="pg_ambient_camp_add_gear03" />
+        <propset id="pg_ambient_camp_add_glamp" />
+        <propset id="pg_ambient_camp_add_lampPost01" />
+        <propset id="pg_ambient_camp_add_makeshiftTable01" />
+        <propset id="pg_ambient_camp_add_picnic01" />
+        <propset id="pg_ambient_camp_add_tarp01" />
+        <propset id="pg_ambient_camp_add_wood" />
+      </group>
+      <group id="GROUND_COLD">
+        <propset id="pg_ambient_camp_add_bathtub01" />
+        <propset id="pg_ambient_camp_add_cloth01" />
+        <propset id="pg_ambient_camp_add_gear02" />
+        <propset id="pg_ambient_camp_add_gear03" />
+        <propset id="pg_ambient_camp_add_makeshiftTable01" />
+        <propset id="pg_ambient_camp_add_pelts01" />
+        <propset id="pg_ambient_camp_add_snow01" />
+        <propset id="pg_ambient_camp_add_tarp01" />
+        <propset id="pg_ambient_camp_add_wood" />
+      </group>
+      <group id="GROUND_WET">
+        <propset id="pg_ambient_camp_add_bathtub01" />
+        <propset id="pg_ambient_camp_add_gear02" />
+        <propset id="pg_ambient_camp_add_gear03" />
+        <propset id="pg_ambient_camp_add_makeshiftTable01" />
+        <propset id="pg_ambient_camp_add_makeshiftTable02" />
+        <propset id="pg_ambient_camp_add_tarp01" />
+      </group>
+      <group id="PED_ABANDONED">
+        <propset id="pg_ambient_camp_add_build" />
+        <propset id="pg_ambient_camp_add_cook02" />
+        <propset id="pg_ambient_camp_add_debris01" />
+        <propset id="pg_ambient_camp_add_debrisVeg01" />
+        <propset id="pg_ambient_camp_add_tarp01" />
+        <propset id="pg_ambient_camp_add_wood" />
+      </group>
+      <group id="PED_FANCY">
+        <propset id="pg_ambient_camp_add_cook01" />
+        <propset id="pg_ambient_camp_add_games01" />
+        <propset id="pg_ambient_camp_add_glamp" />
+        <propset id="pg_ambient_camp_add_laundry" />
+        <propset id="pg_ambient_camp_add_picnic01" />
+        <propset id="pg_ambient_camp_add_umbrella01" />
+      </group>
+      <group id="PED_FISHERMAN">
+        <propset id="pg_ambient_camp_add_gear03" />
+        <propset id="pg_ambient_camp_add_fish01" />
+        <propset id="pg_ambient_camp_add_fishGut01" />
+      </group>
+      <group id="PED_HERBALIST">
+        <propset id="pg_ambient_camp_add_explore" />
+        <propset id="pg_ambient_camp_add_forage01" />
+        <propset id="pg_ambient_camp_add_forage02" />
+        <propset id="pg_ambient_camp_add_native01" />
+      </group>
+      <group id="PED_HOBO">
+        <propset id="pg_ambient_camp_add_cloth01" />
+        <propset id="pg_ambient_camp_add_debris01" />
+        <propset id="pg_ambient_camp_add_gear03" />
+        <propset id="pg_ambient_camp_add_lampPost01" />
+        <propset id="pg_ambient_camp_add_makeshiftTable02" />
+        <propset id="pg_ambient_camp_add_tarp01" />
+      </group>
+      <group id="PED_HUNTER">
+        <propset id="pg_ambient_camp_add_butcher01" />
+        <propset id="pg_ambient_camp_add_gamePole01" />
+        <propset id="pg_ambient_camp_add_hangLRG" />
+        <propset id="pg_ambient_camp_add_hangSML" />
+        <propset id="pg_ambient_camp_add_hunt01" />
+        <propset id="pg_ambient_camp_add_hunt02" />
+        <propset id="pg_ambient_camp_add_pelts01" />
+      </group>
+      <group id="PED_MINER">
+        <propset id="pg_ambient_camp_add_mine" />
+      </group>
+      <group id="PED_RANCHER">
+        <propset id="pg_ambient_camp_add_cook02" />
+        <propset id="pg_ambient_camp_add_farmer01" />
+        <propset id="pg_ambient_camp_add_horsetack01" />
+        <propset id="pg_ambient_camp_add_lampPost01" />
+        <propset id="pg_ambient_camp_add_makeshiftTable01" />
+      </group>
+      <group id="PED_ROUGH">
+        <propset id="pg_ambient_camp_add_butcher01" />
+        <propset id="pg_ambient_camp_add_gamePole01" />
+        <propset id="pg_ambient_camp_add_gear02" />
+        <propset id="pg_ambient_camp_add_makeshiftTable02" />
+        <propset id="pg_ambient_camp_add_tarp01" />
+      </group>
+    </cluster>
+  </UNK_4A9E109E>
+</root>

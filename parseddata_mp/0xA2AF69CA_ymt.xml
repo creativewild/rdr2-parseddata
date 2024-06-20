@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_8E3B0655 release="1">
+    <UNK_C961F6FB id="ST_FENCE">
+      <region id="REGION_ROA_VANHORNPOST" shop="SHOP_VAN_FENCE">
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_779A3B24="_s_inv_varmint_rifleammo01x_group" inventoryitem="AMMO_22_AMMOBOX" UNK_5AE07997="AMMO_22" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_779A3B24="_s_inv_rifleAmmo01x_group" inventoryitem="AMMO_RIFLE_AMMOBOX" UNK_5AE07997="AMMO_RIFLE" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_779A3B24="_s_inv_shotgunAmmo01x_group" inventoryitem="AMMO_SHOTGUN_AMMOBOX" UNK_5AE07997="AMMO_SHOTGUN" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_779A3B24="_s_inv_pistolAmmo01x_group" inventoryitem="AMMO_PISTOL_AMMOBOX" UNK_5AE07997="AMMO_PISTOL" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_779A3B24="_s_inv_revolverAmmo01x_group" inventoryitem="AMMO_REVOLVER_AMMOBOX" UNK_5AE07997="AMMO_REVOLVER" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_779A3B24="_s_coffeeTin01x_group" inventoryitem="CONSUMABLE_COFFEE_GNDS_REG" UNK_5AE07997="" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_779A3B24="_p_package01x_group" inventoryitem="CONSUMABLE_SALMON_CAN" UNK_5AE07997="" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_779A3B24="_p_cigarettebox01x_group" inventoryitem="CONSUMABLE_CIGARETTE_BOX" UNK_5AE07997="" UNK_FB82F14="" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="0" UNK_779A3B24="_s_inv_whiskey01x_group" inventoryitem="CONSUMABLE_WHISKEY" UNK_5AE07997="" UNK_FB82F14="" />
+        <UNK_A2C39D22 UNK_779A3B24="_s_coffeeTin01x_dressing" />
+        <UNK_A2C39D22 UNK_779A3B24="_p_package01x_dressing" />
+        <UNK_A2C39D22 UNK_779A3B24="_p_cigarettebox01x_dressing" />
+      </region>
+    </UNK_C961F6FB>
+  </UNK_8E3B0655>
+</root>

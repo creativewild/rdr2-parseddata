@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_55DB8A90>
+    <versions>
+      <version id="1.03" />
+    </versions>
+    <zones>
+      <zone UNK_71E6DE57="1" UNK_14427759="true" UNK_88ACFA4E="3.25" UNK_D1CC2184="3.9" height="2.7" UNK_97B41572="2200" index="0" UNK_7B5351BD="CSW1AUD" UNK_B4A9F4D4="CCSW1_CNV01" UNK_9EA26942="2.3" UNK_70498C91="2.6" x1="0.0" x2="3.5" UNK_43F130B3="0.0" UNK_7F247680="2439.41" UNK_6DE3D3FF="144.0" UNK_8281CFBE="2439.41" UNK_A0DF3421="307.8032" UNK_6B79C957="0.0" UNK_3D66C993="307.803" />
+      <zone UNK_71E6DE57="1" UNK_14427759="false" UNK_88ACFA4E="0.0" UNK_D1CC2184="0.0" height="2.7" UNK_97B41572="4000" index="1" UNK_7B5351BD="CSW1AUD" UNK_B4A9F4D4="CCSW1_CNV01" UNK_9EA26942="2.73" UNK_70498C91="3.03" x1="0.0" x2="4.9" UNK_43F130B3="0.0" UNK_7F247680="2439.62" UNK_6DE3D3FF="0.0" UNK_8281CFBE="2439.62" UNK_A0DF3421="307.803" UNK_6B79C957="0.0" UNK_3D66C993="307.803" />
+    </zones>
+    <scenes>
+      <scene UNK_C45F9BF2="0" scenename="script@vignette@swanson_1@base" UNK_1F71D77C="0" UNK_87A1F1AB="false" UNK_5EA95DD1="false" />
+      <scene UNK_C45F9BF2="1" scenename="script@vignette@swanson_1@leadin_door" UNK_1F71D77C="0" UNK_87A1F1AB="false" UNK_5EA95DD1="false" />
+      <scene UNK_C45F9BF2="2" scenename="script@vignette@swanson_1@leadin_window" UNK_1F71D77C="0" UNK_87A1F1AB="false" UNK_5EA95DD1="false" />
+    </scenes>
+    <entities>
+      <entity UNK_766694D3="0.0" UNK_FFF87C90="0" index="0" model="225514697" UNK_3809BF34="ARTHUR" />
+      <entity UNK_766694D3="0.0" UNK_FFF87C90="1" index="1" model="1618031732" UNK_3809BF34="SWANSON" />
+    </entities>
+    <cutscenes>
+      <cutscene cutname="" UNK_CA4B747="1" UNK_5EE4F054="0" UNK_D9832406="0" UNK_D59EFBF2="false" />
+    </cutscenes>
+    <behaviours>
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="0" UNK_766694D3="1.0" index="0" loop="true" master="false" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="0" synctype="0" UNK_80BBBEA4="false" what="13" when="1" who="0" zone="10" />
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="1" UNK_766694D3="1.0" index="1" loop="false" master="true" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="0" synctype="0" UNK_80BBBEA4="false" what="13" when="4" who="2" zone="0" />
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="1" UNK_766694D3="1.0" index="2" loop="false" master="false" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="1" synctype="0" UNK_80BBBEA4="false" what="6" when="4" who="1" zone="0" />
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="1" UNK_766694D3="0.0" index="3" loop="false" master="false" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="0" synctype="0" UNK_80BBBEA4="false" what="7" when="2" who="0" zone="0" />
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="1" UNK_766694D3="1.0" index="4" loop="false" master="false" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="0" synctype="0" UNK_80BBBEA4="false" what="12" when="4" who="0" zone="0" />
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="1" UNK_766694D3="1.0" index="5" loop="false" master="false" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="1" synctype="0" UNK_80BBBEA4="false" what="6" when="4" who="1" zone="1" />
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="1" UNK_766694D3="1.0" index="6" loop="false" master="true" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="0" synctype="0" UNK_80BBBEA4="false" what="13" when="4" who="1" zone="1" />
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="1" UNK_766694D3="0.0" index="7" loop="false" master="false" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="0" synctype="0" UNK_80BBBEA4="false" what="7" when="2" who="0" zone="1" />
+      <behaviour anim="0" UNK_36C557B8="1.0" UNK_E336E40F="1" UNK_766694D3="1.0" index="8" loop="false" master="false" UNK_DB750BDA="1.0" pause="false" UNK_A579B8AE="0" synctype="0" UNK_80BBBEA4="false" what="12" when="4" who="0" zone="1" />
+    </behaviours>
+    <cameras>
+      <camera UNK_645C338C="2.0" UNK_345A3DB9="30.0" UNK_57FC2160="0.4" UNK_77A8AF4D="0.0" UNK_435EB0A="0.5" UNK_8DC60DB4="0.0" UNK_FD4F833D="0" UNK_1B87D130="2000" zone="0" />
+      <camera UNK_645C338C="1.5" UNK_345A3DB9="30.0" UNK_57FC2160="0.4" UNK_77A8AF4D="0.0" UNK_435EB0A="0.5" UNK_8DC60DB4="0.0" UNK_FD4F833D="0" UNK_1B87D130="2000" zone="1" />
+    </cameras>
+  </UNK_55DB8A90>
+</root>

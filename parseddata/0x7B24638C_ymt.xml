@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4A1A2EA>
+    <camp UNK_DA3CFFD1="true" name="CHO_0 Robbery" pos="[-3525.91, -3297.097, 7.13253]" zone="1">
+      <preset recipe="CFRT_RANCHER_LRG1" />
+    </camp>
+    <camp name="CHO_1" pos="[-3343.319, -3156.112, -9.234425]" UNK_7BF5E826="amb_camp_cho_001" zone="1">
+      <preset recipe="CFRT_HOBO_LRG1" />
+    </camp>
+    <camp name="CHO_2 Dead Camper" pos="[-3683.004, -3016.393, 3.888919]" schedule="HSID_DEAD" zone="1">
+      <preset recipe="CFRT_UNIQUE_TREE_TIE1" />
+    </camp>
+    <camp name="CHO_3" pos="[-3000.969, -2956.322, 24.16992]" zone="2">
+      <preset recipe="CFRT_DBL_GENERIC1" />
+    </camp>
+    <camp UNK_D43B0E78="cho_04_rope_ends" name="CHO_4" pos="[-3449.031, -2931.879, -1.408252]" zone="1">
+      <preset recipe="CFRT_UNIQUE_TREE_TIE2" />
+    </camp>
+    <camp name="CHO_5" pos="[-4062.296, -2816.964, -7.092867]" zone="1">
+      <preset recipe="CFRT_RANCHER_LRG1" />
+    </camp>
+    <camp name="CHO_6" pos="[-4906.317, -2577.193, -8.449292]" zone="1">
+      <preset recipe="CFRT_GENERIC_MED_PUP" />
+    </camp>
+    <camp camper="Rough" name="CHO_7 Dead Camper" pos="[-3439.029, -2503.892, -9.182504]" schedule="HSID_DEAD" zone="1">
+      <preset cluster="pg_ambient_camp_add_debris01" core="pg_ambient_campfire01ax" id="CHO_7 Dead Camper" tent="pg_ambcamp01x_tent_ground04" travel="pg_ambient_camp_add_cart01" />
+    </camp>
+    <camp name="CHO_8" pos="[-3971.095, -2443.944, -10.08081]" zone="1">
+      <preset recipe="CFRT_HOBO_LRG1" />
+    </camp>
+    <camp name="CHO_9 Dead Camper" pos="[-3619.286, -2301.549, -14.04042]" schedule="HSID_DEAD" zone="1">
+      <preset recipe="CFRT_GENERIC_LRG_PLAIN" />
+    </camp>
+    <camp name="CHO_10 Dead Camper" pos="[-3568.649, -2078.352, -14.02534]" schedule="HSID_DEAD" UNK_7BF5E826="amb_camp_cho_010" zone="1">
+      <preset recipe="CFRT_FANCY_MED1" />
+    </camp>
+    <camp name="CHO_11" pos="[-3469.607, -2077.447, -2.146124]" zone="1">
+      <preset recipe="CFRT_GENERIC_MED_PUP" />
+    </camp>
+    <camp name="CHO_12" pos="[-3726.688, -3307.577, -7.087447]" zone="1">
+      <preset recipe="CFRT_GENERIC_MED_LEAN" />
+    </camp>
+    <camp camper="Rough" name="CHO_13" pos="[-4525.241, -2838.432, -10.14498]" UNK_7BF5E826="amb_camp_cho_013" zone="1">
+      <preset cluster="pg_ambient_camp_add_bathtub01" core="pg_ambient_campfire01ax" id="CHO_13" tent="pg_ambcamp01x_tent_wagon_debris" />
+    </camp>
+    <camp UNK_DA3CFFD1="true" camper="Hunter" name="CHO_14 Robbery" pos="[-4252.492, -2865.505, 0.934153]" zone="1">
+      <preset cluster="pg_ambient_camp_add_native01" core="pg_ambient_campfire01ax" id="CHO_14 Robbery" tent="pg_ambcamp01x_tent_scrub_lean" travel="pg_ambient_camp_add_pack03" />
+    </camp>
+    <camp name="CHO_16" pos="[-4346.442, -2799.033, -11.43314]" zone="1">
+      <preset recipe="CFRT_HUNTER_SML1" />
+    </camp>
+    <camp camper="Hunter" name="CHO_17" pos="[-4575.098, -2651.198, -8.556144]" zone="1">
+      <preset cluster="pg_ambient_camp_add_water01" core="pg_ambient_campfire01ax" id="CHO_17" tent="pg_ambcamp01x_tent_scrub_lean" travel="pg_ambient_camp_add_PackCart02" />
+    </camp>
+    <camp name="CHO_18" pos="[-4116.955, -2574.382, -2.066976]" zone="2">
+      <preset recipe="CFRT_GENERIC_MED_LEAN" />
+    </camp>
+    <camp name="CHO_19" pos="[-4169.301, -2526.887, 1.859408]" zone="1">
+      <preset recipe="CFRT_HERBALIST_SML1" />
+    </camp>
+    <camp camper="Rancher" name="CHO_20" pos="[-4918.073, -2462.517, -5.524791]" zone="1">
+      <preset cluster="pg_ambient_camp_add_gear02" core="pg_ambient_campfire01bx" id="CHO_20" tent="pg_ambcamp01x_tent_snow02" travel="pg_ambient_camp_add_packWagonCookPrep01" />
+    </camp>
+    <camp name="CHO_21" pos="[-4307.568, -2200.853, 24.48134]" zone="1">
+      <preset recipe="CFRT_GENERIC_SML_PUP" />
+    </camp>
+    <camp camper="Hunter" name="CHO_22 Dead Camper" pos="[-4118.893, -2193.756, -3.224191]" schedule="HSID_DEAD" zone="2">
+      <preset cluster="pg_ambient_camp_add_forage01" core="pg_ambient_campfire01ax" id="CHO_22 Dead Camper" tent="pg_ambcamp01x_tent_scrub_lean" />
+    </camp>
+    <camp name="HEN_0" pos="[-3030.673, -3060.828, 4.964023]" zone="2">
+      <preset recipe="CFRT_RANCHER_LRG1" />
+    </camp>
+    <camp name="RIO_18" pos="[-4591.391, -3056.912, 6.964922]" UNK_A8EAF664="SPID_SUN_WORSHIPPER" UNK_20C80E0="10" zone="2">
+      <preset recipe="CFRT_DBL_GENERIC2" />
+    </camp>
+  </UNK_B4A1A2EA>
+</root>

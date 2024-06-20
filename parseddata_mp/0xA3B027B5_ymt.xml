@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <unlocks>
+    <UNK_6731669F group="SPECIAL_ABILITY">
+      <unlock id="DEADEYE_LVL_0" />
+      <unlock id="DEADEYE_LVL_1" />
+      <unlock id="DEADEYE_LVL_2" />
+      <unlock id="DEADEYE_LVL_3" />
+      <unlock id="DEADEYE_LVL_4" />
+    </UNK_6731669F>
+    <UNK_6731669F group="CHALLENGE">
+      <unlock id="SP_CHAL_BAND_ROOT" />
+      <unlock id="SP_CHAL_EXPL_ROOT" />
+      <unlock id="SP_CHAL_GAMB_ROOT" />
+      <unlock id="SP_CHAL_HERB_ROOT" />
+      <unlock id="SP_CHAL_HORSE_ROOT" />
+      <unlock id="SP_CHAL_HUNT_ROOT" />
+      <unlock id="SP_CHAL_SHOT_ROOT" />
+      <unlock id="SP_CHAL_SURV_ROOT" />
+      <unlock id="SP_CHAL_WEAP_ROOT" />
+      <unlock id="SP_CHAL_LEGENDARY_PANTHER" />
+      <unlock id="SP_ACHIEVEMENTS" initflags="UF_UNLOCKED" />
+    </UNK_6731669F>
+    <UNK_6731669F group="PERK">
+      <unlock id="OUTFIT_LEGEND_OF_THE_EAST" />
+      <unlock id="SATCHEL_POUCH_01" />
+      <unlock id="SATCHEL_POUCH_02" />
+      <unlock id="SATCHEL_POUCH_03" />
+      <unlock id="SATCHEL_POUCH_04" />
+      <unlock id="SATCHEL_POUCH_05" />
+      <unlock id="SATCHEL_POUCH_06" />
+      <unlock id="SATCHEL_POUCH_07" />
+      <unlock id="SATCHEL_POUCH_08" />
+      <unlock id="SATCHEL_POUCH_09" />
+    </UNK_6731669F>
+    <UNK_6731669F group="PROGRESSION">
+      <unlock id="SP_ENDLESS_SUMMER" />
+      <unlock id="SP_ENDLESS_SUMMER_WEAPONS" />
+      <unlock id="SP_POST_GANG1" />
+      <unlock id="SP_NATIVE_AMERICAN_DIALOGUE_RECEPTIVE" />
+      <unlock id="SP_NATIVE_AMERICAN_DIALOGUE_TRUSTED" />
+      <unlock id="SP_PEDS_REACT_TO_SICK_ATHUR" />
+      <unlock id="COMPENDIUM" />
+      <unlock id="SP_GUARMA_APPEARANCE_ACTIVE" />
+      <unlock id="SP_MUD3_KILLED_WITNESS" />
+      <unlock id="SP_RDCH3_DYNAMITE" />
+      <unlock id="SP_WEAPON_DUALWIELD" />
+      <unlock id="SP_ARTHURS_GRAVE_SCENE" />
+    </UNK_6731669F>
+    <UNK_6731669F group="GAME_CONTENT">
+      <unlock id="SP_GAME_CONTENT_EDITION_SPECIAL" />
+      <unlock id="SP_GAME_CONTENT_EDITION_SPECIAL_REDEEMED" />
+      <unlock id="SP_GAME_CONTENT_PRE_ORDER" />
+      <unlock id="SP_GAME_CONTENT_PRE_ORDER_REDEEMED" />
+      <unlock id="SP_GAME_CONTENT_PRE_ORDER_DIGITAL" />
+      <unlock id="SP_GAME_CONTENT_PRE_ORDER_DIGITAL_REDEEMED" />
+      <unlock id="SP_GAME_CONTENT_PRE_ORDER_ITEMS_REDEEMED" />
+      <unlock id="SP_GAME_CONTENT_ORBIS_DAY_ONE" />
+      <unlock id="SP_GAME_CONTENT_ORBIS_DAY_ONE_REDEEMED" />
+    </UNK_6731669F>
+    <UNK_6731669F group="GAME_CONTENT_CROSS_PROMOTION">
+      <unlock id="SP_GAME_CONTENT_CROSS_PROMOTION_REVOLVER" />
+      <unlock id="SP_GAME_CONTENT_CROSS_PROMOTION_REVOLVER_REDEEMED" />
+      <unlock id="SP_GAME_CONTENT_CROSS_PROMOTION_HATCHET" />
+    </UNK_6731669F>
+    <UNK_6731669F group="MENUS">
+      <unlock id="MENU_HELP_GENERAL" initflags="UF_UNLOCKED" />
+      <unlock id="MENU_HELP_COMBAT" initflags="UF_UNLOCKED" />
+      <unlock id="MENU_HELP_HORSE" initflags="UF_UNLOCKED" />
+      <unlock id="MENU_HELP_CRIME" initflags="UF_UNLOCKED" />
+      <unlock id="MENU_HELP_ACTIVITIES" initflags="UF_UNLOCKED" />
+      <unlock id="MENU_HELP_ACTIVITIES_FISHING" initflags="UF_UNLOCKED" />
+      <unlock id="MENU_HELP_ACTIVITIES_POKER" initflags="UF_UNLOCKED" />
+      <unlock id="MENU_HELP_ACTIVITIES_BLACKJACK" initflags="UF_UNLOCKED" />
+      <unlock id="MENU_HELP_ACTIVITIES_DOMINOES" initflags="UF_UNLOCKED" />
+      <unlock id="HELP_HELP_ACTIVITIES_FFF" initflags="UF_UNLOCKED" />
+      <unlock id="MENU_HELP_ACTIVITIES_HUNTING" initflags="UF_UNLOCKED" />
+    </UNK_6731669F>
+  </unlocks>
+</root>

@@ -1,0 +1,953 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <animal_transformation_data>
+    <locations>
+      <location animal="ROLE_NATURALIST_SKILL_ANIMAL_CONTROL_BUCK" id="ANIMAL_TRANSFORMATION_LOCATION_00" name="Buck - Hanging Dog (BGV)" position="[-2235.002, 608.6867, 117.217]" radius="50.0">
+        <UNK_642C69CD UNK_DB8E876A="300" UNK_1AABCBBB="15" mission="ANIMAL_TRANSFORMATION_LOCATION_00" position="[-2232.098, 673.275, 117.43]" radius="300.0" />
+        <UNK_E726DF4F>
+          <UNK_2F38FCD7 id="INITIAL">
+            <UNK_8544B5A7 heading="180.0" position="[-2235.002, 608.6867, 117.217]" />
+            <UNK_8544B5A7 heading="130.0" position="[-2232.456, 607.7468, 117.151]" />
+            <UNK_8544B5A7 heading="150.0" position="[-2236.75, 612.225, 117.1812]" />
+            <UNK_8544B5A7 heading="80.0" position="[-2237.078, 602.8832, 117.1]" />
+            <UNK_8544B5A7 heading="256.9" position="[-2228.627, 615.7778, 116.889]" />
+            <UNK_8544B5A7 heading="300.0" position="[-2246.97, 605.3308, 117.2592]" />
+            <UNK_8544B5A7 heading="115.2" position="[-2235.507, 622.2424, 117.44]" />
+          </UNK_2F38FCD7>
+          <UNK_2F38FCD7 id="ENDING_PRIMARY">
+            <UNK_8544B5A7 heading="160.0" position="[-2236.962, 617.128, 117.301]" />
+            <UNK_8544B5A7 heading="60.0" position="[-2216.401, 588.0157, 116.977]" />
+            <UNK_8544B5A7 heading="240.0" position="[-2300.521, 627.5364, 119.2131]" />
+            <UNK_8544B5A7 heading="50.0" position="[-2104.185, 592.7574, 115.6229]" />
+            <UNK_8544B5A7 heading="120.0" position="[-2224.668, 641.091, 117.8728]" />
+            <UNK_8544B5A7 heading="330.0" position="[-2264.169, 565.5101, 118.5773]" />
+            <UNK_8544B5A7 heading="240.0" position="[-2413.089, 765.7335, 133.5471]" />
+            <UNK_8544B5A7 heading="280.0" position="[-2391.66, 589.3079, 124.1776]" />
+            <UNK_8544B5A7 heading="10.0" position="[-2160.575, 488.1159, 117.4371]" />
+            <UNK_8544B5A7 heading="30.0" position="[-2174.558, 528.3041, 116.386]" />
+            <UNK_8544B5A7 heading="350.0" position="[-2238.267, 506.1065, 118.5216]" />
+            <UNK_8544B5A7 heading="320.0" position="[-2318.216, 520.3546, 118.6106]" />
+            <UNK_8544B5A7 heading="300.0" position="[-2393.263, 542.4177, 123.7797]" />
+            <UNK_8544B5A7 heading="260.0" position="[-2356.322, 620.0433, 121.4721]" />
+            <UNK_8544B5A7 heading="240.0" position="[-2357.348, 659.202, 121.3608]" />
+            <UNK_8544B5A7 heading="220.0" position="[-2295.046, 688.3235, 118.1331]" />
+            <UNK_8544B5A7 heading="100.0" position="[-2074.752, 559.3809, 115.4086]" />
+            <UNK_8544B5A7 heading="60.0" position="[-2085.416, 495.5253, 117.005]" />
+            <UNK_8544B5A7 heading="10.0" position="[-2117.278, 455.4977, 116.7317]" />
+            <UNK_8544B5A7 heading="70.0" position="[-2027.302, 469.9907, 119.4844]" />
+            <UNK_8544B5A7 heading="60.0" position="[-2000.012, 503.6843, 117.5577]" />
+            <UNK_8544B5A7 heading="70.0" position="[-1970.309, 552.5322, 114.9185]" />
+            <UNK_8544B5A7 heading="100.0" position="[-1950.595, 607.9612, 114.3155]" />
+            <UNK_8544B5A7 heading="90.0" position="[-2064.695, 629.0879, 118.7035]" />
+            <UNK_8544B5A7 heading="120.0" position="[-2170.344, 607.9905, 116.3797]" />
+            <UNK_8544B5A7 heading="130.0" position="[-2089.302, 840.4384, 138.744]" />
+            <UNK_8544B5A7 heading="150.0" position="[-2148.176, 879.1451, 144.3441]" />
+            <UNK_8544B5A7 heading="190.0" position="[-2202.135, 853.447, 141.0671]" />
+            <UNK_8544B5A7 heading="150.0" position="[-2246.708, 787.0156, 137.2961]" />
+            <UNK_8544B5A7 heading="110.0" position="[-2126.237, 745.1993, 124.9117]" />
+            <UNK_8544B5A7 heading="320.0" position="[-2492.721, 552.0409, 136.9549]" />
+            <UNK_8544B5A7 heading="300.0" position="[-2505.892, 585.2501, 135.112]" />
+            <UNK_8544B5A7 heading="250.0" position="[-2513.94, 615.7495, 133.2863]" />
+            <UNK_8544B5A7 heading="130.0" position="[-2459.164, 493.6116, 139.4845]" />
+            <UNK_8544B5A7 heading="110.0" position="[-2419.388, 453.1633, 144.5442]" />
+            <UNK_8544B5A7 heading="330.0" position="[-2164.658, 394.5839, 133.8038]" />
+            <UNK_8544B5A7 heading="350.0" position="[-2096.926, 419.871, 118.6864]" />
+            <UNK_8544B5A7 heading="130.0" position="[-1939.964, 670.1561, 125.156]" />
+            <UNK_8544B5A7 heading="120.0" position="[-1976.41, 804.2501, 144.1829]" />
+            <UNK_8544B5A7 heading="100.0" position="[-2049.676, 893.6656, 145.3121]" />
+            <UNK_8544B5A7 heading="110.0" position="[-2076.616, 914.3918, 145.1712]" />
+            <UNK_8544B5A7 heading="240.0" position="[-2269.079, 962.4422, 175.0442]" />
+            <UNK_8544B5A7 heading="180.0" position="[-2345.503, 938.1164, 164.3951]" />
+            <UNK_8544B5A7 heading="170.0" position="[-2379.414, 925.6451, 168.7711]" />
+            <UNK_8544B5A7 heading="190.0" position="[-2450.561, 863.5339, 145.4227]" />
+            <UNK_8544B5A7 heading="140.0" position="[-2481.927, 815.9293, 139.8495]" />
+            <UNK_8544B5A7 heading="230.0" position="[-2504.028, 769.1409, 135.957]" />
+            <UNK_8544B5A7 heading="260.0" position="[-2514.284, 708.6085, 147.3275]" />
+          </UNK_2F38FCD7>
+          <UNK_2F38FCD7 id="ENDING_FALLBACK">
+            <UNK_8544B5A7 heading="210.0" position="[-2245.938, 627.0781, 116.7643]" />
+            <UNK_8544B5A7 heading="230.0" position="[-2246.272, 623.1241, 116.7459]" />
+            <UNK_8544B5A7 heading="260.0" position="[-2251.938, 606.8102, 116.8608]" />
+            <UNK_8544B5A7 heading="280.0" position="[-2252.941, 601.7023, 116.8943]" />
+            <UNK_8544B5A7 heading="90.0" position="[-2230.493, 604.4714, 116.7888]" />
+          </UNK_2F38FCD7>
+        </UNK_E726DF4F>
+        <scenes>
+          <scene id="TRANSFORMATION" UNK_5131579C="initial_transform">
+            <origin type="PLAYER" />
+            <playlists>
+              <playlist id="pl_stand">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_stand_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_TransformFromCrouchStand">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="CROUCHING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_TransformFromCrouchStand_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="CROUCHING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_fall">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_fall_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+            </playlists>
+          </scene>
+          <scene id="TRANSFORMATION_FAIL" UNK_5131579C="fail_transform">
+            <origin type="PLAYER" />
+            <playlists>
+              <playlist id="pl_fail">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_fail_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_FailCrouch">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="CROUCHING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_FailCrouch_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="CROUCHING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+            </playlists>
+          </scene>
+          <scene id="PRIMARY_GET_UP" UNK_5131579C="primary_standard_get_up">
+            <origin type="PLAYER" />
+            <playlists>
+              <playlist id="pl_common_v2" />
+              <playlist id="pl_common_v3" />
+            </playlists>
+          </scene>
+          <scene id="FALLBACK_GET_UP" UNK_5131579C="fallback_standard_get_up">
+            <origin type="PLAYER" />
+            <playlists>
+              <playlist id="pl_common_v2" />
+              <playlist id="pl_common_v3" />
+            </playlists>
+          </scene>
+        </scenes>
+        <UNK_EAEB9754>
+          <UNK_54AE6499 UNK_143ECDC2="INPUT_CONTEXT_X" id="INSPECT" name="ANIMAL_TRANSFORMATION_INSPECT" position="[-2235.775, 608.3672, 117.2466]" radius="2.0" />
+        </UNK_EAEB9754>
+        <eagle_eye>
+          <prop blue="0" green="215" model="mp007_p_mp_tracksBuck01x" position="[-2235.371, 607.5947, 117.2343]" radius="0.5" red="255" />
+          <prop blue="0" green="215" model="mp007_p_mp_tracksBuck02x" position="[-2235.775, 608.3672, 117.2466]" radius="0.5" red="255" />
+          <prop blue="0" green="215" model="mp007_p_mp_tracksBuck01x" position="[-2235.379, 609.2644, 117.2217]" radius="0.5" red="255" />
+          <prop blue="0" green="215" model="mp007_p_mp_tracksBuck01x" position="[-2235.699, 610.0135, 117.2123]" radius="0.5" red="255" />
+        </eagle_eye>
+        <props>
+          <prop model="mp007_p_mp_tracksBuck01x" position="[-2235.371, 607.5947, 117.2343]" rotation="[0.0, 0.0, 281.0]" />
+          <prop model="mp007_p_mp_tracksBuck02x" position="[-2235.775, 608.3672, 117.2466]" rotation="[0.0, 0.0, 280.0]" />
+          <prop model="mp007_p_mp_tracksBuck01x" position="[-2235.379, 609.2644, 117.2217]" rotation="[0.0, 0.0, 281.0]" />
+          <prop model="mp007_p_mp_tracksBuck01x" position="[-2235.699, 610.0135, 117.2123]" rotation="[0.0, 0.0, 280.0]" />
+        </props>
+      </location>
+      <location animal="ROLE_NATURALIST_SKILL_ANIMAL_CONTROL_BOAR" id="ANIMAL_TRANSFORMATION_LOCATION_01" name="Boar - Bolger Glade (SCM)" position="[1580.738, -1889.184, 48.92475]" radius="50.0">
+        <UNK_642C69CD UNK_DB8E876A="300" UNK_1AABCBBB="15" mission="ANIMAL_TRANSFORMATION_LOCATION_01" position="[1685.236, -1808.213, 51.04822]" radius="300.0" />
+        <UNK_E726DF4F>
+          <UNK_2F38FCD7 id="INITIAL">
+            <UNK_8544B5A7 heading="80.0" position="[1580.738, -1889.184, 48.92475]" />
+            <UNK_8544B5A7 heading="120.0" position="[1582.807, -1886.945, 49.17491]" />
+            <UNK_8544B5A7 heading="180.0" position="[1579.833, -1884.245, 49.20765]" />
+            <UNK_8544B5A7 heading="130.0" position="[1585.907, -1884.391, 49.21791]" />
+            <UNK_8544B5A7 heading="170.0" position="[1575.574, -1882.304, 48.99981]" />
+            <UNK_8544B5A7 heading="204.4" position="[1590.044, -1892.586, 49.3084]" />
+            <UNK_8544B5A7 heading="198.6" position="[1570.441, -1897.003, 48.9465]" />
+          </UNK_2F38FCD7>
+          <UNK_2F38FCD7 id="ENDING_PRIMARY">
+            <UNK_8544B5A7 heading="140.0" position="[1581.765, -1885.231, 49.036]" />
+            <UNK_8544B5A7 heading="150.0" position="[1568.681, -1884.933, 49.04662]" />
+            <UNK_8544B5A7 heading="120.0" position="[1576.676, -1897.754, 48.74108]" />
+            <UNK_8544B5A7 heading="60.0" position="[1570.288, -1876.038, 49.34906]" />
+            <UNK_8544B5A7 heading="340.0" position="[1564.843, -1999.006, 49.7349]" />
+            <UNK_8544B5A7 heading="110.0" position="[1827.417, -1552.613, 44.17838]" />
+            <UNK_8544B5A7 heading="70.0" position="[1496.29, -2026.218, 43.89267]" />
+            <UNK_8544B5A7 heading="180.0" position="[1682.782, -1821.07, 50.20369]" />
+            <UNK_8544B5A7 heading="70.0" position="[1766.013, -1923.073, 46.74087]" />
+            <UNK_8544B5A7 heading="200.0" position="[1491.954, -1760.932, 57.58884]" />
+            <UNK_8544B5A7 heading="50.0" position="[1670.127, -1648.169, 53.95829]" />
+            <UNK_8544B5A7 heading="40.0" position="[1784.306, -1773.943, 48.61135]" />
+            <UNK_8544B5A7 heading="120.0" position="[1940.192, -1799.227, 40.727]" />
+            <UNK_8544B5A7 heading="300.0" position="[1956.28, -1881.557, 41.00735]" />
+            <UNK_8544B5A7 heading="250.0" position="[1888.586, -1973.466, 42.0737]" />
+            <UNK_8544B5A7 heading="200.0" position="[1812.594, -2017.724, 42.9283]" />
+            <UNK_8544B5A7 heading="60.0" position="[1743.238, -2079.878, 43.039]" />
+            <UNK_8544B5A7 heading="30.0" position="[1628.387, -2074.758, 41.39485]" />
+            <UNK_8544B5A7 heading="88.8" position="[1490.226, -1600.655, 71.8308]" />
+            <UNK_8544B5A7 heading="187.2" position="[1419.856, -1750.378, 67.0051]" />
+            <UNK_8544B5A7 heading="228.5" position="[1428.564, -1704.308, 66.4877]" />
+            <UNK_8544B5A7 heading="23.0" position="[1460.911, -1657.995, 66.2588]" />
+            <UNK_8544B5A7 heading="272.2" position="[1557.858, -1553.473, 63.5295]" />
+            <UNK_8544B5A7 heading="357.1" position="[1617.536, -1540.448, 58.5687]" />
+            <UNK_8544B5A7 heading="217.1" position="[1700.241, -1525.59, 49.7555]" />
+            <UNK_8544B5A7 heading="18.0" position="[1557.183, -2046.771, 47.4182]" />
+            <UNK_8544B5A7 heading="319.7" position="[1429.654, -1947.177, 50.1093]" />
+            <UNK_8544B5A7 heading="281.1" position="[1416.677, -1897.685, 52.765]" />
+            <UNK_8544B5A7 heading="331.4" position="[1898.204, -1601.815, 42.7387]" />
+            <UNK_8544B5A7 heading="352.3" position="[1749.164, -1524.262, 45.8851]" />
+            <UNK_8544B5A7 heading="84.7" position="[1398.228, -1805.471, 61.63743]" />
+            <UNK_8544B5A7 heading="330.0" position="[1923.264, -1714.627, 41.6628]" />
+            <UNK_8544B5A7 heading="180.0" position="[1567.405, -1757.471, 52.48757]" />
+            <UNK_8544B5A7 heading="230.0" position="[1509.169, -1718.917, 58.82838]" />
+            <UNK_8544B5A7 heading="160.0" position="[1598.002, -1807.927, 51.43265]" />
+            <UNK_8544B5A7 heading="240.0" position="[1559.393, -1833.435, 49.59954]" />
+            <UNK_8544B5A7 heading="20.0" position="[1611.276, -1895.986, 49.91674]" />
+          </UNK_2F38FCD7>
+          <UNK_2F38FCD7 id="ENDING_FALLBACK">
+            <UNK_8544B5A7 heading="340.0" position="[1573.31, -1908.486, 49.098]" />
+            <UNK_8544B5A7 heading="20.0" position="[1575.883, -1909.495, 49.035]" />
+            <UNK_8544B5A7 heading="350.0" position="[1578.732, -1909.289, 48.881]" />
+            <UNK_8544B5A7 heading="100.0" position="[1597.385, -1889.581, 49.793]" />
+            <UNK_8544B5A7 heading="90.0" position="[1598.52, -1893.847, 49.786]" />
+          </UNK_2F38FCD7>
+        </UNK_E726DF4F>
+        <scenes>
+          <scene id="TRANSFORMATION" UNK_5131579C="initial_transform">
+            <origin type="PLAYER" />
+            <playlists>
+              <playlist id="pl_stand">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_stand_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_TransformFromCrouchStand">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="CROUCHING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_TransformFromCrouchStand_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="CROUCHING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_fall">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_fall_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+            </playlists>
+          </scene>
+          <scene id="TRANSFORMATION_FAIL" UNK_5131579C="fail_transform">
+            <origin type="PLAYER" />
+            <playlists>
+              <playlist id="pl_fail">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_fail_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_FailCrouch">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="CROUCHING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_FailCrouch_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="CROUCHING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+            </playlists>
+          </scene>
+          <scene id="PRIMARY_GET_UP" UNK_5131579C="primary_standard_get_up">
+            <origin type="PLAYER" />
+            <playlists>
+              <playlist id="pl_common_v2" />
+              <playlist id="pl_common_v3" />
+            </playlists>
+          </scene>
+          <scene id="FALLBACK_GET_UP" UNK_5131579C="fallback_standard_get_up">
+            <origin type="PLAYER" />
+            <playlists>
+              <playlist id="pl_common_v2" />
+              <playlist id="pl_common_v3" />
+            </playlists>
+          </scene>
+        </scenes>
+        <UNK_EAEB9754>
+          <UNK_54AE6499 UNK_143ECDC2="INPUT_CONTEXT_X" id="INSPECT" name="ANIMAL_TRANSFORMATION_INSPECT" position="[1579.056, -1888.078, 48.89692]" radius="2.0" />
+        </UNK_EAEB9754>
+        <eagle_eye>
+          <prop blue="0" green="215" model="mp007_p_mp_tracksBoar02x" position="[1578.488, -1888.747, 48.91368]" radius="0.5" red="255" />
+          <prop blue="0" green="215" model="mp007_p_mp_tracksBoar01x" position="[1579.056, -1888.078, 48.89692]" radius="0.5" red="255" />
+          <prop blue="0" green="215" model="mp007_p_mp_tracksBoar01x" position="[1578.649, -1887.119, 48.93131]" radius="0.5" red="255" />
+          <prop blue="0" green="215" model="mp007_p_mp_tracksBoar01x" position="[1579.143, -1886.29, 48.94737]" radius="0.5" red="255" />
+        </eagle_eye>
+        <props>
+          <prop model="mp007_p_mp_tracksBoar02x" position="[1578.488, -1888.747, 48.91368]" rotation="[0.0, 0.0, 250.0]" />
+          <prop model="mp007_p_mp_tracksBoar01x" position="[1579.056, -1888.078, 48.89692]" rotation="[0.0, 0.0, 252.0]" />
+          <prop model="mp007_p_mp_tracksBoar01x" position="[1578.649, -1887.119, 48.93131]" rotation="[0.0, 0.0, 251.0]" />
+          <prop model="mp007_p_mp_tracksBoar01x" position="[1579.143, -1886.29, 48.94737]" rotation="[0.0, 0.0, 253.0]" />
+        </props>
+      </location>
+      <location animal="ROLE_NATURALIST_SKILL_ANIMAL_CONTROL_POSSUM" id="ANIMAL_TRANSFORMATION_LOCATION_02" name="Opossum - Burnt Forest (HRT)" position="[-273.7892, 109.1427, 60.41912]" radius="50.0">
+        <UNK_642C69CD UNK_DB8E876A="300" UNK_1AABCBBB="15" mission="ANIMAL_TRANSFORMATION_LOCATION_02" position="[-241.092, 77.809, 59.16761]" radius="300.0" />
+        <UNK_E726DF4F>
+          <UNK_2F38FCD7 id="INITIAL">
+            <UNK_8544B5A7 heading="80.0" position="[-273.7892, 109.1427, 60.41912]" />
+            <UNK_8544B5A7 heading="110.0" position="[-269.16, 112.81, 60.852]" />
+            <UNK_8544B5A7 heading="57.7" position="[-262.6045, 106.6093, 60.8611]" />
+            <UNK_8544B5A7 heading="97.4" position="[-271.0278, 121.3332, 60.9004]" />
+            <UNK_8544B5A7 heading="304.1" position="[-286.9764, 103.3884, 59.4042]" />
+            <UNK_8544B5A7 heading="213.2" position="[-282.0711, 120.9474, 60.5565]" />
+            <UNK_8544B5A7 heading="237.9" position="[-273.7225, 94.5413, 59.0864]" />
+          </UNK_2F38FCD7>
+          <UNK_2F38FCD7 id="ENDING_PRIMARY">
+            <UNK_8544B5A7 heading="90.0" position="[-279.2024, 112.7188, 60.46469]" />
+            <UNK_8544B5A7 heading="80.0" position="[-274.3668, -30.0275, 50.55218]" />
+            <UNK_8544B5A7 heading="60.0" position="[-167.6447, 141.8737, 94.91211]" />
+            <UNK_8544B5A7 heading="70.0" position="[-383.7497, 76.22787, 40.7781]" />
+            <UNK_8544B5A7 heading="110.0" position="[-171.8978, -21.76707, 94.87878]" />
+            <UNK_8544B5A7 heading="250.0" position="[-477.8475, -76.46198, 42.51092]" />
+            <UNK_8544B5A7 heading="110.0" position="[-522.581, 20.753, 61.644]" />
+            <UNK_8544B5A7 heading="240.0" position="[-429.2391, 42.97823, 42.28199]" />
+            <UNK_8544B5A7 heading="280.0" position="[-497.137, 136.897, 40.804]" />
+            <UNK_8544B5A7 heading="100.0" position="[-490.0031, 206.4954, 40.674]" />
+            <UNK_8544B5A7 heading="180.0" position="[-438.356, 274.494, 50.002]" />
+            <UNK_8544B5A7 heading="160.0" position="[-286.362, 361.132, 56.36]" />
+            <UNK_8544B5A7 heading="150.0" position="[-210.132, 365.73, 95.381]" />
+            <UNK_8544B5A7 heading="130.0" position="[-157.241, 354.023, 97.774]" />
+            <UNK_8544B5A7 heading="100.0" position="[-112.787, 334.889, 102.161]" />
+            <UNK_8544B5A7 heading="170.0" position="[-63.852, 302.892, 106.698]" />
+            <UNK_8544B5A7 heading="100.0" position="[-26.136, 270.493, 108.582]" />
+            <UNK_8544B5A7 heading="90.0" position="[-6.532, 241.864, 108.141]" />
+            <UNK_8544B5A7 heading="100.0" position="[24.254, 191.755, 106.543]" />
+            <UNK_8544B5A7 heading="80.0" position="[33.877, 163.67, 104.689]" />
+            <UNK_8544B5A7 heading="110.0" position="[44.57, 113.773, 100.804]" />
+            <UNK_8544B5A7 heading="130.0" position="[45.146, 63.379, 101.233]" />
+            <UNK_8544B5A7 heading="90.0" position="[34.702, 16.253, 101.516]" />
+            <UNK_8544B5A7 heading="100.0" position="[7.915, -40.711, 104.993]" />
+            <UNK_8544B5A7 heading="120.0" position="[-27.952, -114.592, 102.236]" />
+            <UNK_8544B5A7 heading="50.0" position="[-84.338, -154.34, 97.636]" />
+            <UNK_8544B5A7 heading="140.0" position="[-124.2848, -184.7479, 94.19476]" />
+            <UNK_8544B5A7 heading="90.0" position="[-185.875, -167.448, 89.362]" />
+            <UNK_8544B5A7 heading="100.0" position="[-232.368, -181.978, 87.559]" />
+            <UNK_8544B5A7 heading="40.0" position="[-320.54, -168.737, 52.669]" />
+            <UNK_8544B5A7 heading="90.0" position="[-350.5073, -135.7771, 46.9335]" />
+            <UNK_8544B5A7 heading="100.0" position="[-416.871, -139.768, 43.622]" />
+          </UNK_2F38FCD7>
+          <UNK_2F38FCD7 id="ENDING_FALLBACK">
+            <UNK_8544B5A7 heading="80.0" position="[-286.33, 99.865, 59.198]" />
+            <UNK_8544B5A7 heading="70.0" position="[-284.359, 96.559, 58.977]" />
+            <UNK_8544B5A7 heading="80.0" position="[-281.208, 100.388, 59.278]" />
+            <UNK_8544B5A7 heading="150.0" position="[-276.155, 125.349, 60.803]" />
+            <UNK_8544B5A7 heading="120.0" position="[-280.336, 127.409, 60.775]" />
+          </UNK_2F38FCD7>
+        </UNK_E726DF4F>
+        <scenes>
+          <scene id="TRANSFORMATION" UNK_5131579C="initial_transform">
+            <origin type="PLAYER" />
+            <playlists>
+              <playlist id="pl_stand">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_stand_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_TransformFromCrouchStand">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="CROUCHING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_TransformFromCrouchStand_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="CROUCHING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_fall">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_fall_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+            </playlists>
+          </scene>
+          <scene id="TRANSFORMATION_FAIL" UNK_5131579C="fail_transform">
+            <origin type="PLAYER" />
+            <playlists>
+              <playlist id="pl_fail">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_fail_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_FailCrouch">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="CROUCHING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_FailCrouch_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="CROUCHING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+            </playlists>
+          </scene>
+          <scene id="PRIMARY_GET_UP" UNK_5131579C="primary_standard_get_up">
+            <origin type="PLAYER" />
+            <playlists>
+              <playlist id="pl_critter_v1" />
+              <playlist id="pl_critter_v2" />
+            </playlists>
+          </scene>
+          <scene id="FALLBACK_GET_UP" UNK_5131579C="fallback_standard_get_up">
+            <origin type="PLAYER" />
+            <playlists>
+              <playlist id="pl_critter_v1" />
+              <playlist id="pl_critter_v2" />
+            </playlists>
+          </scene>
+        </scenes>
+        <UNK_EAEB9754>
+          <UNK_54AE6499 UNK_143ECDC2="INPUT_CONTEXT_X" id="INSPECT" name="ANIMAL_TRANSFORMATION_INSPECT" position="[-275.4334, 109.8655, 60.52072]" radius="1.0" />
+        </UNK_EAEB9754>
+        <eagle_eye>
+          <prop blue="0" green="215" model="mp007_p_mp_trackspossum02x" position="[-274.8368, 111.5657, 60.59853]" radius="0.5" red="255" />
+          <prop blue="0" green="215" model="mp007_p_mp_trackspossum01x" position="[-275.0106, 111.0891, 60.56521]" radius="0.5" red="255" />
+          <prop blue="0" green="215" model="mp007_p_mp_trackspossum01x" position="[-275.2308, 110.5159, 60.56612]" radius="0.5" red="255" />
+          <prop blue="0" green="215" model="mp007_p_mp_trackspossum01x" position="[-275.4334, 109.8655, 60.52072]" radius="0.5" red="255" />
+        </eagle_eye>
+        <props>
+          <prop model="mp007_p_mp_trackspossum02x" position="[-274.8368, 111.5657, 60.59853]" rotation="[0.0, 0.0, 260.0]" />
+          <prop model="mp007_p_mp_trackspossum01x" position="[-275.0106, 111.0891, 60.56521]" rotation="[0.0, 0.0, 262.0]" />
+          <prop model="mp007_p_mp_trackspossum01x" position="[-275.2308, 110.5159, 60.56612]" rotation="[0.0, 0.0, 259.0]" />
+          <prop model="mp007_p_mp_trackspossum01x" position="[-275.4334, 109.8655, 60.52072]" rotation="[0.0, 0.0, 264.0]" />
+        </props>
+      </location>
+      <location animal="ROLE_NATURALIST_SKILL_ANIMAL_CONTROL_RABBIT" id="ANIMAL_TRANSFORMATION_LOCATION_03" name="Rabbit - Wilderness (TAL)" position="[-2081.098, -1439.361, 127.2812]" radius="50.0">
+        <UNK_642C69CD UNK_DB8E876A="300" UNK_1AABCBBB="15" mission="ANIMAL_TRANSFORMATION_LOCATION_03" position="[-2194.995, -1502.347, 139.3846]" radius="300.0" />
+        <UNK_E726DF4F>
+          <UNK_2F38FCD7 id="INITIAL">
+            <UNK_8544B5A7 heading="60.0" position="[-2081.098, -1439.361, 127.2812]" />
+            <UNK_8544B5A7 heading="50.0" position="[-2076.398, -1444.421, 127.5345]" />
+            <UNK_8544B5A7 heading="90.0" position="[-2074.235, -1440.051, 127.2405]" />
+            <UNK_8544B5A7 heading="80.0" position="[-2074.355, -1436.447, 127.2766]" />
+            <UNK_8544B5A7 heading="47.5" position="[-2092.259, -1433.975, 127.7657]" />
+            <UNK_8544B5A7 heading="232.9" position="[-2091.986, -1448.271, 132.4544]" />
+            <UNK_8544B5A7 heading="257.6" position="[-2067.884, -1448.277, 127.6405]" />
+          </UNK_2F38FCD7>
+          <UNK_2F38FCD7 id="ENDING_PRIMARY">
+            <UNK_8544B5A7 heading="120.0" position="[-2070.898, -1435.578, 127.1123]" />
+            <UNK_8544B5A7 heading="15.0" position="[-2094.138, -1497.732, 136.7682]" />
+            <UNK_8544B5A7 heading="65.0" position="[-2140.449, -1475.993, 139.7761]" />
+            <UNK_8544B5A7 heading="40.0" position="[-2195.54, -1562.236, 149.5526]" />
+            <UNK_8544B5A7 heading="170.0" position="[-2093.124, -1613.775, 139.6008]" />
+            <UNK_8544B5A7 heading="70.0" position="[-2103.854, -1696.533, 131.4424]" />
+            <UNK_8544B5A7 heading="330.0" position="[-2180.197, -1684.549, 138.4982]" />
+            <UNK_8544B5A7 heading="10.0" position="[-2242.323, -1684.232, 140.8388]" />
+            <UNK_8544B5A7 heading="190.0" position="[-2387.47, -1628.737, 147.4866]" />
+            <UNK_8544B5A7 heading="230.0" position="[-2401.376, -1533.117, 164.0983]" />
+            <UNK_8544B5A7 heading="10.0" position="[-2329.974, -1398.561, 142.5863]" />
+            <UNK_8544B5A7 heading="290.0" position="[-2336.582, -1350.354, 142.4183]" />
+            <UNK_8544B5A7 heading="270.0" position="[-2280.502, -1333.584, 133.2768]" />
+            <UNK_8544B5A7 heading="300.0" position="[-2299.128, -1444.775, 140.4275]" />
+            <UNK_8544B5A7 heading="260.0" position="[-2177.97, -1320.99, 131.6297]" />
+            <UNK_8544B5A7 heading="170.0" position="[-2100.008, -1375.697, 128.1825]" />
+            <UNK_8544B5A7 heading="300.0" position="[-2144.144, -1405.814, 136.3042]" />
+            <UNK_8544B5A7 heading="10.0" position="[-2320.454, -1606.194, 147.5419]" />
+            <UNK_8544B5A7 heading="320.0" position="[-2021.527, -1641.13, 129.172]" />
+            <UNK_8544B5A7 heading="191.5" position="[-2322.774, -1741.286, 114.5003]" />
+            <UNK_8544B5A7 heading="28.5" position="[-2366.031, -1709.024, 119.2578]" />
+            <UNK_8544B5A7 heading="255.1" position="[-2428.753, -1646.899, 131.5447]" />
+            <UNK_8544B5A7 heading="102.7" position="[-2477.098, -1515.871, 148.0845]" />
+            <UNK_8544B5A7 heading="313.0" position="[-2454.086, -1456.196, 148.707]" />
+            <UNK_8544B5A7 heading="337.7" position="[-2472.234, -1396.757, 147.044]" />
+            <UNK_8544B5A7 heading="303.9" position="[-2423.203, -1278.747, 154.9702]" />
+            <UNK_8544B5A7 heading="7.4" position="[-2346.008, -1274.008, 148.8445]" />
+            <UNK_8544B5A7 heading="169.6" position="[-2192.073, -1230.005, 131.072]" />
+            <UNK_8544B5A7 heading="193.5" position="[-2152.957, -1223.866, 132.7805]" />
+            <UNK_8544B5A7 heading="230.7" position="[-2069.751, -1257.125, 119.127]" />
+            <UNK_8544B5A7 heading="214.8" position="[-1994.317, -1306.311, 114.8574]" />
+            <UNK_8544B5A7 heading="175.0" position="[-1979.596, -1377.376, 115.1056]" />
+            <UNK_8544B5A7 heading="86.8" position="[-1936.123, -1504.762, 110.0657]" />
+            <UNK_8544B5A7 heading="72.1" position="[-1950.185, -1565.696, 114.1946]" />
+            <UNK_8544B5A7 heading="87.6" position="[-1959.737, -1644.284, 115.7377]" />
+            <UNK_8544B5A7 heading="350.9" position="[-1968.341, -1674.157, 116.994]" />
+            <UNK_8544B5A7 heading="66.5" position="[-2032.026, -1727.482, 125.3523]" />
+            <UNK_8544B5A7 heading="334.9" position="[-2073.815, -1744.18, 126.5466]" />
+            <UNK_8544B5A7 heading="73.7" position="[-2129.036, -1779.102, 141.6043]" />
+            <UNK_8544B5A7 heading="27.3" position="[-2149.207, -1788.776, 141.8165]" />
+            <UNK_8544B5A7 heading="351.0" position="[-2217.574, -1800.8, 136.4433]" />
+          </UNK_2F38FCD7>
+          <UNK_2F38FCD7 id="ENDING_FALLBACK">
+            <UNK_8544B5A7 heading="70.0" position="[-2069.023, -1450.232, 127.6882]" />
+            <UNK_8544B5A7 heading="90.0" position="[-2067.733, -1445.506, 127.483]" />
+            <UNK_8544B5A7 heading="50.0" position="[-2067.196, -1442.933, 127.29]" />
+            <UNK_8544B5A7 heading="80.0" position="[-2067.006, -1439.845, 127.1191]" />
+            <UNK_8544B5A7 heading="90.0" position="[-2067.88, -1434.335, 126.9887]" />
+          </UNK_2F38FCD7>
+        </UNK_E726DF4F>
+        <scenes>
+          <scene id="TRANSFORMATION" UNK_5131579C="initial_transform">
+            <origin type="PLAYER" />
+            <playlists>
+              <playlist id="pl_stand">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_stand_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_TransformFromCrouchStand">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="CROUCHING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_TransformFromCrouchStand_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="CROUCHING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_fall">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_fall_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+            </playlists>
+          </scene>
+          <scene id="TRANSFORMATION_FAIL" UNK_5131579C="fail_transform">
+            <origin type="PLAYER" />
+            <playlists>
+              <playlist id="pl_fail">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_fail_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="STANDING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_FailCrouch">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="MALE" />
+                    <flag id="CROUCHING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+              <playlist id="pl_FailCrouch_f">
+                <flags>
+                  <UNK_BC9FFCA6 id="PLAYLIST">
+                    <flag id="FEMALE" />
+                    <flag id="CROUCHING" />
+                  </UNK_BC9FFCA6>
+                </flags>
+              </playlist>
+            </playlists>
+          </scene>
+          <scene id="PRIMARY_GET_UP" UNK_5131579C="primary_standard_get_up">
+            <origin type="PLAYER" />
+            <playlists>
+              <playlist id="pl_critter_v1" />
+              <playlist id="pl_critter_v2" />
+            </playlists>
+          </scene>
+          <scene id="FALLBACK_GET_UP" UNK_5131579C="fallback_standard_get_up">
+            <origin type="PLAYER" />
+            <playlists>
+              <playlist id="pl_critter_v1" />
+              <playlist id="pl_critter_v2" />
+            </playlists>
+          </scene>
+        </scenes>
+        <UNK_EAEB9754>
+          <UNK_54AE6499 UNK_143ECDC2="INPUT_CONTEXT_X" id="INSPECT" name="ANIMAL_TRANSFORMATION_INSPECT" position="[-2079.38, -1440.466, 127.3259]" radius="2.0" />
+        </UNK_EAEB9754>
+        <eagle_eye>
+          <prop blue="0" green="215" model="mp007_p_mp_tracksRabbit02x" position="[-2080.062, -1440.224, 127.3205]" radius="0.5" red="255" />
+          <prop blue="0" green="215" model="mp007_p_mp_tracksRabbit01x" position="[-2079.38, -1440.466, 127.3259]" radius="0.5" red="255" />
+          <prop blue="0" green="215" model="mp007_p_mp_tracksRabbit01x" position="[-2078.577, -1440.63, 127.3277]" radius="0.5" red="255" />
+          <prop blue="0" green="215" model="mp007_p_mp_tracksRabbit01x" position="[-2077.83, -1440.837, 127.2234]" radius="0.5" red="255" />
+        </eagle_eye>
+        <props>
+          <prop model="mp007_p_mp_tracksRabbit02x" position="[-2080.062, -1440.224, 127.3205]" rotation="[0.0, 0.0, 180.0]" />
+          <prop model="mp007_p_mp_tracksRabbit01x" position="[-2079.38, -1440.466, 127.3259]" rotation="[0.0, 0.0, 182.0]" />
+          <prop model="mp007_p_mp_tracksRabbit01x" position="[-2078.577, -1440.63, 127.3277]" rotation="[0.0, 0.0, 181.0]" />
+          <prop model="mp007_p_mp_tracksRabbit01x" position="[-2077.83, -1440.837, 127.2234]" rotation="[0.0, 0.0, 179.0]" />
+        </props>
+      </location>
+    </locations>
+    <stats>
+      <stat UNK_AED16651="TRANSFORMS" id="bear_count" UNK_65D9B102="ANIMAL_TRANSFORMATION_BEAR" />
+      <stat UNK_AED16651="TRANSFORMS" id="boar_count" UNK_65D9B102="ANIMAL_TRANSFORMATION_BOAR" />
+      <stat UNK_AED16651="TRANSFORMS" id="buck_count" UNK_65D9B102="ANIMAL_TRANSFORMATION_BUCK" />
+      <stat UNK_AED16651="TRANSFORMS" id="cougar_count" UNK_65D9B102="ANIMAL_TRANSFORMATION_COUGAR" />
+      <stat UNK_AED16651="TRANSFORMS" id="possum_count" UNK_65D9B102="ANIMAL_TRANSFORMATION_POSSUM" />
+      <stat UNK_AED16651="TRANSFORMS" id="rabbit_count" UNK_65D9B102="ANIMAL_TRANSFORMATION_RABBIT" />
+      <stat UNK_AED16651="TRANSFORMS" id="wolf_count" UNK_65D9B102="ANIMAL_TRANSFORMATION_WOLF" />
+      <stat UNK_AED16651="TRANSFORMS" id="critter_type_count" UNK_65D9B102="ANIMAL_TRANSFORMATION_CRITTER" />
+      <stat UNK_AED16651="TRANSFORMS" id="medium_type_count" UNK_65D9B102="ANIMAL_TRANSFORMATION_MEDIUM" />
+      <stat UNK_AED16651="TRANSFORMS" id="large_type_count" UNK_65D9B102="ANIMAL_TRANSFORMATION_LARGE" />
+      <stat id="LAST_ANIMAL" UNK_65D9B102="LAST_TRANSFORMED_ANIMAL" />
+    </stats>
+    <scenes>
+      <scene id="initial_transform" name="script@mp@Naturalist@NAT@IG2_ANIMAL_CONTROL">
+        <flags>
+          <UNK_BC9FFCA6 id="ANIM_SCENE">
+            <flag id="ASF_BLOCK_SKIPPING" />
+          </UNK_BC9FFCA6>
+        </flags>
+        <entities>
+          <UNK_F5D3F1EC id="PLAYER">
+            <entity female="mp_female" male="mp_male" />
+          </UNK_F5D3F1EC>
+        </entities>
+        <effects>
+          <effect id="pl_stand" postfx="MP_NaturalistAnimalTransformStart_MStand" />
+          <effect id="pl_stand_f" postfx="MP_NaturalistAnimalTransformStart_FStand" />
+          <effect id="pl_fall" postfx="MP_NaturalistAnimalTransformStart_MFall" />
+          <effect id="pl_fall_f" postfx="MP_NaturalistAnimalTransformStart_FFall" />
+          <effect id="pl_TransformFromCrouchStand" postfx="MP_NaturalistAnimalTransformStart_MCrouch" />
+          <effect id="pl_TransformFromCrouchStand_f" postfx="MP_NaturalistAnimalTransformStart_FCrouch" />
+        </effects>
+      </scene>
+      <scene id="fail_transform" name="script@mp@Naturalist@NAT@IG2_ANIMAL_CONTROL">
+        <flags>
+          <UNK_BC9FFCA6 id="ANIM_SCENE">
+            <flag id="ASF_BLOCK_SKIPPING" />
+            <flag id="ASF_ADAPT_TO_TERRAIN" />
+          </UNK_BC9FFCA6>
+        </flags>
+        <entities>
+          <UNK_F5D3F1EC id="PLAYER">
+            <entity female="mp_female" male="mp_male" />
+          </UNK_F5D3F1EC>
+        </entities>
+      </scene>
+      <scene id="primary_standard_get_up" name="script@mp@Naturalist@HAR@IG10_GETUP">
+        <flags>
+          <UNK_BC9FFCA6 id="ANIM_SCENE">
+            <flag id="ASF_BLOCK_SKIPPING" />
+          </UNK_BC9FFCA6>
+        </flags>
+        <entities>
+          <UNK_F5D3F1EC id="PLAYER">
+            <entity female="MP_Female" male="MP_Male" />
+          </UNK_F5D3F1EC>
+        </entities>
+      </scene>
+      <scene id="fallback_standard_get_up" name="script@mp@Naturalist@HAR@IG10_GETUP">
+        <entities>
+          <UNK_F5D3F1EC id="PLAYER">
+            <entity female="MP_Female" male="MP_Male" />
+          </UNK_F5D3F1EC>
+        </entities>
+        <flags>
+          <UNK_BC9FFCA6 id="ANIM_SCENE">
+            <flag id="ASF_BLOCK_SKIPPING" />
+          </UNK_BC9FFCA6>
+        </flags>
+      </scene>
+    </scenes>
+    <animals>
+      <animal id="ROLE_NATURALIST_SKILL_ANIMAL_CONTROL_BEAR" item="CONSUMABLE_TONIC_ANIMAL_ESSENCE_BEAR" model="A_C_BEAR_01" unlock="">
+        <stats>
+          <stat id="ANIMAL" type="bear_count" />
+          <stat id="ANIMAL_TYPE" type="large_type_count" />
+          <stat id="LAST_ANIMAL" type="LAST_ANIMAL" />
+        </stats>
+        <cost UNK_66EA31D6="COST_CRAFTING" item="FEE_ROLE_NATURALIST_ANIMAL_CONTROL_LARGE" />
+      </animal>
+      <animal id="ROLE_NATURALIST_SKILL_ANIMAL_CONTROL_BOAR" item="CONSUMABLE_TONIC_ANIMAL_ESSENCE_BOAR" model="MP_A_C_BOAR_01" unlock="ROLE_NATURALIST_SKILL_ANIMAL_CONTROL_BOAR">
+        <stats>
+          <stat id="ANIMAL" type="boar_count" />
+          <stat id="ANIMAL_TYPE" type="medium_type_count" />
+          <stat id="LAST_ANIMAL" type="LAST_ANIMAL" />
+        </stats>
+        <cost UNK_66EA31D6="COST_CRAFTING" item="FEE_ROLE_NATURALIST_ANIMAL_CONTROL_MEDIUM" />
+        <awards>
+          <award award="AWARD_DEBUG_UNLOCK_SKILL_ANIMAL_CONTROL_BOAR" id="UNLOCK" />
+          <award award="AWARD_DEBUG_LOCK_SKILL_ANIMAL_CONTROL_BOAR" id="LOCK" />
+        </awards>
+        <particles>
+          <UNK_A2BC880E UNK_30DF5C94="200" bone="ID_SKEL_SPINE1" UNK_D045E3C6="scr_net_camp" name="scr_net_spirit_animal_fade_out" offset="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="0.8">
+            <UNK_BC9FFCA6 id="PARTICLE">
+              <flag id="USE_ALPHA_TRIGGER" />
+            </UNK_BC9FFCA6>
+          </UNK_A2BC880E>
+        </particles>
+        <UNK_D219D8F5>
+          <overlay intensity="1.0" mask="5" name="MP_NaturalistAnimalOverlay" />
+        </UNK_D219D8F5>
+        <UNK_D384CE1C name="player_boar" />
+        <extend name="ANIMAL_TRANSFORMATION_BOAR_ILO" />
+        <outfits>
+          <outfit id="META_OUTFIT_MP_LEGENDARY_BOAR_01" />
+          <outfit id="META_OUTFIT_MP_LEGENDARY_BOAR_02" />
+          <outfit id="META_OUTFIT_MP_LEGENDARY_BOAR_03" />
+        </outfits>
+      </animal>
+      <animal id="ROLE_NATURALIST_SKILL_ANIMAL_CONTROL_BUCK" item="CONSUMABLE_TONIC_ANIMAL_ESSENCE_BUCK" model="A_C_BUCK_01" unlock="ROLE_NATURALIST_SKILL_ANIMAL_CONTROL_BUCK">
+        <stats>
+          <stat id="ANIMAL" type="buck_count" />
+          <stat id="ANIMAL_TYPE" type="medium_type_count" />
+          <stat id="LAST_ANIMAL" type="LAST_ANIMAL" />
+        </stats>
+        <cost UNK_66EA31D6="COST_CRAFTING" item="FEE_ROLE_NATURALIST_ANIMAL_CONTROL_MEDIUM" />
+        <awards>
+          <award award="AWARD_DEBUG_UNLOCK_SKILL_ANIMAL_CONTROL_BUCK" id="UNLOCK" />
+          <award award="AWARD_DEBUG_LOCK_SKILL_ANIMAL_CONTROL_BUCK" id="LOCK" />
+        </awards>
+        <particles>
+          <UNK_A2BC880E UNK_30DF5C94="200" bone="ID_SKEL_SPINE1" UNK_D045E3C6="scr_net_camp" name="scr_net_spirit_animal_fade_out" offset="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="1.0">
+            <UNK_BC9FFCA6 id="PARTICLE">
+              <flag id="USE_ALPHA_TRIGGER" />
+            </UNK_BC9FFCA6>
+          </UNK_A2BC880E>
+        </particles>
+        <UNK_D219D8F5>
+          <overlay intensity="1.0" mask="5" name="MP_NaturalistAnimalOverlay" />
+        </UNK_D219D8F5>
+        <UNK_D384CE1C name="player_deer" />
+        <extend name="ANIMAL_TRANSFORMATION_BUCK_ILO" />
+        <outfits>
+          <outfit id="" />
+          <outfit id="META_ANIMAL_OUTFIT_BUCK_000" />
+          <outfit id="META_ANIMAL_OUTFIT_BUCK_001" />
+        </outfits>
+      </animal>
+      <animal id="ROLE_NATURALIST_SKILL_ANIMAL_CONTROL_COUGAR" item="CONSUMABLE_TONIC_ANIMAL_ESSENCE_COUGAR" model="A_C_COUGAR_01" unlock="">
+        <stats>
+          <stat id="ANIMAL" type="cougar_count" />
+          <stat id="ANIMAL_TYPE" type="large_type_count" />
+          <stat id="LAST_ANIMAL" type="LAST_ANIMAL" />
+        </stats>
+      </animal>
+      <animal id="ROLE_NATURALIST_SKILL_ANIMAL_CONTROL_POSSUM" item="" model="A_C_POSSUM_01" unlock="ROLE_NATURALIST_SKILL_ANIMAL_CONTROL_POSSUM">
+        <stats>
+          <stat id="ANIMAL" type="possum_count" />
+          <stat id="ANIMAL_TYPE" type="critter_type_count" />
+          <stat id="LAST_ANIMAL" type="LAST_ANIMAL" />
+        </stats>
+        <cost UNK_66EA31D6="COST_CRAFTING" item="FEE_ROLE_NATURALIST_ANIMAL_CONTROL_CRITTER" />
+        <awards>
+          <award award="AWARD_DEBUG_UNLOCK_SKILL_ANIMAL_CONTROL_POSSUM" id="UNLOCK" />
+          <award award="AWARD_DEBUG_LOCK_SKILL_ANIMAL_CONTROL_POSSUM" id="LOCK" />
+        </awards>
+        <particles>
+          <UNK_A2BC880E UNK_30DF5C94="200" bone="ID_SKEL_SPINE1" UNK_D045E3C6="scr_net_camp" name="scr_net_spirit_animal_fade_out" offset="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="0.5">
+            <UNK_BC9FFCA6 id="PARTICLE">
+              <flag id="USE_ALPHA_TRIGGER" />
+            </UNK_BC9FFCA6>
+          </UNK_A2BC880E>
+        </particles>
+        <UNK_D219D8F5>
+          <overlay intensity="1.0" mask="5" name="MP_NaturalistAnimalOverlay" />
+        </UNK_D219D8F5>
+        <UNK_D384CE1C name="player_possum" />
+        <extend name="ANIMAL_TRANSFORMATION_OPOSSUM_ILO" />
+        <outfits>
+          <outfit id="" />
+          <outfit id="META_OUTFIT_ANIMAL_POSSUM_000" />
+          <outfit id="META_OUTFIT_ANIMAL_POSSUM_001" />
+        </outfits>
+      </animal>
+      <animal id="ROLE_NATURALIST_SKILL_ANIMAL_CONTROL_RABBIT" item="CONSUMABLE_TONIC_ANIMAL_ESSENCE_RABBIT" model="A_C_RABBIT_01" unlock="ROLE_NATURALIST_SKILL_ANIMAL_CONTROL_RABBIT">
+        <stats>
+          <stat id="ANIMAL" type="rabbit_count" />
+          <stat id="ANIMAL_TYPE" type="critter_type_count" />
+          <stat id="LAST_ANIMAL" type="LAST_ANIMAL" />
+        </stats>
+        <cost UNK_66EA31D6="COST_CRAFTING" item="FEE_ROLE_NATURALIST_ANIMAL_CONTROL_CRITTER" />
+        <awards>
+          <award award="AWARD_DEBUG_UNLOCK_SKILL_ANIMAL_CONTROL_RABBIT" id="UNLOCK" />
+          <award award="AWARD_DEBUG_LOCK_SKILL_ANIMAL_CONTROL_RABBIT" id="LOCK" />
+        </awards>
+        <particles>
+          <UNK_A2BC880E UNK_30DF5C94="200" bone="ID_SKEL_SPINE1" UNK_D045E3C6="scr_net_camp" name="scr_net_spirit_animal_fade_out" offset="[0.0, 0.0, 0.0]" rotation="[0.0, 0.0, 0.0]" scale="0.5">
+            <UNK_BC9FFCA6 id="PARTICLE">
+              <flag id="USE_ALPHA_TRIGGER" />
+            </UNK_BC9FFCA6>
+          </UNK_A2BC880E>
+        </particles>
+        <UNK_D219D8F5>
+          <overlay intensity="1.0" mask="5" name="MP_NaturalistAnimalOverlay" />
+        </UNK_D219D8F5>
+        <UNK_D384CE1C name="player_rabbit" />
+        <extend name="ANIMAL_TRANSFORMATION_RABBIT_ILO" />
+        <outfits>
+          <outfit id="" />
+          <outfit id="META_OUTFIT_ANIMAL_RABBIT_000" />
+          <outfit id="META_OUTFIT_ANIMAL_RABBIT_001" />
+        </outfits>
+      </animal>
+      <animal id="ROLE_NATURALIST_SKILL_ANIMAL_CONTROL_WOLF" item="CONSUMABLE_TONIC_ANIMAL_ESSENCE_WOLF" model="A_C_WOLF" unlock="">
+        <stats>
+          <stat id="ANIMAL" type="wolf_count" />
+          <stat id="ANIMAL_TYPE" type="large_type_count" />
+          <stat id="LAST_ANIMAL" type="LAST_ANIMAL" />
+        </stats>
+      </animal>
+    </animals>
+  </animal_transformation_data>
+</root>

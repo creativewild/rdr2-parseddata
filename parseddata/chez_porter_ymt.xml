@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <location center="[275.7147, 2324.352, 288.6551]" id="CHEZ_PORTER">
+    <volumes>
+      <house>
+        <placement id="volBox" size="[5.0, 4.0, 4.0]" spawn_heading="20.0" spawn_position="[282.1826, 2325.404, 287.2399]" />
+        <placement id="volBox" size="[8.75, 13.5, 6.0]" spawn_heading="20.0" spawn_position="[275.6031, 2324.958, 288.6497]" />
+      </house>
+      <blocking>
+        <placement id="volBox" size="[13.0, 15.0, 5.0]" spawn_heading="20.0" spawn_position="[277.5462, 2325.519, 287.5654]" />
+      </blocking>
+    </volumes>
+  </location>
+</root>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_890C3F87>
+    <scene name="profile_scene_male" preset="MP_PROFILE_PHOTO">
+      <location time="[13.0, 30.0, 0.0]" weather="HIGHPRESSURE" />
+      <ped modelname="optionalModel" outfitname="0" UNK_664FA3B4="PERPHO_PED_TYPE_PLAYER" />
+    </scene>
+    <scene name="profile_scene_female" preset="MP_PROFILE_PHOTO_F">
+      <location time="[13.0, 30.0, 0.0]" weather="HIGHPRESSURE" />
+      <ped modelname="optionalModel" outfitname="0" UNK_664FA3B4="PERPHO_PED_TYPE_PLAYER" />
+    </scene>
+  </UNK_890C3F87>
+</root>

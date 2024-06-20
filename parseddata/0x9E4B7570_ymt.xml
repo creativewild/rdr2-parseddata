@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4A1A2EA>
+    <camp name="RIO_0" pos="[-5306.635, -3812.414, -10.3174]" zone="1">
+      <preset recipe="CFRT_FANCY_LRG1" />
+    </camp>
+    <camp name="RIO_1" pos="[-5116.797, -3798.86, 14.932]" zone="1">
+      <preset recipe="CFRT_HOBO_SML1" />
+    </camp>
+    <camp name="RIO_2" pos="[-4631.26, -3811.573, 11.00237]" zone="2">
+      <preset recipe="CFRT_HERBALIST_LRG1" />
+    </camp>
+    <camp name="RIO_4" pos="[-5269.599, -3694.408, -12.14015]" zone="2">
+      <preset recipe="CFRT_RANCHER_LRG1" />
+    </camp>
+    <camp name="RIO_5" pos="[-4119.768, -3651.636, 50.14217]" zone="1">
+      <preset recipe="CFRT_FOLIAGE_DRY_GRASS_SML1" />
+    </camp>
+    <camp name="RIO_8" pos="[-3969.534, -3586.866, 55.92451]" zone="1">
+      <preset recipe="CFRT_GENERIC_LRG_PLAIN" />
+    </camp>
+    <camp name="RIO_9" pos="[-5103.968, -3581.168, -3.618238]" zone="1">
+      <preset recipe="CFRT_RANCHER_MED1" />
+    </camp>
+    <camp UNK_D43B0E78="rio_10_rope_ends" name="RIO_10" pos="[-3690.173, -3564.359, 48.10432]" zone="1">
+      <preset recipe="CFRT_UNIQUE_TREE_TIE1" />
+    </camp>
+    <camp name="RIO_11" pos="[-4439.798, -3502.138, 22.0576]" zone="1">
+      <preset recipe="CFRT_HOBO_LRG1" />
+    </camp>
+    <camp name="RIO_12" pos="[-3885.128, -3495.778, 61.1065]" zone="3">
+      <preset recipe="CFRT_RANCHER_LRG1" />
+    </camp>
+    <camp name="RIO_13" pos="[-4028.281, -3446.729, 50.09875]" zone="2">
+      <preset recipe="CFRT_DBL_GENERIC1" />
+    </camp>
+    <camp name="RIO_14" pos="[-4550.857, -3381.47, 32.06516]" zone="1">
+      <preset recipe="CFRT_HUNTER_MED2" />
+    </camp>
+    <camp name="RIO_15" pos="[-4984.56, -4027.732, -1.061956]" zone="1">
+      <preset recipe="CFRT_FANCY_MED1" />
+    </camp>
+    <camp name="RIO_16" pos="[-4785.804, -3399.914, 11.98687]" zone="2">
+      <preset recipe="CFRT_GENERIC_LRG_PLAIN" />
+    </camp>
+    <camp UNK_DA3CFFD1="true" name="RIO_17 Robbery" pos="[-4486.458, -3153.711, 7.975]" zone="2">
+      <preset recipe="CFRT_HUNTER_MED1" />
+    </camp>
+    <camp name="RIO_18" pos="[-4591.391, -3056.912, 6.964922]" UNK_A8EAF664="SPID_SUN_WORSHIPPER" UNK_20C80E0="10" zone="2">
+      <preset recipe="CFRT_DBL_GENERIC2" />
+    </camp>
+  </UNK_B4A1A2EA>
+</root>

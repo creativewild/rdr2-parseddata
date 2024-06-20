@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_FA6AE2D5>
+    <district id="DISTRICT_BAYOU_NWA_debug">
+      <camera position="[2672.405, -1164.35, 74.6523]" rotation="[-23.8333, 0.0, 167.3439]" />
+      <camera position="[1244.15, -364.4417, 151.1686]" rotation="[-20.1396, 0.0, -144.8016]" />
+      <camera position="[-743.019, -1226.745, 89.2113]" rotation="[-24.9004, 0.0, 142.8009]" />
+    </district>
+    <district id="DISTRICT_BLUEGILL_MARSH_debug">
+      <camera position="[-293.0115, 884.8132, 162.5473]" rotation="[-20.55, 0.0, -179.7691]" />
+    </district>
+    <district id="DISTRICT_SCARLETT_MEADOWS_debug">
+      <camera position="[1667.858, -423.0773, 83.3995]" rotation="[-23.9332, 0.0, -109.2812]" />
+      <camera position="[1925.982, -462.9503, 43.8732]" rotation="[-13.9191, 0.0, -8.4829]" />
+    </district>
+  </UNK_FA6AE2D5>
+</root>

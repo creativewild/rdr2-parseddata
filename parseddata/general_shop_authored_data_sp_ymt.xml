@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_1AF9B630 id="ST_GENERAL">
+    <region id="REGION_HRT_VALENTINE">
+      <vector data="[-327.4647, 807.9689, 116.8943]" id="catClothingPos" />
+      <float data="254.5934" id="catClothingHeading" />
+      <vector data="[-325.5836, 807.0306, 118.4276]" id="catClothingCamPos" />
+      <vector data="[-15.2783, 0.0, 74.7966]" id="catClothingCamRot" />
+      <int data="1033846936" id="wardrobeLocationName" />
+      <vector data="[-325.9368, 806.5656, 116.8817]" id="wardrobeTriggerPos" />
+      <float data="192.3781" id="wardrobeTriggerHeading" />
+      <vector data="[-327.4647, 807.9689, 116.8943]" id="wardrobeUsePos" />
+      <float data="254.5934" id="wardrobeUseHeading" />
+      <vector data="[-326.0329, 805.9757, 116.8817]" id="wardrobeExitPos" />
+      <float data="241.4496" id="wardrobeExitHeading" />
+      <vector data="[-325.5836, 807.0306, 118.4276]" id="wardrobeCamPos" />
+      <vector data="[-15.2783, 0.0, 74.7966]" id="wardrobeCamRot" />
+    </region>
+    <region id="REGION_SCM_RHODES">
+      <vector data="[1324.265, -1287.926, 76.018]" id="catClothingPos" />
+      <float data="150.6058" id="catClothingHeading" />
+      <vector data="[1322.712, -1289.417, 77.5942]" id="catClothingCamPos" />
+      <vector data="[-14.7873, 0.0, -32.769]" id="catClothingCamRot" />
+      <int data="1033846936" id="wardrobeLocationName" />
+      <vector data="[1322.828, -1291.433, 76.0075]" id="wardrobeTriggerPos" />
+      <float data="6.8745" id="wardrobeTriggerHeading" />
+      <vector data="[1324.265, -1287.926, 76.018]" id="wardrobeUsePos" />
+      <float data="150.6058" id="wardrobeUseHeading" />
+      <vector data="[1322.828, -1291.433, 76.0075]" id="wardrobeExitPos" />
+      <float data="167.8798" id="wardrobeExitHeading" />
+      <vector data="[1322.712, -1289.417, 77.5942]" id="wardrobeCamPos" />
+      <vector data="[-14.7873, 0.0, -32.769]" id="wardrobeCamRot" />
+    </region>
+    <region id="REGION_BGV_STRAWBERRY">
+      <vector data="[-1794.604, -395.5403, 159.3362]" id="catClothingPos" />
+      <float data="317.4715" id="catClothingHeading" />
+      <vector data="[-1792.984, -394.3015, 160.9129]" id="catClothingCamPos" />
+      <vector data="[-16.2806, 0.0, 139.8325]" id="catClothingCamRot" />
+      <int data="1033846936" id="wardrobeLocationName" />
+      <vector data="[-1792.191, -391.7064, 159.261]" id="wardrobeTriggerPos" />
+      <float data="145.1104" id="wardrobeTriggerHeading" />
+      <vector data="[-1794.604, -395.5403, 159.3362]" id="wardrobeUsePos" />
+      <float data="317.4715" id="wardrobeUseHeading" />
+      <vector data="[-1791.907, -391.9484, 159.2662]" id="wardrobeExitPos" />
+      <float data="160.2662" id="wardrobeExitHeading" />
+      <vector data="[-1792.984, -394.3015, 160.9129]" id="wardrobeCamPos" />
+      <vector data="[-16.2806, 0.0, 139.8325]" id="wardrobeCamRot" />
+    </region>
+    <region id="REGION_GRT_BLACKWATER">
+      <vector data="[-788.1725, -1323.381, 43.8906]" id="catClothingPos" />
+      <float data="190.7" id="catClothingHeading" />
+    </region>
+    <region id="REGION_ROA_VANHORNPOST">
+      <vector data="[3023.333, 562.7725, 43.7149]" id="catClothingPos" />
+      <float data="247.301" id="catClothingHeading" />
+      <vector data="[3024.417, 563.4161, 45.4052]" id="catClothingCamPos" />
+      <vector data="[-17.9255, 0.0, 102.2591]" id="catClothingCamRot" />
+      <int data="1033846936" id="wardrobeLocationName" />
+      <vector data="[3023.447, 560.9682, 43.7245]" id="wardrobeTriggerPos" />
+      <float data="349.9938" id="wardrobeTriggerHeading" />
+      <vector data="[3023.333, 562.7725, 43.7149]" id="wardrobeUsePos" />
+      <float data="247.301" id="wardrobeUseHeading" />
+      <vector data="[3023.519, 560.7784, 43.725]" id="wardrobeExitPos" />
+      <float data="179.0026" id="wardrobeExitHeading" />
+      <vector data="[3024.417, 563.4161, 45.4052]" id="wardrobeCamPos" />
+      <vector data="[-17.9255, 0.0, 102.2591]" id="wardrobeCamRot" />
+    </region>
+    <region id="REGION_BGV_WALLACE_STATION">
+      <vector data="[-1295.96, 397.6958, 94.4344]" id="catClothingPos" />
+      <float data="145.3555" id="catClothingHeading" />
+      <vector data="[-1297.317, 396.0767, 96.0302]" id="catClothingCamPos" />
+      <vector data="[-14.9308, 0.0, -29.0245]" id="catClothingCamRot" />
+      <int data="1033846936" id="wardrobeLocationName" />
+      <vector data="[-1298.588, 396.8232, 94.3587]" id="wardrobeTriggerPos" />
+      <float data="254.4847" id="wardrobeTriggerHeading" />
+      <vector data="[-1295.96, 397.6958, 94.4344]" id="wardrobeUsePos" />
+      <float data="145.3555" id="wardrobeUseHeading" />
+      <vector data="[-1298.588, 396.8232, 94.3587]" id="wardrobeExitPos" />
+      <float data="74.4847" id="wardrobeExitHeading" />
+      <vector data="[-1297.317, 396.0767, 96.0302]" id="wardrobeCamPos" />
+      <vector data="[-14.9308, 0.0, -29.0245]" id="wardrobeCamRot" />
+    </region>
+    <region id="REGION_CHO_ARMADILLO">
+      <vector data="[-3688.229, -2624.204, -11.2184]" id="catClothingPos" />
+      <float data="359.769" id="catClothingHeading" />
+      <vector data="[-3687.667, -2622.141, -9.6447]" id="catClothingCamPos" />
+      <vector data="[-15.4147, 0.0, 166.1352]" id="catClothingCamRot" />
+      <int data="1033846936" id="wardrobeLocationName" />
+      <vector data="[-3687.778, -2630.858, -14.4248]" id="wardrobeTriggerPos" />
+      <float data="290.1651" id="wardrobeTriggerHeading" />
+      <vector data="[-3688.229, -2624.204, -11.2184]" id="wardrobeUsePos" />
+      <float data="359.769" id="wardrobeUseHeading" />
+      <vector data="[-3687.822, -2630.876, -14.4249]" id="wardrobeExitPos" />
+      <float data="73.0053" id="wardrobeExitHeading" />
+      <vector data="[-3687.667, -2622.141, -9.6447]" id="wardrobeCamPos" />
+      <vector data="[-15.4147, 0.0, 166.1352]" id="wardrobeCamRot" />
+    </region>
+    <region id="REGION_GAP_TUMBLEWEED">
+      <vector data="[-5479.838, -2932.866, -1.3672]" id="catClothingPos" />
+      <float data="173.0855" id="catClothingHeading" />
+      <vector data="[-5480.525, -2934.738, 0.3753]" id="catClothingCamPos" />
+      <vector data="[-23.4486, 0.0, -13.479]" id="catClothingCamRot" />
+      <int data="1033846936" id="wardrobeLocationName" />
+      <vector data="[-5481.125, -2934.905, -1.401]" id="wardrobeTriggerPos" />
+      <float data="312.6537" id="wardrobeTriggerHeading" />
+      <vector data="[-5479.838, -2932.866, -1.3672]" id="wardrobeUsePos" />
+      <float data="173.0855" id="wardrobeUseHeading" />
+      <vector data="[-5481.51, -2935.005, -1.4012]" id="wardrobeExitPos" />
+      <float UNK_35763784="116.7846" id="wardrobeExitHeading" />
+      <vector data="[-5480.525, -2934.738, 0.3753]" id="wardrobeCamPos" />
+      <vector data="[-15.9533, 0.0, 3.7585]" id="wardrobeCamRot" />
+    </region>
+  </UNK_1AF9B630>
+</root>

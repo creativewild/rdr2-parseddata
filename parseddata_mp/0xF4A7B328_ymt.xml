@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_F4A7B328>
+    <group UNK_3CD5D1E7="210.8541" UNK_F6AA2270="[-387.7, 1673.4, 209.1]" UNK_107861B="CHEZ_PORTER" position="[-410.2, 1725.7, 216.2]" region="REGION_GRZ_CHEZPORTER">
+      <unlock id="MAG4_CHEZPORTER" name="Chez Porter Standard" />
+    </group>
+    <group UNK_3CD5D1E7="236.0062" UNK_F6AA2270="[1831.3, -99.6, 59.0]" UNK_107861B="ABERDEEN" position="[1776.8, -76.5, 55.0]" region="REGION_HRT_ABERDEENPIGFARM">
+      <unlock id="MAG4_ABERDEENPIGFARM" name="Aberdeen Pig Farm Standard" />
+    </group>
+    <group UNK_3CD5D1E7="287.3416" UNK_F6AA2270="[-1977.459, -1547.878, 113.7]" UNK_107861B="MANZANITA" position="[-1972.2, -1616.328, 117.2401]" region="REGION_TAL_MANZANITAPOST">
+      <unlock id="MAG4_MANZANITAPOST" name="Manzanita Trading Post Standard" />
+    </group>
+    <group UNK_3CD5D1E7="144.029" UNK_F6AA2270="[375.6, 1433.6, 177.8]" UNK_107861B="FORT_WALLACE" position="[350.8, 1488.1, 179.9]" region="REGION_CML_OLDFORTWALLACE">
+      <unlock id="MAG4_OLDFORTWALLACE" name="Old Fort Wallace Standard" />
+    </group>
+    <group UNK_3CD5D1E7="2.8176" UNK_F6AA2270="[1387.7, -2274.4, 46.9]" UNK_107861B="CATFISH_JACKSONS" position="[1335.609, -2280.934, 48.1422]" region="REGION_SCM_CATFISHJACKSONS">
+      <unlock id="MAG4_CATFISHJACKSONS" name="Catfish Jackson's Standard" />
+    </group>
+    <group UNK_3CD5D1E7="0.0" UNK_F6AA2270="[-1420.189, -824.0381, 98.9798]" UNK_107861B="FORT_RIGGS" position="[-1501.533, -777.5842, 104.3046]" region="REGION_BGV_FORTRIGGS">
+      <unlock id="MAG4_FORTRIGGS" name="Fort Riggs Bootleggers Standard" />
+    </group>
+    <group UNK_3CD5D1E7="0.2898" UNK_F6AA2270="[-5848.692, -3664.601, -18.9387]" UNK_107861B="SCRATCHING_POST" position="[-5837.83, -3726.113, -26.2639]" region="REGION_GAP_FIRST">
+      <unlock id="MAG4_SCRATCHINGPOST" name="Scratching Post Smuggler Standard" />
+    </group>
+    <group UNK_3CD5D1E7="14.2792" UNK_F6AA2270="[-4867.778, -2769.306, -13.5999]" UNK_107861B="RIDGEWOOD" position="[-4793.3, -2723.833, -13.8089]" region="REGION_CHO_RIDGEWOOD_FARM">
+      <unlock id="MAG4_RIDGEWOOD" name="Ridgewood Farm Standard" />
+    </group>
+  </UNK_F4A7B328>
+</root>

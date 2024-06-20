@@ -1,0 +1,1200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <eventdata>
+    <UNK_81C1656A>
+      <wave type="SEARCHERS">
+        <peds>
+          <ped model="MP_G_M_M_UNICRIMINALS_01" point="false" role="GUARD" scenario="WORLD_HUMAN_GUARD_SCOUT" />
+          <ped model="MP_G_M_M_UNICRIMINALS_01" point="false" role="GUARD" scenario="WORLD_HUMAN_GUARD_SCOUT" />
+          <ped model="MP_G_M_M_UNICRIMINALS_01" point="false" role="SEARCH" scenario="WORLD_HUMAN_CROUCH_INSPECT" />
+        </peds>
+      </wave>
+      <wave type="SEARCHER">
+        <peds>
+          <ped model="MP_G_M_M_UNICRIMINALS_01" point="false" role="SEARCH" scenario="WORLD_HUMAN_CROUCH_INSPECT" />
+        </peds>
+      </wave>
+      <wave type="DIGGER">
+        <peds>
+          <ped model="MP_G_M_M_UNICRIMINALS_01" point="true" role="SEARCH" scenario="WORLD_HUMAN_GRAVEDIG" />
+        </peds>
+      </wave>
+      <wave type="DEFENSIVE">
+        <peds>
+          <ped model="MP_G_M_M_UNICRIMINALS_01" point="false" role="DEFENSIVE" scenario="WORLD_HUMAN_GUARD_SCOUT" />
+          <ped model="MP_G_M_M_UNICRIMINALS_01" point="false" role="DEFENSIVE" scenario="WORLD_HUMAN_GUARD_SCOUT" />
+          <ped model="MP_G_M_M_UNICRIMINALS_01" point="false" role="DEFENSIVE" scenario="WORLD_HUMAN_GUARD_SCOUT" />
+        </peds>
+      </wave>
+      <wave type="BANDITS">
+        <peds>
+          <ped model="MP_G_M_M_UNICRIMINALS_01" role="BANDIT" />
+          <ped model="MP_G_M_M_UNICRIMINALS_01" role="BANDIT" />
+          <ped model="MP_G_M_M_UNICRIMINALS_01" role="BANDIT" />
+        </peds>
+      </wave>
+      <wave type="CORPSES">
+        <peds>
+          <ped model="MP_G_M_M_UNICRIMINALS_01" role="CORPSE" />
+          <ped model="MP_G_M_M_UNICRIMINALS_01" role="CORPSE" />
+          <ped model="MP_G_M_M_UNICRIMINALS_01" role="CORPSE" />
+        </peds>
+      </wave>
+      <wave type="GUARD">
+        <peds>
+          <ped model="MP_G_M_M_UNICRIMINALS_01" point="false" role="GUARD" scenario="WORLD_HUMAN_GUARD_SCOUT" />
+          <ped model="MP_G_M_M_UNICRIMINALS_01" point="false" role="GUARD" scenario="WORLD_HUMAN_GUARD_SCOUT" />
+        </peds>
+      </wave>
+      <wave type="COLLECTOR">
+        <peds>
+          <ped model="MP_RE_RIVALCOLLECTOR_MALES_01" role="COLLECTOR" />
+          <ped model="A_C_HORSE_TENNESSEEWALKER_CHESTNUT" role="HORSE" />
+        </peds>
+      </wave>
+      <wave type="RIVALS">
+        <peds>
+          <ped model="MP_G_M_M_UNICRIMINALS_01" role="RIVAL" />
+          <ped model="MP_G_M_M_UNICRIMINALS_01" role="RIVAL" />
+        </peds>
+      </wave>
+    </UNK_81C1656A>
+    <UNK_E0BA9DFF>
+      <UNK_FC10662 random="0" type="EMPTY" />
+      <UNK_FC10662 random="0" type="MONEY_SMALL">
+        <reward UNK_DEFED13D="REWARD_COINS" />
+      </UNK_FC10662>
+      <UNK_FC10662 random="0" type="MONEY_LARGE">
+        <reward UNK_DEFED13D="REWARD_LARGE" />
+      </UNK_FC10662>
+      <UNK_FC10662 random="1" type="BOTTLE_COMMON">
+        <reward UNK_DEFED13D="COLLECTIBLE_CARIB_RUM" model="MP005_S_AWB_CR" />
+        <reward UNK_DEFED13D="COLLECTIBLE_LONDRY_GIN" model="MP005_S_AWB_LDG" />
+        <reward UNK_DEFED13D="COLLECTIBLE_TENN_WHISKEY" model="MP005_S_AWB_TW" />
+      </UNK_FC10662>
+      <UNK_FC10662 random="1" type="BOTTLE_UNCOMMON">
+        <reward UNK_DEFED13D="COLLECTIBLE_COGNAC" model="MP005_S_AWB_C" />
+        <reward UNK_DEFED13D="COLLECTIBLE_CYPRUS_BRANDY" model="MP005_S_AWB_CB" />
+        <reward UNK_DEFED13D="COLLECTIBLE_PLYMOUTH_GIN" model="MP005_S_AWB_PG" />
+      </UNK_FC10662>
+      <UNK_FC10662 random="1" type="BOTTLE_RARE">
+        <reward UNK_DEFED13D="COLLECTIBLE_IRISH_WHISKEY" model="MP005_S_AWB_IW" />
+        <reward UNK_DEFED13D="COLLECTIBLE_OLDTOM_GIN" model="MP005_S_AWB_OTG" />
+      </UNK_FC10662>
+      <UNK_FC10662 random="1" type="ARROWHEAD_COMMON">
+        <reward UNK_DEFED13D="COLLECTIBLE_ARROWHEAD_CHIPPED" model="MP005_MP_AWHD_CHIPPED" />
+        <reward UNK_DEFED13D="COLLECTIBLE_ARROWHEAD_CRUDE" model="MP005_MP_AWHD_CRUDE" />
+        <reward UNK_DEFED13D="COLLECTIBLE_ARROWHEAD_RAW" model="MP005_MP_AWHD_RAW" />
+        <reward UNK_DEFED13D="COLLECTIBLE_ARROWHEAD_SPLINTERED" model="MP005_MP_AWHD_SPLNTR" />
+      </UNK_FC10662>
+      <UNK_FC10662 random="1" type="ARROWHEAD_UNCOMMON">
+        <reward UNK_DEFED13D="COLLECTIBLE_ARROWHEAD_BONE" model="MP005_MP_AWHD_BONE" />
+        <reward UNK_DEFED13D="COLLECTIBLE_ARROWHEAD_FELDSPAR" model="MP005_MP_AWHD_FELDSPAR" />
+        <reward UNK_DEFED13D="COLLECTIBLE_ARROWHEAD_FLINT" model="MP005_MP_AWHD_GRANITE" />
+        <reward UNK_DEFED13D="COLLECTIBLE_ARROWHEAD_ROUGH" model="MP005_MP_AWHD_ROUGH" />
+        <reward UNK_DEFED13D="COLLECTIBLE_ARROWHEAD_SLATE" model="MP005_MP_AWHD_SLATE" />
+      </UNK_FC10662>
+      <UNK_FC10662 random="1" type="ARROWHEAD_RARE">
+        <reward UNK_DEFED13D="COLLECTIBLE_ARROWHEAD_AGATE" model="MP005_MP_AWHD_AGATE" />
+        <reward UNK_DEFED13D="COLLECTIBLE_ARROWHEAD_OBSIDIAN" model="MP005_MP_AWHD_OBSIDIAN" />
+      </UNK_FC10662>
+      <UNK_FC10662 random="1" type="COIN_COMMON">
+        <reward UNK_DEFED13D="COLLECTIBLE_COIN_1792_QTR" model="MP005_S_CN_1792_QLP" />
+        <reward UNK_DEFED13D="COLLECTIBLE_COIN_1792_NICKEL" model="MP005_S_CN_1792_1866_5CNICK" />
+        <reward UNK_DEFED13D="COLLECTIBLE_COIN_1789_PNY" model="MP005_S_CN_1789_PCTM" />
+        <reward UNK_DEFED13D="COLLECTIBLE_COIN_1796_HLF_PNY" model="MP005_S_CN_1796_HALFPEN_CTN" />
+        <reward UNK_DEFED13D="COLLECTIBLE_COIN_1795_HLF_EAG" model="MP005_S_CN_1795_1797_5D_SHETR" />
+      </UNK_FC10662>
+      <UNK_FC10662 random="1" type="COIN_UNCOMMON">
+        <reward UNK_DEFED13D="COLLECTIBLE_COIN_1787_CENT_TKN" model="MP005_S_CN_1787_1C_APT" />
+        <reward UNK_DEFED13D="COLLECTIBLE_COIN_1800_FIVE_DLR" model="MP005_S_CN_1800_1888_5D_CB" />
+        <reward UNK_DEFED13D="COLLECTIBLE_COIN_1798_SLV_DLR" model="MP005_S_CN_1798_1804_SD_DB" />
+        <reward UNK_DEFED13D="COLLECTIBLE_COIN_1800_HLF_DIME" model="MP005_S_CN_1800_1805_S5C_DBHD" />
+        <reward UNK_DEFED13D="COLLECTIBLE_COIN_1794_SLV_DLR" model="MP005_S_CN_1794_1795_SD_FH" />
+      </UNK_FC10662>
+      <UNK_FC10662 random="1" type="COIN_RARE">
+        <reward UNK_DEFED13D="COLLECTIBLE_COIN_1700_NY_TKN" model="MP005_S_CN_1700_NYT" />
+        <reward UNK_DEFED13D="COLLECTIBLE_COIN_1797_GLD_EAG" model="MP005_S_CN_1797_1804_10D_LC" />
+        <reward UNK_DEFED13D="COLLECTIBLE_COIN_1792_LIB_QTR" model="MP005_S_CN_1792_1870_QPD" />
+      </UNK_FC10662>
+      <UNK_FC10662 random="1" type="HEIRLOOM">
+        <reward UNK_DEFED13D="COLLECTIBLE_HRLM_BRUSH_BOAR" model="MP005_S_HL_BR_BOARBRISTLE" />
+        <reward UNK_DEFED13D="COLLECTIBLE_HRLM_BRUSH_EBONY" model="MP005_S_HL_BR_EBNY" />
+        <reward UNK_DEFED13D="COLLECTIBLE_HRLM_BRUSH_GOATHAIR" model="MP005_S_HL_BR_GOAT" />
+        <reward UNK_DEFED13D="COLLECTIBLE_HRLM_BRUSH_HORSEHAIR" model="MP005_S_HL_BR_HORSE" />
+        <reward UNK_DEFED13D="COLLECTIBLE_HRLM_BRUSH_ROSEWOOD" model="MP005_S_HL_BR_NG_RSEWD" />
+        <reward UNK_DEFED13D="COLLECTIBLE_HRLM_BRUSH_ROSEWOOD_NG" model="MP005_S_HL_BR_RSEWD" />
+        <reward UNK_DEFED13D="COLLECTIBLE_HRLM_COMB_BOXWOOD" model="MP005_S_HL_CMB_BOXWOOD" />
+        <reward UNK_DEFED13D="COLLECTIBLE_HRLM_COMB_CHERRYWOOD" model="MP005_S_HL_CMB_CHRYWD" />
+        <reward UNK_DEFED13D="COLLECTIBLE_HRLM_COMB_IVORY" model="MP005_S_HL_CMB_IVRY" />
+        <reward UNK_DEFED13D="COLLECTIBLE_HRLM_COMB_TORTOISESHELL" model="MP005_S_HL_CMB_TORTSHELL" />
+        <reward UNK_DEFED13D="COLLECTIBLE_HRLM_HAIRPIN_EBONY" model="MP005_S_HL_HP_CRVDWD" />
+        <reward UNK_DEFED13D="COLLECTIBLE_HRLM_HAIRPIN_IVORY" model="MP005_S_HL_HP_EBNY" />
+        <reward UNK_DEFED13D="COLLECTIBLE_HRLM_HAIRPIN_JADE" model="MP005_S_HL_HP_IVRY" />
+      </UNK_FC10662>
+      <UNK_FC10662 random="1" type="JEWELRY">
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_AMETHYST_NECKLACE" model="MP005_S_NKLC_GLD_AME" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_BLCK_PEARL_NECKLACE" model="MP005_S_NKLC_BLK_PRL" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_CORAL_DNGL_EARRING" model="MP005_S_ERRNG_CRL_DNGL" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_CORAL_RING" model="MP005_S_RNG_CORAL" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_DMND_BNGLE_BRACELET" model="MP005_S_BRCLT_DMD_GLD" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_EMERALD_EARRING" model="MP005_S_ERRNG_EMR" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_EMERALD_RING" model="MP005_S_RNG_EMR_GLD" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_FRENCH_DMND_RING" model="MP005_S_RNG_FRN_DMD" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_GLD_BNGLE_BRACELET" model="MP005_S_BRCLT_GLD_BNGL" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_GLD_CROSS_NECKLACE" model="MP005_S_NKLC_GLD_CROSS" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_GLD_PEARL_NECKLACE" model="MP005_S_NKLC_MTHR_PRL" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_MOON_RING" model="MP005_S_RNG_MNSTN" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_MTHR_PEARL_NECKLACE" model="MP005_S_NKLC_MTHR_PRL" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_ONYX_RING" model="MP005_S_RNG_DMND_ONYX" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_QN_DMND_EARRING" model="MP005_S_ERRNG_QNS_DMD" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_SLVR_PEARL_NECKLACE" model="MP005_S_NKLC_SLV_PRL" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_TOPAZ_NECKLACE" model="MP005_S_NKLC_PLT_TPZ" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_TOPAZ_RING" model="MP005_S_RNG_TOP_WED" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_TURQ_STUD_EARRING" model="MP005_S_ERRNG_TRQ_STUD" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_TURQUOISE_RING" model="MP005_S_RNG_TRQ_GLD" />
+        <reward UNK_DEFED13D="COLLECTIBLE_JEWELRY_WHTGLD_DMND_RING" model="MP005_S_RNG_GLD_DMD" />
+      </UNK_FC10662>
+      <UNK_FC10662 random="1" type="TAROT_CARD">
+        <reward UNK_DEFED13D="DOCUMENT_CARD_TWO_CUPS" model="MP005_S_CARDT_2C" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_THREE_CUPS" model="MP005_S_CARDT_3C" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_FOUR_CUPS" model="MP005_S_CARDT_4C" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_FIVE_CUPS" model="MP005_S_CARDT_5C" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_SIX_CUPS" model="MP005_S_CARDT_6C" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_SEVEN_CUPS" model="MP005_S_CARDT_7C" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_EIGHT_CUPS" model="MP005_S_CARDT_8C" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_NINE_CUPS" model="MP005_S_CARDT_9C" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_TEN_CUPS" model="MP005_S_CARDT_10C" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_TWO_PENTACLES" model="MP005_S_CARDT_2P" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_THREE_PENTACLES" model="MP005_S_CARDT_3P" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_FOUR_PENTACLES" model="MP005_S_CARDT_4P" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_FIVE_PENTACLES" model="MP005_S_CARDT_5P" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_SIX_PENTACLES" model="MP005_S_CARDT_6P" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_SEVEN_PENTACLES" model="MP005_S_CARDT_7P" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_EIGHT_PENTACLES" model="MP005_S_CARDT_8P" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_NINE_PENTACLES" model="MP005_S_CARDT_9P" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_TEN_PENTACLES" model="MP005_S_CARDT_10P" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_TWO_SWORDS" model="MP005_S_CARDT_2S" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_THREE_SWORDS" model="MP005_S_CARDT_3S" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_FOUR_SWORDS" model="MP005_S_CARDT_4S" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_FIVE_SWORDS" model="MP005_S_CARDT_5S" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_SIX_SWORDS" model="MP005_S_CARDT_6S" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_SEVEN_SWORDS" model="MP005_S_CARDT_7S" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_EIGHT_SWORDS" model="MP005_S_CARDT_8S" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_NINE_SWORDS" model="MP005_S_CARDT_9S" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_TEN_SWORDS" model="MP005_S_CARDT_10S" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_TWO_WANDS" model="MP005_S_CARDT_2W" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_THREE_WANDS" model="MP005_S_CARDT_3W" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_FOUR_WANDS" model="MP005_S_CARDT_4W" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_FIVE_WANDS" model="MP005_S_CARDT_5W" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_SIX_WANDS" model="MP005_S_CARDT_6W" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_SEVEN_WANDS" model="MP005_S_CARDT_7W" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_EIGHT_WANDS" model="MP005_S_CARDT_8W" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_NINE_WANDS" model="MP005_S_CARDT_9W" />
+        <reward UNK_DEFED13D="DOCUMENT_CARD_TEN_WANDS" model="MP005_S_CARDT_10W" />
+      </UNK_FC10662>
+    </UNK_E0BA9DFF>
+    <UNK_4CBD154D>
+      <chests>
+        <chest rewardtype="EMPTY" value="1">
+          <UNK_FC10662 type="EMPTY" />
+        </chest>
+        <chest rewardtype="SMALL_COMMON" value="1">
+          <UNK_FC10662 type="MONEY_SMALL" />
+          <UNK_FC10662 type="BOTTLE_COMMON" />
+          <UNK_FC10662 type="ARROWHEAD_COMMON" />
+          <UNK_FC10662 type="COIN_COMMON" />
+          <UNK_FC10662 type="HEIRLOOM" />
+        </chest>
+        <chest rewardtype="SMALL_UNCOMMON" value="1">
+          <UNK_FC10662 type="MONEY_SMALL" />
+          <UNK_FC10662 type="BOTTLE_UNCOMMON" />
+          <UNK_FC10662 type="ARROWHEAD_UNCOMMON" />
+          <UNK_FC10662 type="COIN_UNCOMMON" />
+        </chest>
+        <chest rewardtype="SMALL_RARE" value="1">
+          <UNK_FC10662 type="MONEY_LARGE" />
+          <UNK_FC10662 type="BOTTLE_RARE" />
+          <UNK_FC10662 type="ARROWHEAD_RARE" />
+          <UNK_FC10662 type="COIN_RARE" />
+          <UNK_FC10662 type="JEWELRY" />
+        </chest>
+        <chest rewardtype="LARGE_COMMON" value="2">
+          <UNK_FC10662 type="MONEY_SMALL" />
+          <UNK_FC10662 type="BOTTLE_COMMON" />
+          <UNK_FC10662 type="ARROWHEAD_COMMON" />
+          <UNK_FC10662 type="COIN_COMMON" />
+          <UNK_FC10662 type="HEIRLOOM" />
+        </chest>
+        <chest rewardtype="LARGE_UNCOMMON" value="2">
+          <UNK_FC10662 type="MONEY_SMALL" />
+          <UNK_FC10662 type="BOTTLE_UNCOMMON" />
+          <UNK_FC10662 type="ARROWHEAD_UNCOMMON" />
+          <UNK_FC10662 type="COIN_UNCOMMON" />
+        </chest>
+        <chest rewardtype="LARGE_RARE" value="2">
+          <UNK_FC10662 type="MONEY_LARGE" />
+          <UNK_FC10662 type="BOTTLE_RARE" />
+          <UNK_FC10662 type="ARROWHEAD_RARE" />
+          <UNK_FC10662 type="COIN_RARE" />
+          <UNK_FC10662 type="JEWELRY" />
+        </chest>
+      </chests>
+    </UNK_4CBD154D>
+    <location id="FLAT_IRON_LAKE">
+      <variation id="STANDARD">
+        <UNK_1486252 UNK_337BA19C="[-720.1901, -556.0289, 42.3802]" />
+      </variation>
+      <UNK_89719D55>
+        <UNK_14A49DE7 UNK_8BE87952="205.4" pos="[-805.0686, -344.1079, 40.7436]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="0.0" pos="[-613.6933, -564.297, 40.8569]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="346.2" pos="[-875.577, -894.3142, 40.7094]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="0.0" pos="[-766.0543, -427.7022, 41.0443]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="0.0" pos="[-836.3696, -408.3311, 41.0127]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="0.0" pos="[-737.9794, -557.4448, 40.5952]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="68.8" pos="[-758.243, -576.3106, 41.2466]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="68.8" pos="[-706.4918, -524.1846, 40.7503]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="0.0" pos="[-668.4395, -757.4449, 41.2935]" scenario="WORLD_HUMAN_GRAVEDIG" />
+      </UNK_89719D55>
+      <UNK_30408CA2>
+        <prop model="P_CHUCKWAGON01X" pos="[-53.18, -551.84, 62.34]" rotation="[-2.0, -5.5, 89.64]" />
+        <prop model="P_CAMPFIRE05X" pos="[-54.3, -547.59, 62.81]" rotation="[6.0, -1.0, 0.0]" />
+        <prop model="P_CRATE04X" pos="[-59.13, -552.62, 62.15]" rotation="[-1.5, 6.5, -120.09]" />
+        <prop model="P_CRATE01X_VAR02" pos="[-52.43, -547.54, 62.86]" rotation="[6.0, -1.0, 0.0]" />
+        <prop model="S_CRATESEAT03X" pos="[-53.26, -549.05, 62.68]" rotation="[4.0, -5.0, 225.0]" />
+        <prop model="S_CRATESEAT03X" pos="[-55.67, -548.38, 62.69]" rotation="[4.5, 5.0, 120.0]" />
+        <prop model="P_AMB_TENT02X" pos="[-54.83, -543.02, 63.26]" rotation="[6.0, -2.0, 0.0]" />
+        <prop model="S_BEDROLLOPEN01X" pos="[-54.34, -542.85, 63.32]" rotation="[6.0, 0.0, 0.0]" />
+        <prop model="P_BEDROLLCLOSED03X" pos="[-59.9, -551.54, 62.42]" rotation="[0.0, -2.0, 0.0]" />
+        <prop model="p_crate17x" pos="[-732.5753, -600.4695, 40.5985]" rotation="[0.0, 0.0, 348.0]" />
+        <prop model="p_crate17x" pos="[-735.343, -556.529, 40.613]" rotation="[0.0, 0.0, 66.0]" />
+        <prop model="p_crate17x" pos="[-794.1682, -495.973, 40.7934]" rotation="[0.0, 0.0, 339.6126]" />
+        <prop model="p_crate17x" pos="[-713.1816, -513.8864, 40.6844]" rotation="[0.0, 0.0, 345.6126]" />
+        <prop model="p_crate17x" pos="[-613.1982, -566.7568, 40.8127]" rotation="[0.0, 0.0, 250.4126]" />
+        <prop model="p_barrelWater01x" pos="[-616.7017, -566.7612, 40.7419]" rotation="[0.0, 0.0, 275.6126]" />
+        <prop model="p_barrelWater01x" pos="[-724.1642, -645.0002, 40.8738]" rotation="[0.0, 0.0, 275.6126]" />
+        <prop model="p_barrelWater01x" pos="[-731.8944, -470.0374, 40.6734]" rotation="[0.0, 0.0, 259.6126]" />
+        <prop model="p_barrelWater01x" pos="[-746.4823, -485.2152, 40.5746]" rotation="[0.0, 0.0, 198.4126]" />
+        <prop model="p_crate17x" pos="[-647.4188, -787.8343, 41.2644]" rotation="[0.0, 0.0, 36.0]" />
+        <prop model="p_crate02x" pos="[-410.43, -53.01, 40.51]" rotation="[0.0, 0.0, 30.0]" />
+        <prop model="p_crate02x" pos="[-483.08, -163.84, 40.65]" rotation="[0.0, 0.0, 0.0]" value="true" />
+        <prop model="p_crate02x" pos="[-752.48, -352.16, 40.43]" rotation="[0.0, 0.0, 0.0]" value="true" />
+        <prop model="p_crate02x" pos="[-773.97, -433.42, 40.3]" rotation="[0.0, 0.0, 0.0]" value="true" />
+        <prop model="p_crate02x" pos="[-506.75, -609.51, 40.22]" rotation="[0.0, 0.0, 90.0]" value="true" />
+        <prop model="p_crate02x" pos="[-660.83, -756.16, 40.35]" rotation="[0.0, 0.0, 100.0]" value="true" />
+        <prop model="p_crate02x" pos="[-658.9, -758.33, 40.35]" rotation="[0.0, 0.0, 130.0]" value="true" />
+        <prop model="p_crate02x" pos="[-688.34, -822.57, 40.39]" rotation="[0.0, 0.0, 140.0]" value="true" />
+      </UNK_30408CA2>
+      <UNK_285433A0>
+        <propset model="pg_ambient_campfire02xb" pos="[-549.9448, -611.3057, 41.2709]" rotation="[0.0, 0.0, -77.5874]" />
+        <propset model="pg_ambient_campfire02x_stools" pos="[-839.35, -410.7602, 40.9334]" rotation="[0.0, 0.0, 75.4126]" />
+        <propset model="pg_ambient_campfireransacked02x" pos="[-673.2366, -756.9534, 41.4856]" rotation="[0.0, 0.0, 140.8]" />
+        <propset model="pg_ambient_campfire02xc" pos="[-898.969, -191.4245, 79.2142]" rotation="[0.0, 0.0, 93.8]" />
+        <propset model="pg_ambient_campfire02xb" pos="[-609.5041, -380.198, 85.3065]" rotation="[0.0, 0.0, 22.4]" />
+        <propset model="pg_ambient_campfire03x" pos="[-287.3414, -569.7433, 41.1252]" rotation="[0.0, 0.0, 65.2]" />
+        <propset model="pg_ambient_campfire02x_stools" pos="[-591.9037, -251.1082, 40.9805]" rotation="[0.0, 0.0, -81.2]" />
+      </UNK_285433A0>
+      <spawnpositions>
+        <wave type="DIGGER">
+          <UNK_25C0B4BF UNK_8BE87952="205.4" UNK_B71720C8="[-805.0686, -344.1079, 40.7436]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-613.6933, -564.297, 40.8569]" />
+          <UNK_25C0B4BF UNK_8BE87952="346.2" UNK_B71720C8="[-875.577, -894.3142, 40.7094]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-766.0543, -427.7022, 41.0443]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-836.3696, -408.3311, 41.0127]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-737.9794, -557.4448, 40.5952]" />
+          <UNK_25C0B4BF UNK_8BE87952="68.8" UNK_B71720C8="[-758.243, -576.3106, 41.2466]" />
+          <UNK_25C0B4BF UNK_8BE87952="68.8" UNK_B71720C8="[-706.4918, -524.1846, 40.7503]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-668.4395, -757.4449, 41.2935]" />
+        </wave>
+        <wave type="DEFENSIVE">
+          <UNK_25C0B4BF UNK_8BE87952="67.4" head2="39.4" head3="166.2" UNK_B71720C8="[-732.9673, -557.5116, 40.5773]" UNK_8D32CCEC="[-712.2313, -515.2051, 40.6938]" UNK_9ADE6843="[-732.2264, -598.9544, 40.5362]" />
+          <UNK_25C0B4BF UNK_8BE87952="34.8" head2="330.8" head3="58.5" UNK_B71720C8="[-554.98, -614.3975, 41.201]" UNK_8D32CCEC="[-545.5704, -619.8287, 41.1985]" UNK_9ADE6843="[-550.9115, -605.7534, 41.241]" />
+        </wave>
+        <wave type="SEARCHERS">
+          <UNK_25C0B4BF head2="0.0" head3="0.0" UNK_B71720C8="[-908.8681, -378.9572, 48.333]" UNK_8D32CCEC="[-911.9639, -380.6712, 48.9456]" UNK_9ADE6843="[-910.9695, -378.9017, 48.6105]" />
+        </wave>
+        <wave type="RIVALS">
+          <UNK_25C0B4BF UNK_8BE87952="309.9" head2="118.1" UNK_B71720C8="[-637.6744, -55.9822, 81.769]" UNK_8D32CCEC="[-605.4656, -39.4181, 84.0514]" />
+          <UNK_25C0B4BF UNK_8BE87952="293.8" head2="71.7" UNK_B71720C8="[-813.2393, -860.9235, 53.1459]" UNK_8D32CCEC="[-774.4436, -867.3615, 52.8691]" />
+          <UNK_25C0B4BF UNK_8BE87952="43.7" head2="279.2" UNK_B71720C8="[-646.2029, -789.0535, 41.2112]" UNK_8D32CCEC="[-675.7771, -757.1814, 41.5705]" />
+          <UNK_25C0B4BF UNK_8BE87952="84.8" head2="267.4" UNK_B71720C8="[-272.3799, -280.0019, 92.2768]" UNK_8D32CCEC="[-332.6605, -281.4327, 90.5942]" />
+          <UNK_25C0B4BF UNK_8BE87952="283.0" head2="101.8" UNK_B71720C8="[-1045.471, -312.7636, 82.7193]" UNK_8D32CCEC="[-1017.731, -303.3849, 81.5951]" />
+        </wave>
+        <wave type="COLLECTOR">
+          <UNK_25C0B4BF UNK_8BE87952="124.2" UNK_B71720C8="[-208.5014, -233.0337, 84.3064]" />
+          <UNK_25C0B4BF UNK_8BE87952="171.6" UNK_B71720C8="[-366.9867, -4.6492, 42.0293]" />
+          <UNK_25C0B4BF UNK_8BE87952="120.8" UNK_B71720C8="[-705.833, 88.2725, 45.2949]" />
+        </wave>
+        <wave type="BANDITS">
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-908.8681, -378.9572, 48.333]" UNK_8D32CCEC="[-911.9639, -380.6712, 48.9456]" UNK_9ADE6843="[-910.9695, -378.9017, 48.6105]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-385.7086, -551.2603, 51.556]" UNK_8D32CCEC="[-386.2878, -549.7051, 51.8669]" UNK_9ADE6843="[-384.3795, -549.6592, 51.8784]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-657.4706, -458.0317, 49.7663]" UNK_8D32CCEC="[-657.9017, -460.5548, 49.9222]" UNK_9ADE6843="[-655.2554, -458.7521, 49.708]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-693.6052, -389.6145, 50.6021]" UNK_8D32CCEC="[-694.2224, -389.1082, 50.3964]" UNK_9ADE6843="[-693.8923, -387.7112, 50.4735]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-683.4939, -352.9088, 56.5172]" UNK_8D32CCEC="[-682.0951, -352.519, 56.4888]" UNK_9ADE6843="[-682.478, -351.8031, 56.4903]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-679.6481, -325.6741, 40.9153]" UNK_8D32CCEC="[-680.8567, -325.9509, 40.8532]" UNK_9ADE6843="[-679.4399, -326.2873, 40.9832]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-861.8476, -636.6763, 63.1309]" UNK_8D32CCEC="[-861.3467, -637.606, 63.044]" UNK_9ADE6843="[-862.3088, -637.6573, 63.1609]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-812.1588, -704.0031, 54.5485]" UNK_8D32CCEC="[-812.4719, -704.7789, 54.5735]" UNK_9ADE6843="[-812.725, -704.212, 54.6532]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-506.1919, -550.2881, 44.2268]" UNK_8D32CCEC="[-506.0185, -549.2028, 44.3596]" UNK_9ADE6843="[-504.3717, -549.7565, 43.9616]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-357.458, -108.5665, 45.8276]" UNK_8D32CCEC="[-357.458, -108.5665, 45.8276]" UNK_9ADE6843="[-357.458, -108.5665, 45.8276]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-654.5494, -218.8011, 44.347]" UNK_8D32CCEC="[-654.5494, -218.8011, 44.347]" UNK_9ADE6843="[-654.5494, -218.8011, 44.347]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-688.3107, -169.2466, 58.209]" UNK_8D32CCEC="[-688.3107, -169.2466, 58.209]" UNK_9ADE6843="[-688.3107, -169.2466, 58.209]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-665.5931, -26.9899, 83.6861]" UNK_8D32CCEC="[-665.5931, -26.9899, 83.6861]" UNK_9ADE6843="[-665.5931, -26.9899, 83.6861]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-748.108, -229.5961, 51.2708]" UNK_8D32CCEC="[-748.108, -229.5961, 51.2708]" UNK_9ADE6843="[-748.108, -229.5961, 51.2708]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-984.7075, -343.919, 62.2776]" UNK_8D32CCEC="[-984.7075, -343.919, 62.2776]" UNK_9ADE6843="[-984.7075, -343.919, 62.2776]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-1004.524, -459.8184, 95.4413]" UNK_8D32CCEC="[-1004.524, -459.8184, 95.4413]" UNK_9ADE6843="[-1004.524, -459.8184, 95.4413]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-1068.704, -570.6891, 81.0971]" UNK_8D32CCEC="[-1068.704, -570.6891, 81.0971]" UNK_9ADE6843="[-1068.704, -570.6891, 81.0971]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-1054.317, -675.7338, 71.0571]" UNK_8D32CCEC="[-1054.317, -675.7338, 71.0571]" UNK_9ADE6843="[-1054.317, -675.7338, 71.0571]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-896.5108, -660.1078, 66.1107]" UNK_8D32CCEC="[-896.5108, -660.1078, 66.1107]" UNK_9ADE6843="[-896.5108, -660.1078, 66.1107]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-761.3911, -557.689, 41.3588]" UNK_8D32CCEC="[-761.3911, -557.689, 41.3588]" UNK_9ADE6843="[-761.3911, -557.689, 41.3588]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-306.7411, -257.9639, 91.0164]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-226.0849, -319.0763, 87.8218]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-308.8788, -370.2151, 87.1142]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-324.3338, -363.6688, 87.0268]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-328.712, -439.0954, 75.6882]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-338.317, -483.8223, 66.7734]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-320.6219, -524.8544, 51.134]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-159.0309, -527.795, 50.5724]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-359.7701, -534.1942, 53.0023]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-437.3597, -498.0286, 59.375]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-462.642, -497.7361, 59.5344]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-529.1999, -470.8568, 58.9829]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-603.6419, -471.1053, 55.8502]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-736.7451, -669.567, 43.6622]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-712.8525, -713.9636, 44.1344]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-704.8027, -737.6015, 43.3048]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-691.3392, -751.5477, 43.1083]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-719.6469, -777.4808, 44.5904]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-719.5976, -825.5889, 43.3979]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-729.2563, -877.509, 44.426]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-749.6284, -949.1942, 48.2113]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-833.6848, -870.7534, 45.5755]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-812.0933, -860.8846, 53.1764]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-786.9783, -834.3069, 51.111]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-849.7969, -824.9865, 53.8053]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-886.8035, -822.3434, 53.4739]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-950.5646, -832.5291, 42.2002]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-977.9307, -777.2871, 53.315]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-1006.414, -750.197, 59.2772]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-1052.77, -752.213, 62.0415]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-1064.441, -713.0264, 67.3347]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-1016.84, -682.584, 67.4883]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-999.2228, -651.9875, 71.2146]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-1192.092, -631.1572, 94.0263]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-1133.259, -582.741, 90.3946]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-1133.215, -582.7399, 90.3941]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-1095.026, -575.6777, 81.4104]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-1101.235, -527.1949, 82.0614]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-1105.647, -441.8904, 86.9477]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-1077.526, -432.6211, 83.5077]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-1019.466, -381.2297, 72.584]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-891.0324, -327.1155, 44.1722]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-810.861, -327.3028, 42.6906]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-809.7491, -309.5145, 42.9271]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-776.2551, -245.934, 51.8263]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-765.1702, -155.9047, 79.7751]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-745.9313, -136.7839, 81.4693]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-675.5467, -124.6642, 82.0581]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-675.8462, -79.7022, 81.4979]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-626.9792, -75.2955, 81.802]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-628.7813, -60.1115, 81.8606]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-612.8011, -19.7197, 84.7715]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-575.709, -17.2608, 85.2783]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-543.821, -8.3745, 82.8042]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-501.8621, 0.74, 54.4074]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-487.0227, 85.4803, 47.9942]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-430.4063, 56.6407, 41.1477]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-304.2492, -40.2639, 46.6381]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-322.5346, -153.6346, 50.1032]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-255.1524, -240.5497, 90.2698]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-269.2987, -277.7773, 92.3389]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-156.667, -416.2255, 64.9181]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-177.03, -466.2268, 55.1749]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-600.0699, -355.3976, 80.5983]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-568.9875, -257.9829, 44.7075]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-586.6896, -167.4735, 43.9311]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-486.5513, -97.6828, 41.6131]" />
+        </wave>
+        <wave type="CORPSES">
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-737.8812, -561.1005, 40.3835]" UNK_8D32CCEC="[-713.8419, -530.6682, 40.4978]" UNK_9ADE6843="[-746.3491, -542.3427, 40.2151]" />
+        </wave>
+        <wave type="GUARD">
+          <UNK_25C0B4BF UNK_8BE87952="263.95" head2="185.47" UNK_B71720C8="[-863.3959, -734.8544, 58.6511]" UNK_8D32CCEC="[-868.2881, -736.2627, 58.6867]" />
+          <UNK_25C0B4BF UNK_8BE87952="287.4231" head2="334.9413" UNK_B71720C8="[-340.0285, -152.0704, 49.6985]" UNK_8D32CCEC="[-344.4167, -150.8385, 49.7247]" />
+        </wave>
+      </spawnpositions>
+      <UNK_CD82EDF0>
+        <UNK_CC0A5E1C pos="[-708.115, -523.571, 40.8066]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-737.6718, -602.3151, 40.7417]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-800.2382, -488.7362, 40.6134]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-825.0938, -416.9734, 40.8064]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-782.5467, -429.5383, 40.652]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-748.3952, -480.8263, 40.6719]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-714.8881, -505.268, 40.66]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-633.7788, -536.0858, 40.7541]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-555.1859, -610.5386, 41.2215]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-725.9301, -641.689, 40.8065]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-740.1002, -419.1577, 41.0298]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-668.2532, -755.7843, 41.2632]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-781.5161, -388.8156, 40.9245]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-838.3756, -387.1612, 40.7813]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-664.6086, -499.4552, 40.652]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-647.7001, -785.475, 41.4305]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-746.4108, -629.9247, 40.7733]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-740.9108, -549.8935, 40.8155]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-797.5717, -497.9272, 40.7681]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-816.7042, -446.1038, 40.6236]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-835.7307, -409.959, 40.966]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-616.0103, -564.1736, 40.8263]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-357.6959, -586.1874, 40.7513]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-378.7152, -578.421, 41.4552]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-394.7694, -589.4305, 40.6917]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-422.1821, -586.3868, 40.9042]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-443.2703, -584.6404, 40.7321]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-471.8251, -579.5854, 40.7906]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-486.3636, -588.3692, 40.7367]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-506.7273, -596.3021, 41.3587]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-511.2115, -625.1094, 40.9377]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-478.8222, -628.0186, 40.8426]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-468.3119, -636.8932, 40.6502]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-470.4112, -663.2943, 40.983]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-671.5119, -789.1711, 40.7275]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-678.6262, -765.6475, 41.1305]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-768.9135, -364.4438, 40.7108]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-740.1625, -359.7544, 40.7519]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-734.5249, -353.0566, 40.7023]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-755.9161, -374.2358, 40.997]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-697.1526, -830.9807, 41.2533]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-696.5247, -818.251, 41.0456]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-711.7742, -803.9528, 41.0941]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-750.6092, -387.9623, 40.8726]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-740.2762, -399.5709, 40.7642]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-823.7213, -336.4574, 40.9215]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-800.4214, -344.394, 40.7202]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-641.3586, -235.9548, 40.6398]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-674.3579, -739.9565, 41.2127]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-730.4948, -595.2831, 40.5885]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-593.9603, -202.7612, 40.8267]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-580.7064, -190.5968, 40.9112]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-557.2845, -157.968, 40.6659]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-235.3551, -563.1241, 41.2523]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-242.1758, -575.5509, 40.9252]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-262.1333, -564.4889, 41.0639]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-491.5461, -116.7029, 40.5819]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-484.9485, -126.1514, 40.6761]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-227.4158, -572.5188, 40.8668]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-825.6908, -442.3467, 40.6308]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-459.0298, -72.6637, 40.818]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-449.152, -64.896, 40.7573]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-446.8611, -54.5699, 40.8581]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-416.6562, 14.293, 40.612]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-431.0809, 16.1549, 40.7251]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-723.4606, -891.5944, 41.0737]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-711.7588, -873.9835, 41.3608]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-416.2159, 30.4003, 40.7247]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-386.066, 2.5219, 40.8108]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-411.014, -46.0142, 40.7042]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-416.7186, -58.4867, 40.6188]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-401.4962, -56.7651, 40.6703]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-435.6021, -117.3764, 40.7877]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-478.1611, -159.1467, 40.7057]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-492.6957, -168.5746, 40.5939]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-524.8986, -202.3089, 40.7553]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-577.6943, -230.3336, 40.5852]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_CC0A5E1C pos="[-746.8523, -459.9236, 40.5154]" rotation="[0.0, 0.0, 0.0]" />
+      </UNK_CD82EDF0>
+      <UNK_125E97CC>
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[-866.9224, -730.5074, 58.8642]" rotation="[0.0, 0.0, 17.6]" />
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[-338.1816, -367.9557, 87.0227]" rotation="[0.0, 0.0, 300.0]" />
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[-341.5557, -153.4877, 49.6866]" rotation="[0.0, 0.0, 335.6]" />
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[-1091.888, -578.3423, 81.4145]" rotation="[0.0, 0.0, 52.8]" />
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[-900.2269, -194.9024, 79.01]" rotation="[0.0, 0.0, 139.53]" />
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[-606.9329, -53.2234, 83.3615]" rotation="[0.0, 0.0, 180.0]" />
+        <UNK_78F5D53 model="P_STRONGBOX_RUSTED_01X" pos="[-422.55, -228.64, 58.65]" rotation="[0.0, 0.0, 70.0]" />
+        <UNK_78F5D53 model="P_STRONGBOX_RUSTED_01X" pos="[-734.43, -556.95, 40.65]" rotation="[-1.0, 0.0, 70.0]" />
+        <UNK_78F5D53 model="P_STRONGBOX_RUSTED_01X" pos="[-756.54, -137.44, 80.94]" rotation="[8.0, 0.0, -139.72]" />
+      </UNK_125E97CC>
+      <UNK_E81D630B>
+        <UNK_A3059064 pos="[-785.04, -416.5299, 40.7049]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-766.1283, -429.5193, 41.0995]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-767.293, -327.8027, 40.625]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-779.2151, -336.9813, 40.8269]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-620.1793, -199.9718, 40.8173]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-437.9221, 3.3506, 40.7225]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-292.8786, -572.1432, 41.0643]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-583.6285, -592.2558, 40.8133]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-511.5172, -646.2867, 40.7701]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-718.2024, -647.1967, 40.8086]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-570.244, -177.8437, 40.8436]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-454.1261, -572.8765, 41.3243]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-760.0912, -575.7553, 41.3772]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-722.0481, -494.7273, 40.6657]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-496.7993, -582.325, 41.3297]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-701.9225, -276.5521, 40.813]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-734.3564, -633.0142, 40.7902]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-754.5377, -584.1584, 40.7825]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-420.3007, -80.3552, 40.5683]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-661.0169, -255.3156, 40.6105]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-737.7789, -555.8911, 40.5985]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-787.8059, -496.3741, 40.7853]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-833.0779, -400.0022, 40.7733]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-802.9377, -354.6953, 40.6537]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-773.7625, -417.5403, 40.6193]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-720.7206, -486.957, 40.5278]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-753.2243, -450.6671, 40.4905]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-478.7884, -104.9686, 40.7455]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-724.2299, -475.2546, 40.7063]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-647.0725, -518.0989, 40.5721]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-613.9168, -569.475, 40.7095]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-553.8788, -629.2086, 40.8422]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-743.1843, -923.728, 41.0797]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-736.6042, -912.243, 41.0178]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-698.8478, -861.0563, 41.0258]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-447.2431, -656.3054, 40.8366]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-689.712, -841.925, 41.1099]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-704.8384, -789.9662, 40.8934]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-692.074, -782.397, 40.7199]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-521.0051, -856.4892, 40.9596]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-587.467, -825.4445, 40.891]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-616.4784, -809.1181, 41.1524]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-219.4387, -554.2582, 41.3683]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-273.5481, -578.8393, 40.9405]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-320.9333, -579.7295, 40.9053]" rotation="[0.0, 0.0, 0.0]" />
+      </UNK_E81D630B>
+    </location>
+    <location id="GAPTOOTH_RIDGE">
+      <variation id="STANDARD">
+        <UNK_1486252 UNK_337BA19C="[-5023.29, -2555.09, -11.5706]" />
+      </variation>
+      <UNK_89719D55>
+        <UNK_14A49DE7 UNK_8BE87952="103.4" pos="[-5059.033, -2416.618, -9.0305]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="311.5" pos="[-5077.193, -2422.339, -9.6302]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="154.4" pos="[-5066.366, -2405.326, -9.0948]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="323.5" pos="[-5269.195, -2361.122, -9.0154]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="150.2" pos="[-5178.757, -2715.437, 6.6457]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="342.9" pos="[-4982.655, -3010.355, -20.8626]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="294.8" pos="[-4807.666, -3044.662, -15.7996]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="80.7" pos="[-4896.848, -2562.698, -7.6261]" scenario="WORLD_HUMAN_GRAVEDIG" />
+      </UNK_89719D55>
+      <UNK_5DF6D87C>
+        <vehicle model="gatchuck" pos="[-5059.804, -2564.819, -11.986]" rotation="[0.0, 0.0, -37.2]" />
+        <vehicle model="gatchuck" pos="[-4984.327, -2562.819, -10.588]" rotation="[0.0, 0.0, 82.0]" />
+      </UNK_5DF6D87C>
+      <UNK_30408CA2>
+        <prop model="P_CRATE17X" pos="[-5046.48, -2576.548, -12.306]" rotation="[0.0, 0.0, 311.543]" />
+        <prop model="P_CRATE17X" pos="[-5039.09, -2558.62, -11.986]" rotation="[0.0, 0.0, 237.143]" />
+        <prop model="P_CRATE17X" pos="[-5042.214, -2591.888, -12.809]" rotation="[0.0, 0.0, 172.343]" />
+        <prop model="P_CRATE17X" pos="[-5007.862, -2585.926, -11.381]" rotation="[0.0, 0.0, 214.343]" />
+        <prop model="P_CRATE17X" pos="[-5009.708, -2567.316, -10.796]" rotation="[0.0, 0.0, 172.343]" />
+        <prop model="P_CRATE17X" pos="[-5000.638, -2555.112, -10.323]" rotation="[0.0, 0.0, 47.543]" />
+        <prop model="P_CRATE17X" pos="[-5011.623, -2540.656, -10.037]" rotation="[0.0, 0.0, 359.543]" />
+        <prop model="p_barrelWater01x" pos="[-5042.041, -2524.986, -11.13]" rotation="[0.0, 0.0, 311.6]" />
+        <prop model="p_barrelWater01x" pos="[-5049.596, -2547.459, -12.013]" rotation="[0.0, 0.0, 221.6]" />
+        <prop model="p_barrelWater01x" pos="[-4999.696, -2541.853, -9.788]" rotation="[0.0, 0.0, 221.6]" />
+        <prop model="p_barrelWater01x" pos="[-5009.217, -2564.903, -10.752]" rotation="[0.0, 0.0, 192.8]" />
+        <prop model="p_barrelWater01x" pos="[-5037.78, -2598.927, -12.9]" rotation="[0.0, 0.0, 124.0]" />
+        <prop model="p_barrelWater01x" pos="[-5048.603, -2543.509, -11.966]" rotation="[0.0, 0.0, 144.4]" />
+        <prop model="p_barrelWater01x" pos="[-5008.655, -2521.645, -9.922]" rotation="[0.0, 0.0, 37.2]" />
+        <prop model="p_barrelWater01x" pos="[-4985.97, -2565.673, -10.547]" rotation="[0.0, 0.0, 152.0]" />
+      </UNK_30408CA2>
+      <UNK_285433A0>
+        <propset model="pg_ambient_campfire02xc" pos="[-5050.331, -2598.999, -12.768]" rotation="[0.0, 0.0, -165.0]" />
+        <propset model="pg_ambient_campfire02x_stools" pos="[-4991.353, -2540.889, -9.225]" rotation="[0.0, 0.0, -60.0]" />
+        <propset model="pg_ambient_campfire02x_stools" pos="[-5109.721, -2515.323, -11.5972]" rotation="[0.0, 0.0, 84.0]" />
+        <propset model="pg_ambient_campfire02xc" pos="[-5264.158, -2458.723, -8.9]" rotation="[0.0, 0.0, -74.6]" />
+        <propset model="pg_ambient_campfire02xb" pos="[-5125.292, -2860.968, 3.5364]" rotation="[0.0, 0.0, 168.8]" />
+      </UNK_285433A0>
+      <spawnpositions>
+        <wave type="DIGGER">
+          <UNK_25C0B4BF UNK_8BE87952="103.4" UNK_B71720C8="[-5059.033, -2416.618, -9.0305]" />
+          <UNK_25C0B4BF UNK_8BE87952="311.5" UNK_B71720C8="[-5077.193, -2422.339, -9.6302]" />
+          <UNK_25C0B4BF UNK_8BE87952="154.4" UNK_B71720C8="[-5066.366, -2405.326, -9.0948]" />
+          <UNK_25C0B4BF UNK_8BE87952="323.5" UNK_B71720C8="[-5269.195, -2361.122, -9.0154]" />
+          <UNK_25C0B4BF UNK_8BE87952="150.2" UNK_B71720C8="[-5178.757, -2715.437, 6.6457]" />
+          <UNK_25C0B4BF UNK_8BE87952="342.9" UNK_B71720C8="[-4982.655, -3010.355, -20.8626]" />
+          <UNK_25C0B4BF UNK_8BE87952="294.8" UNK_B71720C8="[-4807.666, -3044.662, -15.7996]" />
+          <UNK_25C0B4BF UNK_8BE87952="80.7" UNK_B71720C8="[-4896.848, -2562.698, -7.6261]" />
+        </wave>
+        <wave type="DEFENSIVE">
+          <UNK_25C0B4BF UNK_8BE87952="126.9" head2="113.3" head3="101.5" UNK_B71720C8="[-5044.388, -2574.986, -12.2869]" UNK_8D32CCEC="[-5041.313, -2591.12, -12.8119]" UNK_9ADE6843="[-5047.343, -2603.65, -12.8947]" />
+        </wave>
+        <wave type="SEARCHERS">
+          <UNK_25C0B4BF head2="0.0" head3="0.0" UNK_B71720C8="[-908.8681, -378.9572, 48.333]" UNK_8D32CCEC="[-911.9639, -380.6712, 48.9456]" UNK_9ADE6843="[-910.9695, -378.9017, 48.6105]" />
+        </wave>
+        <wave type="RIVALS">
+          <UNK_25C0B4BF UNK_8BE87952="173.9" head2="74.1" UNK_B71720C8="[-5545.506, -2396.637, -10.114]" UNK_8D32CCEC="[-5513.682, -2405.612, -10.2809]" />
+          <UNK_25C0B4BF UNK_8BE87952="121.9" head2="308.5" UNK_B71720C8="[-5559.252, -2570.6, -9.9685]" UNK_8D32CCEC="[-5573.1, -2581.575, -9.7697]" />
+          <UNK_25C0B4BF UNK_8BE87952="272.9" head2="101.4" UNK_B71720C8="[-5322.938, -2932.326, 1.1341]" UNK_8D32CCEC="[-5286.498, -2935.422, 0.7304]" />
+          <UNK_25C0B4BF UNK_8BE87952="346.4" head2="159.3" UNK_B71720C8="[-4905.633, -3072.078, -18.9312]" UNK_8D32CCEC="[-4898.263, -3048.084, -18.4198]" />
+          <UNK_25C0B4BF UNK_8BE87952="221.7" head2="45.3" UNK_B71720C8="[-4768.234, -2706.019, -15.3209]" UNK_8D32CCEC="[-4753.543, -2718.239, -14.6005]" />
+          <UNK_25C0B4BF UNK_8BE87952="250.1" head2="79.8" UNK_B71720C8="[-5189.626, -2135.087, 11.0188]" UNK_8D32CCEC="[-5164.54, -2136.89, 11.0381]" />
+        </wave>
+        <wave type="COLLECTOR">
+          <UNK_25C0B4BF UNK_8BE87952="289.7" UNK_B71720C8="[-5600.767, -2485.982, -13.6114]" />
+          <UNK_25C0B4BF UNK_8BE87952="341.9" UNK_B71720C8="[-5544.748, -2799.888, -7.1994]" />
+          <UNK_25C0B4BF UNK_8BE87952="345.1" UNK_B71720C8="[-5306.572, -3045.091, -4.5097]" />
+          <UNK_25C0B4BF UNK_8BE87952="45.4" UNK_B71720C8="[-5083.59, -3091.072, -18.413]" />
+          <UNK_25C0B4BF UNK_8BE87952="95.7" UNK_B71720C8="[-4673.351, -2992.147, -18.3247]" />
+          <UNK_25C0B4BF UNK_8BE87952="8.9" UNK_B71720C8="[-4619.724, -2847.919, -16.9103]" />
+          <UNK_25C0B4BF UNK_8BE87952="128.7" UNK_B71720C8="[-5220.591, -2145.708, 10.7267]" />
+        </wave>
+        <wave type="BANDITS">
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5235.309, -2601.786, -8.8721]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5239.878, -2570.927, -5.1856]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5343.922, -2548.812, -10.3323]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5371.94, -2517.548, -9.6549]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5375.101, -2496.359, -8.8471]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5385.162, -2447.501, -4.5096]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5445.062, -2417.232, -9.1328]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5471.663, -2440.923, -8.3721]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5490.978, -2484.146, -9.6358]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5556.031, -2396.094, -10.0169]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5503.095, -2388.206, -8.4588]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5450.057, -2367.111, -4.6485]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5438.555, -2319.773, -4.2968]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5373.431, -2319.851, -6.431]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5326.494, -2305.343, -6.7945]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5305.96, -2305.771, -5.0834]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5266.514, -2323.495, -4.34]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5225.009, -2341.644, -4.9406]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5190.188, -2329.585, -1.9161]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5146.532, -2337.611, -5.312]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5124.254, -2301.688, 0.5992]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5113.1, -2290.348, -1.8786]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5116.711, -2278.697, -1.6704]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5061.458, -2299.727, -0.5041]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5015.94, -2310.909, 5.2342]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4982.866, -2332.955, 5.9042]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4953.743, -2361.937, 4.2196]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4874.258, -2397.395, 2.0378]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4865.649, -2406.005, 2.651]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4850.196, -2443.047, -0.4311]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4756.692, -2583.823, -3.3394]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4711.678, -2626.073, -4.5325]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4737.718, -2665.916, -5.8266]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4745.64, -2714.178, -13.4994]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4773.858, -2723.079, -14.8432]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4807.923, -2757.686, -16.0066]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4836.568, -2789.247, -11.3387]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4935.973, -2759.38, -6.033]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4948.174, -2743.53, -2.1161]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4962.906, -2757.048, 6.0092]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4999.817, -2806.958, -8.4783]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5065.136, -3136.21, -20.9604]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5082.607, -3137.934, -19.5765]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5066.839, -3168.586, -14.951]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5009.002, -3223.439, -8.112]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5209.565, -2866.855, 3.7662]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5187.128, -2858.897, 3.0581]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5182.662, -2849.813, 3.2836]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5185.787, -2784.461, 10.9069]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5180.629, -2431.974, -6.6657]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5207.001, -2485.8, -8.9101]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5229.507, -2515.266, -9.3804]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5240.815, -2536.697, -10.0909]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5246.698, -2585.156, -9.0054]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5208.022, -2626.807, -8.8517]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5210.435, -2607.058, -3.8357]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5220.481, -2531.115, -2.0665]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5045.549, -2503.851, -11.1285]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5010.356, -2495.338, -9.8792]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5025.389, -2394.85, -6.1336]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5047.312, -2380.996, -6.0537]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5115.15, -2331.108, -6.4878]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5160.578, -2420.527, -9.0874]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5291.925, -2930.485, 0.9144]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5299.759, -2907.896, -5.7362]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5290.613, -2779.662, -2.0129]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5310.923, -2694.652, -7.3101]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4888.861, -2899.16, 2.9497]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4860.045, -2954.358, -16.3568]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4831.562, -2985.633, -19.2037]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4774.477, -3029.798, -16.1564]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4767.079, -3053.118, -15.0191]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4807.401, -3078.017, -15.2809]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4880.893, -3074.775, -17.6908]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4937.751, -3031.854, -20.5639]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4990.2, -2981.215, -20.6769]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5053.985, -2996.117, -18.6575]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5044.724, -3053.91, -19.8394]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4693.895, -3042.011, -16.0411]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4660.795, -2967.85, -19.1336]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4612.987, -2899.706, -18.1169]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4652.977, -2860.056, -15.0155]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4698.163, -2816.742, -11.8645]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4736.595, -2788.914, -10.7485]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4790.44, -2808.302, -10.3687]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4863.695, -2811.286, -6.5079]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4918.965, -2850.684, 0.2712]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-4933.681, -2901.02, 1.691]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5120.733, -2744.608, -9.0946]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5087.588, -2707.853, -12.6114]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5028.247, -2584.798, -11.4241]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5119.319, -2525.248, -12.1153]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5109.017, -2507.895, -11.8196]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5023.127, -2549.186, -9.8218]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[-5126.044, -2932.652, 2.2947]" />
+        </wave>
+        <wave type="CORPSES">
+          <UNK_25C0B4BF UNK_8BE87952="0.0" head2="0.0" head3="0.0" UNK_B71720C8="[-5017.846, -2547.439, -10.1599]" UNK_8D32CCEC="[-5041.911, -2548.687, -12.1072]" UNK_9ADE6843="[-5045.911, -2523.306, -11.3502]" />
+        </wave>
+        <wave type="GUARD">
+          <UNK_25C0B4BF UNK_8BE87952="202.9" head2="232.8" UNK_B71720C8="[-5215.477, -2117.539, 11.6897]" UNK_8D32CCEC="[-5218.074, -2119.715, 11.6897]" />
+        </wave>
+      </spawnpositions>
+      <UNK_CD82EDF0>
+        <UNK_CC0A5E1C pos="[-5011.526, -2589.271, -11.645]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5013.311, -2569.906, -10.906]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5033.868, -2590.393, -12.414]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5037.756, -2542.049, -11.176]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-4991.76, -2556.723, -10.132]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-4990.279, -2578.539, -10.756]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5014.625, -2524.962, -10.078]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5000.421, -2568.288, -10.556]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5050.397, -2558.425, -12.086]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5053.932, -2614.544, -12.785]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5039.952, -2626.033, -13.029]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5000.636, -2579.366, -10.915]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-4991.27, -2549.529, -10.031]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5006.856, -2543.555, -9.982]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5045.621, -2529.743, -11.336]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5041.66, -2512.99, -11.123]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5007.079, -2516.728, -9.596]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5006.954, -2564.404, -10.656]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5005.63, -2534.15, -9.628]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5016.625, -2542.249, -10.035]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5013.927, -2558.992, -11.111]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5005.497, -2584.465, -11.268]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5049.895, -2534.637, -11.737]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5042.118, -2549.238, -12.108]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5055.684, -2566.645, -12.065]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5001.459, -2656.007, -13.211]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-4997.469, -2679.568, -13.6011]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5063.333, -2592.33, -12.2458]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5080.938, -2519.15, -12.2362]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5086.782, -2580.112, -11.9659]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5114.127, -2540.308, -12.1042]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5090.818, -2542.907, -12.103]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-5079.211, -2470.905, -11.2271]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[-4904.833, -2575.706, -8.3464]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5131.471, -2626.297, -11.7448]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5093.091, -2659.751, -12.7343]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5092.467, -2682.531, -12.3375]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5135.044, -2447.632, -1.5387]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5172.027, -2454.427, 0.3168]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5106.078, -2565.994, -11.9032]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4971.008, -2494.724, -7.4982]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5015.273, -2467.543, -9.1437]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4883.619, -3035.119, -18.8154]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4895.856, -3023.216, -18.7949]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4909.191, -3002.894, -19.3011]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4896.54, -3064.317, -19.1141]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4936.232, -3036.49, -20.2819]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4971.542, -3026.142, -20.6767]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4964.743, -3049.491, -20.049]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4975.671, -2955.875, -20.1378]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4995.467, -2965.212, -20.144]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5010.303, -3027.479, -20.5721]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4988.861, -3036.604, -20.6569]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4981.2, -3006.328, -20.8716]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5049.356, -2592.042, -12.675]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5171.996, -2373.226, -8.0542]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4986.715, -2552.847, -10.133]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4770.613, -3039.483, -15.2463]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4946.308, -2448.751, -4.6072]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5036.959, -2995.083, -19.3819]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5034.058, -3025.737, -20.3021]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5025.183, -3009.651, -20.0905]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5016.181, -2933.056, -19.6523]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5023.107, -2904.509, -19.0141]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5015.659, -2872.647, -17.1285]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5049.331, -2797.679, -16.583]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5017.911, -2740.713, -13.7785]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5016.355, -2717.573, -13.7655]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5041.129, -2745.947, -14.9259]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5037.76, -2709.701, -13.504]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5067.156, -2727.373, -14.0434]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-5071.784, -2709.817, -13.6672]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4813.99, -3030.15, -15.1909]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[-4723.833, -2958.407, -19.9489]" rotation="[0.0, 0.0, 0.0]" type="RARE" />
+        <UNK_CC0A5E1C pos="[-4764.259, -2973.276, -19.8758]" rotation="[0.0, 0.0, 0.0]" type="RARE" />
+        <UNK_CC0A5E1C pos="[-4798.256, -2977.093, -19.1499]" rotation="[0.0, 0.0, 0.0]" type="RARE" />
+        <UNK_CC0A5E1C pos="[-4852.199, -2993.821, -19.8352]" rotation="[0.0, 0.0, 0.0]" type="RARE" />
+        <UNK_CC0A5E1C pos="[-4885.019, -2986.709, -19.9151]" rotation="[0.0, 0.0, 0.0]" type="RARE" />
+      </UNK_CD82EDF0>
+      <UNK_125E97CC>
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[-5217.184, -2117.766, 11.7229]" rotation="[0.0, 0.0, 42.4]" />
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[-5556.57, -2402.35, -10.07]" rotation="[0.0, 0.0, -70.0]" />
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[-4838.595, -2658.959, -13.3874]" rotation="[0.0, 0.0, 242.4]" />
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[-5263.79, -2463.72, -8.53]" rotation="[0.0, 3.0, -180.0]" />
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[-5191.589, -2146.167, 10.9987]" rotation="[0.0, 0.0, 120.0]" />
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[-5129.34, -2861.69, 3.7]" rotation="[0.0, 0.0, 290.0]" />
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[-4779.49, -2713.41, -15.27]" rotation="[0.0, 0.0, -160.0]" />
+        <UNK_78F5D53 model="P_STRONGBOX_RUSTED_01X" pos="[-5576.37, -2579.26, -9.53]" rotation="[0.0, -2.5, -140.8]" />
+        <UNK_78F5D53 model="P_STRONGBOX_RUSTED_01X" pos="[-5010.81, -2567.15, -10.83]" rotation="[0.0, 0.0, -95.0]" />
+      </UNK_125E97CC>
+      <UNK_E81D630B>
+        <UNK_A3059064 pos="[-5263.268, -2365.05, -9.0745]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5236.079, -2302.682, -3.0776]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5162.943, -2291.695, 1.6243]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5112.495, -2271.25, -1.9803]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5107.152, -2360.671, -6.3906]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5074.736, -2393.967, -9.1081]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5035.831, -2448.538, -10.0497]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5057.001, -2464.305, -10.6562]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5050.063, -2515.31, -11.5245]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-4994.865, -2425.13, -5.4138]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5017.795, -2573.873, -10.984]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-4980.025, -2565.204, -10.599]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-4995.77, -2995.977, -20.7803]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-4710.196, -3007.72, -17.464]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5111.479, -2615.593, -12.2927]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5049.463, -2585.179, -12.501]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5001.142, -2552.296, -10.235]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5097.842, -2498.099, -11.8242]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5274.688, -2431.348, -9.34]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5039.454, -2578.461, -12.381]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-4995.893, -2538.544, -9.622]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5040.844, -2560.731, -12.091]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5070.427, -2619.376, -12.6077]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-4856.528, -3067.507, -18.4049]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5044.626, -2571.721, -12.171]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5046.037, -2614.336, -12.919]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5057.268, -2636.361, -12.8781]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5038.555, -2654.543, -13.6223]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5103.978, -2425.666, -10.1695]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5119.282, -2402.989, -10.0736]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5162.389, -2390.807, -9.1479]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5249.122, -2413.652, -8.4882]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5278.406, -2397.377, -8.8853]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5269.942, -2375.701, -8.8922]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-4949.097, -2499.325, -6.4868]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-4942.082, -2552.545, -9.9516]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5044.13, -2600.266, -12.877]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5045.807, -2579.236, -12.383]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5033.211, -2571.036, -11.535]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5034.424, -2609.784, -12.888]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5047.424, -2545.24, -12.025]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-5038.227, -2555.411, -11.771]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-4989.167, -2571.604, -10.575]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-4795.165, -3038.64, -15.3081]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[-4703.962, -3031.728, -16.2461]" rotation="[0.0, 0.0, 0.0]" />
+      </UNK_E81D630B>
+    </location>
+    <location id="ROANOKE_VALLEY">
+      <variation id="STANDARD">
+        <UNK_1486252 UNK_337BA19C="[2472.41, 1737.342, 86.017]" />
+      </variation>
+      <UNK_89719D55>
+        <UNK_14A49DE7 UNK_8BE87952="238.8" pos="[2442.883, 1607.884, 86.7962]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="291.8" pos="[2454.551, 1585.629, 86.2575]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="207.5" pos="[2468.239, 1592.212, 86.387]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="188.0" pos="[2802.415, 2079.47, 164.9283]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="112.8" pos="[2739.918, 1966.324, 160.8382]" scenario="WORLD_HUMAN_GRAVEDIG" />
+        <UNK_14A49DE7 UNK_8BE87952="330.3" pos="[2627.04, 2083.362, 173.8019]" scenario="WORLD_HUMAN_GRAVEDIG" />
+      </UNK_89719D55>
+      <UNK_5DF6D87C>
+        <vehicle model="chuckwagon002x" pos="[2807.683, 2223.999, 155.3584]" rotation="[0.0, 0.0, 134.0]" value="0" />
+        <vehicle model="chuckwagon002x" pos="[2838.003, 2201.585, 155.297]" rotation="[0.0, 0.0, 55.6]" value="0" />
+        <vehicle model="chuckwagon002x" pos="[2621.26, 1937.175, 84.0973]" rotation="[0.0, 0.0, 42.0]" value="0" />
+        <vehicle model="chuckwagon002x" pos="[2470.945, 1695.368, 84.3514]" rotation="[0.0, 0.0, 82.0]" value="0" />
+        <vehicle model="chuckwagon002x" pos="[2439.725, 1737.96, 84.797]" rotation="[0.0, 0.0, 82.0]" value="0" />
+        <vehicle model="chuckwagon002x" pos="[2452.351, 1745.75, 84.4562]" rotation="[0.0, 0.0, 82.0]" value="0" />
+      </UNK_5DF6D87C>
+      <UNK_30408CA2>
+        <prop model="P_CRATE17X" pos="[2486.478, 1749.242, 86.35]" rotation="[0.0, 0.0, 36.419]" />
+        <prop model="P_CRATE17X" pos="[2471.796, 1777.017, 85.401]" rotation="[0.0, 0.0, 292.019]" />
+        <prop model="P_CRATE17X" pos="[2472.203, 1729.154, 85.817]" rotation="[0.0, 0.0, 18.419]" />
+        <prop model="P_CRATE17X" pos="[2496.377, 1707.011, 86.156]" rotation="[0.0, 0.0, 64.751]" />
+        <prop model="p_barrelWater01x" pos="[2506.721, 1728.758, 86.583]" rotation="[0.0, 0.0, 259.6]" />
+        <prop model="p_barrelWater01x" pos="[2473.955, 1709.127, 85.691]" rotation="[0.0, 0.0, 354.762]" />
+        <prop model="p_barrelWater01x" pos="[2491.558, 1693.859, 85.376]" rotation="[0.0, 0.0, 281.057]" />
+        <prop model="p_barrelWater01x" pos="[2482.167, 1765.603, 85.754]" rotation="[0.0, 0.0, 323.057]" />
+        <prop model="p_barrelWater01x" pos="[2463.515, 1749.545, 85.583]" rotation="[0.0, 0.0, 325.857]" />
+        <prop model="p_tentArmyPupBroken01x" pos="[2488.056, 1740.729, 86.4394]" rotation="[0.0, 0.0, 73.2]" />
+        <prop model="p_tentArmyPupBroken01x" pos="[2480.463, 1707.442, 85.8412]" rotation="[0.0, 0.0, 300.8]" />
+        <prop model="s_wagonWrecked01x" pos="[2472.41, 1737.342, 86.017]" rotation="[0.0, 0.0, 246.0]" />
+      </UNK_30408CA2>
+      <UNK_285433A0>
+        <propset model="pg_ambient_campfire02x_stools" pos="[2511.322, 1687.214, 86.053]" rotation="[0.0, 0.0, -139.4]" />
+        <propset model="pg_ambient_campfire02xc" pos="[2483.407, 1796.778, 85.224]" rotation="[0.0, 0.0, -1.4]" />
+        <propset model="pg_ambient_campfireransacked04x" pos="[2442.304, 1692.285, 96.173]" rotation="[0.0, 0.0, 102.0]" />
+        <propset model="pg_ambient_campfire02x_stools" pos="[2701.204, 1980.552, 123.0705]" rotation="[0.0, 0.0, 42.0]" />
+      </UNK_285433A0>
+      <spawnpositions>
+        <wave type="DIGGER">
+          <UNK_25C0B4BF UNK_8BE87952="238.8" UNK_B71720C8="[2442.883, 1607.884, 86.7962]" />
+          <UNK_25C0B4BF UNK_8BE87952="291.8" UNK_B71720C8="[2454.551, 1585.629, 86.2575]" />
+          <UNK_25C0B4BF UNK_8BE87952="207.5" UNK_B71720C8="[2468.239, 1592.212, 86.387]" />
+          <UNK_25C0B4BF UNK_8BE87952="188.0" UNK_B71720C8="[2802.415, 2079.47, 164.9283]" />
+          <UNK_25C0B4BF UNK_8BE87952="112.8" UNK_B71720C8="[2739.918, 1966.324, 160.8382]" />
+          <UNK_25C0B4BF UNK_8BE87952="330.3" UNK_B71720C8="[2627.04, 2083.362, 173.8019]" />
+        </wave>
+        <wave type="DEFENSIVE">
+          <UNK_25C0B4BF UNK_8BE87952="232.8" head2="213.9" head3="217.3" UNK_B71720C8="[2491.942, 1714.417, 86.1666]" UNK_8D32CCEC="[2495.194, 1708.437, 86.1435]" UNK_9ADE6843="[2503.193, 1723.935, 86.2042]" />
+          <UNK_25C0B4BF UNK_8BE87952="100.8" head2="247.7" head3="176.0" UNK_B71720C8="[2445.605, 1695.187, 96.3895]" UNK_8D32CCEC="[2430.312, 1692.651, 95.6437]" UNK_9ADE6843="[2443.77, 1675.992, 95.3258]" />
+        </wave>
+        <wave type="SEARCHERS">
+          <UNK_25C0B4BF head2="0.0" head3="0.0" UNK_B71720C8="[-908.8681, -378.9572, 48.333]" UNK_8D32CCEC="[-911.9639, -380.6712, 48.9456]" UNK_9ADE6843="[-910.9695, -378.9017, 48.6105]" />
+        </wave>
+        <wave type="RIVALS">
+          <UNK_25C0B4BF UNK_8BE87952="133.2" head2="288.7" UNK_B71720C8="[2848.237, 1692.601, 128.1249]" UNK_8D32CCEC="[2836.252, 1679.651, 128.466]" />
+          <UNK_25C0B4BF UNK_8BE87952="79.3" head2="308.5" UNK_B71720C8="[2544.018, 2188.713, 171.7069]" UNK_8D32CCEC="[2526.008, 2197.335, 170.6261]" />
+          <UNK_25C0B4BF UNK_8BE87952="272.9" head2="101.4" UNK_B71720C8="[2738.119, 2116.182, 165.5614]" UNK_8D32CCEC="[2760.475, 2085.526, 166.3893]" />
+          <UNK_25C0B4BF UNK_8BE87952="346.4" head2="159.3" UNK_B71720C8="[2642.153, 1700.328, 115.8195]" UNK_8D32CCEC="[2623.887, 1701.863, 113.2308]" />
+        </wave>
+        <wave type="COLLECTOR">
+          <UNK_25C0B4BF UNK_8BE87952="353.2" UNK_B71720C8="[2887.683, 1544.219, 79.0026]" />
+          <UNK_25C0B4BF UNK_8BE87952="141.2" UNK_B71720C8="[2897.595, 2202.58, 156.2889]" />
+          <UNK_25C0B4BF UNK_8BE87952="269.7" UNK_B71720C8="[2181.919, 2086.649, 223.6391]" />
+          <UNK_25C0B4BF UNK_8BE87952="299.5" UNK_B71720C8="[2151.692, 1814.327, 146.3009]" />
+          <UNK_25C0B4BF UNK_8BE87952="328.8" UNK_B71720C8="[2210.293, 1663.359, 100.0676]" />
+          <UNK_25C0B4BF UNK_8BE87952="336.4" UNK_B71720C8="[2490.836, 1424.586, 92.6988]" />
+        </wave>
+        <wave type="BANDITS">
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2577.62, 1819.626, 86.2526]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2587.97, 1805.793, 89.2342]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2564.441, 1774.853, 91.2219]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2543.142, 1744.671, 86.8796]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2531.845, 1724.41, 87.5649]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2529.804, 1701.928, 87.1285]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2538.975, 1671.093, 89.3861]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2538.659, 1625.503, 88.6425]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2467.637, 1627.589, 88.5949]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2428.862, 1686.502, 94.8156]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2377.279, 1706.709, 99.4447]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2354.723, 1710.821, 101.0574]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2302.423, 1697.456, 96.5579]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2253.206, 1679.298, 92.4886]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2226.295, 1680.072, 96.6598]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2206.46, 1746.777, 115.998]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2216.336, 1801.247, 136.0362]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2243.129, 1825.623, 132.56]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2276.973, 1827.254, 119.2694]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2306.253, 1833.948, 125.5435]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2319.69, 1882.088, 141.2949]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2289.108, 1894.363, 147.861]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2246.075, 1907.407, 150.265]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2284.958, 1941.212, 158.1116]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2315.74, 1982.906, 163.9284]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2352.324, 2037.575, 170.3275]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2421.277, 2015.544, 167.227]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2480.313, 1994.325, 167.1468]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2481.449, 2053.815, 152.2821]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2536.688, 2023.029, 138.6184]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2529.075, 1995.844, 137.1167]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2543.053, 1953.446, 115.227]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2543.242, 1917.196, 101.5425]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2664.686, 1886.514, 99.4362]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2761.906, 1894.81, 129.6975]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2762.538, 1836.481, 140.6377]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2803.053, 1764.458, 147.6778]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2803.017, 1737.067, 146.3425]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2773.233, 1704.6, 146.851]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2719.318, 1667.019, 150.1713]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2703.364, 1614.316, 148.4251]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2694.484, 1526.573, 123.7227]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2687.124, 1491.96, 102.0271]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2667.45, 1420.88, 98.0094]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2642.848, 1403.707, 87.9004]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2617.113, 1382.413, 88.8505]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2541.583, 1424.368, 86.6754]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2468.701, 1445.323, 93.5274]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2387.509, 1409.186, 130.9596]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2342.368, 1440.62, 138.2642]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2234.938, 1463.779, 91.2112]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2238.063, 1543.766, 96.4167]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2170.292, 1602.843, 106.7343]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2177.536, 1720.101, 115.7062]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2284.435, 1807.854, 114.4002]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2358.075, 1710.36, 100.9258]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2774.313, 1966.136, 162.6851]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2834.137, 1910.381, 149.5429]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2909.84, 1963.723, 153.4335]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2830.933, 2061.403, 167.851]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2872.194, 2088.993, 157.7475]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2866.793, 2144.569, 156.6941]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2891.246, 2168.565, 157.4922]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2938.813, 2212.158, 161.7892]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2891.596, 2260.272, 156.0852]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2802.084, 2349.376, 156.4904]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2737.862, 2334.507, 156.3049]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2692.601, 2334.387, 160.3045]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2662.254, 2292.437, 161.2696]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2587.993, 2303.305, 166.5186]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2504.765, 2303.737, 176.6793]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2476.382, 2269.192, 176.9651]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2439.589, 2216.971, 181.3982]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2406.323, 2182.67, 181.0757]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2404.407, 2074.493, 175.1442]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2527.482, 2094.672, 164.7844]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2734.567, 2042.556, 164.8364]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="2566.1545, 1493.4352, 84.9615 " />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2488.763, 1884.004, 106.4607]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="2566.5684, 1492.4059, 85.0010 " />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2408.163, 1802.807, 103.6392]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="2567.1880, 1489.2543, 84.8047 " />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="2956.9211, 1741.1801, 84.7516 " />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="2999.6157, 1708.0494, 76.5643 " />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="3049.1013, 1679.0673, 67.6142 " />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="3065.6729, 1619.9174, 60.5753 " />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2947.033, 1816.138, 102.3798]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2911.034, 1843.567, 113.1417]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2868.35, 1868.952, 127.3389]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2876.368, 1811.499, 131.4128]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2860.307, 1718.353, 132.0892]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="[2845.505, 1616.458, 113.9018]" />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="2886.7866, 1611.2804, 99.0337 " />
+          <UNK_25C0B4BF UNK_8BE87952="0.0" UNK_B71720C8="2892.1299, 1531.5135, 74.9191 " />
+        </wave>
+        <wave type="CORPSES">
+          <UNK_25C0B4BF UNK_8BE87952="259.7" head2="123.4" head3="94.2" UNK_B71720C8="[2467.844, 1726.943, 85.4537]" UNK_8D32CCEC="[2437.872, 1735.51, 85.5372]" UNK_9ADE6843="[2458.816, 1776.895, 84.6146]" />
+          <UNK_25C0B4BF UNK_8BE87952="149.4" head2="217.8" head3="145.9" UNK_B71720C8="[2471.897, 1787.005, 85.1427]" UNK_8D32CCEC="[2510.879, 1812.445, 84.9596]" UNK_9ADE6843="[2489.018, 1809.189, 85.1372]" />
+        </wave>
+        <wave type="GUARD">
+          <UNK_25C0B4BF UNK_8BE87952="90.8" head2="168.8" UNK_B71720C8="[2484.733, 1993.602, 167.0966]" UNK_8D32CCEC="[2482.817, 1999.073, 167.2193]" />
+        </wave>
+      </spawnpositions>
+      <UNK_CD82EDF0>
+        <UNK_CC0A5E1C pos="[2483.803, 1790.438, 85.274]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2490.044, 1718.394, 86.161]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2508.144, 1708.692, 86.235]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2478.721, 1744.556, 85.924]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2466.219, 1773.171, 85.318]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2500.109, 1765.196, 86.474]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2482.092, 1693.847, 84.968]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2497.311, 1814.868, 85.345]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2496.802, 1745.398, 86.845]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2477.395, 1765.327, 85.646]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2500.24, 1731.879, 86.281]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2480.968, 1728.49, 86.007]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2474.96, 1778.094, 85.432]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2482.875, 1762.455, 85.868]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2466.428, 1747.916, 85.747]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2513.904, 1690.416, 86.28]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2521.214, 1704.175, 86.635]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2475.83, 1751.854, 85.877]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2500.815, 1790.397, 85.239]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2483.265, 1739.234, 86.105]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2477.705, 1794.525, 85.077]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2467.202, 1764.988, 85.442]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2475.537, 1731.35, 85.942]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2508.187, 1695.401, 86.123]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2522.757, 1692.6, 86.288]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2518.442, 1715.387, 86.665]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2496.175, 1689.375, 85.265]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2488.545, 1709.291, 85.954]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2480.22, 1720.116, 85.95]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2470.969, 1718.878, 85.488]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2498.918, 1736.291, 86.424]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2487.287, 1765.415, 85.935]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2527.905, 1805.524, 85.3057]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2669.2, 1965.5, 101.5928]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2697.49, 2022.208, 107.3898]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2701.147, 1959.685, 122.5324]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2505.068, 1596.432, 84.668]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2499.621, 1560.438, 84.6189]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2478.846, 1517.528, 84.5909]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2461.284, 1542.11, 85.0999]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2441.335, 1559.232, 85.6065]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2379.99, 1575.585, 84.5752]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2411.228, 1757.462, 104.3915]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2522.396, 1527.716, 84.8239]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2527.761, 1508.266, 84.6518]" rotation="[0.0, 0.0, 0.0]" type="COMMON" />
+        <UNK_CC0A5E1C pos="[2769.646, 2063.799, 165.9628]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2728.293, 2120.607, 164.5263]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2737.944, 2158.152, 155.931]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2760.73, 2194.167, 155.9111]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2604.861, 2048.222, 168.4522]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2700.489, 2114.104, 165.9828]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2726.352, 2197.741, 156.6001]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2711.594, 2180.263, 157.1867]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2717.953, 2161.734, 156.9603]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2645.544, 2026.666, 130.829]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2465.538, 1834.926, 97.635]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2546.185, 1807.018, 85.3158]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2515.882, 1766.566, 86.2023]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2528.741, 1721.302, 87.4884]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2798.997, 1982.258, 163.1478]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2759.734, 1848.102, 139.9718]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2453.883, 1635.411, 89.6896]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2811.358, 2199.927, 155.8249]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2824.709, 2225.484, 155.9572]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2871.52, 2256.551, 156.0411]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2879.374, 2240.481, 155.9974]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2854.177, 2209.246, 156.2815]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2844.031, 2180.804, 155.7916]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2879.165, 2216.784, 156.5568]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2920.532, 2233.033, 156.1021]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2907.826, 2249.295, 157.5311]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2897.414, 2222.861, 156.3377]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2870.79, 2194.55, 156.3209]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2782.847, 2247.76, 155.9469]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2756.622, 2285.508, 157.4446]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2775.203, 2292.904, 157.5345]" rotation="[0.0, 0.0, 0.0]" type="UNCOMMON" />
+        <UNK_CC0A5E1C pos="[2785.491, 2337.229, 156.2325]" rotation="[0.0, 0.0, 0.0]" type="RARE" />
+        <UNK_CC0A5E1C pos="[2804.077, 2342.911, 156.2019]" rotation="[0.0, 0.0, 0.0]" type="RARE" />
+        <UNK_CC0A5E1C pos="[2815.546, 2311.558, 155.9159]" rotation="[0.0, 0.0, 0.0]" type="RARE" />
+        <UNK_CC0A5E1C pos="[2798.475, 2308.423, 157.2283]" rotation="[0.0, 0.0, 0.0]" type="RARE" />
+        <UNK_CC0A5E1C pos="[2793.575, 2290.419, 157.4298]" rotation="[0.0, 0.0, 0.0]" type="RARE" />
+      </UNK_CD82EDF0>
+      <UNK_125E97CC>
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[2446.19, 1695.239, 96.446]" rotation="[0.0, 0.0, 259.47]" />
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[2634.378, 1696.778, 115.08]" rotation="[0.0, 0.0, 212.07]" />
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[2477.398, 1993.166, 167.2073]" rotation="[0.0, 0.0, 68.8]" />
+        <UNK_78F5D53 model="P_STRONGBOX_RUSTED_01X" pos="[2543.631, 2187.58, 171.7161]" rotation="[0.0, 0.0, 165.2]" />
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[2451.798, 2099.678, 172.3067]" rotation="[0.0, 0.0, 299.2]" />
+        <UNK_78F5D53 model="P_STRONGBOX_RUSTED_01X" pos="[2709.1, 1972.61, 122.76]" rotation="[0.0, -3.0, -110.0]" />
+        <UNK_78F5D53 model="s_lootableBigMiscChest" pos="[2834.762, 1683.89, 128.7016]" rotation="[0.0, 0.0, 82.4]" />
+        <UNK_78F5D53 model="P_STRONGBOX_RUSTED_01X" pos="[2468.65, 1732.13, 85.67]" rotation="[0.0, 1.0, -75.0]" />
+        <UNK_78F5D53 model="P_STRONGBOX_RUSTED_01X" pos="[2939.01, 2255.1, 164.67]" rotation="[0.0, 0.0, -130.0]" />
+      </UNK_125E97CC>
+      <UNK_E81D630B>
+        <UNK_A3059064 pos="[2372.433, 1579.11, 84.5585]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2353.486, 1596.239, 84.5736]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2298.125, 1631.885, 84.3892]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2273.357, 1648.066, 84.4981]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2234.688, 1618.701, 84.4723]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2465.224, 1589.705, 86.3874]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2479.65, 1562.857, 86.1541]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2450.532, 1614.382, 88.1731]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2444.433, 1595.467, 86.3731]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2414.483, 1698.438, 96.0193]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2496.846, 1488.438, 84.9489]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2492.109, 1477.921, 85.2643]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2463.6, 1625.427, 88.8583]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2490.429, 1608.616, 85.8336]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2316.305, 1754.721, 106.8664]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2681.748, 1952.633, 107.0985]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2724.48, 2046.784, 165.2339]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2715.968, 2027.466, 163.1205]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2729.655, 2003.957, 161.1647]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2821.782, 2147.753, 155.815]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2829.681, 2134.231, 156.0647]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2806.09, 2125.019, 156.2057]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2761.152, 2087.003, 166.3517]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2803.571, 2071.66, 165.5926]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2789.164, 1995.3, 163.9258]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2751.322, 1982.448, 161.2826]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2780.76, 1966.951, 162.8369]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2746.713, 2039.387, 164.9867]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2489.701, 1748.188, 86.651]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2504.177, 1775.969, 85.964]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2463.57, 1733.722, 85.32]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2485.155, 1722.529, 86.078]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2502.855, 1723.963, 86.225]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2499.295, 1705.826, 86.319]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2482.257, 1701.288, 85.534]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2499.175, 1694.64, 85.778]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2462.115, 1739.783, 85.363]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2503.162, 1684.866, 85.315]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2469.712, 1726.47, 85.581]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2499.201, 1620.04, 84.7284]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2630.955, 2091.218, 173.422]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2838.008, 2250.654, 155.8975]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2880.461, 2270.371, 155.7672]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2683.441, 2055.166, 165.5295]" rotation="[0.0, 0.0, 0.0]" />
+        <UNK_A3059064 pos="[2495.076, 1537.329, 84.6019]" rotation="[0.0, 0.0, 0.0]" />
+      </UNK_E81D630B>
+    </location>
+  </eventdata>
+</root>

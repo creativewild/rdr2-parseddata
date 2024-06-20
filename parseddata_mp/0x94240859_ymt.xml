@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <locations>
+    <location id="TUMBLEWEED">
+      <variants>
+        <UNK_80FE7B16>
+          <group index="0" />
+          <group index="1" />
+          <group index="2" />
+          <group index="3" />
+          <group index="4" />
+        </UNK_80FE7B16>
+      </variants>
+      <UNK_7687F3CD>
+        <UNK_F7A6C313>
+          <target heading="105.0" position="[-5517.15, -3027.44, -0.41]" type="AT_HANGING_TARGET" />
+          <target heading="30.0" position="[-5542.62, -3024.57, 0.73]" type="AT_HANGING_TARGET" />
+          <target heading="95.0" position="[-5527.47, -3044.4, 1.92]" type="AT_HANGING_TARGET" />
+          <target heading="95.0" position="[-5510.9, -3044.46, 1.91]" type="AT_HANGING_TARGET" />
+          <target heading="310.0" position="[-5489.677, -2909.542, -1.49]" type="AT_HANGING_TARGET" />
+          <target heading="30.0" position="[-5509.377, -2901.826, -2.59519]" type="AT_TARGET" />
+          <target heading="30.0" position="[-5537.971, -2888.035, -1.942]" type="AT_HANGING_TARGET" />
+          <target heading="30.0" position="[-5532.912, -2934.929, 3.386]" type="AT_HANGING_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="105.0" position="[-5479.34, -2950.93, -2.29]" type="AT_GROUND_TARGET" />
+          <target heading="95.0" position="[-5531.83, -2939.07, -2.85]" type="AT_GROUND_TARGET" />
+          <target heading="45.0" position="[-5519.94, -2925.05, -3.25]" type="AT_GROUND_TARGET" />
+          <target heading="103.56" position="[-5546.773, -2917.877, -2.3174]" type="AT_GROUND_TARGET" />
+          <target heading="127.8692" position="[-5484.907, -2929.659, -2.1298]" type="AT_GROUND_TARGET" />
+          <target heading="23.3541" position="[-5509.257, -2959.691, 1.1475]" type="AT_GROUND_TARGET" />
+          <target heading="105.2723" position="[-5490.921, -2968.995, -3.0248]" type="AT_GROUND_TARGET" />
+          <target heading="15.4245" position="[-5507.053, -2973.507, -2.5742]" type="AT_GROUND_TARGET" />
+          <target heading="295.5746" position="[-5540.375, -2948.515, -2.4271]" type="AT_GROUND_TARGET" />
+          <target heading="123.1796" position="[-5510.801, -2926.883, -3.3775]" type="AT_GROUND_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="33.0" position="[-5490.89, -2924.1, 0.0]" type="AT_TARGET" />
+          <target heading="34.0" position="[-5494.65, -2926.85, 0.0]" type="AT_TARGET" />
+          <target heading="36.0" position="[-5498.58, -2929.71, 0.0]" type="AT_TARGET" />
+          <target heading="345.0" position="[-5514.91, -2920.0, 1.05]" type="AT_TARGET" />
+          <target heading="15.0" position="[-5500.01, -2959.2, 0.87]" type="AT_TARGET" />
+          <target heading="208.2911" position="[-5539.222, -2919.628, -2.052]" type="AT_TARGET" />
+          <target heading="32.5751" position="[-5536.275, -2927.837, -1.036]" type="AT_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="237.1554" position="[-5490.587, -3017.61, -5.0033]" type="AT_GROUND_TARGET" />
+          <target heading="339.6239" position="[-5489.438, -2986.512, -2.4634]" type="AT_GROUND_TARGET" />
+          <target heading="118.4071" position="[-5509.482, -2995.954, -3.9495]" type="AT_GROUND_TARGET" />
+          <target heading="153.116" position="[-5529.355, -3012.931, -2.1944]" type="AT_GROUND_TARGET" />
+          <target heading="21.4801" position="[-5533.548, -2995.273, -2.05652]" type="AT_GROUND_TARGET" />
+          <target heading="296.1822" position="[-5522.177, -2977.322, -2.5742]" type="AT_GROUND_TARGET" />
+          <target heading="28.8108" position="[-5537.685, -2968.124, -2.1783]" type="AT_GROUND_TARGET" />
+          <target heading="52.8498" position="[-5551.753, -2935.767, -2.6667]" type="AT_GROUND_TARGET" />
+          <target heading="350.481" position="[-5485.285, -2893.371, -4.1331]" type="AT_GROUND_TARGET" />
+          <target heading="199.6488" position="[-5462.051, -2977.528, -4.6749]" type="AT_GROUND_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="192.4732" position="[-5520.0, -2901.482, -1.777]" type="AT_HANGING_TARGET" />
+          <target heading="25.0033" position="[-5511.704, -2920.144, -0.545]" type="AT_HANGING_TARGET" />
+          <target heading="310.2711" position="[-5517.607, -2918.729, -1.593]" type="AT_HANGING_TARGET" />
+          <target heading="167.0098" position="-5526.005, -2958.047 2.341" type="AT_HANGING_TARGET" />
+        </UNK_F7A6C313>
+      </UNK_7687F3CD>
+      <UNK_614E82D5>
+        <pickup heading="300.0" position="[-5540.2, -3043.322, -1.29418]" />
+        <pickup heading="90.0" position="[-5519.6, -2954.26, -1.65]" />
+        <pickup heading="0.0" position="[-5497.54, -2944.3, -1.57]" />
+      </UNK_614E82D5>
+    </location>
+    <location id="GAPTOOTH_RIDGE">
+      <variants>
+        <UNK_80FE7B16>
+          <group index="0" />
+          <group index="1" />
+          <group index="2" />
+          <group index="3" />
+          <group index="4" />
+        </UNK_80FE7B16>
+      </variants>
+      <UNK_7687F3CD>
+        <UNK_F7A6C313>
+          <target heading="206.5376" position="[-5994.066, -3231.721, -19.873]" type="AT_TARGET" />
+          <target heading="206.5376" position="[-5987.901, -3228.304, -20.12]" type="AT_TARGET" />
+          <target heading="207.1477" position="[-5988.13, -3226.529, -14.655]" type="AT_TARGET" />
+          <target heading="36.3557" position="[-5996.561, -3225.073, -11.818]" type="AT_TARGET" />
+          <target heading="117.1568" position="[-5996.952, -3216.415, -11.591]" type="AT_TARGET" />
+          <target heading="117.1568" position="[-5994.783, -3220.375, -13.562]" type="AT_TARGET" />
+          <target heading="254.5987" position="[-5944.352, -3259.031, -21.146]" type="AT_TARGET" />
+          <target heading="57.3922" position="[-6089.241, -3281.516, -12.421]" type="AT_TARGET" />
+          <target heading="26.2189" position="[-6087.49, -3270.842, -14.962]" type="AT_TARGET" />
+          <target heading="190.9149" position="[-6068.722, -3329.082, -11.715]" type="AT_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="256.7967" position="[-5984.346, -3212.237, -20.1075]" type="AT_GROUND_TARGET" />
+          <target heading="120.6823" position="[-5964.586, -3242.365, -22.7409]" type="AT_GROUND_TARGET" />
+          <target heading="267.6265" position="[-5989.8, -3262.651, -22.7183]" type="AT_GROUND_TARGET" />
+          <target heading="109.2506" position="[-5997.706, -3292.379, -22.8622]" type="AT_GROUND_TARGET" />
+          <target heading="168.1722" position="[-6005.935, -3270.682, -22.7505]" type="AT_GROUND_TARGET" />
+          <target heading="259.636" position="[-6010.449, -3256.866, -22.7211]" type="AT_GROUND_TARGET" />
+          <target heading="246.7521" position="[-6027.436, -3259.163, -22.5186]" type="AT_GROUND_TARGET" />
+          <target heading="45.3136" position="[-5951.707, -3265.24, -22.807]" type="AT_GROUND_TARGET" />
+          <target heading="302.0096" position="[-6011.16, -3248.077, -22.3022]" type="AT_GROUND_TARGET" />
+          <target heading="109.5869" position="[-6012.513, -3274.375, -22.762]" type="AT_GROUND_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="174.3217" position="[-5963.591, -3203.78, -19.961]" type="AT_HANGING_TARGET" />
+          <target heading="302.6206" position="[-6041.705, -3255.14, -16.609]" type="AT_HANGING_TARGET" />
+          <target heading="302.6206" position="[-6045.956, -3253.612, -14.054]" type="AT_HANGING_TARGET" />
+          <target heading="35.3825" position="[-6048.068, -3253.076, -14.07]" type="AT_HANGING_TARGET" />
+          <target heading="35.3825" position="[-6050.673, -3254.899, -14.073]" type="AT_HANGING_TARGET" />
+          <target heading="35.3825" position="[-6050.594, -3254.873, -17.848]" type="AT_HANGING_TARGET" />
+          <target heading="320.1515" position="[-6048.4, -3264.909, -17.818]" type="AT_HANGING_TARGET" />
+          <target heading="320.1515" position="[-6050.951, -3257.165, -14.113]" type="AT_HANGING_TARGET" />
+          <target heading="44.3561" position="[-6046.101, -3266.003, -17.85]" type="AT_HANGING_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="273.8957" position="[-6018.568, -3298.038, -23.2349]" type="AT_GROUND_TARGET" />
+          <target heading="245.9475" position="[-6028.126, -3343.369, -21.3666]" type="AT_GROUND_TARGET" />
+          <target heading="133.0464" position="[-6054.091, -3329.832, -20.3262]" type="AT_GROUND_TARGET" />
+          <target heading="82.7658" position="[-6065.158, -3304.283, -20.7395]" type="AT_GROUND_TARGET" />
+          <target heading="281.5339" position="[-6061.139, -3290.192, -21.8869]" type="AT_GROUND_TARGET" />
+          <target heading="174.9877" position="[-6073.484, -3295.583, -20.1327]" type="AT_GROUND_TARGET" />
+          <target heading="302.0096" position="[-6072.291, -3284.203, -18.7667]" type="AT_GROUND_TARGET" />
+          <target heading="248.4162" position="[-6044.774, -3293.473, -23.2515]" type="AT_GROUND_TARGET" />
+          <target heading="347.5368" position="[-6041.867, -3280.497, -22.22]" type="AT_GROUND_TARGET" />
+          <target heading="91.4572" position="[-6039.013, -3320.688, -23.2453]" type="AT_GROUND_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="245.6863" position="[-5953.527, -3280.429, -21.1658]" type="AT_GROUND_TARGET" />
+          <target heading="190.2718" position="[-5974.434, -3282.798, -22.6714]" type="AT_GROUND_TARGET" />
+          <target heading="163.5753" position="[-6078.37, -3311.581, -18.1744]" type="AT_GROUND_TARGET" />
+          <target heading="94.6808" position="[-6072.797, -3257.724, -21.7453]" type="AT_GROUND_TARGET" />
+          <target heading="9.529" position="[-6024.009, -3225.207, -21.5362]" type="AT_GROUND_TARGET" />
+        </UNK_F7A6C313>
+      </UNK_7687F3CD>
+      <UNK_614E82D5>
+        <pickup heading="300.0" position="[-6055.223, -3277.964, -22.1084]" />
+        <pickup heading="90.0" position="[-6001.699, -3209.723, -14.2964]" />
+        <pickup heading="0.0" position="[-5986.877, -3280.352, -22.859]" />
+      </UNK_614E82D5>
+    </location>
+    <location id="TALL_TREES">
+      <variants>
+        <UNK_80FE7B16>
+          <group index="0" />
+          <group index="1" />
+          <group index="2" />
+          <group index="3" />
+        </UNK_80FE7B16>
+      </variants>
+      <UNK_7687F3CD>
+        <UNK_F7A6C313>
+          <target heading="212.8351" position="[-2164.525, -1399.528, 134.6819]" type="AT_GROUND_TARGET" />
+          <target heading="5.4695" position="[-2182.286, -1380.175, 134.2102]" type="AT_GROUND_TARGET" />
+          <target heading="345.8936" position="[-2202.64, -1358.459, 134.2243]" type="AT_GROUND_TARGET" />
+          <target heading="285.9395" position="[-2184.677, -1357.771, 129.4872]" type="AT_GROUND_TARGET" />
+          <target heading="40.8243" position="[-2240.166, -1331.166, 130.6774]" type="AT_GROUND_TARGET" />
+          <target heading="17.4516" position="[-2260.737, -1331.164, 131.3935]" type="AT_GROUND_TARGET" />
+          <target heading="149.4382" position="[-2269.601, -1345.482, 135.6807]" type="AT_GROUND_TARGET" />
+          <target heading="103.473" position="[-2323.017, -1372.005, 141.1794]" type="AT_GROUND_TARGET" />
+          <target heading="15.0486" position="[-2327.52, -1322.887, 142.2681]" type="AT_GROUND_TARGET" />
+          <target heading="344.7206" position="[-2353.107, -1326.678, 145.4324]" type="AT_GROUND_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="358.8603" position="[-2143.297, -1462.681, 132.6528]" type="AT_GROUND_TARGET" />
+          <target heading="355.0931" position="[-2128.954, -1421.661, 134.571]" type="AT_GROUND_TARGET" />
+          <target heading="309.2469" position="[-2103.944, -1423.964, 128.1459]" type="AT_GROUND_TARGET" />
+          <target heading="108.9443" position="[-2148.323, -1385.591, 130.0103]" type="AT_GROUND_TARGET" />
+          <target heading="356.3592" position="[-2223.338, -1374.374, 135.5241]" type="AT_GROUND_TARGET" />
+          <target heading="192.3899" position="[-2258.63, -1424.701, 139.1997]" type="AT_GROUND_TARGET" />
+          <target heading="237.0545" position="[-2256.367, -1446.253, 138.3575]" type="AT_GROUND_TARGET" />
+          <target heading="225.5744" position="[-2253.68, -1462.362, 140.6516]" type="AT_GROUND_TARGET" />
+          <target heading="160.6686" position="[-2227.604, -1494.69, 142.5067]" type="AT_GROUND_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="41.6193" position="[-2147.07, -1497.394, 139.7823]" type="AT_GROUND_TARGET" />
+          <target heading="358.8603" position="[-2163.527, -1492.182, 140.2157]" type="AT_GROUND_TARGET" />
+          <target heading="130.2892" position="[-2188.656, -1505.341, 138.6932]" type="AT_GROUND_TARGET" />
+          <target heading="9.7671" position="[-2204.499, -1492.355, 137.8177]" type="AT_GROUND_TARGET" />
+          <target heading="23.2367" position="[-2224.423, -1453.524, 137.102]" type="AT_GROUND_TARGET" />
+          <target heading="153.984" position="[-2151.468, -1343.389, 130.6699]" type="AT_GROUND_TARGET" />
+          <target heading="74.1868" position="[-2178.159, -1331.94, 132.1451]" type="AT_GROUND_TARGET" />
+          <target heading="111.9407" position="[-2195.86, -1328.931, 133.8374]" type="AT_GROUND_TARGET" />
+          <target heading="115.4789" position="[-2241.207, -1358.268, 133.9141]" type="AT_GROUND_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="110.5538" position="[-2176.264, -1401.237, 138.557]" type="AT_TARGET" />
+          <target heading="36.2683" position="[-2215.476, -1430.867, 138.436]" type="AT_TARGET" />
+          <target heading="7.6253" position="[-2293.839, -1332.652, 137.733]" type="AT_TARGET" />
+          <target heading="41.6099" position="[-2258.814, -1313.694, 137.645]" type="AT_HANGING_TARGET" />
+          <target heading="255.9002" position="[-2089.274, -1437.044, 131.052]" type="AT_HANGING_TARGET" />
+          <target heading="255.9002" position="[-2088.304, -1433.255, 130.881]" type="AT_HANGING_TARGET" />
+        </UNK_F7A6C313>
+      </UNK_7687F3CD>
+      <UNK_614E82D5>
+        <pickup heading="0.0" position="[-2172.175, -1464.795, 138.0365]" />
+        <pickup heading="0.0" position="[-2200.27, -1425.451, 138.0509]" />
+        <pickup heading="0.0" position="[-2263.399, -1357.027, 134.344]" />
+        <pickup heading="0.0" position="[-2149.367, -1403.372, 136.2782]" />
+      </UNK_614E82D5>
+    </location>
+    <location id="STRAWBERRY">
+      <variants>
+        <UNK_80FE7B16>
+          <group index="0" />
+          <group index="1" />
+          <group index="2" />
+          <group index="3" />
+        </UNK_80FE7B16>
+      </variants>
+      <UNK_7687F3CD>
+        <UNK_F7A6C313>
+          <target heading="324.5154" position="[-1794.231, -399.455, 157.696]" type="AT_HANGING_TARGET" />
+          <target heading="259.9183" position="[-1779.503, -442.918, 155.699]" type="AT_HANGING_TARGET" />
+          <target heading="259.9183" position="[-1778.405, -438.79, 155.847]" type="AT_HANGING_TARGET" />
+          <target heading="323.5246" position="[-1776.644, -419.791, 155.891]" type="AT_HANGING_TARGET" />
+          <target heading="295.316" position="[-1791.782, -351.028, 165.402]" type="AT_HANGING_TARGET" />
+          <target heading="285.2724" position="[-1790.614, -359.724, 162.472]" type="AT_HANGING_TARGET" />
+          <target heading="84.1865" position="[-1789.824, -361.721, 165.403]" type="AT_HANGING_TARGET" />
+          <target heading="155.9745" position="[-1804.428, -428.0112, 162.9455]" type="AT_TARGET" />
+          <target heading="237.7128" position="[-1765.584, -428.323, 161.724]" type="AT_TARGET" />
+          <target heading="308.1172" position="[-1781.725, -243.7761, 178.8528]" type="AT_GROUND_TARGET" />
+          <target heading="93.3785" position="[-1728.243, -263.1099, 176.6757]" type="AT_GROUND_TARGET" />
+          <target heading="292.2788" position="[-1763.11, -286.9073, 178.6379]" type="AT_GROUND_TARGET" />
+          <target heading="238.0028" position="[-1750.324, -315.6423, 178.4677]" type="AT_GROUND_TARGET" />
+          <target heading="93.1156" position="[-1709.81, -360.3011, 175.2745]" type="AT_GROUND_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="16.5425" position="[-1688.506, -480.6317, 149.0109]" type="AT_GROUND_TARGET" />
+          <target heading="89.3088" position="[-1643.619, -481.519, 148.7175]" type="AT_GROUND_TARGET" />
+          <target heading="49.3099" position="[-1615.118, -516.0516, 147.6791]" type="AT_GROUND_TARGET" />
+          <target heading="291.8172" position="[-1647.19, -539.3778, 140.4129]" type="AT_GROUND_TARGET" />
+          <target heading="316.7076" position="[-1760.39, -554.5666, 152.4166]" type="AT_GROUND_TARGET" />
+          <target heading="4.1147" position="[-1821.33, -271.011, 179.642]" type="AT_HANGING_TARGET" />
+          <target heading="84.1865" position="[-1806.572, -333.562, 168.388]" type="AT_HANGING_TARGET" />
+          <target heading="174.0577" position="[-1739.376, -367.192, 168.944]" type="AT_TARGET" />
+          <target heading="155.2614" position="[-1765.008, -292.271, 180.241]" type="AT_TARGET" />
+          <target heading="179.5914" position="[-1755.97, -328.2, 177.977]" type="AT_TARGET" />
+          <target heading="57.635" position="[-1662.582, -490.1703, 147.0792]" type="AT_GROUND_TARGET" />
+          <target heading="120.1024" position="[-1663.709, -562.128, 144.313]" type="AT_TARGET" />
+          <target heading="47.0289" position="[-1737.752, -545.509, 154.94]" type="AT_TARGET" />
+          <target heading="71.7163" position="[-1816.777, -299.3076, 171.0599]" type="AT_GROUND_TARGET" />
+          <target heading="24.3292" position="[-1824.221, -253.1669, 179.3758]" type="AT_GROUND_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="53.1476" position="[-1734.063, -410.941, 157.011]" type="AT_HANGING_TARGET" />
+          <target heading="53.1476" position="[-1735.602, -413.43, 157.043]" type="AT_HANGING_TARGET" />
+          <target heading="242.5936" position="[-1746.882, -380.109, 162.75]" type="AT_HANGING_TARGET" />
+          <target heading="62.8281" position="[-1767.308, -412.006, 158.331]" type="AT_HANGING_TARGET" />
+          <target heading="250.128" position="[-1759.313, -395.572, 160.558]" type="AT_HANGING_TARGET" />
+          <target heading="234.1758" position="[-1790.988, -392.508, 160.614]" type="AT_HANGING_TARGET" />
+          <target heading="315.284" position="[-1779.271, -376.092, 160.342]" type="AT_HANGING_TARGET" />
+          <target heading="61.814" position="[-1769.576, -384.924, 158.229]" type="AT_HANGING_TARGET" />
+          <target heading="255.595" position="[-1777.787, -414.804, 152.451]" type="AT_HANGING_TARGET" />
+          <target heading="57.2845" position="[-1813.441, -397.706, 158.792]" type="AT_HANGING_TARGET" />
+          <target heading="95.1545" position="[-1807.113, -370.51, 166.523]" type="AT_HANGING_TARGET" />
+          <target heading="354.9094" position="[-1820.216, -377.338, 162.805]" type="AT_HANGING_TARGET" />
+          <target heading="146.0122" position="[-1811.102, -383.642, 162.036]" type="AT_HANGING_TARGET" />
+          <target heading="237.9185" position="[-1812.982, -396.646, 161.843]" type="AT_HANGING_TARGET" />
+          <target heading="166.1205" position="[-1809.842, -345.741, 167.546]" type="AT_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="65.1275" position="[-1806.942, -350.84, 166.398]" type="AT_TARGET" />
+          <target heading="145.2771" position="[-1790.061, -383.085, 163.198]" type="AT_TARGET" />
+          <target heading="142.2127" position="[-1770.527, -369.037, 165.296]" type="AT_TARGET" />
+          <target heading="142.2127" position="[-1774.55, -365.014, 165.237]" type="AT_TARGET" />
+          <target heading="121.7514" position="[-1779.615, -354.974, 170.588]" type="AT_TARGET" />
+          <target heading="43.7166" position="[-1766.997, -521.7921, 155.6345]" type="AT_GROUND_TARGET" />
+          <target heading="81.0276" position="[-1786.328, -518.2357, 157.2174]" type="AT_GROUND_TARGET" />
+          <target heading="343.4177" position="[-1785.923, -485.7958, 163.64]" type="AT_GROUND_TARGET" />
+          <target heading="357.9993" position="[-1791.638, -471.2722, 162.3026]" type="AT_GROUND_TARGET" />
+          <target heading="146.3583" position="[-1807.205, -449.9281, 156.9411]" type="AT_GROUND_TARGET" />
+          <target heading="46.1585" position="[-1839.001, -432.1924, 158.6023]" type="AT_GROUND_TARGET" />
+          <target heading="12.0175" position="[-1827.636, -401.7096, 160.3475]" type="AT_GROUND_TARGET" />
+          <target heading="38.6387" position="[-1804.29, -365.3973, 160.9553]" type="AT_GROUND_TARGET" />
+          <target heading="55.7835" position="[-1826.173, -375.5139, 165.3422]" type="AT_GROUND_TARGET" />
+          <target heading="12.4456" position="[-1787.937, -422.5249, 154.5689]" type="AT_GROUND_TARGET" />
+        </UNK_F7A6C313>
+      </UNK_7687F3CD>
+      <UNK_614E82D5>
+        <pickup heading="0.0" position="[-1765.681, -396.8106, 155.1205]" />
+        <pickup heading="0.0" position="[-1813.307, -391.0775, 160.5926]" />
+        <pickup heading="0.0" position="[-1792.265, -439.7323, 154.3174]" />
+        <pickup heading="0.0" position="[-1750.648, -277.4488, 176.8845]" />
+        <pickup heading="0.0" position="[-1714.134, -426.5658, 150.3725]" />
+        <pickup heading="0.0" position="[-1749.744, -545.0179, 153.0453]" />
+        <pickup heading="0.0" position="[-1794.428, -469.5351, 161.9009]" />
+      </UNK_614E82D5>
+    </location>
+    <location id="CALIGA_HALL">
+      <variants>
+        <UNK_80FE7B16>
+          <group index="0" />
+          <group index="1" />
+          <group index="2" />
+          <group index="3" />
+          <group index="4" />
+        </UNK_80FE7B16>
+      </variants>
+      <UNK_7687F3CD>
+        <UNK_F7A6C313>
+          <target heading="155.7722" position="[1818.064, -1381.961, 47.624]" type="AT_HANGING_TARGET" />
+          <target heading="247.3035" position="[1832.622, -1398.063, 47.108]" type="AT_HANGING_TARGET" />
+          <target heading="212.334" position="[1829.408, -1423.65, 44.131]" type="AT_HANGING_TARGET" />
+          <target heading="306.0011" position="[1850.686, -1399.646, 44.649]" type="AT_HANGING_TARGET" />
+          <target heading="20.3267" position="[1865.209, -1366.199, 43.793]" type="AT_HANGING_TARGET" />
+          <target heading="293.3455" position="[1857.075, -1361.107, 42.74]" type="AT_HANGING_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="105.2518" position="[1870.924, -1352.232, 42.938]" type="AT_HANGING_TARGET" />
+          <target heading="105.2518" position="[1872.019, -1355.106, 42.948]" type="AT_HANGING_TARGET" />
+          <target heading="295.1195" position="[1887.191, -1346.849, 44.48]" type="AT_HANGING_TARGET" />
+          <target heading="295.1195" position="[1886.342, -1344.826, 44.48]" type="AT_HANGING_TARGET" />
+          <target heading="304.3904" position="[1907.389, -1353.42, 44.155]" type="AT_HANGING_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="85.9866" position="[1892.412, -1325.68, 42.41]" type="AT_HANGING_TARGET" />
+          <target heading="126.6234" position="[1891.01, -1338.642, 49.521]" type="AT_HANGING_TARGET" />
+          <target heading="49.4359" position="[1874.496, -1296.506, 43.518]" type="AT_HANGING_TARGET" />
+          <target heading="49.4359" position="[1861.848, -1298.721, 43.484]" type="AT_HANGING_TARGET" />
+          <target heading="115.0999" position="[1823.599, -1307.28, 42.35]" type="AT_HANGING_TARGET" />
+          <target heading="105.2518" position="[1869.848, -1349.566, 42.918]" type="AT_HANGING_TARGET" />
+          <target heading="26.302" position="[1802.297, -1307.873, 48.853]" type="AT_HANGING_TARGET" />
+          <target heading="47.6644" position="[1843.829, -1275.997, 43.922]" type="AT_HANGING_TARGET" />
+          <target heading="313.7345" position="[1823.577, -1277.809, 44.176]" type="AT_HANGING_TARGET" />
+          <target heading="237.5527" position="[1828.657, -1272.238, 44.986]" type="AT_HANGING_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="337.3911" position="[1851.292, -1249.57, 43.486]" type="AT_HANGING_TARGET" />
+          <target heading="337.3911" position="[1847.184, -1237.814, 43.55]" type="AT_HANGING_TARGET" />
+          <target heading="328.4942" position="[1854.609, -1229.282, 42.916]" type="AT_HANGING_TARGET" />
+          <target heading="328.7924" position="[1837.929, -1216.623, 42.41]" type="AT_HANGING_TARGET" />
+          <target heading="64.7828" position="[1820.044, -1202.569, 42.366]" type="AT_HANGING_TARGET" />
+          <target heading="10.4631" position="[1823.333, -1213.971, 42.07]" type="AT_HANGING_TARGET" />
+          <target heading="157.589" position="[1818.443, -1210.589, 42.161]" type="AT_HANGING_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="257.265" position="[1811.696, -1405.155, 44.726]" type="AT_TARGET" />
+          <target heading="66.0256" position="[1790.435, -1386.388, 46.053]" type="AT_TARGET" />
+          <target heading="207.5928" position="[1854.981, -1356.117, 41.47]" type="AT_TARGET" />
+          <target heading="100.8478" position="[1820.492, -1343.757, 46.663]" type="AT_TARGET" />
+          <target heading="293.7224" position="[1876.421, -1337.302, 47.44]" type="AT_TARGET" />
+          <target heading="95.6825" position="[1893.004, -1358.292, 42.166]" type="AT_TARGET" />
+          <target heading="318.5878" position="[1868.085, -1301.804, 43.207]" type="AT_TARGET" />
+          <target heading="102.5593" position="[1771.211, -1331.703, 46.062]" type="AT_TARGET" />
+          <target heading="199.8226" position="[1784.519, -1331.455, 45.716]" type="AT_TARGET" />
+          <target heading="199.8226" position="[1791.55, -1328.896, 46.004]" type="AT_TARGET" />
+          <target heading="110.3859" position="[1798.146, -1315.333, 44.859]" type="AT_TARGET" />
+          <target heading="39.6773" position="[1810.207, -1258.646, 43.396]" type="AT_TARGET" />
+          <target heading="329.7284" position="[1826.412, -1248.737, 44.632]" type="AT_TARGET" />
+        </UNK_F7A6C313>
+      </UNK_7687F3CD>
+      <UNK_614E82D5>
+        <pickup heading="0.0" position="[1797.048, -1352.266, 43.1004]" />
+        <pickup heading="0.0" position="[1825.158, -1304.743, 41.4374]" />
+        <pickup heading="0.0" position="[1901.171, -1333.643, 41.7297]" />
+      </UNK_614E82D5>
+    </location>
+    <location id="CORNWALL">
+      <variants>
+        <UNK_80FE7B16>
+          <group index="0" />
+          <group index="1" />
+          <group index="2" />
+          <group index="3" />
+          <group index="4" />
+        </UNK_80FE7B16>
+      </variants>
+      <UNK_7687F3CD>
+        <UNK_F7A6C313>
+          <target heading="287.9788" position="[562.222, 666.472, 119.347]" type="AT_HANGING_TARGET" />
+          <target heading="284.2027" position="[558.02, 671.346, 119.358]" type="AT_HANGING_TARGET" />
+          <target heading="185.2302" position="[546.993, 658.533, 112.598]" type="AT_HANGING_TARGET" />
+          <target heading="185.2302" position="[544.257, 658.269, 112.597]" type="AT_HANGING_TARGET" />
+          <target heading="185.2302" position="[546.07, 655.978, 112.596]" type="AT_HANGING_TARGET" />
+          <target heading="357.7013" position="[525.811, 644.111, 112.42]" type="AT_HANGING_TARGET" />
+          <target heading="357.7013" position="[528.263, 644.097, 112.419]" type="AT_HANGING_TARGET" />
+          <target heading="357.7013" position="[533.639, 644.266, 111.435]" type="AT_HANGING_TARGET" />
+          <target heading="107.076" position="[521.361, 672.065, 118.653]" type="AT_HANGING_TARGET" />
+          <target heading="101.1961" position="[521.859, 692.829, 118.856]" type="AT_HANGING_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="264.6347" position="[480.392, 690.608, 118.818]" type="AT_HANGING_TARGET" />
+          <target heading="25.4879" position="[466.043, 716.685, 119.172]" type="AT_HANGING_TARGET" />
+          <target heading="25.4879" position="[463.492, 716.168, 119.247]" type="AT_HANGING_TARGET" />
+          <target heading="94.5094" position="[446.909, 701.332, 119.794]" type="AT_HANGING_TARGET" />
+          <target heading="184.3321" position="[451.131, 665.665, 120.722]" type="AT_HANGING_TARGET" />
+          <target heading="266.857" position="[454.312, 653.879, 123.643]" type="AT_HANGING_TARGET" />
+          <target heading="107.076" position="[488.004, 647.63, 123.557]" type="AT_HANGING_TARGET" />
+          <target heading="179.5402" position="[485.767, 638.69, 120.47]" type="AT_HANGING_TARGET" />
+          <target heading="350.2458" position="[487.799, 668.504, 118.057]" type="AT_HANGING_TARGET" />
+          <target heading="100.8296" position="[466.296, 663.58, 118.725]" type="AT_HANGING_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="258.9922" position="[600.918, 578.475, 112.244]" type="AT_HANGING_TARGET" />
+          <target heading="209.3061" position="[596.917, 575.158, 112.246]" type="AT_HANGING_TARGET" />
+          <target heading="234.6733" position="[585.677, 564.506, 115.731]" type="AT_HANGING_TARGET" />
+          <target heading="271.6414" position="[482.594, 625.794, 112.621]" type="AT_HANGING_TARGET" />
+          <target heading="271.6414" position="[494.912, 615.822, 112.22]" type="AT_HANGING_TARGET" />
+          <target heading="180.3742" position="[514.834, 641.814, 116.369]" type="AT_HANGING_TARGET" />
+          <target heading="229.9297" position="[559.622, 573.123, 114.263]" type="AT_HANGING_TARGET" />
+          <target heading="229.9297" position="[556.589, 569.237, 114.303]" type="AT_HANGING_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="118.6854" position="[545.335, 574.15, 113.241]" type="AT_TARGET" />
+          <target heading="118.6854" position="[543.435, 577.391, 113.238]" type="AT_TARGET" />
+          <target heading="82.5917" position="[465.187, 603.947, 109.961]" type="AT_TARGET" />
+          <target heading="278.6585" position="[496.166, 614.437, 110.013]" type="AT_TARGET" />
+          <target heading="228.5965" position="[553.734, 568.614, 115.706]" type="AT_TARGET" />
+          <target heading="266.4244" position="[459.557, 681.375, 124.357]" type="AT_TARGET" />
+          <target heading="101.1961" position="[520.831, 696.069, 118.855]" type="AT_HANGING_TARGET" />
+          <target heading="287.9788" position="[463.992, 666.059, 118.809]" type="AT_HANGING_TARGET" />
+          <target heading="287.9788" position="[459.25, 661.476, 118.692]" type="AT_HANGING_TARGET" />
+        </UNK_F7A6C313>
+        <UNK_F7A6C313>
+          <target heading="295.6257" position="[552.2227, 631.5436, 108.764]" type="AT_GROUND_TARGET" />
+          <target heading="89.4846" position="[500.5638, 603.5802, 109.4109]" type="AT_GROUND_TARGET" />
+          <target heading="225.8967" position="[515.5145, 612.2872, 110.2125]" type="AT_GROUND_TARGET" />
+          <target heading="142.0596" position="[556.54, 593.3614, 109.9645]" type="AT_GROUND_TARGET" />
+          <target heading="200.1353" position="[565.1956, 589.7932, 109.8984]" type="AT_GROUND_TARGET" />
+          <target heading="340.4983" position="[572.0687, 601.878, 110.1017]" type="AT_GROUND_TARGET" />
+          <target heading="239.8058" position="[540.2837, 598.3047, 108.8717]" type="AT_GROUND_TARGET" />
+          <target heading="129.1841" position="[507.4259, 625.4271, 109.8619]" type="AT_GROUND_TARGET" />
+        </UNK_F7A6C313>
+      </UNK_7687F3CD>
+      <UNK_614E82D5>
+        <pickup heading="0.0" position="[547.0892, 644.0656, 108.8179]" />
+        <pickup heading="0.0" position="[474.612, 610.7022, 109.6002]" />
+        <pickup heading="0.0" position="[503.2949, 697.6674, 114.8827]" />
+        <pickup heading="0.0" position="[447.0352, 678.6766, 114.4679]" />
+        <pickup heading="0.0" position="[552.1147, 578.7424, 110.1668]" />
+      </UNK_614E82D5>
+    </location>
+  </locations>
+</root>

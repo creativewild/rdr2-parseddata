@@ -1,0 +1,1937 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data>
+    <events>
+      <event UNK_813B03CC="Master Archer" id="ARCHERY" script="fme_archery" UNK_47D6302F="FME_STD_LARGE" UNK_9DAB4B2D="18" UNK_4EFD1F08="6" type="STANDARD">
+        <variations>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_ARCHERY" UNK_813B03CC="Standard" id="STANDARD" UNK_8EA02A51="16" UNK_98FC6B21="STANDARD" UNK_954B747D="FME_ARCHERY">
+            <ui UNK_A843765A="FMARCH_BODY" UNK_F8954229="FMARCH_NAME" UNK_BE996A1E="FMARCH_HELP_RULES" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Tumbleweed" id="TUMBLEWEED" UNK_F37BC5E9="125.0" position="[-5515.8, -2949.1, -1.9]">
+            <outro heading="0.0" position="[-5525.951, -2935.228, -2.96089]" />
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="FME_ARCH_TWEED_STANDARD" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Gaptooth Ridge" id="GAPTOOTH_RIDGE" UNK_F37BC5E9="110.0" position="[-6018.3, -3266.4, -21.6]">
+            <outro heading="0.0" position="[-5983.633, -3239.925, -22.57173]" />
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="FME_ARCH_GAPTOOTH_STANDARD" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Tall Trees" id="TALL_TREES" UNK_F37BC5E9="175.0" position="[-2216.3, -1398.4, 140.4]">
+            <outro heading="0.0" position="[-2220.609, -1404.124, 140.2922]" />
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="FME_ARCH_TALL_TREES_STANDARD" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Strawberry" id="STRAWBERRY" UNK_F37BC5E9="200.0" position="[-1768.549, -425.496, 160.2]">
+            <outro heading="145.97" position="[-1813.617, -392.2389, 160.61]" />
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="FME_ARCH_STRAWBERRY_STANDARD" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Caliga Hall" id="CALIGA_HALL" UNK_F37BC5E9="130.0" position="[1850.0, -1327.3, 42.2]">
+            <outro heading="0.0" position="[1792.159, -1354.194, 42.87078]" />
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="FME_ARCH_CALIGA_HALL_STANDARD" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Cornwall" id="CORNWALL" UNK_F37BC5E9="125.0" position="[519.5, 636.4, 111.4]">
+            <outro heading="0.0" position="[482.0456, 661.4988, 116.3969]" />
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="FME_ARCH_CORNWALL_STANDARD" />
+            </variations>
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMARCH" UNK_2EBB9392="FME_ARCHERY" />
+      </event>
+      <event UNK_813B03CC="Challenges" id="CHALLENGES" script="fme_challenges" UNK_47D6302F="FME_STD_LARGE" type="STANDARD">
+        <variations>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_CH_PROMO_BOW_KILLS" UNK_813B03CC="Bow" id="BOW" UNK_8EA02A51="28" UNK_98FC6B21="STANDARD" UNK_954B747D="FME_CHALLENGE_BOW">
+            <ui UNK_A843765A="FMECHAL_VARIATION_BOW_OBJECTIVE" UNK_F8954229="FMECHAL_VARIATION_BOW_NAME" UNK_BE996A1E="FMECHAL_VARIATION_BOW_HELP_RULES" UNK_3FE9A890="FMECHAL_VARIATION_BOW_HELP_RULES_SECONDARY" />
+          </variation>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_CH_PROMO_HEADSHOT_KILLS" UNK_813B03CC="Headshot" id="HEADSHOT" UNK_8EA02A51="28" UNK_98FC6B21="STANDARD" UNK_954B747D="FME_CHALLENGE_HEADSHOT">
+            <ui UNK_A843765A="FMECHAL_VARIATION_HEADSHOT_OBJECTIVE" UNK_F8954229="FMECHAL_VARIATION_HEADSHOT_NAME" UNK_BE996A1E="FMECHAL_VARIATION_HEADSHOT_HELP_RULES" />
+          </variation>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_CH_PROMO_HORSEBACK_KILLS" UNK_813B03CC="Horseback" id="HORSEBACK" UNK_8EA02A51="28" UNK_98FC6B21="STANDARD" UNK_954B747D="FME_CHALLENGE_HORSEBACK">
+            <UNK_8544B5A7 on_mount="true" />
+            <ui UNK_A843765A="FMECHAL_VARIATION_HORSEBACK_OBJECTIVE" UNK_F8954229="FMECHAL_VARIATION_HORSEBACK_NAME" UNK_BE996A1E="FMECHAL_VARIATION_HORSEBACK_HELP_RULES" UNK_3FE9A890="FMECHAL_VARIATION_HORSEBACK_HELP_RULES_SECONDARY" />
+          </variation>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_CH_PROMO_LONGARM_KILLS" UNK_813B03CC="Longarm" id="LONGARM" UNK_8EA02A51="28" UNK_98FC6B21="STANDARD" UNK_954B747D="FME_CHALLENGE_LONGARM">
+            <ui UNK_A843765A="FMECHAL_VARIATION_LONGARM_OBJECTIVE" UNK_F8954229="FMECHAL_VARIATION_LONGARM_NAME" UNK_BE996A1E="FMECHAL_VARIATION_LONGARM_HELP_RULES" UNK_3FE9A890="FMECHAL_VARIATION_LONGARM_HELP_RULES_SECONDARY" />
+          </variation>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_CH_PROMO_SIDEARM_KILLS" UNK_813B03CC="Sidearm" id="SIDEARM" UNK_8EA02A51="28" UNK_98FC6B21="STANDARD" UNK_954B747D="FME_CHALLENGE_SIDEARM">
+            <ui UNK_A843765A="FMECHAL_VARIATION_SIDEARM_OBJECTIVE" UNK_F8954229="FMECHAL_VARIATION_SIDEARM_NAME" UNK_BE996A1E="FMECHAL_VARIATION_SIDEARM_HELP_RULES" UNK_3FE9A890="FMECHAL_VARIATION_SIDEARM_HELP_RULES_SECONDARY" />
+          </variation>
+          <variation UNK_4586033D="FISHING_VARIATION" UNK_7864DBE8="AWARD_MOD_FME_CH_PROMO_003_FC" UNK_813B03CC="Lake Fishing" UNK_E02C6D8A="true" id="FISHING_LAKE" UNK_8EA02A51="16" UNK_98FC6B21="ALL_ALLY_STANDARD" UNK_954B747D="FME_CHALLENGE_FISHING">
+            <ui UNK_A843765A="FMECHAL_VARIATION_FISHING_OBJECTIVE" UNK_F8954229="FMECHAL_VARIATION_FISHING_LAKE_NAME" UNK_BE996A1E="FMECHAL_VARIATION_FISHING_LAKE_HELP_RULES" />
+          </variation>
+          <variation UNK_4586033D="FISHING_VARIATION" UNK_7864DBE8="AWARD_MOD_FME_CH_PROMO_003_FC" UNK_813B03CC="River Fishing" UNK_E02C6D8A="true" id="FISHING_RIVER" UNK_8EA02A51="16" UNK_98FC6B21="ALL_ALLY_STANDARD" UNK_954B747D="FME_CHALLENGE_FISHING">
+            <ui UNK_A843765A="FMECHAL_VARIATION_FISHING_OBJECTIVE" UNK_F8954229="FMECHAL_VARIATION_FISHING_RIVER_NAME" UNK_BE996A1E="FMECHAL_VARIATION_FISHING_RIVER_HELP_RULES" />
+          </variation>
+          <variation UNK_4586033D="FISHING_VARIATION" UNK_7864DBE8="AWARD_MOD_FME_CH_PROMO_003_FC" UNK_813B03CC="Swamp Fishing" UNK_E02C6D8A="true" id="FISHING_SWAMP" UNK_8EA02A51="16" UNK_98FC6B21="ALL_ALLY_STANDARD" UNK_954B747D="FME_CHALLENGE_FISHING">
+            <ui UNK_A843765A="FMECHAL_VARIATION_FISHING_OBJECTIVE" UNK_F8954229="FMECHAL_VARIATION_FISHING_SWAMP_NAME" UNK_BE996A1E="FMECHAL_VARIATION_FISHING_SWAMP_HELP_RULES" />
+          </variation>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_CH_PROMO_WILD_ANIMAL" UNK_813B03CC="Wild Animal" id="HUNTING" UNK_8EA02A51="12" UNK_98FC6B21="ALL_ALLY_STANDARD" UNK_954B747D="FME_CHALLENGE_WILD_ANIMALS">
+            <ui UNK_A843765A="FMECHAL_VARIATION_HUNTING_OBJECTIVE" UNK_F8954229="FMECHAL_VARIATION_HUNTING_NAME" UNK_BE996A1E="FMECHAL_VARIATION_HUNTING_HELP_RULES" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Bow - Painted Sky" id="BOW_PAINTED_SKY" position="[-673.3, -41.2, 82.7]">
+            <outro heading="112.4" position="[-625.7401, -31.66779, 84.43324]" />
+            <variations>
+              <variation id="BOW" UNK_5E50CFA2="FME_CHAL_BOW_PAINTED_SKY" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Bow - Bear Claw" id="BOW_BEAR_CLAW" position="[-2033.2, -1890.9, 110.1]">
+            <outro heading="154.73" position="[-2033.817, -1904.997, 109.1074]" />
+            <variations>
+              <variation id="BOW" UNK_5E50CFA2="FME_CHAL_BOW_BEAR_CLAW" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Bow - Ewing Basin" id="BOW_EWING_BASIN" position="[-1890.0, 1321.5, 199.6]">
+            <outro heading="176.26" position="[-1887.512, 1325.178, 198.674]" />
+            <variations>
+              <variation id="BOW" UNK_5E50CFA2="FME_CHAL_BOW_EWING_BASIN" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Bow - McFarlane's Ranch" id="BOW_MCFARLANES_RANCH" position="[-2355.9, -2398.6, 62.2]">
+            <outro heading="143.88" position="[-2331.116, -2415.05, 61.29492]" />
+            <variations>
+              <variation id="BOW" UNK_5E50CFA2="FME_CHAL_BOW_MACFARLANES_RANCH" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Bow - Caliga Hall" id="BOW_CALIGA_HALL" position="[1812.31, -1405.889, 42.8516]">
+            <outro heading="0.0" position="[1792.159, -1354.194, 42.87078]" />
+            <variations>
+              <variation id="BOW" UNK_5E50CFA2="FME_CHAL_BOW_CALIGA_HALL" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Sidearm - Valentine" id="SIDEARM_VALENTINE" position="[-258.4, 670.8, 113.3]">
+            <outro heading="99.56" position="[-296.5003, 791.1699, 117.4408]" />
+            <variations>
+              <variation id="SIDEARM" UNK_5E50CFA2="FME_CHAL_SIDEARM_VALENTINE" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Sidearm - Wapiti" id="SIDEARM_WAPITI" position="[487.1, 2213.3, 247.1]">
+            <outro heading="0.0" position="[450.7803, 2247.794, 247.76]" />
+            <variations>
+              <variation id="SIDEARM" UNK_5E50CFA2="FME_CHAL_SIDEARM_WAPITI" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Sidearm - Saint Denis Freight Station" id="SIDEARM_SAINT_DENIS" position="[2342.2, -1460.7, 46.0]">
+            <outro heading="0.0" position="[2395.396, -1458.649, 44.94168]" />
+            <variations>
+              <variation id="SIDEARM" UNK_5E50CFA2="FME_CHAL_SIDEARM_SAINT_DENIS" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Sidearm - Braithwaite Manor" id="SIDEARM_BRAITHWAITE_MANOR" position="[1010.8, -1796.0, 46.6]">
+            <outro heading="0.42" position="[1010.537, -1722.195, 45.67725]" />
+            <variations>
+              <variation id="SIDEARM" UNK_5E50CFA2="FME_CHAL_SIDEARM_BRAITHWAITE_MANOR" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Sidearm - Burned Settlement" id="SIDEARM_BURNED_SETTLEMENT" position="[-355.1, -135.7, 47.7]">
+            <outro heading="0.0" position="[-357.7438, -126.85, 45.82926]" />
+            <variations>
+              <variation id="SIDEARM" UNK_5E50CFA2="FME_CHAL_SIDEARM_BURNED_SETTLEMENT" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Longarm - Gaptooth Breach" id="LONGARM_GAPTOOTH_BREACH" position="[-5978.9, -3256.2, -21.6]">
+            <outro heading="0.0" position="[-5983.633, -3239.925, -22.57173]" />
+            <variations>
+              <variation id="LONGARM" UNK_5E50CFA2="FME_CHAL_LONGARM_GAPTOOTH_BREACH" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Longarm - Hanging Dog Ranch" id="LONGARM_HANGING_DOG_RANCH" position="[-2188.0, 700.4, 121.9]">
+            <outro heading="0.0" position="[-2188.36, 700.4743, 120.9071]" />
+            <variations>
+              <variation id="LONGARM" UNK_5E50CFA2="FME_CHAL_LONGARM_HANGING_DOG_RANCH" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Longarm - Saint Denis Docks" id="LONGARM_SAINT_DENIS_DOCKS" position="[2749.3, -1468.9, 45.4]">
+            <outro heading="30.32" position="[2757.39, -1484.245, 44.40924]" />
+            <variations>
+              <variation id="LONGARM" UNK_5E50CFA2="FME_CHAL_LONGARM_SAINT_DENIS_DOCKS" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Longarm - Emerald Ranch" id="LONGARM_EMERALD_RANCH" position="[1405.7, 316.9, 88.1]">
+            <outro heading="93.29" position="[1432.294, 320.3217, 87.76939]" />
+            <variations>
+              <variation id="LONGARM" UNK_5E50CFA2="FME_CHAL_LONGARM_EMERALD_RANCH" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Longarm - Blackwater" id="LONGARM_BLACKWATER" position="[-798.5, -1337.4, 46.9]">
+            <outro heading="0.0" position="[-800.2693, -1290.996, 42.53787]" />
+            <variations>
+              <variation id="LONGARM" UNK_5E50CFA2="FME_CHAL_LONGARM_BLACKWATER" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Headshot - Civil War Battlefield" id="HEADSHOT_CIVIL_WAR_BATTLEFIELD" position="[1486.5, -1796.5, 57.1]">
+            <outro heading="31.78" position="[1504.03, -1796.118, 55.0176]" />
+            <variations>
+              <variation id="HEADSHOT" UNK_5E50CFA2="FME_CHAL_HEADSHOT_CIVIL_WAR_BATTLEFIELD" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Headshot - Manzanita Post" id="HEADSHOT_MANZANITA_POST" position="[-1945.8, -1630.9, 116.2]">
+            <outro heading="0.0" position="[-1964.197, -1614.216, 115.1507]" />
+            <variations>
+              <variation id="HEADSHOT" UNK_5E50CFA2="FME_CHAL_HEADSHOT_MANZANITA_POST" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Headshot - Tumbleweed" id="HEADSHOT_TUMBLEWEED" position="[-5482.2, -2914.8, -1.1]">
+            <outro heading="0.0" position="[-5525.951, -2935.228, -2.96089]" />
+            <variations>
+              <variation id="HEADSHOT" UNK_5E50CFA2="FME_CHAL_HEADSHOT_TUMBLEWEED" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Headshot - Van Horn" id="HEADSHOT_VAN_HORN" position="[2966.3, 517.9, 44.4]">
+            <outro heading="0.0" position="[2958.691, 528.3759, 43.51057]" />
+            <variations>
+              <variation id="HEADSHOT" UNK_5E50CFA2="FME_CHAL_HEADSHOT_VAN_HORN" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Headshot - Strawberry" id="HEADSHOT_STRAWBERRY" position="[-1760.8, -399.9, 155.7]">
+            <outro heading="145.97" position="[-1813.617, -392.2389, 160.61]" />
+            <variations>
+              <variation id="HEADSHOT" UNK_5E50CFA2="FME_CHAL_HEADSHOT_STRAWBERRY" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Horseback - Ridgewood Farm" id="HORSEBACK_RIDGEWOOD_FARM" UNK_F37BC5E9="350.0" position="[-4804.7, -2712.6, 14.0]">
+            <outro heading="0.0" position="[-4768.787, -2723.607, -15.21672]" />
+            <variations>
+              <variation id="HORSEBACK" UNK_5E50CFA2="FME_CHAL_HORSEBACK_RIDGEWOOD_FARM" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Horseback - Emerald Ranch" id="HORSEBACK_EMERALD_RANCH" UNK_F37BC5E9="350.0" position="[1421.8, 315.5, 88.6]">
+            <outro heading="93.29" position="[1432.294, 320.3217, 87.76939]" />
+            <variations>
+              <variation id="HORSEBACK" UNK_5E50CFA2="FME_CHAL_HORSEBACK_EMERALD_RANCH" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Horseback - Blackwater Outskirts" id="HORSEBACK_BLACKWATER_OUTSKIRTS" UNK_F37BC5E9="350.0" position="[-949.4, -1648.1, 68.0]">
+            <outro heading="0.0" position="[-800.2693, -1290.996, 42.53787]" />
+            <variations>
+              <variation id="HORSEBACK" UNK_5E50CFA2="FME_CHAL_HORSEBACK_BLACKWATER_OUTSKIRTS" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Horseback - Dakota River" id="HORSEBACK_DAKOTA_RIVER" UNK_F37BC5E9="350.0" position="[-1180.0, 156.8, 42.0]">
+            <outro heading="163.1" position="[-1199.715, 141.594, 40.56128]" />
+            <variations>
+              <variation id="HORSEBACK" UNK_5E50CFA2="FME_CHAL_HORSEBACK_DAKOTA_RIVER" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Horseback - Braithwaite Manor" id="HORSEBACK_BRAITHWAITE_MANOR" UNK_F37BC5E9="350.0" position="[1028.4, -1973.0, 46.2]">
+            <outro heading="0.42" position="[1010.537, -1722.195, 45.67725]" />
+            <variations>
+              <variation id="HORSEBACK" UNK_5E50CFA2="FME_CHAL_HORSEBACK_BRAITHWAITE_MANOR" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Lake Fishing - Flat Iron" id="FISHING_FLAT_IRON" UNK_F37BC5E9="400.0" position="[479.32, -1318.665, 41.93131]">
+            <outro heading="145.31" position="[386.0655, -1285.718, 40.57679]" />
+            <variations>
+              <variation UNK_4586033D="FISHING_VARIATION" duration="600000" id="FISHING_LAKE" UNK_59376D33="6" UNK_5E50CFA2="FME_CHAL_FISHING_LAKE_FLAT_IRON" weather="SHOWER" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Lake Fishing - O'Creagh's Run" id="FISHING_OCREAGHS_RUN" position="[1612.233, 1451.481, 144.6408]">
+            <outro heading="0.0" position="[1670.246, 1441.124, 145.757]" />
+            <variations>
+              <variation UNK_4586033D="FISHING_VARIATION" duration="600000" id="FISHING_LAKE" UNK_59376D33="6" UNK_5E50CFA2="FME_CHAL_FISHING_LAKE_OCREAGHS_RUN" weather="SUNNY" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="River Fishing - Brandywine Drop" id="FISHING_BRANDYWINE_DROP" UNK_F37BC5E9="300.0" position="[2802.4, 2136.8, 156.8]">
+            <outro heading="100.73" position="[2855.964, 2337.163, 156.5714]" />
+            <variations>
+              <variation UNK_4586033D="FISHING_VARIATION" duration="600000" id="FISHING_RIVER" UNK_59376D33="18" UNK_5E50CFA2="FME_CHAL_FISHING_RIVER_BRANDYWINE_DROP" weather="DRIZZLE" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="River Fishing - Cumberland Falls" id="FISHING_CUMBERLAND_FALLS" position="[-1025.2, 433.6, 55.6]">
+            <outro heading="103.91" position="[-1093.843, 400.2333, 43.47567]" />
+            <variations>
+              <variation UNK_4586033D="FISHING_VARIATION" duration="600000" id="FISHING_RIVER" UNK_59376D33="6" UNK_5E50CFA2="FME_CHAL_FISHING_RIVER_CUMBERLAND_FALLS" weather="SHOWER" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Swamp Fishing - Lagras" id="FISHING_LAGRAS" position="[2258.054, -607.6931, 40.5]">
+            <outro heading="0.0" position="[2269.89, -507.6676, 40.77021]" />
+            <variations>
+              <variation UNK_4586033D="FISHING_VARIATION" duration="600000" id="FISHING_SWAMP" UNK_59376D33="18" UNK_5E50CFA2="FME_CHAL_FISHING_SWAMP_LAGRAS" weather="FOG" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Wild Animal - Elysian Pool" id="HUNTING_ELYSIAN_POOL" position="[2473.0, 922.7, 74.0]">
+            <outro heading="0.0" position="[2464.553, 907.058, 72.9191]" />
+            <variations>
+              <variation id="HUNTING" UNK_5E50CFA2="FME_CHAL_HUNTING_ELYSIAN_POOL" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Wild Animal - Little Creek River" id="HUNTING_LITTLE_CREEK_RIVER" position="[-2150.46, 542.3338, 116.0725]">
+            <outro heading="5.5" position="[-2145.448, 530.9833, 115.9394]" />
+            <variations>
+              <variation id="HUNTING" UNK_5E50CFA2="FME_CHAL_HUNTING_LITTLE_CREEK_RIVER" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Wild Animal - Tall Trees" id="HUNTING_TALL_TREES" position="[-2196.076, -1560.737, 149.539]">
+            <outro heading="0.0" position="[-2198.293, -1562.175, 149.5337]" />
+            <variations>
+              <variation id="HUNTING" UNK_5E50CFA2="FME_CHAL_HUNTING_TALL_TREES" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Wild Animal - Rio Bravo" id="HUNTING_RIO_BRAVO" position="[-5033.803, -3745.129, -1.48339]">
+            <outro heading="38.02" position="[-5010.167, -3624.49, -5.0316]" />
+            <variations>
+              <variation id="HUNTING" UNK_5E50CFA2="FME_CHAL_HUNTING_RIO_BRAVO" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Wild Animal - Ringneck Creek" id="HUNTING_RINGNECK_CREEK" position="[1199.994, -566.1279, 67.69389]">
+            <outro heading="45.69" position="[1171.068, -517.4495, 69.59299]" />
+            <variations>
+              <variation id="HUNTING" UNK_5E50CFA2="FME_CHAL_HUNTING_RINGNECK_CREEK" />
+            </variations>
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMECHAL" UNK_2EBB9392="TOAST_MP_FREEMODE_CHALLENGE" UNK_F3E6667F="hud_toasts" />
+      </event>
+      <event UNK_813B03CC="Dispatch Rider" id="DEAD_DROP" script="fme_dead_drop" UNK_47D6302F="FME_STD_SMALL" type="STANDARD">
+        <variations>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_DEAD_DROP" UNK_813B03CC="Horse" id="HORSE_POSSE" UNK_8EA02A51="16" UNK_549D9B47="2" UNK_954B747D="FME_DEAD_DROP">
+            <UNK_8544B5A7 on_mount="true" />
+            <ui UNK_A843765A="DD_TURN_IN_H_S" UNK_F8954229="DD_INTRO" UNK_BE996A1E="DD_HELP_RULES" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Heartlands" UNK_BDC4B490="425.0" id="HEARTLAND_0" UNK_F37BC5E9="125.0" position="[710.5, 22.6, 153.5]">
+            <outro heading="0.0" position="[378.311, -18.63881, 107.7046]" />
+            <variations>
+              <variation duration="600000" id="HORSE_POSSE" UNK_5E50CFA2="FME_DD_HRTL_HORSE_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Brittlebush Trawl" UNK_BDC4B490="425.0" id="BBUSH_TRAWL_0" UNK_F37BC5E9="125.0" position="[-2078.2, -2926.93, 1.68]">
+            <outro heading="7.51" position="[-2403.549, -2451.688, 59.17156]" />
+            <variations>
+              <variation duration="600000" id="HORSE_POSSE" UNK_5E50CFA2="FME_DD_TRAWL_HORSE_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Pleasance House" UNK_BDC4B490="425.0" id="PLEASANCE_HOUSE_0" UNK_F37BC5E9="125.0" position="[-4338.422, -2443.438, 16.228]">
+            <outro heading="43.36" position="[-4796.073, -2682.251, -13.71818]" />
+            <variations>
+              <variation duration="600000" id="HORSE_POSSE" UNK_5E50CFA2="FME_DD_P_HOUSE_HORSE_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Rathskeller Fork" UNK_BDC4B490="425.0" id="R_FORK_0" UNK_F37BC5E9="125.0" position="[-5209.24, -2133.449, 11.0073]">
+            <outro heading="153.33" position="[-4997.004, -2523.563, -9.58985]" />
+            <variations>
+              <variation duration="600000" id="HORSE_POSSE" UNK_5E50CFA2="FME_DD_R_FORK_HORSE_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Gaptooth Ridge" UNK_BDC4B490="425.0" id="GAPTOOTH_RIDGE_0" UNK_F37BC5E9="125.0" position="[-5235.16, -3000.862, 8.6772]">
+            <outro heading="49.7" position="[-5240.806, -3461.333, -22.55423]" />
+            <variations>
+              <variation duration="600000" id="HORSE_POSSE" UNK_5E50CFA2="FME_DD_GAP_RI_HORSE_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Rio Bravo" UNK_BDC4B490="425.0" id="RIO_BRAVO_0" UNK_F37BC5E9="125.0" position="[-4698.3, -3739.8, 13.2]">
+            <outro heading="0.0" position="[-5387.499, -3655.387, -23.20267]" />
+            <variations>
+              <variation duration="600000" id="HORSE_POSSE" UNK_5E50CFA2="FME_DD_RIO_HORSE_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Pacific Union Railroad" UNK_BDC4B490="425.0" id="PAC_RAIL_0" UNK_F37BC5E9="125.0" position="[-1705.752, -2108.339, 48.1561]">
+            <outro heading="0.0" position="[-1964.101, -1644.712, 116.0225]" />
+            <variations>
+              <variation duration="600000" id="HORSE_POSSE" UNK_5E50CFA2="FME_DD_PACRAIL_HORSE_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Strawberry" UNK_BDC4B490="425.0" id="STRAWBERRY_0" UNK_F37BC5E9="125.0" position="[-1775.876, -439.7199, 154.0021]">
+            <outro heading="0.0" position="[-1087.229, -574.4669, 81.39526]" />
+            <variations>
+              <variation duration="600000" id="HORSE_POSSE" UNK_5E50CFA2="FME_DD_STR_HORSE_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Painted Sky" UNK_BDC4B490="425.0" id="PAINTED_SKY_0" UNK_F37BC5E9="125.0" position="[-618.051, -58.0306, 82.6137]">
+            <outro heading="0.0" position="[-356.8121, -349.1768, 86.79823]" />
+            <variations>
+              <variation duration="600000" id="HORSE_POSSE" UNK_5E50CFA2="FME_DD_PAINT_HORSE_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Braithwaite's Manor" UNK_BDC4B490="425.0" id="BRAITHWAITE_0" UNK_F37BC5E9="125.0" position="[1112.885, -1979.441, 53.3513]">
+            <outro heading="51.46" position="[1874.266, -1844.502, 41.56687]" />
+            <variations>
+              <variation duration="600000" id="HORSE_POSSE" UNK_5E50CFA2="FME_DD_BRAITH_HORSE_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Maclean's House" UNK_BDC4B490="425.0" id="MACLEAN_0" UNK_F37BC5E9="125.0" position="[2112.604, -603.7903, 40.6307]">
+            <outro heading="44.24" position="[2255.503, -132.5709, 45.08184]" />
+            <variations>
+              <variation duration="600000" id="HORSE_POSSE" UNK_5E50CFA2="FME_DD_MCLEAN_HORSE_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Veterans Homestead" UNK_BDC4B490="425.0" id="VETERAN_HOME_0" UNK_F37BC5E9="125.0" position="[1695.094, 1519.863, 145.7104]">
+            <outro heading="150.24" position="[1242.952, 1143.125, 148.8292]" />
+            <variations>
+              <variation duration="600000" id="HORSE_POSSE" UNK_5E50CFA2="FME_DD_VETERAN_HORSE_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMADD" UNK_2EBB9392="FME_DEAD_DROP" />
+      </event>
+      <event UNK_813B03CC="Day of Reckoning" id="ESCAPED_CONVICTS" UNK_A099D518="120000" script="fme_escaped_convicts" UNK_47D6302F="FME_THM_LARGE" type="THEMED" xml="mp_fme_escaped_convicts">
+        <variations>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_GREAT_BH" UNK_813B03CC="Day of Reckoning" UNK_E02C6D8A="false" id="CRIMINAL" UNK_8EA02A51="8" UNK_98FC6B21="ALL_ALLY_NEUTRAL" UNK_954B747D="FME_THEMED_ESCAPED_CONVICTS">
+            <ui blip="BLIP_MP_GAME_MULTI_TARGET" UNK_A843765A="FME_ESC_DESC" UNK_F8954229="FME_ESC_NAME" UNK_BE996A1E="FME_ESC_HELP_RULES" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Strawberry" UNK_BDC4B490="185.0" id="STRAWBERRY" UNK_9C023927="[-1652.304, -437.9156, 161.8631]" UNK_F37BC5E9="40.0" position="[-1776.401, -391.455, 156.2513]">
+            <outro heading="224.2756" position="[-1818.319, -394.8588, 160.5704]" />
+            <variations>
+              <variation duration="600000" id="CRIMINAL" UNK_5E50CFA2="FME_EC_STRAWBERRY_CRIMINAL" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="344.25" id="0" position="[-1652.475, -439.3135, 161.593]" />
+              <UNK_A9D2A01D heading="324.6903" id="1" position="[-1657.729, -436.9315, 161.5857]" />
+              <UNK_A9D2A01D heading="335.2292" id="2" position="[-1657.73, -436.9317, 161.5856]" />
+              <UNK_A9D2A01D heading="24.032" id="3" position="[-1639.786, -444.8499, 160.7141]" />
+              <UNK_A9D2A01D heading="141.3349" id="4" position="[-1637.793, -432.5881, 164.7543]" />
+              <UNK_A9D2A01D heading="30.1213" id="5" position="[-1645.206, -423.0577, 166.1996]" />
+              <UNK_A9D2A01D heading="47.9732" id="6" position="[-1646.298, -439.968, 161.7298]" />
+              <UNK_A9D2A01D heading="47.9732" id="7" position="[-1655.178, -431.5175, 162.7189]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Rhodes" UNK_BDC4B490="185.0" id="RHODES" UNK_9C023927="[1459.552, -1390.047, 77.9514]" UNK_F37BC5E9="40.0" position="[1373.084, -1335.451, 76.6673]">
+            <outro heading="132.3806" position="[1382.573, -1216.118, 81.1541]" />
+            <variations>
+              <variation duration="600000" id="CRIMINAL" UNK_5E50CFA2="FME_EC_RHODES_CRIMINAL" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="187.5001" id="0" position="[1458.155, -1391.076, 77.9963]" />
+              <UNK_A9D2A01D heading="162.0775" id="1" position="[1447.788, -1397.218, 78.2646]" />
+              <UNK_A9D2A01D heading="157.7145" id="2" position="[1456.612, -1405.763, 77.7027]" />
+              <UNK_A9D2A01D heading="86.35" id="3" position="[1465.997, -1401.104, 77.1654]" />
+              <UNK_A9D2A01D heading="178.3012" id="4" position="[1474.417, -1386.539, 77.3481]" />
+              <UNK_A9D2A01D heading="255.3043" id="5" position="[1468.665, -1380.046, 77.6416]" />
+              <UNK_A9D2A01D heading="47.8271" id="6" position="[1457.076, -1375.996, 77.8589]" />
+              <UNK_A9D2A01D heading="166.5025" id="7" position="[1460.876, -1388.74, 77.9076]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Saint Denis" UNK_BDC4B490="185.0" id="SAINT_DENIS" UNK_9C023927="[2503.11, -1308.781, 47.9537]" UNK_F37BC5E9="20.0" position="[2641.684, -1270.172, 51.2663]">
+            <outro heading="119.1495" position="[2643.892, -1275.745, 51.1997]" />
+            <variations>
+              <variation duration="600000" id="CRIMINAL" UNK_5E50CFA2="FME_EC_SAINT_DENIS_CRIMINAL" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="163.3619" id="0" position="[2507.402, -1302.24, 47.9537]" />
+              <UNK_A9D2A01D heading="213.6678" id="1" position="[2504.436, -1303.541, 47.9537]" />
+              <UNK_A9D2A01D heading="176.4522" id="2" position="[2500.284, -1303.948, 47.9537]" />
+              <UNK_A9D2A01D heading="235.773" id="3" position="[2494.938, -1305.213, 47.9537]" />
+              <UNK_A9D2A01D heading="293.1131" id="4" position="[2494.594, -1308.881, 47.9537]" />
+              <UNK_A9D2A01D heading="339.6283" id="5" position="[2494.724, -1312.995, 47.9537]" />
+              <UNK_A9D2A01D heading="358.8913" id="6" position="[2499.17, -1314.5, 47.9537]" />
+              <UNK_A9D2A01D heading="354.2262" id="7" position="[2504.318, -1313.937, 47.9537]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Valentine" UNK_BDC4B490="185.0" id="VALENTINE" UNK_9C023927="[-393.8036, 778.6467, 114.7056]" UNK_F37BC5E9="22.0" position="[-292.4922, 711.522, 114.1042]">
+            <outro heading="95.6352" position="[-341.1325, 783.9601, 114.6801]" />
+            <variations>
+              <variation duration="600000" id="CRIMINAL" UNK_5E50CFA2="FME_EC_VALENTINE_CRIMINAL" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="332.0755" id="0" position="[-385.3332, 790.0197, 114.8704]" />
+              <UNK_A9D2A01D heading="0.2253" id="1" position="[-391.4478, 790.3294, 114.9728]" />
+              <UNK_A9D2A01D heading="294.6448" id="2" position="[-399.4198, 786.0966, 114.8738]" />
+              <UNK_A9D2A01D heading="265.5863" id="3" position="[-397.0889, 774.6024, 114.7351]" />
+              <UNK_A9D2A01D heading="234.6076" id="4" position="[-388.8981, 769.9827, 114.8305]" />
+              <UNK_A9D2A01D heading="190.4426" id="5" position="[-382.7297, 771.3377, 115.1505]" />
+              <UNK_A9D2A01D heading="160.2302" id="6" position="[-388.8503, 777.4796, 114.7285]" />
+              <UNK_A9D2A01D heading="91.7892" id="7" position="[-396.3783, 781.6556, 114.793]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Emerald Ranch" UNK_BDC4B490="185.0" id="EMERALD_RANCH" UNK_9C023927="[1509.965, 436.8953, 88.8262]" UNK_F37BC5E9="40.0" position="[1419.502, 343.581, 108.4275]">
+            <outro heading="106.4586" position="[1430.896, 320.6411, 87.7154]" />
+            <variations>
+              <variation duration="600000" id="CRIMINAL" UNK_5E50CFA2="FME_EC_EMERALD_RANCH_CRIMINAL" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="244.3947" id="0" position="[1492.401, 443.6417, 89.2928]" />
+              <UNK_A9D2A01D heading="254.474" id="1" position="[1496.779, 438.3976, 88.5877]" />
+              <UNK_A9D2A01D heading="117.9455" id="2" position="[1504.738, 442.734, 88.1135]" />
+              <UNK_A9D2A01D heading="304.7319" id="3" position="[1511.996, 443.3108, 88.8121]" />
+              <UNK_A9D2A01D heading="101.3613" id="4" position="[1512.288, 433.8558, 88.7985]" />
+              <UNK_A9D2A01D heading="322.0756" id="5" position="[1522.045, 433.4718, 89.6807]" />
+              <UNK_A9D2A01D heading="40.759" id="6" position="[1526.883, 439.264, 89.6807]" />
+              <UNK_A9D2A01D heading="91.947" id="7" position="[1524.205, 447.2348, 89.6807]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Blackwater" UNK_BDC4B490="185.0" id="BLACKWATER" UNK_9C023927="[-830.7106, -1482.14, 60.4936]" UNK_F37BC5E9="40.0" position="[-799.7792, -1335.906, 43.2559]">
+            <outro heading="89.3266" position="[-743.136, -1243.063, 42.4398]" />
+            <variations>
+              <variation duration="600000" id="CRIMINAL" UNK_5E50CFA2="FME_EC_BLACKWATER_CRIMINAL" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="22.8564" id="0" position="[-847.4503, -1506.988, 63.2975]" />
+              <UNK_A9D2A01D heading="339.209" id="1" position="[-839.4183, -1506.236, 63.0009]" />
+              <UNK_A9D2A01D heading="300.6627" id="2" position="[-834.0206, -1500.95, 63.3319]" />
+              <UNK_A9D2A01D heading="16.5307" id="3" position="[-826.3513, -1494.057, 61.5603]" />
+              <UNK_A9D2A01D heading="22.8564" id="4" position="[-832.0772, -1486.201, 61.8238]" />
+              <UNK_A9D2A01D heading="339.209" id="5" position="[-843.3433, -1480.061, 59.8256]" />
+              <UNK_A9D2A01D heading="300.6627" id="6" position="[-835.9418, -1469.142, 57.3654]" />
+              <UNK_A9D2A01D heading="16.5307" id="7" position="[-856.8751, -1495.503, 61.7571]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Annesburg" UNK_BDC4B490="185.0" id="ANNESBURG" UNK_9C023927="[2865.862, 1284.096, 65.4888]" UNK_F37BC5E9="40.0" position="[2960.185, 1407.133, 43.6213]">
+            <outro heading="128.7293" position="[2879.031, 1413.066, 66.4139]" />
+            <variations>
+              <variation duration="600000" id="CRIMINAL" UNK_5E50CFA2="FME_EC_ANNESBURG_CRIMINAL" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="277.7235" id="0" position="[2865.862, 1284.096, 65.4888]" />
+              <UNK_A9D2A01D heading="277.7235" id="1" position="[2858.451, 1284.338, 69.4924]" />
+              <UNK_A9D2A01D heading="277.7235" id="2" position="[2863.115, 1275.71, 66.4112]" />
+              <UNK_A9D2A01D heading="277.7235" id="3" position="[2875.47, 1286.456, 62.3191]" />
+              <UNK_A9D2A01D heading="212.2857" id="4" position="[2868.279, 1293.514, 65.5736]" />
+              <UNK_A9D2A01D heading="212.2857" id="5" position="[2862.916, 1291.733, 68.8132]" />
+              <UNK_A9D2A01D heading="212.2857" id="6" position="[2856.4, 1289.512, 72.1813]" />
+              <UNK_A9D2A01D heading="212.2857" id="7" position="[2878.384, 1268.998, 60.033]" />
+            </UNK_E793D55C>
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMEESC" UNK_2EBB9392="FME_ROLE_GREATEST_BOUNTY_HUNTER" />
+      </event>
+      <event UNK_813B03CC="Fool's Gold" id="GOLDEN_HAT" script="fme_golden_hat" UNK_47D6302F="FME_STD_MEDIUM" type="STANDARD" xml="golden_hat_data">
+        <variations>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_003_GS" UNK_813B03CC="Standard" UNK_E02C6D8A="true" id="STANDARD_HAT" UNK_8EA02A51="16" UNK_98FC6B21="STANDARD" UNK_954B747D="FME_GOLDEN_HAT">
+            <ui UNK_A843765A="FME_GH_VARIATION_HAT_DESCRIP" UNK_F8954229="GH_NAME" UNK_BE996A1E="GH_HELP_RULES" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Cholla Springs" id="CHOLLA_SPRINGS_00" position="[-3471.746, -2320.276, -4.20793]">
+            <outro heading="137.55" position="[-3462.549, -2265.013, -0.96512]" />
+            <variations>
+              <variation duration="420000" id="STANDARD_HAT" UNK_5E50CFA2="FME_GH_STD_CHOLLA_SPRINGS_00" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Cumberland Forest" id="CUMBERLAND_FOREST_00" position="[539.92, 1275.83, 181.24]">
+            <outro heading="0.0" position="[572.9368, 1273.041, 199.5888]" />
+            <variations>
+              <variation duration="420000" id="STANDARD_HAT" UNK_5E50CFA2="FME_GH_STD_CUMBERLAND_FOREST_00" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Heartlands" id="HEARTLANDS_00" position="[652.5837, 92.60622, 160.7098]">
+            <outro heading="0.0" position="[615.9731, 119.9786, 154.8083]" />
+            <variations>
+              <variation duration="420000" id="STANDARD_HAT" UNK_5E50CFA2="FME_GH_STD_HEARTLANDS_00" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Roanoke Ridge" id="ROANOKE_00" position="[2598.71, 2196.88, 161.34]">
+            <outro heading="126.56" position="[2788.752, 2257.802, 156.0435]" />
+            <variations>
+              <variation duration="420000" id="STANDARD_HAT" UNK_5E50CFA2="FME_GH_STD_ROANOKE_00" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Scarlett Meadows" id="SCARLETT_MEADOWS_00" position="[1741.958, -393.9594, 48.27352]">
+            <outro heading="38.22" position="[1769.814, -459.2044, 44.59901]" />
+            <variations>
+              <variation duration="420000" id="STANDARD_HAT" UNK_5E50CFA2="FME_GH_STD_SCARLETT_MEADOWS_00" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Tall Trees" id="TALL_TREES_00" position="[-2044.121, -1877.192, 111.0197]">
+            <outro heading="176.46" position="[-2037.281, -1905.318, 109.1298]" />
+            <variations>
+              <variation duration="420000" id="STANDARD_HAT" UNK_5E50CFA2="FME_GH_STD_TALL_TREES_00" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="West Elizabeth" id="WEST_ELIZABETH_00" position="[-1774.5, -588.0, 151.0197]">
+            <outro heading="0.0" position="[-1819.566, -599.4734, 153.6569]" />
+            <variations>
+              <variation duration="420000" id="STANDARD_HAT" UNK_5E50CFA2="FME_GH_STD_WEST_ELIZABETH_00" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Saint Denis" id="SAINT_DENIS_00" position="[2649.58, -1179.61, 52.2]">
+            <outro heading="179.79" position="[2643.28, -1178.167, 52.3041]" />
+            <variations>
+              <variation duration="420000" id="STANDARD_HAT" UNK_5E50CFA2="FME_GH_STD_SAINT_DENIS_00" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Blackwater" UNK_BDC4B490="120.0" id="BLACKWATER_00" UNK_F37BC5E9="120.0" position="[-864.77, -1313.9, 42.01]">
+            <outro heading="0.0" position="[-800.2693, -1290.996, 42.53787]" />
+            <variations>
+              <variation duration="420000" id="STANDARD_HAT" UNK_5E50CFA2="FME_GH_STD_BLACKWATER_00" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Valentine" id="VALENTINE_00" position="[-266.78, 773.32, 117.18]">
+            <outro heading="99.56" position="[-296.5003, 791.1699, 117.4408]" />
+            <variations>
+              <variation duration="420000" id="STANDARD_HAT" UNK_5E50CFA2="FME_GH_STD_VALENTINE_00" />
+            </variations>
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMGH" UNK_2EBB9392="FME_GOLDEN_HAT" />
+      </event>
+      <event UNK_813B03CC="Cold Dead Hands" id="HOT_PROPERTY" script="fme_hot_property" UNK_47D6302F="FME_STD_SMALL" type="STANDARD">
+        <variations>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_HOT_PROPERTY" UNK_813B03CC="Bag - Team" id="BAG_POSSE" UNK_8EA02A51="16" UNK_98FC6B21="STANDARD" UNK_954B747D="FME_HOT_PROPERTY">
+            <ui UNK_A843765A="HP_SHARD_INTRO" UNK_F8954229="HP_INTRO" UNK_BE996A1E="HP_HELP_RULES" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Valentine" id="VALENTINE_0" position="[-234.7369, 746.3298, 116.7152]">
+            <outro heading="99.56" position="[-296.5003, 791.1699, 117.4408]" />
+            <variations>
+              <variation id="BAG_POSSE" UNK_5E50CFA2="FME_HP_VAL_BAG_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="90.0" UNK_45F1CCA1="140.0" />
+          </location>
+          <location UNK_813B03CC="Fort Mercer" id="FORT_MERCER_0" position="[-4223.4, -3451.7, 37.1]">
+            <outro heading="0.0" position="[-4183.091, -3415.212, 36.08795]" />
+            <variations>
+              <variation id="BAG_POSSE" UNK_5E50CFA2="FME_HP_RF_BAG_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="90.0" UNK_45F1CCA1="140.0" />
+          </location>
+          <location UNK_813B03CC="Twin Rocks" id="TWIN_ROCKS_0" position="[-3962.651, -2137.775, -6.1994]">
+            <outro heading="145.58" position="[-3966.913, -2147.666, -6.93556]" />
+            <variations>
+              <variation id="BAG_POSSE" UNK_5E50CFA2="FME_HP_TR_BAG_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="90.0" UNK_45F1CCA1="140.0" />
+          </location>
+          <location UNK_813B03CC="Armadillo" id="ARMADILLO_0" position="[-3680.661, -2622.226, -14.3984]">
+            <outro heading="87.93" position="[-3675.318, -2610.996, -15.08434]" />
+            <variations>
+              <variation id="BAG_POSSE" UNK_5E50CFA2="FME_HP_ARMADILLO_BAG_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="90.0" UNK_45F1CCA1="140.0" />
+          </location>
+          <location UNK_813B03CC="MacFarlane Ranch" id="MAC_FAR_0" position="[-2325.526, -2407.506, 62.8288]">
+            <outro heading="143.88" position="[-2331.116, -2415.05, 61.29492]" />
+            <variations>
+              <variation id="BAG_POSSE" UNK_5E50CFA2="FME_HP_MF_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="90.0" UNK_45F1CCA1="140.0" />
+          </location>
+          <location UNK_813B03CC="Caliga Hall" id="CALIGA_HALL_0" position="[1821.759, -1433.076, 41.4104]">
+            <outro heading="110.75" position="[1716.196, -1381.408, 42.8718]" />
+            <variations>
+              <variation id="BAG_POSSE" UNK_5E50CFA2="FME_HP_SP_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="90.0" UNK_45F1CCA1="130.0" />
+          </location>
+          <location UNK_813B03CC="Tumbleweed" id="TUMBLEWEED_0" position="[-5527.001, -2955.029, -1.7166]">
+            <outro heading="0.0" position="[-5525.951, -2935.228, -2.96089]" />
+            <variations>
+              <variation id="BAG_POSSE" UNK_5E50CFA2="FME_HP_TUMBLE_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="90.0" UNK_45F1CCA1="140.0" />
+          </location>
+          <location UNK_813B03CC="Van Horn" id="VAN_HORN_0" position="[2964.969, 572.1847, 43.5104]">
+            <outro heading="0.0" position="[2958.691, 528.3759, 43.51057]" />
+            <variations>
+              <variation id="BAG_POSSE" UNK_5E50CFA2="FME_HP_ANNE_BAG_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="90.0" UNK_45F1CCA1="140.0" />
+          </location>
+          <location UNK_813B03CC="Saint Denis Market" id="SAINT_DENIS_0" position="[2840.898, -1211.625, 46.6488]">
+            <outro heading="70.2189" position="[2822.187, -1226.869, 46.5681]" />
+            <variations>
+              <variation id="BAG_POSSE" UNK_5E50CFA2="FME_HP_HOT_SPRINGS_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="90.0" UNK_45F1CCA1="140.0" />
+          </location>
+          <location UNK_813B03CC="Blackwater" id="BLACKWATER_0" position="[-799.8483, -1337.438, 42.5418]">
+            <outro heading="0.0" position="[-800.2693, -1290.996, 42.53787]" />
+            <variations>
+              <variation id="BAG_POSSE" UNK_5E50CFA2="FME_HP_AURORA_BAG_POSSE" />
+            </variations>
+            <UNK_8544B5A7 UNK_16A45414="90.0" UNK_45F1CCA1="140.0" />
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMPP" UNK_2EBB9392="FME_HOT_PROPERTY" />
+      </event>
+      <event UNK_813B03CC="King of the Castle" id="KING_OF_THE_CASTLE" script="fme_king_of_the_castle" UNK_47D6302F="FME_STD_LARGE" type="STANDARD">
+        <variations>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_KING_OF_THE_CASTLE" UNK_813B03CC="Standard Moving" id="MOVING_TEAM" UNK_8EA02A51="16" UNK_98FC6B21="STANDARD" UNK_954B747D="FME_KING_OF_THE_CASTLE">
+            <ui UNK_A843765A="FME_KOTC_SHARD_INTRO_PRIMARY" UNK_F8954229="FME_KOTC_VARIATION_FFA_NAME" UNK_BE996A1E="KC_HELP_RULES" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Armadillo" id="ARMADILLO" UNK_F37BC5E9="115.0" position="[-3675.57, -2615.46, -14.69]">
+            <outro heading="87.93" position="[-3675.318, -2610.996, -15.08434]" />
+            <variations>
+              <variation duration="600000" id="MOVING_TEAM" UNK_5E50CFA2="FME_KOTC_ARM_MOVING_TEAM" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="MacFarlane's Ranch" id="MACFARLANES_RANCH" UNK_F37BC5E9="130.0" position="[-2397.17, -2415.37, 62.2]">
+            <outro heading="143.88" position="[-2331.116, -2415.05, 61.29492]" />
+            <variations>
+              <variation duration="600000" id="MOVING_TEAM" UNK_5E50CFA2="FME_KOTC_MACFAR_MOVING_TEAM" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Tumbleweed" id="TUMBLEWEED" UNK_F37BC5E9="130.0" position="[-5525.15, -2941.08, -3.095]">
+            <outro heading="0.0" position="[-5525.951, -2935.228, -2.96089]" />
+            <variations>
+              <variation duration="600000" id="MOVING_TEAM" UNK_5E50CFA2="FME_KOTC_TUMBLE_MOVING_TEAM" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Gaptooth Breach" id="GAPTOOTH" UNK_F37BC5E9="145.0" position="[-5970.395, -3240.57, -22.55]">
+            <outro heading="0.0" position="[-5983.633, -3239.925, -22.57173]" />
+            <variations>
+              <variation duration="600000" id="MOVING_TEAM" UNK_5E50CFA2="FME_KOTC_GAPTOOTH_MOVING_TEAM" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Thieves Landing" id="THIEVES_LANDING" UNK_F37BC5E9="120.0" position="[-1405.31, -2286.79, 42.03]">
+            <outro heading="92.92" position="[-1412.065, -2290.526, 42.09809]" />
+            <variations>
+              <variation duration="600000" id="MOVING_TEAM" UNK_5E50CFA2="FME_KOTC_THIEVES_MOVING_TEAM" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="St. Denis West" id="DENIS_TOWN_HALL" UNK_F37BC5E9="140.0" position="[2382.9, -1275.2, 55.7]">
+            <outro heading="0.0" position="[2399.828, -1267.262, 44.67586]" />
+            <variations>
+              <variation duration="600000" id="MOVING_TEAM" UNK_5E50CFA2="FME_KOTC_DENIS_TH_MOVING_TEAM" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="St. Denis East" id="DENIS_ALLEYWAY" UNK_F37BC5E9="210.0" position="[2715.5, -1241.7, 51.9]">
+            <outro heading="54.43" position="[2722.366, -1250.978, 48.92285]" />
+            <variations>
+              <variation duration="600000" id="MOVING_TEAM" UNK_5E50CFA2="FME_KOTC_DENIS_AW_MOVING_TEAM" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Valentine" id="VALENTINE" UNK_F37BC5E9="150.0" position="[-289.5, 743.5, 114.9]">
+            <outro heading="99.56" position="[-296.5003, 791.1699, 117.4408]" />
+            <variations>
+              <variation duration="600000" id="MOVING_TEAM" UNK_5E50CFA2="FME_KOTC_VALENTINE_MOVING_TEAM" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Braithwaite's Barn" id="BRAITHWAITES_BARN" UNK_F37BC5E9="150.0" position="[991.5, -1946.5, 48.9]">
+            <outro heading="0.0" position="[992.7867, -2000.651, 46.57476]" />
+            <variations>
+              <variation duration="600000" id="MOVING_TEAM" UNK_5E50CFA2="FME_KOTC_BW_BARN_MOVING_TEAM" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Blackwater" id="BLACKWATER_SHACKS" UNK_F37BC5E9="135.0" position="[-812.5, -1302.5, 42.6]">
+            <outro heading="0.0" position="[-800.2693, -1290.996, 42.53787]" />
+            <variations>
+              <variation duration="600000" id="MOVING_TEAM" UNK_5E50CFA2="FME_KOTC_SHACKS_MOVING_TEAM" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Caliga" id="CALIGA_HEDGES" UNK_F37BC5E9="135.0" position="[1833.5, -1337.5, 42.01]">
+            <outro heading="0.0" position="[1792.159, -1354.194, 42.87078]" />
+            <variations>
+              <variation duration="600000" id="MOVING_TEAM" UNK_5E50CFA2="FME_KOTC_C_HEDGE_MOVING_TEAM" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Emerald Ranch" id="EMERALD_BARN" UNK_F37BC5E9="100.0" position="[1405.5, 307.5, 88.5]">
+            <outro heading="93.29" position="[1432.294, 320.3217, 87.76939]" />
+            <variations>
+              <variation duration="600000" id="MOVING_TEAM" UNK_5E50CFA2="FME_KOTC_EMERALD_MOVING_TEAM" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Cornwall" id="CORNWALL" UNK_F37BC5E9="130.0" position="[533.5, 643.5, 110.5]">
+            <outro heading="0.0" position="[482.0456, 661.4988, 116.3969]" />
+            <variations>
+              <variation duration="600000" id="MOVING_TEAM" UNK_5E50CFA2="FME_KOTC_CORNWALL_MOVING_TEAM" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Annesburg" id="ANNESBURG" UNK_F37BC5E9="130.0" position="[2940.5, 1373.5, 52.6]">
+            <outro heading="158.87" position="[2926.904, 1326.234, 43.09333]" />
+            <variations>
+              <variation duration="600000" id="MOVING_TEAM" UNK_5E50CFA2="FME_KOTC_ANNESBURG_MOVING_TEAM" />
+            </variations>
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMEKOTC" UNK_2EBB9392="FME_KING_OF_THE_CASTLE" />
+      </event>
+      <event UNK_813B03CC="Railroad Baron" id="KING_OF_THE_RAILS" script="fme_king_of_the_rails" UNK_47D6302F="FME_STD_MEDIUM" type="STANDARD">
+        <variations>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_KING_RAILS" UNK_813B03CC="Standard" id="STANDARD" UNK_8EA02A51="12" UNK_98FC6B21="STANDARD" UNK_954B747D="FME_KING_OF_THE_RAILS">
+            <UNK_8544B5A7 on_mount="true" />
+            <ui UNK_A843765A="FME_KOTR_SHARD_INTRO" UNK_F8954229="FME_KOTR_NAME" UNK_BE996A1E="FME_KOTR_HELP_RULES" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Annesburg" id="ANNESBURG" UNK_F37BC5E9="300.0" position="[2978.22, 1344.3, 42.9411]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_KOTR_ANN_STD" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Emerald Ranch" id="EMERALD" UNK_F37BC5E9="300.0" position="[1529.58, 426.032, 89.3841]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_KOTR_EME_STD" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Flatneck" id="FLATNECK" UNK_F37BC5E9="300.0" position="[-341.482, -350.291, 86.7537]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_KOTR_WAL_STD" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Riggs" id="RIGGS" UNK_F37BC5E9="300.0" position="[-1062.33, -606.89, 77.5939]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_KOTR_RIG_STD" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Rhodes" id="RHODES" UNK_F37BC5E9="300.0" position="[1195.291, -1280.394, 75.59496]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_KOTR_RHO_STD" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="St. Denis" id="SAINT_DENIS" UNK_F37BC5E9="300.0" position="[2752.25, -1437.35, 45.0192]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_KOTR_SAI_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="51.4" id="0" position="[2600.325, -1453.522, 45.47065]" />
+              <UNK_A9D2A01D heading="0.0" id="1" position="[2523.098, -1346.735, 46.00889]" />
+              <UNK_A9D2A01D heading="39.37" id="2" position="[2603.825, -1366.875, 45.2699]" />
+              <UNK_A9D2A01D heading="131.01" id="3" position="[2647.442, -1387.494, 45.49326]" />
+              <UNK_A9D2A01D heading="128.48" id="4" position="[2660.942, -1330.786, 47.94793]" />
+              <UNK_A9D2A01D heading="93.55" id="5" position="[2627.062, -1235.118, 52.25067]" />
+              <UNK_A9D2A01D heading="0.0" id="6" position="[2510.485, -1322.331, 47.51104]" />
+              <UNK_A9D2A01D heading="0.0" id="7" position="[2851.133, -1244.567, 46.6609]" />
+              <UNK_A9D2A01D heading="64.68" id="8" position="[2755.901, -1220.289, 48.56168]" />
+              <UNK_A9D2A01D heading="55.04" id="9" position="[2741.851, -1282.253, 47.7841]" />
+              <UNK_A9D2A01D heading="99.28" id="10" position="[2925.434, -1230.018, 41.27721]" />
+              <UNK_A9D2A01D heading="6.92" id="11" position="[2533.72, -1494.531, 44.97376]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Valentine" id="VALENTINE" UNK_F37BC5E9="300.0" position="[-136.939, 659.541, 112.673]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_KOTR_VAL_STD" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="MacFarlanes Ranch" id="MACFARLANES" UNK_F37BC5E9="300.0" position="[-2509.47, -2400.88, 59.4121]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_KOTR_MAC_STD" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Armadillo" id="ARMADILLO" UNK_F37BC5E9="300.0" position="[-3749.3, -2645.55, -14.7647]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_KOTR_ARM_STD" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Benedict Point" id="BENEDICT_POINT" UNK_F37BC5E9="300.0" position="[-5242.14, -3510.72, -22.0345]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_KOTR_BEN_STD" />
+            </variations>
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMEKOTR" UNK_2EBB9392="FME_KING_OF_THE_RAIL" />
+      </event>
+      <event UNK_813B03CC="Posse Versus - Herbalist" id="PV_CHALLENGE_HERBALIST" UNK_A099D518="5000" script="fme_challenges" UNK_47D6302F="FME_PV_LARGE" type="POSSE_VERSUS">
+        <variations>
+          <variation UNK_813B03CC="Herbs" id="PV_HERBALIST" UNK_8EA02A51="16" UNK_98FC6B21="STANDARD_SEAMLESS" UNK_954B747D="PV_CHALLENGE_HERBS">
+            <ui UNK_A843765A="FMECHAL_VARIATION_HERBALIST_OBJECTIVE" UNK_F8954229="FMECHAL_VARIATION_HERBALIST_NAME" UNK_BE996A1E="FMECHAL_VARIATION_HERBALIST_HELP_RULES" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Main - Herbalist" id="MAIN_HERBALIST_00" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation id="PV_HERBALIST" UNK_5E50CFA2="PV_CHALLENGE_HERBALIST_MAIN_00" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Main - Herbalist" id="MAIN_HERBALIST_01" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation id="PV_HERBALIST" UNK_5E50CFA2="PV_CHALLENGE_HERBALIST_MAIN_01" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Main - Herbalist" id="MAIN_HERBALIST_02" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation id="PV_HERBALIST" UNK_5E50CFA2="PV_CHALLENGE_HERBALIST_MAIN_02" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Main - Herbalist" id="MAIN_HERBALIST_03" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation id="PV_HERBALIST" UNK_5E50CFA2="PV_CHALLENGE_HERBALIST_MAIN_03" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Main - Herbalist" id="MAIN_HERBALIST_04" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation id="PV_HERBALIST" UNK_5E50CFA2="PV_CHALLENGE_HERBALIST_MAIN_04" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Main - Herbalist" id="MAIN_HERBALIST_05" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation id="PV_HERBALIST" UNK_5E50CFA2="PV_CHALLENGE_HERBALIST_MAIN_05" />
+            </variations>
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMECHAL" UNK_2EBB9392="TOAST_MP_FREEMODE_CHALLENGE" UNK_F3E6667F="hud_toasts" />
+      </event>
+      <event UNK_813B03CC="Posse Versus - Biggest Fish" id="PV_CHALLENGE_BIGGEST_FISH" UNK_A099D518="5000" script="fme_challenges" UNK_47D6302F="FME_PV_LARGE" type="POSSE_VERSUS">
+        <variations>
+          <variation UNK_813B03CC="Biggest Fish Challenge" id="PV_BIGGEST_FISH" UNK_8EA02A51="16" UNK_98FC6B21="ALL_ALLY_STANDARD_SEAMLESS" UNK_954B747D="PV_CHALLENGE_FISHING">
+            <ui UNK_A843765A="FMECHAL_VARIATION_BIGGEST_FISH_OBJECTIVE" UNK_F8954229="FMECHAL_VARIATION_BIGGEST_FISH_NAME" UNK_BE996A1E="FMECHAL_VARIATION_BIGGEST_FISH_HELP_RULES" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Main - Biggest Fish" id="MAIN_BIGGEST_FISH_00" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation duration="600000" id="PV_BIGGEST_FISH" UNK_5E50CFA2="PV_CHALLENGE_BIGGEST_FISH_MAIN_00" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Main - Biggest Fish" id="MAIN_BIGGEST_FISH_01" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation duration="600000" id="PV_BIGGEST_FISH" UNK_5E50CFA2="PV_CHALLENGE_BIGGEST_FISH_MAIN_01" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Main - Biggest Fish" id="MAIN_BIGGEST_FISH_02" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation duration="600000" id="PV_BIGGEST_FISH" UNK_5E50CFA2="PV_CHALLENGE_BIGGEST_FISH_MAIN_02" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Main - Biggest Fish" id="MAIN_BIGGEST_FISH_03" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation duration="600000" id="PV_BIGGEST_FISH" UNK_5E50CFA2="PV_CHALLENGE_BIGGEST_FISH_MAIN_03" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Main - Biggest Fish" id="MAIN_BIGGEST_FISH_04" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation duration="600000" id="PV_BIGGEST_FISH" UNK_5E50CFA2="PV_CHALLENGE_BIGGEST_FISH_MAIN_04" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Main - Biggest Fish" id="MAIN_BIGGEST_FISH_05" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation duration="600000" id="PV_BIGGEST_FISH" UNK_5E50CFA2="PV_CHALLENGE_BIGGEST_FISH_MAIN_05" />
+            </variations>
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMECHAL" UNK_2EBB9392="TOAST_MP_FREEMODE_CHALLENGE" UNK_F3E6667F="hud_toasts" />
+      </event>
+      <event UNK_813B03CC="Posse Versus - Challenges" id="PV_CHALLENGE_FLYING_BIRD" UNK_A099D518="5000" script="fme_challenges" UNK_47D6302F="FME_PV_LARGE" type="POSSE_VERSUS">
+        <variations>
+          <variation UNK_813B03CC="Flying Bird Kills Challenge" id="PV_FLYING_BIRD" UNK_8EA02A51="16" UNK_98FC6B21="STANDARD_SEAMLESS" UNK_954B747D="PV_CHALLENGE_FLYING_BIRDS">
+            <ui UNK_A843765A="FMECHAL_VARIATION_FLYING_BIRD_OBJECTIVE" UNK_F8954229="FMECHAL_VARIATION_FLYING_BIRD_NAME" UNK_BE996A1E="FMECHAL_VARIATION_FLYING_BIRD_HELP_RULES" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Main - Flying Birds" id="MAIN_FLYING_BIRD_00" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation id="PV_FLYING_BIRD" UNK_5E50CFA2="PV_CHALLENGE_FLYING_BIRD_MAIN_00" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Main - Flying Birds" id="MAIN_FLYING_BIRD_01" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation id="PV_FLYING_BIRD" UNK_5E50CFA2="PV_CHALLENGE_FLYING_BIRD_MAIN_01" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Main - Flying Birds" id="MAIN_FLYING_BIRD_02" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation id="PV_FLYING_BIRD" UNK_5E50CFA2="PV_CHALLENGE_FLYING_BIRD_MAIN_02" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Main - Flying Birds" id="MAIN_FLYING_BIRD_03" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation id="PV_FLYING_BIRD" UNK_5E50CFA2="PV_CHALLENGE_FLYING_BIRD_MAIN_03" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Main - Flying Birds" id="MAIN_FLYING_BIRD_04" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation id="PV_FLYING_BIRD" UNK_5E50CFA2="PV_CHALLENGE_FLYING_BIRD_MAIN_04" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Main - Flying Birds" id="MAIN_FLYING_BIRD_05" UNK_F37BC5E9="0.0" position="[0.0, 0.0, 0.0]">
+            <variations>
+              <variation id="PV_FLYING_BIRD" UNK_5E50CFA2="PV_CHALLENGE_FLYING_BIRD_MAIN_05" />
+            </variations>
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMECHAL" UNK_2EBB9392="TOAST_MP_FREEMODE_CHALLENGE" UNK_F3E6667F="hud_toasts" />
+      </event>
+      <event UNK_813B03CC="Posse Versus - Hunt the Leader" id="HUNT_THE_POSSE_LEADER" script="pv_hunt_the_posse" UNK_47D6302F="FME_PV_MEDIUM" type="POSSE_VERSUS">
+        <variations>
+          <variation UNK_813B03CC="Standard" id="STANDARD" UNK_98FC6B21="STANDARD" UNK_954B747D="PV_HUNT_POSSE_LEADER">
+            <ui UNK_A843765A="FMTRES_SHARD_INTRO_BODY" UNK_F8954229="HTP_NAME" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Saint Denis Market" id="HTP_SAINT_DENIS_0" UNK_F37BC5E9="120.0" position="[2818.24, -1177.115, 46.3389]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_SAINT_DENIS_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Annesburg" id="HTP_ANNESBURG_0" UNK_F37BC5E9="150.0" position="[2894.87, 1354.069, 61.7467]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_ANNESBURG_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Veteran Home" id="HTP_VETERAN_HOME_0" UNK_F37BC5E9="150.0" position="[1764.075, 1678.536, 177.2966]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_VETERAN_HOME_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Cornwall" id="HTP_CORNWALL_0" UNK_F37BC5E9="120.0" position="[502.0966, 632.779, 110.1118]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_CORNWALL_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Colter" id="HTP_COLTER_0" UNK_F37BC5E9="150.0" position="[-1282.901, 2404.042, 304.6826]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_COLTER_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Big Valley Mountain" id="HTP_BIG_VALLEY_MTN_0" UNK_F37BC5E9="150.0" position="[-2396.062, 6.989, 208.2551]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_BIG_VALLEY_MTN_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Appleseed" id="HTP_APPLESEED_0" UNK_F37BC5E9="120.0" position="[-1246.097, -229.3028, 96.909]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_APPLESEED_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Tall Trees" id="HTP_TALL_TREES_0" UNK_F37BC5E9="120.0" position="[-2164.069, -1275.822, 129.021]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_TALL_TREES_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Hennigan's Stead" id="HTP_HENNIGAN_STEAD_0" UNK_F37BC5E9="150.0" position="[-2391.323, -2410.157, 60.0638]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_HENNIGAN_STEAD_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="East Twin Rocks - Cholla Springs" id="HTP_EAST_TWIN_ROCKS_0" UNK_F37BC5E9="150.0" position="[-3453.147, -1993.629, 3.7106]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_CHOLLA_SPRINGS_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Tumbleweed" id="HTP_GAPTOOTH_RIDGE_0" UNK_F37BC5E9="150.0" position="[-5533.852, -2938.937, -2.8425]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_GAPTOOTH_RIDGE_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Rio Bravo" id="HTP_RIO_BRAVO_0" UNK_F37BC5E9="180.0" position="[-5014.136, -3753.063, -2.3902]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_RIO_BRAVO_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Van Horn" id="HTP_VAN_HORN_0" UNK_F37BC5E9="120.0" position="[2927.966, 506.012, 45.5849]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_VAN_HORN_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Saint Denis Rail Yard" id="HTP_SAINT_DENIS_1" UNK_F37BC5E9="120.0" position="[2331.41, -1463.448, 44.9335]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_SAINT_DENIS_1" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Caliga Hall" id="HTP_CALIGA_0" UNK_F37BC5E9="120.0" position="[1834.397, -1339.991, 43.0631]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_CALIGA_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Civil War Battlefield" id="HTP_BATTLEFIELD_0" UNK_F37BC5E9="120.0" position="[1488.844, -1815.665, 53.1663]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_BATTLEFIELD_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Rhodes" id="HTP_RHODES_0" UNK_F37BC5E9="120.0" position="[1365.446, -1324.661, 76.3504]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_RHODES_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Fort Wallace" id="HTP_FORT_WALLACE_0" UNK_F37BC5E9="90.0" position="[345.648, 1487.606, 178.6479]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_FORT_WALLACE_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Dakota River" id="HTP_DAKOTA_RIVER_0" UNK_F37BC5E9="140.0" position="[-422.143, -79.3692, 40.4525]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_DAKOTA_RIVER_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Strawberry" id="HTP_STRAWBERRY_0" UNK_F37BC5E9="120.0" position="[-1791.647, -404.0171, 152.7704]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_STRAWBERRY_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Blackwater" id="HTP_BLACKWATER_0" UNK_F37BC5E9="120.0" position="[-836.9051, -1317.122, 42.553]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_BLACKWATER_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Armadillo" id="HTP_ARMADILLO_0" UNK_F37BC5E9="120.0" position="[-3687.31, -2610.165, -15.0943]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_ARMADILLO_0" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Fort Mercer" id="HTP_FORT_MERCER_0" UNK_F37BC5E9="90.0" position="[-4224.143, -3453.6, 36.0818]">
+            <variations>
+              <variation id="STANDARD" UNK_5E50CFA2="PV_HTPL_FORT_MERCER_0" />
+            </variations>
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMHTP" UNK_2EBB9392="FME_PENNED_IN" />
+      </event>
+      <event UNK_813B03CC="Treasure Hunt" id="TREASURE_HUNT" UNK_A099D518="30000" script="fme_treasure_hunt" UNK_47D6302F="FME_STD_MEDIUM" type="STANDARD" xml="mp_fme_treasure_hunt">
+        <UNK_AEB5FB6F>
+          <pool id="STANDARD" />
+        </UNK_AEB5FB6F>
+        <variations>
+          <variation UNK_7864DBE8="" UNK_813B03CC="Standard" UNK_E02C6D8A="false" id="STANDARD" UNK_8EA02A51="12" UNK_98FC6B21="STANDARD" UNK_954B747D="FME_TREASURE_HUNT">
+            <ui UNK_A843765A="FME_TH_SHARD_OBJECTIVE" UNK_F8954229="FME_TH_NAME" UNK_BE996A1E="FME_TH_DESC" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Roanoke Valley" id="ROANOKE_VALLEY" UNK_F37BC5E9="900.0" position="[2321.096, 1689.131, 97.2294]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_DD_VETERAN_HORSE_POSSE" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Cumberland Falls" id="CUMBERLAND_FALLS" UNK_F37BC5E9="900.0" position="[-1319.729, 472.345, 90.332]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_DD_VETERAN_HORSE_POSSE" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Tall Trees" id="TALL_TREES" UNK_F37BC5E9="900.0" position="[-2245.236, -1515.17, 144.0271]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_DD_VETERAN_HORSE_POSSE" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Butcher Creek" id="BUTCHER_CREEK" UNK_F37BC5E9="900.0" position="[2667.732, 619.5002, 77.8507]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_DD_VETERAN_HORSE_POSSE" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Lagras" id="LAGRAS" UNK_F37BC5E9="900.0" position="[2406.768, -663.9789, 41.1746]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_DD_VETERAN_HORSE_POSSE" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Braithwaite Field" id="BRAITHWAITE_FIELD" UNK_F37BC5E9="900.0" position="[1030.852, -1983.83, 45.1384]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_DD_VETERAN_HORSE_POSSE" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Mining Town" id="MINING_TOWN" UNK_F37BC5E9="900.0" position="[-1908.504, 1344.077, 200.9193]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_DD_VETERAN_HORSE_POSSE" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Dakota River" id="DAKOTA_RIVER" UNK_F37BC5E9="900.0" position="[-1181.588, 139.4564, 39.7272]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_DD_VETERAN_HORSE_POSSE" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Horseshoe Overlook" id="HORSESHOE_OVERLOOK" UNK_F37BC5E9="900.0" position="[-57.1972, 61.735, 88.5186]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_DD_VETERAN_HORSE_POSSE" />
+            </variations>
+          </location>
+          <location UNK_813B03CC="Compsons Stead" id="COMPSONS_STEAD" UNK_F37BC5E9="900.0" position="[1258.713, -237.361, 97.6991]">
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_DD_VETERAN_HORSE_POSSE" />
+            </variations>
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMETH" UNK_2EBB9392="FME_DEAD_DROP" />
+      </event>
+      <event UNK_813B03CC="Salvage" id="WRECKAGE" UNK_A099D518="120000" script="fme_wreckage" UNK_47D6302F="FME_THM_MEDIUM" type="THEMED" xml="mp_fme_wreckage">
+        <variations>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_WRECKAGE" UNK_813B03CC="Standard" UNK_E02C6D8A="false" id="STANDARD" UNK_8EA02A51="12" UNK_549D9B47="1" UNK_964EFFB6="1" UNK_98FC6B21="ALL_ALLY_NEUTRAL" UNK_954B747D="FME_THEMED_WRECKAGE">
+            <UNK_8544B5A7 on_mount="true" />
+            <ui UNK_A843765A="FME_WK_SHARD_OBJECTIVE" UNK_F8954229="FME_WK_NAME" UNK_BE996A1E="FME_WK_HELP_RULES" UNK_3FE9A890="FME_WK_HELP_RULES_BONUS" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Flat Iron Lake" UNK_BDC4B490="525.0" id="FLAT_IRON_LAKE" UNK_9C023927="[-502.29, -66.24, 46.85]" UNK_F37BC5E9="40.0" position="[-676.0, -424.0, 42.5]" UNK_E98DAC69="[-866.7, -507.29, 80.9]" UNK_FB7ED79A="[-8.8882, 0.0, -99.9924]">
+            <outro heading="359.1575" position="[-768.9731, -693.5415, 50.5969]" />
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_WK_FIL_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="233.9994" id="0" position="[-482.3631, -58.7551, 43.0776]" />
+              <UNK_A9D2A01D heading="223.5482" id="1" position="[-487.6834, -63.4135, 43.2616]" />
+              <UNK_A9D2A01D heading="218.3906" id="2" position="[-499.4251, -69.0257, 43.6828]" />
+              <UNK_A9D2A01D heading="239.7102" id="3" position="[-503.6019, -72.8539, 43.6644]" />
+              <UNK_A9D2A01D heading="224.1912" id="4" position="[-509.3582, -77.9698, 43.9994]" />
+              <UNK_A9D2A01D heading="201.132" id="5" position="[-515.408, -81.7524, 44.3498]" />
+              <UNK_A9D2A01D heading="219.1223" id="6" position="[-523.6059, -78.0821, 46.9438]" />
+              <UNK_A9D2A01D heading="216.0285" id="7" position="[-521.4024, -74.423, 47.4416]" />
+              <UNK_A9D2A01D heading="220.1637" id="8" position="[-515.3324, -68.4058, 47.2112]" />
+              <UNK_A9D2A01D heading="229.3055" id="9" position="[-511.2372, -65.5782, 46.2937]" />
+              <UNK_A9D2A01D heading="227.808" id="10" position="[-506.324, -60.2783, 46.0881]" />
+              <UNK_A9D2A01D heading="223.0601" id="11" position="[-496.3722, -50.7467, 44.4727]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Gaptooth Ridge" UNK_BDC4B490="575.0" id="GAPTOOTH_RIDGE" UNK_9C023927="[-5327.419, -2607.914, -12.1287]" UNK_F37BC5E9="40.0" position="[-5045.0, -2608.0, -9.232]" UNK_E98DAC69="[-5073.97, -2532.958, 14.8755]" UNK_FB7ED79A="[-21.732, 0.0007, -136.5493]">
+            <outro heading="359.1575" position="[-5048.401, -2597.735, -12.784]" />
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_WK_GTR_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="267.8517" id="0" position="[-5310.69, -2596.566, -12.1041]" />
+              <UNK_A9D2A01D heading="268.9951" id="1" position="[-5309.847, -2603.201, -11.7445]" />
+              <UNK_A9D2A01D heading="269.0663" id="2" position="[-5310.955, -2607.237, -11.7878]" />
+              <UNK_A9D2A01D heading="268.9561" id="3" position="[-5311.529, -2612.624, -11.6518]" />
+              <UNK_A9D2A01D heading="268.6044" id="4" position="[-5315.97, -2616.24, -11.4666]" />
+              <UNK_A9D2A01D heading="268.809" id="5" position="[-5319.521, -2613.203, -11.8764]" />
+              <UNK_A9D2A01D heading="266.4864" id="6" position="[-5319.877, -2608.653, -12.2113]" />
+              <UNK_A9D2A01D heading="263.0447" id="7" position="[-5323.082, -2601.16, -12.0132]" />
+              <UNK_A9D2A01D heading="263.3342" id="8" position="[-5326.885, -2605.979, -12.1515]" />
+              <UNK_A9D2A01D heading="263.3369" id="9" position="[-5327.693, -2611.881, -12.0389]" />
+              <UNK_A9D2A01D heading="272.8478" id="10" position="[-5330.519, -2618.161, -11.9812]" />
+              <UNK_A9D2A01D heading="276.0031" id="11" position="[-5335.958, -2609.29, -11.9102]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Roanoke Valley" UNK_BDC4B490="525.0" id="ROANOKE_VALLEY" UNK_9C023927="[2583.462, 1499.997, 84.3239]" UNK_F37BC5E9="40.0" position="[2648.0, 1880.0, 86.017]" UNK_E98DAC69="[2409.005, 1783.86, 121.6267]" UNK_FB7ED79A="[-18.7164, 0.0, -117.6257]">
+            <outro heading="318.13" position="[2673.953, 2039.806, 156.5772]" />
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_WK_RNV_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="71.6145" id="0" position="[2563.639, 1491.72, 85.0516]" />
+              <UNK_A9D2A01D heading="71.6145" id="1" position="[2566.154, 1493.435, 84.9616]" />
+              <UNK_A9D2A01D heading="71.6145" id="2" position="[2565.211, 1499.071, 84.9398]" />
+              <UNK_A9D2A01D heading="71.6145" id="3" position="[2568.042, 1501.714, 84.9944]" />
+              <UNK_A9D2A01D heading="71.6145" id="4" position="[2570.567, 1504.49, 84.8982]" />
+              <UNK_A9D2A01D heading="71.6145" id="5" position="[2575.367, 1508.324, 85.0361]" />
+              <UNK_A9D2A01D heading="76.1472" id="6" position="[2579.357, 1511.025, 85.1205]" />
+              <UNK_A9D2A01D heading="76.1472" id="7" position="[2587.495, 1516.808, 85.1222]" />
+              <UNK_A9D2A01D heading="76.1472" id="8" position="[2592.494, 1509.061, 85.3655]" />
+              <UNK_A9D2A01D heading="85.6706" id="9" position="[2599.333, 1505.445, 87.2941]" />
+              <UNK_A9D2A01D heading="80.2206" id="10" position="[2603.767, 1495.132, 87.4801]" />
+              <UNK_A9D2A01D heading="51.3145" id="11" position="[2600.633, 1483.519, 85.1273]" />
+            </UNK_E793D55C>
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMEWK" UNK_2EBB9392="FME_ROLE_WRECKAGE" />
+      </event>
+      <event UNK_813B03CC="Condor Egg" id="CONDOR_EGG" UNK_A099D518="120000" script="fme_condor_egg" UNK_47D6302F="FME_THM_MEDIUM" type="THEMED" xml="mp_fme_condor_egg">
+        <variations>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_WRECKAGE_SPEC" UNK_813B03CC="Standard" UNK_E02C6D8A="false" id="STANDARD" UNK_8EA02A51="12" UNK_549D9B47="1" UNK_98FC6B21="ALL_ALLY_NEUTRAL" UNK_954B747D="FME_THEMED_CONDOR_EGG">
+            <UNK_8544B5A7 on_mount="true" />
+            <ui UNK_A843765A="FME_CE_SHARD_OBJECTIVE" UNK_F8954229="FME_CE_NAME" UNK_BE996A1E="FME_CE_HELP_RULES" UNK_3FE9A890="FME_CE_HELP_RULES_BONUS" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Gaptooth Ridge" UNK_BDC4B490="525.0" id="GAPTOOTH_RIDGE" UNK_9C023927="[-5980.549, -3259.622, -19.4061]" UNK_F37BC5E9="40.0" position="[-5956.0, -3472.0, -11.5787]" UNK_E98DAC69="[-5990.138, -3795.422, 26.702]" UNK_FB7ED79A="[-11.8408, -0.0, 21.3987]">
+            <outro heading="315.88" position="[-6157.218, -3479.951, 31.385]" />
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_CE_GAPTOOTH_RIDGE_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="149.0146" id="0" position="[-5971.519, -3275.918, -22.5503]" />
+              <UNK_A9D2A01D heading="164.2819" id="1" position="[-5977.529, -3275.313, -22.6553]" />
+              <UNK_A9D2A01D heading="161.0923" id="2" position="[-5984.449, -3274.3, -22.7641]" />
+              <UNK_A9D2A01D heading="164.7082" id="3" position="[-5992.856, -3268.946, -22.6261]" />
+              <UNK_A9D2A01D heading="187.6955" id="4" position="[-6001.98, -3261.402, -22.5946]" />
+              <UNK_A9D2A01D heading="186.5708" id="5" position="[-5994.42, -3258.071, -22.6208]" />
+              <UNK_A9D2A01D heading="181.9832" id="6" position="[-5984.918, -3257.474, -22.6493]" />
+              <UNK_A9D2A01D heading="182.1284" id="7" position="[-5978.86, -3255.901, -22.6507]" />
+              <UNK_A9D2A01D heading="179.2865" id="8" position="[-5968.358, -3253.282, -22.4232]" />
+              <UNK_A9D2A01D heading="166.6589" id="9" position="[-5970.119, -3246.903, -22.6238]" />
+              <UNK_A9D2A01D heading="166.5239" id="10" position="[-5974.688, -3244.151, -22.6365]" />
+              <UNK_A9D2A01D heading="176.851" id="11" position="[-5984.47, -3241.13, -22.5865]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Tall Trees" UNK_BDC4B490="525.0" id="TALL_TREES" UNK_9C023927="[-2017.01, -1381.694, 118.6275]" UNK_F37BC5E9="40.0" position="[-2268.579, -1765.085, 124.6035]" UNK_E98DAC69="[-2383.894, -1853.573, 145.9686]" UNK_FB7ED79A="[-14.5198, -1.2909, -110.1753]">
+            <outro heading="132.855" position="[-2012.058, -1381.281, 117.9272]" />
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_CE_TALL_TREES_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="49.3854" id="0" position="[-2043.224, -1383.558, 121.3832]" />
+              <UNK_A9D2A01D heading="64.8473" id="1" position="[-2042.841, -1377.808, 120.5641]" />
+              <UNK_A9D2A01D heading="51.9079" id="2" position="[-2039.523, -1371.731, 119.8621]" />
+              <UNK_A9D2A01D heading="60.9267" id="3" position="[-2033.823, -1366.915, 119.3566]" />
+              <UNK_A9D2A01D heading="48.3857" id="4" position="[-2030.186, -1361.855, 119.1774]" />
+              <UNK_A9D2A01D heading="49.2082" id="5" position="[-2025.238, -1357.575, 118.8473]" />
+              <UNK_A9D2A01D heading="69.0939" id="6" position="[-2017.605, -1357.333, 117.7352]" />
+              <UNK_A9D2A01D heading="67.5612" id="7" position="[-2018.605, -1367.948, 117.9688]" />
+              <UNK_A9D2A01D heading="67.2171" id="8" position="[-2019.543, -1371.999, 118.2716]" />
+              <UNK_A9D2A01D heading="67.2132" id="9" position="[-2020.437, -1378.3, 119.0191]" />
+              <UNK_A9D2A01D heading="67.2779" id="10" position="[-2022.654, -1385.511, 118.9847]" />
+              <UNK_A9D2A01D heading="47.5953" id="11" position="[-2023.677, -1392.156, 119.3005]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Roanoke Ridge" UNK_BDC4B490="525.0" id="ROANOKE_RIDGE" UNK_9C023927="[2258.469, 1719.026, 102.9196]" UNK_F37BC5E9="40.0" position="[2645.582, 1879.518, 94.4944]" UNK_E98DAC69="[2409.005, 1783.86, 121.6267]" UNK_FB7ED79A="[-18.7164, 0.0, -117.6257]">
+            <outro heading="132.855" position="[2251.305, 1721.116, 102.2241]" />
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_CE_ROANOKE_RIDGE_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="277.1641" id="0" position="[2273.876, 1731.808, 104.1986]" />
+              <UNK_A9D2A01D heading="291.8214" id="1" position="[2276.152, 1728.311, 104.2323]" />
+              <UNK_A9D2A01D heading="337.1759" id="2" position="[2278.405, 1720.638, 103.5763]" />
+              <UNK_A9D2A01D heading="344.5844" id="3" position="[2276.224, 1715.951, 102.5928]" />
+              <UNK_A9D2A01D heading="321.6823" id="4" position="[2270.813, 1718.355, 103.7071]" />
+              <UNK_A9D2A01D heading="321.8524" id="5" position="[2264.416, 1720.687, 103.3041]" />
+              <UNK_A9D2A01D heading="307.3953" id="6" position="[2255.775, 1722.185, 102.7215]" />
+              <UNK_A9D2A01D heading="290.9613" id="7" position="[2246.895, 1724.49, 102.4043]" />
+              <UNK_A9D2A01D heading="296.12" id="8" position="[2249.451, 1718.935, 102.0176]" />
+              <UNK_A9D2A01D heading="291.9338" id="9" position="[2251.839, 1710.942, 101.3014]" />
+              <UNK_A9D2A01D heading="303.2851" id="10" position="[2246.622, 1704.017, 99.0093]" />
+              <UNK_A9D2A01D heading="294.7649" id="11" position="[2235.911, 1715.508, 100.7364]" />
+            </UNK_E793D55C>
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMECE" UNK_2EBB9392="FME_ROLE_CONDOR_EGG" />
+      </event>
+      <event UNK_813B03CC="Trade Route" id="SUPPLY_TRAIN" UNK_A099D518="120000" script="fme_supply_train" UNK_47D6302F="FME_THM_MEDIUM" type="THEMED" xml="mp_fme_supply_train">
+        <variations>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_SUPPLY" UNK_813B03CC="Standard" UNK_E02C6D8A="false" id="STANDARD" UNK_8EA02A51="12" UNK_549D9B47="1" UNK_964EFFB6="1" UNK_98FC6B21="ALL_ALLY_STANDARD" UNK_954B747D="FME_THEMED_SUPPLY_TRAIN">
+            <ui UNK_A843765A="FME_ST_SHARD_OBJECTIVE" UNK_F8954229="FME_ST_NAME" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Valentine To Emerald Station" UNK_BDC4B490="85.0" id="VALENTINE_EMERALD" UNK_F37BC5E9="80.0" position="[-169.4944, 628.5029, 113.0321]" UNK_E98DAC69="[690.7766, 548.6432, 284.0225]" UNK_FB7ED79A="[-24.5224, 0.0, 83.8819]">
+            <variations>
+              <variation duration="1800000" id="STANDARD" UNK_5E50CFA2="FME_ST_VALENTINE_EMERALD_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="0.0" id="0" position="[-165.9353, 632.6266, 114.0321]" />
+              <UNK_A9D2A01D heading="0.0" id="1" position="[-165.6883, 630.6638, 114.0321]" />
+              <UNK_A9D2A01D heading="0.0" id="2" position="[-167.4771, 630.6403, 114.0321]" />
+              <UNK_A9D2A01D heading="0.0" id="3" position="[-167.2093, 628.7081, 114.0321]" />
+              <UNK_A9D2A01D heading="0.0" id="4" position="[-169.0978, 628.1623, 114.0321]" />
+              <UNK_A9D2A01D heading="0.0" id="5" position="[-168.8375, 626.6349, 114.0321]" />
+              <UNK_A9D2A01D heading="0.0" id="6" position="[-170.6393, 625.8572, 114.0321]" />
+              <UNK_A9D2A01D heading="0.0" id="7" position="[-170.4218, 624.2728, 114.0321]" />
+              <UNK_A9D2A01D heading="0.0" id="8" position="[-172.1376, 623.6386, 114.0321]" />
+              <UNK_A9D2A01D heading="0.0" id="9" position="[-172.0725, 621.8083, 114.0321]" />
+              <UNK_A9D2A01D heading="0.0" id="10" position="[-174.0878, 621.168, 114.0321]" />
+              <UNK_A9D2A01D heading="0.0" id="11" position="[-168.1112, 632.7666, 114.0321]" />
+            </UNK_E793D55C>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Saint Denis to Annesburg Station" UNK_BDC4B490="85.0" id="STDENIS_ANNESBURG" UNK_F37BC5E9="80.0" position="[2756.819, -1431.863, 45.0542]" UNK_E98DAC69="[2853.738, 168.7188, 122.975]" UNK_FB7ED79A="[-12.1975, 0.0, 161.8751]">
+            <variations>
+              <variation duration="1800000" id="STANDARD" UNK_5E50CFA2="FME_ST_STDENIS_ANNESBURG_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="230.8574" id="0" position="[2749.794, -1428.648, 45.2342]" />
+              <UNK_A9D2A01D heading="230.8574" id="1" position="[2748.65, -1428.786, 45.2311]" />
+              <UNK_A9D2A01D heading="230.8574" id="2" position="[2748.646, -1429.921, 45.2346]" />
+              <UNK_A9D2A01D heading="230.8574" id="3" position="[2747.28, -1429.807, 45.2295]" />
+              <UNK_A9D2A01D heading="230.8574" id="4" position="[2747.445, -1430.919, 45.2302]" />
+              <UNK_A9D2A01D heading="230.8574" id="5" position="[2746.176, -1431.005, 45.2237]" />
+              <UNK_A9D2A01D heading="230.8574" id="6" position="[2746.199, -1432.238, 45.2236]" />
+              <UNK_A9D2A01D heading="230.8574" id="7" position="[2744.837, -1432.174, 45.2167]" />
+              <UNK_A9D2A01D heading="230.8574" id="8" position="[2744.888, -1433.386, 45.2198]" />
+              <UNK_A9D2A01D heading="230.8574" id="9" position="[2743.591, -1433.569, 45.203]" />
+              <UNK_A9D2A01D heading="230.8574" id="10" position="[2743.565, -1434.901, 45.2128]" />
+              <UNK_A9D2A01D heading="230.8574" id="11" position="[2742.054, -1434.8, 45.2003]" />
+            </UNK_E793D55C>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Riggs to Rhodes Station" UNK_BDC4B490="85.0" id="RIGGS_RHODES" UNK_F37BC5E9="80.0" position="[-1106.756, -576.441, 81.1094]" UNK_E98DAC69="[404.0693, -662.6395, 214.7916]" UNK_FB7ED79A="[-12.3416, 0.0, 54.5881]">
+            <variations>
+              <variation duration="1800000" id="STANDARD" UNK_5E50CFA2="FME_ST_RIGGS_RHODES_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="155.8221" id="0" position="[-1055.261, -606.1663, 76.7162]" />
+              <UNK_A9D2A01D heading="155.8221" id="1" position="[-1055.289, -604.0524, 77.3213]" />
+              <UNK_A9D2A01D heading="155.8221" id="2" position="[-1056.74, -604.5561, 77.1604]" />
+              <UNK_A9D2A01D heading="155.8221" id="3" position="[-1056.636, -602.7582, 77.641]" />
+              <UNK_A9D2A01D heading="155.8221" id="4" position="[-1058.27, -603.7527, 77.3527]" />
+              <UNK_A9D2A01D heading="155.8221" id="5" position="[-1058.408, -602.0071, 77.8568]" />
+              <UNK_A9D2A01D heading="155.8221" id="6" position="[-1060.1, -602.8739, 77.7267]" />
+              <UNK_A9D2A01D heading="155.8221" id="7" position="[-1060.156, -601.1409, 78.2654]" />
+              <UNK_A9D2A01D heading="155.8221" id="8" position="[-1061.634, -601.6333, 78.1689]" />
+              <UNK_A9D2A01D heading="155.8221" id="9" position="[-1061.602, -599.8092, 78.8663]" />
+              <UNK_A9D2A01D heading="155.8221" id="10" position="[-1063.387, -600.9193, 77.9574]" />
+              <UNK_A9D2A01D heading="155.8221" id="11" position="[-1063.395, -598.9941, 78.9319]" />
+            </UNK_E793D55C>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Armadillo to Benedict Point" UNK_BDC4B490="85.0" id="ARMADILLO_BENEDICT" UNK_F37BC5E9="80.0" position="[-3743.132, -2607.373, -14.245]" UNK_E98DAC69="[-4592.771, -2993.861, 83.0568]" UNK_FB7ED79A="[-15.1469, 0.0, -75.0768]">
+            <variations>
+              <variation duration="1800000" id="STANDARD" UNK_5E50CFA2="FME_ST_ARMADILLO_BENEDICT_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="89.9434" id="0" position="[-3743.96, -2611.14, -13.25]" />
+              <UNK_A9D2A01D heading="89.9434" id="1" position="[-3742.3, -2610.39, -13.24]" />
+              <UNK_A9D2A01D heading="89.9434" id="2" position="[-3743.97, -2609.67, -13.25]" />
+              <UNK_A9D2A01D heading="89.9434" id="3" position="[-3742.31, -2608.6, -13.24]" />
+              <UNK_A9D2A01D heading="89.9434" id="4" position="[-3744.03, -2608.0, -13.25]" />
+              <UNK_A9D2A01D heading="89.9434" id="5" position="[-3742.3, -2607.26, -13.24]" />
+              <UNK_A9D2A01D heading="89.9434" id="6" position="[-3744.1, -2606.44, -13.25]" />
+              <UNK_A9D2A01D heading="89.9434" id="7" position="[-3742.29, -2605.7, -13.24]" />
+              <UNK_A9D2A01D heading="89.9434" id="8" position="[-3744.09, -2605.01, -13.25]" />
+              <UNK_A9D2A01D heading="89.9434" id="9" position="[-3742.43, -2604.2, -13.24]" />
+              <UNK_A9D2A01D heading="89.9434" id="10" position="[-3744.14, -2603.51, -13.25]" />
+              <UNK_A9D2A01D heading="89.9434" id="11" position="[-3742.4, -2602.63, -13.24]" />
+            </UNK_E793D55C>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMEST" UNK_2EBB9392="FME_ROLE_SUPPLY_TRAIN" />
+      </event>
+      <event UNK_813B03CC="Manhunt" id="ROUND_UP" UNK_A099D518="60000" script="fme_round_up" UNK_47D6302F="FME_THM_MEDIUM" type="THEMED" xml="mp_fme_round_up">
+        <variations>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_ROUND_UP" UNK_813B03CC="Round Up" UNK_E02C6D8A="false" id="STANDARD" UNK_8EA02A51="12" UNK_549D9B47="1" UNK_964EFFB6="1" UNK_98FC6B21="ALL_ALLY_STANDARD" UNK_954B747D="FME_THEMED_ROUND_UP">
+            <ui UNK_A843765A="FME_RU_SHARD_OBJECTIVE" UNK_F8954229="FME_RU_NAME" UNK_BE996A1E="FME_RU_HELP_RULE_1" UNK_3FE9A890="FME_RU_HELP_RULE_2" />
+            <UNK_8544B5A7 on_mount="true" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Braithwaite/Bolger Glade" UNK_BDC4B490="800.0" id="Bolger_Glade" UNK_9C023927="[1363.662, -1314.064, 76.0756]" UNK_F37BC5E9="30.0" position="[1111.703, -1808.628, 53.0166]">
+            <outro heading="132.3806" position="[1362.14, -1312.98, 77.07]" />
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_RU_BOLGER_GLADE_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="241.85" id="0" position="[1362.14, -1312.98, 77.07]" />
+              <UNK_A9D2A01D heading="241.85" id="1" position="[1360.02, -1313.31, 76.97]" />
+              <UNK_A9D2A01D heading="241.85" id="2" position="[1361.07, -1315.26, 76.99]" />
+              <UNK_A9D2A01D heading="241.85" id="3" position="[1359.06, -1315.69, 76.89]" />
+              <UNK_A9D2A01D heading="241.85" id="4" position="[1360.03, -1317.67, 76.98]" />
+              <UNK_A9D2A01D heading="241.85" id="5" position="[1358.23, -1318.42, 76.92]" />
+              <UNK_A9D2A01D heading="69.76" id="6" position="[1351.16, -1316.26, 76.76]" />
+              <UNK_A9D2A01D heading="69.76" id="7" position="[1353.34, -1315.67, 76.71]" />
+              <UNK_A9D2A01D heading="69.76" id="8" position="[1351.97, -1313.93, 76.64]" />
+              <UNK_A9D2A01D heading="69.76" id="9" position="[1354.09, -1313.23, 76.75]" />
+              <UNK_A9D2A01D heading="69.76" id="10" position="[1352.68, -1311.16, 76.74]" />
+              <UNK_A9D2A01D heading="69.76" id="11" position="[1354.87, -1310.72, 76.83]" />
+            </UNK_E793D55C>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Bayou Nwa/Bluewater Marsh" UNK_BDC4B490="1000.0" id="Bluewater_Marsh" UNK_9C023927="[2110.8, -141.78, 50.01]" UNK_F37BC5E9="30.0" position="[2193.356, -619.0733, 43.3554]">
+            <outro heading="132.3806" position="[2110.8, -141.78, 50.01]" />
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_RU_BLUEWATER_MARSH_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="178.04" id="0" position="[2110.8, -141.78, 50.01]" />
+              <UNK_A9D2A01D heading="178.04" id="1" position="[2109.59, -139.38, 49.83]" />
+              <UNK_A9D2A01D heading="178.04" id="2" position="[2108.15, -141.74, 49.83]" />
+              <UNK_A9D2A01D heading="178.04" id="3" position="[2107.03, -139.27, 49.68]" />
+              <UNK_A9D2A01D heading="178.04" id="4" position="[2105.58, -141.47, 49.79]" />
+              <UNK_A9D2A01D heading="178.04" id="5" position="[2104.68, -138.91, 49.88]" />
+              <UNK_A9D2A01D heading="178.04" id="6" position="[2103.3, -141.31, 50.08]" />
+              <UNK_A9D2A01D heading="178.04" id="7" position="[2102.4, -138.49, 50.17]" />
+              <UNK_A9D2A01D heading="178.04" id="8" position="[2101.16, -140.79, 50.26]" />
+              <UNK_A9D2A01D heading="178.04" id="9" position="[2100.09, -138.15, 50.49]" />
+              <UNK_A9D2A01D heading="178.04" id="10" position="[2098.92, -140.53, 50.62]" />
+              <UNK_A9D2A01D heading="178.04" id="11" position="[2097.88, -137.7, 50.99]" />
+            </UNK_E793D55C>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Annesburg/Beaver Creek" UNK_BDC4B490="1000.0" id="Beaver_Creek" UNK_9C023927="[2915.92, 1312.48, 44.29]" UNK_F37BC5E9="30.0" position="[2639.399, 998.143, 75.363]">
+            <outro heading="132.3806" position="[2919.86, 1316.23, 44.15]" />
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_5E50CFA2="FME_RU_BEAVER_CREEK_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="250.86" id="0" position="[2919.86, 1316.23, 44.15]" />
+              <UNK_A9D2A01D heading="250.86" id="1" position="[2917.42, 1316.4, 44.24]" />
+              <UNK_A9D2A01D heading="250.86" id="2" position="[2919.28, 1314.41, 44.16]" />
+              <UNK_A9D2A01D heading="250.86" id="3" position="[2916.69, 1314.55, 44.26]" />
+              <UNK_A9D2A01D heading="250.86" id="4" position="[2918.54, 1312.74, 44.17]" />
+              <UNK_A9D2A01D heading="250.86" id="5" position="[2915.92, 1312.48, 44.29]" />
+              <UNK_A9D2A01D heading="250.86" id="6" position="[2917.86, 1310.91, 44.18]" />
+              <UNK_A9D2A01D heading="250.86" id="7" position="[2915.38, 1310.83, 44.31]" />
+              <UNK_A9D2A01D heading="250.86" id="8" position="[2917.31, 1309.21, 44.2]" />
+              <UNK_A9D2A01D heading="250.86" id="9" position="[2914.89, 1308.96, 44.31]" />
+              <UNK_A9D2A01D heading="250.86" id="10" position="[2916.49, 1306.9, 44.22]" />
+              <UNK_A9D2A01D heading="250.86" id="11" position="[2914.13, 1307.06, 44.36]" />
+            </UNK_E793D55C>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Tumbleweed/Gaptooth Breach" UNK_BDC4B490="1500.0" id="Gaptooth_Breach" UNK_9C023927="[-5529.83, -2940.06, -1.87]" UNK_F37BC5E9="30.0" position="[-5423.615, -3153.534, -23.0546]">
+            <outro heading="132.3806" position="[-5529.32, -2934.6, -1.94]" />
+            <variations>
+              <variation duration="720000" id="STANDARD" UNK_5E50CFA2="FME_RU_GAPTOOTH_BREACH_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="295.9353" id="0" position="[-5529.32, -2934.6, -1.94]" />
+              <UNK_A9D2A01D heading="295.9353" id="1" position="[-5531.17, -2936.34, -1.91]" />
+              <UNK_A9D2A01D heading="295.9353" id="2" position="[-5528.7, -2936.51, -1.94]" />
+              <UNK_A9D2A01D heading="295.9353" id="3" position="[-5530.45, -2938.25, -1.91]" />
+              <UNK_A9D2A01D heading="295.9353" id="4" position="[-5527.87, -2938.34, -1.94]" />
+              <UNK_A9D2A01D heading="295.9353" id="5" position="[-5529.83, -2940.06, -1.87]" />
+              <UNK_A9D2A01D heading="295.9353" id="6" position="[-5527.26, -2940.11, -1.92]" />
+              <UNK_A9D2A01D heading="295.9353" id="7" position="[-5529.31, -2941.59, -1.79]" />
+              <UNK_A9D2A01D heading="295.9353" id="8" position="[-5526.63, -2941.87, -1.77]" />
+              <UNK_A9D2A01D heading="295.9353" id="9" position="[-5528.7, -2943.4, -1.66]" />
+              <UNK_A9D2A01D heading="295.9353" id="10" position="[-5525.97, -2943.77, -1.62]" />
+              <UNK_A9D2A01D heading="295.9353" id="11" position="[-5527.93, -2945.2, -1.56]" />
+            </UNK_E793D55C>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Tall Trees/Macfarlane's Ranch" UNK_BDC4B490="1500.0" id="Macfarlane's_Ranch" UNK_9C023927="[-2241.88, -2587.54, 69.17]" UNK_F37BC5E9="30.0" position="[-1983.193, -2036.662, 116.1876]">
+            <outro heading="132.3806" position="[-2244.7, -2580.67, 68.63]" />
+            <variations>
+              <variation duration="720000" id="STANDARD" UNK_5E50CFA2="FME_RU_MACFARLANE_RANCH_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="316.52" id="0" position="[-2244.7, -2580.67, 68.63]" />
+              <UNK_A9D2A01D heading="316.52" id="1" position="[-2245.68, -2583.88, 68.94]" />
+              <UNK_A9D2A01D heading="316.52" id="2" position="[-2242.8, -2582.66, 68.9]" />
+              <UNK_A9D2A01D heading="316.52" id="3" position="[-2243.82, -2585.7, 69.1]" />
+              <UNK_A9D2A01D heading="316.52" id="4" position="[-2240.92, -2584.4, 69.09]" />
+              <UNK_A9D2A01D heading="316.52" id="5" position="[-2241.88, -2587.54, 69.17]" />
+              <UNK_A9D2A01D heading="316.52" id="6" position="[-2238.95, -2586.19, 69.17]" />
+              <UNK_A9D2A01D heading="316.52" id="7" position="[-2240.03, -2589.18, 69.21]" />
+              <UNK_A9D2A01D heading="316.52" id="8" position="[-2236.7, -2588.35, 69.22]" />
+              <UNK_A9D2A01D heading="316.52" id="9" position="[-2238.48, -2590.93, 69.25]" />
+              <UNK_A9D2A01D heading="316.52" id="10" position="[-2234.73, -2590.52, 69.31]" />
+              <UNK_A9D2A01D heading="316.52" id="11" position="[-2236.71, -2592.93, 69.35]" />
+            </UNK_E793D55C>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Grizzlies West" UNK_BDC4B490="1500.0" id="Grizzlies_West" UNK_9C023927="[-1970.36, 1148.51, 173.85]" UNK_F37BC5E9="30.0" position="[-1498.737, 1846.548, 312.9683]">
+            <outro heading="132.3806" position="[-1975.42, 1155.16, 174.99]" />
+            <variations>
+              <variation duration="720000" id="STANDARD" UNK_5E50CFA2="FME_RU_GRIZZLIES_WEST_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="332.35" id="0" position="[-1975.42, 1155.16, 174.99]" />
+              <UNK_A9D2A01D heading="332.35" id="1" position="[-1975.19, 1151.06, 174.25]" />
+              <UNK_A9D2A01D heading="332.35" id="2" position="[-1972.72, 1153.77, 174.57]" />
+              <UNK_A9D2A01D heading="332.35" id="3" position="[-1972.61, 1149.77, 173.96]" />
+              <UNK_A9D2A01D heading="332.35" id="4" position="[-1969.77, 1152.56, 174.21]" />
+              <UNK_A9D2A01D heading="332.35" id="5" position="[-1970.36, 1148.51, 173.85]" />
+              <UNK_A9D2A01D heading="332.35" id="6" position="[-1967.02, 1151.29, 174.27]" />
+              <UNK_A9D2A01D heading="332.35" id="7" position="[-1968.35, 1147.19, 174.06]" />
+              <UNK_A9D2A01D heading="332.35" id="8" position="[-1964.75, 1149.78, 174.61]" />
+              <UNK_A9D2A01D heading="332.35" id="9" position="[-1966.02, 1146.02, 174.17]" />
+              <UNK_A9D2A01D heading="332.35" id="10" position="[-1962.14, 1148.35, 174.86]" />
+              <UNK_A9D2A01D heading="332.35" id="11" position="[-1963.21, 1144.63, 174.42]" />
+            </UNK_E793D55C>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Grizzlies East" UNK_BDC4B490="1750.0" id="Grizzlies_East" UNK_9C023927="[1605.33, 2112.15, 316.59]" UNK_F37BC5E9="30.0" position="[1327.799, 1563.882, 262.4763]">
+            <outro heading="132.3806" position="[1612.79, 2105.29, 315.08]" />
+            <variations>
+              <variation duration="720000" id="STANDARD" UNK_5E50CFA2="FME_RU_GRIZZLIES_EAST_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="164.69" id="0" position="[1612.79, 2105.29, 315.08]" />
+              <UNK_A9D2A01D heading="164.69" id="1" position="[1611.87, 2109.96, 315.91]" />
+              <UNK_A9D2A01D heading="164.69" id="2" position="[1609.59, 2106.28, 315.47]" />
+              <UNK_A9D2A01D heading="164.69" id="3" position="[1608.46, 2111.2, 316.29]" />
+              <UNK_A9D2A01D heading="164.69" id="4" position="[1606.52, 2107.34, 315.8]" />
+              <UNK_A9D2A01D heading="164.69" id="5" position="[1605.33, 2112.15, 316.59]" />
+              <UNK_A9D2A01D heading="164.69" id="6" position="[1603.28, 2108.6, 316.13]" />
+              <UNK_A9D2A01D heading="164.69" id="7" position="[1602.44, 2113.34, 316.89]" />
+              <UNK_A9D2A01D heading="164.69" id="8" position="[1600.16, 2109.55, 316.34]" />
+              <UNK_A9D2A01D heading="164.69" id="9" position="[1599.54, 2114.44, 317.13]" />
+              <UNK_A9D2A01D heading="164.69" id="10" position="[1596.81, 2111.05, 316.59]" />
+              <UNK_A9D2A01D heading="164.69" id="11" position="[1596.55, 2115.79, 317.35]" />
+            </UNK_E793D55C>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+          <location UNK_813B03CC="Big Valley" UNK_BDC4B490="1750.0" id="Big_Valley" UNK_9C023927="[-1799.02, -356.01, 164.01]" UNK_F37BC5E9="120.0" position="[-1818.251, 234.2625, 122.2073]">
+            <outro heading="132.3806" position="[-1793.98, -357.16, 163.5]" />
+            <variations>
+              <variation duration="720000" id="STANDARD" UNK_5E50CFA2="FME_RU_BIG_VALLEY_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="206.71" id="0" position="[-1793.98, -357.16, 163.5]" />
+              <UNK_A9D2A01D heading="206.71" id="1" position="[-1796.55, -354.74, 163.87]" />
+              <UNK_A9D2A01D heading="206.71" id="2" position="[-1796.29, -358.48, 163.25]" />
+              <UNK_A9D2A01D heading="206.71" id="3" position="[-1799.02, -356.01, 164.01]" />
+              <UNK_A9D2A01D heading="206.71" id="4" position="[-1799.27, -359.56, 163.44]" />
+              <UNK_A9D2A01D heading="206.71" id="5" position="[-1801.75, -357.17, 163.99]" />
+              <UNK_A9D2A01D heading="2.39" id="6" position="[-1803.57, -345.97, 164.41]" />
+              <UNK_A9D2A01D heading="2.39" id="7" position="[-1802.26, -348.76, 164.16]" />
+              <UNK_A9D2A01D heading="2.39" id="8" position="[-1800.48, -345.95, 164.32]" />
+              <UNK_A9D2A01D heading="2.39" id="9" position="[-1798.91, -348.88, 164.09]" />
+              <UNK_A9D2A01D heading="2.39" id="10" position="[-1797.52, -345.94, 164.27]" />
+              <UNK_A9D2A01D heading="2.39" id="11" position="[-1796.09, -348.99, 164.15]" />
+            </UNK_E793D55C>
+            <UNK_8544B5A7 UNK_16A45414="150.0" UNK_45F1CCA1="200.0" />
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMERU" UNK_2EBB9392="FME_ROLE_ROUND_UP" />
+      </event>
+      <event UNK_813B03CC="Animal Tagging" id="ANIMAL_TAGGING" UNK_A099D518="60000" script="fme_animal_tagging" UNK_47D6302F="FME_THM_LARGE" type="THEMED" xml="mp_fme_animal_tagging">
+        <variations>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_ANIMAL_TAGGING" UNK_813B03CC="Legendary Moose" UNK_E02C6D8A="false" id="Grizzlies_West" UNK_8EA02A51="12" UNK_549D9B47="1" UNK_98FC6B21="ALL_ALLY_STANDARD" UNK_954B747D="FME_ROLE_ANIMAL_TAGGING">
+            <ui UNK_A843765A="FME_AT_SHARD_OBJECTIVE" UNK_F8954229="FME_AT_NAME" UNK_BE996A1E="FME_AT_HELP_RULE_1" UNK_3FE9A890="FME_AT_HELP_RULE_2" />
+            <UNK_8544B5A7 on_mount="true" />
+          </variation>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_ANIMAL_TAGGING" UNK_813B03CC="Legendary Cougar" UNK_E02C6D8A="false" id="Gaptooth_Breach" UNK_8EA02A51="12" UNK_549D9B47="1" UNK_98FC6B21="ALL_ALLY_STANDARD" UNK_954B747D="FME_ROLE_ANIMAL_TAGGING">
+            <ui UNK_A843765A="FME_AT_SHARD_OBJECTIVE" UNK_F8954229="FME_AT_NAME" UNK_BE996A1E="FME_AT_HELP_RULE_1" UNK_3FE9A890="FME_AT_HELP_RULE_2" />
+            <UNK_8544B5A7 on_mount="true" />
+          </variation>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_ANIMAL_TAGGING" UNK_813B03CC="Legendary Panther" UNK_E02C6D8A="false" id="Bluewater_Marsh" UNK_8EA02A51="12" UNK_549D9B47="1" UNK_98FC6B21="ALL_ALLY_STANDARD" UNK_954B747D="FME_ROLE_ANIMAL_TAGGING">
+            <ui UNK_A843765A="FME_AT_SHARD_OBJECTIVE" UNK_F8954229="FME_AT_NAME" UNK_BE996A1E="FME_AT_HELP_RULE_1" UNK_3FE9A890="FME_AT_HELP_RULE_2" />
+            <UNK_8544B5A7 on_mount="true" />
+          </variation>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_ANIMAL_TAGGING" UNK_813B03CC="Legendary  Bighornram" UNK_E02C6D8A="false" id="Great_Plains" UNK_8EA02A51="12" UNK_549D9B47="1" UNK_98FC6B21="ALL_ALLY_STANDARD" UNK_954B747D="FME_ROLE_ANIMAL_TAGGING">
+            <ui UNK_A843765A="FME_AT_SHARD_OBJECTIVE" UNK_F8954229="FME_AT_NAME" UNK_BE996A1E="FME_AT_HELP_RULE_1" UNK_3FE9A890="FME_AT_HELP_RULE_2" />
+            <UNK_8544B5A7 on_mount="true" />
+          </variation>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_ANIMAL_TAGGING" UNK_813B03CC="Legendary Elk" UNK_E02C6D8A="false" id="Heartlands" UNK_8EA02A51="12" UNK_549D9B47="1" UNK_98FC6B21="ALL_ALLY_STANDARD" UNK_954B747D="FME_ROLE_ANIMAL_TAGGING">
+            <ui UNK_A843765A="FME_AT_SHARD_OBJECTIVE" UNK_F8954229="FME_AT_NAME" UNK_BE996A1E="FME_AT_HELP_RULE_1" UNK_3FE9A890="FME_AT_HELP_RULE_2" />
+            <UNK_8544B5A7 on_mount="true" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Grizzlies West" UNK_BDC4B490="800.0" id="Grizzlies_West" UNK_9C023927="[-1212.23, 7.21, 42.29]" UNK_F37BC5E9="50.0" position="[-1212.23, 7.21, 42.29]">
+            <outro heading="0.0" position="[-1194.73, 262.81, 40.77]" />
+            <variations>
+              <variation duration="600000" id="Grizzlies_West" UNK_59376D33="13" UNK_5E50CFA2="FME_AT_GRIZZLIES_WEST_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="0.0" id="0" position="[-1212.86, 7.96, 43.38]" />
+              <UNK_A9D2A01D heading="0.0" id="1" position="[-1208.27, 4.54, 43.25]" />
+              <UNK_A9D2A01D heading="34.25" id="2" position="[-1201.56, 6.85, 42.74]" />
+              <UNK_A9D2A01D heading="78.19" id="3" position="[-1204.79, 13.28, 42.19]" />
+              <UNK_A9D2A01D heading="0.0" id="4" position="[-1213.66, 13.22, 43.4]" />
+              <UNK_A9D2A01D heading="0.0" id="5" position="[-1218.2, 11.99, 43.84]" />
+              <UNK_A9D2A01D heading="0.0" id="6" position="[-1208.81, -4.18, 44.8]" />
+              <UNK_A9D2A01D heading="0.0" id="7" position="[-1196.76, -7.51, 43.02]" />
+              <UNK_A9D2A01D heading="0.0" id="8" position="[-1223.43, 24.65, 43.82]" />
+              <UNK_A9D2A01D heading="0.0" id="9" position="[-1206.99, -19.61, 45.29]" />
+              <UNK_A9D2A01D heading="0.0" id="10" position="[-1237.38, 20.96, 45.8]" />
+              <UNK_A9D2A01D heading="0.0" id="11" position="[-1225.53, 3.9, 45.68]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Tumbleweed/Gaptooth Breach" UNK_BDC4B490="700.0" id="Gaptooth_Breach" UNK_9C023927="[-5061.48, -3102.02, -18.91]" UNK_F37BC5E9="50.0" position="[-5061.48, -3102.02, -18.91]">
+            <outro heading="132.3806" position="[-5529.32, -2934.6, -1.94]" />
+            <variations>
+              <variation duration="600000" id="Gaptooth_Breach" UNK_59376D33="19" UNK_5E50CFA2="FME_AT_GAPTOOTH_TUMBLEWEED_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="295.9353" id="0" position="[-5063.82, -3106.63, -18.87]" />
+              <UNK_A9D2A01D heading="295.9353" id="1" position="[-5056.87, -3106.01, -18.52]" />
+              <UNK_A9D2A01D heading="295.9353" id="2" position="[-5058.87, -3106.01, -18.52]" />
+              <UNK_A9D2A01D heading="295.9353" id="3" position="[-5057.13, -3102.99, -18.72]" />
+              <UNK_A9D2A01D heading="295.9353" id="4" position="[-5068.64, -3106.11, -18.97]" />
+              <UNK_A9D2A01D heading="295.9353" id="5" position="[-5065.39, -3100.16, -18.86]" />
+              <UNK_A9D2A01D heading="295.9353" id="6" position="[-5055.73, -3095.52, -18.79]" />
+              <UNK_A9D2A01D heading="295.9353" id="7" position="[-5067.87, -3112.51, -18.93]" />
+              <UNK_A9D2A01D heading="295.9353" id="8" position="[-5071.47, -3102.4, -18.92]" />
+              <UNK_A9D2A01D heading="295.9353" id="9" position="[-5059.66, -3091.9, -18.83]" />
+              <UNK_A9D2A01D heading="295.9353" id="10" position="[-5069.83, -3097.45, -18.69]" />
+              <UNK_A9D2A01D heading="295.9353" id="11" position="[-5042.92, -3096.66, -18.81]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Bayou Nwa/Bluewater Marsh" UNK_BDC4B490="700.0" id="Bluewater_Marsh" UNK_9C023927="[2111.7, -676.54, 40.82]" UNK_F37BC5E9="50.0" position="[2108.44, -681.07, 40.77]">
+            <outro heading="132.3806" position="[2110.8, -141.78, 50.01]" />
+            <variations>
+              <variation duration="600000" id="Bluewater_Marsh" UNK_59376D33="17" UNK_5E50CFA2="FME_AT_BLUEWATER_MARSH_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="178.04" id="0" position="[2111.7, -676.54, 40.82]" />
+              <UNK_A9D2A01D heading="178.04" id="1" position="[2105.89, -681.36, 41.24]" />
+              <UNK_A9D2A01D heading="178.04" id="2" position="[2114.29, -680.56, 40.75]" />
+              <UNK_A9D2A01D heading="178.04" id="3" position="[2108.47, -683.9, 40.8]" />
+              <UNK_A9D2A01D heading="178.04" id="4" position="[2113.76, -689.71, 40.77]" />
+              <UNK_A9D2A01D heading="178.04" id="5" position="[2107.54, -692.9, 40.73]" />
+              <UNK_A9D2A01D heading="178.04" id="6" position="[2112.83, -692.83, 40.73]" />
+              <UNK_A9D2A01D heading="178.04" id="7" position="[2105.51, -695.69, 40.69]" />
+              <UNK_A9D2A01D heading="178.04" id="8" position="[2113.38, -694.13, 40.7]" />
+              <UNK_A9D2A01D heading="178.04" id="9" position="[2123.91, -685.57, 40.66]" />
+              <UNK_A9D2A01D heading="178.04" id="10" position="[2088.69, -709.49, 41.52]" />
+              <UNK_A9D2A01D heading="178.04" id="11" position="[2101.17, -679.59, 41.3]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Great Plains / Tall Trees" UNK_BDC4B490="850.0" id="Great_Plains" UNK_9C023927="[-1747.78, -1535.14, 87.18]" UNK_F37BC5E9="50.0" position="[-1784.23, -1517.8, 90.53]">
+            <outro heading="132.3806" position="[-1562.946, -1760.119, 76.29474]" />
+            <variations>
+              <variation duration="600000" id="Great_Plains" UNK_59376D33="11" UNK_5E50CFA2="FME_AT_GREAT_PLAINS_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="178.04" id="0" position="[-1747.78, -1535.14, 87.18]" />
+              <UNK_A9D2A01D heading="178.04" id="1" position="[-1753.35, -1529.35, 87.11]" />
+              <UNK_A9D2A01D heading="178.04" id="2" position="[-1745.07, -1539.03, 87.72]" />
+              <UNK_A9D2A01D heading="178.04" id="3" position="[-1754.89, -1536.12, 87.53]" />
+              <UNK_A9D2A01D heading="178.04" id="4" position="[-1736.16, -1528.81, 86.92]" />
+              <UNK_A9D2A01D heading="178.04" id="5" position="[-1750.25, -1518.68, 87.36]" />
+              <UNK_A9D2A01D heading="178.04" id="6" position="[-1752.55, -1534.03, 87.26]" />
+              <UNK_A9D2A01D heading="178.04" id="7" position="[-1744.95, -1537.57, 87.53]" />
+              <UNK_A9D2A01D heading="178.04" id="8" position="[-1759.17, -1523.02, 88.02]" />
+              <UNK_A9D2A01D heading="178.04" id="9" position="[-1757.87, -1535.59, 87.72]" />
+              <UNK_A9D2A01D heading="178.04" id="10" position="[-1741.83, -1516.48, 87.09]" />
+              <UNK_A9D2A01D heading="178.04" id="11" position="[-1744.44, -1540.83, 87.88]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Heartlands / Cumberland Forest" UNK_BDC4B490="850.0" id="Heartlands" UNK_9C023927="[607.87, 440.62, 114.74]" UNK_F37BC5E9="50.0" position="[583.75, 424.35, 112.77]">
+            <outro heading="132.3806" position="[466.5927, 255.9559, 108.614]" />
+            <variations>
+              <variation duration="600000" id="Heartlands" UNK_59376D33="9" UNK_5E50CFA2="FME_AT_HEARTLANDS_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="178.04" id="0" position="[607.87, 440.62, 114.74]" />
+              <UNK_A9D2A01D heading="178.04" id="1" position="[603.47, 442.76, 114.96]" />
+              <UNK_A9D2A01D heading="178.04" id="2" position="[604.67, 447.18, 115.94]" />
+              <UNK_A9D2A01D heading="178.04" id="3" position="[612.29, 446.45, 115.76]" />
+              <UNK_A9D2A01D heading="178.04" id="4" position="[612.62, 440.58, 114.66]" />
+              <UNK_A9D2A01D heading="178.04" id="5" position="[608.0, 438.23, 114.15]" />
+              <UNK_A9D2A01D heading="178.04" id="6" position="[603.1, 438.75, 113.88]" />
+              <UNK_A9D2A01D heading="178.04" id="7" position="[598.12, 435.61, 113.1]" />
+              <UNK_A9D2A01D heading="178.04" id="8" position="[615.35, 431.12, 112.17]" />
+              <UNK_A9D2A01D heading="178.04" id="9" position="[620.67, 441.32, 113.8]" />
+              <UNK_A9D2A01D heading="178.04" id="10" position="[593.96, 441.59, 114.66]" />
+              <UNK_A9D2A01D heading="178.04" id="11" position="[593.63, 430.67, 112.54]" />
+            </UNK_E793D55C>
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMEAT" UNK_2EBB9392="FME_ROLE_ANIMAL_TAGGING" />
+      </event>
+      <event UNK_813B03CC="Wildlife Photographer" id="WILDLIFE_PHOTOGRAPHER" UNK_A099D518="120000" script="fme_wildlife_photographer" UNK_47D6302F="FME_STD_MEDIUM" type="STANDARD" xml="mp_fme_wildlife_photographer">
+        <variations>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_WILDLIFE_PHOTOGRAPHER" UNK_813B03CC="Standard" UNK_E02C6D8A="true" id="STANDARD" UNK_8EA02A51="12" UNK_549D9B47="1" UNK_98FC6B21="STANDARD" UNK_954B747D="FME_WILDLIFE_PHOTOGRAPHER">
+            <ui UNK_A843765A="FME_WP_SHARD_OBJECTIVE" UNK_F8954229="FME_WP_NAME" UNK_BE996A1E="FME_WP_DESC" UNK_3FE9A890="FME_WP_DESC_2" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Cumberland Forest + Northern Heartlands" UNK_BDC4B490="740.0" id="CUMBERLAND_HEARTLAND" UNK_9C023927="[539.8766, 624.0237, 108.3453]" UNK_F37BC5E9="75.0" position="[465.781, 827.406, 22.719]">
+            <outro heading="204.8511" position="[529.809, 887.098, 143.257]" />
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_59376D33="18" UNK_5E50CFA2="FME_WP_CUMBERLAND_HEARTLAND_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="178.04" id="0" position="[539.8766, 624.0237, 108.3453]" />
+              <UNK_A9D2A01D heading="178.04" id="1" position="[559.79, 620.9349, 110.5097]" />
+              <UNK_A9D2A01D heading="178.04" id="2" position="[581.1646, 623.3309, 110.965]" />
+              <UNK_A9D2A01D heading="178.04" id="3" position="[534.4764, 592.5477, 108.382]" />
+              <UNK_A9D2A01D heading="178.04" id="4" position="[561.6878, 566.9039, 110.6974]" />
+              <UNK_A9D2A01D heading="178.04" id="5" position="[523.8074, 564.901, 108.734]" />
+              <UNK_A9D2A01D heading="178.04" id="6" position="[504.3785, 571.6472, 108.9272]" />
+              <UNK_A9D2A01D heading="178.04" id="7" position="[485.4135, 593.1257, 108.451]" />
+              <UNK_A9D2A01D heading="178.04" id="8" position="[497.5613, 610.5362, 109.4972]" />
+              <UNK_A9D2A01D heading="178.04" id="9" position="[543.8399, 671.5223, 112.1533]" />
+              <UNK_A9D2A01D heading="178.04" id="10" position="[552.394, 679.9894, 112.9394]" />
+              <UNK_A9D2A01D heading="178.04" id="11" position="[574.9542, 630.0082, 112.3363]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Grizzlies East + Northern Roanoke" UNK_BDC4B490="725.0" id="GRIZEAST_ROANOKE" UNK_9C023927="[1912.427, 1409.502, 176.7559]" UNK_F37BC5E9="75.0" position="[2034.962, 1315.229, 171.61]">
+            <outro heading="14.3366" position="[1913.481, 1316.279, 184.497]" />
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_59376D33="6" UNK_5E50CFA2="FME_WP_GRIZEAST_ROANOKE_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="178.04" id="0" position="[1912.427, 1409.502, 176.7559]" />
+              <UNK_A9D2A01D heading="178.04" id="1" position="[1888.495, 1395.38, 174.3112]" />
+              <UNK_A9D2A01D heading="178.04" id="2" position="[1875.172, 1427.408, 179.3529]" />
+              <UNK_A9D2A01D heading="178.04" id="3" position="[1893.253, 1457.152, 183.606]" />
+              <UNK_A9D2A01D heading="178.04" id="4" position="[1941.218, 1445.879, 178.479]" />
+              <UNK_A9D2A01D heading="178.04" id="5" position="[1955.124, 1421.327, 177.2495]" />
+              <UNK_A9D2A01D heading="178.04" id="6" position="[1961.486, 1394.651, 177.6049]" />
+              <UNK_A9D2A01D heading="178.04" id="7" position="[1933.335, 1386.3, 177.9291]" />
+              <UNK_A9D2A01D heading="178.04" id="8" position="[1930.299, 1364.547, 180.1942]" />
+              <UNK_A9D2A01D heading="178.04" id="9" position="[1902.293, 1359.746, 183.0708]" />
+              <UNK_A9D2A01D heading="178.04" id="10" position="[1854.609, 1433.409, 180.6082]" />
+              <UNK_A9D2A01D heading="178.04" id="11" position="[1879.723, 1412.129, 176.5746]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Strawberry" UNK_BDC4B490="725.0" id="STRAWBERRY" UNK_9C023927="[-1811.632, -414.2405, 158.9281]" UNK_F37BC5E9="80.0" position="[-1654.24, -546.9, 139.9]">
+            <outro heading="344.6037" position="[-1654.24, -546.9, 139.9]" />
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_59376D33="9" UNK_5E50CFA2="FME_WP_STRAWBERRY_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="178.04" id="0" position="[-1806.346, -380.6516, 160.188]" />
+              <UNK_A9D2A01D heading="178.04" id="1" position="[-1825.405, -408.3868, 160.1268]" />
+              <UNK_A9D2A01D heading="178.04" id="2" position="[-1832.203, -422.7218, 159.7593]" />
+              <UNK_A9D2A01D heading="178.04" id="3" position="[-1827.201, -441.4912, 158.7165]" />
+              <UNK_A9D2A01D heading="178.04" id="4" position="[-1806.549, -447.9286, 156.6067]" />
+              <UNK_A9D2A01D heading="178.04" id="5" position="[-1792.879, -441.7683, 154.3259]" />
+              <UNK_A9D2A01D heading="178.04" id="6" position="[-1782.477, -440.8126, 154.1946]" />
+              <UNK_A9D2A01D heading="178.04" id="7" position="[-1777.93, -431.514, 153.9856]" />
+              <UNK_A9D2A01D heading="178.04" id="8" position="[-1782.223, -423.8228, 154.1088]" />
+              <UNK_A9D2A01D heading="178.04" id="9" position="[-1769.445, -404.1378, 154.5266]" />
+              <UNK_A9D2A01D heading="178.04" id="10" position="[-1768.061, -394.0836, 155.3284]" />
+              <UNK_A9D2A01D heading="178.04" id="11" position="[-1788.041, -374.9592, 158.1564]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Bayou" UNK_BDC4B490="725.0" id="BAYOU" UNK_9C023927="[2207.7, -113.3, 48.9]" UNK_F37BC5E9="80.0" position="[2120.726, -191.3788, 76.67225]">
+            <outro heading="344.6037" position="[2120.726, -191.3788, 76.67225]" />
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_59376D33="19" UNK_5E50CFA2="FME_WP_BAYOU_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="178.04" id="0" position="[2207.7, -113.3, 48.8541]" />
+              <UNK_A9D2A01D heading="178.04" id="1" position="[2262.69, -100.8034, 44.2118]" />
+              <UNK_A9D2A01D heading="178.04" id="2" position="[2258.427, -126.0988, 44.8414]" />
+              <UNK_A9D2A01D heading="178.04" id="3" position="[2258.467, -144.4802, 44.8121]" />
+              <UNK_A9D2A01D heading="178.04" id="4" position="[2241.177, -150.3601, 45.7294]" />
+              <UNK_A9D2A01D heading="178.04" id="5" position="[2232.081, -164.7584, 45.4953]" />
+              <UNK_A9D2A01D heading="178.04" id="6" position="[2226.489, -141.1121, 46.1197]" />
+              <UNK_A9D2A01D heading="178.04" id="7" position="[2189.369, -155.2028, 48.3391]" />
+              <UNK_A9D2A01D heading="178.04" id="8" position="[2202.108, -131.02, 47.6342]" />
+              <UNK_A9D2A01D heading="178.04" id="9" position="[2213.225, -122.5649, 47.4242]" />
+              <UNK_A9D2A01D heading="178.04" id="10" position="[2239.855, -75.0061, 46.0078]" />
+              <UNK_A9D2A01D heading="178.04" id="11" position="[2233.773, -84.7611, 46.2804]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Great Plains" UNK_BDC4B490="725.0" id="GREATPLAINS" UNK_9C023927="[-1681.788, -1811.082, 84.8615]" UNK_F37BC5E9="75.0" position="[-1706.519, -1517.153, 125.9073]">
+            <outro heading="344.6037" position="[-1706.519, -1517.153, 125.9073]" />
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_59376D33="15" UNK_5E50CFA2="FME_WP_GREATPLAINS_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="178.04" id="0" position="[-1704.355, -1803.093, 89.6787]" />
+              <UNK_A9D2A01D heading="178.04" id="1" position="[-1705.012, -1760.874, 93.7269]" />
+              <UNK_A9D2A01D heading="178.04" id="2" position="[-1692.867, -1754.008, 90.3729]" />
+              <UNK_A9D2A01D heading="178.04" id="3" position="[-1671.402, -1755.579, 88.4912]" />
+              <UNK_A9D2A01D heading="178.04" id="4" position="[-1648.999, -1769.239, 85.3598]" />
+              <UNK_A9D2A01D heading="178.04" id="5" position="[-1636.68, -1780.879, 84.1023]" />
+              <UNK_A9D2A01D heading="178.04" id="6" position="[-1644.265, -1788.921, 84.9378]" />
+              <UNK_A9D2A01D heading="178.04" id="7" position="[-1630.475, -1800.181, 82.8701]" />
+              <UNK_A9D2A01D heading="178.04" id="8" position="[-1635.798, -1838.47, 81.5745]" />
+              <UNK_A9D2A01D heading="178.04" id="9" position="[-1650.97, -1849.551, 82.104]" />
+              <UNK_A9D2A01D heading="178.04" id="10" position="[-1699.266, -1857.682, 82.0847]" />
+              <UNK_A9D2A01D heading="178.04" id="11" position="[-1686.963, -1836.409, 84.628]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="New Austin" UNK_BDC4B490="725.0" id="NEWAUSTIN" UNK_9C023927="[-2737.374, -2817.333, 78.9404]" UNK_F37BC5E9="75.0" position="[-2877.387, -2635.516, 125.9073]">
+            <outro heading="344.6037" position="[-2877.387, -2635.516, 125.9073]" />
+            <variations>
+              <variation duration="600000" id="STANDARD" UNK_59376D33="12" UNK_5E50CFA2="FME_WP_NEWAUSTIN_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="178.04" id="0" position="[-2737.374, -2817.333, 78.9404]" />
+              <UNK_A9D2A01D heading="178.04" id="1" position="[-2722.307, -2775.629, 77.2162]" />
+              <UNK_A9D2A01D heading="178.04" id="2" position="[-2738.511, -2769.539, 77.7421]" />
+              <UNK_A9D2A01D heading="178.04" id="3" position="[-2765.055, -2777.622, 80.6781]" />
+              <UNK_A9D2A01D heading="178.04" id="4" position="[-2787.425, -2801.376, 81.8172]" />
+              <UNK_A9D2A01D heading="178.04" id="5" position="[-2784.644, -2824.911, 83.2512]" />
+              <UNK_A9D2A01D heading="178.04" id="6" position="[-2744.92, -2852.459, 79.3203]" />
+              <UNK_A9D2A01D heading="178.04" id="7" position="[-2681.728, -2864.584, 65.9076]" />
+              <UNK_A9D2A01D heading="178.04" id="8" position="[-2685.615, -2815.123, 68.1922]" />
+              <UNK_A9D2A01D heading="178.04" id="9" position="[-2697.431, -2784.716, 73.1365]" />
+              <UNK_A9D2A01D heading="178.04" id="10" position="[-2714.617, -2834.989, 74.4601]" />
+              <UNK_A9D2A01D heading="178.04" id="11" position="[-2775.837, -2817.76, 82.4772]" />
+            </UNK_E793D55C>
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMEWP" UNK_2EBB9392="FME_ROLE_WILDLIFE_PHOTOGRAPHER" />
+      </event>
+      <event UNK_813B03CC="Protect Legendary Animal" id="PROTECT_LEGENDARY_ANIMAL" UNK_A099D518="120000" script="fme_protect_legendary_animal" UNK_47D6302F="FME_THM_MEDIUM" type="THEMED" xml="mp_fme_protect_legendary_animal">
+        <variations>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_PROTECT_LEGENDARY_ANIMAL" UNK_813B03CC="Bear" UNK_E02C6D8A="false" id="BIG_VALLEY_BEAR" UNK_8EA02A51="12" UNK_549D9B47="1" UNK_964EFFB6="1" UNK_98FC6B21="ALL_ALLY_STANDARD" UNK_954B747D="FME_ROLE_PROTECT_LEGENDARY_ANIMAL">
+            <ui UNK_A843765A="FME_PLA_SHARD_OBJECTIVE" UNK_F8954229="FME_PLA_NAME" UNK_BE996A1E="FME_PLA_DESC" UNK_3FE9A890="FME_PLA_DESC_SECONDARY" />
+            <UNK_8544B5A7 on_mount="true" />
+          </variation>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_PROTECT_LEGENDARY_ANIMAL" UNK_813B03CC="Elk" UNK_E02C6D8A="false" id="TALL_TREES_ELK" UNK_8EA02A51="12" UNK_549D9B47="1" UNK_964EFFB6="1" UNK_98FC6B21="ALL_ALLY_STANDARD" UNK_954B747D="FME_ROLE_PROTECT_LEGENDARY_ANIMAL">
+            <ui UNK_A843765A="FME_PLA_SHARD_OBJECTIVE" UNK_F8954229="FME_PLA_NAME" UNK_BE996A1E="FME_PLA_DESC" UNK_3FE9A890="FME_PLA_DESC_SECONDARY" />
+            <UNK_8544B5A7 on_mount="true" />
+          </variation>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_PROTECT_LEGENDARY_ANIMAL" UNK_813B03CC="Cougar" UNK_E02C6D8A="false" id="HENNIGANS_STEAD_COUGAR" UNK_8EA02A51="12" UNK_549D9B47="1" UNK_964EFFB6="1" UNK_98FC6B21="ALL_ALLY_STANDARD" UNK_954B747D="FME_ROLE_PROTECT_LEGENDARY_ANIMAL">
+            <ui UNK_A843765A="FME_PLA_SHARD_OBJECTIVE" UNK_F8954229="FME_PLA_NAME" UNK_BE996A1E="FME_PLA_DESC" UNK_3FE9A890="FME_PLA_DESC_SECONDARY" />
+            <UNK_8544B5A7 on_mount="true" />
+          </variation>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_PROTECT_LEGENDARY_ANIMAL" UNK_813B03CC="Wolf" UNK_E02C6D8A="false" id="GRIZZLIES_WOLF" UNK_8EA02A51="12" UNK_549D9B47="1" UNK_964EFFB6="1" UNK_98FC6B21="ALL_ALLY_STANDARD" UNK_954B747D="FME_ROLE_PROTECT_LEGENDARY_ANIMAL">
+            <ui UNK_A843765A="FME_PLA_SHARD_OBJECTIVE" UNK_F8954229="FME_PLA_NAME" UNK_BE996A1E="FME_PLA_DESC" UNK_3FE9A890="FME_PLA_DESC_SECONDARY" />
+            <UNK_8544B5A7 on_mount="true" />
+          </variation>
+          <variation UNK_7864DBE8="AWARD_MOD_FME_PROMO_PROTECT_LEGENDARY_ANIMAL" UNK_813B03CC="Alligator" UNK_E02C6D8A="false" id="BAYOU_NWA_ALLIGATOR" UNK_8EA02A51="12" UNK_549D9B47="1" UNK_964EFFB6="1" UNK_98FC6B21="ALL_ALLY_STANDARD" UNK_954B747D="FME_ROLE_PROTECT_LEGENDARY_ANIMAL">
+            <ui UNK_A843765A="FME_PLA_SHARD_OBJECTIVE" UNK_F8954229="FME_PLA_NAME" UNK_BE996A1E="FME_PLA_DESC" UNK_3FE9A890="FME_PLA_DESC_SECONDARY" />
+            <UNK_8544B5A7 on_mount="true" />
+          </variation>
+        </variations>
+        <locations>
+          <location UNK_813B03CC="Big Valley - Bear" UNK_BDC4B490="300.0" id="BIG_VALLEY" UNK_9C023927="[-2469.207, 818.7477, 139.1245]" UNK_F37BC5E9="40.0" position="[-2469.207, 818.7477, 139.1245]">
+            <outro heading="344.6037" position="[-2199.947, 710.6362, 121.2148]" />
+            <variations>
+              <variation duration="1200000" id="BIG_VALLEY_BEAR" UNK_59376D33="13" UNK_5E50CFA2="FME_PLA_BIG_VALLEY_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="244.34" id="0" position="[-2444.025, 804.33, 136.5573]" />
+              <UNK_A9D2A01D heading="244.34" id="1" position="[-2445.391, 800.9481, 136.122]" />
+              <UNK_A9D2A01D heading="244.34" id="2" position="[-2448.86, 806.6541, 136.9639]" />
+              <UNK_A9D2A01D heading="244.34" id="3" position="[-2449.805, 803.033, 136.5402]" />
+              <UNK_A9D2A01D heading="244.34" id="4" position="[-2453.945, 810.0681, 137.513]" />
+              <UNK_A9D2A01D heading="244.34" id="5" position="[-2455.232, 807.428, 137.3887]" />
+              <UNK_A9D2A01D heading="244.34" id="6" position="[-2461.53, 801.9821, 136.9096]" />
+              <UNK_A9D2A01D heading="244.34" id="7" position="[-2460.48, 812.1583, 138.249]" />
+              <UNK_A9D2A01D heading="244.34" id="8" position="[-2462.212, 805.4229, 137.5047]" />
+              <UNK_A9D2A01D heading="244.34" id="9" position="[-2466.137, 814.8102, 138.5638]" />
+              <UNK_A9D2A01D heading="244.34" id="10" position="[-2468.715, 810.9519, 138.4378]" />
+              <UNK_A9D2A01D heading="244.34" id="11" position="[-2470.191, 805.8922, 137.6851]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Tall Trees - Elk" UNK_BDC4B490="300.0" id="TALL_TREES" UNK_9C023927="[-1960.206, -1614.081, 114.8855]" UNK_F37BC5E9="40.0" position="[-1960.206, -1614.081, 114.8855]">
+            <outro heading="344.6037" position="[-1960.206, -1614.081, 114.8855]" />
+            <variations>
+              <variation duration="1200000" id="TALL_TREES_ELK" UNK_59376D33="9" UNK_5E50CFA2="FME_PLA_TALL_TREES_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="178.04" id="0" position="[-1960.206, -1614.081, 114.8855]" />
+              <UNK_A9D2A01D heading="196.04" id="1" position="[-1956.704, -1613.001, 114.9018]" />
+              <UNK_A9D2A01D heading="198.04" id="2" position="[-1962.451, -1592.599, 115.1589]" />
+              <UNK_A9D2A01D heading="198.04" id="3" position="[-1965.409, -1596.202, 115.1887]" />
+              <UNK_A9D2A01D heading="174.04" id="4" position="[-1948.586, -1630.304, 115.0995]" />
+              <UNK_A9D2A01D heading="191.04" id="5" position="[-1956.022, -1633.048, 115.2063]" />
+              <UNK_A9D2A01D heading="191.04" id="6" position="[-1950.638, -1638.689, 115.4425]" />
+              <UNK_A9D2A01D heading="194.04" id="7" position="[-1953.892, -1628.884, 115.1714]" />
+              <UNK_A9D2A01D heading="202.04" id="8" position="[-1964.017, -1601.018, 115.1169]" />
+              <UNK_A9D2A01D heading="191.04" id="9" position="[-1960.077, -1599.418, 115.026]" />
+              <UNK_A9D2A01D heading="187.04" id="10" position="[-1956.319, -1598.763, 115.0471]" />
+              <UNK_A9D2A01D heading="187.04" id="11" position="[-1959.067, -1595.431, 115.1802]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Hennigan's Stead - Cougar" UNK_BDC4B490="300.0" id="HENNIGANS_STEAD" UNK_9C023927="[-2221.676, -2504.666, 64.0394]" UNK_F37BC5E9="40.0" position="[-2221.676, -2504.666, 64.0394]">
+            <outro heading="25.6037" position="[-2196.629, -2240.439, 65.956]" />
+            <variations>
+              <variation duration="1200000" id="HENNIGANS_STEAD_COUGAR" UNK_59376D33="19" UNK_5E50CFA2="FME_PLA_NEW_AUSTIN_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="0.04" id="0" position="[-2221.676, -2504.666, 64.0394]" />
+              <UNK_A9D2A01D heading="351.04" id="1" position="[-2225.931, -2506.136, 64.2112]" />
+              <UNK_A9D2A01D heading="351.04" id="2" position="[-2235.985, -2504.751, 64.093]" />
+              <UNK_A9D2A01D heading="351.04" id="3" position="[-2245.175, -2503.471, 63.775]" />
+              <UNK_A9D2A01D heading="345.04" id="4" position="[-2241.693, -2492.561, 63.4086]" />
+              <UNK_A9D2A01D heading="344.04" id="5" position="[-2227.961, -2495.828, 63.9772]" />
+              <UNK_A9D2A01D heading="0.04" id="6" position="[-2204.274, -2502.239, 63.8977]" />
+              <UNK_A9D2A01D heading="3.04" id="7" position="[-2203.5, -2509.765, 64.2653]" />
+              <UNK_A9D2A01D heading="1.04" id="8" position="[-2218.404, -2486.385, 64.4424]" />
+              <UNK_A9D2A01D heading="1.04" id="9" position="[-2229.499, -2481.597, 64.5863]" />
+              <UNK_A9D2A01D heading="352.04" id="10" position="[-2227.603, -2514.066, 64.5789]" />
+              <UNK_A9D2A01D heading="346.04" id="11" position="[-2234.021, -2528.783, 64.0624]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Grizzlies - Wolf" UNK_BDC4B490="300.0" id="GRIZZLIES" UNK_9C023927="[-1396.831, 1901.45, 311.239]" UNK_F37BC5E9="40.0" position="[-1396.831, 1901.45, 311.239]">
+            <outro heading="358.6037" position="[-1714.135, 1548.488, 234.2892]" />
+            <variations>
+              <variation duration="1200000" id="GRIZZLIES_WOLF" UNK_59376D33="20" UNK_5E50CFA2="FME_PLA_GRIZZLIES_WEST_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="178.04" id="0" position="[-1396.831, 1901.45, 311.239]" />
+              <UNK_A9D2A01D heading="155.04" id="1" position="[-1382.581, 1896.479, 314.5981]" />
+              <UNK_A9D2A01D heading="139.04" id="2" position="[-1389.325, 1891.465, 312.2711]" />
+              <UNK_A9D2A01D heading="145.04" id="3" position="[-1388.34, 1901.268, 312.9559]" />
+              <UNK_A9D2A01D heading="144.04" id="4" position="[-1398.649, 1887.737, 309.8225]" />
+              <UNK_A9D2A01D heading="167.04" id="5" position="[-1406.322, 1888.337, 307.0471]" />
+              <UNK_A9D2A01D heading="173.04" id="6" position="[-1402.777, 1902.712, 310.2875]" />
+              <UNK_A9D2A01D heading="184.04" id="7" position="[-1409.837, 1906.44, 310.5768]" />
+              <UNK_A9D2A01D heading="163.04" id="8" position="[-1396.634, 1917.096, 312.5951]" />
+              <UNK_A9D2A01D heading="164.04" id="9" position="[-1401.23, 1921.103, 313.3986]" />
+              <UNK_A9D2A01D heading="148.04" id="10" position="[-1389.43, 1915.16, 312.8278]" />
+              <UNK_A9D2A01D heading="134.04" id="11" position="[-1381.974, 1912.702, 314.6964]" />
+            </UNK_E793D55C>
+          </location>
+          <location UNK_813B03CC="Bayou Nwa - Alligator" UNK_BDC4B490="300.0" id="BAYOU_NWA" UNK_9C023927="[1999.279, -416.6662, 40.6825]" UNK_F37BC5E9="40.0" position="[1999.279, -416.6662, 40.6825]">
+            <outro heading="207.6037" position="[2234.555, -504.245, 40.7944]" />
+            <variations>
+              <variation duration="1200000" id="BAYOU_NWA_ALLIGATOR" UNK_59376D33="6" UNK_5E50CFA2="FME_PLA_BAYOU_NWA_STD" />
+            </variations>
+            <UNK_E793D55C>
+              <UNK_A9D2A01D heading="255.04" id="0" position="[1999.279, -416.6662, 40.6825]" />
+              <UNK_A9D2A01D heading="253.04" id="1" position="[2001.072, -412.6308, 40.7461]" />
+              <UNK_A9D2A01D heading="262.04" id="2" position="[2000.195, -409.0977, 40.5736]" />
+              <UNK_A9D2A01D heading="259.04" id="3" position="[1998.975, -421.5617, 40.626]" />
+              <UNK_A9D2A01D heading="258.04" id="4" position="[2013.766, -423.6026, 40.7202]" />
+              <UNK_A9D2A01D heading="259.04" id="5" position="[2014.882, -418.6009, 40.8051]" />
+              <UNK_A9D2A01D heading="259.04" id="6" position="[2023.901, -420.4369, 40.9708]" />
+              <UNK_A9D2A01D heading="258.04" id="7" position="[2015.127, -412.585, 40.3439]" />
+              <UNK_A9D2A01D heading="242.04" id="8" position="[2016.584, -406.5804, 40.5801]" />
+              <UNK_A9D2A01D heading="264.04" id="9" position="[1988.067, -415.982, 40.7659]" />
+              <UNK_A9D2A01D heading="265.04" id="10" position="[1979.981, -415.2095, 40.6672]" />
+              <UNK_A9D2A01D heading="260.04" id="11" position="[1983.982, -420.1894, 40.5322]" />
+            </UNK_E793D55C>
+          </location>
+        </locations>
+        <ui UNK_ADD8DEFE="FMEPLA" UNK_2EBB9392="FME_ROLE_PROTECT_LEGENDARY_ANIMAL" />
+      </event>
+    </events>
+  </data>
+</root>

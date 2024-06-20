@@ -1,0 +1,511 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_C0F083A6>
+    <gun_for_hire UNK_E0421740="INTRO_HIDEOUT_RHODES" location="GFH_RHODES_TRAIN_STATION" UNK_276B330D="ALDEN" />
+    <road_nodes>
+      <UNK_8E962BFE position="[2387.685, -75.9651, 42.5632]" radius="50" />
+      <UNK_8E962BFE position="[899.4517, -1048.765, 53.8136]" radius="50" />
+      <UNK_8E962BFE position="[1545.594, -1796.821, 51.61]" radius="500.0" />
+      <UNK_8E962BFE position="[1780.075, -649.083, 41.604]" radius="150.0" />
+    </road_nodes>
+    <UNK_6446F33>
+      <waypoint id="WAGON_TO_HORSES" UNK_AF4312D6="7.5" name="mp_intro_RHO_ambush_to_horses" />
+      <waypoint id="HORSES_TO_JESSICA_CAMP" name="mp_intro_RHO_horses_to_camp" />
+      <waypoint id="CAMP_TO_WARDROBE" name="mp_intro_RHO_camp_to_wardrobe" />
+      <waypoint id="GANG_BOSS_ESCAPE_RIGHT" name="mp_intro_RHO_gang_boss_escape_right" />
+      <waypoint id="GANG_BOSS_ESCAPE_LEFT" name="mp_intro_RHO_gang_boss_escape_left" />
+    </UNK_6446F33>
+    <UNK_40543AA1>
+      <player id="MALE">
+        <ped gender="FEMALE" id="JESSICA" model="CS_MP_JESSICA" outfit="META_OUTFIT_DEFAULT" />
+        <ped gender="MALE" id="HORLEY" model="CS_MP_HORLEY" outfit="META_OUTFIT_DEFAULT" />
+        <ped gender="MALE" id="CRIPPS" model="CS_MP_CRIPPS" outfit="META_OUTFIT_DEFAULT" />
+        <ped gender="MALE" id="CAMP_COOK" model="CS_MP_CAMP_COOK" />
+        <ped gender="MALE" id="GANG_BOSS" model="MP_G_M_Y_UNIEXCONFEDS_01" outfit="MP_INTRO_EXCONFED_MAP" />
+        <ped gender="MALE" id="HORSE_HORLEY" model="A_C_HORSE_AMERICANSTANDARDBRED_LIGHTBUCKSKIN" outfit="META_HORSE_SADDLE_JUST_ONLY" />
+      </player>
+      <player id="FEMALE">
+        <ped gender="FEMALE" id="JESSICA" model="CS_MP_JESSICA" outfit="META_OUTFIT_DEFAULT" />
+        <ped gender="MALE" id="HORLEY" model="CS_MP_HORLEY" outfit="META_OUTFIT_DEFAULT" />
+        <ped gender="MALE" id="CRIPPS" model="CS_MP_CRIPPS" outfit="META_OUTFIT_DEFAULT" />
+        <ped gender="MALE" id="CAMP_COOK" model="CS_MP_CAMP_COOK" />
+        <ped gender="MALE" id="GANG_BOSS" model="MP_G_M_Y_UNIEXCONFEDS_01" outfit="MP_INTRO_EXCONFED_MAP" />
+        <ped gender="MALE" id="HORSE_HORLEY" model="A_C_HORSE_AMERICANSTANDARDBRED_LIGHTBUCKSKIN" outfit="META_HORSE_SADDLE_JUST_ONLY" />
+      </player>
+    </UNK_40543AA1>
+    <UNK_5DF6D87C>
+      <vehicle id="PRISON_WAGON" model="WAGONPRISON01X" />
+      <vehicle id="AMBUSH_COACH" model="COACH2" />
+      <vehicle id="JESSICA_COACH" model="COACH4" />
+    </UNK_5DF6D87C>
+    <UNK_30408CA2>
+      <prop UNK_69D2E81D="false" id="JESSICA_PEN" model="P_PEN01X" position="[1.0, 1.0, 1.0]" rotation="[0.0, 0.0, 0.0]" />
+      <prop UNK_69D2E81D="false" id="JESSICA_JOURNAL" model="P_JOURNALSET02X" position="[1767.699, -1904.877, 48.0833]" rotation="[-0.0, 0.0, 0.474]" />
+      <prop UNK_69D2E81D="false" id="JESSICA_DESK" model="P_DESK10X" position="[1767.463, -1904.839, 47.2833]" rotation="[0.0, 0.0, -0.8608]" />
+      <prop UNK_69D2E81D="false" id="JESSICA_DESK_CHAIR" model="P_CHAIRDESK02X" position="[1767.245, -1904.196, 47.3224]" rotation="[-0.0, -0.0, 0.1978]" />
+      <prop UNK_69D2E81D="false" id="CAMP_TABLE_CHAIR_O1" model="P_CHAIRWHITE01X" position="[1759.187, -1906.274, 46.9236]" rotation="[0.0006, -0.0011, -0.8378]" />
+      <prop UNK_69D2E81D="false" id="CAMP_TABLE_CHAIR_O2" model="P_CHAIRWHITE01X" position="[1761.438, -1908.733, 46.989]" rotation="[-0.0266, -0.0128, 0.9283]" />
+      <prop UNK_69D2E81D="false" id="CAMP_BISTRO_CHAIR" model="P_BISTROCHAIR01X" position="[1760.518, -1898.798, 46.8708]" rotation="[-0.0117, -0.0192, -0.0569]" />
+      <prop UNK_69D2E81D="false" id="CAMP_UMBRELLA" model="P_UMBRELLANBX03X" position="[1759.627, -1909.084, 46.9254]" rotation="[-0.0503, -0.0032, 0.9987]" />
+      <prop UNK_69D2E81D="false" id="TREASURE_MAP" model="mp001_MP_map01x" position="[1.0, 1.0, 1.0]" rotation="[0.0, 0.0, 0.0]" />
+    </UNK_30408CA2>
+    <UNK_856A8871>
+      <scenario direction="0.0" id="JESSICA_CAMP__HITCH_LEFT" name="PROP_HitchingPost" player="true" position="[1739.282, -1901.007, 45.192]" prop="EXTERNAL" />
+      <scenario direction="0.0" id="JESSICA_CAMP__HITCH_RIGHT" name="PROP_HitchingPost" player="false" position="[1737.606, -1903.143, 45.2664]" prop="EXTERNAL" />
+      <scenario direction="105.052" id="JESSICA_CAMP__JESSICA_START" name="WORLD_HUMAN_STERNGUY_IDLES" player="false" position="[1752.223, -1893.79, 45.076]" prop="" />
+      <scenario direction="76.9702" id="JESSICA_CAMP__HORLEY_IDLE" name="WORLD_HUMAN_SMOKE" player="false" position="[1745.375, -1903.089, 46.045]" prop="" />
+      <scenario direction="212.9238" id="JESSICA_CAMP__CRIPPS_SIT" name="WORLD_HUMAN_SIT_BACK_EXHAUSTED" player="false" position="[1756.669, -1891.706, 45.254]" prop="" />
+    </UNK_856A8871>
+    <UNK_FDFFDA08>
+      <volume category="STANDARD" id="GUN_FOR_HIRE__BUILDING">
+        <component position="[1230.963, -1295.856, 77.798]" rotation="[0.0, 0.0, -43.5]" scale="[22.218, 8.199, 3.966]" type="volBox" />
+      </volume>
+      <volume category="STANDARD" id="GUN_FOR_HIRE__EXTERIOR">
+        <component position="[1228.315, -1291.89, 76.999]" rotation="[0.0, 0.0, 0.0]" scale="[40.0, 40.0, 8.0]" type="volCylinder" />
+      </volume>
+      <volume category="STANDARD" id="BOUNDS_PED">
+        <component position="[1.0, 1.0, 1.0]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 100.0]" type="volSphere" />
+      </volume>
+      <volume category="STANDARD" id="BOUNDS_JESSICA_CAMP">
+        <component position="[1758.357, -1901.36, 46.49]" rotation="[0.0, 0.0, 0.0]" scale="[100.0, 100.0, 100.0]" type="volCylinder" />
+      </volume>
+      <volume category="STANDARD" id="BOUNDS_TOWN">
+        <component position="[1352.781, -1289.812, 132.863]" rotation="[0.0, 0.0, 0.0]" scale="[300.0, 300.0, 100.0]" type="volCylinder" />
+      </volume>
+      <volume category="STANDARD" id="BOUNDS_TRAVEL_GFH">
+        <component position="[1685.532, -1648.49, 115.528]" rotation="[0.0, 0.0, 0.0]" scale="[295.729, 697.192, 200.0]" type="volBox" />
+        <component position="[1479.219, -1347.4, 115.528]" rotation="[0.0, 0.0, 0.0]" scale="[709.695, 239.385, 200.0]" type="volBox" />
+        <component position="[1353.166, -1118.46, 115.528]" rotation="[0.0, 0.0, 0.0]" scale="[457.175, 242.434, 200.0]" type="volBox" />
+        <component position="[1549.33, -1408.559, 115.528]" rotation="[0.0, 0.0, -36.445]" scale="[200.0, 200.0, 200.0]" type="volBox" />
+        <component position="[1561.839, -1241.607, 115.528]" rotation="[0.0, 0.0, -44.065]" scale="[200.0, 200.0, 200.0]" type="volBox" />
+        <component position="[1365.18, -1599.618, 115.528]" rotation="[0.0, 0.0, 0.0]" scale="[380.0, 489.0, 200.0]" type="volBox" />
+      </volume>
+      <volume category="STANDARD" id="BOUNDS_GFH">
+        <component position="[1240.361, -1291.618, 76.999]" rotation="[0.0, 0.0, 0.0]" scale="[70.0, 70.0, 50.0]" type="volCylinder" />
+      </volume>
+      <volume category="STANDARD" id="BOUNDS_TRAVEL_HIDEOUT">
+        <component position="[1261.551, -1159.303, 115.528]" rotation="[0.0, 0.0, -19.649]" scale="[524.579, 429.035, 200.0]" type="volBox" />
+        <component position="[1309.349, -827.311, 115.528]" rotation="[0.0, 0.0, -19.649]" scale="[392.889, 429.035, 200.0]" type="volBox" />
+        <component position="[1362.99, -561.742, 115.528]" rotation="[0.0, 0.0, -19.649]" scale="[314.406, 429.035, 200.0]" type="volBox" />
+        <component position="[1578.185, -418.951, 115.528]" rotation="[0.0, 0.0, 0.0]" scale="[623.912, 332.999, 200.0]" type="volBox" />
+        <component position="[1454.009, -922.456, 115.528]" rotation="[0.0, 0.0, 0.0]" scale="[204.428, 285.59, 200.0]" type="volBox" />
+        <component position="[1492.638, -729.196, 115.528]" rotation="[0.0, 0.0, -29.006]" scale="[154.456, 217.702, 200.0]" type="volBox" />
+        <component position="[1658.656, -599.351, 115.528]" rotation="[0.0, 0.0, -75.54]" scale="[154.456, 217.702, 200.0]" type="volBox" />
+        <component position="[1876.692, -639.444, 115.528]" rotation="[0.0, 0.0, -53.06]" scale="[236.072, 218.194, 200.0]" type="volBox" />
+        <component position="[1838.581, -461.013, 115.528]" rotation="[0.0, 0.0, 0.0]" scale="[200.0, 200.0, 200.0]" type="volBox" />
+      </volume>
+      <volume category="STANDARD" id="BOUNDS_HIDEOUT">
+        <component position="[1837.551, -606.619, 45.696]" rotation="[0.0, 0.0, -38.97]" scale="[194.438, 124.514, 50.0]" type="volCylinder" />
+      </volume>
+      <volume category="STANDARD" id="BOUNDS_HONOR">
+        <component position="[1779.264, -657.424, 45.696]" rotation="[0.0, 0.0, 0.0]" scale="[210.0, 210.0, 50.0]" type="volCylinder" />
+      </volume>
+      <volume category="STANDARD" id="BOUNDS_TREASURE">
+        <component position="[1402.911, -370.151, 115.528]" rotation="[0.0, 0.0, -19.649]" scale="[984.095, 779.068, 200.0]" type="volBox" />
+        <component position="[1718.435, -687.108, 115.528]" rotation="[0.0, 0.0, -19.649]" scale="[492.771, 391.04, 200.0]" type="volBox" />
+        <component position="[1838.581, -461.013, 115.528]" rotation="[0.0, 0.0, 0.0]" scale="[200.0, 254.953, 200.0]" type="volBox" />
+      </volume>
+      <volume category="STANDARD" id="BOUNDS_ABILITY_CARD">
+        <component position="[1142.56, -307.986, 101.726]" rotation="[0.0, 0.0, 0.0]" scale="[180.0, 180.0, 40.0]" type="volCylinder" />
+      </volume>
+      <volume category="STANDARD" id="BOUNDS_TRAVEL_CLAY">
+        <component position="[1112.258, -755.102, 115.528]" rotation="[0.0, 0.0, 22.019]" scale="[579.587, 1101.781, 200.0]" type="volBox" />
+        <component position="[1377.921, -419.055, 115.528]" rotation="[0.0, 0.0, 22.019]" scale="[399.884, 675.348, 200.0]" type="volBox" />
+        <component position="[1475.499, -751.948, 115.528]" rotation="[0.0, 0.0, -26.286]" scale="[200.0, 380.491, 200.0]" type="volBox" />
+        <component position="[1436.823, -968.922, 115.528]" rotation="[0.0, 0.0, 7.72]" scale="[200.0, 309.692, 200.0]" type="volBox" />
+        <component position="[1128.838, -1271.778, 115.528]" rotation="[0.0, 0.0, -28.265]" scale="[372.626, 344.021, 200.0]" type="volBox" />
+        <component position="[1035.898, -188.655, 115.528]" rotation="[0.0, 0.0, 22.019]" scale="[860.741, 251.438, 200.0]" type="volBox" />
+        <component position="[776.351, -922.334, 115.528]" rotation="[0.0, 0.0, 22.019]" scale="[579.587, 1044.233, 200.0]" type="volBox" />
+        <component position="[958.667, -1409.299, 115.528]" rotation="[0.0, 0.0, -0.033]" scale="[502.67, 197.894, 200.0]" type="volBox" />
+      </volume>
+      <volume category="STANDARD" id="BOUNDS_CLAY">
+        <component position="[1135.179, -1384.155, 66.149]" rotation="[0.0, 0.0, 0.0]" scale="[80.0, 80.0, 30.0]" type="volCylinder" />
+      </volume>
+      <volume category="STANDARD" id="JESSICA_CAMP_SPEED_ON_FOOT">
+        <component position="[1758.357, -1901.36, 46.49]" rotation="[0.0, 0.0, 7.876]" scale="[11.0, 11.0, 10.0]" type="volCylinder" />
+      </volume>
+      <volume category="STANDARD" id="JESSICA_CAMP_SPEED_ON_HORSE">
+        <component position="[1758.357, -1901.36, 46.49]" rotation="[0.0, 0.0, 7.876]" scale="[23.0, 23.0, 10.0]" type="volCylinder" />
+      </volume>
+      <volume UNK_A88E838F="true" category="ANTI_GRIEF" id="JESSICA_CAMP_HORSE_BLOCKER" UNK_F2971988="true">
+        <component position="[1758.357, -1901.36, 46.49]" rotation="[0.0, 0.0, 7.876]" scale="[14.0, 14.0, 10.0]" type="volCylinder" />
+      </volume>
+      <volume UNK_B3D1C428="true" UNK_DDAA3CEC="true" category="STANDARD" id="JESSICA_CAMP_AMBIENT_BLOCKER">
+        <component position="[1758.357, -1901.36, 46.49]" rotation="[0.0, 0.0, 0.0]" scale="[50.0, 50.0, 10.0]" type="volCylinder" />
+      </volume>
+      <volume UNK_B3D1C428="true" UNK_DDAA3CEC="true" category="STANDARD" id="HIDEOUT_AMBIENT_BLOCKER">
+        <component position="[1780.075, -649.083, 41.604]" rotation="[0.0, 0.0, 0.0]" scale="[300.0, 300.0, 100.0]" type="volCylinder" />
+      </volume>
+      <volume category="STANDARD" id="HIDEOUT_LARGE_SEARCH_AREA">
+        <component position="[1803.162, -573.636, 41.56]" rotation="[0.0, 0.0, -32.556]" scale="[140.0, 126.0, 50.0]" type="volCylinder" />
+      </volume>
+      <volume category="STANDARD" id="HIDEOUT_NEAR_ENEMY_CAMP">
+        <component position="[1780.619, -646.549, 41.56]" rotation="[0.0, 0.0, 0.0]" scale="[65.0, 65.0, 30.0]" type="volCylinder" />
+      </volume>
+      <volume category="STANDARD" id="GANG_HIDEOUT_SEARCH">
+        <component position="[1784.924, -655.086, 42.943]" rotation="[0.0, 0.0, -31.393]" scale="[15.0, 13.0, 5.0]" type="volCylinder" />
+      </volume>
+      <volume category="STANDARD" id="GANG_BOSS_REVEAL_TRIGGER">
+        <component position="[1786.134, -656.824, 42.943]" rotation="[0.0, 0.0, 0.0]" scale="[4.0, 5.0, 5.0]" type="volCylinder" />
+      </volume>
+      <volume category="STANDARD" id="GANG_BOSS_TENT">
+        <component position="[1786.383, -650.637, 41.817]" rotation="[-15.149, 43.667, -21.163]" scale="[1.8, 0.5, 1.8]" type="volBox" />
+      </volume>
+      <volume UNK_A88E838F="true" category="ANTI_GRIEF" id="HIDEOUT_HORSE_BLOCKER">
+        <component position="[1785.728, -655.298, 42.943]" rotation="[0.0, 0.0, -35.486]" scale="[14.5, 15.0, 5.0]" type="volCylinder" />
+      </volume>
+    </UNK_FDFFDA08>
+    <UNK_A61D3586>
+      <UNK_FE384B35 heading="335.0337" id="PLAYER_WARDROBE" position="[1754.8, -1906.526, 46.672]" />
+      <UNK_FE384B35 heading="212.9238" id="CRIPPS_SPAWN" position="[1756.669, -1891.706, 45.254]" />
+      <UNK_FE384B35 id="GANG_BOSS_TENT" position="[1786.688, -649.277, 41.478]" />
+      <UNK_FE384B35 id="MPINTRO_MCS1_ORIGIN" position="[1757.355, -1901.684, 46.783]" rotation="[0.0, 0.0, 38.771]" />
+    </UNK_A61D3586>
+    <UNK_798732B5 text="" />
+    <UNK_80D304F>
+      <boundary id="HORLEY" ped="HORLEY" volume="BOUNDS_PED" />
+      <boundary id="JESSICA" ped="JESSICA" volume="BOUNDS_PED" />
+      <boundary id="JESSICA_CAMP" volume="BOUNDS_JESSICA_CAMP" />
+      <boundary id="TOWN_BLOCK" volume="BOUNDS_TOWN" />
+      <boundary id="TRAVEL_GFH" volume="BOUNDS_TRAVEL_GFH" />
+      <boundary id="POST_OFFICE" volume="BOUNDS_GFH" />
+      <boundary id="TRAVEL_HIDEOUT" volume="BOUNDS_TRAVEL_HIDEOUT" />
+      <boundary id="HIDEOUT" volume="BOUNDS_HIDEOUT" />
+      <boundary id="HONOR_BLOCK" volume="BOUNDS_HONOR" />
+      <boundary id="TREASURE" volume="BOUNDS_TREASURE" />
+      <boundary id="ABILITY_CARD" volume="BOUNDS_ABILITY_CARD" />
+      <boundary id="TRAVEL_CLAY" volume="BOUNDS_TRAVEL_CLAY" />
+      <boundary id="CLAY" volume="BOUNDS_CLAY" />
+    </UNK_80D304F>
+    <UNK_56768514>
+      <UNK_CF6A2AB6 id="STANDARD" mode="CLOSE_BY">
+        <settings UNK_25C1944C="true" />
+      </UNK_CF6A2AB6>
+      <UNK_CF6A2AB6 id="HIDEOUT_COMBAT" mode="DESIRED">
+        <heading position="[1785.677, -655.2034, 42.6312]" />
+        <location fallback="[1785.677, -655.2034, 42.6312]" UNK_2A8AFF73="50.0" UNK_E13F4D76="20.0" position="[1785.677, -655.2034, 42.6312]" />
+      </UNK_CF6A2AB6>
+      <UNK_CF6A2AB6 id="STAGE_TREASURE" mode="DESIRED">
+        <heading position="[1106.137, -277.544, 101.726]" />
+        <location fallback="[1238.276, -297.208, 93.902]" UNK_2A8AFF73="150.0" UNK_E13F4D76="85.0" position="[1106.137, -277.544, 101.726]" />
+      </UNK_CF6A2AB6>
+      <UNK_CF6A2AB6 id="NEAR_CLAY" mode="DESIRED">
+        <heading position="[1135.179, -1384.155, 66.149]" />
+        <location fallback="[1153.562, -1385.106, 64.026]" UNK_2A8AFF73="45.0" UNK_E13F4D76="10.0" position="[1135.179, -1384.155, 66.149]" />
+      </UNK_CF6A2AB6>
+    </UNK_56768514>
+    <UNK_405BBFA2>
+      <anim_scene id="MPINTRO_INT">
+        <UNK_30408CA2 text="" />
+        <UNK_5DF6D87C text="" />
+        <UNK_40543AA1 text="" />
+      </anim_scene>
+      <anim_scene id="MPINTRO_BINK">
+        <UNK_30408CA2 text="" />
+        <UNK_5DF6D87C text="" />
+        <UNK_40543AA1 text="" />
+      </anim_scene>
+      <anim_scene id="MPINTRO_INT2">
+        <UNK_30408CA2 text="" />
+        <UNK_5DF6D87C>
+          <vehicle UNK_4F216C4="MPINTRO_PRISON_WAGON_HORSES" UNK_7FA651F5="7" heading="100.525" id="PRISON_WAGON" position="[3340.68, -641.563, 45.4616]" />
+          <vehicle heading="100.525" id="AMBUSH_COACH" position="[1.0, 1.0, 1.0]" UNK_384EFFDD="true" />
+        </UNK_5DF6D87C>
+        <UNK_40543AA1>
+          <ped heading="264.0319" id="HORLEY" position="[-1098.675, 174.7824, 60.3209]" />
+        </UNK_40543AA1>
+      </anim_scene>
+      <anim_scene id="MPINTRO_MCS1">
+        <UNK_30408CA2>
+          <prop id="JESSICA_PEN" />
+          <prop id="JESSICA_JOURNAL" />
+          <prop id="JESSICA_DESK_CHAIR" />
+          <prop id="CAMP_TABLE_CHAIR_O2" />
+        </UNK_30408CA2>
+        <UNK_40543AA1>
+          <ped id="CAMP_COOK" UNK_FE384B35="CRIPPS_SPAWN" />
+          <ped id="JESSICA" scenario="JESSICA_CAMP__JESSICA_START" />
+          <ped id="HORLEY" scenario="JESSICA_CAMP__HORLEY_IDLE" />
+        </UNK_40543AA1>
+      </anim_scene>
+      <anim_scene id="MPINTRO_MCS1_LOOPS">
+        <UNK_30408CA2>
+          <prop id="JESSICA_PEN" />
+          <prop id="JESSICA_JOURNAL" />
+          <prop id="JESSICA_DESK" />
+          <prop id="JESSICA_DESK_CHAIR" />
+          <prop id="CAMP_TABLE_CHAIR_O2" />
+        </UNK_30408CA2>
+        <UNK_40543AA1>
+          <ped id="CAMP_COOK" UNK_FE384B35="CRIPPS_SPAWN" />
+          <ped id="JESSICA" scenario="JESSICA_CAMP__JESSICA_START" />
+        </UNK_40543AA1>
+      </anim_scene>
+      <anim_scene id="MPINTRO_MCS2">
+        <UNK_30408CA2>
+          <prop id="JESSICA_PEN" />
+          <prop id="JESSICA_JOURNAL" />
+          <prop id="JESSICA_DESK" />
+          <prop id="JESSICA_DESK_CHAIR" />
+          <prop id="CAMP_TABLE_CHAIR_O1" />
+          <prop id="CAMP_TABLE_CHAIR_O2" />
+          <prop id="CAMP_BISTRO_CHAIR" />
+          <prop id="CAMP_UMBRELLA" />
+        </UNK_30408CA2>
+        <UNK_40543AA1>
+          <ped id="CRIPPS" UNK_FE384B35="CRIPPS_SPAWN" />
+          <ped id="JESSICA" scenario="JESSICA_CAMP__JESSICA_START" />
+          <ped id="HORLEY" scenario="JESSICA_CAMP__HORLEY_IDLE" />
+        </UNK_40543AA1>
+      </anim_scene>
+      <anim_scene id="MPINTRO_IG2_GANG_BOSS">
+        <UNK_30408CA2>
+          <prop id="TREASURE_MAP" />
+        </UNK_30408CA2>
+        <UNK_40543AA1>
+          <ped heading="0.0" id="GANG_BOSS" position="[1.0, 1.0, 1.0]" />
+        </UNK_40543AA1>
+      </anim_scene>
+    </UNK_405BBFA2>
+    <UNK_172D108C>
+      <stage id="SISIKA_PENITENTIARY">
+        <UNK_40543AA1>
+          <ped heading="0.0" id="PLAYER" position="[3353.617, -677.1411, 44.7434]" />
+        </UNK_40543AA1>
+      </stage>
+      <stage boundary="HORLEY" id="TRAVEL_JESSICA_CAMP">
+        <UNK_30408CA2>
+          <prop id="JESSICA_PEN" />
+          <prop id="JESSICA_JOURNAL" />
+          <prop id="JESSICA_DESK" />
+          <prop id="JESSICA_DESK_CHAIR" />
+          <prop id="CAMP_TABLE_CHAIR_O1" />
+          <prop id="CAMP_TABLE_CHAIR_O2" />
+          <prop id="CAMP_BISTRO_CHAIR" />
+          <prop id="CAMP_UMBRELLA" />
+        </UNK_30408CA2>
+        <UNK_40543AA1>
+          <ped heading="202.5746" id="HORSE_HORLEY" position="[1420.638, -1653.564, 66.938]" />
+          <ped heading="196.5583" id="HORSE_PLAYER" position="[1417.202, -1652.045, 67.004]" />
+          <ped heading="251.0429" id="PLAYER" position="[1398.748, -1646.7, 66.86]" />
+          <ped heading="273.1488" id="HORLEY" position="[1402.766, -1648.582, 66.896]" />
+          <ped id="CRIPPS" scenario="JESSICA_CAMP__CRIPPS_SIT" />
+          <ped id="CAMP_COOK" UNK_FE384B35="CRIPPS_SPAWN" />
+        </UNK_40543AA1>
+        <UNK_3B316D61>
+          <world_state id="WS_MP_INTRO_JESSICA_CAMP_RHODES" />
+        </UNK_3B316D61>
+        <UNK_5DF6D87C>
+          <vehicle UNK_4F216C4="MPINTRO_PRISON_WAGON_HORSES" UNK_7FA651F5="7" heading="0.0" id="PRISON_WAGON" position="[1395.229, -1647.169, 67.5883]" />
+          <vehicle heading="0.0" id="AMBUSH_COACH" position="[1404.733, -1653.843, 67.7683]" UNK_384EFFDD="true" />
+        </UNK_5DF6D87C>
+        <UNK_FDFFDA08>
+          <volume id="JESSICA_CAMP_SPEED_ON_FOOT" />
+          <volume id="JESSICA_CAMP_SPEED_ON_HORSE" />
+          <volume id="JESSICA_CAMP_HORSE_BLOCKER" />
+          <volume id="JESSICA_CAMP_AMBIENT_BLOCKER" />
+        </UNK_FDFFDA08>
+      </stage>
+      <stage boundary="JESSICA_CAMP" id="MEET_JESSICA">
+        <UNK_30408CA2>
+          <prop id="JESSICA_PEN" />
+          <prop id="JESSICA_JOURNAL" />
+          <prop id="JESSICA_DESK" />
+          <prop id="JESSICA_DESK_CHAIR" />
+          <prop id="CAMP_TABLE_CHAIR_O1" />
+          <prop id="CAMP_TABLE_CHAIR_O2" />
+          <prop id="CAMP_BISTRO_CHAIR" />
+          <prop id="CAMP_UMBRELLA" />
+        </UNK_30408CA2>
+        <UNK_40543AA1>
+          <ped heading="281.7394" id="PLAYER" position="[1742.845, -1895.562, 44.585]" />
+          <ped id="HORLEY" scenario="JESSICA_CAMP__HORLEY_IDLE" />
+          <ped id="JESSICA" scenario="JESSICA_CAMP__JESSICA_START" />
+          <ped id="CRIPPS" scenario="JESSICA_CAMP__CRIPPS_SIT" />
+          <ped id="CAMP_COOK" UNK_FE384B35="CRIPPS_SPAWN" />
+          <ped id="HORSE_PLAYER" scenario="JESSICA_CAMP__HITCH_LEFT" />
+          <ped id="HORSE_HORLEY" scenario="JESSICA_CAMP__HITCH_RIGHT" />
+        </UNK_40543AA1>
+        <UNK_3B316D61>
+          <world_state id="WS_MP_INTRO_JESSICA_CAMP_RHODES" />
+        </UNK_3B316D61>
+        <UNK_FDFFDA08>
+          <volume id="JESSICA_CAMP_SPEED_ON_FOOT" />
+          <volume id="JESSICA_CAMP_SPEED_ON_HORSE" />
+          <volume id="JESSICA_CAMP_HORSE_BLOCKER" />
+          <volume id="JESSICA_CAMP_AMBIENT_BLOCKER" />
+        </UNK_FDFFDA08>
+      </stage>
+      <stage boundary="JESSICA_CAMP" id="SELECT_CLOTHING">
+        <UNK_30408CA2>
+          <prop id="JESSICA_PEN" />
+          <prop id="JESSICA_JOURNAL" />
+          <prop id="JESSICA_DESK" />
+          <prop id="JESSICA_DESK_CHAIR" />
+          <prop id="CAMP_TABLE_CHAIR_O1" />
+          <prop id="CAMP_TABLE_CHAIR_O2" />
+          <prop id="CAMP_BISTRO_CHAIR" />
+          <prop id="CAMP_UMBRELLA" />
+        </UNK_30408CA2>
+        <UNK_40543AA1>
+          <ped heading="138.3848" id="PLAYER" position="[1758.677, -1903.582, 45.504]" />
+          <ped id="HORLEY" scenario="JESSICA_CAMP__HORLEY_IDLE" />
+          <ped heading="65.3042" id="JESSICA" position="[1762.982, -1905.479, 45.381]" />
+          <ped id="CRIPPS" scenario="JESSICA_CAMP__CRIPPS_SIT" />
+          <ped id="CAMP_COOK" UNK_FE384B35="CRIPPS_SPAWN" />
+          <ped id="HORSE_PLAYER" scenario="JESSICA_CAMP__HITCH_LEFT" />
+          <ped id="HORSE_HORLEY" scenario="JESSICA_CAMP__HITCH_RIGHT" />
+        </UNK_40543AA1>
+        <UNK_3B316D61>
+          <world_state id="WS_MP_INTRO_JESSICA_CAMP_RHODES" />
+        </UNK_3B316D61>
+        <UNK_FDFFDA08>
+          <volume id="JESSICA_CAMP_SPEED_ON_FOOT" />
+          <volume id="JESSICA_CAMP_SPEED_ON_HORSE" />
+          <volume id="JESSICA_CAMP_HORSE_BLOCKER" />
+          <volume id="JESSICA_CAMP_AMBIENT_BLOCKER" />
+        </UNK_FDFFDA08>
+      </stage>
+      <stage boundary="JESSICA_CAMP" id="PLACE_CAMP">
+        <UNK_30408CA2>
+          <prop id="JESSICA_PEN" />
+          <prop id="JESSICA_JOURNAL" />
+          <prop id="JESSICA_DESK" />
+          <prop id="JESSICA_DESK_CHAIR" />
+          <prop id="CAMP_TABLE_CHAIR_O1" />
+          <prop id="CAMP_TABLE_CHAIR_O2" />
+          <prop id="CAMP_BISTRO_CHAIR" />
+          <prop id="CAMP_UMBRELLA" />
+        </UNK_30408CA2>
+        <UNK_40543AA1>
+          <ped heading="138.3848" id="PLAYER" position="[1758.677, -1903.582, 45.504]" />
+          <ped id="HORLEY" scenario="JESSICA_CAMP__HORLEY_IDLE" />
+          <ped heading="65.3042" id="JESSICA" position="[1762.982, -1905.479, 45.381]" />
+          <ped id="CRIPPS" scenario="JESSICA_CAMP__CRIPPS_SIT" />
+          <ped id="CAMP_COOK" UNK_FE384B35="CRIPPS_SPAWN" />
+          <ped id="HORSE_PLAYER" scenario="JESSICA_CAMP__HITCH_LEFT" />
+          <ped id="HORSE_HORLEY" scenario="JESSICA_CAMP__HITCH_RIGHT" />
+        </UNK_40543AA1>
+        <UNK_3B316D61>
+          <world_state id="WS_MP_INTRO_JESSICA_CAMP_RHODES" />
+        </UNK_3B316D61>
+        <UNK_FDFFDA08>
+          <volume id="JESSICA_CAMP_SPEED_ON_FOOT" />
+          <volume id="JESSICA_CAMP_SPEED_ON_HORSE" />
+          <volume id="JESSICA_CAMP_HORSE_BLOCKER" />
+          <volume id="JESSICA_CAMP_AMBIENT_BLOCKER" />
+        </UNK_FDFFDA08>
+      </stage>
+      <stage boundary="TRAVEL_GFH" id="TRAVEL_POST_OFFICE" UNK_8544B5A7="STANDARD">
+        <UNK_30408CA2>
+          <prop id="JESSICA_PEN" />
+          <prop id="JESSICA_JOURNAL" />
+          <prop id="JESSICA_DESK" />
+          <prop id="JESSICA_DESK_CHAIR" />
+          <prop id="CAMP_TABLE_CHAIR_O1" />
+          <prop id="CAMP_TABLE_CHAIR_O2" />
+          <prop id="CAMP_BISTRO_CHAIR" />
+          <prop id="CAMP_UMBRELLA" />
+        </UNK_30408CA2>
+        <UNK_40543AA1>
+          <ped heading="127.2497" id="PLAYER" position="[1745.635, -1898.378, 44.841]" />
+          <ped id="HORLEY" scenario="JESSICA_CAMP__HORLEY_IDLE" />
+          <ped heading="65.3042" id="JESSICA" position="[1762.982, -1905.479, 45.381]" />
+          <ped id="CRIPPS" scenario="JESSICA_CAMP__CRIPPS_SIT" />
+          <ped id="CAMP_COOK" UNK_FE384B35="CRIPPS_SPAWN" />
+          <ped id="HORSE_PLAYER" scenario="JESSICA_CAMP__HITCH_LEFT" />
+          <ped id="HORSE_HORLEY" scenario="JESSICA_CAMP__HITCH_RIGHT" />
+        </UNK_40543AA1>
+        <UNK_3B316D61>
+          <world_state id="WS_MP_INTRO_JESSICA_CAMP_RHODES" />
+        </UNK_3B316D61>
+        <UNK_FDFFDA08>
+          <volume id="GUN_FOR_HIRE__EXTERIOR" />
+          <volume id="JESSICA_CAMP_SPEED_ON_FOOT" />
+          <volume id="JESSICA_CAMP_SPEED_ON_HORSE" />
+          <volume id="JESSICA_CAMP_HORSE_BLOCKER" />
+          <volume id="JESSICA_CAMP_AMBIENT_BLOCKER" />
+        </UNK_FDFFDA08>
+      </stage>
+      <stage boundary="POST_OFFICE" id="POST_OFFICE" UNK_8544B5A7="STANDARD">
+        <UNK_40543AA1>
+          <ped heading="133.8509" id="PLAYER" position="[1236.959, -1286.401, 75.928]" />
+          <ped heading="54.3103" id="HORSE_PLAYER" position="[1242.246, -1281.151, 74.865]" />
+        </UNK_40543AA1>
+        <UNK_FDFFDA08>
+          <volume id="GUN_FOR_HIRE__BUILDING" />
+        </UNK_FDFFDA08>
+      </stage>
+      <stage boundary="TRAVEL_HIDEOUT" id="TRAVEL_HIDEOUT" UNK_8544B5A7="STANDARD">
+        <UNK_40543AA1>
+          <ped heading="320.769" id="PLAYER" position="[1237.412, -1285.766, 75.923]" />
+          <ped heading="54.3103" id="HORSE_PLAYER" position="[1242.246, -1281.151, 74.865]" />
+        </UNK_40543AA1>
+        <UNK_FDFFDA08>
+          <volume id="HIDEOUT_AMBIENT_BLOCKER" />
+          <volume id="HIDEOUT_LARGE_SEARCH_AREA" />
+          <volume id="HIDEOUT_NEAR_ENEMY_CAMP" />
+        </UNK_FDFFDA08>
+      </stage>
+      <stage boundary="HIDEOUT" id="HIDEOUT" UNK_8544B5A7="HIDEOUT_COMBAT">
+        <UNK_40543AA1>
+          <ped heading="107.0007" id="PLAYER" position="[1833.348, -645.923, 41.384]" />
+          <ped heading="191.4203" id="HORSE_PLAYER" position="[1839.668, -634.799, 41.332]" />
+        </UNK_40543AA1>
+        <UNK_FDFFDA08>
+          <volume id="HIDEOUT_AMBIENT_BLOCKER" />
+          <volume id="GANG_BOSS_TENT" />
+          <volume id="HIDEOUT_HORSE_BLOCKER" />
+        </UNK_FDFFDA08>
+      </stage>
+      <stage boundary="HONOR_BLOCK" id="HONOR_CHOICE">
+        <UNK_40543AA1>
+          <ped heading="28.043" id="PLAYER" position="[1789.533, -658.641, 41.595]" />
+          <ped heading="322.9837" id="HORSE_PLAYER" position="[1800.92, -659.739, 41.837]" />
+        </UNK_40543AA1>
+        <UNK_FDFFDA08>
+          <volume id="HIDEOUT_AMBIENT_BLOCKER" />
+          <volume id="GANG_HIDEOUT_SEARCH" />
+          <volume id="GANG_BOSS_REVEAL_TRIGGER" />
+          <volume id="HIDEOUT_HORSE_BLOCKER" />
+        </UNK_FDFFDA08>
+      </stage>
+      <stage boundary="TREASURE" id="TREASURE_HUNT" UNK_8544B5A7="STANDARD">
+        <UNK_40543AA1>
+          <ped heading="322.9837" id="HORSE_PLAYER" position="[1800.92, -659.739, 41.837]" />
+          <ped id="PLAYER" mount="HORSE_PLAYER" />
+        </UNK_40543AA1>
+        <UNK_3B316D61>
+          <world_state id="WS_MP_TREASURE_MAP_INTRO_RHODES_03" />
+        </UNK_3B316D61>
+        <UNK_FDFFDA08>
+          <volume id="HIDEOUT_AMBIENT_BLOCKER" />
+        </UNK_FDFFDA08>
+      </stage>
+      <stage boundary="ABILITY_CARD" id="ABILITY_CARDS" UNK_8544B5A7="STANDARD">
+        <UNK_40543AA1>
+          <ped heading="131.6121" id="PLAYER" position="[1149.838, -303.138, 100.321]" />
+          <ped heading="186.9639" id="HORSE_PLAYER" position="[1147.171, -315.645, 100.592]" />
+        </UNK_40543AA1>
+        <UNK_3B316D61>
+          <world_state id="WS_MP_TREASURE_MAP_INTRO_RHODES_03" />
+        </UNK_3B316D61>
+      </stage>
+      <stage boundary="TRAVEL_CLAY" id="TRAVEL_CLAY" UNK_8544B5A7="STANDARD">
+        <UNK_40543AA1>
+          <ped heading="186.9639" id="HORSE_PLAYER" position="[1147.171, -315.645, 100.592]" />
+          <ped id="PLAYER" mount="HORSE_PLAYER" />
+        </UNK_40543AA1>
+        <UNK_3B316D61>
+          <world_state id="WS_MP_TREASURE_MAP_INTRO_RHODES_03" />
+        </UNK_3B316D61>
+      </stage>
+      <stage boundary="CLAY" id="MEET_CLAY" UNK_8544B5A7="NEAR_CLAY">
+        <UNK_40543AA1>
+          <ped heading="73.2704" id="PLAYER" position="[1171.81, -1395.219, 65.162]" />
+          <ped heading="78.2093" id="HORSE_PLAYER" position="[1173.824, -1393.669, 65.132]" />
+        </UNK_40543AA1>
+      </stage>
+    </UNK_172D108C>
+  </UNK_C0F083A6>
+</root>

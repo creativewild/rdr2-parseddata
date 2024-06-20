@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_8788C0B9>
+    <pickup id="HEARTLAND_0">
+      <UNK_852E174A UNK_22B80536="DD_HEARTLAND_A_H" UNK_FE1FB47E="DD_HEARTLAND_D_H" UNK_B5C3A3BB="DD_HEARTLAND_D_W" position="[381.3055, -15.3654, 107.6609]" />
+      <UNK_A9872A07>
+        <UNK_50A088C3 heading="0.0" position="[710.5, 22.6, 153.5]" />
+        <UNK_50A088C3 heading="319.3" position="[692.8155, 133.3059, 151.9905]">
+          <propsets>
+            <prop position="[695.3475, 128.1876, 151.9003]" propset="pg_stuckwagon01x" />
+            <prop position="[694.3911, 128.9978, 151.9127]" propset="pg_mp_campfire02x" />
+          </propsets>
+        </UNK_50A088C3>
+        <UNK_50A088C3 heading="38.09" position="[591.7919, 14.3731, 143.0416]">
+          <propsets>
+            <prop position="[596.4359, 8.2408, 142.785]" propset="pg_mp_possecamp_campfire_medium000x" />
+            <prop position="[593.8403, 2.5468, 142.7655]" propset="pg_ambcamp01x_tent_hide" />
+          </propsets>
+        </UNK_50A088C3>
+      </UNK_A9872A07>
+    </pickup>
+    <pickup id="BBUSH_TRAWL_0">
+      <UNK_852E174A UNK_22B80536="DD_BBUSH_TRAWL_A_H" UNK_FE1FB47E="DD_BBUSH_TRAWL_D_H" UNK_B5C3A3BB="DD_BBUSH_TRAWL_D_W" position="[-2409.523, -2458.773, 59.1716]" />
+      <UNK_A9872A07>
+        <UNK_50A088C3 heading="0.0" position="[-2078.2, -2926.93, 1.68]">
+          <propsets>
+            <prop position="[-2070.677, -2927.193, 1.953]" propset="pg_re_wildman01x" />
+          </propsets>
+        </UNK_50A088C3>
+        <UNK_50A088C3 heading="284.6737" position="[-2188.945, -2880.029, 22.6015]">
+          <propsets>
+            <prop position="[-2191.041, -2874.828, 23.7117]" propset="pg_mp_possecamp_campfire_medium000x" />
+          </propsets>
+        </UNK_50A088C3>
+        <UNK_50A088C3 heading="61.19" position="[-1985.613, -2904.623, 14.5871]">
+          <propsets>
+            <prop position="[-1979.854, -2902.014, 14.5237]" propset="pg_ambcamp01x_tent_oilskin01" />
+          </propsets>
+        </UNK_50A088C3>
+      </UNK_A9872A07>
+    </pickup>
+    <pickup id="PLEASANCE_HOUSE_0">
+      <UNK_852E174A UNK_22B80536="DD_PLEASANCE_HOUSE_A_H" UNK_FE1FB47E="DD_PLEASANCE_HOUSE_D_H" UNK_B5C3A3BB="DD_PLEASANCE_HOUSE_D_W" position="[-4790.568, -2685.156, -13.9173]" />
+      <UNK_A9872A07>
+        <UNK_50A088C3 heading="0.0" position="[-4338.422, -2443.438, 16.228]" />
+        <UNK_50A088C3 heading="211.4" position="[-4339.962, -2492.897, 2.4709]">
+          <propsets>
+            <prop position="[-4341.903, -2488.651, 2.5855]" propset="pg_ambcamp01x_tent_destroyed" />
+          </propsets>
+        </UNK_50A088C3>
+        <UNK_50A088C3 heading="139.76" position="[-4293.143, -2387.476, 12.3953]">
+          <propsets>
+            <prop position="[-4288.144, -2384.546, 12.4033]" propset="pg_mp_workshop02x" />
+          </propsets>
+        </UNK_50A088C3>
+      </UNK_A9872A07>
+    </pickup>
+    <pickup id="R_FORK_0">
+      <UNK_852E174A UNK_22B80536="DD_R_FORK_A_H" UNK_FE1FB47E="DD_R_FORK_D_H" UNK_B5C3A3BB="DD_R_FORK_D_W" position="[-4992.165, -2510.933, -8.5293]" />
+      <UNK_A9872A07>
+        <UNK_50A088C3 heading="0.0" position="[-5209.24, -2133.449, 11.0073]">
+          <propsets>
+            <prop position="[-4983.312, -2503.408, -8.0579]" propset="pg_mp_possecamp_campfire_medium000x" />
+            <prop position="[-4988.896, -2502.558, -8.2416]" propset="pg_mp_workshop02x" />
+          </propsets>
+        </UNK_50A088C3>
+        <UNK_50A088C3 heading="212.9" position="[-5146.192, -2131.073, 10.4823]">
+          <propsets>
+            <prop position="[-4983.312, -2503.408, -8.0579]" propset="pg_mp_possecamp_campfire_medium000x" />
+            <prop position="[-4988.896, -2502.558, -8.2416]" propset="pg_mp_workshop02x" />
+          </propsets>
+        </UNK_50A088C3>
+        <UNK_50A088C3 heading="167.792" position="[-5235.278, -2141.485, 10.2822]">
+          <propsets>
+            <prop position="[-4983.312, -2503.408, -8.0579]" propset="pg_mp_possecamp_campfire_medium000x" />
+            <prop position="[-4988.896, -2502.558, -8.2416]" propset="pg_mp_workshop02x" />
+          </propsets>
+        </UNK_50A088C3>
+      </UNK_A9872A07>
+    </pickup>
+    <pickup id="GAPTOOTH_RIDGE_0">
+      <UNK_852E174A UNK_22B80536="DD_GAPTOOTH_RIDGE_A_H" UNK_FE1FB47E="DD_GAPTOOTH_RIDGE_D_H" UNK_B5C3A3BB="DD_GAPTOOTH_RIDGE_D_W" position="[-5225.439, -3457.996, -22.2699]" />
+      <UNK_A9872A07>
+        <UNK_50A088C3 heading="0.0" position="[-5235.16, -3000.862, 8.6772]">
+          <propsets>
+            <prop position="[-5235.401, -3011.977, 8.563]" propset="pg_re_wildman01x" />
+          </propsets>
+        </UNK_50A088C3>
+        <UNK_50A088C3 heading="193.8" position="[-5308.141, -3060.248, -5.3035]">
+          <propsets>
+            <prop position="[-5303.928, -3060.879, -5.4956]" propset="pg_stuckwagon02x" />
+            <prop position="[-5301.715, -3060.644, -5.4695]" propset="pg_mp_possecamp_campfire_medium000x" />
+          </propsets>
+        </UNK_50A088C3>
+        <UNK_50A088C3 heading="93.79" position="[-5152.035, -3066.634, 2.9159]">
+          <propsets>
+            <prop position="[-5154.005, -3062.632, 3.4921]" propset="pg_mp_venomsuck01x" />
+          </propsets>
+        </UNK_50A088C3>
+      </UNK_A9872A07>
+    </pickup>
+    <pickup id="RIO_BRAVO_0">
+      <UNK_852E174A UNK_22B80536="DD_RIO_BRAVO_A_H" UNK_FE1FB47E="DD_RIO_BRAVO_D_H" UNK_B5C3A3BB="DD_RIO_BRAVO_D_W" position="[-5391.099, -3640.569, -23.0497]" />
+      <UNK_A9872A07>
+        <UNK_50A088C3 heading="128.4515" position="[-4698.488, -3739.547, 11.8437]" />
+        <UNK_50A088C3 heading="235.9358" position="[-4768.731, -3659.754, 7.6699]">
+          <propsets>
+            <prop position="[-4777.477, -3657.96, 7.5862]" propset="pg_stuckwagon02x" />
+          </propsets>
+        </UNK_50A088C3>
+        <UNK_50A088C3 heading="125.945" position="[-4810.548, -3795.073, 6.2359]">
+          <propsets>
+            <prop position="[-4811.793, -3790.384, 6.4811]" propset="pg_ambcamp01x_tent_destroyed" />
+          </propsets>
+        </UNK_50A088C3>
+      </UNK_A9872A07>
+    </pickup>
+    <pickup id="PAC_RAIL_0">
+      <UNK_852E174A UNK_22B80536="DD_PAC_RAIL_A_H" UNK_FE1FB47E="DD_PAC_RAIL_D_H" UNK_B5C3A3BB="DD_PAC_RAIL_D_W" position="[-1967.335, -1645.586, 116.1148]" />
+      <UNK_A9872A07>
+        <UNK_50A088C3 heading="0.0" position="[-1705.752, -2108.339, 48.1561]">
+          <propsets>
+            <prop position="[-1704.138, -2116.92, 48.2264]" propset="pg_ambcamp01x_tent_hide" />
+            <prop position="[-1707.339, -2116.695, 48.259]" propset="pg_mp_possecamp_campfire_medium000x" />
+          </propsets>
+        </UNK_50A088C3>
+        <UNK_50A088C3 heading="352.2" position="[-1702.062, -2180.233, 48.3417]">
+          <propsets>
+            <prop position="[-1712.63, -2178.223, 47.7591]" propset="pg_mp_venomsuck01x" />
+          </propsets>
+        </UNK_50A088C3>
+        <UNK_50A088C3 heading="45.0" position="[-1667.251, -2063.53, 47.9998]">
+          <propsets>
+            <prop position="[-1663.229, -2058.623, 48.1986]" propset="pg_mp_venomsuck01x" />
+          </propsets>
+        </UNK_50A088C3>
+      </UNK_A9872A07>
+    </pickup>
+    <pickup id="STRAWBERRY_0">
+      <UNK_852E174A UNK_22B80536="DD_STRAWBERRY_A_H" UNK_FE1FB47E="DD_STRAWBERRY_D_H" UNK_B5C3A3BB="DD_STRAWBERRY_D_W" position="[-1098.54, -568.7876, 81.3833]" />
+      <UNK_A9872A07>
+        <UNK_50A088C3 heading="0.0" position="[-1775.876, -439.7199, 154.0021]" />
+        <UNK_50A088C3 heading="323.59" position="[-1837.43, -424.0062, 159.7674]" />
+        <UNK_50A088C3 heading="242.0" position="[-1800.875, -357.3835, 162.9594]" />
+      </UNK_A9872A07>
+    </pickup>
+    <pickup id="PAINTED_SKY_0">
+      <UNK_852E174A UNK_22B80536="DD_PAINTED_SKY_A_H" UNK_FE1FB47E="DD_PAINTED_SKY_D_H" UNK_B5C3A3BB="DD_PAINTED_SKY_D_W" position="[-350.5425, -367.2701, 86.2659]" />
+      <UNK_A9872A07>
+        <UNK_50A088C3 heading="0.0" position="[-618.051, -58.0306, 82.6137]" />
+        <UNK_50A088C3 heading="41.8" position="[-561.9882, -59.958, 81.5519]">
+          <propsets>
+            <prop position="[-565.6932, -52.8814, 81.6141]" propset="pg_mp_possecamp_campfire_large000x" />
+            <prop position="[-566.4329, -53.6289, 81.6213]" propset="pg_ambcamp01x_tent_oilskin01" />
+          </propsets>
+        </UNK_50A088C3>
+        <UNK_50A088C3 heading="105.77" position="[-615.088, -5.1864, 85.663]" />
+      </UNK_A9872A07>
+    </pickup>
+    <pickup id="BRAITHWAITE_0">
+      <UNK_852E174A UNK_22B80536="DD_BRAITHWAITE_A_H" UNK_FE1FB47E="DD_BRAITHWAITE_D_H" UNK_B5C3A3BB="DD_BRAITHWAITE_D_W" position="[1877.711, -1868.717, 41.8093]" />
+      <UNK_A9872A07>
+        <UNK_50A088C3 heading="0.0" position="[1112.885, -1979.441, 53.3513]">
+          <propsets>
+            <prop position="[1396.663, -1935.905, 54.5078]" propset="pg_herbalistcamp02x" />
+          </propsets>
+        </UNK_50A088C3>
+        <UNK_50A088C3 heading="280.6297" position="[1031.511, -1973.943, 45.2703]">
+          <propsets>
+            <prop position="[1396.663, -1935.905, 54.5078]" propset="pg_herbalistcamp02x" />
+          </propsets>
+        </UNK_50A088C3>
+        <UNK_50A088C3 heading="269.599" position="[1064.96, -1947.125, 47.3713]">
+          <propsets>
+            <prop position="[1396.663, -1935.905, 54.5078]" propset="pg_herbalistcamp02x" />
+          </propsets>
+        </UNK_50A088C3>
+      </UNK_A9872A07>
+    </pickup>
+    <pickup id="MACLEAN_0">
+      <UNK_852E174A UNK_22B80536="DD_MACLEAN_A_H" UNK_FE1FB47E="DD_MACLEAN_D_H" UNK_B5C3A3BB="DD_MACLEAN_D_W" position="[2247.755, -112.2503, 44.9563]" />
+      <UNK_A9872A07>
+        <UNK_50A088C3 heading="297.8771" position="[2113.052, -596.7003, 40.7288]" />
+        <UNK_50A088C3 heading="103.6069" position="[2192.294, -578.7773, 40.9094]" />
+        <UNK_50A088C3 heading="357.8156" position="[1989.708, -552.6127, 40.8841]" />
+      </UNK_A9872A07>
+    </pickup>
+    <pickup id="VETERAN_HOME_0">
+      <UNK_852E174A UNK_22B80536="DD_VETERAN_HOME_A_H" UNK_FE1FB47E="DD_VETERAN_HOME_D_H" UNK_B5C3A3BB="DD_VETERAN_HOME_D_W" position="[1259.53, 1157.8, 149.2909]" />
+      <UNK_A9872A07>
+        <UNK_50A088C3 heading="0.0" position="[1695.094, 1519.863, 145.7104]">
+          <propsets>
+            <prop position="[1259.649, 1149.396, 148.9678]" propset="pg_mp_possecamp_campfire_medium000x" />
+            <prop position="[1256.866, 1153.445, 149.5751]" propset="pg_mp_workshop02x" />
+          </propsets>
+        </UNK_50A088C3>
+        <UNK_50A088C3 heading="32.73" position="[1712.345, 1435.531, 148.5094]">
+          <propsets>
+            <prop position="[1704.936, 1432.143, 148.6959]" propset="pg_mp_venomsuck01x" />
+            <prop position="[1259.649, 1149.396, 148.9678]" propset="pg_mp_possecamp_campfire_medium000x" />
+            <prop position="[1256.866, 1153.445, 149.5751]" propset="pg_mp_workshop02x" />
+          </propsets>
+        </UNK_50A088C3>
+        <UNK_50A088C3 heading="82.4691" position="[1779.62, 1514.19, 155.2]">
+          <propsets>
+            <prop position="[1787.176, 1510.027, 155.457]" propset="pg_mp_venomsuck01x" />
+            <prop position="[1259.649, 1149.396, 148.9678]" propset="pg_mp_possecamp_campfire_medium000x" />
+            <prop position="[1256.866, 1153.445, 149.5751]" propset="pg_mp_workshop02x" />
+          </propsets>
+        </UNK_50A088C3>
+      </UNK_A9872A07>
+    </pickup>
+  </UNK_8788C0B9>
+</root>

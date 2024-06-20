@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_67B358E0>
+    <net_xp description="" feed="PXPT_DEFAULT" type="" UNK_C9FC8750="XP_DEFAULT" UNK_3FB9E15B="5">
+      <UNK_A1DAD996>
+        <modifier id="AWARD_MOD_KILL_STREAK_2" />
+        <modifier id="AWARD_MOD_KILL_STREAK_6" />
+        <modifier id="AWARD_MOD_KILL_STREAK_9" />
+        <modifier id="AWARD_MOD_KILL_STREAK_15" />
+        <modifier id="AWARD_MOD_KILL_STREAK_20" />
+        <modifier id="AWARD_MOD_KILL_STREAK_30" />
+        <modifier id="AWARD_MOD_KILL_STREAK_40" />
+        <modifier id="AWARD_MOD_KILL_STREAK_50" />
+        <modifier id="AWARD_MOD_RANK_19" />
+        <modifier id="AWARD_MOD_RANK_29" />
+        <modifier id="AWARD_MOD_RANK_39" />
+        <modifier id="AWARD_MOD_RANK_49" />
+      </UNK_A1DAD996>
+    </net_xp>
+    <net_xp description="" feed="PXPT_CHEAT" type="" UNK_C9FC8750="XP_CHEAT" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_ASSIST" type="" UNK_C9FC8750="XP_ASSIST" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_HEADSHOT" type="" UNK_C9FC8750="XP_HEADSHOT" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_HATSHOT" type="" UNK_C9FC8750="XP_HATSHOT" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_DISARM" type="" UNK_C9FC8750="XP_DISARM" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_EXECUTE" type="" UNK_C9FC8750="XP_EXECUTE" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_REVIVE" type="" UNK_C9FC8750="XP_REVIVE" UNK_3FB9E15B="20" />
+    <net_xp description="" feed="PXPT_DELIVER" type="" UNK_C9FC8750="XP_DELIVER" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_DEFEND" type="" UNK_C9FC8750="XP_DEFEND" UNK_3FB9E15B="200" />
+    <net_xp description="" feed="PXPT_CAPTURE" type="" UNK_C9FC8750="XP_CAPTURE" UNK_3FB9E15B="200" />
+    <net_xp description="" feed="PXPT_CRAFTING" type="" UNK_C9FC8750="XP_CRAFTING" UNK_3FB9E15B="15" />
+    <net_xp description="" feed="PXPT_MELEE" type="" UNK_C9FC8750="XP_MELEE" UNK_3FB9E15B="30" />
+    <net_xp description="" feed="PXPT_LAST_CHANCE" type="" UNK_C9FC8750="XP_LAST_CHANCE" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_DEADEYE_KILL" type="" UNK_C9FC8750="XP_DEADEYE_KILL" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_DEATH_FROM_BEYOND" type="" UNK_C9FC8750="XP_DEATH_FROM_BEYOND" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_DEATH_RIDER" type="" UNK_C9FC8750="XP_DEATH_RIDER" UNK_3FB9E15B="20" />
+    <net_xp description="" feed="PXPT_SADDLE_SORE" type="" UNK_C9FC8750="XP_SADDLE_SORE" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_HORSE_THIEF" type="" UNK_C9FC8750="XP_HORSE_THIEF" UNK_3FB9E15B="30" />
+    <net_xp description="" feed="PXPT_MERCILESS" type="" UNK_C9FC8750="XP_MERCILESS" UNK_3FB9E15B="20" />
+    <net_xp description="" feed="PXPT_HEARTSHOT" type="" UNK_C9FC8750="XP_HEARTSHOT" UNK_3FB9E15B="30" />
+    <net_xp description="" feed="PXPT_AVENGE_HORSE" type="" UNK_C9FC8750="XP_AVENGE_HORSE" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_DRUNKEN_SLAUGHTER" type="" UNK_C9FC8750="XP_DRUNKEN_SLAUGHTER" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_LEADERSHIP" type="" UNK_C9FC8750="XP_LEADERSHIP" UNK_3FB9E15B="15" />
+    <net_xp description="" feed="PXPT_ASSASSINATION" type="" UNK_C9FC8750="XP_ASSASSINATION" UNK_3FB9E15B="30" />
+    <net_xp description="" feed="PXPT_KILL_CARRIER" type="" UNK_C9FC8750="XP_KILL_CARRIER" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_DEFEND_CARRIER" type="" UNK_C9FC8750="XP_DEFEND_CARRIER" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_ONE_MAN" type="" UNK_C9FC8750="XP_ONE_MAN" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_LAST_KILL" type="" UNK_C9FC8750="XP_LAST_KILL" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_SURVIVOR" type="" UNK_C9FC8750="XP_SURVIVOR" UNK_3FB9E15B="15" />
+    <net_xp description="" feed="PXPT_CLAIM_STAKED" type="" UNK_C9FC8750="XP_CLAIM_STAKED" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_FIRST_KILL" type="" UNK_C9FC8750="XP_FIRST_KILL" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_EYES_WIDE_SHUT" type="" UNK_C9FC8750="XP_EYES_WIDE_SHUT" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_REVENGE" type="" UNK_C9FC8750="XP_REVENGE" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_ROAD_KILL" type="" UNK_C9FC8750="XP_ROAD_KILL_WILDLIFE" UNK_3FB9E15B="15" />
+    <net_xp description="" feed="PXPT_ROAD_KILL" type="" UNK_C9FC8750="XP_ROAD_KILL_AI" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_ROAD_KILL" type="" UNK_C9FC8750="XP_ROAD_KILL_PLAYER" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_SPECIAL_AMMO" type="" UNK_C9FC8750="XP_SPECIAL_AMMO" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_DISTANCE_S" type="" UNK_C9FC8750="XP_DISTANCE_S" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_DISTANCE_M" type="" UNK_C9FC8750="XP_DISTANCE_M" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_DISTANCE_L" type="" UNK_C9FC8750="XP_DISTANCE_L" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_DISTANCE_XL" type="" UNK_C9FC8750="XP_DISTANCE_XL" UNK_3FB9E15B="150" />
+    <net_xp description="" feed="PXPT_DISTANCE_XXL" type="" UNK_C9FC8750="XP_DISTANCE_XXL" UNK_3FB9E15B="250" />
+    <net_xp description="" feed="PXPT_SHOWDOWN" type="" UNK_C9FC8750="XP_SHOWDOWN_REWARD" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_STANDOFF" type="" UNK_C9FC8750="XP_STANDOFF_REWARD" UNK_3FB9E15B="500" />
+    <net_xp description="" feed="PXPT_DUEL" type="" UNK_C9FC8750="XP_DUEL_REWARD" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_FEUD_REWARD_C" type="" UNK_C9FC8750="XP_FEUD_REWARD_C" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_FEUD_REWARD_S" type="" UNK_C9FC8750="XP_FEUD_REWARD_S" UNK_3FB9E15B="300" />
+    <net_xp description="" feed="PXPT_FEUD_REWARD_M" type="" UNK_C9FC8750="XP_FEUD_REWARD_M" UNK_3FB9E15B="600" />
+    <net_xp description="" feed="PXPT_FEUD_REWARD_L" type="" UNK_C9FC8750="XP_FEUD_REWARD_L" UNK_3FB9E15B="1200" />
+    <net_xp description="" feed="PXPT_FEUD_REWARD_XL" type="" UNK_C9FC8750="XP_FEUD_REWARD_XL" UNK_3FB9E15B="2400" />
+    <net_xp description="" feed="PXPT_PLAYER_BOUNTY_KILLED" type="" UNK_C9FC8750="XP_PLAYER_BOUNTY_KILLED" UNK_3FB9E15B="500" />
+    <net_xp description="" feed="PXPT_PLAYER_BOUNTY_DELIVERED" type="" UNK_C9FC8750="XP_PLAYER_BOUNTY_DELIVERED" UNK_3FB9E15B="2400" />
+    <net_xp description="" feed="PXPT_PLAYER_BOUNTY_SURVIVED" type="" UNK_C9FC8750="XP_PLAYER_BOUNTY_SURVIVED" UNK_3FB9E15B="2400" />
+    <net_xp description="" feed="PXPT_AI_KO_M" type="" UNK_C9FC8750="XP_AI_KO_REWARD" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_AI_KILL_M" type="" UNK_C9FC8750="XP_AI_KILL_REWARD" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_WLD_KO_S" type="" UNK_C9FC8750="XP_WILDLIFE_KO_REWARD_S" UNK_3FB9E15B="5" />
+    <net_xp description="" feed="PXPT_WLD_KO_M" type="" UNK_C9FC8750="XP_WILDLIFE_KO_REWARD_M" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_WLD_KO_L" type="" UNK_C9FC8750="XP_WILDLIFE_KO_REWARD_L" UNK_3FB9E15B="15" />
+    <net_xp description="" feed="PXPT_WLD_KILL_S" type="" UNK_C9FC8750="XP_WILDLIFE_KILL_REWARD_S" UNK_3FB9E15B="5" />
+    <net_xp description="" feed="PXPT_WLD_KILL_M" type="" UNK_C9FC8750="XP_WILDLIFE_KILL_REWARD_M" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_WLD_KILL_L" type="" UNK_C9FC8750="XP_WILDLIFE_KILL_REWARD_L" UNK_3FB9E15B="15" />
+    <net_xp description="" feed="PXPT_WLD_KILL_LEGENDARY" type="" UNK_C9FC8750="XP_WILDLIFE_KILL_REWARD_LEGENDARY" UNK_3FB9E15B="5" />
+    <net_xp description="" feed="PXPT_WLD_SKIN_S" type="" UNK_C9FC8750="XP_WILDLIFE_SKIN_REWARD_S" UNK_3FB9E15B="5" />
+    <net_xp description="" feed="PXPT_WLD_SKIN_M" type="" UNK_C9FC8750="XP_WILDLIFE_SKIN_REWARD_M" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_WLD_SKIN_L" type="" UNK_C9FC8750="XP_WILDLIFE_SKIN_REWARD_L" UNK_3FB9E15B="15" />
+    <net_xp description="" feed="PXPT_WLD_SKIN_LEGENDARY" type="" UNK_C9FC8750="XP_WILDLIFE_SKIN_REWARD_LEGENDARY" UNK_3FB9E15B="5" />
+    <net_xp description="" feed="PXPT_PLY_INCP_M" type="" UNK_C9FC8750="XP_PLAYER_INCAP_REWARD" UNK_3FB9E15B="5">
+      <UNK_A1DAD996>
+        <modifier id="AWARD_MOD_RANK_19" />
+        <modifier id="AWARD_MOD_RANK_29" />
+        <modifier id="AWARD_MOD_RANK_39" />
+        <modifier id="AWARD_MOD_RANK_49" />
+      </UNK_A1DAD996>
+    </net_xp>
+    <net_xp description="" feed="PXPT_PLY_KO_M" type="" UNK_C9FC8750="XP_PLAYER_KO_REWARD" UNK_3FB9E15B="5">
+      <UNK_A1DAD996>
+        <modifier id="AWARD_MOD_RANK_19" />
+        <modifier id="AWARD_MOD_RANK_29" />
+        <modifier id="AWARD_MOD_RANK_39" />
+        <modifier id="AWARD_MOD_RANK_49" />
+      </UNK_A1DAD996>
+    </net_xp>
+    <net_xp description="" feed="PXPT_PLY_KILL_M" type="" UNK_C9FC8750="XP_PLAYER_KILL_REWARD" UNK_3FB9E15B="5">
+      <UNK_A1DAD996>
+        <modifier id="AWARD_MOD_RANK_19" />
+        <modifier id="AWARD_MOD_RANK_29" />
+        <modifier id="AWARD_MOD_RANK_39" />
+        <modifier id="AWARD_MOD_RANK_49" />
+      </UNK_A1DAD996>
+    </net_xp>
+    <net_xp description="" feed="PXPT_WNTD_01" type="" UNK_C9FC8750="XP_WANTED_01" UNK_3FB9E15B="5" />
+    <net_xp description="" feed="PXPT_WNTD_02" type="" UNK_C9FC8750="XP_WANTED_02" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_WNTD_03" type="" UNK_C9FC8750="XP_WANTED_03" UNK_3FB9E15B="15" />
+    <net_xp description="" feed="PXPT_WNTD_04" type="" UNK_C9FC8750="XP_WANTED_04" UNK_3FB9E15B="20" />
+    <net_xp description="" feed="PXPT_WNTD_05" type="" UNK_C9FC8750="XP_WANTED_05" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_MSN_OBJ_S" type="" UNK_C9FC8750="XP_MISSION_OBJECTIVE_REWARD_S" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_MSN_OBJ_M" type="" UNK_C9FC8750="XP_MISSION_OBJECTIVE_REWARD_M" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_MSN_OBJ_L" type="" UNK_C9FC8750="XP_MISSION_OBJECTIVE_REWARD_L" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_MSN_OBJ_XL" type="" UNK_C9FC8750="XP_MISSION_OBJECTIVE_REWARD_XL" UNK_3FB9E15B="250" />
+    <net_xp description="" feed="PXPT_MSN_OBJ_XXL" type="" UNK_C9FC8750="XP_MISSION_OBJECTIVE_REWARD_XXL" UNK_3FB9E15B="500" />
+    <net_xp description="" feed="PXPT_MSN_CMP_INTRO" type="" UNK_C9FC8750="XP_MISSION_COMPLETE_REWARD_INTRO" UNK_3FB9E15B="175" />
+    <net_xp description="" feed="PXPT_MSN_CMP_S" type="" UNK_C9FC8750="XP_MISSION_COMPLETE_REWARD_S" UNK_3FB9E15B="1000" />
+    <net_xp description="" feed="PXPT_MSN_CMP_M" type="" UNK_C9FC8750="XP_MISSION_COMPLETE_REWARD_M" UNK_3FB9E15B="2500" />
+    <net_xp description="" feed="PXPT_MSN_CMP_L" type="" UNK_C9FC8750="XP_MISSION_COMPLETE_REWARD_L" UNK_3FB9E15B="5000" />
+    <net_xp description="" feed="PXPT_MSN_CMP_XL" type="" UNK_C9FC8750="XP_MISSION_COMPLETE_REWARD_XL" UNK_3FB9E15B="10000" />
+    <net_xp description="" feed="PXPT_MSN_CMP_XXL" type="" UNK_C9FC8750="XP_MISSION_COMPLETE_REWARD_XXL" UNK_3FB9E15B="25000" />
+    <net_xp description="" feed="PXPT_PRC_OBJ_S" type="" UNK_C9FC8750="XP_PROC_MISSION_OBJECTIVE_REWARD_S" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_PRC_OBJ_M" type="" UNK_C9FC8750="XP_PROC_MISSION_OBJECTIVE_REWARD_M" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_PRC_OBJ_L" type="" UNK_C9FC8750="XP_PROC_MISSION_OBJECTIVE_REWARD_L" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_PRC_OBJ_XL" type="" UNK_C9FC8750="XP_PROC_MISSION_OBJECTIVE_REWARD_XL" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_PRC_OBJ_XXL" type="" UNK_C9FC8750="XP_PROC_MISSION_OBJECTIVE_REWARD_XXL" UNK_3FB9E15B="200" />
+    <net_xp description="" feed="PXPT_PRC_CMP_S" type="" UNK_C9FC8750="XP_PROC_MISSION_COMPLETE_REWARD_S" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_PRC_CMP_M" type="" UNK_C9FC8750="XP_PROC_MISSION_COMPLETE_REWARD_M" UNK_3FB9E15B="200" />
+    <net_xp description="" feed="PXPT_PRC_CMP_L" type="" UNK_C9FC8750="XP_PROC_MISSION_COMPLETE_REWARD_L" UNK_3FB9E15B="500" />
+    <net_xp description="" feed="PXPT_PRC_CMP_XL" type="" UNK_C9FC8750="XP_PROC_MISSION_COMPLETE_REWARD_XL" UNK_3FB9E15B="1000" />
+    <net_xp description="" feed="PXPT_PRC_CMP_XXL" type="" UNK_C9FC8750="XP_PROC_MISSION_COMPLETE_REWARD_XXL" UNK_3FB9E15B="2500" />
+    <net_xp description="" feed="PXPT_CLEARED_HIDEOUT" type="" UNK_C9FC8750="XP_CLEAR_HIDEOUT" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_CLEARED_AMBUSH" type="" UNK_C9FC8750="XP_CLEAR_AMBUSH" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_RUSTLING_ESCAPED_WITH_HORSE" type="" UNK_C9FC8750="XP_RUSTLING_ESCAPED_WITH_HORSE" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_HD_OBJ_S" type="" UNK_C9FC8750="XP_HIDEOUT_OBJECTIVE_REWARD_S" UNK_3FB9E15B="5" />
+    <net_xp description="" feed="PXPT_HD_OBJ_M" type="" UNK_C9FC8750="XP_HIDEOUT_OBJECTIVE_REWARD_M" UNK_3FB9E15B="15" />
+    <net_xp description="" feed="PXPT_HD_OBJ_L" type="" UNK_C9FC8750="XP_HIDEOUT_OBJECTIVE_REWARD_L" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_HD_OBJ_XL" type="" UNK_C9FC8750="XP_HIDEOUT_OBJECTIVE_REWARD_XL" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_HD_OBJ_XXL" type="" UNK_C9FC8750="XP_HIDEOUT_OBJECTIVE_REWARD_XXL" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_HD_CMP_S" type="" UNK_C9FC8750="XP_HIDEOUT_SECURE_REWARD_S" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_HD_CMP_M" type="" UNK_C9FC8750="XP_HIDEOUT_SECURE_REWARD_M" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_HD_CMP_L" type="" UNK_C9FC8750="XP_HIDEOUT_SECURE_REWARD_L" UNK_3FB9E15B="250" />
+    <net_xp description="" feed="PXPT_HD_CMP_XL" type="" UNK_C9FC8750="XP_HIDEOUT_SECURE_REWARD_XL" UNK_3FB9E15B="500" />
+    <net_xp description="" feed="PXPT_HD_CMP_XXL" type="" UNK_C9FC8750="XP_HIDEOUT_SECURE_REWARD_XXL" UNK_3FB9E15B="1000" />
+    <net_xp description="" feed="PXPT_DELIVER_BAG_S" type="" UNK_C9FC8750="XP_DELIVER_BAG_S" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_DELIVER_BAG_M" type="" UNK_C9FC8750="XP_DELIVER_BAG_M" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_DELIVER_BAG_L" type="" UNK_C9FC8750="XP_DELIVER_BAG_L" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_DELIVER_HORSE_S" type="" UNK_C9FC8750="XP_DELIVER_HORSE_S" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_DELIVER_HORSE_M" type="" UNK_C9FC8750="XP_DELIVER_HORSE_M" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_DELIVER_HORSE_L" type="" UNK_C9FC8750="XP_DELIVER_HORSE_L" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_DELIVER_COACH_S" type="" UNK_C9FC8750="XP_DELIVER_COACH_S" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_DELIVER_COACH_M" type="" UNK_C9FC8750="XP_DELIVER_COACH_M" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_DELIVER_COACH_L" type="" UNK_C9FC8750="XP_DELIVER_COACH_L" UNK_3FB9E15B="200" />
+    <net_xp description="" feed="PXPT_MATCH_S" type="" UNK_C9FC8750="XP_MATCH_REWARD_S" UNK_3FB9E15B="250" />
+    <net_xp description="" feed="PXPT_MATCH_M" type="" UNK_C9FC8750="XP_MATCH_REWARD_M" UNK_3FB9E15B="500" />
+    <net_xp description="" feed="PXPT_MATCH_L" type="" UNK_C9FC8750="XP_MATCH_REWARD_L" UNK_3FB9E15B="1000" />
+    <net_xp description="" feed="PXPT_MATCH_XL" type="" UNK_C9FC8750="XP_MATCH_REWARD_XL" UNK_3FB9E15B="2000" />
+    <net_xp description="" feed="PXPT_MATCH_XXL" type="" UNK_C9FC8750="XP_MATCH_REWARD_XXL" UNK_3FB9E15B="4000" />
+    <net_xp description="" feed="PXPT_CC_BASE" type="" UNK_C9FC8750="XP_FM_CHECKPOINT_CHALLENGE_BASE" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_CC_FIRST" type="" UNK_C9FC8750="XP_FM_CHECKPOINT_CHALLENGE_FIRST" UNK_3FB9E15B="500" />
+    <net_xp description="" feed="PXPT_CC_SECOND" type="" UNK_C9FC8750="XP_FM_CHECKPOINT_CHALLENGE_SECOND" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_CC_THIRD" type="" UNK_C9FC8750="XP_FM_CHECKPOINT_CHALLENGE_THIRD" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_CC_CLEAR_BONUS" type="" UNK_C9FC8750="XP_FM_CHECKPOINT_CHALLENGE_CLEAR_BONUS" UNK_3FB9E15B="250" />
+    <net_xp description="" feed="PXPT_MTK_BASE" type="" UNK_C9FC8750="XP_FM_MULTI_TARGET_KILLING_BASE" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_MTK_FIRST" type="" UNK_C9FC8750="XP_FM_MULTI_TARGET_KILLING_FIRST" UNK_3FB9E15B="500" />
+    <net_xp description="" feed="PXPT_MTK_SECOND" type="" UNK_C9FC8750="XP_FM_MULTI_TARGET_KILLING_SECOND" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_MTK_THIRD" type="" UNK_C9FC8750="XP_FM_MULTI_TARGET_KILLING_THIRD" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_MTK_CLEAR_BONUS" type="" UNK_C9FC8750="XP_FM_MULTI_TARGET_KILLING_CLEAR_BONUS" UNK_3FB9E15B="250" />
+    <net_xp description="" feed="PXPT_HUNT_BASE" type="" UNK_C9FC8750="XP_PW_HUNTSMEN_BASE" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_HUNT_CLEAR_BONUS" type="" UNK_C9FC8750="XP_PW_HUNTSMEN_CLEAR_BONUS" UNK_3FB9E15B="250" />
+    <net_xp description="" feed="PXPT_COMPETITIVE_CHALLENGE_BASE" type="" UNK_C9FC8750="XP_FM_COMPETITIVE_CHALLENGE_BASE_FIRST" UNK_3FB9E15B="400" />
+    <net_xp description="" feed="PXPT_COMPETITIVE_CHALLENGE_BASE" type="" UNK_C9FC8750="XP_FM_COMPETITIVE_CHALLENGE_BASE_SECOND" UNK_3FB9E15B="200" />
+    <net_xp description="" feed="PXPT_COMPETITIVE_CHALLENGE_BASE" type="" UNK_C9FC8750="XP_FM_COMPETITIVE_CHALLENGE_BASE_THIRD" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_IMPROMPTU_RACE_PARTICIPANT" type="" UNK_C9FC8750="XP_IMPROMPTU_RACE_S" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_IMPROMPTU_RACE_PARTICIPANT" type="" UNK_C9FC8750="XP_IMPROMPTU_RACE_M" UNK_3FB9E15B="125" />
+    <net_xp description="" feed="PXPT_IMPROMPTU_RACE_PARTICIPANT" type="" UNK_C9FC8750="XP_IMPROMPTU_RACE_L" UNK_3FB9E15B="350" />
+    <net_xp description="" feed="PXPT_IMPROMPTU_RACE_DAILY_BONUS" type="" UNK_C9FC8750="XP_IMPROMPTU_RACE_XL" UNK_3FB9E15B="500" />
+    <net_xp description="" feed="PXPT_GMB_OBJ_S" type="" UNK_C9FC8750="XP_GAMBLING_OBJECTIVE_REWARD_S" UNK_3FB9E15B="10" />
+    <net_xp description="" feed="PXPT_GMB_OBJ_M" type="" UNK_C9FC8750="XP_GAMBLING_OBJECTIVE_REWARD_M" UNK_3FB9E15B="25" />
+    <net_xp description="" feed="PXPT_GMB_OBJ_L" type="" UNK_C9FC8750="XP_GAMBLING_OBJECTIVE_REWARD_L" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_GMB_OBJ_XL" type="" UNK_C9FC8750="XP_GAMBLING_OBJECTIVE_REWARD_XL" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_GMB_OBJ_XXL" type="" UNK_C9FC8750="XP_GAMBLING_OBJECTIVE_REWARD_XXL" UNK_3FB9E15B="200" />
+    <net_xp description="" feed="PXPT_GMB_CMP_S" type="" UNK_C9FC8750="XP_GAMBLING_COMPLETE_REWARD_S" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_GMB_CMP_M" type="" UNK_C9FC8750="XP_GAMBLING_COMPLETE_REWARD_M" UNK_3FB9E15B="200" />
+    <net_xp description="" feed="PXPT_GMB_CMP_L" type="" UNK_C9FC8750="XP_GAMBLING_COMPLETE_REWARD_L" UNK_3FB9E15B="500" />
+    <net_xp description="" feed="PXPT_GMB_CMP_XL" type="" UNK_C9FC8750="XP_GAMBLING_COMPLETE_REWARD_XL" UNK_3FB9E15B="1000" />
+    <net_xp description="" feed="PXPT_GMB_CMP_XXL" type="" UNK_C9FC8750="XP_GAMBLING_COMPLETE_REWARD_XXL" UNK_3FB9E15B="2500" />
+    <net_xp description="" feed="PXPT_TRAIN_ESCORT_RIGGS_TO_RHODES" type="" UNK_C9FC8750="XP_TRAIN_ESCORT_RIGGS_TO_RHODES" UNK_3FB9E15B="106" />
+    <net_xp description="" feed="PXPT_TRAIN_ESCORT_RHODES_TO_SAINT_DENIS" type="" UNK_C9FC8750="XP_TRAIN_ESCORT_RHODES_TO_SAINT_DENIS" UNK_3FB9E15B="66" />
+    <net_xp description="" feed="PXPT_TRAIN_ESCORT_SAINT_DENIS_TO_ANNESBURG" type="" UNK_C9FC8750="XP_TRAIN_ESCORT_SAINT_DENIS_TO_ANNESBURG" UNK_3FB9E15B="108" />
+    <net_xp description="" feed="PXPT_TRAIN_ESCORT_ANNESBURG_TO_WALLACE" type="" UNK_C9FC8750="XP_TRAIN_ESCORT_ANNESBURG_TO_WALLACE" UNK_3FB9E15B="120" />
+    <net_xp description="" feed="PXPT_TRAIN_ESCORT_WALLACE_TO_RIGGS" type="" UNK_C9FC8750="XP_TRAIN_ESCORT_WALLACE_TO_RIGGS" UNK_3FB9E15B="159" />
+    <net_xp description="" feed="PXPT_TRAIN_ESCORT_RIGGS_TO_VALENTINE" type="" UNK_C9FC8750="XP_TRAIN_ESCORT_RIGGS_TO_VALENTINE" UNK_3FB9E15B="78" />
+    <net_xp description="" feed="PXPT_TRAIN_ESCORT_VALENTINE_TO_EMERALD_RANCH" type="" UNK_C9FC8750="XP_TRAIN_ESCORT_VALENTINE_TO_EMERALD_RANCH" UNK_3FB9E15B="72" />
+    <net_xp description="" feed="PXPT_TRAIN_ESCORT_EMERALD_RANCH_TO_SAINT_DENIS" type="" UNK_C9FC8750="XP_TRAIN_ESCORT_EMERALD_RANCH_TO_SAINT_DENIS" UNK_3FB9E15B="72" />
+    <net_xp description="" feed="PXPT_RACE_FIRST_PLACE" type="" UNK_C9FC8750="XP_RACE_FIRST_PLACE" UNK_3FB9E15B="200" />
+    <net_xp description="" feed="PXPT_RACE_SECOND_PLACE" type="" UNK_C9FC8750="XP_RACE_SECOND_PLACE" UNK_3FB9E15B="175" />
+    <net_xp description="" feed="PXPT_RACE_THIRD_PLACE" type="" UNK_C9FC8750="XP_RACE_THIRD_PLACE" UNK_3FB9E15B="150" />
+    <net_xp description="" feed="PXPT_RACE_FOURTH_PLACE" type="" UNK_C9FC8750="XP_RACE_FOURTH_PLACE" UNK_3FB9E15B="125" />
+    <net_xp description="" feed="PXPT_RACE_FIFTH_PLACE" type="" UNK_C9FC8750="XP_RACE_FIFTH_PLACE" UNK_3FB9E15B="110" />
+    <net_xp description="" feed="PXPT_RACE_SIXTH_PLACE" type="" UNK_C9FC8750="XP_RACE_SIXTH_PLACE" UNK_3FB9E15B="95" />
+    <net_xp description="" feed="PXPT_RACE_SEVENTH_PLACE" type="" UNK_C9FC8750="XP_RACE_SEVENTH_PLACE" UNK_3FB9E15B="85" />
+    <net_xp description="" feed="PXPT_RACE_EIGHTH_PLACE" type="" UNK_C9FC8750="XP_RACE_EIGHTH_PLACE" UNK_3FB9E15B="75" />
+    <net_xp description="" feed="PXPT_RACE_ANY_OTHER_PLACE" type="" UNK_C9FC8750="XP_RACE_ANY_OTHER_PLACE" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_MISSION_GOLD_MEDAL" type="" UNK_C9FC8750="XP_MISSION_GOLD_MEDAL" UNK_3FB9E15B="500" />
+    <net_xp description="" feed="PXPT_MISSION_SILVER_MEDAL" type="" UNK_C9FC8750="XP_MISSION_SILVER_MEDAL" UNK_3FB9E15B="250" />
+    <net_xp description="" feed="PXPT_MISSION_BRONZE_MEDAL" type="" UNK_C9FC8750="XP_MISSION_BRONZE_MEDAL" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_MISSION_COMPLETE_NO_RESTARTS" type="" UNK_C9FC8750="XP_MISSION_COMPLETE_NO_RESTARTS" UNK_3FB9E15B="250" />
+    <net_xp description="" feed="PXPT_MISSION_COMPLETE_WITH_RESTARTS" type="" UNK_C9FC8750="XP_MISSION_COMPLETE_WITH_RESTARTS" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_MISSION_OBJECTIVE_COMPLETE_S" type="" UNK_C9FC8750="XP_MISSION_OBJECTIVE_COMPLETE_S" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_MISSION_OBJECTIVE_COMPLETE_M" type="" UNK_C9FC8750="XP_MISSION_OBJECTIVE_COMPLETE_M" UNK_3FB9E15B="100" />
+    <net_xp description="" feed="PXPT_MISSION_OBJECTIVE_COMPLETE_L" type="" UNK_C9FC8750="XP_MISSION_OBJECTIVE_COMPLETE_L" UNK_3FB9E15B="250" />
+    <net_xp description="" feed="PXPT_MISSION_OBJECTIVE_COMPLETE_XL" type="" UNK_C9FC8750="XP_MISSION_OBJECTIVE_COMPLETE_XL" UNK_3FB9E15B="500" />
+    <net_xp description="" feed="PXPT_MISSION_OBJECTIVE_COMPLETE_XXL" type="" UNK_C9FC8750="XP_MISSION_OBJECTIVE_COMPLETE_XXL" UNK_3FB9E15B="1000" />
+    <net_xp description="" feed="PXPT_DEATHMATCH_WINNER" type="" UNK_C9FC8750="XP_DEATHMATCH_WINNER" UNK_3FB9E15B="500" />
+    <net_xp description="" feed="PXPT_DEATHMATCH_SECOND_PLACE" type="" UNK_C9FC8750="XP_DEATHMATCH_SECOND_PLACE" UNK_3FB9E15B="350" />
+    <net_xp description="" feed="PXPT_DEATHMATCH_THIRD_PLACE" type="" UNK_C9FC8750="XP_DEATHMATCH_THIRD_PLACE" UNK_3FB9E15B="200" />
+    <net_xp description="" feed="PXPT_DEATHMATCH_LOSER" type="" UNK_C9FC8750="XP_DEATHMATCH_LOSER" UNK_3FB9E15B="50" />
+    <net_xp description="" feed="PXPT_LEVEL_DIFFERENCE_50" type="" UNK_C9FC8750="XP_LEVEL_DIFFERENCE_50" UNK_3FB9E15B="5" />
+    <net_xp description="" feed="PXPT_FREEAIM" type="" UNK_C9FC8750="XP_FREEAIM" UNK_3FB9E15B="20" />
+  </UNK_67B358E0>
+</root>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_B4A1A2EA>
+    <camp name="CMF_1" pos="[182.0886, 1233.459, 187.5173]" zone="2">
+      <preset recipe="CFRT_FOLIAGE_CONIFEROUS_MED1" />
+    </camp>
+    <camp name="CMF_2" pos="[199.4206, 715.551, 184.245]" zone="1">
+      <preset recipe="CFRT_FANCY_MED2" />
+    </camp>
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_cml_story_valentine" name="CMF_3 STY-Valentine" pos="[680.2847, 1093.87, 185.8281]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_2" story="CSH_VALENTINE_STORY" />
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_cml_story_stdenis" name="CMF_4 STY-StDenisStatue" pos="[325.2038, 1156.171, 181.2034]" secondary="CAMPFIRE_SECONDARY_PROP_ALWAYS_1_2" story="CSH_STD_STATUE_STORY" />
+    <camp name="CMF_5" pos="[-148.5011, 1252.568, 162.2429]" zone="2">
+      <preset recipe="CFRT_FOLIAGE_CONIFEROUS_LRG1" />
+    </camp>
+    <camp name="CMF_6" pos="[648.47, 1249.952, 209.1562]" zone="1">
+      <preset recipe="CFRT_HERBALIST_SML1" />
+    </camp>
+    <camp UNK_DA3CFFD1="true" name="CMF_7 Robbery" pos="[300.8428, 1289.62, 196.7078]" zone="2">
+      <preset recipe="CFRT_ROUGH_SML1" />
+    </camp>
+    <camp name="CMF_8" pos="[450.7882, 1280.928, 189.1563]" zone="2">
+      <preset recipe="CFRT_FANCY_MED2" />
+    </camp>
+    <camp horse="false" name="CMF_9" pos="[-58.9888, 1382.725, 174.3547]" zone="1">
+      <preset recipe="CFRT_MINER_MED1" />
+    </camp>
+    <camp name="CMF_11" pos="[729.5679, 1632.92, 212.8616]" zone="2">
+      <preset recipe="CFRT_DBL_HUNTER" />
+    </camp>
+    <camp name="CMF_12" pos="[24.34479, 891.9021, 210.1736]" zone="1">
+      <preset recipe="CFRT_DBL_GENERIC3" />
+    </camp>
+    <camp name="CMF_13" pos="[508.8778, 1107.306, 192.4121]" zone="1">
+      <preset recipe="CFRT_HOBO_LRG1" />
+    </camp>
+    <camp UNK_DA3CFFD1="true" name="CMF_14 Robbery" pos="[486.4945, 1497.265, 172.6744]" zone="1">
+      <preset recipe="CFRT_RANCHER_LRG1" />
+    </camp>
+    <camp name="CMF_15" pos="[60.0796, 1266.755, 175.1073]" zone="1">
+      <preset recipe="CFRT_HERBALIST_SML1" />
+    </camp>
+    <camp name="CMF_16" pos="[267.0545, 1413.089, 175.7465]" zone="2">
+      <preset recipe="CFRT_RANCHER_MED1" />
+    </camp>
+    <camp name="HRT_30" pos="[267.4816, 870.4498, 185.8605]" zone="2">
+      <preset recipe="CFRT_RANCHER_LRG1" />
+    </camp>
+    <camp base="HASH_PROPSET_1_A" UNK_D43B0E78="amb_camp_gre_story_hunter" name="GRE_6 STY-Panther" pos="[799.362, 1512.22, 203.6078]" story="CSH_BAY_PANTHER_STORY" />
+  </UNK_B4A1A2EA>
+</root>

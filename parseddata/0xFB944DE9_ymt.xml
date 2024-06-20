@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <supplies>
+    <camp id="hso" UNK_E87AAD6C="[-123.4853, -40.4392, 94.4994]" UNK_A4A56636="[3.1552, 0.9712, -13.0049]">
+      <UNK_53C887C2>
+        <item model="s_inv_baitMeat01x" offset="[-2.52, -1.12, 1.037]" rotation="[-2.0, 0.0, 183.0]" unlock="CIR_HOSEA_BOOK" />
+        <item model="p_cigar02x" offset="[-3.0, -0.505, 0.8189]" rotation="[1.0, 15.0, 53.0]" unlock="CIR_MOLLY_POCKET_MIRROR" />
+        <item model="s_chocolateBar02x" offset="[-1.285, 1.755, 0.794]" rotation="[2.0, 1.0, -34.0]" unlock="CIR_JACK_PENNY_DREADFUL" />
+        <item model="s_inv_medicine_fty" offset="[-2.825, -1.075, 1.038]" rotation="[0.0, 0.0, 363.0]" unlock="CIR_HOSEA_GINSENG" />
+        <item model="s_inv_supertonic01x" offset="[-1.155, 1.795, 0.793]" rotation="[0.0, -2.0, 403.0]" unlock="CIR_SUSAN_SEASONING" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_inv_baitMeat01x" offset="[-2.52, -1.12, 1.037]" rotation="[-2.0, 0.0, 183.0]" unlock="CIR_HOSEA_BOOK" />
+        <item model="p_cigar02x" offset="[-3.0, -0.505, 0.8189]" rotation="[1.0, 15.0, 53.0]" unlock="CIR_MOLLY_POCKET_MIRROR" />
+        <item model="s_chocolateBar02x" offset="[-1.285, 1.755, 0.794]" rotation="[2.0, 1.0, -34.0]" unlock="CIR_JACK_PENNY_DREADFUL" />
+        <item model="s_inv_medicine_fty" offset="[-2.825, -1.075, 1.038]" rotation="[0.0, 0.0, 363.0]" unlock="CIR_HOSEA_GINSENG" />
+        <item model="s_inv_supertonic01x" offset="[-1.155, 1.795, 0.793]" rotation="[0.0, -2.0, 403.0]" unlock="CIR_SUSAN_SEASONING" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_tin_pomade01x" offset="[-3.045, -0.585, 0.83]" rotation="[0.0, 0.0, -90.0]" />
+        <item model="p_cigarettecheapbox01x" offset="[-3.035, -0.405, 0.828]" rotation="[-3.0, 2.0, -135.0]" />
+        <item model="s_inv_baitMeat01x" offset="[-2.52, -1.12, 1.042]" rotation="[-2.0, 0.0, 183.0]" unlock="CIR_HOSEA_BOOK" />
+        <item model="p_cigar02x" offset="[-3.0, -0.505, 0.8189]" rotation="[1.0, 15.0, 53.0]" unlock="CIR_MOLLY_POCKET_MIRROR" />
+        <item model="s_chocolateBar02x" offset="[-1.285, 1.755, 0.794]" rotation="[2.0, 1.0, -34.0]" unlock="CIR_JACK_PENNY_DREADFUL" />
+        <item model="s_inv_medicine_fty" offset="[-2.825, -1.075, 1.038]" rotation="[0.0, 0.0, 363.0]" unlock="CIR_HOSEA_GINSENG" />
+        <item model="s_inv_supertonic01x" offset="[-1.155, 1.795, 0.793]" rotation="[0.0, -2.0, 403.0]" unlock="CIR_SUSAN_SEASONING" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_tin_pomade01x" offset="[-3.045, -0.585, 0.83]" rotation="[0.0, 0.0, -90.0]" />
+        <item model="p_cigarettecheapbox01x" offset="[-3.035, -0.405, 0.828]" rotation="[-3.0, 2.0, -135.0]" />
+        <item model="s_inv_baitMeat01x" offset="[-2.52, -1.12, 1.042]" rotation="[-2.0, 0.0, 183.0]" unlock="CIR_HOSEA_BOOK" />
+        <item model="p_cigar02x" offset="[-3.0, -0.505, 0.8189]" rotation="[1.0, 15.0, 53.0]" unlock="CIR_MOLLY_POCKET_MIRROR" />
+        <item model="s_chocolateBar02x" offset="[-1.285, 1.755, 0.794]" rotation="[2.0, 1.0, -34.0]" unlock="CIR_JACK_PENNY_DREADFUL" />
+        <item model="s_inv_medicine_fty" offset="[-2.825, -1.075, 1.038]" rotation="[0.0, 0.0, 363.0]" unlock="CIR_HOSEA_GINSENG" />
+        <item model="s_inv_supertonic01x" offset="[-1.155, 1.795, 0.793]" rotation="[0.0, -2.0, 403.0]" unlock="CIR_SUSAN_SEASONING" />
+      </UNK_53C887C2>
+    </camp>
+    <camp id="clm" UNK_E87AAD6C="[651.0757, -1245.762, 42.6605]" UNK_A4A56636="[0.0, 0.0, -127.7265]">
+      <UNK_53C887C2>
+        <item model="s_inv_baitMeat01x" offset="[-2.52, -0.805, 1.021]" rotation="[0.0, -2.0, 183.0]" unlock="CIR_HOSEA_BOOK" />
+        <item model="p_cigar02x" offset="[-3.225, -0.14, 0.821]" rotation="[0.0, 15.0, -67.0]" unlock="CIR_MOLLY_POCKET_MIRROR" />
+        <item model="s_chocolateBar02x" offset="[-1.285, 1.755, 0.79]" rotation="[0.0, 0.0, -94.0]" unlock="CIR_JACK_PENNY_DREADFUL" />
+        <item model="s_inv_medicine_fty" offset="[-2.835, -0.75, 1.018]" rotation="[0.0, 0.0, 248.0]" unlock="CIR_HOSEA_GINSENG" />
+        <item model="s_inv_supertonic01x" offset="[-1.155, 1.795, 0.792]" rotation="[0.0, 0.0, 301.0]" unlock="CIR_SUSAN_SEASONING" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_inv_baitMeat01x" offset="[-2.52, -0.805, 1.021]" rotation="[0.0, -2.0, 183.0]" unlock="CIR_HOSEA_BOOK" />
+        <item model="p_cigar02x" offset="[-3.225, -0.14, 0.821]" rotation="[0.0, 15.0, -67.0]" unlock="CIR_MOLLY_POCKET_MIRROR" />
+        <item model="s_chocolateBar02x" offset="[-1.285, 1.755, 0.79]" rotation="[0.0, 0.0, -94.0]" unlock="CIR_JACK_PENNY_DREADFUL" />
+        <item model="s_inv_medicine_fty" offset="[-2.835, -0.75, 1.018]" rotation="[0.0, 0.0, 248.0]" unlock="CIR_HOSEA_GINSENG" />
+        <item model="s_inv_supertonic01x" offset="[-1.155, 1.795, 0.792]" rotation="[0.0, 0.0, 301.0]" unlock="CIR_SUSAN_SEASONING" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_tin_pomade01x" offset="[-3.31, -0.23, 0.83]" rotation="[0.0, 0.0, 150.0]" />
+        <item model="p_cigarettecheapbox01x" offset="[-3.255, -0.005, 0.825]" rotation="[1.0, 2.0, -285.0]" />
+        <item model="s_inv_baitMeat01x" offset="[-2.52, -0.805, 1.032]" rotation="[0.0, -5.0, 183.0]" unlock="CIR_HOSEA_BOOK" />
+        <item model="p_cigar02x" offset="[-3.225, -0.14, 0.821]" rotation="[0.0, 15.0, -67.0]" unlock="CIR_MOLLY_POCKET_MIRROR" />
+        <item model="s_chocolateBar02x" offset="[-1.285, 1.755, 0.79]" rotation="[0.0, 0.0, -94.0]" unlock="CIR_JACK_PENNY_DREADFUL" />
+        <item model="s_inv_medicine_fty" offset="[-2.835, -0.75, 1.018]" rotation="[0.0, 0.0, 248.0]" unlock="CIR_HOSEA_GINSENG" />
+        <item model="s_inv_supertonic01x" offset="[-1.155, 1.795, 0.792]" rotation="[0.0, 0.0, 301.0]" unlock="CIR_SUSAN_SEASONING" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_tin_pomade01x" offset="[-3.31, -0.23, 0.83]" rotation="[0.0, 0.0, 150.0]" />
+        <item model="p_cigarettecheapbox01x" offset="[-3.255, -0.005, 0.825]" rotation="[1.0, 2.0, -285.0]" />
+        <item model="s_inv_baitMeat01x" offset="[-2.52, -0.805, 1.032]" rotation="[0.0, -5.0, 183.0]" unlock="CIR_HOSEA_BOOK" />
+        <item model="p_cigar02x" offset="[-3.225, -0.14, 0.821]" rotation="[0.0, 15.0, -67.0]" unlock="CIR_MOLLY_POCKET_MIRROR" />
+        <item model="s_chocolateBar02x" offset="[-1.285, 1.755, 0.79]" rotation="[0.0, 0.0, -94.0]" unlock="CIR_JACK_PENNY_DREADFUL" />
+        <item model="s_inv_medicine_fty" offset="[-2.835, -0.75, 1.018]" rotation="[0.0, 0.0, 248.0]" unlock="CIR_HOSEA_GINSENG" />
+        <item model="s_inv_supertonic01x" offset="[-1.155, 1.795, 0.792]" rotation="[0.0, 0.0, 301.0]" unlock="CIR_SUSAN_SEASONING" />
+      </UNK_53C887C2>
+    </camp>
+    <camp id="sdb" UNK_E87AAD6C="[1906.1, -1861.9, 47.3]" UNK_A4A56636="[0.0, 0.0, 0.0]">
+      <UNK_53C887C2>
+        <item model="s_inv_baitMeat01x" offset="[0.18, 1.175, -0.155]" rotation="[0.0, 0.0, 125.0]" unlock="CIR_HOSEA_BOOK" />
+        <item model="p_cigar02x" offset="[-0.72, 1.515, -0.173]" rotation="[0.0, 15.0, -58.0]" unlock="CIR_MOLLY_POCKET_MIRROR" />
+        <item model="s_chocolateBar02x" offset="[1.88, 0.04, -0.152]" rotation="[0.0, 0.0, 168.0]" unlock="CIR_JACK_PENNY_DREADFUL" />
+        <item model="s_inv_medicine_fty" offset="[2.115, -0.555, 0.1]" rotation="[0.0, 0.0, 418.0]" unlock="CIR_HOSEA_GINSENG" />
+        <item model="s_inv_supertonic01x" offset="[2.145, -0.455, 0.1]" rotation="[0.0, 0.0, 458.0]" unlock="CIR_SUSAN_SEASONING" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_inv_baitMeat01x" offset="[0.18, 1.175, -0.155]" rotation="[0.0, 0.0, 125.0]" unlock="CIR_HOSEA_BOOK" />
+        <item model="p_cigar02x" offset="[-0.72, 1.515, -0.173]" rotation="[0.0, 15.0, -58.0]" unlock="CIR_MOLLY_POCKET_MIRROR" />
+        <item model="s_chocolateBar02x" offset="[1.88, 0.04, -0.152]" rotation="[0.0, 0.0, 168.0]" unlock="CIR_JACK_PENNY_DREADFUL" />
+        <item model="s_inv_medicine_fty" offset="[2.115, -0.555, 0.1]" rotation="[0.0, 0.0, 418.0]" unlock="CIR_HOSEA_GINSENG" />
+        <item model="s_inv_supertonic01x" offset="[2.145, -0.455, 0.1]" rotation="[0.0, 0.0, 458.0]" unlock="CIR_SUSAN_SEASONING" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_tin_pomade01x" offset="[1.925, -0.09, -0.15]" rotation="[0.0, 0.0, 270.0]" />
+        <item model="p_cigarettecheapbox01x" offset="[-116.8032, 42.4633, 2.9317]" rotation="[-6.8085, 0.0, -47.6833]" />
+        <item model="s_inv_baitMeat01x" offset="[0.18, 1.175, -0.155]" rotation="[0.0, 0.0, 125.0]" unlock="CIR_HOSEA_BOOK" />
+        <item model="p_cigar02x" offset="[-0.72, 1.515, -0.173]" rotation="[0.0, 15.0, -58.0]" unlock="CIR_MOLLY_POCKET_MIRROR" />
+        <item model="s_chocolateBar02x" offset="[1.88, 0.04, -0.152]" rotation="[0.0, 0.0, 168.0]" unlock="CIR_JACK_PENNY_DREADFUL" />
+        <item model="s_inv_medicine_fty" offset="[2.115, -0.555, 0.1]" rotation="[0.0, 0.0, 418.0]" unlock="CIR_HOSEA_GINSENG" />
+        <item model="s_inv_supertonic01x" offset="[2.145, -0.455, 0.1]" rotation="[0.0, 0.0, 458.0]" unlock="CIR_SUSAN_SEASONING" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_tin_pomade01x" offset="[1.925, -0.09, -0.15]" rotation="[0.0, 0.0, 270.0]" />
+        <item model="p_cigarettecheapbox01x" offset="[-116.8032, 42.4633, 2.9317]" rotation="[-6.8085, 0.0, -47.6833]" />
+        <item model="s_inv_baitMeat01x" offset="[0.18, 1.175, -0.155]" rotation="[0.0, 0.0, 125.0]" unlock="CIR_HOSEA_BOOK" />
+        <item model="p_cigar02x" offset="[-0.72, 1.515, -0.173]" rotation="[0.0, 15.0, -58.0]" unlock="CIR_MOLLY_POCKET_MIRROR" />
+        <item model="s_chocolateBar02x" offset="[1.88, 0.04, -0.152]" rotation="[0.0, 0.0, 168.0]" unlock="CIR_JACK_PENNY_DREADFUL" />
+        <item model="s_inv_medicine_fty" offset="[2.115, -0.555, 0.1]" rotation="[0.0, 0.0, 418.0]" unlock="CIR_HOSEA_GINSENG" />
+        <item model="s_inv_supertonic01x" offset="[2.145, -0.455, 0.1]" rotation="[0.0, 0.0, 458.0]" unlock="CIR_SUSAN_SEASONING" />
+      </UNK_53C887C2>
+    </camp>
+    <camp id="bvh" UNK_E87AAD6C="[2339.788, 1356.592, 105.2986]" UNK_A4A56636="[1.1126, 0.5133, -96.4939]">
+      <UNK_53C887C2>
+        <item model="s_inv_baitMeat01x" offset="[-2.83, -0.965, 1.043]" rotation="[0.0, -3.0, 253.0]" unlock="CIR_HOSEA_BOOK" />
+        <item model="p_cigar02x" offset="[-3.27, -0.29, 0.776]" rotation="[0.0, 15.0, -17.0]" unlock="CIR_MOLLY_POCKET_MIRROR" />
+        <item model="s_chocolateBar02x" offset="[-2.355, -0.885, 1.028]" rotation="[4.0, 0.0, -94.0]" unlock="CIR_JACK_PENNY_DREADFUL" />
+        <item model="s_inv_medicine_fty" offset="[-3.04, -0.955, 1.043]" rotation="[2.0, 0.0, 248.0]" unlock="CIR_HOSEA_GINSENG" />
+        <item model="s_inv_supertonic01x" offset="[-2.23, -0.915, 1.03]" rotation="[0.0, -2.0, 301.0]" unlock="CIR_SUSAN_SEASONING" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="s_inv_baitMeat01x" offset="[-2.83, -0.965, 1.043]" rotation="[0.0, -3.0, 253.0]" unlock="CIR_HOSEA_BOOK" />
+        <item model="p_cigar02x" offset="[-3.27, -0.29, 0.776]" rotation="[0.0, 15.0, -17.0]" unlock="CIR_MOLLY_POCKET_MIRROR" />
+        <item model="s_chocolateBar02x" offset="[-2.355, -0.885, 1.028]" rotation="[4.0, 0.0, -94.0]" unlock="CIR_JACK_PENNY_DREADFUL" />
+        <item model="s_inv_medicine_fty" offset="[-3.04, -0.955, 1.043]" rotation="[2.0, 0.0, 248.0]" unlock="CIR_HOSEA_GINSENG" />
+        <item model="s_inv_supertonic01x" offset="[-2.23, -0.915, 1.03]" rotation="[0.0, -2.0, 301.0]" unlock="CIR_SUSAN_SEASONING" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_tin_pomade01x" offset="[-3.41, 0.07, 0.775]" rotation="[0.0, 0.0, 150.0]" />
+        <item model="p_cigarettecheapbox01x" offset="[-3.355, 0.295, 0.77]" rotation="[1.0, 2.0, -285.0]" />
+        <item model="s_inv_baitMeat01x" offset="[-2.83, -0.965, 1.043]" rotation="[0.0, -3.0, 253.0]" unlock="CIR_HOSEA_BOOK" />
+        <item model="p_cigar02x" offset="[-3.27, -0.29, 0.776]" rotation="[0.0, 15.0, -17.0]" unlock="CIR_MOLLY_POCKET_MIRROR" />
+        <item model="s_chocolateBar02x" offset="[-2.355, -0.885, 1.028]" rotation="[4.0, 0.0, -94.0]" unlock="CIR_JACK_PENNY_DREADFUL" />
+        <item model="s_inv_medicine_fty" offset="[-3.04, -0.955, 1.043]" rotation="[2.0, 0.0, 248.0]" unlock="CIR_HOSEA_GINSENG" />
+        <item model="s_inv_supertonic01x" offset="[-2.23, -0.915, 1.03]" rotation="[0.0, -2.0, 301.0]" unlock="CIR_SUSAN_SEASONING" />
+      </UNK_53C887C2>
+      <UNK_53C887C2>
+        <item model="p_tin_pomade01x" offset="[-3.41, 0.07, 0.775]" rotation="[0.0, 0.0, 150.0]" />
+        <item model="p_cigarettecheapbox01x" offset="[-3.355, 0.295, 0.77]" rotation="[1.0, 2.0, -285.0]" />
+        <item model="s_inv_baitMeat01x" offset="[-2.83, -0.965, 1.043]" rotation="[0.0, -3.0, 253.0]" unlock="CIR_HOSEA_BOOK" />
+        <item model="p_cigar02x" offset="[-3.27, -0.29, 0.776]" rotation="[0.0, 15.0, -17.0]" unlock="CIR_MOLLY_POCKET_MIRROR" />
+        <item model="s_chocolateBar02x" offset="[-2.355, -0.885, 1.028]" rotation="[4.0, 0.0, -94.0]" unlock="CIR_JACK_PENNY_DREADFUL" />
+        <item model="s_inv_medicine_fty" offset="[-3.04, -0.955, 1.043]" rotation="[2.0, 0.0, 248.0]" unlock="CIR_HOSEA_GINSENG" />
+        <item model="s_inv_supertonic01x" offset="[-2.23, -0.915, 1.03]" rotation="[0.0, -2.0, 301.0]" unlock="CIR_SUSAN_SEASONING" />
+      </UNK_53C887C2>
+    </camp>
+  </supplies>
+</root>

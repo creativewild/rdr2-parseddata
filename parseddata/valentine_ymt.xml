@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <location center="[-248.7, 758.0, 117.1]" id="VALENTINE">
+    <volumes>
+      <prison>
+        <building>
+          <placement id="volBox" size="[5.573364, 4.222298, 2.993408]" spawn_heading="99.99892" spawn_position="[-272.9188, 809.6247, 119.8533]" />
+          <placement id="volBox" size="[9.052246, 5.075, 2.934959]" spawn_heading="0.0" spawn_position="[-277.1924, 807.103, 119.8454]" />
+        </building>
+        <cells>
+          <placement id="volBox" size="[5.573364, 4.222298, 2.993408]" spawn_heading="99.99892" spawn_position="[-272.9188, 809.6247, 119.8533]" />
+        </cells>
+      </prison>
+      <UNK_BA392662>
+        <placement id="volBox" size="[7.0, 15.5, 5.5]" spawn_heading="0.0" spawn_position="[-264.2486, 737.8373, 119.5063]" />
+        <UNK_16C66C34>
+          <placement id="volBox" size="[1.214531, 3.647769, 3.044068]" spawn_heading="10.0288" spawn_position="[-264.3455, 740.7142, 120.44]" />
+          <placement id="volBox" size="[1.214531, 3.647769, 3.044068]" spawn_heading="10.0288" spawn_position="[-263.4766, 735.8007, 120.44]" />
+        </UNK_16C66C34>
+      </UNK_BA392662>
+    </volumes>
+    <props>
+      <UNK_BA392662>
+        <UNK_16C66C34>
+          <placement id="S_GALLOWSSTAIRS04X" spawn_position="[-265.1532, 739.82, 120.2734]" />
+          <placement id="S_GALLOWSSTAIRS04X" spawn_position="[-262.9384, 735.9147, 120.2157]" />
+        </UNK_16C66C34>
+      </UNK_BA392662>
+    </props>
+    <doors>
+      <prison>
+        <cells id="door_val_jail_cell_01" spawn_position="[-274.9641, 809.2846, 118.3686]">
+          <right id="door_val_jail_cell_03" spawn_position="[-272.0536, 808.2675, 118.367]" />
+          <left id="door_val_jail_cell_02" spawn_position="[-273.4611, 809.9462, 118.367]" />
+          <back id="door_val_jail_side" spawn_position="[-270.7153, 809.8871, 118.4829]" />
+        </cells>
+      </prison>
+    </doors>
+  </location>
+</root>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_8E3B0655 release="1">
+    <UNK_C961F6FB id="ST_MARKET">
+      <region id="REGION_BAY_SAINT_DENIS" shop="SHOP_SDN_MARKET">
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="" inventoryitem="CONSUMABLE_APPLE" UNK_FB82F14="SDN_SLM_MRK_P_APPLE01X_GROUP" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="" inventoryitem="CONSUMABLE_CORN" UNK_FB82F14="SDN_SLM_MRK_P_CORN02X_GROUP" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="" inventoryitem="CONSUMABLE_PEAR" UNK_FB82F14="SDN_SLM_MRK_P_PEAR_02X_GROUP" />
+        <UNK_2A848927 UNK_71727B1A="1" UNK_C1FD630B="1" UNK_E6ED3072="" UNK_779A3B24="" inventoryitem="CONSUMABLE_CARROT" UNK_FB82F14="SDN_SLM_MRK_P_CARROTS_01X_GROUP" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_FB82F14="sdn_slm_mrk_p_apple01x_dressing" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_FB82F14="sdn_slm_mrk_p_corn02x_group_dressing" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_FB82F14="sdn_slm_mrk_p_pear_02x_dressing" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_FB82F14="sdn_slm_mrk_p_carrots_01x_dressing" />
+        <UNK_A2C39D22 UNK_779A3B24="" UNK_FB82F14="sdn_slm_mrk_market_items" />
+      </region>
+    </UNK_C961F6FB>
+  </UNK_8E3B0655>
+</root>

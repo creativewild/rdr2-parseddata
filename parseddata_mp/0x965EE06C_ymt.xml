@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_59C3633C>
+    <UNK_3EE03696>
+      <UNK_8A464B6E hour="20" id="NET_PLAYLIST_RACE_SERIES" />
+      <UNK_8A464B6E hour="15" id="NET_PLAYLIST_RACE_SERIES" />
+      <UNK_8A464B6E hour="10" id="NET_PLAYLIST_RACE_SERIES" />
+      <UNK_8A464B6E hour="5" id="NET_PLAYLIST_RACE_SERIES" />
+      <UNK_8A464B6E hour="0" id="NET_PLAYLIST_RACE_SERIES" />
+    </UNK_3EE03696>
+    <UNK_4CE292DD>
+      <UNK_9437A8AF hash="Race Series" id="NET_PLAYLIST_RACE_SERIES" />
+      <UNK_9437A8AF hash="Special Modes 1" id="NET_PLAYLIST_GUN_RUSH_TEAMS" />
+      <UNK_9437A8AF hash="Special Modes 2" id="NET_PLAYLIST_GUN_RUSH_FREE_FOR_ALL" />
+      <UNK_9437A8AF hash="Adversary Small" id="NET_PLAYLIST_ADVERSARY_SMALL" />
+      <UNK_9437A8AF hash="Adversary Medium" id="NET_PLAYLIST_ADVERSARY_MEDIUM" />
+      <UNK_9437A8AF hash="Adversary Large" id="NET_PLAYLIST_ADVERSARY_LARGE" />
+      <UNK_9437A8AF hash="Elimination Series" id="NET_PLAYLIST_ELIMINATION_MEDIUM" />
+      <UNK_9437A8AF hash="Elimination Series Large" id="NET_PLAYLIST_ELIMINATION_LARGE" />
+      <UNK_9437A8AF hash="Featured Series" id="NET_PLAYLIST_FEATURED_SERIES_001" />
+      <UNK_9437A8AF hash="PSN Exclusive" id="NET_PLAYLIST_ORBIS_SERIES_1" />
+      <UNK_9437A8AF hash="PSN Exclusive 2" id="NET_PLAYLIST_ORBIS_SERIES_2" />
+      <UNK_9437A8AF hash="Orbis Series 3" id="NET_PLAYLIST_ORBIS_SERIES_3" />
+      <UNK_9437A8AF hash="Play Series 1" id="NET_PLAYLIST_DEBUG_PLAY_SERIES_1" />
+      <UNK_9437A8AF hash="Play Series 2" id="NET_PLAYLIST_DEBUG_PLAY_SERIES_2" />
+      <UNK_9437A8AF hash="Play Series 3" id="NET_PLAYLIST_DEBUG_PLAY_SERIES_3" />
+    </UNK_4CE292DD>
+    <UNK_326A82F6>
+      <UNK_86D86F69 id="NET_PLAYLIST_ADVERSARY_MEDIUM">
+        <UNK_90114765 id="NET_PLAYLIST_RACE_SERIES" UNK_D43B0E78="mp001_trea2_hea_rd_sgn_PlaylistMarker_05" location="[-434.0, 549.0, 102.5695]" name="Valentine" />
+        <UNK_90114765 id="NET_PLAYLIST_ELIMINATION_MEDIUM" UNK_D43B0E78="mp001_trea2_hea_rd_sgn_PlaylistMarker_10" location="[28.8, -228.1, 102.6072]" name="Flatneck Station" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_LARGE" UNK_D43B0E78="mp001_trea2_hea_rd_sgn_PlaylistMarker_12" location="[523.4, 385.5, 107.3015]" name="Cornwall" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_SMALL" UNK_D43B0E78="mp004_area2_playlistmarker_01" location="[1308.27, 303.17, 86.6]" name="Emerald Ranch" />
+        <UNK_90114765 id="NET_PLAYLIST_RACE_SERIES" UNK_D43B0E78="mp001_trea2_hea_rd_sgn_PlaylistMarker_09" location="[2285.21, 705.1324, 84.0474]" name="Van Horn" />
+        <UNK_90114765 id="NET_PLAYLIST_FEATURED_SERIES_001" UNK_D43B0E78="mp003_feature_sth_val" location="[-77.8, 375.7, 113.3]" name="South Valentine" />
+        <UNK_90114765 id="NET_PLAYLIST_FEATURED_SERIES_001" UNK_D43B0E78="mp003_feature_sth_van" location="[2928.2, 407.2, 49.3]" name="South Van Horn" />
+        <UNK_90114765 id="NET_PLAYLIST_ORBIS_SERIES_1" UNK_D43B0E78="mp003_area2_PlaylistMarker_02" location="[1579.5, 598.1, 93.4]" name="North Emerald Station" />
+        <UNK_90114765 id="NET_PLAYLIST_ORBIS_SERIES_2" UNK_D43B0E78="mp004_area2_PlaylistMarker_02" location="[1476.2, 501.3, 88.9]" name="North Emerald Station 2" />
+        <UNK_90114765 id="NET_PLAYLIST_ORBIS_SERIES_1" UNK_D43B0E78="mp003_area2_PlaylistMarker_03" location="[-230.1, 943.5, 138.1]" name="North Valentine" />
+        <UNK_90114765 id="NET_PLAYLIST_ORBIS_SERIES_2" UNK_D43B0E78="mp004_area2_PlaylistMarker_03" location="[-383.8, 874.7, 115.5]" name="North Valentine 2" />
+        <UNK_90114765 id="NET_PLAYLIST_ELIMINATION_MEDIUM" UNK_D43B0E78="mp001_trea3_sca_mea_rd_sgn_PlaylistMarker_07" location="[2581.415, -199.1853, 43.3414]" name="Bluewater Marsh" />
+        <UNK_90114765 id="NET_PLAYLIST_ELIMINATION_LARGE" UNK_D43B0E78="mp001_trea3_sca_mea_rd_sgn_PlaylistMarker_03" location="[1863.3, -454.2, 42.4113]" name="East Lagras" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_MEDIUM" UNK_D43B0E78="mp001_trea3_sca_mea_rd_sgn_PlaylistMarker_06" location="[1159.668, -891.2462, 71.4612]" name="Scarlett Meadows" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_LARGE" UNK_D43B0E78="mp001_trea3_swa_rd_sgn_PlaylistMarker" location="[2067.842, -1375.13, 42.1304]" name="Saint Denis" />
+        <UNK_90114765 id="NET_PLAYLIST_FEATURED_SERIES_001" UNK_D43B0E78="mp003_feature_east_rho" location="[1536.9, -1427.6, 65.6]" name="East Rhodes" />
+        <UNK_90114765 id="NET_PLAYLIST_ORBIS_SERIES_1" UNK_D43B0E78="mp003_area3_PlaylistMarker_04" location="[2554.0, -859.4, 42.4]" name="North Saint Denis" />
+        <UNK_90114765 id="NET_PLAYLIST_ORBIS_SERIES_2" UNK_D43B0E78="mp004_area3_PlaylistMarker_01" location="[2652.3, -989.6, 43.9]" name="North Saint Denis 2" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_LARGE" UNK_D43B0E78="mp001_trea1_gre_pla_rd_sgn_PlaylistMarker_05" location="[-1623.098, -1716.755, 81.1628]" name="Great Plains" />
+        <UNK_90114765 id="NET_PLAYLIST_ELIMINATION_LARGE" UNK_D43B0E78="mp001_trea1_big_val_rd_sgn_PlaylistMarker_06" location="[-1719.852, -240.8135, 181.4877]" name="North Strawberry" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_SMALL" UNK_D43B0E78="mp004_area1_playlistmarker_01" location="[-1751.2, -617.8, 146.3]" name="Strawberry" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_MEDIUM" UNK_D43B0E78="mp001_trea1_big_val_rd_sgn_PlaylistMarker_04" location="[-2050.066, 594.4809, 116.6914]" name="Hanging Dog Ranch" />
+        <UNK_90114765 id="NET_PLAYLIST_RACE_SERIES" UNK_D43B0E78="mp001_trea1_gre_pla_rd_sgn_PlaylistMarker_06" location="[-1258.081, -1208.071, 78.0607]" name="Blackwater" />
+        <UNK_90114765 id="NET_PLAYLIST_FEATURED_SERIES_001" UNK_D43B0E78="mp003_feature_west_bla" location="[-1067.6, -1506.3, 63.1]" name="West Blackwater" />
+        <UNK_90114765 id="NET_PLAYLIST_ORBIS_SERIES_1" UNK_D43B0E78="mp003_area1_PlaylistMarker_01" location="[-867.0, -1203.8, 43.2]" name="North Blackwater" />
+        <UNK_90114765 id="NET_PLAYLIST_ORBIS_SERIES_2" UNK_D43B0E78="mp004_area4_PlaylistMarker_03" location="[-757.2, -1394.1, 43.7]" name="South Blackwater" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_MEDIUM" UNK_D43B0E78="mp001_trea1_roa_rd_sgn_PlaylistMarker" location="[1743.4, 1552.2, 156.8587]" name="O'Creagh Run" />
+        <UNK_90114765 id="NET_PLAYLIST_ELIMINATION_LARGE" UNK_D43B0E78="mp001_trea2_hea_rd_sgn_PlaylistMarker_06" location="[466.7581, 1366.651, 169.5389]" name="Fort Wallace" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_LARGE" UNK_D43B0E78="mp001_trea1_hea_rd_sgn_PlaylistMarker_08" location="[-342.3367, 1574.824, 184.2439]" name="Window Rock" />
+        <UNK_90114765 id="NET_PLAYLIST_ELIMINATION_MEDIUM" UNK_D43B0E78="mp001_trea1_big_val_rd_sgn_PlaylistMarker_05" location="[-1015.26, 837.0391, 118.2934]" name="Cattail Pond" />
+        <UNK_90114765 id="NET_PLAYLIST_ELIMINATION_LARGE" UNK_D43B0E78="mp001_trea4_gap_rd_sgn_PlaylistMarker_03" location="[-3727.0, -2845.1, -7.0928]" name="Armadillo" />
+        <UNK_90114765 id="NET_PLAYLIST_ELIMINATION_MEDIUM" UNK_D43B0E78="mp001_trea4_hen_mp_fasttravel" location="[-1935.788, -2551.369, 65.3786]" name="MacFarlanes Ranch" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_MEDIUM" UNK_D43B0E78="mp001_trea4_rio_mp_fasttravel" location="[-4211.101, -3223.0, 26.34]" name="Mercer Station" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_LARGE" UNK_D43B0E78="mp001_trea4_gap_mp_fasttravel_01" location="[-5925.6, -3391.3, -15.9049]" name="Gaptooth Ridge" />
+        <UNK_90114765 id="NET_PLAYLIST_RACE_SERIES" UNK_D43B0E78="mp001_trea4_gap_mp_fasttravel_02" location="[-5161.956, -2871.883, 2.9507]" name="Tumbleweed" />
+        <UNK_90114765 id="NET_PLAYLIST_FEATURED_SERIES_001" UNK_D43B0E78="mp003_feature_east_arm" location="[-3526.2, -2586.7, -14.5]" name="East Armadillo" />
+        <UNK_90114765 id="NET_PLAYLIST_FEATURED_SERIES_001" UNK_D43B0E78="mp003_feature_sth_tum" location="[-5377.0, -3070.3, -3.2]" name="South Tumbleweed" />
+        <UNK_90114765 id="NET_PLAYLIST_ORBIS_SERIES_1" UNK_D43B0E78="mp003_area4_PlaylistMarker_05" location="[-2593.2, -2500.6, 71.5]" name="West MacFarlanes Ranch" />
+        <UNK_90114765 id="NET_PLAYLIST_ORBIS_SERIES_2" UNK_D43B0E78="mp004_area4_PlaylistMarker_04" location="[-2466.3, -2230.9, 66.15]" name="West MacFarlanes Ranch 2" />
+        <UNK_90114765 id="NET_PLAYLIST_ORBIS_SERIES_1" UNK_D43B0E78="mp003_area4_PlaylistMarker_06" location="[-4850.4, -2998.9, -19.0]" name="Benedict Pass" />
+        <UNK_90114765 id="NET_PLAYLIST_ORBIS_SERIES_2" UNK_D43B0E78="mp004_area4_PlaylistMarker_05" location="[-4709.1, -2990.8, -16.8]" name="Benedict Pass 2" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_SMALL" UNK_D43B0E78="mp004_area4_playlistmarker_01" location="[-3782.9, -2458.0, -11.7]" name="Armadillo North" />
+        <UNK_90114765 id="NET_PLAYLIST_ADVERSARY_SMALL" UNK_D43B0E78="mp004_area4_playlistmarker_02" location="[-5313.6, -3386.7, -22.1]" name="Benedict Point" />
+      </UNK_86D86F69>
+    </UNK_326A82F6>
+  </UNK_59C3633C>
+</root>

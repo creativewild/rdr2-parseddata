@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <regions>
+    <region id="REGION_BAY_CRAWDADWILLIES" UNK_964A087F="cdw" richpresence="0" script="CrawdadWillies" type="RT_SHACK" />
+    <region id="REGION_BAY_MACOMBS_END" UNK_964A087F="mbe" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_BAY_MERKINSWALLER" UNK_964A087F="mer" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_BAY_LAGRAS" UNK_964A087F="lag" richpresence="0" script="Lagras" type="RT_SETTLEMENT" />
+    <region id="REGION_BAY_LAKAY" UNK_964A087F="lak" richpresence="0" script="Lakay" type="RT_CAMP" />
+    <region id="REGION_BAY_SAINT_DENIS" UNK_802FBEFC="1" UNK_964A087F="nbx" richpresence="0" script="SaintDenis" type="RT_TOWN" />
+    <region id="REGION_BAY_ORANGE_PLANTATION" UNK_964A087F="orp" richpresence="0" script="OrangePlantation" type="RT_LANDMARK" />
+    <region id="REGION_BAY_SERIAL_KILLER" UNK_964A087F="sek" richpresence="0" script="SerialKiller" type="RT_SHACK" />
+    <region id="REGION_BAY_SERENDIPITY" UNK_964A087F="ser" richpresence="0" script="Serendipity" type="RT_LANDMARK" />
+    <region id="REGION_BAY_SHADYBELLE" UNK_67F6D9AF="1" UNK_964A087F="shb" richpresence="0" script="ShadyBelle" type="RT_HIDEOUT" />
+    <region id="REGION_BAY_SILTWATERSTRAND" UNK_964A087F="sil" richpresence="0" script="" type="RT_LANDMARK" />
+    <region UNK_F0775785="1" id="REGION_BGV_APPLESEEDTIMBER" UNK_964A087F="app" richpresence="0" script="EA_launcher" type="RT_EVENT_AREA" />
+    <region id="REGION_BGV_BERYLS_DREAM" UNK_964A087F="bed" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_BGV_BLACKBONEFOREST_TRAPPER" UNK_964A087F="bbf" richpresence="0" script="BigValleyTrapper" type="RT_LANDMARK" />
+    <region id="REGION_BGV_DAKOTARIVER_TRAPPER" UNK_964A087F="drt" richpresence="0" script="DakotaRiverTrapper" type="RT_LANDMARK" />
+    <region UNK_F0775785="1" id="REGION_BGV_FORTRIGGS" UNK_964A087F="ftr" richpresence="0" script="EA_launcher" type="RT_EVENT_AREA" />
+    <region id="REGION_BGV_HANGINGDOG" UNK_67F6D9AF="1" UNK_964A087F="hdr" richpresence="0" script="HangingDogRanch" type="RT_HIDEOUT" />
+    <region id="REGION_BGV_LONEMULESTEAD" UNK_964A087F="lms" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_BGV_MISSING_HUSBAND" UNK_964A087F="mih" richpresence="0" script="MissingHusband" type="RT_SHACK" />
+    <region id="REGION_BGV_MONTO_REST" UNK_964A087F="mor" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_BGV_OWANJILA_DAM" UNK_964A087F="owd" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_BGV_PAINTEDSKY" UNK_964A087F="pai" richpresence="0" script="PaintedSky" type="RT_HOMESTEAD" />
+    <region id="REGION_BGV_PRONGHORN" UNK_964A087F="prn" richpresence="0" script="PronghornRanch" type="RT_SETTLEMENT" />
+    <region id="REGION_BGV_RIGGS_STATION" UNK_964A087F="rgs" richpresence="0" script="RiggsStation" type="RT_SHACK" />
+    <region id="REGION_BGV_SHACK" UNK_964A087F="bsh" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_BGV_SHEPHERDS_RISE" UNK_964A087F="shr" richpresence="0" script="ShepherdsRise" type="RT_LANDMARK" />
+    <region id="REGION_BGV_STRAWBERRY" UNK_802FBEFC="1" UNK_964A087F="str" richpresence="0" script="Strawberry" type="RT_TOWN" />
+    <region id="REGION_BGV_VALLEY_VIEW" UNK_964A087F="vlv" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_BGV_WALLACE_STATION" UNK_964A087F="wal" richpresence="0" script="WallaceStation" type="RT_LANDMARK" />
+    <region id="REGION_BGV_WATSONSCABIN" UNK_67F6D9AF="1" UNK_964A087F="wat" richpresence="0" script="WatsonsCabin" type="RT_HOMESTEAD" />
+    <region id="REGION_GRZ_WINTERMINING_TOWN" UNK_964A087F="wmt" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_BLU_CANEBREAK_MANOR" UNK_964A087F="cam" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_BLU_COPPERHEAD" UNK_964A087F="cop" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_BLU_SISIKA" UNK_802FBEFC="1" UNK_964A087F="sis" richpresence="0" script="SisikaPenitentiary" type="RT_SETTLEMENT" />
+    <region id="REGION_CHO_ARMADILLO" UNK_964A087F="amd" richpresence="0" script="Armadillo" type="RT_TOWN" />
+    <region id="REGION_CHO_COOTS_CHAPEL" UNK_964A087F="cch" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_CHO_DON_JULIO_HOUSE" UNK_964A087F="djh" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_CHO_RIDGEWOOD_FARM" UNK_964A087F="rid" richpresence="0" script="RidgewoodFarm" type="RT_SETTLEMENT" />
+    <region id="REGION_CHO_RILEYS_CHARGE" UNK_964A087F="ryc" richpresence="0" script="RileysCharge" type="RT_LANDMARK" />
+    <region id="REGION_CHO_TWIN_ROCKS" UNK_67F6D9AF="1" UNK_964A087F="twr" richpresence="0" script="TwinRocks" type="RT_HIDEOUT" />
+    <region id="REGION_CML_BACCHUSBRIDGE" UNK_964A087F="bcb" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_CML_DINO_LADY" UNK_964A087F="dno" richpresence="0" script="DinoLady" type="RT_SHACK" />
+    <region id="REGION_ROA_DOVERHILL" UNK_964A087F="dov" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_CML_OLDFORTWALLACE" UNK_964A087F="ofw" richpresence="0" script="OldFortWallace" type="RT_SETTLEMENT" />
+    <region id="REGION_CML_SIXPOINTCABIN" UNK_67F6D9AF="1" UNK_964A087F="six" richpresence="0" script="SixPointCabin" type="RT_HIDEOUT" />
+    <region id="REGION_GAP_GAPTOOTH_BREACH" UNK_67F6D9AF="1" UNK_964A087F="gpb" richpresence="0" script="GaptoothBreach" type="RT_HIDEOUT" />
+    <region id="REGION_GAP_TUMBLEWEED" UNK_964A087F="tbl" richpresence="0" script="Tumbleweed" type="RT_TOWN" />
+    <region id="REGION_GAP_RATHSKELLER_FORK" UNK_964A087F="rkf" richpresence="0" script="RathskellerFork" type="RT_LANDMARK" />
+    <region id="REGION_GAP_SOLOMONS_FOLLY" UNK_67F6D9AF="1" UNK_964A087F="som" richpresence="0" script="SolomonsFolly" type="RT_HIDEOUT" />
+    <region id="REGION_GRT_BEECHERS" UNK_964A087F="bch" richpresence="0" script="BeechersHope" type="RT_CAMP" />
+    <region id="REGION_GRT_BLACKWATER" UNK_802FBEFC="1" UNK_964A087F="blk" richpresence="0" script="Blackwater" type="RT_TOWN" />
+    <region id="REGION_GRT_QUAKERS_COVE" UNK_964A087F="qac" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_GRZ_ADLERRANCH" UNK_964A087F="adl" richpresence="0" script="AdlerRanch" type="RT_HOMESTEAD" />
+    <region id="REGION_GRZ_DEAD_RIVAL" UNK_964A087F="der" richpresence="0" script="DeadRival" type="RT_SHACK" />
+    <region id="REGION_GRZ_CALUMETRAVINE" UNK_964A087F="ctr" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_GRE_CIVIL_WAR_BRIDE" UNK_964A087F="cwb" richpresence="0" script="CivilWarBride" type="RT_SHACK" />
+    <region id="REGION_GRZ_CHEZPORTER" UNK_67F6D9AF="1" UNK_964A087F="chz" richpresence="0" script="ChezPorter" type="RT_HOMESTEAD" />
+    <region id="REGION_GRZ_COHUTTA" UNK_964A087F="coh" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_GRZ_COLTER" UNK_964A087F="col" richpresence="0" script="Colter" type="RT_CAMP" />
+    <region id="REGION_GRZ_FROZEN_EXPLORER" UNK_964A087F="fro" richpresence="0" script="FrozenExplorers" type="RT_SHACK" />
+    <region id="REGION_GRZ_GUNFIGHT" UNK_964A087F="gun" richpresence="0" script="Gunfight" type="RT_SHACK" />
+    <region id="REGION_GRZ_MILLESANI_CLAIM" UNK_964A087F="mic" richpresence="0" script="MillesaniClaim" type="RT_LANDMARK" />
+    <region id="REGION_GRZ_MOUNTAIN_MAN" UNK_964A087F="mom" richpresence="0" script="MountainMan" type="RT_SHACK" />
+    <region id="REGION_GRZ_STARVING_CHILDREN" UNK_964A087F="stc" richpresence="0" script="StarvingChildren" type="RT_SHACK" />
+    <region id="REGION_GRZ_THELOFT" UNK_964A087F="lof" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_GRE_VETERAN" UNK_964A087F="vet" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_GRZ_TEMPEST_RIM" UNK_964A087F="tmr" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_GRZ_WAPITI" UNK_802FBEFC="1" UNK_964A087F="wap" richpresence="0" script="Wapiti" type="RT_SETTLEMENT" />
+    <region guama="1" id="REGION_GUA_AGUASDULCES" UNK_964A087F="agd" richpresence="0" script="Aguasdulces" type="RT_SETTLEMENT" />
+    <region guama="1" id="REGION_GUA_CAMP" UNK_964A087F="guc" richpresence="0" script="Guarma" type="RT_CAMP" />
+    <region guama="1" id="REGION_GUA_CINCOTORRES" UNK_964A087F="cin" richpresence="0" script="" type="RT_LANDMARK" />
+    <region guama="1" id="REGION_GUA_LACAPILLA" UNK_964A087F="lac" richpresence="0" script="" type="RT_LANDMARK" />
+    <region guama="1" UNK_F0775785="1" id="REGION_GUA_MANICATO" UNK_802FBEFC="1" UNK_964A087F="man" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_HEN_MACFARLANES_RANCH" UNK_964A087F="mfr" richpresence="0" script="MacFarlanesRanch" type="RT_HOMESTEAD" />
+    <region id="REGION_HEN_THIEVES_LANDING" UNK_FF9E3EFD="RT_TOWN" UNK_D0AAD78="1" UNK_964A087F="thl" richpresence="0" script="ThievesLanding" type="RT_HIDEOUT" />
+    <region id="REGION_HRT_ABANDONED_MILL" UNK_964A087F="abm" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_ROA_ABERDEENPIGFARM" UNK_67F6D9AF="1" UNK_964A087F="abe" richpresence="0" script="AberdeenPigFarm" type="RT_HOMESTEAD" />
+    <region id="REGION_HRT_CARMODYDELL" UNK_964A087F="car" richpresence="0" script="CarmodyDell" type="RT_HOMESTEAD" />
+    <region UNK_F0775785="1" id="REGION_HRT_CORNWALLKEROSENE" UNK_802FBEFC="1" UNK_964A087F="ckt" richpresence="0" script="CornwallKerosene" type="RT_SETTLEMENT" />
+    <region id="REGION_HRT_CROP_FARM" UNK_964A087F="crf" richpresence="0" script="CropFarm" type="RT_LANDMARK" />
+    <region id="REGION_HRT_CUMBERLANDFALLS" UNK_964A087F="cmf" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_HRT_DOWNSRANCH" UNK_964A087F="dow" richpresence="0" script="DownsRanch" type="RT_SETTLEMENT" />
+    <region id="REGION_HRT_EMERALDRANCH" UNK_802FBEFC="1" UNK_964A087F="emr" richpresence="0" script="EmeraldRanch" type="RT_SETTLEMENT" />
+    <region id="REGION_HRT_GRANGERS_HOGGERY" UNK_964A087F="grh" richpresence="0" script="GrangersHoggery" type="RT_SHACK" />
+    <region id="REGION_HRT_HORSESHOEOVERLOOK" UNK_964A087F="hso" richpresence="0" script="HorseshoeOverlook" type="RT_CAMP" />
+    <region id="REGION_HRT_LARNEDSOD" UNK_964A087F="lar" richpresence="0" script="LarnedSod" type="RT_HOMESTEAD" />
+    <region id="REGION_HRT_LOONY_CULT" UNK_964A087F="lnc" richpresence="0" script="LoonyCult" type="RT_SHACK" />
+    <region id="REGION_HRT_LUCKYSCABIN" UNK_964A087F="luc" richpresence="0" script="LuckysCabin" type="RT_LANDMARK" />
+    <region id="REGION_HRT_SWANSONS_STATION" UNK_964A087F="swn" richpresence="0" script="SwansonStation" type="RT_LANDMARK" />
+    <region id="REGION_HRT_VALENTINE" UNK_802FBEFC="1" UNK_964A087F="val" richpresence="0" script="Valentine" type="RT_TOWN" />
+    <region id="REGION_RIO_BENEDICT_POINT" UNK_964A087F="ben" richpresence="0" script="BenedictPoint" type="RT_LANDMARK" />
+    <region id="REGION_RIO_FORT_MERCER" UNK_67F6D9AF="1" UNK_964A087F="fom" richpresence="0" script="FortMercer" type="RT_HIDEOUT" />
+    <region id="REGION_RIO_PLAIN_VIEW" UNK_964A087F="plv" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_ROA_ANNESBURG" UNK_802FBEFC="1" UNK_964A087F="ann" richpresence="0" script="Annesburg" type="RT_TOWN" />
+    <region id="REGION_ROA_BEAVERHOLLOW" UNK_67F6D9AF="1" UNK_964A087F="bvh" richpresence="0" script="BeaverHollow" type="RT_HIDEOUT" />
+    <region id="REGION_ROA_BEECHERS_C" UNK_964A087F="sbc" richpresence="0" script="BeechersC" type="RT_SHACK" />
+    <region id="REGION_ROA_BLACK_BALSAM_RISE" UNK_964A087F="bbr" richpresence="0" script="BlackBalsamRise" type="RT_SHACK" />
+    <region id="REGION_ROA_BRANDYWINE_DROP" UNK_964A087F="bwd" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_ROA_BUTCHERCREEK" UNK_964A087F="but" richpresence="0" script="ButcherCreek" type="RT_SETTLEMENT" />
+    <region id="REGION_ROA_HAPPY_FAMILY" UNK_964A087F="hpf" richpresence="0" script="HappyFamily" type="RT_SHACK" />
+    <region id="REGION_ROA_ISOLATIONIST" UNK_964A087F="ani" richpresence="0" script="AngryIsolationist" type="RT_SHACK" />
+    <region id="REGION_ROA_MACLEANSHOUSE" UNK_964A087F="mac" richpresence="0" script="MacLeansHouse" type="RT_HOMESTEAD" />
+    <region id="REGION_ROA_MOSSY_FLATS" UNK_964A087F="mof" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_ROA_ROANOKE_VALLEY" UNK_964A087F="rkv" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_ROA_ROCKYSEVEN" UNK_67F6D9AF="1" UNK_964A087F="rck" richpresence="0" script="RockySeven" type="RT_HOMESTEAD" />
+    <region id="REGION_ROA_TRAPPER" UNK_964A087F="rtp" richpresence="0" script="RoanokeTrapper" type="RT_LANDMARK" />
+    <region id="REGION_ROA_VANHORNMANSION" UNK_964A087F="vhm" richpresence="0" script="VanHornMansion" type="RT_HOMESTEAD" />
+    <region id="REGION_ROA_VANHORNPOST" UNK_802FBEFC="1" UNK_964A087F="vht" richpresence="0" script="VanHornTradingPost" type="RT_TOWN" />
+    <region UNK_F0775785="1" id="REGION_SCM_BRAITHWAITEMANOR" UNK_964A087F="bra" richpresence="0" script="BraithwaiteManor" type="RT_SETTLEMENT" />
+    <region id="REGION_SCM_BULGERGLADE" UNK_964A087F="bul" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_SCM_CALIGAHALL" UNK_964A087F="cal" richpresence="0" script="CaligaHall" type="RT_SETTLEMENT" />
+    <region id="REGION_SCM_CATFISHJACKSONS" UNK_67F6D9AF="1" UNK_964A087F="cat" richpresence="0" script="CatfishJacksons" type="RT_HOMESTEAD" />
+    <region id="REGION_SCM_CLEMENSCOVE" UNK_964A087F="cle" richpresence="0" script="ClemensCove" type="RT_LANDMARK" />
+    <region id="REGION_SCM_CLEMENSPOINT" UNK_964A087F="clp" richpresence="0" script="ClemensPoint" type="RT_CAMP" />
+    <region id="REGION_SCM_COMPSONS_STEAD" UNK_964A087F="cos" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_SCM_DAIRY_FARM" UNK_964A087F="dyf" richpresence="0" script="DairyFarm" type="RT_LANDMARK" />
+    <region id="REGION_SCM_HORSE_SHOP" UNK_964A087F="hrs" richpresence="0" script="ScarlettHorseShop" type="RT_LANDMARK" />
+    <region id="REGION_SCM_LONNIESSHACK" UNK_67F6D9AF="1" UNK_964A087F="lon" richpresence="0" script="LonniesShack" type="RT_HOMESTEAD" />
+    <region id="REGION_SCM_LOVE_TRIANGLE" UNK_964A087F="lov" richpresence="0" script="LoveTriangle" type="RT_SHACK" />
+    <region id="REGION_SCM_RADLEYS_PASTURE" UNK_964A087F="rap" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_SCM_RHODES" UNK_802FBEFC="1" UNK_964A087F="rho" richpresence="0" script="Rhodes" type="RT_TOWN" />
+    <region id="REGION_SCM_SLAVE_PEN" UNK_964A087F="slp" richpresence="0" script="SlavePen" type="RT_SHACK" />
+    <region id="REGION_TAL_AURORA_BASIN" UNK_964A087F="aub" richpresence="0" script="" type="RT_SHACK" />
+    <region id="REGION_TAL_DEAD_SETTLER" UNK_964A087F="des" richpresence="0" script="DeadSettler" type="RT_SHACK" />
+    <region id="REGION_TAL_COCHINAY" UNK_964A087F="coc" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_TAL_MANZANITAPOST" UNK_802FBEFC="1" UNK_964A087F="mtp" richpresence="0" script="ManzanitaPost" type="RT_SETTLEMENT" />
+    <region id="REGION_TAL_PACIFICUNIONRR" UNK_964A087F="pur" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_TAL_TANNERSREACH" UNK_964A087F="tan" richpresence="0" script="" type="RT_LANDMARK" />
+    <region id="REGION_TAL_TRAPPER" UNK_964A087F="ttp" richpresence="0" script="TallTreesTrapper" type="RT_LANDMARK" />
+    <region UNK_F0775785="1" id="REGION_CENTRALUNIONRR" UNK_964A087F="cur" richpresence="0" script="EA_launcher" type="RT_EVENT_AREA" />
+  </regions>
+</root>

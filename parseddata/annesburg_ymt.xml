@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <location center="[2934.0, 1343.0, 44.0]" id="ANNESBURG">
+    <volumes>
+      <prison>
+        <building>
+          <placement id="volBox" size="[7.404341, 6.6947, 2.325344]" spawn_heading="0.0" spawn_position="[2956.388, 1355.813, 45.33094]" />
+        </building>
+        <cells>
+          <placement id="volBox" size="[3.924598, 6.604889, 2.325344]" spawn_heading="0.0" spawn_position="[2958.208, 1355.524, 45.33094]" />
+        </cells>
+      </prison>
+      <UNK_BA392662>
+        <placement id="volBox" size="[11.5, 8.899998, 6.499999]" spawn_heading="0.0" spawn_position="[2996.892, 1456.725, 48.62388]" />
+      </UNK_BA392662>
+    </volumes>
+    <props>
+      <UNK_BA392662>
+        <UNK_16C66C34>
+          <placement id="S_GALLOWSSTAIRS03X" spawn_position="[2997.756, 1453.688, 48.5984]" />
+        </UNK_16C66C34>
+      </UNK_BA392662>
+    </props>
+    <doors>
+      <prison>
+        <cells>
+          <right id="P_DOORJAILSGL_A" spawn_position="[2956.073, 1355.008, 44.1817]" />
+          <left id="P_DOORJAILSGL_A" spawn_position="[2956.355, 1356.574, 44.1519]" />
+        </cells>
+      </prison>
+    </doors>
+  </location>
+</root>

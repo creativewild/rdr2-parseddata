@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_1AF9B630 id="ST_PHOTO_STUDIO">
+    <UNK_BB99086F>
+      <background id="UPGRADE_PHOTO_BACKDROP_COUNTRYSIDE_CANYONS">
+        <hash data="MP005_P_MP_PHOTOBACKDROP02X_CAN" id="sModel" />
+        <hash data="MP005_P_MP_PHOTOBACKDROP01X_CAN" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_SUNNY" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_COUNTRYSIDE_DESERT">
+        <hash data="MP005_P_MP_PHOTOBACKDROP02X_D" id="sModel" />
+        <hash data="MP005_P_MP_PHOTOBACKDROP01X_D" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_SUNSET" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_COUNTRYSIDE_PLANTATION">
+        <hash data="MP005_P_MP_PHOTOBACKDROP02X_PLN" id="sModel" />
+        <hash data="MP005_P_MP_PHOTOBACKDROP01X_PLN" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_STANDARD" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_COUNTRYSIDE_PRAIRIE">
+        <hash data="MP005_P_MP_PHOTOBACKDROP02X" id="sModel" />
+        <hash data="MP005_P_MP_PHOTOBACKDROP01X" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_SUNNY" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_COUNTRYSIDE_SNOWFIELD">
+        <hash data="MP006_p_Countryside_ph_backdrop02x_s" id="sModel" />
+        <hash data="MP006_p_Countryside_ph_backdrop02x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_STANDARD" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_COUNTRYSIDE_SWAMP">
+        <hash data="mp007_p_backdrop_swamp01x_s" id="sModel" />
+        <hash data="mp007_p_backdrop_swamp01x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_SUNSET" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_COUNTRYSIDE_LAKE">
+        <hash data="mp007_p_backdrop_lake01x_s" id="sModel" />
+        <hash data="mp007_p_backdrop_lake01x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_SUNNY" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_COUNTRYSIDE_GARDEN">
+        <hash data="mp007_p_backdrop_garden01x_s" id="sModel" />
+        <hash data="mp007_p_backdrop_garden01x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_SUNNY" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_INTERIOR_BORDELLO">
+        <hash data="MP005_P_MP_PHOTOBACKDROP02X_BOR" id="sModel" />
+        <hash data="MP005_P_MP_PHOTOBACKDROP01X_BOR" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_INTERIOR" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_INTERIOR_LIVINGROOM">
+        <hash data="MP005_P_MP_PHOTOBACKDROP02X_LR" id="sModel" />
+        <hash data="MP005_P_MP_PHOTOBACKDROP01X_LR" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_STANDARD" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_INTERIOR_MORNINGROOM">
+        <hash data="MP005_P_MP_PHOTOBACKDROP02X_INT" id="sModel" />
+        <hash data="MP005_P_MP_PHOTOBACKDROP01X_INT" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_STANDARD" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_INTERIOR_SALOON">
+        <hash data="MP005_P_MP_PHOTOBACKDROP02X_WS" id="sModel" />
+        <hash data="MP005_P_MP_PHOTOBACKDROP01X_WS" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_INTERIOR" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_INTERIOR_THEATRE">
+        <hash data="MP006_p_Interiors_ph_backdrop01x_s" id="sModel" />
+        <hash data="MP006_p_Interiors_ph_backdrop01x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_INTERIOR" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_INTERIOR_PARLOUR">
+        <hash data="mp007_p_backdrop_parlour01x_s" id="sModel" />
+        <hash data="mp007_p_backdrop_parlour01x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_INTERIOR" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_INTERIOR_STAIRS">
+        <hash data="mp007_p_backdrop_stairs01x_s" id="sModel" />
+        <hash data="mp007_p_backdrop_stairs01x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_INTERIOR" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_TRAVEL_CONGO">
+        <hash data="MP005_P_MP_PHOTOBACKDROP02X_CON" id="sModel" />
+        <hash data="MP005_P_MP_PHOTOBACKDROP01X_CON" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_STANDARD" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_TRAVEL_NIAGARA">
+        <hash data="MP005_P_MP_PHOTOBACKDROP02X_NF" id="sModel" />
+        <hash data="MP005_P_MP_PHOTOBACKDROP01X_NF" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_SUNNY" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_TRAVEL_PARIS">
+        <hash data="MP005_P_MP_PHOTOBACKDROP02X_PBM" id="sModel" />
+        <hash data="MP005_P_MP_PHOTOBACKDROP01X_PBM" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_NIGHT" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_TRAVEL_VESUVIUS">
+        <hash data="MP005_P_MP_PHOTOBACKDROP02X_VLC" id="sModel" />
+        <hash data="MP005_P_MP_PHOTOBACKDROP01X_VLC" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_SUNSET" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_TRAVEL_BEACH">
+        <hash data="MP006_p_Travel_ph_backdrop03x_s" id="sModel" />
+        <hash data="MP006_p_Travel_ph_backdrop03x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_SUNNY" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_TRAVEL_CHINA">
+        <hash data="mp007_p_backdrop_china01x_s" id="sModel" />
+        <hash data="mp007_p_backdrop_china01x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_SUNSET" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_TRAVEL_EGYPT">
+        <hash data="mp007_p_backdrop_egypt01x_s" id="sModel" />
+        <hash data="mp007_p_backdrop_egypt01x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_SUNNY" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_ROLE_BOUNTYHUNTER">
+        <hash data="MP005_P_MP_PHOTOBACKDROP02X_BH" id="sModel" />
+        <hash data="MP005_P_MP_PHOTOBACKDROP01X_BH" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_INTERIOR" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_ROLE_COLLECTOR">
+        <hash data="MP005_P_MP_PHOTOBACKDROP02X_COL" id="sModel" />
+        <hash data="MP005_P_MP_PHOTOBACKDROP01X_COL" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_INTERIOR" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_ROLE_SEASON_005">
+        <hash data="MP005_P_MP_PHOTOBACKDROP02X_SPT" id="sModel" />
+        <hash data="MP005_P_MP_PHOTOBACKDROP01X_SPT" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_INTERIOR" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_ROLE_TRADER">
+        <hash data="MP005_P_MP_PHOTOBACKDROP02X_TR" id="sModel" />
+        <hash data="MP005_P_MP_PHOTOBACKDROP01X_TR" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_SUNNY" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_ROLE_MOONSHINER">
+        <hash data="MP006_p_Bar_ph_backdrop04x_s" id="sModel" />
+        <hash data="MP006_p_Bar_ph_backdrop04x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_INTERIOR" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_ROLE_NATURALIST">
+        <hash data="mp007_p_backdrop_naturalist01x_s" id="sModel" />
+        <hash data="mp007_p_backdrop_naturalist01x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_INTERIOR" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_SPOOPY_CABIN">
+        <hash data="mp007_p_backdrop_cabin01x_s" id="sModel" />
+        <hash data="mp007_p_backdrop_cabin01x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_NIGHT" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_SPOOPY_CEMETERY">
+        <hash data="mp007_p_backdrop_cemetery01x_s" id="sModel" />
+        <hash data="mp007_p_backdrop_cemetery01x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_NIGHT" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_SPOOPY_FIELD">
+        <hash data="mp007_p_backdrop_field01x_s" id="sModel" />
+        <hash data="mp007_p_backdrop_field01x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_NIGHT" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_SPOOPY_HOUSE">
+        <hash data="mp007_p_backdrop_fireplace01x_s" id="sModel" />
+        <hash data="mp007_p_backdrop_fireplace01x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_INTERIOR" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_UGC_001">
+        <hash data="mp008_p_Backdrop_PhotoComp01x_s" id="sModel" />
+        <hash data="mp008_p_Backdrop_PhotoComp01x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_NIGHT" id="sLighting" />
+      </background>
+      <background id="UPGRADE_PHOTO_BACKDROP_UGC_002">
+        <hash data="mp008_p_Backdrop_PhotoComp02x_s" id="sModel" />
+        <hash data="mp008_p_Backdrop_PhotoComp02x" id="sModelPosse" />
+        <hash data="PHST_LIGHTING_NIGHT" id="sLighting" />
+      </background>
+    </UNK_BB99086F>
+    <poses>
+      <pose id="UPGRADE_PHOTO_POSE_ONE_CHAIR">
+        <string data="script@mp@photo_studio@posse_photo_1chair" id="sScene" />
+        <props>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="CHAIR_01" id="sNameMale" />
+            <string data="CHAIR_01" id="sNameFemale" />
+            <hash data="p_chairComfy01x" id="sModel" />
+          </prop>
+        </props>
+      </pose>
+      <pose id="UPGRADE_PHOTO_POSE_TWO_CHAIRS">
+        <string data="script@mp@photo_studio@2chairs" id="sScene" />
+        <props>
+          <prop>
+            <int data="2" id="iPosition" />
+            <string data="CHAIR_01" id="sNameMale" />
+            <string data="CHAIR_01" id="sNameFemale" />
+            <hash data="p_chairComfy03x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="3" id="iPosition" />
+            <string data="CHAIR_02" id="sNameMale" />
+            <string data="CHAIR_02" id="sNameFemale" />
+            <hash data="p_chairComfy03x" id="sModel" />
+          </prop>
+        </props>
+      </pose>
+      <pose id="UPGRADE_PHOTO_POSE_ROW_STAGGERED">
+        <string data="script@mp@photo_studio@row_staggered" id="sScene" />
+        <props>
+          <prop>
+            <int data="4" id="iPosition" />
+            <string data="CIGAR_MALE_04" id="sNameMale" />
+            <string data="CIGAR_FEMALE_04" id="sNameFemale" />
+            <hash data="p_cigar01x" id="sModel" />
+          </prop>
+        </props>
+      </pose>
+      <pose id="UPGRADE_PHOTO_POSE_V_FORMATION">
+        <string data="script@mp@photo_studio@posse_photo_vformation@posse_photo_vformation" id="sScene" />
+      </pose>
+      <pose id="UPGRADE_PHOTO_POSE_PISTOLS_V_FORMATION">
+        <string data="script@mp@photo_studio@posse_photo_aimpistols_vform" id="sScene" />
+      </pose>
+      <pose id="UPGRADE_PHOTO_POSE_PISTOLS_ROW">
+        <string data="script@mp@photo_studio@aimpistols_row" id="sScene" />
+      </pose>
+      <pose id="UPGRADE_PHOTO_POSE_CELEBRATE">
+        <string data="script@mp@photo_studio@celebrate@celebrate" id="sScene" />
+        <props>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="bottlechampagne" id="sNameMale" />
+            <string data="bottlechampagne_1" id="sNameFemale" />
+            <hash data="p_bottlechampagne01x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="2" id="iPosition" />
+            <string data="p_glass001x_3" id="sNameMale" />
+            <string data="p_glass001x_10" id="sNameFemale" />
+            <hash data="p_glass001x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="3" id="iPosition" />
+            <string data="p_glass001x" id="sNameMale" />
+            <string data="p_glass001x_12" id="sNameFemale" />
+            <hash data="p_glass001x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="4" id="iPosition" />
+            <string data="p_glass001x_4" id="sNameMale" />
+            <string data="p_glass001x_9" id="sNameFemale" />
+            <hash data="p_glass001x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="5" id="iPosition" />
+            <string data="p_glass001x_1" id="sNameMale" />
+            <string data="p_glass001x_11" id="sNameFemale" />
+            <hash data="p_glass001x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="6" id="iPosition" />
+            <string data="p_glass001x_6" id="sNameMale" />
+            <string data="p_glass001x_7" id="sNameFemale" />
+            <hash data="p_glass001x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="7" id="iPosition" />
+            <string data="p_glass001x_5" id="sNameMale" />
+            <string data="p_glass001x_8" id="sNameFemale" />
+            <hash data="p_glass001x" id="sModel" />
+          </prop>
+        </props>
+      </pose>
+      <pose id="UPGRADE_PHOTO_POSE_CHAIR_RIFLES">
+        <string data="script@mp@photo_studio@chair_rifles@chair_rifles" id="sScene" />
+        <props>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="p_chair13x" id="sNameMale" />
+            <string data="p_chair13x" id="sNameFemale" />
+            <hash data="p_chair13x" id="sModel" />
+          </prop>
+        </props>
+      </pose>
+      <pose id="UPGRADE_PHOTO_POSE_DOG">
+        <string data="script@mp@photo_studio@dog@dog" id="sScene" />
+        <props>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="A_C_DogAustralianSheperd_01" id="sNameMale" />
+            <string data="A_C_DogAustralianSheperd_01" id="sNameFemale" />
+            <hash data="DOG_MODELS" id="sModel" />
+          </prop>
+        </props>
+      </pose>
+      <pose id="UPGRADE_PHOTO_POSE_SIT_ON_CRATES">
+        <string data="script@mp@photo_studio@sit_on_crate@sit_on_crate" id="sScene" />
+        <props>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="p_whiskeyCrate01x" id="sNameMale" />
+            <string data="p_whiskeyCrate01x" id="sNameFemale" />
+            <hash data="p_whiskeyCrate01x" id="sModel" />
+          </prop>
+        </props>
+      </pose>
+      <pose id="UPGRADE_PHOTO_POSE_FUN">
+        <string data="script@mp@photo_studio@fun@fun" id="sScene" />
+      </pose>
+      <pose id="UPGRADE_PHOTO_POSE_TAXIDERMY">
+        <string data="TAXIDERMY" id="sScene" />
+        <variants>
+          <variant>
+            <string data="script@mp@photo_studio@IG10_J_TAXIDERMY@ALLIGATOR@ALLIGATOR" id="sSceneOverride" />
+            <props>
+              <prop>
+                <int data="1" id="iPosition" />
+                <string data="mp007_p_taxidermy_base02x" id="sNameMale" />
+                <string data="mp007_p_taxidermy_base02x" id="sNameFemale" />
+                <hash data="mp007_p_taxidermy_base02x" id="sModel" />
+              </prop>
+              <prop>
+                <int data="1" id="iPosition" />
+                <string data="A_C_Alligator_01" id="sNameMale" />
+                <string data="A_C_Alligator_01" id="sNameFemale" />
+                <hash data="A_C_Alligator_01" id="sModel" />
+              </prop>
+            </props>
+          </variant>
+          <variant>
+            <string data="script@mp@photo_studio@taxidermy@beaver@beaver" id="sSceneOverride" />
+            <props>
+              <prop>
+                <int data="1" id="iPosition" />
+                <string data="mp007_p_taxidermy_base01x" id="sNameMale" />
+                <string data="mp007_p_taxidermy_base01x" id="sNameFemale" />
+                <hash data="mp007_p_taxidermy_base01x" id="sModel" />
+              </prop>
+              <prop>
+                <int data="1" id="iPosition" />
+                <string data="A_C_Beaver_01" id="sNameMale" />
+                <string data="A_C_Beaver_01" id="sNameFemale" />
+                <hash data="A_C_Beaver_01" id="sModel" />
+              </prop>
+            </props>
+          </variant>
+          <variant>
+            <string data="script@mp@photo_studio@IG10_J_TAXIDERMY@BUCK@BUCK" id="sSceneOverride" />
+            <props>
+              <prop>
+                <int data="1" id="iPosition" />
+                <string data="mp007_p_taxidermy_base03x" id="sNameMale" />
+                <string data="mp007_p_taxidermy_base03x" id="sNameFemale" />
+                <hash data="mp007_p_taxidermy_base03x" id="sModel" />
+              </prop>
+              <prop>
+                <int data="1" id="iPosition" />
+                <string data="A_C_Buck_01" id="sNameMale" />
+                <string data="A_C_Buck_01" id="sNameFemale" />
+                <hash data="A_C_Buck_01" id="sModel" />
+              </prop>
+            </props>
+          </variant>
+          <variant>
+            <string data="script@mp@photo_studio@taxidermy@panther@panther" id="sSceneOverride" />
+            <props>
+              <prop>
+                <int data="1" id="iPosition" />
+                <string data="mp007_p_taxidermy_base03x" id="sNameMale" />
+                <string data="mp007_p_taxidermy_base03x" id="sNameFemale" />
+                <hash data="mp007_p_taxidermy_base03x" id="sModel" />
+              </prop>
+              <prop>
+                <int data="1" id="iPosition" />
+                <string data="A_C_Panther_01" id="sNameMale" />
+                <string data="A_C_Panther_01" id="sNameFemale" />
+                <hash data="A_C_Panther_01" id="sModel" />
+              </prop>
+            </props>
+          </variant>
+          <variant>
+            <string data="script@mp@photo_studio@IG10_J_TAXIDERMY@BLACKBEAR@BLACKBEAR" id="sSceneOverride" />
+            <props>
+              <prop>
+                <int data="1" id="iPosition" />
+                <string data="mp007_p_taxidermy_base03x" id="sNameMale" />
+                <string data="mp007_p_taxidermy_base03x" id="sNameFemale" />
+                <hash data="mp007_p_taxidermy_base03x" id="sModel" />
+              </prop>
+              <prop>
+                <int data="1" id="iPosition" />
+                <string data="A_C_BearBlack_01" id="sNameMale" />
+                <string data="A_C_BearBlack_01" id="sNameFemale" />
+                <hash data="A_C_BearBlack_01" id="sModel" />
+              </prop>
+            </props>
+          </variant>
+          <variant>
+            <string data="script@mp@photo_studio@taxidermy@fox@fox" id="sSceneOverride" />
+            <props>
+              <prop>
+                <int data="1" id="iPosition" />
+                <string data="mp007_p_taxidermy_base01x" id="sNameMale" />
+                <string data="mp007_p_taxidermy_base01x" id="sNameFemale" />
+                <hash data="mp007_p_taxidermy_base01x" id="sModel" />
+              </prop>
+              <prop>
+                <int data="1" id="iPosition" />
+                <string data="A_C_Fox_01" id="sNameMale" />
+                <string data="A_C_Fox_01" id="sNameFemale" />
+                <hash data="A_C_Fox_01" id="sModel" />
+              </prop>
+              <prop>
+                <int data="1" id="iPosition" />
+                <string data="A_C_Rat_01" id="sNameMale" />
+                <string data="A_C_Rat_01" id="sNameFemale" />
+                <hash data="A_C_Rat_01" id="sModel" />
+              </prop>
+            </props>
+          </variant>
+          <variant>
+            <string data="script@mp@photo_studio@taxidermy@wolf@wolf" id="sSceneOverride" />
+            <props>
+              <prop>
+                <int data="1" id="iPosition" />
+                <string data="mp007_p_taxidermy_base03x" id="sNameMale" />
+                <string data="mp007_p_taxidermy_base03x" id="sNameFemale" />
+                <hash data="mp007_p_taxidermy_base03x" id="sModel" />
+              </prop>
+              <prop>
+                <int data="1" id="iPosition" />
+                <string data="A_C_Wolf_Small" id="sNameMale" />
+                <string data="A_C_Wolf_Small" id="sNameFemale" />
+                <hash data="A_C_Wolf_Small" id="sModel" />
+              </prop>
+              <prop>
+                <int data="1" id="iPosition" />
+                <string data="A_C_Rabbit_01" id="sNameMale" />
+                <string data="A_C_Rabbit_01" id="sNameFemale" />
+                <hash data="A_C_Rabbit_01" id="sModel" />
+              </prop>
+            </props>
+          </variant>
+        </variants>
+      </pose>
+      <pose id="UPGRADE_PHOTO_POSE_HOGTIE">
+        <string data="script@mp@photo_studio@IG12_M_HOGTIE@HOGTIE" id="sScene" />
+        <props>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="Boar" id="sNameMale" />
+            <string data="Boar" id="sNameFemale" />
+            <hash data="A_C_Boar_01" id="sModel" />
+          </prop>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="Rope" id="sNameMale" />
+            <string data="Rope" id="sNameFemale" />
+            <hash data="s_ropehogtiehands01x" id="sModel" />
+          </prop>
+        </props>
+      </pose>
+      <pose id="UPGRADE_PHOTO_POSE_BOUNTY">
+        <string data="script@mp@photo_studio@IG12_N_BOUNY@BOUNTY" id="sScene" />
+        <props>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="Loot" id="sNameMale" />
+            <string data="Loot" id="sNameFemale" />
+            <hash data="mp008_s_loot_photostudio01x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="Gun_01_Left_Hand" id="sNameMale" />
+            <string data="Gun_01_Left_Hand" id="sNameFemale" />
+            <hash data="w_revolver_schofield03" id="sModel" />
+          </prop>
+        </props>
+      </pose>
+      <pose id="UPGRADE_PHOTO_POSE_VAULT">
+        <string data="script@mp@photo_studio@IG12_O_VAULT@VAULT" id="sScene" />
+        <props>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="VAULT" id="sNameMale" />
+            <string data="VAULT" id="sNameFemale" />
+            <hash data="mp008_s_safe_photostudio01x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="CASHPILE" id="sNameMale" />
+            <string data="CASHPILE" id="sNameFemale" />
+            <hash data="p_moneystack02x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="MONEYSACK_ON_VAULT" id="sNameMale" />
+            <string data="MONEYSACK_ON_VAULT" id="sNameFemale" />
+            <hash data="P_MONEYBAG02X" id="sModel" />
+          </prop>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="MONEYSACK_MALE" id="sNameMale" />
+            <string data="MONEYSACK_FEMALE" id="sNameFemale" />
+            <hash data="P_MONEYBAG02X" id="sModel" />
+          </prop>
+          <prop>
+            <int data="5" id="iPosition" />
+            <string data="CIGAR_MALE" id="sNameMale" />
+            <string data="CIGAR_FEMALE" id="sNameFemale" />
+            <hash data="p_cigar01x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="6" id="iPosition" />
+            <string data="CASH_MALE_L_HAND" id="sNameMale" />
+            <string data="CASH_FEMALE_L_HAND" id="sNameFemale" />
+            <hash data="p_moneystack03x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="6" id="iPosition" />
+            <string data="CASH_MALE_R_HAND" id="sNameMale" />
+            <string data="CASH_FEMALE_R_HAND" id="sNameFemale" />
+            <hash data="p_moneystack03x" id="sModel" />
+          </prop>
+        </props>
+      </pose>
+      <pose id="UPGRADE_PHOTO_POSE_DRINK">
+        <string data="script@mp@photo_studio@IG12_P_DRINK@DRINK" id="sScene" />
+        <props>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="JUG" id="sNameMale" />
+            <string data="JUG" id="sNameFemale" />
+            <hash data="p_jug01x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="CHAIR_01" id="sNameMale" />
+            <string data="CHAIR_01" id="sNameFemale" />
+            <hash data="p_chaircomfy03x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="2" id="iPosition" />
+            <string data="CHAIR_02" id="sNameMale" />
+            <string data="CHAIR_02" id="sNameFemale" />
+            <hash data="p_chaircomfy03x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="3" id="iPosition" />
+            <string data="CHAIR_03" id="sNameMale" />
+            <string data="CHAIR_03" id="sNameFemale" />
+            <hash data="p_chaircomfy03x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="GLASS_01_MALE" id="sNameMale" />
+            <string data="GLASS_01_FEMALE" id="sNameFemale" />
+            <hash data="s_tumbler01x_clear" id="sModel" />
+          </prop>
+          <prop>
+            <int data="2" id="iPosition" />
+            <string data="GLASS_02_MALE" id="sNameMale" />
+            <string data="GLASS_02_FEMALE" id="sNameFemale" />
+            <hash data="s_tumbler01x_clear" id="sModel" />
+          </prop>
+          <prop>
+            <int data="3" id="iPosition" />
+            <string data="GLASS_03_MALE" id="sNameMale" />
+            <string data="GLASS_03_FEMALE" id="sNameFemale" />
+            <hash data="s_tumbler01x_clear" id="sModel" />
+          </prop>
+          <prop>
+            <int data="4" id="iPosition" />
+            <string data="BEER_BOTTLE_04_MALE" id="sNameMale" />
+            <string data="BEER_BOTTLE_04_FEMALE" id="sNameFemale" />
+            <hash data="p_bottleBeer01a" id="sModel" />
+          </prop>
+          <prop>
+            <int data="5" id="iPosition" />
+            <string data="BEER_BOTTLE_05_MALE" id="sNameMale" />
+            <string data="BEER_BOTTLE_05_FEMALE" id="sNameFemale" />
+            <hash data="p_bottleBeer01a" id="sModel" />
+          </prop>
+          <prop>
+            <int data="6" id="iPosition" />
+            <string data="BEER_BOTTLE_06_MALE" id="sNameMale" />
+            <string data="BEER_BOTTLE_06_FEMALE" id="sNameFemale" />
+            <hash data="p_bottleBeer01a" id="sModel" />
+          </prop>
+          <prop>
+            <int data="7" id="iPosition" />
+            <string data="BEER_BOTTLE_07_MALE" id="sNameMale" />
+            <string data="BEER_BOTTLE_07_FEMALE" id="sNameFemale" />
+            <hash data="p_bottleBeer01a" id="sModel" />
+          </prop>
+        </props>
+      </pose>
+      <pose id="UPGRADE_PHOTO_POSE_BANJO">
+        <string data="script@mp@photo_studio@IG12_Q_BANJO@BANJO" id="sScene" />
+        <props>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="BANJO_MALE" id="sNameMale" />
+            <string data="BANJO_FEMALE" id="sNameFemale" />
+            <hash data="mp005_p_mp_banjo01x" id="sModel" />
+          </prop>
+          <prop>
+            <int data="1" id="iPosition" />
+            <string data="CRATE" id="sNameMale" />
+            <string data="CRATE" id="sNameFemale" />
+            <hash data="p_crate05x" id="sModel" />
+          </prop>
+        </props>
+      </pose>
+    </poses>
+  </UNK_1AF9B630>
+</root>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_4319391D>
+    <region id="REGION_HRT_VALENTINE">
+      <volume orientation="[0.0, 0.0, 10.06205]" position="[-306.3821, 771.3976, 119.9888]" scale="[10.22391, 17.49704, 4.699401]" type="volBox" />
+      <volume orientation="[0.0, 0.0, 3.414876]" position="[-369.4457, 786.6935, 115.9904]" scale="[18.87923, 18.7288, 10.89225]" type="volBox" />
+      <volume orientation="[0.0, 0.0, 179.9]" position="[-279.911, 781.475, 122.7]" scale="[8.95, 6.2, 2.7]" type="volBox" />
+      <volume orientation="[0.0, 0.0, -78.93652]" position="[-317.2861, 761.7905, 118.1781]" scale="[4.406534, 4.855665, 3.726845]" type="volBox" />
+    </region>
+    <region id="REGION_SCM_RHODES">
+      <volume orientation="[0.0, 0.0, 139.649]" position="[1289.142, -1305.846, 77.34]" scale="[12.37, 19.599, 5.349]" type="volBox" />
+    </region>
+    <region id="REGION_GRT_BLACKWATER">
+      <volume orientation="[0.0, 0.0, 89.8]" position="[-815.711, -1276.18, 43.997]" scale="[7.8, 12.9, 2.9]" type="volBox" />
+      <volume orientation="[0.0, 0.0, 0.0]" position="[-868.3356, -1366.207, 44.35]" scale="[28.18747, 17.136, 9.97]" type="volBox" />
+      <volume orientation="[0.0, 0.0, 0.496382]" position="[-778.6945, -1362.467, 45.687]" scale="[16.0, 8.9, 8.0]" type="volBox" />
+    </region>
+    <region id="REGION_ROA_ANNESBURG">
+      <volume orientation="[0.0, 0.0, 160.0]" position="[2934.466, 1282.347, 45.74443]" scale="[10.4, 4.0, 3.645]" type="volBox" />
+      <volume orientation="[0.0, 0.0, 70.0]" position="[2939.3, 1280.633, 45.15512]" scale="[4.134692, 3.868262, 3.0]" type="volBox" />
+      <volume orientation="[0.0, 0.0, -110.0]" position="[2935.558, 1282.429, 45.47895]" scale="[12.3, 6.147137, 3.628]" type="volBox" />
+      <volume orientation="[0.0, 0.0, 70.00001]" position="[2938.688, 1280.857, 45.15513]" scale="[4.134692, 0.798306, 3.0]" type="volBox" />
+      <volume orientation="[0.0, 0.0, 0.9087]" position="[2905.043, 1236.646, 43.8089]" scale="[5.0, 5.0, 5.0]" type="volBox" />
+    </region>
+    <region id="REGION_BAY_SAINT_DENIS">
+      <volume orientation="[0.0, 0.0, 25.62823]" position="[2645.76, -1295.127, 52.35197]" scale="[16.06043, 20.83208, 5.240817]" type="volBox" />
+      <volume orientation="[0.0, 0.0, 0.0]" position="[2503.034, -1450.197, 48.076]" scale="[11.70496, 33.735, 11.621]" type="volBox" />
+      <volume orientation="[0.0, 0.0, -6.506176]" position="[2440.769, -1288.016, 49.2916]" scale="[57.37003, 64.52109, 12.94626]" type="volBox" />
+      <volume orientation="[0.0, 0.0, -9.397545]" position="[2360.797, -1266.21, 49.2916]" scale="[82.69213, 73.79666, 18.53969]" type="volBox" />
+      <volume orientation="[0.0, 0.0, -90.15806]" position="[2361.683, -1153.895, 49.2916]" scale="[50.90599, 82.17483, 20.96592]" type="volBox" />
+      <volume orientation="[0.0, 0.0, 0.018814]" position="[2400.034, -1058.885, 49.2916]" scale="[55.618, 131.3553, 18.52822]" type="volBox" />
+      <volume orientation="[0.0, 0.0, 0.018814]" position="[2472.345, -1078.58, 49.2916]" scale="[84.50031, 90.20814, 18.52822]" type="volBox" />
+      <volume orientation="[0.0, 0.0, 0.018814]" position="[2584.485, -1089.533, 49.2916]" scale="[135.1201, 72.68288, 18.52822]" type="volBox" />
+      <volume orientation="[0.0, 0.0, 179.9622]" position="[2453.628, -1164.804, 52.55637]" scale="[72.70865, 27.57841, 19.55484]" type="volBox" />
+      <volume orientation="[0.0, 0.0, -179.7821]" position="[2476.157, -1220.497, 57.18132]" scale="[29.31642, 70.28797, 19.55484]" type="volBox" />
+      <volume orientation="[0.0, 0.0, 0.0]" position="[2692.37, -1115.13, 50.34]" scale="[20.0, 20.0, 20.0]" type="volSphere" />
+      <volume orientation="[0.0, 0.0, 0.0]" position="[2365.0, -1486.0, 54.0]" scale="[24.0, 35.0, 7.0]" type="volBox" />
+      <volume orientation="[0.0, 0.0, 25.1]" position="[2713.3, -1288.6, 54.3]" scale="[23.1, 37.0, 28.1]" type="volBox" />
+    </region>
+    <region id="REGION_BGV_STRAWBERRY">
+      <volume orientation="[0.0, 0.0, 74.99999]" position="[-1819.88, -561.8194, 156.632]" scale="[11.32857, 16.11597, 9.543]" type="volBox" />
+    </region>
+    <region id="REGION_HRT_DOWNSRANCH">
+      <volume orientation="[0.0, 0.0, 0.0]" position="[-716.78, 365.58, 95.34]" scale="[20.0, 20.0, 20.0]" type="volSphere" />
+    </region>
+    <region id="REGION_GAP_TUMBLEWEED">
+      <volume orientation="[0.0, 0.0, 0.0]" position="[-5519.228, -3044.427, -1.40419]" scale="[19.36317, 17.10584, 9.472662]" type="volBox" />
+      <volume orientation="[0.0, 0.0, 0.0]" position="[-5531.03, -2930.72, -1.85]" scale="[20.0, 20.0, 20.0]" type="volSphere" />
+    </region>
+    <region id="REGION_BGV_PAINTEDSKY">
+      <volume orientation="[0.0, 0.0, 0.0]" position="[-607.46, -25.72, 85.01]" scale="[20.0, 20.0, 20.0]" type="volSphere" />
+    </region>
+    <region id="REGION_SCM_HORSE_SHOP">
+      <volume orientation="[0.0, 0.0, 0.0]" position="[1172.05, -182.24, 100.34]" scale="[20.0, 20.0, 20.0]" type="volSphere" />
+    </region>
+    <region id="REGION_ROA_VANHORNPOST">
+      <volume orientation="[0.0, 0.0, 0.0]" position="[2964.148, 795.9768, 51.94672]" scale="[12.72748, 10.22884, 8.747737]" type="volBox" />
+      <volume orientation="[0.0, 0.0, 0.0]" position="[2944.09, 777.45, 51.16]" scale="[20.0, 20.0, 20.0]" type="volSphere" />
+    </region>
+    <region id="REGION_CHO_RIDGEWOOD_FARM">
+      <volume orientation="[0.0, 0.0, 0.0]" position="[-4791.8, -2722.4, -14.8]" scale="[20.0, 20.0, 20.0]" type="volSphere" />
+    </region>
+    <region id="REGION_SCM_HORSE_SHOP">
+      <volume orientation="[0.0, 0.0, 19.83985]" position="[1209.053, -193.1814, 101.852]" scale="[11.21637, 16.62523, 8.695]" type="volBox" />
+    </region>
+    <district id="DISTRICT_SCARLETT_MEADOWS">
+      <volume orientation="[0.0, 0.0, 0.0]" position="[1137.72, -1384.19, 64.02]" scale="[20.0, 20.0, 20.0]" type="volSphere" />
+    </district>
+    <district id="DISTRICT_GAPTOOTH_RIDGE">
+      <volume orientation="[0.0, 0.0, 0.0]" position="[-5262.3, -2282.71, -4.39]" scale="[20.0, 20.0, 20.0]" type="volSphere" />
+      <volume orientation="[0.0, 0.0, 0.0]" position="[-5868.1, -3682.1, -4.8]" scale="[30.0, 30.0, 30.0]" type="volSphere" />
+    </district>
+    <district id="DISTRICT_HENNIGANS_STEAD">
+      <volume orientation="[0.0, 0.0, 0.0]" position="[-2692.15, -2181.35, 80.0]" scale="[20.0, 20.0, 20.0]" type="volSphere" />
+    </district>
+    <district id="DISTRICT_CUMBERLAND_FOREST">
+      <volume orientation="[0.0, 0.0, 0.0]" position="[290.68, 1293.2, 197.15]" scale="[20.0, 20.0, 20.0]" type="volSphere" />
+    </district>
+    <district id="DISTRICT_BIG_VALLEY">
+      <volume orientation="[0.0, 0.0, 0.0]" position="[-1499.66, -791.7, 102.7]" scale="[20.0, 20.0, 20.0]" type="volSphere" />
+    </district>
+    <district id="DISTRICT_TALL_TREES">
+      <volume orientation="[0.0, 0.0, 0.0]" position="[-1988.91, -1367.29, 116.34]" scale="[20.0, 20.0, 20.0]" type="volSphere" />
+      <volume orientation="[0.0, 0.0, 0.0]" position="[-1932.06, -1418.07, 107.7]" scale="[20.0, 20.0, 20.0]" type="volSphere" />
+    </district>
+    <district id="DISTRICT_HEARTLAND">
+      <volume orientation="[0.0, 0.0, 0.0]" position="[135.01, 161.92, 111.73]" scale="[20.0, 20.0, 20.0]" type="volSphere" />
+    </district>
+    <district id="DISTRICT_CHOLLA_SPRINGS">
+      <volume orientation="[0.0, 0.0, 0.0]" position="[-3843.0, -3013.1, -7.9]" scale="[20.0, 20.0, 20.0]" type="volSphere" />
+    </district>
+  </UNK_4319391D>
+</root>

@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <weather_groups>
+    <group name="WEATHER_GROUP_GOOD">
+      <weather allowed="true" name="HIGHPRESSURE" />
+      <weather allowed="true" name="SUNNY" />
+      <weather allowed="true" name="CLOUDS" />
+      <weather allowed="true" name="SNOWLIGHT" />
+      <weather allowed="true" name="SNOWCLEARING" />
+      <weather allowed="false" name="THUNDER" />
+      <weather allowed="false" name="THUNDERSTORM" />
+      <weather allowed="false" name="HURRICANE" />
+      <weather allowed="false" name="DRIZZLE" />
+      <weather allowed="false" name="RAIN" />
+      <weather allowed="false" name="SHOWER" />
+      <weather allowed="false" name="HAIL" />
+      <weather allowed="false" name="MISTY" />
+      <weather allowed="false" name="FOG" />
+      <weather allowed="false" name="SLEET" />
+      <weather allowed="false" name="SNOW" />
+      <weather allowed="false" name="BLIZZARD" />
+      <weather allowed="false" name="WHITEOUT" />
+      <weather allowed="false" name="GROUNDBLIZZARD" />
+      <weather allowed="false" name="SANDSTORM" />
+      <weather allowed="false" name="OVERCASTDARK" />
+      <weather allowed="false" name="OVERCAST" />
+    </group>
+    <group name="WEATHER_GROUP_BAD">
+      <weather allowed="true" name="THUNDER" />
+      <weather allowed="true" name="THUNDERSTORM" />
+      <weather allowed="true" name="HURRICANE" />
+      <weather allowed="true" name="DRIZZLE" />
+      <weather allowed="true" name="RAIN" />
+      <weather allowed="true" name="HAIL" />
+      <weather allowed="true" name="SLEET" />
+      <weather allowed="true" name="BLIZZARD" />
+      <weather allowed="true" name="WHITEOUT" />
+      <weather allowed="true" name="GROUNDBLIZZARD" />
+      <weather allowed="true" name="SANDSTORM" />
+      <weather allowed="false" name="HIGHPRESSURE" />
+      <weather allowed="false" name="SUNNY" />
+      <weather allowed="false" name="MISTY" />
+      <weather allowed="false" name="FOG" />
+      <weather allowed="false" name="CLOUDS" />
+      <weather allowed="false" name="OVERCAST" />
+      <weather allowed="false" name="OVERCASTDARK" />
+      <weather allowed="false" name="SHOWER" />
+      <weather allowed="false" name="SNOW" />
+      <weather allowed="false" name="SNOWLIGHT" />
+      <weather allowed="false" name="SNOWCLEARING" />
+    </group>
+    <group name="WEATHER_GROUP_GOOD_VISIBILITY">
+      <weather allowed="true" name="HIGHPRESSURE" />
+      <weather allowed="true" name="SUNNY" />
+      <weather allowed="true" name="CLOUDS" />
+      <weather allowed="true" name="OVERCAST" />
+      <weather allowed="true" name="THUNDER" />
+      <weather allowed="true" name="SNOWLIGHT" />
+      <weather allowed="true" name="SNOWCLEARING" />
+      <weather allowed="false" name="THUNDERSTORM" />
+      <weather allowed="false" name="HURRICANE" />
+      <weather allowed="false" name="DRIZZLE" />
+      <weather allowed="false" name="RAIN" />
+      <weather allowed="false" name="HAIL" />
+      <weather allowed="false" name="SLEET" />
+      <weather allowed="false" name="BLIZZARD" />
+      <weather allowed="false" name="WHITEOUT" />
+      <weather allowed="false" name="GROUNDBLIZZARD" />
+      <weather allowed="false" name="SANDSTORM" />
+      <weather allowed="false" name="MISTY" />
+      <weather allowed="false" name="FOG" />
+      <weather allowed="false" name="OVERCASTDARK" />
+      <weather allowed="false" name="SHOWER" />
+      <weather allowed="false" name="SNOW" />
+    </group>
+    <group name="WEATHER_GROUP_BAD_VISIBILITY">
+      <weather allowed="true" name="FOG" />
+      <weather allowed="true" name="THUNDERSTORM" />
+      <weather allowed="true" name="DRIZZLE" />
+      <weather allowed="true" name="RAIN" />
+      <weather allowed="true" name="BLIZZARD" />
+      <weather allowed="true" name="WHITEOUT" />
+      <weather allowed="true" name="SANDSTORM" />
+      <weather allowed="false" name="HIGHPRESSURE" />
+      <weather allowed="false" name="SUNNY" />
+      <weather allowed="false" name="CLOUDS" />
+      <weather allowed="false" name="OVERCAST" />
+      <weather allowed="false" name="THUNDER" />
+      <weather allowed="false" name="SNOWLIGHT" />
+      <weather allowed="false" name="SNOWCLEARING" />
+      <weather allowed="false" name="HURRICANE" />
+      <weather allowed="false" name="HAIL" />
+      <weather allowed="false" name="SLEET" />
+      <weather allowed="false" name="GROUNDBLIZZARD" />
+      <weather allowed="false" name="MISTY" />
+      <weather allowed="false" name="OVERCASTDARK" />
+      <weather allowed="false" name="SHOWER" />
+      <weather allowed="false" name="SNOW" />
+    </group>
+    <group name="WEATHER_GROUP_ATMOSPHERIC">
+      <weather allowed="true" name="MISTY" />
+      <weather allowed="true" name="FOG" />
+      <weather allowed="true" name="THUNDER" />
+      <weather allowed="true" name="DRIZZLE" />
+      <weather allowed="true" name="SHOWER" />
+      <weather allowed="true" name="SNOWLIGHT" />
+      <weather allowed="true" name="SNOWCLEARING" />
+      <weather allowed="false" name="THUNDERSTORM" />
+      <weather allowed="false" name="RAIN" />
+      <weather allowed="false" name="BLIZZARD" />
+      <weather allowed="false" name="WHITEOUT" />
+      <weather allowed="false" name="SANDSTORM" />
+      <weather allowed="false" name="HIGHPRESSURE" />
+      <weather allowed="false" name="SUNNY" />
+      <weather allowed="false" name="CLOUDS" />
+      <weather allowed="false" name="OVERCAST" />
+      <weather allowed="false" name="HURRICANE" />
+      <weather allowed="false" name="HAIL" />
+      <weather allowed="false" name="SLEET" />
+      <weather allowed="false" name="GROUNDBLIZZARD" />
+      <weather allowed="false" name="OVERCASTDARK" />
+      <weather allowed="false" name="SNOW" />
+    </group>
+    <group name="WEATHER_GROUP_NO_PRECIPITATION">
+      <weather allowed="true" name="HIGHPRESSURE" />
+      <weather allowed="true" name="SUNNY" />
+      <weather allowed="true" name="MISTY" />
+      <weather allowed="true" name="FOG" />
+      <weather allowed="true" name="CLOUDS" />
+      <weather allowed="true" name="OVERCAST" />
+      <weather allowed="true" name="OVERCASTDARK" />
+      <weather allowed="true" name="THUNDER" />
+      <weather allowed="true" name="SNOWCLEARING" />
+      <weather allowed="false" name="DRIZZLE" />
+      <weather allowed="false" name="SHOWER" />
+      <weather allowed="false" name="SNOWLIGHT" />
+      <weather allowed="false" name="THUNDERSTORM" />
+      <weather allowed="false" name="RAIN" />
+      <weather allowed="false" name="BLIZZARD" />
+      <weather allowed="false" name="WHITEOUT" />
+      <weather allowed="false" name="SANDSTORM" />
+      <weather allowed="false" name="HURRICANE" />
+      <weather allowed="false" name="HAIL" />
+      <weather allowed="false" name="SLEET" />
+      <weather allowed="false" name="GROUNDBLIZZARD" />
+      <weather allowed="false" name="SNOW" />
+    </group>
+    <group name="WEATHER_GROUP_LIGHT_PRECIPITATION">
+      <weather allowed="true" name="HIGHPRESSURE" />
+      <weather allowed="true" name="SUNNY" />
+      <weather allowed="true" name="MISTY" />
+      <weather allowed="true" name="FOG" />
+      <weather allowed="true" name="CLOUDS" />
+      <weather allowed="true" name="OVERCAST" />
+      <weather allowed="true" name="THUNDER" />
+      <weather allowed="true" name="OVERCASTDARK" />
+      <weather allowed="true" name="DRIZZLE" />
+      <weather allowed="true" name="SNOWLIGHT" />
+      <weather allowed="true" name="SNOWCLEARING" />
+      <weather allowed="false" name="THUNDERSTORM" />
+      <weather allowed="false" name="HURRICANE" />
+      <weather allowed="false" name="RAIN" />
+      <weather allowed="false" name="HAIL" />
+      <weather allowed="false" name="SLEET" />
+      <weather allowed="false" name="SNOW" />
+      <weather allowed="false" name="BLIZZARD" />
+      <weather allowed="false" name="WHITEOUT" />
+      <weather allowed="false" name="GROUNDBLIZZARD" />
+      <weather allowed="false" name="SANDSTORM" />
+      <weather allowed="false" name="SHOWER" />
+    </group>
+    <group name="WEATHER_GROUP_IN_CAMP">
+      <weather allowed="true" name="HIGHPRESSURE" />
+      <weather allowed="true" name="SUNNY" />
+      <weather allowed="true" name="MISTY" />
+      <weather allowed="true" name="FOG" />
+      <weather allowed="true" name="CLOUDS" />
+      <weather allowed="true" name="OVERCAST" />
+      <weather allowed="true" name="OVERCASTDARK" />
+      <weather allowed="true" name="THUNDER" />
+      <weather allowed="false" name="THUNDERSTORM" />
+      <weather allowed="false" name="HURRICANE" />
+      <weather allowed="false" name="RAIN" />
+      <weather allowed="false" name="HAIL" />
+      <weather allowed="false" name="SLEET" />
+      <weather allowed="false" name="SNOW" />
+      <weather allowed="false" name="BLIZZARD" />
+      <weather allowed="false" name="WHITEOUT" />
+      <weather allowed="false" name="GROUNDBLIZZARD" />
+      <weather allowed="false" name="SANDSTORM" />
+      <weather allowed="false" name="SHOWER" />
+      <weather allowed="false" name="DRIZZLE" />
+      <weather allowed="false" name="SNOWLIGHT" />
+      <weather allowed="false" name="SNOWCLEARING" />
+    </group>
+    <group name="WEATHER_GROUP_CH2_START">
+      <weather allowed="true" name="HIGHPRESSURE" />
+      <weather allowed="true" name="SUNNY" />
+      <weather allowed="true" name="CLOUDS" />
+      <weather allowed="true" name="OVERCAST" />
+      <weather allowed="true" name="SNOWLIGHT" />
+      <weather allowed="true" name="SNOWCLEARING" />
+      <weather allowed="false" name="THUNDER" />
+      <weather allowed="false" name="THUNDERSTORM" />
+      <weather allowed="false" name="HURRICANE" />
+      <weather allowed="false" name="DRIZZLE" />
+      <weather allowed="false" name="RAIN" />
+      <weather allowed="false" name="SHOWER" />
+      <weather allowed="false" name="HAIL" />
+      <weather allowed="false" name="MISTY" />
+      <weather allowed="false" name="FOG" />
+      <weather allowed="false" name="SLEET" />
+      <weather allowed="false" name="SNOW" />
+      <weather allowed="false" name="BLIZZARD" />
+      <weather allowed="false" name="WHITEOUT" />
+      <weather allowed="false" name="GROUNDBLIZZARD" />
+      <weather allowed="false" name="SANDSTORM" />
+      <weather allowed="false" name="OVERCASTDARK" />
+    </group>
+    <group name="WEATHER_GROUP_CH2_MID">
+      <weather allowed="true" name="HIGHPRESSURE" />
+      <weather allowed="true" name="SUNNY" />
+      <weather allowed="true" name="CLOUDS" />
+      <weather allowed="true" name="OVERCAST" />
+      <weather allowed="true" name="SNOWLIGHT" />
+      <weather allowed="true" name="SNOWCLEARING" />
+      <weather allowed="true" name="SHOWER" />
+      <weather allowed="false" name="THUNDER" />
+      <weather allowed="false" name="THUNDERSTORM" />
+      <weather allowed="false" name="HURRICANE" />
+      <weather allowed="false" name="DRIZZLE" />
+      <weather allowed="false" name="RAIN" />
+      <weather allowed="false" name="HAIL" />
+      <weather allowed="false" name="MISTY" />
+      <weather allowed="false" name="FOG" />
+      <weather allowed="false" name="SLEET" />
+      <weather allowed="false" name="SNOW" />
+      <weather allowed="false" name="BLIZZARD" />
+      <weather allowed="false" name="WHITEOUT" />
+      <weather allowed="false" name="GROUNDBLIZZARD" />
+      <weather allowed="false" name="SANDSTORM" />
+      <weather allowed="false" name="OVERCASTDARK" />
+    </group>
+    <group name="WEATHER_GROUP_CH2_END">
+      <weather allowed="true" name="HIGHPRESSURE" />
+      <weather allowed="true" name="SUNNY" />
+      <weather allowed="true" name="CLOUDS" />
+      <weather allowed="true" name="OVERCAST" />
+      <weather allowed="true" name="SNOWLIGHT" />
+      <weather allowed="true" name="SNOWCLEARING" />
+      <weather allowed="true" name="SHOWER" />
+      <weather allowed="true" name="DRIZZLE" />
+      <weather allowed="false" name="THUNDER" />
+      <weather allowed="false" name="THUNDERSTORM" />
+      <weather allowed="false" name="HURRICANE" />
+      <weather allowed="false" name="RAIN" />
+      <weather allowed="false" name="HAIL" />
+      <weather allowed="false" name="MISTY" />
+      <weather allowed="false" name="FOG" />
+      <weather allowed="false" name="SLEET" />
+      <weather allowed="false" name="SNOW" />
+      <weather allowed="false" name="BLIZZARD" />
+      <weather allowed="false" name="WHITEOUT" />
+      <weather allowed="false" name="GROUNDBLIZZARD" />
+      <weather allowed="false" name="SANDSTORM" />
+      <weather allowed="false" name="OVERCASTDARK" />
+    </group>
+    <group name="WEATHER_GROUP_CH3_DROUGHT">
+      <weather allowed="true" name="HIGHPRESSURE" />
+      <weather allowed="true" name="SUNNY" />
+      <weather allowed="true" name="CLOUDS" />
+      <weather allowed="true" name="OVERCAST" />
+      <weather allowed="true" name="OVERCASTDARK" />
+      <weather allowed="true" name="THUNDER" />
+      <weather allowed="true" name="SNOWCLEARING" />
+      <weather allowed="false" name="MISTY" />
+      <weather allowed="false" name="FOG" />
+      <weather allowed="false" name="DRIZZLE" />
+      <weather allowed="false" name="SHOWER" />
+      <weather allowed="false" name="SNOWLIGHT" />
+      <weather allowed="false" name="THUNDERSTORM" />
+      <weather allowed="false" name="RAIN" />
+      <weather allowed="false" name="BLIZZARD" />
+      <weather allowed="false" name="WHITEOUT" />
+      <weather allowed="false" name="SANDSTORM" />
+      <weather allowed="false" name="HURRICANE" />
+      <weather allowed="false" name="HAIL" />
+      <weather allowed="false" name="SLEET" />
+      <weather allowed="false" name="GROUNDBLIZZARD" />
+      <weather allowed="false" name="SNOW" />
+    </group>
+    <group name="WEATHER_GROUP_THUNDERSTORM">
+      <weather allowed="true" name="THUNDERSTORM" />
+      <weather allowed="false" name="HIGHPRESSURE" />
+      <weather allowed="false" name="SUNNY" />
+      <weather allowed="false" name="CLOUDS" />
+      <weather allowed="false" name="OVERCAST" />
+      <weather allowed="false" name="OVERCASTDARK" />
+      <weather allowed="false" name="THUNDER" />
+      <weather allowed="false" name="SNOWCLEARING" />
+      <weather allowed="false" name="MISTY" />
+      <weather allowed="false" name="FOG" />
+      <weather allowed="false" name="DRIZZLE" />
+      <weather allowed="false" name="SHOWER" />
+      <weather allowed="false" name="SNOWLIGHT" />
+      <weather allowed="false" name="RAIN" />
+      <weather allowed="false" name="BLIZZARD" />
+      <weather allowed="false" name="WHITEOUT" />
+      <weather allowed="false" name="SANDSTORM" />
+      <weather allowed="false" name="HURRICANE" />
+      <weather allowed="false" name="HAIL" />
+      <weather allowed="false" name="SLEET" />
+      <weather allowed="false" name="GROUNDBLIZZARD" />
+      <weather allowed="false" name="SNOW" />
+    </group>
+  </weather_groups>
+</root>

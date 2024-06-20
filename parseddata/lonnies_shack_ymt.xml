@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <location center="[1622.0, -383.3, 71.3]" id="LONNIES_SHACK">
+    <volumes>
+      <house>
+        <placement id="volBox" size="[5.0, 4.75, 4.0]" spawn_heading="0.0" spawn_position="[1629.789, -362.7715, 76.70208]" />
+        <placement id="volBox" size="[10.0, 7.5, 7.0]" spawn_heading="0.0" spawn_position="[1622.783, -362.7715, 77.30832]" />
+        <placement id="volBox" size="[5.75, 10.2, 7.0]" spawn_heading="0.0" spawn_position="[1615.209, -364.1004, 77.30832]" />
+      </house>
+      <blocking>
+        <placement id="volBox" size="[17.0, 10.0, 5.0]" spawn_heading="0.0" spawn_position="[1620.626, -363.9289, 76.30355]" />
+      </blocking>
+    </volumes>
+  </location>
+</root>

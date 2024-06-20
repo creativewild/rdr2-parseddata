@@ -1,0 +1,667 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <mission name="camp_locations">
+    <camps>
+      <camp id="GANG_CAMP_MENU" itemname="CAMP_LOCATION_GAPTOOTH_S4_005" uniqueid="5818827" submissionvalid="true">
+        <UNK_1669A990 UNK_6701C61C="5" UNK_1E69CCDB="false" UNK_83794FD9="NET_CAMP_SHOP_LOCATION_GAPTOOTH_RIDGE_0">
+          <UNK_72C113BA>
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2567916" placement_type="ALIGN_AS_ONE" spawn_heading="116.859" spawn_position="[-5218.098, -3196.168, -19.10226]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2579511" placement_type="ALIGN_AS_ONE" spawn_heading="168.181" spawn_position="[-5210.089, -3203.56, -19.10787]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2586431" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5200.138, -3190.857, -19.04479]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2591815" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5199.585, -3206.145, -19.03172]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2603516" placement_type="ALIGN_AS_ONE" spawn_heading="84.528" spawn_position="[-5224.657, -3203.915, -19.08722]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2624736" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5215.598, -3210.255, -19.08606]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2633681" placement_type="ALIGN_AS_ONE" spawn_heading="169.557" spawn_position="[-5207.646, -3215.715, -19.07311]" />
+          </UNK_72C113BA>
+          <UNK_7528DD0F>
+            <placement id="pg_mp_posseCamp_followerTent_large002x" uniqueid="714167" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="25.66" spawn_position="[-5211.168, -3187.386, -19.06716]" />
+          </UNK_7528DD0F>
+          <UNK_9AB0F4DC>
+            <placement id="pg_mp_possecamp_campfire01x" uniqueid="1129330" placement_type="ALIGN_AS_ONE" spawn_heading="31.772" spawn_position="[-5209.075, -3192.928, -19.08142]" />
+          </UNK_9AB0F4DC>
+          <UNK_A5228A89>
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="2539709" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5206.577, -3188.146, -19.06669]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="2697928" placement_type="ALIGN_AS_ONE" spawn_heading="72.451" spawn_position="[-5204.353, -3202.34, -19.05969]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="2703345" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5204.689, -3208.592, -19.1008]" />
+          </UNK_A5228A89>
+          <UNK_47121AE3>
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="1485922" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5203.79, -3197.917, -19.03954]" />
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="2688739" placement_type="ALIGN_AS_ONE" spawn_heading="21.585" spawn_position="[-5217.235, -3203.342, -19.09258]" />
+          </UNK_47121AE3>
+          <UNK_36D45F9B>
+            <placement id="pg_mp_posseCamp_decor_large002x" uniqueid="1511035" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5198.829, -3218.339, -19.01503]" />
+          </UNK_36D45F9B>
+          <UNK_FC831106>
+            <placement id="pg_mp_posseCamp_flagpole_small000x" uniqueid="1463292" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5226.434, -3197.132, -19.09174]" />
+          </UNK_FC831106>
+          <UNK_325399A3>
+            <placement id="pg_mp_posseCamp_lockbox_large000x" uniqueid="2648671" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5198.569, -3197.988, -18.95184]" />
+          </UNK_325399A3>
+          <UNK_C3D43DCA>
+            <placement id="pg_mp_posseCamp_horseEnclo_exlrg_combined" uniqueid="1390242" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5215.941, -3171.185, -19.03727]" />
+          </UNK_C3D43DCA>
+          <UNK_C61680D4>
+            <placement id="pg_mp_posseCamp_decor_small006x" uniqueid="1284852" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5197.96, -3183.309, -19.04654]" />
+          </UNK_C61680D4>
+          <UNK_7025E707>
+            <placement id="pg_mp_possecamp_butchertable04x" uniqueid="1504695" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5218.346, -3189.178, -19.09121]" />
+          </UNK_7025E707>
+          <UNK_3D83B095>
+            <placement id="pg_mp_possecamp_goodspile04x" uniqueid="1520678" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="138.431" spawn_position="[-5204.406, -3183.309, -19.05394]" />
+          </UNK_3D83B095>
+          <UNK_5A5EBB64>
+            <placement id="pg_mp_possecamp_stewpot01x" uniqueid="1593775" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5210.484, -3197.868, -19.09786]" />
+          </UNK_5A5EBB64>
+          <UNK_E7E6ED49>
+            <placement id="pg_mp_posseCamp_decor_small000x" uniqueid="99595466" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5214.842, -3191.154, -19.08609]" />
+          </UNK_E7E6ED49>
+          <UNK_F7DCCEED>
+            <placement id="pg_re_wagonlift01x" uniqueid="99600036" placement_type="ALIGN_AS_ONE" spawn_heading="34.919" spawn_position="[-5191.75, -3182.476, -19.03912]" />
+          </UNK_F7DCCEED>
+          <UNK_FC6C6DC2>
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="2746552" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5195.064, -3200.797, -18.81041]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="2752248" placement_type="ALIGN_AS_ONE" spawn_heading="95.623" spawn_position="[-5231.357, -3200.535, -19.06624]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="2763354" placement_type="ALIGN_AS_ONE" spawn_heading="119.694" spawn_position="[-5211.866, -3219.915, -19.002]" />
+          </UNK_FC6C6DC2>
+          <UNK_4425F835>
+            <placement id="pg_mp_possecamp_pokertable01x" uniqueid="1704095" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5224.829, -3192.103, -19.10361]" />
+          </UNK_4425F835>
+        </UNK_1669A990>
+      </camp>
+      <camp id="GANG_CAMP_MENU" itemname="CAMP_LOCATION_GAPTOOTH_S4_001" uniqueid="916282" submissionvalid="true">
+        <UNK_1669A990 UNK_6701C61C="5" UNK_1E69CCDB="false" UNK_83794FD9="NET_CAMP_SHOP_LOCATION_GAPTOOTH_RIDGE_0">
+          <UNK_72C113BA>
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="1874016" placement_type="ALIGN_AS_ONE" spawn_heading="73.701" spawn_position="[-5659.806, -3505.072, -23.15159]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="1885769" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5641.612, -3510.913, -23.12281]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="1900845" placement_type="ALIGN_AS_ONE" spawn_heading="159.529" spawn_position="[-5655.102, -3517.013, -23.1514]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="1910147" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5645.229, -3520.197, -23.16097]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="1924149" placement_type="ALIGN_AS_ONE" spawn_heading="136.468" spawn_position="[-5655.108, -3528.417, -23.15076]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="1939312" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5643.645, -3530.151, -23.21789]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="1946973" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5634.559, -3526.786, -23.25001]" />
+          </UNK_72C113BA>
+          <UNK_7528DD0F>
+            <placement id="pg_mp_posseCamp_followerTent_large002x" uniqueid="3529829" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="23.761" spawn_position="[-5652.877, -3499.161, -23.14665]" />
+          </UNK_7528DD0F>
+          <UNK_9AB0F4DC>
+            <placement id="pg_mp_possecamp_campfire01x" uniqueid="1980690" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5650.03, -3504.18, -23.13476]" />
+          </UNK_9AB0F4DC>
+          <UNK_A5228A89>
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="1988042" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5648.909, -3509.485, -23.13665]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="1991813" placement_type="ALIGN_AS_ONE" spawn_heading="53.867" spawn_position="[-5659.946, -3512.209, -23.15159]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="2000917" placement_type="ALIGN_AS_ONE" spawn_heading="96.15" spawn_position="[-5641.656, -3524.614, -23.19265]" />
+          </UNK_A5228A89>
+          <UNK_47121AE3>
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="3627112" placement_type="ALIGN_AS_ONE" spawn_heading="105.062" spawn_position="[-5653.782, -3510.436, -23.14824]" />
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="3810592" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5650.229, -3523.999, -23.15404]" />
+          </UNK_47121AE3>
+          <UNK_36D45F9B>
+            <placement id="pg_mp_posseCamp_decor_large002x" uniqueid="2018220" placement_type="ALIGN_AS_ONE" spawn_heading="96.15" spawn_position="[-5633.1, -3517.378, -23.15631]" />
+          </UNK_36D45F9B>
+          <UNK_FC831106>
+            <placement id="pg_mp_posseCamp_flagpole_small000x" uniqueid="3567576" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="115.416" spawn_position="[-5639.624, -3494.015, -23.02046]" />
+          </UNK_FC831106>
+          <UNK_325399A3>
+            <placement id="pg_mp_posseCamp_lockbox_large000x" uniqueid="3574170" placement_type="ALIGN_AS_ONE" spawn_heading="120.557" spawn_position="[-5658.151, -3499.362, -23.15159]" />
+          </UNK_325399A3>
+          <UNK_C3D43DCA>
+            <placement id="pg_mp_posseCamp_horseEnclo_exlrg_combined" uniqueid="3592447" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5649.209, -3486.103, -23.15109]" />
+          </UNK_C3D43DCA>
+          <UNK_C61680D4>
+            <placement id="pg_mp_possecamp_decor_small006x" uniqueid="2043515" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5646.974, -3490.929, -23.13509]" />
+          </UNK_C61680D4>
+          <UNK_7025E707>
+            <placement id="pg_mp_possecamp_butchertable04x" uniqueid="2116998" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5642.204, -3502.922, -23.09098]" />
+          </UNK_7025E707>
+          <UNK_3D83B095>
+            <placement id="pg_mp_possecamp_goodspile04x" uniqueid="3713209" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="154.044" spawn_position="[-5644.667, -3497.138, -23.09389]" />
+          </UNK_3D83B095>
+          <UNK_5A5EBB64>
+            <placement id="pg_mp_possecamp_stewpot01x" uniqueid="3725738" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5647.887, -3513.645, -23.1432]" />
+          </UNK_5A5EBB64>
+          <UNK_E7E6ED49>
+            <placement id="pg_mp_posseCamp_decor_small000x" uniqueid="100378294" placement_type="ALIGN_AS_ONE" spawn_heading="161.043" spawn_position="[-5646.025, -3501.303, -23.10939]" />
+          </UNK_E7E6ED49>
+          <UNK_F7DCCEED>
+            <placement id="pg_re_wagonlift01x" uniqueid="100400517" placement_type="ALIGN_AS_ONE" spawn_heading="22.731" spawn_position="[-5665.917, -3491.671, -23.15229]" />
+          </UNK_F7DCCEED>
+          <UNK_FC6C6DC2>
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="2109594" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5633.912, -3506.382, -23.06837]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="2138263" placement_type="ALIGN_AS_ONE" spawn_heading="161.043" spawn_position="[-5658.783, -3521.915, -23.15195]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="2141132" placement_type="ALIGN_AS_ONE" spawn_heading="120.551" spawn_position="[-5628.249, -3523.781, -23.21064]" />
+          </UNK_FC6C6DC2>
+          <UNK_4425F835>
+            <placement id="pg_mp_possecamp_pokertable01x" uniqueid="3766436" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5639.687, -3516.907, -23.15303]" />
+          </UNK_4425F835>
+        </UNK_1669A990>
+      </camp>
+      <camp id="GANG_CAMP_MENU" itemname="CAMP_LOCATION_GAPTOOTH_S4_002" uniqueid="6309023" submissionvalid="true">
+        <UNK_1669A990 UNK_6701C61C="5" UNK_1E69CCDB="false" UNK_83794FD9="NET_CAMP_SHOP_LOCATION_GAPTOOTH_RIDGE_0">
+          <UNK_72C113BA>
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="3832166" placement_type="ALIGN_AS_ONE" spawn_heading="120.027" spawn_position="[-6122.495, -3075.692, -2.064768]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="4042967" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-6112.707, -3079.291, -2.098177]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="4054454" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-6105.944, -3071.205, -2.072901]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="4068353" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-6103.543, -3059.186, -2.054016]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="4077431" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-6094.759, -3070.993, -2.060822]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="4085712" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-6094.465, -3059.417, -2.037371]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="4100665" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-6087.255, -3064.71, -1.971716]" />
+          </UNK_72C113BA>
+          <UNK_7528DD0F>
+            <placement id="pg_mp_posseCamp_followerTent_large002x" uniqueid="3808970" placement_type="ALIGN_AS_ONE" spawn_heading="58.187" spawn_position="[-6121.163, -3064.599, -2.067776]" />
+          </UNK_7528DD0F>
+          <UNK_9AB0F4DC>
+            <placement id="pg_mp_possecamp_campfire01x" uniqueid="3846295" placement_type="ALIGN_AS_ONE" spawn_heading="120.027" spawn_position="[-6113.86, -3072.194, -2.072676]" />
+          </UNK_9AB0F4DC>
+          <UNK_A5228A89>
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="4192635" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-6118.4, -3068.402, -2.067776]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="4217861" placement_type="ALIGN_AS_ONE" spawn_heading="39.539" spawn_position="[-6106.639, -3077.274, -2.0983]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="4225500" placement_type="ALIGN_AS_ONE" spawn_heading="179.705" spawn_position="[-6098.643, -3055.05, -1.866931]" />
+          </UNK_A5228A89>
+          <UNK_47121AE3>
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="4012895" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-6107.026, -3064.113, -2.067776]" />
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="4232116" placement_type="ALIGN_AS_ONE" spawn_heading="179.705" spawn_position="[-6099.218, -3065.318, -2.067774]" />
+          </UNK_47121AE3>
+          <UNK_36D45F9B>
+            <placement id="pg_mp_posseCamp_decor_large002x" uniqueid="4242165" placement_type="ALIGN_AS_ONE" spawn_heading="103.875" spawn_position="[-6099.593, -3077.876, -2.106733]" />
+          </UNK_36D45F9B>
+          <UNK_FC831106>
+            <placement id="pg_mp_posseCamp_flagpole_small000x" uniqueid="3879671" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="30.028" spawn_position="[-6105.843, -3082.557, -2.132279]" />
+          </UNK_FC831106>
+          <UNK_325399A3>
+            <placement id="pg_mp_posseCamp_lockbox_large000x" uniqueid="3919294" placement_type="ALIGN_AS_ONE" spawn_heading="152.589" spawn_position="[-6124.014, -3068.765, -2.067713]" />
+          </UNK_325399A3>
+          <UNK_C3D43DCA>
+            <placement id="pg_mp_posseCamp_horseEnclo_exlrg_combined" uniqueid="723571" placement_type="ALIGN_AS_ONE" spawn_heading="109.301" spawn_position="[-6101.359, -3099.506, -2.086208]" />
+          </UNK_C3D43DCA>
+          <UNK_C61680D4>
+            <placement id="pg_mp_posseCamp_decor_small006x" uniqueid="3960728" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-6105.083, -3095.266, -2.134936]" />
+          </UNK_C61680D4>
+          <UNK_7025E707>
+            <placement id="pg_mp_possecamp_butchertable04x" uniqueid="3984993" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-6117.749, -3059.419, -2.082262]" />
+          </UNK_7025E707>
+          <UNK_3D83B095>
+            <placement id="pg_mp_possecamp_goodspile04x" uniqueid="3999537" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="130.669" spawn_position="[-6111.233, -3060.168, -2.067775]" />
+          </UNK_3D83B095>
+          <UNK_5A5EBB64>
+            <placement id="pg_mp_possecamp_stewpot01x" uniqueid="4379140" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-6115.64, -3065.076, -2.067775]" />
+          </UNK_5A5EBB64>
+          <UNK_E7E6ED49>
+            <placement id="pg_mp_posseCamp_decor_small000x" uniqueid="510985" placement_type="ALIGN_AS_ONE" spawn_heading="30.028" spawn_position="[-6114.802, -3061.887, -2.067776]" />
+          </UNK_E7E6ED49>
+          <UNK_F7DCCEED>
+            <placement id="pg_re_wagonlift01x" uniqueid="515472" placement_type="ALIGN_AS_ONE" spawn_heading="173.943" spawn_position="[-6117.13, -3087.675, -2.121252]" />
+          </UNK_F7DCCEED>
+          <UNK_FC6C6DC2>
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="4116317" placement_type="ALIGN_AS_ONE" spawn_heading="120.722" spawn_position="[-6107.075, -3052.17, -2.013259]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="4128914" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-6088.5, -3057.55, -1.907529]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="4136655" placement_type="ALIGN_AS_ONE" spawn_heading="40.515" spawn_position="[-6087.77, -3070.408, -1.929867]" />
+          </UNK_FC6C6DC2>
+          <UNK_4425F835>
+            <placement id="pg_mp_possecamp_pokertable01x" uniqueid="4150252" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-6118.553, -3080.813, -2.063498]" />
+          </UNK_4425F835>
+        </UNK_1669A990>
+      </camp>
+      <camp id="GANG_CAMP_MENU" itemname="CAMP_LOCATION_GAPTOOTH_S4_003" uniqueid="5375639" submissionvalid="true">
+        <UNK_1669A990 UNK_6701C61C="5" UNK_1E69CCDB="false" UNK_83794FD9="NET_CAMP_SHOP_LOCATION_GAPTOOTH_RIDGE_0">
+          <UNK_72C113BA>
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2185331" placement_type="ALIGN_AS_ONE" spawn_heading="16.068" spawn_position="[-5462.853, -2542.322, -1.566017]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2192090" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5454.451, -2553.533, -1.706175]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2198888" placement_type="ALIGN_AS_ONE" spawn_heading="126.674" spawn_position="[-5466.289, -2565.591, -1.984127]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2274716" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5452.306, -2565.085, -2.003502]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2278417" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5453.548, -2575.133, -1.746639]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2286194" placement_type="ALIGN_AS_ONE" spawn_heading="146.12" spawn_position="[-5464.884, -2577.449, -1.693976]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2290643" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5445.537, -2546.908, -2.044502]" />
+          </UNK_72C113BA>
+          <UNK_7528DD0F>
+            <placement id="pg_mp_posseCamp_followerTent_large002x" uniqueid="4708987" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="56.191" spawn_position="[-5468.903, -2549.035, -1.566014]" />
+          </UNK_7528DD0F>
+          <UNK_9AB0F4DC>
+            <placement id="pg_mp_possecamp_campfire01x" uniqueid="2242419" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5459.56, -2561.695, -2.001139]" />
+          </UNK_9AB0F4DC>
+          <UNK_A5228A89>
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="2255021" placement_type="ALIGN_AS_ONE" spawn_heading="154.365" spawn_position="[-5461.496, -2555.934, -1.566015]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="2384356" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5469.922, -2569.904, -1.98661]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="2397929" placement_type="ALIGN_AS_ONE" spawn_heading="12.928" spawn_position="[-5453.103, -2547.514, -1.566015]" />
+          </UNK_A5228A89>
+          <UNK_47121AE3>
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="5080070" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5462.812, -2550.084, -1.566015]" />
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="5415266" placement_type="ALIGN_AS_ONE" spawn_heading="34.4" spawn_position="[-5459.732, -2571.617, -1.876776]" />
+          </UNK_47121AE3>
+          <UNK_36D45F9B>
+            <placement id="pg_mp_posseCamp_decor_large002x" uniqueid="2317293" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5452.793, -2541.25, -1.566017]" />
+          </UNK_36D45F9B>
+          <UNK_FC831106>
+            <placement id="pg_mp_posseCamp_flagpole_small000x" uniqueid="5133090" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5457.413, -2546.784, -1.566015]" />
+          </UNK_FC831106>
+          <UNK_325399A3>
+            <placement id="pg_mp_posseCamp_lockbox_large000x" uniqueid="5038326" placement_type="ALIGN_AS_ONE" spawn_heading="144.096" spawn_position="[-5471.688, -2554.293, -1.566016]" />
+          </UNK_325399A3>
+          <UNK_C3D43DCA>
+            <placement id="pg_mp_posseCamp_horseEnclo_exlrg_combined" uniqueid="5043141" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5483.958, -2561.794, -1.608151]" />
+          </UNK_C3D43DCA>
+          <UNK_C61680D4>
+            <placement id="pg_mp_possecamp_decor_small006x" uniqueid="2454543" placement_type="ALIGN_AS_ONE" spawn_heading="58.114" spawn_position="[-5481.94, -2552.636, -1.568823]" />
+          </UNK_C61680D4>
+          <UNK_7025E707>
+            <placement id="pg_mp_possecamp_butchertable04x" uniqueid="5148920" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5474.183, -2558.715, -1.587837]" />
+          </UNK_7025E707>
+          <UNK_3D83B095>
+            <placement id="pg_mp_possecamp_goodspile04x" uniqueid="5167706" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5473.835, -2564.089, -1.799958]" />
+          </UNK_3D83B095>
+          <UNK_5A5EBB64>
+            <placement id="pg_mp_possecamp_stewpot01x" uniqueid="5176711" placement_type="ALIGN_AS_ONE" spawn_heading="131.548" spawn_position="[-5466.536, -2556.013, -1.599764]" />
+          </UNK_5A5EBB64>
+          <UNK_E7E6ED49>
+            <placement id="pg_mp_posseCamp_decor_small000x" uniqueid="104235971" placement_type="ALIGN_AS_ONE" spawn_heading="39.004" spawn_position="[-5469.515, -2560.356, -1.914818]" />
+          </UNK_E7E6ED49>
+          <UNK_F7DCCEED>
+            <placement id="pg_re_wagonlift01x" uniqueid="104310470" placement_type="ALIGN_AS_ONE" spawn_heading="122.708" spawn_position="[-5479.807, -2571.055, -1.847984]" />
+          </UNK_F7DCCEED>
+          <UNK_FC6C6DC2>
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="5365361" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5470.942, -2575.95, -2.00511]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="5369933" placement_type="ALIGN_AS_ONE" spawn_heading="32.357" spawn_position="[-5446.386, -2572.155, -1.857227]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="5378528" placement_type="ALIGN_AS_ONE" spawn_heading="17.468" spawn_position="[-5445.675, -2554.86, -2.068008]" />
+          </UNK_FC6C6DC2>
+          <UNK_4425F835>
+            <placement id="pg_mp_possecamp_pokertable01x" uniqueid="5357824" placement_type="ALIGN_AS_ONE" spawn_heading="131.548" spawn_position="[-5450.383, -2559.266, -2.06801]" />
+          </UNK_4425F835>
+        </UNK_1669A990>
+      </camp>
+      <camp id="GANG_CAMP_MENU" itemname="CAMP_LOCATION_GAPTOOTH_S4_006" uniqueid="3547498" submissionvalid="true">
+        <UNK_1669A990 UNK_6701C61C="5" UNK_1E69CCDB="false" UNK_83794FD9="NET_CAMP_SHOP_LOCATION_GAPTOOTH_RIDGE_0">
+          <UNK_72C113BA>
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2837833" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5912.393, -3528.428, -24.1555]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2887847" placement_type="ALIGN_AS_ONE" spawn_heading="138.561" spawn_position="[-5930.569, -3539.836, -24.15547]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2901535" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5920.003, -3521.336, -24.15598]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2910038" placement_type="ALIGN_AS_ONE" spawn_heading="92.348" spawn_position="[-5934.29, -3531.536, -24.15444]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2975626" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5927.261, -3515.482, -24.1579]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2980495" placement_type="ALIGN_AS_ONE" spawn_heading="42.453" spawn_position="[-5936.066, -3515.39, -24.10514]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="2993225" placement_type="ALIGN_AS_ONE" spawn_heading="78.607" spawn_position="[-5945.469, -3523.485, -24.06054]" />
+          </UNK_72C113BA>
+          <UNK_7528DD0F>
+            <placement id="pg_mp_posseCamp_followerTent_large002x" uniqueid="6467537" placement_type="ALIGN_TO_GROUND" spawn_heading="0.0" spawn_position="[-5916.706, -3537.115, -24.1555]" />
+          </UNK_7528DD0F>
+          <UNK_9AB0F4DC>
+            <placement id="pg_mp_possecamp_campfire01x" uniqueid="5629170" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5924.617, -3532.881, -24.1555]" />
+          </UNK_9AB0F4DC>
+          <UNK_A5228A89>
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="2933222" placement_type="ALIGN_AS_ONE" spawn_heading="89.966" spawn_position="[-5921.539, -3537.718, -24.1555]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="3070943" placement_type="ALIGN_AS_ONE" spawn_heading="143.562" spawn_position="[-5931.433, -3525.894, -24.15237]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="3080090" placement_type="ALIGN_AS_ONE" spawn_heading="90.476" spawn_position="[-5925.052, -3520.884, -24.15537]" />
+          </UNK_A5228A89>
+          <UNK_47121AE3>
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="5637526" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5922.148, -3527.504, -24.1555]" />
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="2965358" placement_type="ALIGN_AS_ONE" spawn_heading="40.21" spawn_position="[-5928.292, -3523.257, -24.15196]" />
+          </UNK_47121AE3>
+          <UNK_36D45F9B>
+            <placement id="pg_mp_posseCamp_decor_large002x" uniqueid="3031850" placement_type="ALIGN_AS_ONE" spawn_heading="98.278" spawn_position="[-5937.43, -3524.22, -24.12436]" />
+          </UNK_36D45F9B>
+          <UNK_FC831106>
+            <placement id="pg_mp_posseCamp_flagpole_small000x" uniqueid="5649595" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="144.54" spawn_position="[-5914.261, -3521.381, -24.15551]" />
+          </UNK_FC831106>
+          <UNK_325399A3>
+            <placement id="pg_mp_posseCamp_lockbox_large000x" uniqueid="5660535" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5912.059, -3534.974, -24.1555]" />
+          </UNK_325399A3>
+          <UNK_C3D43DCA>
+            <placement id="pg_mp_posseCamp_horseEnclo_exlrg_combined" uniqueid="5670981" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5904.194, -3518.653, -24.1555]" />
+          </UNK_C3D43DCA>
+          <UNK_C61680D4>
+            <placement id="pg_mp_posseCamp_decor_small006x" uniqueid="5743169" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5909.356, -3520.934, -24.1555]" />
+          </UNK_C61680D4>
+          <UNK_7025E707>
+            <placement id="pg_mp_possecamp_butchertable04x" uniqueid="5708635" placement_type="ALIGN_AS_ONE" spawn_heading="75.28" spawn_position="[-5925.176, -3544.115, -24.1555]" />
+          </UNK_7025E707>
+          <UNK_3D83B095>
+            <placement id="pg_mp_possecamp_goodspile04x" uniqueid="5717545" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="35.531" spawn_position="[-5919.464, -3544.973, -24.15267]" />
+          </UNK_3D83B095>
+          <UNK_5A5EBB64>
+            <placement id="pg_mp_possecamp_stewpot01x" uniqueid="5725928" placement_type="ALIGN_AS_ONE" spawn_heading="89.966" spawn_position="[-5928.149, -3527.792, -24.15521]" />
+          </UNK_5A5EBB64>
+          <UNK_E7E6ED49>
+            <placement id="pg_mp_posseCamp_decor_small000x" uniqueid="104669229" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5923.595, -3540.036, -24.1555]" />
+          </UNK_E7E6ED49>
+          <UNK_F7DCCEED>
+            <placement id="pg_re_wagonlift01x" uniqueid="104777667" placement_type="ALIGN_AS_ONE" spawn_heading="18.534" spawn_position="[-5897.227, -3513.928, -24.15551]" />
+          </UNK_F7DCCEED>
+          <UNK_FC6C6DC2>
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="3100363" placement_type="ALIGN_AS_ONE" spawn_heading="98.278" spawn_position="[-5937.375, -3538.422, -24.15547]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="3102812" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5920.377, -3515.201, -24.15898]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="3107537" placement_type="ALIGN_AS_ONE" spawn_heading="127.334" spawn_position="[-5943.587, -3516.664, -23.99851]" />
+          </UNK_FC6C6DC2>
+          <UNK_4425F835>
+            <placement id="pg_mp_possecamp_pokertable01x" uniqueid="6358570" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5917.986, -3531.618, -24.1555]" />
+          </UNK_4425F835>
+        </UNK_1669A990>
+      </camp>
+      <camp id="GANG_CAMP_MENU" itemname="CAMP_LOCATION_GAPTOOTH_S4_007" uniqueid="545712" submissionvalid="true">
+        <UNK_1669A990 UNK_6701C61C="5" UNK_1E69CCDB="false" UNK_83794FD9="NET_CAMP_SHOP_LOCATION_GAPTOOTH_RIDGE_0">
+          <UNK_72C113BA>
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="6777967" placement_type="ALIGN_AS_ONE" spawn_heading="122.643" spawn_position="[-5264.63, -2982.752, 8.429567]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="6784556" placement_type="ALIGN_AS_ONE" spawn_heading="8.157" spawn_position="[-5250.814, -2970.122, 8.453096]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="6794508" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5240.99, -2972.254, 8.456006]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="6803506" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5240.265, -2982.342, 8.490744]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="6815986" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5241.997, -2991.094, 8.528887]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="6822835" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5244.564, -3001.717, 8.327305]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="6831023" placement_type="ALIGN_AS_ONE" spawn_heading="98.812" spawn_position="[-5254.684, -2996.393, 8.363104]" />
+          </UNK_72C113BA>
+          <UNK_7528DD0F>
+            <placement id="pg_mp_posseCamp_followerTent_large002x" uniqueid="785160" placement_type="ALIGN_TO_GROUND" spawn_heading="47.99" spawn_position="[-5263.627, -2974.929, 8.464859]" />
+          </UNK_7528DD0F>
+          <UNK_9AB0F4DC>
+            <placement id="pg_mp_possecamp_campfire01x" uniqueid="6484352" placement_type="ALIGN_AS_ONE" spawn_heading="47.99" spawn_position="[-5246.88, -2977.489, 8.457298]" />
+          </UNK_9AB0F4DC>
+          <UNK_A5228A89>
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="6890215" placement_type="ALIGN_AS_ONE" spawn_heading="86.683" spawn_position="[-5253.949, -2978.306, 8.447931]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="6950427" placement_type="ALIGN_AS_ONE" spawn_heading="18.119" spawn_position="[-5262.063, -2994.641, 8.31917]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="6958734" placement_type="ALIGN_AS_ONE" spawn_heading="50.893" spawn_position="[-5251.786, -3001.535, 8.316473]" />
+          </UNK_A5228A89>
+          <UNK_47121AE3>
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="6712323" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5249.792, -2988.329, 8.455315]" />
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="7097013" placement_type="ALIGN_AS_ONE" spawn_heading="146.603" spawn_position="[-5247.049, -2995.329, 8.444265]" />
+          </UNK_47121AE3>
+          <UNK_36D45F9B>
+            <placement id="pg_mp_posseCamp_decor_large002x" uniqueid="7105610" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5244.443, -2964.116, 8.452997]" />
+          </UNK_36D45F9B>
+          <UNK_FC831106>
+            <placement id="pg_mp_posseCamp_flagpole_small000x" uniqueid="6740706" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="5.181" spawn_position="[-5267.083, -2996.022, 8.237686]" />
+          </UNK_FC831106>
+          <UNK_325399A3>
+            <placement id="pg_mp_posseCamp_lockbox_large000x" uniqueid="6747725" placement_type="ALIGN_AS_ONE" spawn_heading="92.295" spawn_position="[-5257.788, -2970.352, 8.475496]" />
+          </UNK_325399A3>
+          <UNK_C3D43DCA>
+            <placement id="pg_mp_posseCamp_horseEnclo_exlrg_combined" uniqueid="979215" placement_type="ALIGN_AS_ONE" spawn_heading="90.407" spawn_position="[-5255.066, -3012.684, 8.238165]" />
+          </UNK_C3D43DCA>
+          <UNK_C61680D4>
+            <placement id="pg_mp_posseCamp_decor_small006x" uniqueid="6771687" placement_type="ALIGN_AS_ONE" spawn_heading="163.256" spawn_position="[-5257.036, -3007.844, 8.228075]" />
+          </UNK_C61680D4>
+          <UNK_7025E707>
+            <placement id="pg_mp_possecamp_butchertable04x" uniqueid="6863974" placement_type="ALIGN_AS_ONE" spawn_heading="39.999" spawn_position="[-5254.222, -2983.317, 8.448792]" />
+          </UNK_7025E707>
+          <UNK_3D83B095>
+            <placement id="pg_mp_possecamp_goodspile04x" uniqueid="6880927" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="39.999" spawn_position="[-5259.656, -2978.46, 8.452488]" />
+          </UNK_3D83B095>
+          <UNK_5A5EBB64>
+            <placement id="pg_mp_possecamp_stewpot01x" uniqueid="6902080" placement_type="ALIGN_AS_ONE" spawn_heading="86.683" spawn_position="[-5248.078, -2984.036, 8.461126]" />
+          </UNK_5A5EBB64>
+          <UNK_E7E6ED49>
+            <placement id="pg_mp_posseCamp_decor_small000x" uniqueid="374337" placement_type="ALIGN_AS_ONE" spawn_heading="50.893" spawn_position="[-5251.234, -2980.913, 8.45233]" />
+          </UNK_E7E6ED49>
+          <UNK_F7DCCEED>
+            <placement id="pg_re_wagonlift01x" uniqueid="566524" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5247.866, -3021.591, 8.388592]" />
+          </UNK_F7DCCEED>
+          <UNK_FC6C6DC2>
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="6911500" placement_type="ALIGN_AS_ONE" spawn_heading="128.542" spawn_position="[-5239.066, -2965.375, 8.45373]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="6918937" placement_type="ALIGN_AS_ONE" spawn_heading="77.778" spawn_position="[-5262.554, -2999.196, 8.260612]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="6924013" placement_type="ALIGN_AS_ONE" spawn_heading="50.893" spawn_position="[-5236.545, -2986.929, 8.607252]" />
+          </UNK_FC6C6DC2>
+          <UNK_4425F835>
+            <placement id="pg_mp_possecamp_pokertable01x" uniqueid="6938982" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="50.893" spawn_position="[-5262.102, -2990.434, 8.370193]" />
+          </UNK_4425F835>
+        </UNK_1669A990>
+      </camp>
+      <camp id="GANG_CAMP_MENU" itemname="CAMP_LOCATION_GAPTOOTH_S4_008" uniqueid="2844702" submissionvalid="true">
+        <UNK_1669A990 UNK_6701C61C="5" UNK_1E69CCDB="false" UNK_83794FD9="NET_CAMP_SHOP_LOCATION_GAPTOOTH_RIDGE_0">
+          <UNK_72C113BA>
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="808323" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5337.975, -2787.289, 9.474618]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="814243" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5338.044, -2799.724, 9.407408]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="884008" placement_type="ALIGN_AS_ONE" spawn_heading="152.409" spawn_position="[-5352.229, -2806.345, 9.098185]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="893314" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5329.25, -2792.42, 9.467852]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="904364" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5340.653, -2812.589, 9.274328]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="915960" placement_type="ALIGN_AS_ONE" spawn_heading="130.534" spawn_position="[-5362.417, -2806.438, 9.191099]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="919676" placement_type="ALIGN_AS_ONE" spawn_heading="159.739" spawn_position="[-5349.714, -2816.719, 9.030298]" />
+          </UNK_72C113BA>
+          <UNK_7528DD0F>
+            <placement id="pg_mp_posseCamp_followerTent_large002x" uniqueid="6973823" placement_type="ALIGN_TO_GROUND" spawn_heading="31.932" spawn_position="[-5348.443, -2788.064, 9.518282]" />
+          </UNK_7528DD0F>
+          <UNK_9AB0F4DC>
+            <placement id="pg_mp_possecamp_campfire01x" uniqueid="7407698" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5346.003, -2796.468, 9.419547]" />
+          </UNK_9AB0F4DC>
+          <UNK_A5228A89>
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="932246" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5350.728, -2798.676, 9.322599]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="938587" placement_type="ALIGN_AS_ONE" spawn_heading="41.239" spawn_position="[-5336.386, -2792.772, 9.476059]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="947557" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5346.672, -2809.662, 9.18381]" />
+          </UNK_A5228A89>
+          <UNK_47121AE3>
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="845289" placement_type="ALIGN_AS_ONE" spawn_heading="104.188" spawn_position="[-5343.875, -2790.528, 9.476112]" />
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="928230" placement_type="ALIGN_AS_ONE" spawn_heading="159.739" spawn_position="[-5339.078, -2805.78, 9.357698]" />
+          </UNK_47121AE3>
+          <UNK_36D45F9B>
+            <placement id="pg_mp_posseCamp_decor_large002x" uniqueid="954992" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5341.562, -2821.24, 8.868334]" />
+          </UNK_36D45F9B>
+          <UNK_FC831106>
+            <placement id="pg_mp_posseCamp_flagpole_small000x" uniqueid="7424717" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="35.72" spawn_position="[-5331.314, -2799.366, 9.322099]" />
+          </UNK_FC831106>
+          <UNK_325399A3>
+            <placement id="pg_mp_posseCamp_lockbox_large000x" uniqueid="752774" placement_type="ALIGN_AS_ONE" spawn_heading="130.256" spawn_position="[-5343.612, -2783.979, 9.445557]" />
+          </UNK_325399A3>
+          <UNK_C3D43DCA>
+            <placement id="pg_mp_posseCamp_horseEnclo_exlrg_combined" uniqueid="7448407" placement_type="SNAP_TO_GROUND" spawn_heading="0.0" spawn_position="[-5326.529, -2807.717, 9.03571]" />
+          </UNK_C3D43DCA>
+          <UNK_C61680D4>
+            <placement id="pg_mp_posseCamp_decor_small006x" uniqueid="7469505" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5331.36, -2805.565, 9.229607]" />
+          </UNK_C61680D4>
+          <UNK_7025E707>
+            <placement id="pg_mp_possecamp_butchertable04x" uniqueid="7528375" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5351.431, -2793.15, 9.499648]" />
+          </UNK_7025E707>
+          <UNK_3D83B095>
+            <placement id="pg_mp_possecamp_goodspile04x" uniqueid="7616556" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5355.688, -2797.838, 9.361561]" />
+          </UNK_3D83B095>
+          <UNK_5A5EBB64>
+            <placement id="pg_mp_possecamp_stewpot01x" uniqueid="859826" placement_type="ALIGN_AS_ONE" spawn_heading="132.258" spawn_position="[-5345.426, -2805.635, 9.293491]" />
+          </UNK_5A5EBB64>
+          <UNK_E7E6ED49>
+            <placement id="pg_mp_posseCamp_decor_small000x" uniqueid="1003899" placement_type="ALIGN_AS_ONE" spawn_heading="26.665" spawn_position="[-5349.029, -2794.375, 9.437761]" />
+          </UNK_E7E6ED49>
+          <UNK_F7DCCEED>
+            <placement id="pg_re_wagonlift01x" uniqueid="1104892" placement_type="ALIGN_AS_ONE" spawn_heading="167.025" spawn_position="[-5344.561, -2830.487, 9.09462]" />
+          </UNK_F7DCCEED>
+          <UNK_FC6C6DC2>
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="1094310" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5354.183, -2787.739, 9.779992]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="1097926" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5358.43, -2814.323, 9.071196]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="862338" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5331.411, -2787.03, 9.328779]" />
+          </UNK_FC6C6DC2>
+          <UNK_4425F835>
+            <placement id="pg_mp_possecamp_pokertable01x" uniqueid="1036926" placement_type="ALIGN_AS_ONE" spawn_heading="13.718" spawn_position="[-5343.136, -2779.058, 9.362787]" />
+          </UNK_4425F835>
+        </UNK_1669A990>
+      </camp>
+      <camp id="GANG_CAMP_MENU" itemname="CAMP_LOCATION_GAPTOOTH_S4_009" uniqueid="508779" submissionvalid="true">
+        <UNK_1669A990 UNK_6701C61C="5" UNK_1E69CCDB="false" UNK_83794FD9="NET_CAMP_SHOP_LOCATION_GAPTOOTH_RIDGE_0">
+          <UNK_72C113BA>
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="9780938" placement_type="ALIGN_AS_ONE" spawn_heading="55.046" spawn_position="[-5873.859, -3842.729, -30.81934]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="10126642" placement_type="ALIGN_AS_ONE" spawn_heading="177.701" spawn_position="[-5856.663, -3855.098, -30.53329]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="10160057" placement_type="ALIGN_AS_ONE" spawn_heading="1.497" spawn_position="[-5863.321, -3832.659, -29.97228]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="10174914" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5851.404, -3836.532, -30.35467]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="10190444" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5842.811, -3841.871, -30.35226]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="10194698" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5847.904, -3855.396, -30.55886]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="10198599" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5838.212, -3850.983, -30.34533]" />
+          </UNK_72C113BA>
+          <UNK_7528DD0F>
+            <placement id="pg_mp_posseCamp_followerTent_large002x" uniqueid="9667590" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="120.558" spawn_position="[-5880.217, -3852.352, -30.60327]" />
+          </UNK_7528DD0F>
+          <UNK_9AB0F4DC>
+            <placement id="pg_mp_possecamp_campfire01x" uniqueid="9674297" placement_type="ALIGN_AS_ONE" spawn_heading="142.887" spawn_position="[-5849.994, -3847.615, -30.42739]" />
+          </UNK_9AB0F4DC>
+          <UNK_A5228A89>
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="10299100" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5878.678, -3845.843, -31.00468]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="10310786" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5869.262, -3835.77, -30.16875]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="10323144" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5833.998, -3844.919, -30.29748]" />
+          </UNK_A5228A89>
+          <UNK_47121AE3>
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="9697220" placement_type="ALIGN_AS_ONE" spawn_heading="141.267" spawn_position="[-5865.054, -3852.025, -30.52197]" />
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="10330918" placement_type="ALIGN_AS_ONE" spawn_heading="137.096" spawn_position="[-5858.53, -3840.317, -30.03328]" />
+          </UNK_47121AE3>
+          <UNK_36D45F9B>
+            <placement id="pg_mp_posseCamp_decor_large002x" uniqueid="10335784" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5830.061, -3850.335, -30.40215]" />
+          </UNK_36D45F9B>
+          <UNK_FC831106>
+            <placement id="pg_mp_posseCamp_flagpole_small000x" uniqueid="10209209" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5870.271, -3831.43, -30.06194]" />
+          </UNK_FC831106>
+          <UNK_325399A3>
+            <placement id="pg_mp_posseCamp_lockbox_large000x" uniqueid="10219662" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5863.819, -3857.748, -30.69445]" />
+          </UNK_325399A3>
+          <UNK_C3D43DCA>
+            <placement id="pg_mp_posseCamp_horseEnclo_exlrg_combined" uniqueid="9750930" placement_type="ALIGN_AS_ONE" spawn_heading="126.553" spawn_position="[-5876.192, -3816.892, -30.59971]" />
+          </UNK_C3D43DCA>
+          <UNK_C61680D4>
+            <placement id="pg_mp_posseCamp_decor_small006x" uniqueid="9770152" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5857.124, -3833.137, -30.3079]" />
+          </UNK_C61680D4>
+          <UNK_7025E707>
+            <placement id="pg_mp_possecamp_butchertable04x" uniqueid="10103638" placement_type="ALIGN_AS_ONE" spawn_heading="70.144" spawn_position="[-5874.846, -3852.175, -30.65016]" />
+          </UNK_7025E707>
+          <UNK_3D83B095>
+            <placement id="pg_mp_possecamp_goodspile04x" uniqueid="10113564" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5892.051, -3853.579, -30.70944]" />
+          </UNK_3D83B095>
+          <UNK_5A5EBB64>
+            <placement id="pg_mp_possecamp_stewpot01x" uniqueid="106775303" placement_type="ALIGN_AS_ONE" spawn_heading="142.887" spawn_position="[-5860.066, -3845.466, -30.28892]" />
+          </UNK_5A5EBB64>
+          <UNK_E7E6ED49>
+            <placement id="pg_mp_posseCamp_decor_small000x" uniqueid="107031311" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5871.563, -3850.276, -30.73524]" />
+          </UNK_E7E6ED49>
+          <UNK_F7DCCEED>
+            <placement id="pg_re_wagonlift01x" uniqueid="107051976" placement_type="ALIGN_AS_ONE" spawn_heading="29.954" spawn_position="[-5851.489, -3806.996, -25.64306]" />
+          </UNK_F7DCCEED>
+          <UNK_FC6C6DC2>
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="10277928" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5865.925, -3843.923, -30.35887]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="10279406" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5868.914, -3826.571, -29.95234]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="10284222" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5898.151, -3853.374, -30.8288]" />
+          </UNK_FC6C6DC2>
+          <UNK_4425F835>
+            <placement id="pg_mp_possecamp_pokertable01x" uniqueid="107212766" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5853.896, -3843.03, -30.2108]" />
+          </UNK_4425F835>
+        </UNK_1669A990>
+      </camp>
+      <camp id="GANG_CAMP_MENU" itemname="CAMP_LOCATION_GAPTOOTH_S7_000" uniqueid="1342784" submissionvalid="true">
+        <UNK_1669A990 UNK_6701C61C="5" UNK_1E69CCDB="false" UNK_83794FD9="NET_CAMP_SHOP_LOCATION_GAPTOOTH_RIDGE_0">
+          <UNK_72C113BA>
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="3177549" placement_type="ALIGN_AS_ONE" spawn_heading="165.721" spawn_position="[-5714.177, -3303.907, -24.15578]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="3221007" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5701.753, -3293.162, -23.98881]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="3228615" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5706.976, -3280.676, -24.14963]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="3236576" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5703.371, -3305.128, -24.15133]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="3244553" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5695.088, -3286.518, -24.09435]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="3264127" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5697.632, -3276.967, -24.15587]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="3271404" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5694.3, -3300.48, -24.13535]" />
+          </UNK_72C113BA>
+          <UNK_7528DD0F>
+            <placement id="pg_mp_posseCamp_followerTent_large002x" uniqueid="10574494" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="108.429" spawn_position="[-5719.246, -3297.101, -24.15586]" />
+          </UNK_7528DD0F>
+          <UNK_9AB0F4DC>
+            <placement id="pg_mp_possecamp_campfire01x" uniqueid="10598301" placement_type="ALIGN_AS_ONE" spawn_heading="86.238" spawn_position="[-5711.435, -3291.7, -24.12879]" />
+          </UNK_9AB0F4DC>
+          <UNK_A5228A89>
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="3314335" placement_type="ALIGN_AS_ONE" spawn_heading="135.754" spawn_position="[-5714.086, -3297.083, -24.14841]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="3332589" placement_type="ALIGN_AS_ONE" spawn_heading="19.012" spawn_position="[-5713.704, -3285.62, -24.15317]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="3388766" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5701.187, -3299.684, -24.10424]" />
+          </UNK_A5228A89>
+          <UNK_47121AE3>
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="10607767" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5706.758, -3298.638, -24.10369]" />
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="3286946" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5701.26, -3283.321, -24.09875]" />
+          </UNK_47121AE3>
+          <UNK_36D45F9B>
+            <placement id="pg_mp_posseCamp_decor_large002x" uniqueid="3279156" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5687.976, -3292.573, -24.11806]" />
+          </UNK_36D45F9B>
+          <UNK_FC831106>
+            <placement id="pg_mp_posseCamp_flagpole_small000x" uniqueid="3203267" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5727.938, -3287.484, -24.15119]" />
+          </UNK_FC831106>
+          <UNK_325399A3>
+            <placement id="pg_mp_posseCamp_lockbox_large000x" uniqueid="10621388" placement_type="ALIGN_AS_ONE" spawn_heading="167.912" spawn_position="[-5721.263, -3291.998, -24.1559]" />
+          </UNK_325399A3>
+          <UNK_C3D43DCA>
+            <placement id="pg_mp_posseCamp_horseEnclo_exlrg_combined" uniqueid="10744890" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5748.779, -3297.336, -24.15653]" />
+          </UNK_C3D43DCA>
+          <UNK_C61680D4>
+            <placement id="pg_mp_posseCamp_decor_small006x" uniqueid="10756794" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5729.586, -3282.24, -24.05132]" />
+          </UNK_C61680D4>
+          <UNK_7025E707>
+            <placement id="pg_mp_possecamp_butchertable04x" uniqueid="10819813" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5719.446, -3281.493, -24.15588]" />
+          </UNK_7025E707>
+          <UNK_3D83B095>
+            <placement id="pg_mp_possecamp_goodspile04x" uniqueid="10837929" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5720.288, -3287.358, -24.1558]" />
+          </UNK_3D83B095>
+          <UNK_5A5EBB64>
+            <placement id="pg_mp_possecamp_stewpot01x" uniqueid="10846050" placement_type="ALIGN_AS_ONE" spawn_heading="19.012" spawn_position="[-5706.874, -3287.466, -24.07281]" />
+          </UNK_5A5EBB64>
+          <UNK_E7E6ED49>
+            <placement id="pg_mp_posseCamp_decor_small000x" uniqueid="107702063" placement_type="ALIGN_AS_ONE" spawn_heading="32.042" spawn_position="[-5716.98, -3284.821, -24.15564]" />
+          </UNK_E7E6ED49>
+          <UNK_F7DCCEED>
+            <placement id="pg_re_wagonlift01x" uniqueid="107720416" placement_type="ALIGN_AS_ONE" spawn_heading="51.028" spawn_position="[-5736.005, -3279.971, -24.01167]" />
+          </UNK_F7DCCEED>
+          <UNK_FC6C6DC2>
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="1855787" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5703.887, -3275.155, -24.15515]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="1863434" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5694.458, -3307.147, -24.13105]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="1877287" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5688.588, -3286.03, -24.14049]" />
+          </UNK_FC6C6DC2>
+          <UNK_4425F835>
+            <placement id="pg_mp_possecamp_pokertable01x" uniqueid="10980218" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5694.436, -3293.492, -24.04239]" />
+          </UNK_4425F835>
+        </UNK_1669A990>
+      </camp>
+      <camp id="GANG_CAMP_MENU" itemname="CAMP_LOCATION_GAPTOOTH_S7_001" uniqueid="4605583" submissionvalid="true">
+        <UNK_1669A990 UNK_6701C61C="5" UNK_1E69CCDB="false" UNK_83794FD9="NET_CAMP_SHOP_LOCATION_GAPTOOTH_RIDGE_0">
+          <UNK_72C113BA>
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="3548579" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5939.172, -2948.07, -5.200186]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="3560296" placement_type="ALIGN_AS_ONE" spawn_heading="74.005" spawn_position="[-5958.224, -2956.08, -5.421938]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="3567474" placement_type="ALIGN_AS_ONE" spawn_heading="146.1" spawn_position="[-5955.008, -2965.622, -5.567122]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="3581150" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5944.947, -2966.859, -5.582941]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="3594860" placement_type="ALIGN_AS_ONE" spawn_heading="61.341" spawn_position="[-5967.582, -2961.141, -5.586998]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="3600758" placement_type="ALIGN_AS_ONE" spawn_heading="168.857" spawn_position="[-5963.544, -2970.776, -5.559519]" />
+            <placement id="pg_mp_possecamp_tent_coveredleanto_survivor01" uniqueid="3604637" placement_type="ALIGN_AS_ONE" spawn_heading="173.914" spawn_position="[-5951.355, -2975.863, -5.572189]" />
+          </UNK_72C113BA>
+          <UNK_7528DD0F>
+            <placement id="pg_mp_posseCamp_followerTent_large002x" uniqueid="11291405" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5945.017, -2941.004, -5.540518]" />
+          </UNK_7528DD0F>
+          <UNK_9AB0F4DC>
+            <placement id="pg_mp_possecamp_campfire01x" uniqueid="11349047" placement_type="ALIGN_AS_ONE" spawn_heading="37.55" spawn_position="[-5950.578, -2958.055, -5.579048]" />
+          </UNK_9AB0F4DC>
+          <UNK_A5228A89>
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="3680858" placement_type="ALIGN_AS_ONE" spawn_heading="162.095" spawn_position="[-5946.39, -2953.264, -5.496372]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="3736129" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5941.498, -2955.605, -5.213404]" />
+            <placement id="pg_mp_posseCamp_decor_small010x" uniqueid="3740873" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5949.869, -2969.342, -5.580076]" />
+          </UNK_A5228A89>
+          <UNK_47121AE3>
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="3691817" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5946.79, -2945.917, -5.567284]" />
+            <placement id="pg_mp_posseCamp_decor_medium011x" uniqueid="3745193" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5961.221, -2963.416, -5.557145]" />
+          </UNK_47121AE3>
+          <UNK_36D45F9B>
+            <placement id="pg_mp_posseCamp_decor_large002x" uniqueid="3620390" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5942.065, -2976.75, -5.576666]" />
+          </UNK_36D45F9B>
+          <UNK_FC831106>
+            <placement id="pg_mp_posseCamp_flagpole_small000x" uniqueid="11378680" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5938.595, -2956.838, -5.34981]" />
+          </UNK_FC831106>
+          <UNK_325399A3>
+            <placement id="pg_mp_posseCamp_lockbox_large000x" uniqueid="11409860" placement_type="ALIGN_AS_ONE" spawn_heading="128.899" spawn_position="[-5956.782, -2942.958, -5.692955]" />
+          </UNK_325399A3>
+          <UNK_C3D43DCA>
+            <placement id="pg_mp_posseCamp_horseEnclo_exlrg_combined" uniqueid="927419" placement_type="ALIGN_AS_ONE" spawn_heading="85.924" spawn_position="[-5945.516, -2987.281, -5.577944]" />
+          </UNK_C3D43DCA>
+          <UNK_C61680D4>
+            <placement id="pg_mp_possecamp_decor_small006x" uniqueid="3760069" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5946.981, -2982.038, -5.565604]" />
+          </UNK_C61680D4>
+          <UNK_7025E707>
+            <placement id="pg_mp_possecamp_butchertable04x" uniqueid="11478707" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5950.632, -2942.363, -5.593107]" />
+          </UNK_7025E707>
+          <UNK_3D83B095>
+            <placement id="pg_mp_possecamp_goodspile04x" uniqueid="11486486" placement_type="PLACE_ON_ENTITY_LOOSELY" spawn_heading="0.0" spawn_position="[-5953.011, -2948.794, -5.46732]" />
+          </UNK_3D83B095>
+          <UNK_5A5EBB64>
+            <placement id="pg_mp_possecamp_stewpot01x" uniqueid="11577291" placement_type="ALIGN_AS_ONE" spawn_heading="13.176" spawn_position="[-5944.936, -2958.776, -5.501703]" />
+          </UNK_5A5EBB64>
+          <UNK_E7E6ED49>
+            <placement id="pg_mp_posseCamp_decor_small000x" uniqueid="108157170" placement_type="ALIGN_AS_ONE" spawn_heading="57.091" spawn_position="[-5950.679, -2945.551, -5.580718]" />
+          </UNK_E7E6ED49>
+          <UNK_F7DCCEED>
+            <placement id="pg_re_wagonlift01x" uniqueid="108163881" placement_type="ALIGN_AS_ONE" spawn_heading="149.728" spawn_position="[-5956.316, -2984.243, -5.223215]" />
+          </UNK_F7DCCEED>
+          <UNK_FC6C6DC2>
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="3809328" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5964.521, -2953.646, -5.586763]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="3814393" placement_type="ALIGN_AS_ONE" spawn_heading="97.115" spawn_position="[-5957.175, -2973.852, -5.539255]" />
+            <placement id="pg_mp_possecamp_medicine04x" uniqueid="3823862" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[-5936.86, -2961.877, -5.78818]" />
+          </UNK_FC6C6DC2>
+          <UNK_4425F835>
+            <placement id="pg_mp_possecamp_pokertable01x" uniqueid="15865731" placement_type="ALIGN_AS_ONE" spawn_heading="126.096" spawn_position="[-5969.53, -2952.898, -5.656993]" />
+          </UNK_4425F835>
+        </UNK_1669A990>
+      </camp>
+    </camps>
+  </mission>
+</root>

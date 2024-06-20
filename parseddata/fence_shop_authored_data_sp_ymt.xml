@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_1AF9B630 id="ST_FENCE">
+    <region id="REGION_BAY_SAINT_DENIS">
+      <vector data="[2859.157, -1200.464, 48.5888]" id="walkPosition" />
+      <float data="191.7306" id="walkHeading" />
+      <vector data="[2860.355, -1197.859, 48.589]" id="clothingPosition" />
+      <float data="192.1164" id="clothingHeading" />
+      <vector data="[2860.201, -1199.505, 50.1358]" id="catClothingCamPos" />
+      <vector data="[-11.4837, 0.0, 9.5832]" id="catClothingCamRot" />
+    </region>
+    <region id="REGION_HRT_EMERALDRANCH">
+      <vector data="[1417.879, 271.5595, 88.5266]" id="walkPosition" />
+      <float data="22.3968" id="walkHeading" />
+      <vector data="[1416.463, 267.6205, 88.6151]" id="clothingPosition" />
+      <float data="214.519" id="clothingHeading" />
+      <vector data="[1420.882, 268.0531, 88.9106]" id="horsePosition" />
+      <float data="125.609" id="horseHeading" />
+      <vector data="[1416.468, 265.9102, 89.9905]" id="catClothingCamPos" />
+      <vector data="[-4.854, 0.0, 14.4672]" id="catClothingCamRot" />
+    </region>
+    <region id="REGION_SCM_RHODES">
+      <vector data="[1320.458, -1142.405, 81.3542]" id="walkPosition" />
+      <float data="69.2422" id="walkHeading" />
+      <vector data="[1324.282, -1141.248, 81.0065]" id="clothingPosition" />
+      <float data="135.2638" id="clothingHeading" />
+      <vector data="[1322.111, -1146.054, 80.8911]" id="horsePosition" />
+      <float data="352.4926" id="horseHeading" />
+      <vector data="[1322.651, -1142.062, 82.3431]" id="catClothingCamPos" />
+      <vector data="[-7.6157, 0.0, -53.0243]" id="catClothingCamRot" />
+    </region>
+    <region id="REGION_ROA_VANHORNPOST">
+      <vector data="[3027.89, 561.3564, 43.7246]" id="walkPosition" />
+      <float data="95.1822" id="walkHeading" />
+      <vector data="[3027.783, 561.5597, 43.7243]" id="clothingPosition" />
+      <float data="22.3248" id="clothingHeading" />
+      <vector data="[3027.346, 562.8832, 45.314]" id="catClothingCamPos" />
+      <vector data="[-11.6453, 0.0, -145.6087]" id="catClothingCamRot" />
+    </region>
+  </UNK_1AF9B630>
+</root>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_1AF9B630 id="ST_BUTCHER">
+    <region id="REGION_HRT_VALENTINE">
+      <vector data="[-341.2652, 767.1162, 115.725]" id="walkPosition" />
+      <float data="281.7284" id="walkHeading" />
+    </region>
+    <region id="REGION_BAY_SAINT_DENIS">
+      <vector data="[2817.376, -1329.747, 45.5149]" id="walkPosition" />
+      <float data="244.883" id="walkHeading" />
+    </region>
+    <region id="REGION_SCM_RHODES">
+      <vector data="[1296.32, -1279.877, 74.8184]" id="walkPosition" />
+      <float data="345.7955" id="walkHeading" />
+    </region>
+    <region id="REGION_BGV_STRAWBERRY">
+      <vector data="[-1752.889, -395.1445, 155.169]" id="walkPosition" />
+      <float data="9.179" id="walkHeading" />
+    </region>
+    <region id="REGION_GAP_TUMBLEWEED">
+      <vector data="[-5507.874, -2947.807, -2.864]" id="walkPosition" />
+      <float data="71.4" id="walkHeading" />
+    </region>
+    <region id="REGION_GRT_BLACKWATER">
+      <vector data="[-751.101, -1284.779, 42.2772]" id="walkPosition" />
+      <float data="70.4" id="walkHeading" />
+    </region>
+  </UNK_1AF9B630>
+</root>

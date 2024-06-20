@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <UNK_2F9EFB96>
+    <UNK_E89E9893>
+      <item text="REGION_GUA_AGUASDULCES" />
+    </UNK_E89E9893>
+    <volumes>
+      <item>
+        <name text="Cylinder" />
+        <parent text="REGION_GUA_AGUASDULCES" />
+        <type text="volCylinder" />
+        <position x="1472.214" y="0.0" z="75.42995" vec3="[1472.214, -7123.798, 75.42995]" />
+        <orientation x="0.0" y="0.0" z="50.12293" vec3="[0.0, 0.0, 50.12293]" />
+        <scale x="39.25742" y="49.43359" z="5.446061" vec3="[39.25742, 49.43359, 5.446061]" />
+      </item>
+      <item>
+        <name text="Cylinder_00000ba" />
+        <parent text="REGION_GUA_AGUASDULCES" />
+        <type text="volCylinder" />
+        <position x="1492.047" y="0.0" z="70.8699" vec3="[1492.047, -7096.557, 70.8699]" />
+        <orientation x="0.0" y="0.0" z="35.58212" vec3="[0.0, 0.0, 35.58212]" />
+        <scale x="33.10922" y="27.76123" z="10.09047" vec3="[33.10922, 27.76123, 10.09047]" />
+      </item>
+      <item>
+        <name text="GPS_BLOCK_BOX" />
+        <parent text="REGION_GUA_AGUASDULCES" />
+        <type text="volBox" />
+        <position x="1356.5" y="0.0" z="74.879" vec3="[1356.5, -6992.811, 74.879]" />
+        <orientation x="0.0" y="0.0" z="0.0" vec3="[0.0, 0.0, -24.0]" />
+        <scale x="425.0" y="296.0" z="100.0" vec3="[425.0, 296.0, 100.0]" />
+      </item>
+      <item>
+        <name text="REGION_GRT_BLACKWATER" />
+        <type text="volBox" />
+        <parent text="" />
+        <position x="0.0" y="0.0" z="58.87424" vec3="[-830.9916, -1298.713, 58.87424]" />
+        <orientation x="0.0" y="0.0" z="0.0" vec3="[0.0, 0.0, 0.0]" />
+        <scale x="235.5305" y="275.8121" z="53.43539" vec3="[235.5305, 275.8121, 53.43539]" />
+      </item>
+      <item>
+        <name text="REGION_SCM_BRAITHWAITEMANOR" />
+        <type text="volCylinder" />
+        <parent text="" />
+        <position x="1104.422" y="0.0" z="53.9842" vec3="[1104.422, -1934.803, 53.9842]" />
+        <orientation x="0.0" y="0.0" z="29.87046" vec3="[0.0, 0.0, 29.87046]" />
+        <scale x="220.9999" y="301.3503" z="56.94445" vec3="[220.9999, 301.3503, 56.94445]" />
+      </item>
+      <item>
+        <name text="REGION_SCM_CALIGAHALL" />
+        <type text="volCylinder" />
+        <parent text="" />
+        <position x="1865.295" y="0.0" z="49.06957" vec3="[1865.295, -1303.43, 49.06957]" />
+        <orientation x="0.0" y="0.0" z="0.0" vec3="[0.0, 0.0, -128.0]" />
+        <scale x="200.0" y="121.5" z="50.0" vec3="[200.0, 121.5, 50.0]" />
+      </item>
+      <item>
+        <name text="REGION_SCM_RHODES" />
+        <type text="volCylinder" />
+        <parent text="" />
+        <position x="1348.111" y="0.0" z="82.624" vec3="[1348.111, -1291.801, 82.624]" />
+        <orientation x="0.0" y="0.0" z="0.0" vec3="[0.0, 0.0, 0.0]" />
+        <scale x="220.0" y="261.0" z="140.0" vec3="[220.0, 261.0, 140.0]" />
+      </item>
+    </volumes>
+  </UNK_2F9EFB96>
+</root>

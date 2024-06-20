@@ -1,0 +1,1291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data>
+    <UNK_FCAC7D18>
+      <UNK_AD305933 id="STANDARD">
+        <text id="SHARD_TEAM_PRIMARY_INTRO" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_SHARD_INTRO_PRIMARY" />
+        <text id="SHARD_TEAM_PRIMARY_INTRO_PLURAL" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_SHARD_INTRO_PRIMARY_PLURAL" />
+        <text id="SHARD_TEAM_PRIMARY_POSSE" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_SHARD_INTRO_PRIMARY_POSSE" />
+        <text id="SHARD_TEAM_PRIMARY_PASS" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_SHARD_PRIMARY_PASS" />
+        <text id="SHARD_TEAM_PRIMARY_PASS_PLURAL" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_SHARD_PRIMARY_PASS_PLURAL" />
+        <text id="SHARD_TEAM_PRIMARY_PASS_PARTIAL" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_SHARD_PRIMARY_PASS_PARTIAL" />
+        <text id="SHARD_TEAM_PRIMARY_FAIL" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_SHARD_PRIMARY_FAIL" />
+        <text id="SHARD_TEAM_PRIMARY_FAIL_PLURAL" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_SHARD_PRIMARY_FAIL_PLURAL" />
+        <text id="SHARD_DESTROYED" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_SHARD_DESTROYED" />
+        <text id="SHARD_DESTROYED_PLURAL" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_SHARD_DESTROYED_PLURAL" />
+        <text id="SHARD_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_POSSE_ABANDONED" />
+        <text id="SHARD_YOUR_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOUR_POSSE_ABANDONED" />
+        <text id="SHARD_YOU_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOU_ABANDONED" />
+        <text id="HELP_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_HELP_INTRO" />
+        <text id="HELP_TEAM_PRIMARY_PLURAL" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_HELP_INTRO_PLURAL" />
+        <text id="HELP_GHOST_LOCAL_PLAYER" UNK_EC4B42F9="FETCH_HELP_LOCAL_PLAYER_GHOSTED_HORSE" />
+        <text id="HELP_GHOST_LOCAL_PLAYER_PLURAL" UNK_EC4B42F9="FETCH_HELP_LOCAL_PLAYER_GHOSTED_HORSE_PLURAL" />
+        <text id="HELP_GHOST_POSSE_PLAYER" UNK_EC4B42F9="FETCH_HELP_TEAMMATE_GHOSTED_HORSE" />
+        <text id="HELP_GHOST_POSSE_PLAYER_PLURAL" UNK_EC4B42F9="FETCH_HELP_TEAMMATE_GHOSTED_HORSE_PLURAL" />
+        <text id="HELP_GHOST_PVP_PLAYER" UNK_EC4B42F9="FETCH_HELP_ENEMY_TEAM_GHOSTED_HORSE" />
+        <text id="HELP_GHOST_PVP_PLAYER_PLURAL" UNK_EC4B42F9="FETCH_HELP_ENEMY_TEAM_GHOSTED_HORSE_PLURAL" />
+        <text id="HELP_ONLY_ONE_BAG" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_HELP_BAG" />
+        <text id="OBJ_GO_TO_0" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_GO_TO_0" />
+        <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_OBJ_FIND" />
+        <text id="OBJ_FIND_PLURAL" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_OBJ_FIND_PLURAL" />
+        <text id="OBJ_ESCORT_DEFEND" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_OBJ_DEFEND" />
+        <text id="OBJ_ESCORT_DEFEND_PLURAL" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_OBJ_DEFEND_PLURAL" />
+        <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_OBJ_RETURN" />
+        <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_OBJ_STEAL_SUPPLIES" />
+        <text id="OBJ_ESCORT_STEAL_PLURAL" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_OBJ_STEAL_SUPPLIES_PLURAL" />
+        <text id="OBJ_ESCORT_STEAL_FROM_POSSE" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_OBJ_STEAL_FROM_POSSE" />
+        <text id="OBJ_ESCORT_STEAL_FROM_POSSE_PLURAL" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_OBJ_STEAL_FROM_POSSE_PLURAL" />
+        <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_OBJ_DROP" />
+        <text id="OBJ_GET_ON_MOUNT" UNK_EC4B42F9="FETCH_OBJ_GET_ON_MOUNT" />
+        <text id="SCORETIMER_OBJECTIVE_DESTROYED" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_SCORETIMER_DESTROY" />
+        <text id="SCORETIMER_OBJECTIVE_DESTROYED_YOU" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_SCORETIMER_DESTROY_YOU" />
+        <text id="SCORETIMER_DELIVER_TEAM_PRIMARY_PASS" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_SCORETIMER_DELIVER_PRIMARY_PASS" />
+        <text id="SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_NP" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_SCORETIMER_DELIVER_PRIMARY_PASS_NP" />
+        <text id="SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_YOU" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_SCORETIMER_DELIVER_PRIMARY_PASS_YOU" />
+        <text id="SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_YOUR" UNK_EC4B42F9="FETCH_SHERIFFS_SUPPLIES_SCORETIMER_DELIVER_PRIMARY_PASS_YOUR" />
+      </UNK_AD305933>
+    </UNK_FCAC7D18>
+    <locations>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_413A88="40000" UNK_2C628086="25000" id="CAMP_RESUPPLY_SHERIFFS_SUPPLIES_VALENTINE" UNK_94EAAF01="true" UNK_7C1FCD5E="MODEL_CONFIG_HEARTLANDS" UNK_C0F9D21B="MUSIC_SHERIFFS_SUPPLIES" UNK_CA597B13="false" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_VALENTINE" position="[-280.7125, 817.9343, 120.6072]" rotation="[0.0, 0.0, 0.0]" scale="[50.0, 50.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_ON_FOOT" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_0">
+            <config position="[-279.39, 816.868, 121.728]" rotation="[0.0, 0.0, 97.4426]" scale="[40.0, 25.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[-279.222, 812.084, 122.799]" rotation="[0.0, 0.0, 10.0]" scale="[8.0, 3.0, 3.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_2">
+            <config position="[-283.1, 832.664, 121.035]" rotation="[0.0, 0.0, -39.0]" scale="[10.0, 7.0, 5.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_3">
+            <config position="[-280.551, 820.053, 119.306]" rotation="[0.0, 0.0, 10.0]" scale="[20.0, 15.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_4">
+            <config position="[-275.865, 805.629, 119.306]" rotation="[0.0, 0.0, 10.0]" scale="[17.0, 17.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="TRESPASS" role="TRESPASS">
+            <config position="[-277.445, 819.127, 121.568]" rotation="[0.0, 0.0, 18.0]" scale="[9.0, 14.0, 10.0]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ALL_OBJECTIVES_ESCORTED" role="ALL_OBJECTIVES_EVER_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK" UNK_F5D3F1EC="PROP" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-274.1968, 821.4102, 118.2589]" UNK_100B5E15="[0.0, 0.0, 109.9973]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK" UNK_F5D3F1EC="PROP" UNK_7C35C06D="2" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-277.3409, 824.0908, 118.2107]" UNK_100B5E15="[0.0, 0.0, -40.8529]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_03X" UNK_F5D3F1EC="PROP" UNK_7C35C06D="3" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-280.4248, 816.1564, 118.3319]" UNK_100B5E15="[0.0, 0.0, -74.8937]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_04X" UNK_F5D3F1EC="PROP" UNK_7C35C06D="4" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-273.843, 814.0718, 118.3078]" UNK_100B5E15="[0.0, 0.0, -71.3528]" />
+        </objectives>
+        <guards>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_CLIPBOARD" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="56.8" spawn_position="[-279.6964, 824.3052, 118.3964]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_BACK_WALL_NO_PROPS" UNK_CA822909="VOL_GUARD_3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-269.8434, 808.7173, 118.3347]" UNK_B59BB1D4="5" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_1" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-278.358, 813.1172, 121.5546]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STARE_STOIC" UNK_CA822909="VOL_GUARD_3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-279.6765, 817.8708, 118.2817]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_CROUCH_INSPECT" UNK_CA822909="VOL_GUARD_3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-274.4124, 819.0072, 118.1329]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="72.0" spawn_position="[-285.5213, 833.5168, 119.0732]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_4" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="179.2" spawn_position="[-277.6734, 799.2189, 118.3347]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_4" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="179.2" spawn_position="[-281.9821, 801.3986, 118.3845]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_4" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="179.2" spawn_position="[-280.3417, 805.0105, 118.3987]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_STERNGUY_IDLES" UNK_CA822909="VOL_GUARD_0" UNK_E691240F="action" UNK_7638799D="11000" UNK_726F3B00="6000" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-269.1581, 809.869, 118.2126]" UNK_B59BB1D4="5" UNK_7BC2D902="net_fetch_sheriffs_supplies_valentine_00" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_BADASS" UNK_CA822909="VOL_GUARD_0" UNK_7638799D="10000" UNK_726F3B00="5000" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="191.2" spawn_position="[-278.3347, 817.7224, 118.0929]" UNK_7BC2D902="net_fetch_sheriffs_supplies_valentine_01" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_PARKED_WAGON_01" spawn_position="[-275.5483, 827.7567, 118.1639]" UNK_100B5E15="[-5.5127, -1.1906, -68.8573]" />
+          <static_prop config="CRATE_CANVAS_01" spawn_position="[-281.0186, 824.9273, 118.5233]" UNK_100B5E15="[0.0, 0.0, -2.4826]" />
+          <static_prop config="AMBIENT_COFFEE_CRATES_01" spawn_position="[-273.8001, 820.2776, 118.1692]" UNK_100B5E15="[-7.7699, -1.3627, 90.9998]" />
+          <static_prop config="AMBIENT_LARGE_COVER_CRATE" spawn_position="[-280.5292, 817.8165, 118.3309]" UNK_100B5E15="[0.0, 0.0, 100.2673]" />
+          <static_prop config="TINY_TNT_CRATE" spawn_position="[-281.018, 818.4899, 119.3421]" UNK_100B5E15="[0.0, 0.0, 11.8672]" />
+          <static_prop config="COVER_BARREL_04X" spawn_position="[-273.3491, 814.8558, 118.2588]" UNK_100B5E15="[7.0513, 9.5791, 144.3619]" />
+          <static_prop config="CRATE_BRAND_03" spawn_position="[-278.027, 825.1775, 118.2843]" UNK_100B5E15="[-4.3107, 2.8159, -83.2774]" />
+          <static_prop config="AMBIENT_CRATE_CONFISCATED_01_NO_SNAP" spawn_position="[-277.9574, 825.1841, 118.7934]" UNK_100B5E15="[4.0087, 3.2317, 24.5958]" />
+          <static_prop config="AMBIENT_CRATE_GATLING_01" spawn_position="[-280.058, 825.2376, 118.4486]" UNK_100B5E15="[1.3176, 5.9547, 4.3776]" />
+          <static_prop config="COVER_BARREL_04X" spawn_position="[-272.9821, 813.8612, 118.3378]" UNK_100B5E15="[-3.5593, 1.9392, 0.0603]" />
+          <static_prop config="AMBIENT_COVERCOMB_HM_SPC" spawn_position="[-268.841, 805.181, 118.2776]" UNK_100B5E15="[-4.4982, 2.4504, -79.9037]" />
+          <static_prop config="AMBIENT_LOW_L_COVER_06" spawn_position="[-287.7056, 823.6135, 118.442]" UNK_100B5E15="[-2.6087, 4.2359, -169.8346]" />
+          <static_prop config="AMBIENT_TALL_COVER_19" spawn_position="[-281.0648, 822.0356, 118.3443]" UNK_100B5E15="[0.0, 0.0, -175.2384]" />
+          <static_prop config="AMBIENT_UTILITY_WAGON" spawn_position="[-267.1746, 801.1776, 117.9619]" UNK_100B5E15="[0.6128, -6.8669, 149.5984]" />
+        </UNK_69FD74EB>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="ALL_OBJECTIVES_ESCORTED">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_61DA6552="2">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_7C35C06D="3">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="1" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="2" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_61DA6552="2">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_7C35C06D="3">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="1" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_413A88="40000" UNK_2C628086="25000" id="CAMP_RESUPPLY_SHERIFFS_SUPPLIES_ST_DENIS" UNK_94EAAF01="true" UNK_7C1FCD5E="MODEL_CONFIG_BAYOU" UNK_C0F9D21B="MUSIC_SHERIFFS_SUPPLIES" UNK_CA597B13="false" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_SAINT_DENIS" position="[2497.369, -1315.021, 54.626]" rotation="[0.0, 0.0, 0.0]" scale="[50.0, 50.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_ON_FOOT" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_0">
+            <config position="[2497.369, -1315.021, 54.626]" rotation="[0.0, 0.0, 0.0]" scale="[60.0, 50.0, 20.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[2485.921, -1310.162, 51.535]" rotation="[0.0, 0.0, 0.0]" scale="[24.0, 20.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_2">
+            <config position="[2488.878, -1325.041, 51.535]" rotation="[0.0, 0.0, 0.0]" scale="[30.0, 15.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_3">
+            <config position="[2510.589, -1318.714, 51.535]" rotation="[0.0, 0.0, 0.0]" scale="[17.0, 28.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="TRESPASS_1">
+            <config position="[2483.684, -1316.712, 50.553]" rotation="[0.0, 0.0, 0.0]" scale="[19.0, 32.0, 7.0]" type="BOX" />
+          </volume>
+          <volume id="TRESPASS_2">
+            <config position="[2502.427, -1325.093, 50.553]" rotation="[0.0, 0.0, 0.0]" scale="[18.5, 15.0, 7.0]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ALL_OBJECTIVES_ESCORTED" role="ALL_OBJECTIVES_EVER_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_03X" UNK_F5D3F1EC="PROP" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[2479.261, -1307.671, 47.859]" UNK_100B5E15="[0.0, 0.0, 177.2]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK" UNK_F5D3F1EC="PROP" UNK_7C35C06D="2" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[2491.05, -1304.405, 47.859]" UNK_100B5E15="[0.0, 0.0, -30.6]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK" UNK_F5D3F1EC="PROP" UNK_7C35C06D="3" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[2477.226, -1318.255, 47.859]" UNK_100B5E15="[0.0, 0.0, 133.6]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_04X" UNK_F5D3F1EC="PROP" UNK_7C35C06D="4" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[2486.528, -1328.039, 47.859]" UNK_100B5E15="[0.0, 0.0, 91.6]" />
+        </objectives>
+        <guards>
+          <guard config="AMBIENT_Cart06_NOBLIP" UNK_F5D3F1EC="VEHICLE" spawn_heading="0.0" spawn_position="[2484.764, -1308.538, 47.8657]" />
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_3" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2516.604, -1320.328, 47.5552]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2511.683, -1324.299, 47.3414]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_FARMER_RAKE" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2488.911, -1327.324, 47.8678]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_COFFEE_DRINK" UNK_CA822909="VOL_GUARD_3" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2510.32, -1308.884, 47.9537]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_1" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2494.524, -1312.749, 47.9537]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2476.613, -1316.156, 47.8658]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_1" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2478.179, -1312.987, 47.8657]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_BADASS" UNK_CA822909="VOL_GUARD_1" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2485.894, -1302.241, 47.7981]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2494.213, -1318.602, 47.8658]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_1" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2492.57, -1305.352, 47.8657]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STERNGUY_IDLES" UNK_CA822909="VOL_GUARD_1" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="93.6" spawn_position="[2490.494, -1327.977, 47.9406]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_STARE_STOIC" UNK_CA822909="VOL_GUARD_2" UNK_7638799D="11000" UNK_726F3B00="6000" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2496.36, -1302.27, 47.9543]" UNK_7BC2D902="net_fetch_sheriffs_supplies_st_denis_00" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_LOW_L_COVER_09" spawn_position="[2491.927, -1315.63, 47.8842]" UNK_100B5E15="[0.0, 0.0, -86.4]" />
+          <static_prop config="AMBIENT_TALL_COVER_15" spawn_position="[2483.111, -1319.938, 47.8686]" UNK_100B5E15="[0.0, 0.0, -91.2]" />
+          <static_prop config="AMBIENT_TALL_COVER_04" spawn_position="[2487.99, -1304.074, 47.8658]" UNK_100B5E15="[0.0, 0.0, 1.2]" />
+          <static_prop config="AMBIENT_COVERCOMB_HM_SD" spawn_position="[2500.998, -1318.485, 47.7725]" UNK_100B5E15="[0.0, 0.0, -0.4]" />
+        </UNK_69FD74EB>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="ALL_OBJECTIVES_ESCORTED">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_61DA6552="2">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_7C35C06D="3">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="1" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="2" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_61DA6552="2">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_7C35C06D="3">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="1" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_413A88="40000" UNK_2C628086="25000" id="CAMP_RESUPPLY_SHERIFFS_SUPPLIES_BLACKWATER" UNK_94EAAF01="true" UNK_7C1FCD5E="MODEL_CONFIG_GREAT_PLAINS" UNK_C0F9D21B="MUSIC_SHERIFFS_SUPPLIES" UNK_CA597B13="false" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_BLACKWATER" position="[-761.491, -1265.872, 43.515]" rotation="[0.0, 0.0, 0.0]" scale="[50.0, 50.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_ON_FOOT" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_0">
+            <config position="[-758.831, -1263.125, 43.515]" rotation="[0.0, 0.0, 0.0]" scale="[40.0, 45.0, 20.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[-763.071, -1263.282, 48.232]" rotation="[0.0, 0.0, 0.0]" scale="[12.0, 10.0, 5.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_2">
+            <config position="[-763.566, -1244.718, 45.58]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 8.0, 5.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_3">
+            <config position="[-751.778, -1263.425, 44.327]" rotation="[0.0, 0.0, 0.0]" scale="[23.0, 22.0, 5.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_4">
+            <config position="[-768.103, -1262.426, 44.327]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 37.0, 5.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_5">
+            <config position="[-773.988, -1263.313, 45.881]" rotation="[0.0, 0.0, 0.0]" scale="[70.0, 70.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="TRESPASS_1">
+            <config position="[-761.771, -1266.891, 46.592]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 17.0, 10.0]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ALL_OBJECTIVES_ESCORTED" role="ALL_OBJECTIVES_EVER_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK" UNK_F5D3F1EC="PROP" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-767.1001, -1261.551, 46.4327]" UNK_100B5E15="[0.0, 0.0, 143.6]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_03X" UNK_F5D3F1EC="PROP" UNK_7C35C06D="2" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-759.7198, -1259.179, 42.578]" UNK_100B5E15="[0.0, 0.0, 62.4]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_04X" UNK_F5D3F1EC="PROP" UNK_7C35C06D="3" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-756.3737, -1272.077, 43.0223]" UNK_100B5E15="[0.0, 0.0, 136.4]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_03X" UNK_F5D3F1EC="PROP" UNK_7C35C06D="4" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-767.3865, -1274.203, 42.6404]" UNK_100B5E15="[0.0, 0.0, 58.4]" />
+        </objectives>
+        <guards>
+          <guard UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-761.8497, -1244.638, 42.5202]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_BADASS" UNK_CA822909="VOL_GUARD_3" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="41.1" spawn_position="[-763.2442, -1260.328, 42.518]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_1" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-757.5905, -1263.416, 43.8466]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_TABLE_SHARPEN_KNIFE" UNK_CA822909="VOL_GUARD_1" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-766.212, -1262.659, 46.4398]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-754.056, -1268.444, 43.0412]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-763.2921, -1258.599, 42.5348]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_4" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-767.1622, -1276.131, 42.6312]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_3" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-757.7121, -1267.128, 43.0413]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_4" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-764.5905, -1271.733, 43.0413]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-760.819, -1268.778, 43.0736]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_DRINK_FLASK" UNK_CA822909="VOL_GUARD_4" UNK_7638799D="11000" UNK_726F3B00="7000" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-769.1108, -1275.462, 42.5792]" UNK_7BC2D902="net_fetch_sheriffs_supplies_blackwater_00">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard UNK_EF3AC127="true" config="GUARD_WARN_LAW_MOUNTED_SHOTGUN" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_5" UNK_7638799D="9000" UNK_726F3B00="4000" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-766.6729, -1336.733, 42.4356]" UNK_7BC2D902="net_fetch_sheriffs_supplies_blackwater_01">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_LOW_L_COVER_01" spawn_position="[-767.7127, -1261.825, 46.4652]" UNK_100B5E15="[0.0, 0.0, -92.4]" />
+          <static_prop config="AMBIENT_LOW_COVER_01" spawn_position="[-761.6155, -1258.687, 46.4511]" UNK_100B5E15="[0.0, 0.0, -179.2]" />
+          <static_prop config="AMBIENT_TALL_COVER_01" spawn_position="[-759.4446, -1244.677, 42.5814]" UNK_100B5E15="[0.0, 0.0, 20.8]" />
+          <static_prop config="AMBIENT_LOW_LINE_COVER_03" spawn_position="[-765.4016, -1247.471, 42.4782]" UNK_100B5E15="[0.0, 0.0, 179.2]" />
+          <static_prop config="AMBIENT_TALL_COVER_03" spawn_position="[-754.3189, -1260.093, 42.597]" UNK_100B5E15="[0.0, 0.0, -89.2]" />
+          <static_prop config="AMBIENT_LOW_LINE_COVER_02" spawn_position="[-763.4471, -1256.913, 42.399]" UNK_100B5E15="[0.0, 0.0, 1.1999]" />
+        </UNK_69FD74EB>
+        <UNK_5D1EFC39>
+          <prop_set config="STUCK_WAGON_02" spawn_heading="49.2" spawn_position="[-758.7251, -1255.518, 42.3765]" />
+          <prop_set config="BARREL_GROUP" spawn_heading="115.2" spawn_position="[-769.9747, -1276.809, 42.5607]" />
+          <prop_set config="HORSE_ENCLOSURE_LARGE_01" spawn_heading="4.2" spawn_position="[-765.6249, -1244.561, 42.5101]" />
+        </UNK_5D1EFC39>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="ALL_OBJECTIVES_ESCORTED">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_61DA6552="2">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_7C35C06D="3">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="1" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="2" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_61DA6552="2">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_7C35C06D="3">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="1" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_413A88="40000" UNK_2C628086="25000" id="CAMP_RESUPPLY_SHERIFFS_SUPPLIES_RHODES" UNK_94EAAF01="true" UNK_7C1FCD5E="MODEL_CONFIG_SCARLETT_MEADOWS" UNK_C0F9D21B="MUSIC_SHERIFFS_SUPPLIES" UNK_CA597B13="false" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_RHODES" position="[1360.222, -1303.5, 77.61]" rotation="[0.0, 0.0, 0.0]" scale="[50.0, 50.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_ON_FOOT" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_0">
+            <config position="[1360.383, -1297.448, 79.058]" rotation="[0.0, 0.0, -21.0]" scale="[45.0, 30.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[1356.797, -1306.228, 78.821]" rotation="[0.0, 0.0, -20.0]" scale="[30.0, 11.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_2">
+            <config position="[1355.715, -1290.904, 78.821]" rotation="[0.0, 0.0, -20.0]" scale="[19.0, 18.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_3">
+            <config position="[1373.394, -1297.338, 78.821]" rotation="[0.0, 0.0, -20.0]" scale="[21.0, 18.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="TRESPASS_1">
+            <config position="[1356.59, -1293.917, 77.566]" rotation="[0.0, 0.0, -21.0]" scale="[6.0, 14.0, 5.0]" type="BOX" />
+          </volume>
+          <volume id="TRESPASS_2">
+            <config position="[1365.339, -1294.126, 77.566]" rotation="[0.0, 0.0, -21.0]" scale="[10.5, 7.5, 5.0]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ALL_OBJECTIVES_ESCORTED" role="ALL_OBJECTIVES_EVER_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_04X" UNK_F5D3F1EC="PROP" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[1354.519, -1299.452, 75.8655]" UNK_100B5E15="[83.0, 0.0, 152.2024]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK" UNK_F5D3F1EC="PROP" UNK_7C35C06D="2" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[1362.321, -1290.06, 75.9706]" UNK_100B5E15="[4.4917, 0.2603, -30.6061]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_03X" UNK_F5D3F1EC="PROP" UNK_7C35C06D="3" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[1369.591, -1294.181, 76.0043]" UNK_100B5E15="[82.0, 2.0, -30.5139]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK" UNK_F5D3F1EC="PROP" UNK_7C35C06D="4" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[1364.612, -1297.766, 75.8386]" UNK_100B5E15="[0.0928, 8.2014, -19.684]" />
+        </objectives>
+        <guards>
+          <guard config="AMBIENT_CART03" UNK_F5D3F1EC="VEHICLE" spawn_heading="165.9999" spawn_position="[1367.167, -1298.48, 75.7661]" />
+          <guard config="AMBIENT_CART03" UNK_F5D3F1EC="VEHICLE" UNK_AE5A9EEB="true" spawn_heading="0.0" spawn_position="[1363.369, -1294.262, 75.7096]" />
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_1" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="16.8" spawn_position="[1354.249, -1299.076, 75.6838]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_1" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="164.8" spawn_position="[1356.582, -1307.864, 76.7369]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_1" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="164.8" spawn_position="[1358.621, -1309.22, 76.7241]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[1359.777, -1297.304, 76.7606]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_1" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[1361.159, -1303.35, 76.768]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_TABLE_SHARPEN_KNIFE" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[1353.025, -1297.056, 75.633]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[1363.348, -1284.71, 76.158]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_BADASS" UNK_CA822909="VOL_GUARD_3" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="158.4" spawn_position="[1364.351, -1290.805, 75.9623]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_CLIPBOARD" UNK_CA822909="VOL_GUARD_3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="117.6" spawn_position="[1370.927, -1296.931, 75.7299]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[1353.379, -1287.726, 76.451]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_DRINK_FLASK" UNK_CA822909="VOL_GUARD_3" UNK_7638799D="11000" UNK_726F3B00="6000" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[1356.87, -1310.752, 75.9267]" UNK_7BC2D902="net_fetch_sheriffs_supplies_rhodes_00">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_STERNGUY_IDLES" UNK_CA822909="VOL_GUARD_2" UNK_7638799D="11000" UNK_726F3B00="6000" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="135.6" spawn_position="[1355.273, -1286.01, 76.053]" UNK_7BC2D902="net_fetch_sheriffs_supplies_rhodes_01">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_TALL_COVER_20" spawn_position="[1353.583, -1294.91, 75.6454]" UNK_100B5E15="[0.0, 0.0, -108.8]" />
+          <static_prop config="AMBIENT_TALL_COVER_17" spawn_position="[1359.8, -1293.232, 75.6847]" UNK_100B5E15="[0.0, 0.0, -21.6001]" />
+          <static_prop config="AMBIENT_LOW_L_COVER_08" spawn_position="[1371.002, -1297.848, 75.7568]" UNK_100B5E15="[0.0, 0.0, -20.0001]" />
+          <static_prop config="AMBIENT_LOW_COVER_14" spawn_position="[1358.138, -1294.4, 75.6949]" UNK_100B5E15="[0.0, 0.0, -20.0001]" />
+          <static_prop config="AMBIENT_LOW_L_COVER_03" spawn_position="[1351.957, -1306.466, 75.9048]" UNK_100B5E15="[0.0, 0.0, -108.4001]" />
+        </UNK_69FD74EB>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="ALL_OBJECTIVES_ESCORTED">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_61DA6552="2">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_7C35C06D="3">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="1" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="2" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_61DA6552="2">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_7C35C06D="3">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="1" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_413A88="40000" UNK_2C628086="25000" id="CAMP_RESUPPLY_SHERIFFS_SUPPLIES_STRAWBERRY" UNK_94EAAF01="true" UNK_7C1FCD5E="MODEL_CONFIG_BIG_VALLEY" UNK_C0F9D21B="MUSIC_SHERIFFS_SUPPLIES" UNK_CA597B13="false" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_STRAWBERRY" position="[-1812.072, -351.669, 162.513]" rotation="[0.0, 0.0, 0.0]" scale="[50.0, 50.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_ON_FOOT" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_0">
+            <config position="[-1808.08, -352.159, 162.513]" rotation="[0.0, 0.0, 0.0]" scale="[15.0, 22.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[-1809.583, -361.0, 163.094]" rotation="[0.0, 0.0, -14.0]" scale="[28.0, 16.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_2">
+            <config position="[-1805.985, -344.119, 164.094]" rotation="[0.0, 0.0, -14.0]" scale="[20.0, 23.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="TRESPASS_1">
+            <config position="[-1813.097, -354.572, 165.332]" rotation="[0.0, 0.0, -21.0]" scale="[10.0, 19.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="TRESPASS_2">
+            <config position="[-1807.226, -360.5, 165.332]" rotation="[0.0, 0.0, -57.0]" scale="[15.0, 10.0, 10.0]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ALL_OBJECTIVES_ESCORTED" role="ALL_OBJECTIVES_EVER_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_04X" UNK_F5D3F1EC="PROP" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-1815.885, -351.323, 161.483]" UNK_100B5E15="[88.0, 1.0, -118.3]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK" UNK_F5D3F1EC="PROP" UNK_7C35C06D="2" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-1811.484, -357.927, 161.103]" UNK_100B5E15="[4.988, -5.439, -16.43]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_03X" UNK_F5D3F1EC="PROP" UNK_7C35C06D="3" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-1801.729, -364.146, 161.4378]" UNK_100B5E15="[59.5, -12.5, 64.817]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK" UNK_F5D3F1EC="PROP" UNK_7C35C06D="4" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-1806.807, -353.68, 163.14]" UNK_100B5E15="[0.0, 0.0, 89.937]" />
+        </objectives>
+        <guards>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_CROUCH_INSPECT" UNK_CA822909="VOL_GUARD_1" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-1815.138, -356.691, 161.09]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STARE_STOIC" UNK_CA822909="VOL_GUARD_2" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-1804.787, -349.5884, 163.1937]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-1804.227, -337.072, 166.686]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-1805.151, -348.23, 163.239]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_1" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-1800.36, -361.441, 162.527]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-1791.426, -355.375, 164.023]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_TABLE_SHARPEN_KNIFE" UNK_CA822909="VOL_GUARD_1" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-1806.076, -364.999, 161.055]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_PEE" UNK_CA822909="VOL_GUARD_1" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-1818.006, -351.216, 161.259]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_BADASS" UNK_CA822909="VOL_GUARD_1" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-1814.414, -345.423, 163.705]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_1" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-1812.739, -352.385, 163.649]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-1808.957, -347.162, 163.655]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-1809.432, -351.827, 163.661]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_DRINK_FLASK" UNK_CA822909="VOL_GUARD_1" UNK_7638799D="11000" UNK_726F3B00="6000" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="89.6" spawn_position="[-1803.9, -364.7052, 161.0353]" UNK_7BC2D902="net_fetch_sheriffs_supplies_strawberry_01" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_STERNGUY_IDLES" UNK_CA822909="VOL_GUARD_0" UNK_7638799D="11000" UNK_726F3B00="6000" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-1806.381, -337.005, 166.695]" UNK_7BC2D902="net_fetch_sheriffs_supplies_strawberry_00" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_CART_03_NO_SNAP" spawn_position="[-1813.665, -357.8779, 160.86]" UNK_100B5E15="[-13.0, 0.0, -6.4]" />
+          <static_prop config="AMBIENT_WAGONPARKED" spawn_position="[-1802.781, -368.9527, 160.4823]" UNK_100B5E15="[-5.0933, 1.1391, -138.3494]" />
+          <static_prop config="TRAP_BARRELS_GROUP_1" spawn_position="[-1804.307, -356.4054, 163.1458]" UNK_100B5E15="[0.0, 0.0, 142.501]" />
+          <static_prop config="CART_01X" spawn_position="[-1801.014, -350.6266, 163.1391]" UNK_100B5E15="[0.0, 0.0, -19.899]" />
+          <static_prop config="AMBIENT_LOW_L_COVER_02" spawn_position="[-1799.846, -354.2003, 163.0698]" UNK_100B5E15="[-3.4355, 1.2023, -31.4629]" />
+          <static_prop config="AMBIENT_TALL_COVER_14" spawn_position="[-1802.445, -345.0917, 163.4666]" UNK_100B5E15="[-5.1988, 6.3705, -105.6661]" />
+          <static_prop config="AMBIENT_BARREL_03X" spawn_position="[-1801.385, -346.5988, 163.2947]" UNK_100B5E15="[3.292, -3.3743, 62.3576]" />
+          <static_prop config="COVER_BARREL_04X" spawn_position="[-1802.287, -347.2704, 163.257]" UNK_100B5E15="[3.2889, -3.3773, 62.4108]" />
+        </UNK_69FD74EB>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="ALL_OBJECTIVES_ESCORTED">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_61DA6552="2">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_7C35C06D="3">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="1" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="2" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_61DA6552="2">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_7C35C06D="3">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="1" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_413A88="40000" UNK_2C628086="25000" id="CAMP_RESUPPLY_SHERIFFS_SUPPLIES_ANNESBURG" UNK_94EAAF01="true" UNK_7C1FCD5E="MODEL_CONFIG_ROANOKE" UNK_C0F9D21B="MUSIC_SHERIFFS_SUPPLIES" UNK_CA597B13="false" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_ANNESBURG" position="[2908.901, 1311.06, 43.9262]" rotation="[0.0, 0.0, 0.0]" scale="[50.0, 50.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_ON_FOOT" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_0">
+            <config position="[2945.981, 1302.978, 45.805]" rotation="[0.0, 0.0, -20.0]" scale="[33.0, 25.0, 10.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[2911.698, 1310.12, 45.048]" rotation="[0.0, 0.0, -20.0]" scale="[8.0, 10.0, 5.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_2">
+            <config position="[2938.346, 1305.412, 46.001]" rotation="[0.0, 0.0, -20.0]" scale="[19.0, 30.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_3">
+            <config position="[2952.519, 1300.254, 46.001]" rotation="[0.0, 0.0, -20.0]" scale="[19.0, 30.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="TRESPASS">
+            <config position="[2946.859, 1304.282, 45.913]" rotation="[0.0, 0.0, -20.0]" scale="[29.0, 17.0, 10.0]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ALL_OBJECTIVES_ESCORTED" role="ALL_OBJECTIVES_EVER_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK" UNK_F5D3F1EC="PROP" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[2938.139, 1303.211, 43.474]" UNK_100B5E15="[0.0, 0.0, 65.6]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_04X" UNK_F5D3F1EC="PROP" UNK_7C35C06D="2" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[2934.795, 1306.208, 43.7467]" UNK_100B5E15="[81.0, 0.0, -173.6]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_04X" UNK_F5D3F1EC="PROP" UNK_7C35C06D="3" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[2957.996, 1298.861, 43.7407]" UNK_100B5E15="[82.0, 0.0, -174.3584]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK" UNK_F5D3F1EC="PROP" UNK_7C35C06D="4" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[2949.651, 1298.81, 43.5012]" UNK_100B5E15="[0.0, 0.0, 127.7666]" />
+        </objectives>
+        <guards>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="118.4" spawn_position="[2958.383, 1299.833, 43.4954]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_3" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2954.98, 1302.239, 43.4817]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_CLIPBOARD" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2938.724, 1308.589, 43.479]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2930.192, 1300.481, 43.5064]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_1" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2910.405, 1306.262, 43.7265]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_1" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2913.303, 1313.726, 43.5877]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2952.133, 1310.782, 43.486]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2936.498, 1307.118, 43.4788]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_READ_PAPER" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2932.482, 1302.145, 43.4796]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_STARE_STOIC" UNK_CA822909="VOL_GUARD_0" UNK_7638799D="9000" UNK_726F3B00="4000" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2952.963, 1291.797, 43.6495]" UNK_7BC2D902="net_fetch_sheriffs_supplies_annesburg_00" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_WAITING_IMPATIENT" UNK_CA822909="VOL_GUARD_0" UNK_7638799D="11000" UNK_726F3B00="6000" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2912.318, 1306.65, 43.6572]" UNK_7BC2D902="net_fetch_sheriffs_supplies_annesburg_01" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_WRITE_NOTEBOOK" UNK_CA822909="VOL_GUARD_3" UNK_7638799D="12000" UNK_726F3B00="8000" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[2945.293, 1308.021, 43.4861]" UNK_7BC2D902="net_fetch_sheriffs_supplies_annesburg_02" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="MAP_02_NO_SNAP" spawn_position="[2933.198, 1301.709, 44.2806]" UNK_100B5E15="[0.0, 0.0, -108.8]" />
+          <static_prop config="AMBIENT_COVERCOMB_S_CR" spawn_position="[2912.211, 1304.564, 43.5532]" UNK_100B5E15="[-6.4029, -1.409, -107.0455]" />
+          <static_prop config="AMBIENT_TALL_LINE_COVER_18" spawn_position="[2916.715, 1312.309, 43.1715]" UNK_100B5E15="[0.0, 0.0, -110.2861]" />
+          <static_prop config="AMBIENT_CART_03_NO_SNAP" spawn_position="[2953.176, 1304.495, 43.2365]" UNK_100B5E15="[-13.5, 0.0, 88.1139]" />
+          <static_prop config="AMBIENT_CART_03_NO_SNAP" spawn_position="[2937.039, 1309.49, 43.2399]" UNK_100B5E15="[-13.5, 0.0, 122.5139]" />
+        </UNK_69FD74EB>
+        <UNK_5D1EFC39>
+          <prop_set config="BARREL_GROUP_04" spawn_heading="53.5139" spawn_position="[2938.012, 1314.443, 43.4772]" />
+          <prop_set config="CAMPSITE_COVER_05" spawn_heading="0.0" spawn_position="[2956.898, 1304.885, 43.48]" />
+          <prop_set config="DIFFERENT_SIZED_BARRELS" spawn_heading="0.0" spawn_position="[2933.963, 1309.061, 44.5687]" />
+        </UNK_5D1EFC39>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="ALL_OBJECTIVES_ESCORTED">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_61DA6552="2">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_7C35C06D="3">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="1" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="2" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_61DA6552="2">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_7C35C06D="3">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="1" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_413A88="40000" UNK_2C628086="25000" id="CAMP_RESUPPLY_SHERIFFS_SUPPLIES_ARMADILLO" UNK_94EAAF01="true" UNK_7C1FCD5E="MODEL_CONFIG_NEW_AUSTIN" UNK_C0F9D21B="MUSIC_SHERIFFS_SUPPLIES" UNK_CA597B13="false" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_ARMADILLO" position="[-3618.917, -2603.782, -14.2158]" rotation="[0.0, 0.0, 0.0]" scale="[50.0, 50.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_ON_FOOT" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_0">
+            <config position="[-3615.984, -2606.159, -9.386]" rotation="[0.0, 0.0, 17.0]" scale="[18.0, 22.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config position="[-3616.764, -2600.134, -11.999]" rotation="[0.0, 0.0, 24.0]" scale="[29.0, 15.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_2">
+            <config position="[-3613.147, -2614.406, -11.999]" rotation="[0.0, 0.0, 24.0]" scale="[24.0, 20.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_3">
+            <config position="[-3596.8, -2613.927, -12.727]" rotation="[0.0, 0.0, 32.0]" scale="[11.0, 8.0, 5.0]" type="CYLINDER" />
+          </volume>
+          <volume id="TRESPASS">
+            <config position="[-3610.473, -2600.09, -12.676]" rotation="[0.0, 0.0, 25.0]" scale="[12.0, 11.0, 5.0]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ALL_OBJECTIVES_ESCORTED" role="ALL_OBJECTIVES_EVER_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_04X" UNK_F5D3F1EC="PROP" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-3616.8, -2599.557, -14.6068]" UNK_100B5E15="[70.5, 0.0, 113.2]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK" UNK_F5D3F1EC="PROP" UNK_7C35C06D="2" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-3604.804, -2600.95, -13.764]" UNK_100B5E15="[0.0, 0.0, -93.3457]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_03X" UNK_F5D3F1EC="PROP" UNK_7C35C06D="3" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-3611.882, -2605.7, -14.4968]" UNK_100B5E15="[84.0, 0.0, -158.2542]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK" UNK_F5D3F1EC="PROP" UNK_7C35C06D="4" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-3609.115, -2597.444, -14.7465]" UNK_100B5E15="[84.5, 0.0, -46.5754]" />
+        </objectives>
+        <guards>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="124.0" spawn_position="[-3626.559, -2600.064, -14.7452]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_1" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="124.0" spawn_position="[-3627.678, -2603.79, -14.3449]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="124.0" spawn_position="[-3625.304, -2606.655, -14.3415]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_PEE" UNK_CA822909="VOL_GUARD_0" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-3616.441, -2621.357, -14.6571]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="125.2" spawn_position="[-3621.599, -2612.936, -14.6094]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-3613.03, -2600.852, -14.8282]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_BACK_WALL_DRINKING" UNK_CA822909="VOL_GUARD_1" UNK_E691240F="drunk" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="42.0" spawn_position="[-3608.059, -2595.283, -14.9436]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_STERNGUY_IDLES" UNK_CA822909="VOL_GUARD_1" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-3611.734, -2595.74, -14.9152]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_TABLE_SHARPEN_KNIFE" UNK_CA822909="VOL_GUARD_3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-3608.321, -2605.325, -14.8127]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_1" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="64.0" spawn_position="[-3620.719, -2602.519, -14.3422]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_SMOKE_NERVOUS_STRESSED" UNK_CA822909="VOL_GUARD_0" UNK_7638799D="11000" UNK_726F3B00="6000" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="103.6" spawn_position="[-3622.712, -2606.812, -14.3425]" UNK_7BC2D902="net_fetch_sheriffs_supplies_armadillo_01" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_BADASS" UNK_CA822909="VOL_GUARD_3" UNK_E691240F="action" UNK_7638799D="11000" UNK_726F3B00="6000" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-3612.567, -2592.817, -14.9772]" UNK_7BC2D902="net_fetch_sheriffs_supplies_armadillo_00" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_TALL_U_COVER_07_NO_PLACE_ON_GROUND" spawn_position="[-3612.592, -2592.477, -15.0545]" UNK_100B5E15="[0.0, 0.0, 160.4]" />
+          <static_prop config="AMBIENT_SANDBAG_COVER_01" spawn_position="[-3608.916, -2605.631, -14.7897]" UNK_100B5E15="[0.0, 0.0, 116.0]" />
+          <static_prop config="AMBIENT_TABLE_COVER" spawn_position="[-3616.997, -2596.241, -14.858]" UNK_100B5E15="[0.0, 0.0, -169.6]" />
+          <static_prop config="AMBIENT_LOW_U_COVER_10_NO_SNAP" spawn_position="[-3610.556, -2596.401, -14.8932]" UNK_100B5E15="[0.0, 0.0, 70.4]" />
+          <static_prop config="AMBIENT_TALL_COVER_09" spawn_position="[-3615.585, -2600.936, -14.8024]" UNK_100B5E15="[0.0, 0.0, 19.6]" />
+          <static_prop config="AMBIENT_BROKEN_WAGON_03" spawn_position="[-3607.035, -2596.029, -14.9388]" UNK_100B5E15="[0.0, 0.0, 140.8]" />
+          <static_prop config="AMBIENT_SUPPLY_WAGON_BURNED01X" spawn_position="[-3604.48, -2600.976, -14.6282]" UNK_100B5E15="[0.0, 0.0, 71.1999]" />
+        </UNK_69FD74EB>
+        <UNK_5D1EFC39>
+          <prop_set config="HORSE_ENCLOSURE_LARGE_01" spawn_heading="0.0" spawn_position="[-3609.584, -2599.343, -14.884]" />
+          <prop_set config="BARREL_GROUP_04" spawn_heading="0.0" spawn_position="[-3599.989, -2616.164, -14.9048]" />
+        </UNK_5D1EFC39>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="ALL_OBJECTIVES_ESCORTED">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_61DA6552="2">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_7C35C06D="3">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="1" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="2" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_61DA6552="2">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_7C35C06D="3">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="1" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_413A88="40000" UNK_2C628086="25000" id="CAMP_RESUPPLY_SHERIFFS_SUPPLIES_TUMBLEWEED" UNK_94EAAF01="true" UNK_7C1FCD5E="MODEL_CONFIG_NEW_AUSTIN" UNK_C0F9D21B="MUSIC_SHERIFFS_SUPPLIES" UNK_CA597B13="false" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_GOTO_LAW_TUMBLEWEED" position="[-5530.198, -2927.443, -2.3212]" rotation="[0.0, 0.0, 0.0]" scale="[50.0, 50.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config id="CAMP_TURN_IN_ON_FOOT" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_0">
+            <config position="[-5537.953, -2925.951, -1.119]" rotation="[0.0, 0.0, 22.0]" scale="[25.0, 40.0, 10.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[-5514.325, -2917.124, 1.545]" rotation="[0.0, 0.0, -14.0]" scale="[9.0, 6.0, 3.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_2">
+            <config position="[-5534.562, -2933.246, -0.224]" rotation="[0.0, 0.0, 22.0]" scale="[26.0, 19.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_3">
+            <config position="[-5541.92, -2914.779, -0.224]" rotation="[0.0, 0.0, 22.0]" scale="[23.0, 19.0, 10.0]" type="BOX" />
+          </volume>
+          <volume id="TRESPASS_1">
+            <config position="[-5541.721, -2913.732, -1.995]" rotation="[0.0, 0.0, 26.0]" scale="[17.0, 15.0, 5.0]" type="BOX" />
+          </volume>
+          <volume id="TRESPASS_2">
+            <config position="[-5544.616, -2926.617, -1.995]" rotation="[0.0, 0.0, 22.0]" scale="[12.0, 6.0, 5.0]" type="BOX" />
+          </volume>
+          <volume id="TRESPASS_3">
+            <config position="[-5549.214, -2920.681, -1.995]" rotation="[0.0, 0.0, 6.0]" scale="[5.0, 18.0, 5.0]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_END_CUTSCENE_TRIGGER" UNK_E798E305="PRIMARY" role="LAST_OBJECTIVE_TURNED_IN" UNK_E5C5EAB3="TRIGGER_ONCE" />
+          <trigger id="ALL_OBJECTIVES_ESCORTED" role="ALL_OBJECTIVES_EVER_ESCORTED" />
+        </triggers>
+        <objectives>
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_04X" UNK_F5D3F1EC="PROP" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-5538.357, -2919.648, -2.5321]" UNK_100B5E15="[72.5, 0.0, 118.6252]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK" UNK_F5D3F1EC="PROP" UNK_7C35C06D="2" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-5545.764, -2915.945, -2.3868]" UNK_100B5E15="[0.0, 0.0, 82.9253]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK_03X" UNK_F5D3F1EC="PROP" UNK_7C35C06D="3" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-5538.506, -2927.119, -2.4851]" UNK_100B5E15="[65.0, 0.0, -107.8747]" />
+          <objective UNK_15BA74F5="false" UNK_D784960D="false" config="OBJECTIVE_CAMP_RESUPPLY_SACK" UNK_F5D3F1EC="PROP" UNK_7C35C06D="4" UNK_895487CA="10" UNK_15AC5CB="PRIMARY" spawn_position="[-5540.759, -2920.981, -2.624]" UNK_100B5E15="[0.0, 0.0, -159.0747]" />
+        </objectives>
+        <guards>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-5532.199, -2912.591, -3.6359]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-5535.007, -2928.025, -2.8642]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-5530.965, -2932.683, -2.9332]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_2" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-5539.063, -2944.153, -2.573]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_0" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-5524.731, -2928.642, -2.9483]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_1" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-5517.095, -2918.382, 0.615]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_RAILING_NO_PROPS" UNK_CA822909="VOL_GUARD_2" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-5536.385, -2917.0, -3.1169]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_3" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-5531.694, -2928.317, -2.3609]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REPEATER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="NEAREST" UNK_CA822909="VOL_GUARD_3" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-5531.497, -2924.668, -2.3609]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_SHOTGUN_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_DRINK_FLASK" UNK_CA822909="VOL_GUARD_3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="68.8" spawn_position="[-5528.908, -2927.938, -2.2767]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_BADASS" UNK_CA822909="VOL_GUARD_0" UNK_7638799D="11000" UNK_726F3B00="6000" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-5538.016, -2929.915, -2.8146]" UNK_7BC2D902="net_fetch_sheriffs_supplies_tumbleweed_00" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+          <guard accuracy="20" UNK_EF3AC127="true" config="GUARD_LAW_REVOLVER_WARN_NONE_TO_INACTIVE" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_WAITING_IMPATIENT" UNK_CA822909="VOL_GUARD_0" UNK_E691240F="action" UNK_7638799D="11000" UNK_726F3B00="6000" UNK_7C35C06D="3" UNK_AB87921C="VOL_GO_TO_0" spawn_heading="0.0" spawn_position="[-5530.796, -2912.95, -3.6098]" UNK_7BC2D902="net_fetch_sheriffs_supplies_tumbleweed_01" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="ALL_OBJECTIVES_ESCORTED" type="USE_SECONDARY_LINKED_VOLUME" />
+            </UNK_BC1116ED>
+          </guard>
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_WAGON_07" spawn_position="[-5538.727, -2934.698, -2.5628]" UNK_100B5E15="[0.0, 0.0, 44.0]" />
+          <static_prop config="CART_01X" spawn_position="[-5541.335, -2914.602, -2.7154]" UNK_100B5E15="[0.0, 0.0, 69.2]" />
+          <static_prop config="AMBIENT_CART_03_NO_SNAP" spawn_position="[-5541.375, -2925.916, -2.8503]" UNK_100B5E15="[-11.5, -1.5, 69.2]" />
+          <static_prop config="AMBIENT_LOW_LINE_COVER_21" spawn_position="[-5541.508, -2936.489, -2.6201]" UNK_100B5E15="[0.0, 0.0, -53.2]" />
+          <static_prop config="AMBIENT_LOW_L_COVER_02_NO_PLACE_ON_GROUND" spawn_position="[-5541.666, -2907.077, -3.4847]" UNK_100B5E15="[7.5, 3.0, 113.6]" />
+          <static_prop config="AMBIENT_LOW_COVER_02" spawn_position="[-5524.713, -2930.482, -3.0203]" UNK_100B5E15="[0.0, 0.0, 118.2199]" />
+          <static_prop config="AMBIENT_LOW_LINE_COVER_07_NO_SNAP" spawn_position="[-5547.973, -2922.481, -2.4676]" UNK_100B5E15="[2.0, 3.0, -87.3801]" />
+          <static_prop config="AMBIENT_UTILITY_WAGON" spawn_position="[-5533.718, -2938.185, -2.7495]" UNK_100B5E15="[0.0, 0.0, -108.4]" />
+        </UNK_69FD74EB>
+        <UNK_5D1EFC39>
+          <prop_set config="BARREL_GROUP" spawn_heading="21.8" spawn_position="[-5537.805, -2939.527, -2.7336]" />
+          <prop_set config="CAMPSITE_COVER_05" spawn_heading="156.8" spawn_position="[-5541.554, -2938.881, -2.5999]" />
+        </UNK_5D1EFC39>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_4C6EE98D="ALL_OBJECTIVES_ESCORTED">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_61DA6552="2">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_7C35C06D="3">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="1" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="2" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_61DA6552="2">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+          </UNK_57BFD9AF>
+          <UNK_57BFD9AF UNK_7C35C06D="3">
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_SHOTGUN_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REPEATER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_THROWER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_LAW_MOUNTED_REVOLVER_NONE_TO_INACTIVE" UNK_F5D3F1EC="PED" UNK_6AF639D0="1" UNK_E1C188B5="CHASER" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <cutscenes>
+          <cutscene id="MISSION_END" UNK_F259B128="true" UNK_E2B28D77="MISSION_END_CUTSCENE_TRIGGER" type="TRADER_RESUPPLY_DROP_OFF" />
+        </cutscenes>
+      </location>
+    </locations>
+  </data>
+</root>

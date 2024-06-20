@@ -1,0 +1,1418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data>
+    <UNK_FCAC7D18>
+      <UNK_AD305933 id="STANDARD">
+        <text id="OBJ_PROTECT" UNK_EC4B42F9="STANDARD PROTECT" />
+        <text id="CTX_OBJECTIVE_PRIMARY" UNK_EC4B42F9="FETCH_CTX_TAKE_LOOT_BAG" />
+        <text id="SHARD_TEAM_PRIMARY_INTRO" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_SHARD_DESC_PRIMARY" />
+        <text id="SHARD_TEAM_PRIMARY_PASS" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_SHARD_PRIMARY_PASS" />
+        <text id="SHARD_TEAM_PRIMARY_PASS_PLURAL" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_SHARD_PRIMARY_PASS_PLURAL" />
+        <text id="SHARD_TEAM_PRIMARY_PASS_PARTIAL" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_SHARD_PRIMARY_PASS_PARTIAL" />
+        <text id="SHARD_DESTROYED" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_SHARD_DESTROYED" />
+        <text id="SHARD_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_POSSE_ABANDONED" />
+        <text id="SHARD_YOUR_POSSE_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOUR_POSSE_ABANDONED" />
+        <text id="SHARD_YOU_ABANDONED" UNK_EC4B42F9="FETCH_SHARD_YOU_ABANDONED" />
+        <text id="SHARD_RISKY_DELIVERY_FAILED" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_SHARD_RISKY_DELIVERY_FAILED" />
+        <text id="HELP_TEAM_PRIMARY" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_HELP_INTRO" />
+        <text id="HELP_TEAM_PRIMARY_PLURAL" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_HELP_INTRO" />
+        <text id="HELP_RISKY_DELIVERY_WARNING" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_HELP_RISKY_DELIVERY" />
+        <text id="HELP_GHOST_LOCAL_PLAYER" UNK_EC4B42F9="FETCH_HELP_LOCAL_PLAYER_GHOSTED_WAGON" />
+        <text id="HELP_GHOST_LOCAL_PLAYER_PLURAL" UNK_EC4B42F9="FETCH_HELP_LOCAL_PLAYER_GHOSTED_WAGON_PLURAL" />
+        <text id="HELP_GHOST_POSSE_PLAYER" UNK_EC4B42F9="FETCH_HELP_TEAMMATE_GHOSTED_WAGON" />
+        <text id="HELP_GHOST_POSSE_PLAYER_PLURAL" UNK_EC4B42F9="FETCH_HELP_TEAMMATE_GHOSTED_WAGON_PLURAL" />
+        <text id="HELP_SWAP_REINS" UNK_EC4B42F9="FETCH_HELP_SWAP_REINS_WAGON" />
+        <text id="HELP_BAIT" UNK_EC4B42F9="FETCH_NAT_SIGHTING_HELP_COUGAR_BAIT" />
+        <text id="OBJ_ESCORT_STEAL" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_OBJ_STEAL" />
+        <text id="OBJ_ESCORT_DELIVER" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_OBJ_DELIVER" />
+        <text id="OBJ_ESCORT_DEFEND" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_OBJ_DEFEND" />
+        <text id="OBJ_WAIT_FOR_PED" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_OBJ_WAIT_NEAR_PED" />
+        <text id="OBJ_WAIT_FOR_PED" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_OBJ_WAIT_FOR_PED" />
+        <text id="OBJ_WAIT_FOR_INSPECT" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_OBJ_WAIT_FOR_INSPECT" />
+        <text id="OBJ_GO_TO_AREA" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_OBJ_GO_TO_AREA" />
+        <text id="OBJ_DISMOUNT_HORSE" UNK_EC4B42F9="FETCH_OBJ_DISMOUNT_HORSE" />
+        <text id="OBJ_DISMOUNT_VEHICLE" UNK_EC4B42F9="FETCH_OBJ_DISMOUNT_VEHICLE" />
+        <text id="OBJ_ENTER_DRIVER_SEAT" UNK_EC4B42F9="FETCH_OBJ_ENTER_DRIVER_SEAT" />
+        <text id="OBJ_GET_ON_MOUNT" UNK_EC4B42F9="FETCH_OBJ_GET_ON_MOUNT" />
+        <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_NATURALIST_POACHERS_OBJ_FIND" />
+        <text id="OBJ_DROP" UNK_EC4B42F9="FETCH_NATURALIST_POACHERS_OBJ_DROP" />
+        <text id="OBJ_PICK_UP" UNK_EC4B42F9="FETCH_NATURALIST_POACHERS_OBJ_PICK_UP" />
+        <text id="OBJ_LEAVE_AREA" UNK_EC4B42F9="FETCH_NATURALIST_POACHERS_OBJ_LEAVE_AREA" />
+        <text id="OBJ_LEAVE_AREA_POSSE" UNK_EC4B42F9="FETCH_NATURALIST_POACHERS_OBJ_LEAVE_AREA_POSSE" />
+        <text id="OBJ_FIND_PLURAL" UNK_EC4B42F9="FETCH_NATURALIST_POACHERS_OBJ_FIND_PLURAL" />
+        <text id="OBJ_UNTIE" UNK_EC4B42F9="FETCH_KIDNAPPED_BUYERS_UNTIE" />
+        <text id="OBJ_UNTIE_PLURAL" UNK_EC4B42F9="FETCH_KIDNAPPED_BUYERS_UNTIE_PLURAL" />
+        <text id="SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_YOU" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_SCORETIMER_DELIVER_PRIMARY_PASS_YOU" />
+        <text id="SCORETIMER_DELIVER_TEAM_PRIMARY_PASS" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_SCORETIMER_DELIVER_PRIMARY_PASS" />
+        <text id="SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_NP" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_SCORETIMER_DELIVER_PRIMARY_PASS_NP" />
+        <text id="SCORETIMER_DELIVER_TEAM_PRIMARY_PASS_YOUR" UNK_EC4B42F9="FETCH_MOONSHINE_SELL_SCORETIMER_DELIVER_PRIMARY_PASS_YOUR" />
+      </UNK_AD305933>
+    </UNK_FCAC7D18>
+    <locations>
+      <location id="MISSION_TESTBED_TRIGGERS" UNK_7C1FCD5E="MODEL_CONFIG_HEARTLANDS" UNK_21B34E9A="true" UNK_E603B9D2="30000" UNK_5AB5EF23="60000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DEFEND_VS_NONE" />
+        </UNK_78898F77>
+        <volumes text="" />
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+        </triggers>
+        <objectives>
+          <objective config="PLAYER_BOUNTY_AMBUSH" UNK_F5D3F1EC="ABSTRACT" />
+        </objectives>
+        <guards text="" />
+        <waves>
+          <wave UNK_617DA9B1="MISSION_LAUNCHED">
+            <UNK_A5FAE9AE config="BOUNTY_HUNTER_MOUNTED" UNK_F5D3F1EC="PED" UNK_35DDC98="true" UNK_4F7CA159="true" />
+            <UNK_A5FAE9AE config="BOUNTY_HUNTER_MOUNTED" UNK_F5D3F1EC="PED" UNK_35DDC98="true" UNK_4F7CA159="true" />
+          </wave>
+          <wave UNK_C7D895E3="1" UNK_1E05C879="0">
+            <UNK_A5FAE9AE config="BOUNTY_HUNTER_MOUNTED" UNK_F5D3F1EC="PED" UNK_35DDC98="true" UNK_4F7CA159="true" />
+            <UNK_A5FAE9AE config="BOUNTY_HUNTER_MOUNTED" UNK_F5D3F1EC="PED" UNK_35DDC98="true" UNK_4F7CA159="true" />
+            <UNK_A5FAE9AE config="BOUNTY_HUNTER_MOUNTED" UNK_F5D3F1EC="PED" UNK_35DDC98="true" UNK_4F7CA159="true" />
+          </wave>
+          <wave UNK_1E05C879="1">
+            <UNK_A5FAE9AE config="BOUNTY_HUNTER_MOUNTED" UNK_F5D3F1EC="PED" UNK_35DDC98="true" UNK_4F7CA159="true" />
+            <UNK_A5FAE9AE config="BOUNTY_HUNTER_MOUNTED" UNK_F5D3F1EC="PED" UNK_35DDC98="true" UNK_4F7CA159="true" />
+            <UNK_A5FAE9AE config="BOUNTY_HUNTER_MOUNTED" UNK_F5D3F1EC="PED" UNK_35DDC98="true" UNK_4F7CA159="true" />
+          </wave>
+        </waves>
+      </location>
+      <location id="MISSION_TESTBED_TEAMS" UNK_7C1FCD5E="MODEL_CONFIG_HEARTLANDS" UNK_5AB5EF23="60000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DEFEND_VS_ATTACK" />
+        </UNK_78898F77>
+        <objectives>
+          <objective config="OBJECTIVE_CONVOY_CARGO_WAGON_01" UNK_F5D3F1EC="VEHICLE" spawn_heading="50.0" spawn_position="[507.6711, 363.9738, 106.4587]" />
+        </objectives>
+      </location>
+      <location id="MISSION_TESTBED_VOLUME_VARIANTS" UNK_7C1FCD5E="MODEL_CONFIG_HEARTLANDS" UNK_5AB5EF23="60000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_F16CE381="ANIMAL_FOCUS_SKILL" id="VOL_CROP_0">
+            <config position="[1577.816, -1392.566, 49.68101]" rotation="[0.0, 12.63031, 4.933416]" scale="[100.0, 100.0, 27.6072]" type="BOX" UNK_78A75D9C="SKILL_NOT_UNLOCKED" />
+            <config position="[1577.816, -1392.566, 49.68101]" rotation="[0.0, 12.63031, 4.933416]" scale="[10.0, 10.0, 27.6072]" type="BOX" UNK_78A75D9C="SKILL_UNLOCKED" />
+          </volume>
+        </volumes>
+        <objectives>
+          <objective config="BURN_AREA" UNK_F5D3F1EC="ABSTRACT" UNK_E2A4987A="0" UNK_AF3C7779="PTFX" UNK_CA822909="VOL_CROP_0" />
+        </objectives>
+      </location>
+      <location id="MISSION_TESTBED_KEYS" UNK_7C1FCD5E="MODEL_CONFIG_HEARTLANDS" UNK_5AB5EF23="60000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_ATTACK" />
+        </UNK_78898F77>
+        <doors>
+          <door UNK_274C96A5="[-272.5786, 809.6409, 118.38]" id="DOOR_VAL_JAIL_CELL_02" UNK_ED55709A="false" UNK_11CE972B="true" UNK_AF9A039A="true" />
+        </doors>
+        <objectives>
+          <objective config="OBJECTIVE_KEY" UNK_F5D3F1EC="PROP" UNK_E2A4987A="0" UNK_AF3C7779="DOOR" spawn_heading="50.0" spawn_position="[-276.433, 804.1506, 119.1761]" />
+        </objectives>
+      </location>
+      <location id="MISSION_TESTBED_SECONDARY_GOALS" UNK_7C1FCD5E="MODEL_CONFIG_HEARTLANDS" UNK_5AB5EF23="60000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DEFEND_VS_ATTACK" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GUARD_0">
+            <config UNK_7FD08239="FETCH_GOTO_HEARTLANDS" position="[-516.9249, 300.7655, 47.4824]" rotation="[0.0, 0.0, 0.0]" scale="[18.2642, 18.2642, 5.0159]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="NEAR_WAGON" role="PLAYER_WITHIN_DIST_TO_OBJECTIVE_OR_AGGRO" UNK_4B061377="10.0" />
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_DAFFF024="NEAR_WAGON" id="GO_TO_AREA" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_PROTECT" UNK_EC4B42F9="SECONDARY PROTECT" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <objectives>
+          <objective config="OBJECTIVE_CONVOY_CARGO_WAGON_01" UNK_F5D3F1EC="VEHICLE" spawn_heading="50.0" spawn_position="[-525.3567, 284.4938, 44.6943]" />
+        </objectives>
+        <guards>
+          <guard config="GUARD_STATIONARY_RIFLE" UNK_F5D3F1EC="PED" spawn_heading="301.0225" spawn_position="[-513.7554, 278.7816, 43.18438]" />
+        </guards>
+      </location>
+      <location id="MISSION_TESTBED_COMPANION" UNK_7C1FCD5E="MODEL_CONFIG_HEARTLANDS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_HEARTLANDS" position="[-516.9249, 300.7655, 47.4824]" rotation="[0.0, 0.0, 0.0]" scale="[18.2642, 18.2642, 5.0159]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <objectives>
+          <objective config="OBJECTIVE_RESCUE_PRISONER_JAILBREAK" UNK_F5D3F1EC="PED" spawn_heading="50.0" spawn_position="[-270.8983, 801.55, 118.2546]" />
+        </objectives>
+      </location>
+      <location UNK_413A88="5000" UNK_2C628086="5000" id="MISSION_TESTBED_CHASERS" UNK_7C1FCD5E="MODEL_CONFIG_HEARTLANDS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_HEARTLANDS" position="[-516.9249, 300.7655, 47.4824]" rotation="[0.0, 0.0, 0.0]" scale="[18.2642, 18.2642, 5.0159]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <objectives>
+          <objective config="OBJECTIVE_REPO_BUGGY_01" UNK_F5D3F1EC="VEHICLE" spawn_heading="297.5215" spawn_position="[325.524, 220.0961, 103.439]" />
+        </objectives>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_BB512F7B="10">
+            <UNK_17F0D181 config="CHASER_BANDIT_MOUNTED_REVOLVER" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 config="CHASER_BANDIT_MOUNTED_REVOLVER" UNK_F5D3F1EC="PED" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="MISSION_TESTBED_REQUIRED_KILL_AFTER_AGGRO" UNK_7C1FCD5E="MODEL_CONFIG_HEARTLANDS" UNK_21B34E9A="true" UNK_8666AE0B="true" UNK_5AB5EF23="60000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes text="" />
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+        </triggers>
+        <objectives>
+          <objective config="OBJECTIVE_CONVOY_CARGO_WAGON_01" UNK_F5D3F1EC="VEHICLE" spawn_heading="50.0" spawn_position="[-585.2374, -389.1137, 77.56028]" />
+        </objectives>
+        <guards>
+          <guard config="GUARD_BANDIT_PISTOL_FRIENDLY_TO_SECONDARY" UNK_F5D3F1EC="PED" UNK_35DDC98="true" spawn_heading="0.0" spawn_position="[-615.361, -369.6985, 79.64365]" />
+        </guards>
+      </location>
+      <location UNK_3CBDAAAF="true" UNK_8842E882="true" id="MISSION_TESTBED_MOONSHINE_SABOTAGE" UNK_7C1FCD5E="MODEL_CONFIG_HEARTLANDS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_MISSION_LAUNCHED" role="MISSION_LAUNCHED">
+            <config UNK_7FD08239="FETCH_GOTO_BRAITHWAITE" position="[979.797, -2024.102, 49.794]" rotation="[0.0, 0.0, 0.0]" scale="[22.767, 28.275, 9.056]" type="BOX" />
+          </volume>
+          <volume id="VOL_SHOULD_GO_AGGRO" role="SHOULD_GO_AGGRO">
+            <config UNK_7FD08239="FETCH_GOTO_BRAITHWAITE" position="[979.797, -2024.102, 49.794]" rotation="[0.0, 0.0, 0.0]" scale="[22.767, 28.275, 9.056]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+          <trigger id="SHOULD_GO_AGGRO" role="SHOULD_GO_AGGRO" />
+        </triggers>
+        <objectives>
+          <objective config="OBJECTIVE_MOONSHINE_SUPPLIES" UNK_F5D3F1EC="PROP" spawn_heading="297.5215" spawn_position="[979.8, -2024.0, 49.8]" />
+          <objective config="OBJECTIVE_MOONSHINE_SUPPLIES" UNK_F5D3F1EC="PROP" spawn_heading="297.5215" spawn_position="[985.0, -2030.6, 48.8]" />
+          <objective config="OBJECTIVE_MOONSHINE_SUPPLIES" UNK_F5D3F1EC="PROP" spawn_heading="297.5215" spawn_position="[981.9, -2031.4, 53.0]" />
+        </objectives>
+        <guards>
+          <guard config="GUARD_STATIONARY_SNIPER" UNK_F5D3F1EC="PED" spawn_heading="301.0225" spawn_position="[979.6, -2032.4, 48.8]" UNK_DE8C81E0="true" />
+        </guards>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="SHOULD_GO_AGGRO" id="POISON_GOAL_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_DESTROY" UNK_EC4B42F9="FETCH_BB_LURE_OBJ_ESCORT_DELIVER" />
+              <text id="OBJ_DESTROY_PLURAL" UNK_EC4B42F9="FETCH_BB_LURE_OBJ_ESCORT_DELIVER_PLURAL" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" id="MISSION_TESTBED_LEAVE_AREA_BRAWLER" UNK_7C1FCD5E="MODEL_CONFIG_HEARTLANDS" UNK_21B34E9A="true" UNK_8666AE0B="true" UNK_5AB5EF23="60000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_LEAVE_AREA_TEST" role="LEAVE_AREA">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[2353.5, 1360.6, 106.0]" rotation="[0.0, 0.0, 0.0]" scale="[80.0, 80.0, 50.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <objectives>
+          <objective config="BRAWLER_TEAM_1" UNK_F5D3F1EC="PED" spawn_heading="50.0" spawn_position="[2353.5, 1360.6, 106.0]" />
+        </objectives>
+      </location>
+      <location UNK_D17141F6="0" id="MISSION_TESTBED_RAT_INFESTATION" UNK_B315E0F8="true" UNK_7C1FCD5E="MODEL_CONFIG_ANIMALS" UNK_C0F9D21B="MUSIC_HIDEOUT" UNK_21B34E9A="true" UNK_80B0218F="WEAPON_MELEE_HAMMER" UNK_17CC0711="false">
+        <UNK_AE702DE config="RATS" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE_NO_UI_START_ON_AGGRO" />
+        </UNK_78898F77>
+        <UNK_8E8D1D48>
+          <UNK_ADD8DEFE id="MPUNIAU" />
+        </UNK_8E8D1D48>
+        <volumes>
+          <volume UNK_AFA1A396="true" id="VOL_GO_TO_0" role="GO_TO">
+            <config UNK_7FD08239="FETCH_GOTO_SAINT_DENIS_BASTILLE" position="[2634.747, -1226.859, 70.835]" rotation="[0.0, 0.0, 0.0]" scale="[25.413, 25.413, 25.413]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_0" role="SEARCH">
+            <config UNK_7FD08239="FETCH_GOTO_SAINT_DENIS_BASTILLE" position="[2634.747, -1226.859, 70.835]" rotation="[0.0, 0.0, 0.0]" scale="[25.413, 25.413, 25.413]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1" UNK_364D67A8="true">
+            <config UNK_7FD08239="FETCH_GOTO_SAINT_DENIS_SALOON" position="[2634.531, -1226.885, 59.497]" rotation="[0.0, 0.0, 0.0]" scale="[16.0, 15.5, 4.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_2" UNK_364D67A8="true">
+            <config UNK_7FD08239="FETCH_GOTO_SAINT_DENIS_SALOON" position="[2634.571, -1227.123, 53.033]" rotation="[0.0, 0.0, 0.0]" scale="[14.5, 14.5, 3.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_3">
+            <config UNK_7FD08239="FETCH_GOTO_SAINT_DENIS_SALOON" position="[2634.409, -1226.95, 57.431]" rotation="[0.0, 0.0, 0.0]" scale="[15.5, 15.0, 14.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="NAVMESH_BLOCKER_ALL" id="VOL_BLOCKER_0">
+            <config UNK_7FD08239="FETCH_GOTO_SAINT_DENIS_SALOON" position="[2633.415, -1228.868, 52.188]" rotation="[0.0, 0.0, 89.9906]" scale="[2.75, 2.0, 5.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="NAVMESH_BLOCKER_ALL" id="VOL_BLOCKER_1">
+            <config UNK_7FD08239="FETCH_GOTO_SAINT_DENIS_SALOON" position="[2637.495, -1233.131, 53.72]" rotation="[0.0, 0.0, 0.0]" scale="[8.0, 3.0, 7.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="NAVMESH_BLOCKER_ALL" id="VOL_BLOCKER_2">
+            <config UNK_7FD08239="FETCH_GOTO_SAINT_DENIS_SALOON" position="[2628.535, -1221.062, 52.446]" rotation="[0.0, 0.0, -47.29]" scale="[2.5, 3.5, 5.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="NAVMESH_BLOCKER_ALL" id="VOL_BLOCKER_3">
+            <config UNK_7FD08239="FETCH_GOTO_SAINT_DENIS_SALOON" position="[2637.987, -1231.727, 59.147]" rotation="[0.0, 0.0, 0.0]" scale="[7.5, 5.25, 3.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="NAVMESH_BLOCKER_ALL" id="VOL_BLOCKER_4">
+            <config UNK_7FD08239="FETCH_GOTO_SAINT_DENIS_SALOON" position="[2633.239, -1219.792, 59.297]" rotation="[0.0, 0.0, 89.707]" scale="[2.0, 2.75, 3.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="NAVMESH_BLOCKER_ALL" id="VOL_BLOCKER_5">
+            <config UNK_7FD08239="FETCH_GOTO_SAINT_DENIS_SALOON" position="[2636.539, -1219.809, 59.297]" rotation="[0.0, 0.0, 89.707]" scale="[2.0, 2.75, 3.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="NAVMESH_BLOCKER_ALL" id="VOL_BLOCKER_6">
+            <config UNK_7FD08239="FETCH_GOTO_SAINT_DENIS_SALOON" position="[2639.646, -1219.825, 59.297]" rotation="[0.0, 0.0, 89.707]" scale="[2.0, 2.75, 3.0]" type="BOX" />
+          </volume>
+        </volumes>
+        <guards>
+          <guard UNK_FBFA9394="0" config="GUARD_ANIMAL_PEST_RAT" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_ANIMAL_SQUIRREL_EATING" UNK_CA822909="VOL_GUARD_2" UNK_35DDC98="true" UNK_247AFB9A="true" spawn_heading="0.0" spawn_position="[2630.806, -1232.036, 54.2751]" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="0" config="GUARD_ANIMAL_PEST_RAT" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_ANIMAL_SQUIRREL_EATING" UNK_CA822909="VOL_GUARD_2" UNK_35DDC98="true" UNK_247AFB9A="true" spawn_heading="0.0" spawn_position="[2633.988, -1222.843, 53.1798]" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="0" config="GUARD_ANIMAL_PEST_RAT" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_ANIMAL_SQUIRREL_EATING" UNK_CA822909="VOL_GUARD_1" UNK_35DDC98="true" UNK_247AFB9A="true" spawn_heading="0.0" spawn_position="[2629.536, -1226.247, 60.0867]" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="0" config="GUARD_ANIMAL_PEST_RAT" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_ANIMAL_SQUIRREL_EATING" UNK_CA822909="VOL_GUARD_1" UNK_35DDC98="true" UNK_247AFB9A="true" spawn_heading="0.0" spawn_position="[2632.209, -1232.894, 59.0458]" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="0" config="GUARD_ANIMAL_PEST_RAT" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_1" UNK_35DDC98="true" UNK_247AFB9A="true" spawn_heading="0.0" spawn_position="[2630.519, -1228.538, 58.5866]" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="0" config="GUARD_ANIMAL_PEST_RAT" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_1" UNK_35DDC98="true" UNK_247AFB9A="true" spawn_heading="0.0" spawn_position="[2640.702, -1220.688, 58.5865]" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="0" config="GUARD_ANIMAL_PEST_RAT" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_1" UNK_35DDC98="true" UNK_247AFB9A="true" spawn_heading="173.9986" spawn_position="[2637.363, -1226.699, 58.5866]" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="0" config="GUARD_ANIMAL_PEST_RAT" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_1" UNK_35DDC98="true" UNK_247AFB9A="true" spawn_heading="0.0" spawn_position="[2634.276, -1231.76, 58.6777]" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="0" config="GUARD_ANIMAL_PEST_RAT" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_1" UNK_35DDC98="true" UNK_247AFB9A="true" spawn_heading="173.9986" spawn_position="[2634.01, -1220.738, 58.5868]" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="0" config="GUARD_ANIMAL_PEST_RAT" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_2" UNK_35DDC98="true" UNK_247AFB9A="true" spawn_heading="100.3932" spawn_position="[2638.628, -1230.566, 52.3968]" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="0" config="GUARD_ANIMAL_PEST_RAT" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_2" UNK_35DDC98="true" UNK_247AFB9A="true" spawn_heading="100.3932" spawn_position="[2640.219, -1223.434, 52.3804]" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="0" config="GUARD_ANIMAL_PEST_RAT" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_2" UNK_35DDC98="true" UNK_247AFB9A="true" spawn_heading="55.1189" spawn_position="[2638.917, -1224.843, 53.4295]" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="0" config="GUARD_ANIMAL_PEST_RAT" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_2" UNK_35DDC98="true" UNK_247AFB9A="true" spawn_heading="55.1189" spawn_position="[2631.092, -1225.483, 52.3804]" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="0" config="GUARD_ANIMAL_PEST_RAT" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_2" UNK_35DDC98="true" UNK_247AFB9A="true" spawn_heading="46.0513" spawn_position="[2637.178, -1228.259, 52.3804]" UNK_4F2F1B6="true" />
+          <guard UNK_FBFA9394="0" config="GUARD_ANIMAL_PEST_RAT" UNK_441CA122="true" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_2" UNK_35DDC98="true" UNK_247AFB9A="true" spawn_heading="13.6322" spawn_position="[2638.212, -1223.455, 52.3804]" UNK_4F2F1B6="true" />
+        </guards>
+        <waves>
+          <wave UNK_FBFA9394="0" UNK_1A53F8C="true" UNK_1E05C879="3">
+            <UNK_A5FAE9AE config="GUARD_ANIMAL_PEST_RAT" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_2" UNK_247AFB9A="true" spawn_heading="100.3932" spawn_position="[2638.628, -1230.566, 52.3968]" />
+            <UNK_A5FAE9AE config="GUARD_ANIMAL_PEST_RAT" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_2" UNK_247AFB9A="true" spawn_heading="100.3932" spawn_position="[2640.219, -1223.434, 52.3804]" />
+            <UNK_A5FAE9AE config="GUARD_ANIMAL_PEST_RAT" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_2" UNK_247AFB9A="true" spawn_heading="55.1189" spawn_position="[2638.917, -1224.843, 53.4295]" />
+            <UNK_A5FAE9AE config="GUARD_ANIMAL_PEST_RAT" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_2" UNK_247AFB9A="true" spawn_heading="55.1189" spawn_position="[2631.092, -1225.483, 52.3804]" />
+            <UNK_A5FAE9AE config="GUARD_ANIMAL_PEST_RAT" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_2" UNK_247AFB9A="true" spawn_heading="46.0513" spawn_position="[2637.178, -1228.259, 52.3804]" />
+            <UNK_A5FAE9AE config="GUARD_ANIMAL_PEST_RAT" UNK_F5D3F1EC="PED" UNK_CA822909="VOL_GUARD_2" UNK_247AFB9A="true" spawn_heading="13.6322" spawn_position="[2638.212, -1223.455, 52.3804]" />
+          </wave>
+        </waves>
+        <UNK_50D094A6>
+          <UNK_C0DE7876 spawn_heading="90.0" spawn_position="[2639.5, -1228.9, 52.5]" />
+          <UNK_C0DE7876 spawn_heading="90.0" spawn_position="[2639.2, -1220.9, 52.5]" />
+          <UNK_C0DE7876 spawn_heading="0.0" spawn_position="[2628.4, -1228.3, 52.5]" />
+          <UNK_C0DE7876 spawn_heading="180.0" spawn_position="[2633.3, -1221.1, 58.7]" />
+          <UNK_C0DE7876 spawn_heading="0.0" spawn_position="[2639.7, -1224.4, 58.7]" />
+          <UNK_C0DE7876 spawn_heading="0.0" spawn_position="[2628.5, -1232.5, 58.7]" />
+        </UNK_50D094A6>
+      </location>
+      <location UNK_CBDE97E2="DEFAULT_STEALTH" UNK_FB8C4450="SUPRESS_TRADER_CRIMES" UNK_EBBA2E0E="true" id="MISSION_TESTBED_ROADBLOCK" UNK_94EAAF01="true" UNK_B315E0F8="true" UNK_7C1FCD5E="MODEL_CONFIG_SAINT_DENIS" UNK_C0F9D21B="MUSIC_SELL_GOODS" UNK_E7FF8E2A="true" UNK_9BA8C03C="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" UNK_90012BFF="250" UNK_D731E139="true" UNK_5AB5EF23="600000" UNK_17CC0711="false">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_DEFEND_LAST_OBJECTIVE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_SAINT_DENIS_SALOON" position="[2616.522, -1222.427, 52.31897]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_PREVENT_AMBIENT_PEDS">
+            <config position="[2621.65, -1224.98, 53.3]" rotation="[0.0, 0.0, 0.0]" scale="[4.0, 4.0, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_0">
+            <config position="[2157.48, -957.6114, 41.63866]" rotation="[0.0, 0.0, 0.0]" scale="[32.0, 32.0, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_INSPECT_AREA" role="PULL_OVER">
+            <config position="[2156.425, -957.947, 41.999]" rotation="[0.0, 0.0, 0.0]" scale="[16.0, 16.0, 7.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_CHECKPOINT_AREA" role="ENEMY_AREA_REMOVE_ON_ALERTED">
+            <config position="[2156.425, -957.947, 41.999]" rotation="[0.0, 0.0, 0.0]" scale="[25.0, 25.0, 7.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="CLEAR_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[2073.489, -1327.464, 42.014]" rotation="[0.0, 0.0, 0.0]" scale="[47.0, 47.0, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_2">
+            <config position="[2629.562, -595.7657, 42.24204]" rotation="[0.0, 0.0, 0.0]" scale="[27.0, 27.0, 30.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="WAGON_DELIVERED" UNK_E798E305="PRIMARY" role="OBJECTIVE_TURNED_IN_AND_RELATIVE_SPAWN_ENTITIES_PLACED" />
+          <trigger id="CHECKPOINT_FINISHED" role="PLAYER_INSPECTED_BY_CHECKPOINT">
+            <UNK_1331CF2C action="HIDE_VOLUME_BLIP" UNK_CA822909="VOL_CHECKPOINT_AREA" />
+          </trigger>
+          <trigger id="AGRRO_TRIGGERED" role="PLAYER_IN_VOLUME_OR_AGGRO" UNK_B71C8EA1="TIMER_START">
+            <UNK_1331CF2C action="HIDE_VOLUME_BLIP" UNK_CA822909="VOL_CHECKPOINT_AREA" />
+          </trigger>
+        </triggers>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="WAGON_DELIVERED" id="DELIVER_WAGON" UNK_E2A4987A="0" UNK_AF3C7779="OBJECTIVE" UNK_3AB9F7DF="MISSION_LAUNCHED" />
+        </UNK_75458589>
+        <objectives>
+          <objective config="OBJECTIVE_DELIVERY_MOONSHINE_RISKY" UNK_F5D3F1EC="VEHICLE" UNK_48103186="false" UNK_7C35C06D="1" UNK_84146DB9="0.1" UNK_85DC25BD="3.0" spawn_heading="152.77" spawn_position="[2121.8, -825.9, 41.9]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_0" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <guards>
+          <guard UNK_D1AEC922="false" UNK_461E4736="42.07" UNK_770101E4="[2147.6, -951.6, 42.6]" UNK_C425AC86="WORLD_HUMAN_GUARD_SCOUT" config="GUARD_RM_CHECKPOINT_REPEATER_SECONDARY" UNK_C20AF349="VOL_INSPECT_AREA" UNK_F5D3F1EC="PED" UNK_59D675B6="WORLD_HUMAN_GUARD_SCOUT_MALE_C" UNK_5129B6FC="WORLD_HUMAN_GUARD_SCOUT" UNK_75083445="false" spawn_heading="42.07" spawn_position="[2147.6, -951.6, 42.6]" UNK_B78360CD="false" UNK_6AA535E0="FLAG_DOWN_PLAYER" UNK_4F2F1B6="true" />
+          <guard UNK_D1AEC922="false" UNK_461E4736="42.07" UNK_770101E4="[2148.7, -943.8, 42.7]" UNK_C425AC86="WORLD_HUMAN_GUARD_SCOUT" config="GUARD_RM_CHECKPOINT_REPEATER_SECONDARY" UNK_C20AF349="VOL_INSPECT_AREA" UNK_F5D3F1EC="PED" UNK_59D675B6="WORLD_HUMAN_GUARD_SCOUT_MALE_C_UNEQUIPPED" UNK_5129B6FC="WORLD_HUMAN_GUARD_SCOUT" UNK_75083445="false" spawn_heading="42.07" spawn_position="[2148.7, -943.8, 42.7]" UNK_B78360CD="false" UNK_6AA535E0="FLAG_DOWN_PLAYER" />
+          <guard UNK_D1AEC922="false" UNK_461E4736="42.07" UNK_770101E4="[2167.8, -956.2, 42.6]" UNK_C425AC86="WORLD_HUMAN_GUARD_LAZY" config="REVENUE_OFFICER_CHECKPOINT_REPEATER" UNK_C20AF349="VOL_INSPECT_AREA" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_GUARD_LAZY" UNK_75083445="false" spawn_heading="42.07" spawn_position="[2167.8, -956.2, 42.6]" UNK_B78360CD="false" UNK_6AA535E0="FLAG_DOWN_PLAYER" UNK_4F2F1B6="true" />
+          <guard UNK_D1AEC922="false" UNK_461E4736="42.07" UNK_770101E4="[2163.3, -966.3, 42.6]" UNK_C425AC86="WORLD_HUMAN_GUARD_LAZY" config="REVENUE_OFFICER_CHECKPOINT_REPEATER" UNK_C20AF349="VOL_INSPECT_AREA" UNK_F5D3F1EC="PED" UNK_59D675B6="WORLD_HUMAN_GUARD_LAZY_MALE_B" UNK_5129B6FC="WORLD_HUMAN_GUARD_LAZY" UNK_75083445="false" spawn_heading="42.07" spawn_position="[2163.3, -966.3, 42.6]" UNK_B78360CD="false" UNK_6AA535E0="FLAG_DOWN_PLAYER" />
+          <guard UNK_D1AEC922="false" UNK_461E4736="42.07" UNK_770101E4="[2142.1, -963.7, 42.2]" UNK_C425AC86="WORLD_HUMAN_LEAN_BACK_WALL" config="GUARD_RM_CHECKPOINT_REVOLVER" UNK_C20AF349="VOL_INSPECT_AREA" UNK_F5D3F1EC="PED" UNK_59D675B6="WORLD_HUMAN_LEAN_BACK_WALL_MALE_A" UNK_5129B6FC="WORLD_HUMAN_LEAN_BACK_WALL" UNK_75083445="false" spawn_heading="42.07" spawn_position="[2142.1, -963.7, 42.2]" UNK_B78360CD="false" UNK_6AA535E0="FLAG_DOWN_PLAYER" />
+          <guard UNK_D1AEC922="false" UNK_461E4736="42.07" UNK_770101E4="[2156.6, -953.6, 42.6]" UNK_C425AC86="WORLD_HUMAN_LEAN_BACK_WALL" config="GUARD_RM_CHECKPOINT_REVOLVER" UNK_C20AF349="VOL_INSPECT_AREA" UNK_F5D3F1EC="PED" UNK_59D675B6="WORLD_HUMAN_LEAN_BACK_WALL_SMOKING_MALE_B" UNK_5129B6FC="WORLD_HUMAN_LEAN_BACK_WALL" UNK_75083445="false" spawn_heading="42.07" spawn_position="[2156.6, -953.6, 42.6]" UNK_B78360CD="false" UNK_6AA535E0="FLAG_DOWN_PLAYER" UNK_4F2F1B6="true" />
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_LOW_COVER_01_NO_SNAP" spawn_position="[2144.845, -950.6713, 41.5901]" UNK_100B5E15="[0.0, 0.0, 43.1988]" />
+          <static_prop config="BARRICADE_01_NO_SNAP" spawn_position="[2143.866, -949.768, 41.579]" UNK_100B5E15="[0.0, 0.0, 133.196]" />
+          <static_prop config="AMBIENT_LOW_L_COVER_01_NO_PLACE_ON_GROUND" spawn_position="[2146.406, -943.401, 41.531]" UNK_100B5E15="[0.0, 0.0, 236.513]" />
+          <static_prop config="AMBIENT_SUPPLY_WAGON_2_NO_SNAP" spawn_position="[2170.564, -959.47, 41.317]" UNK_100B5E15="[0.0, 2.16, 337.311]" />
+          <static_prop config="AMBIENT_LOW_COVER_07_NO_SNAP" spawn_position="[2165.247, -967.888, 41.75]" UNK_100B5E15="[0.0, 0.0, 58.678]" />
+          <static_prop config="AMBIENT_LOW_L_COVER_05_NO_SNAP" spawn_position="[2170.157, -949.72, 41.34]" UNK_100B5E15="[0.0, 3.24, 70.558]" />
+          <static_prop config="AMBIENT_LOW_COVER_03_NO_SNAP" spawn_position="[2170.472, -955.602, 41.505]" UNK_100B5E15="[357.83, 354.09, 288.352]" />
+          <static_prop config="AMBIENT_LOW_U_COVER_02_NO_SNAP" spawn_position="[2141.108, -964.522, 41.219]" UNK_100B5E15="[0.84, 357.03, 318.951]" />
+          <static_prop config="AMBIENT_COVER_BOX_04x_NO_SNAP" spawn_position="[2146.99, -969.254, 41.361]" UNK_100B5E15="[357.83, 1.08, 217.794]" />
+          <static_prop config="AMBIENT_BROKEN_WAGON_03_NO_SNAP" spawn_position="[2159.724, -949.789, 41.521]" UNK_100B5E15="[0.0, 355.67, 269.993]" />
+          <static_prop config="AMBIENT_BARREL_05X_NO_SNAP" spawn_position="[2159.386, -949.618, 42.718]" UNK_100B5E15="[0.0, 355.67, 269.993]" />
+          <static_prop config="AMBIENT_BARREL_04B_NO_SNAP" spawn_position="[2161.037, -949.876, 42.737]" UNK_100B5E15="[0.0, 355.67, 269.993]" />
+          <static_prop config="AMBIENT_TORCH_POST_NO_SNAP_LOCAL" spawn_position="[2168.241, -958.551, 41.67]" UNK_100B5E15="[0.0, 0.0, 236.513]" />
+          <static_prop config="AMBIENT_TORCH_POST_NO_SNAP_LOCAL" spawn_position="[2144.881, -961.153, 41.498]" UNK_100B5E15="[0.0, 0.0, 236.513]" />
+          <static_prop config="AMBIENT_LANTERN_04" spawn_position="[2146.67, -941.976, 42.563]" UNK_100B5E15="[0.0, 0.0, 236.513]" />
+          <static_prop config="AMBIENT_LOW_L_COVER_05_NO_SNAP" spawn_position="[2065.364, -1364.556, 41.633]" UNK_100B5E15="[0.0, 0.0, 291.592]" />
+          <static_prop config="AMBIENT_LOW_COVER_07_NO_SNAP" spawn_position="[2059.807, -1359.853, 41.595]" UNK_100B5E15="[0.0, 0.0, 167.035]" />
+          <static_prop config="AMBIENT_LOW_COVER_03_NO_SNAP" spawn_position="[2053.467, -1358.61, 41.808]" UNK_100B5E15="[0.0, 345.95, 172.435]" />
+          <static_prop config="AMBIENT_LOW_U_COVER_02_NO_SNAP" spawn_position="[2076.18, -1309.04, 41.814]" UNK_100B5E15="[0.0, 0.0, 235.434]" />
+          <static_prop config="AMBIENT_LOW_COVER_01_NO_SNAP" spawn_position="[2062.38, -1288.448, 41.63]" UNK_100B5E15="[0.0, 6.48, 353.51]" />
+          <static_prop config="AMBIENT_LOW_L_COVER_09_NO_SNAP" spawn_position="[2075.126, -1287.332, 41.827]" UNK_100B5E15="[4.32, 0.0, 129.956]" />
+          <static_prop config="AMBIENT_LANTERN_04" spawn_position="[2076.086, -1287.367, 42.824]" UNK_100B5E15="[0.0, 3.24, 0.0]" />
+          <static_prop config="AMBIENT_LANTERN_04" spawn_position="[2067.06, -1364.505, 42.671]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <static_prop config="AMBIENT_TORCH_POST_NO_SNAP_LOCAL" spawn_position="[2074.929, -1313.173, 41.577]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <static_prop config="AMBIENT_TORCH_POST_NO_SNAP_LOCAL" spawn_position="[2090.636, -1310.545, 41.786]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <static_prop config="AMBIENT_TORCH_POST_NO_SNAP_LOCAL" spawn_position="[2069.245, -1336.356, 41.891]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <static_prop config="AMBIENT_TORCH_POST_NO_SNAP_LOCAL" spawn_position="[2052.973, -1356.671, 41.96]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <static_prop config="AMBIENT_LOW_L_COVER_05_NO_SNAP" spawn_position="[2638.281, -588.982, 42.066]" UNK_100B5E15="[0.0, 0.0, 148.676]" />
+          <static_prop config="AMBIENT_LOW_COVER_07_NO_SNAP" spawn_position="[2629.538, -585.939, 42.038]" UNK_100B5E15="[0.0, 1.08, 148.676]" />
+          <static_prop config="AMBIENT_LOW_U_COVER_02_NO_SNAP" spawn_position="[2633.809, -600.786, 42.17]" UNK_100B5E15="[0.0, 1.08, 30.239]" />
+          <static_prop config="AMBIENT_LOW_COVER_01_NO_SNAP" spawn_position="[2619.712, -607.712, 42.058]" UNK_100B5E15="[0.0, 1.08, 168.115]" />
+          <static_prop config="AMBIENT_LOW_L_COVER_09_NO_SNAP" spawn_position="[2629.462, -611.451, 42.186]" UNK_100B5E15="[0.0, 1.08, 295.912]" />
+          <static_prop config="AMBIENT_LOW_COVER_03_NO_SNAP" spawn_position="[2615.067, -591.293, 41.973]" UNK_100B5E15="[0.0, 3.24, 240.833]" />
+          <static_prop config="AMBIENT_LANTERN_04" spawn_position="[2622.433, -604.276, 43.345]" UNK_100B5E15="[0.0, 0.93, 183.235]" />
+          <static_prop config="AMBIENT_TORCH_POST_NO_SNAP_LOCAL" spawn_position="[2631.072, -604.98, 42.222]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <static_prop config="AMBIENT_TORCH_POST_NO_SNAP_LOCAL" spawn_position="[2621.871, -587.27, 42.032]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <static_prop config="AMBIENT_LANTERN_04" spawn_position="[2638.698, -589.419, 43.196]" UNK_100B5E15="[0.0, 0.93, 183.235]" />
+        </UNK_69FD74EB>
+        <UNK_1E7FFBD4>
+          <UNK_7A4C5AD spawn_position="[2145.608, -970.617, 41.287]" UNK_FEBAD66A="1.5" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[2162.61, -947.61, 41.26]" UNK_FEBAD66A="2.0" type="CULL" />
+          <UNK_7A4C5AD spawn_position="[2076.18, -1309.04, 41.844]" UNK_FEBAD66A="2.0" type="CULL" />
+        </UNK_1E7FFBD4>
+        <UNK_5D1EFC39>
+          <prop_set config="STUCK_WAGON_02" placement_type="ALIGN_AS_ONE" spawn_heading="320.0" spawn_position="[2146.048, -953.545, 41.588]" />
+          <prop_set config="STUCK_WAGON_02" placement_type="ALIGN_AS_ONE" spawn_heading="200.0" spawn_position="[2071.256, -1365.143, 42.049]" />
+          <prop_set config="STUCK_WAGON_02" placement_type="ALIGN_AS_ONE" spawn_heading="0.0" spawn_position="[2621.966, -600.7955, 42.1252]" />
+        </UNK_5D1EFC39>
+      </location>
+      <location UNK_CBDE97E2="BOUNTY_INFILTRATION" id="MISSION_TESTBED_INFILTRATION" UNK_7C1FCD5E="MODEL_CONFIG_BIG_VALLEY" UNK_C0F9D21B="MUSIC_BOUNTY_BOARD_HIDEOUT" UNK_E603B9D2="300000" UNK_5AB5EF23="1200000" UNK_721CD717="true">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE_PRIMARY_TURN_IN_HOGTIED" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_ALIVE" role="TURN_IN">
+            <config id="BOUNTY_JAIL_TURN_IN_ALIVE" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_VEHICLE" role="TURN_IN">
+            <config id="BOUNTY_JAIL_TURN_IN_VEHICLE" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_DEAD" role="TURN_IN">
+            <config id="BOUNTY_JAIL_TURN_IN_DEAD" />
+          </volume>
+          <volume UNK_A9DF3D2="true" id="VOL_GO_TO_HIDEOUT" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[-2177.6, 671.1, 119.7]" rotation="[0.0, 0.0, 103.808]" scale="[8.0, 8.0, 8.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_DRIVE_TO_0" role="DRIVE_TO">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[-2211.301, 710.171, 123.956]" rotation="[0.0, 0.0, 103.808]" scale="[70.0, 85.0, 20.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GO_TO_0" role="SEARCH">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[-2177.6, 671.1, 119.7]" rotation="[0.0, 0.0, 103.808]" scale="[8.0, 8.0, 8.0]" type="CYLINDER" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_0">
+            <config UNK_7FD08239="FETCH_GOTO_PIKES_BASIN" position="[-2195.9, 713.6, 121.4]" rotation="[0.0, 0.0, -61.0]" scale="[86.0, 70.7, 5.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_1">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[-2178.066, 726.638, 122.959]" rotation="[0.0, 0.0, -64.0]" scale="[2.5, 3.5, 3.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_2">
+            <config UNK_7FD08239="FETCH_GOTO_PIKES_BASIN" position="[-2177.0, 717.8, 122.5]" rotation="[0.0, 0.0, -67.0]" scale="[11.9, 11.2, 10.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_3">
+            <config UNK_7FD08239="FETCH_GOTO_PIKES_BASIN" position="[-2204.3, 735.7, 122.9]" rotation="[0.0, 0.0, -60.0]" scale="[38.7, 45.1, 18.8]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_4">
+            <config UNK_7FD08239="FETCH_GOTO_PIKES_BASIN" position="[-2194.6, 699.2, 120.1]" rotation="[0.0, 0.0, -66.0]" scale="[54.9, 62.7, 5.4]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_5">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[-2195.713, 703.256, 126.377]" rotation="[0.0, 0.0, 0.0]" scale="[70.0, 70.0, 10.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_6">
+            <config UNK_7FD08239="FETCH_GOTO_HIDEOUT" position="[-1797.9, -366.2, 161.7]" rotation="[0.0, 0.0, 0.0]" scale="[30.0, 30.0, 30.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_TRESPASS" role="TRESPASS">
+            <config position="[-2203.114, 712.3334, 87.5546]" rotation="[0.0, 0.0, 111.4899]" scale="[84.2289, 82.0924, 90.7393]" type="BOX" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED">
+            <UNK_1331CF2C action="DISABLE_CHASER_WAVES" />
+            <UNK_1331CF2C action="HIDE_VOLUME_BLIP" UNK_CA822909="VOL_GO_TO_0" />
+          </trigger>
+          <trigger UNK_2A5A1C92="1" id="VEHICLE_DELIVERED" role="SPECIFIC_OBJECTIVE_IN_VOLUME" UNK_B71C8EA1="VOL_GO_TO_HIDEOUT" />
+          <trigger UNK_2A5A1C92="0" id="WAIT_AT_HIDEOUT" role="SPECIFIC_OBJECTIVE_IN_VOLUME" UNK_B71C8EA1="VOL_GO_TO_HIDEOUT" />
+          <trigger UNK_2A5A1C92="0" id="OUTSIDE_LAW_OFFICE" role="SPECIFIC_OBJECTIVE_IN_VOLUME" UNK_B71C8EA1="VOL_GUARD_6" />
+          <trigger id="TARGET_ESCORTING" role="PLAYER_ESCORTING">
+            <UNK_1331CF2C action="SHOW_PICKUP_ICONS" />
+          </trigger>
+          <trigger UNK_FBFA9394="0" id="AGGRO_HIDEOUT" role="AGGRO_GROUP_AGGRO">
+            <UNK_1331CF2C action="ENABLE_CHASER_WAVES" />
+          </trigger>
+          <trigger id="ANY_TARGET_KILLED_OR_HOGTIED" role="ANY_OBJECTIVE_KILLED_OR_HOGTIED">
+            <UNK_1331CF2C action="MOVE_MISSION_TO_ESCORTING_STAGE" />
+          </trigger>
+          <trigger id="ROADBLOCK_CLEARED_WITHOUT_AGGRO" role="ALL_LINKED_ENTITIES_DEAD_AND_NOT_AGGRO">
+            <UNK_1331CF2C action="DISABLE_ALL_WAVES" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective UNK_FBFA9394="0" UNK_15BA74F5="false" UNK_8C18419D="LEADER_PED_SKILLED" config="OBJECTIVE_BOUNTY_TARGET_PASSENGER" UNK_F5D3F1EC="PED" UNK_AFA1A396="true" UNK_5129B6FC="WORLD_HUMAN_DRINK_FLASK" UNK_E2A4987A="1" UNK_AF3C7779="OBJECTIVE" UNK_CA822909="VOL_GUARD_1" UNK_FAE88896="0" UNK_E9EDC3EB="VEHICLE_DELIVERED" spawn_heading="115.1" spawn_position="[-2191.4, 693.4, 121.4]" UNK_4F2F1B6="true">
+            <UNK_BC1116ED>
+              <UNK_A2BEB5B id="VEHICLE_DELIVERED" type="SHOW_BLIP" />
+              <UNK_A2BEB5B id="AGGRO_HIDEOUT" UNK_8D559FD7="ENEMY_TEAM_1" type="CHANGE_REL_GROUP" />
+              <UNK_A2BEB5B id="OUTSIDE_LAW_OFFICE" UNK_8D559FD7="ENEMY_TEAM_1" type="CHANGE_REL_GROUP" />
+            </UNK_BC1116ED>
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_993B6A0D="false" UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_TURN_IN_ALIVE" />
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY_IN_VEHICLE" UNK_7B8A495E="VOL_TURN_IN_VEHICLE" />
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY_DEAD" UNK_7B8A495E="VOL_TURN_IN_DEAD" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+          <objective UNK_1A624864="11" UNK_15BA74F5="false" config="OBJECTIVE_DELIVERY_COACH_DELAYED_CLEANUP" UNK_69C9A8A7="4.5" UNK_C20AF349="VOL_GO_TO_HIDEOUT" UNK_F5D3F1EC="VEHICLE" UNK_BF426D36="true" UNK_929BA9B0="true" UNK_9DAC06EF="false" spawn_heading="19.7" spawn_position="[-1703.6, 457.0, 109.3]">
+            <UNK_5FC5F40>
+              <UNK_653BA070>
+                <UNK_BBF9FF31 UNK_C8B727C5="PRIMARY" UNK_7B8A495E="VOL_GO_TO_HIDEOUT" />
+              </UNK_653BA070>
+            </UNK_5FC5F40>
+          </objective>
+        </objectives>
+        <UNK_75458589>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="VEHICLE_DELIVERED" id="STEAL_VEHICLE_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_FIND" UNK_EC4B42F9="FETCH_BOUNTY_INFILTRATION_VEH_FIND" />
+              <text id="OBJ_FIND_PLURAL" UNK_EC4B42F9="FETCH_BOUNTY_INFILTRATION_VEH_FIND_PLURAL" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="VEHICLE_DELIVERED" id="DELIVER_VEHICLE_TEXT" UNK_3AB9F7DF="MISSION_LAUNCHED">
+            <UNK_AE702DE>
+              <text id="OBJ_RETURN" UNK_EC4B42F9="FETCH_BOUNTY_INFILTRATION_VEH_RETURN" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+          <UNK_B7728790 UNK_A3946F49="false" UNK_DAFFF024="WAIT_AT_HIDEOUT" id="WAIT_TEXT" UNK_3AB9F7DF="VEHICLE_DELIVERED">
+            <UNK_AE702DE>
+              <text id="OBJ_RETURN" UNK_EC4B42F9="FETCH_BOUNTY_INFILTRATION_WAIT" />
+            </UNK_AE702DE>
+          </UNK_B7728790>
+        </UNK_75458589>
+        <guards>
+          <guard accuracy="20" UNK_FBFA9394="0" UNK_EF3AC127="true" config="BH_GUARD_BANDIT_REPEATER" UNK_F5D3F1EC="PED" UNK_5129B6FC="WORLD_HUMAN_LEAN_BACK_WALL_SMOKING" UNK_CA822909="VOL_GUARD_0" UNK_E691240F="STEALTH" UNK_57B76FDD="true" spawn_heading="0.0" spawn_position="[-2192.726, 692.585, 120.3871]" UNK_B59BB1D4="20.0" />
+        </guards>
+        <passengers>
+          <passenger accuracy="20" UNK_FBFA9394="1" UNK_2A5A1C92="1" UNK_CB06019E="OBJECTIVE" config="DRIVER_VIP_REVOLVER_ETA" UNK_94EA800F="75.0" />
+        </passengers>
+        <UNK_18F466EC>
+          <UNK_57BFD9AF UNK_55FBDEA6="true" UNK_5497B125="300.0">
+            <UNK_17F0D181 accuracy="20" config="CHASER_BANDIT_MOUNTED_SHOTGUN" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_BANDIT_MOUNTED_REPEATER" UNK_F5D3F1EC="PED" UNK_7C35C06D="3" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_BANDIT_MOUNTED_SHOTGUN" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 config="CHASER_BANDIT_MOUNTED_REVOLVER" UNK_F5D3F1EC="PED" UNK_6AF639D0="0" UNK_E1C188B5="CHASER" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_BANDIT_MOUNTED_REPEATER" UNK_F5D3F1EC="PED" />
+            <UNK_17F0D181 accuracy="20" config="CHASER_BANDIT_MOUNTED_REPEATER" UNK_F5D3F1EC="PED" UNK_7C35C06D="4" />
+          </UNK_57BFD9AF>
+        </UNK_18F466EC>
+        <doors>
+          <door id="door_han_01_props_15" UNK_ED55709A="false" UNK_11CE972B="false" UNK_AF9A039A="false" UNK_F7C1D64F="true" />
+          <door id="door_han_01_props_16" UNK_ED55709A="false" UNK_11CE972B="false" UNK_AF9A039A="false" UNK_F7C1D64F="true" />
+          <door id="DOOR_HAN_DOG_RANCH_FRONT01" UNK_ED55709A="false" UNK_11CE972B="false" UNK_AF9A039A="false" UNK_F7C1D64F="false" />
+          <door id="DOOR_HAN_01_MPBLD_01" UNK_ED55709A="false" UNK_11CE972B="false" UNK_AF9A039A="false" UNK_F7C1D64F="false" />
+          <door id="DOOR_HAN_01_PROPS_11" UNK_ED55709A="false" UNK_11CE972B="false" UNK_AF9A039A="false" UNK_F7C1D64F="false" />
+        </doors>
+        <UNK_1D77EF7D>
+          <UNK_462EF8E8 spawn_heading="52.867" spawn_position="[-2121.437, 635.0557, 119.0514]" />
+          <UNK_462EF8E8 spawn_heading="351.867" spawn_position="[-2241.516, 558.9843, 117.83]" />
+          <UNK_462EF8E8 spawn_heading="280.867" spawn_position="[-2415.387, 598.5795, 125.6378]" />
+        </UNK_1D77EF7D>
+        <UNK_69FD74EB>
+          <static_prop config="AMBIENT_LOW_LINE_COVER_10" spawn_position="[-2179.363, 702.29, 121.2565]" UNK_100B5E15="[6.6836, -1.4821, 15.2864]" />
+          <static_prop config="AMBIENT_LOW_COVER_11" spawn_position="[-2223.166, 687.0553, 120.0862]" UNK_100B5E15="[4.1919, 8.3658, -75.1077]" />
+          <static_prop config="AMBIENT_TALL_LINE_COVER_09" spawn_position="[-2249.183, 690.4517, 119.5464]" UNK_100B5E15="[-1.6737, -5.2755, 121.9212]" />
+          <static_prop config="AMBIENT_LANTERN_05" spawn_position="[-2202.267, 702.4542, 121.9506]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <static_prop config="AMBIENT_LANTERN_05" spawn_position="[-2196.942, 712.6761, 122.2851]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+        </UNK_69FD74EB>
+        <UNK_CAA33602 spawn_position="[-2196.448, 734.5197, 122.107]" />
+        <UNK_6BEE8698>
+          <UNK_C34EA4D id="AZL_MP_Hideout_Hanging_Dog_Ranch" />
+        </UNK_6BEE8698>
+      </location>
+      <location id="MISSION_TESTBED_CAGED_ANIMAL" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_D37BAD64="false" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_7CAE4BF3="CLEAR_AMBIENT_PEDS" id="VOL_GUARD_0" role="ENEMY_AREA">
+            <config position="[-309.389, 808.694, 120.381]" rotation="[0.0, 0.0, 10.0]" scale="[12.0, 21.5, 8.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[-309.389, 808.694, 120.381]" rotation="[0.0, 0.0, 10.0]" scale="[12.0, 21.5, 8.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="NAVMESH_BLOCKER_ALL_EXCLUDE_AMBIENT" id="VOL_BLOCKER_0">
+            <config position="[-307.523, 798.392, 118.752]" rotation="[0.0, 0.0, 10.0]" scale="[4.0, 2.5, 3.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="NAVMESH_BLOCKER_ALL_EXCLUDE_AMBIENT" id="VOL_BLOCKER_1">
+            <config position="[-306.619, 820.364, 118.752]" rotation="[0.0, 0.0, 10.0]" scale="[3.0, 2.0, 3.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="NAVMESH_BLOCKER_ALL_EXCLUDE_AMBIENT" id="VOL_BLOCKER_2">
+            <config position="[-315.931, 818.722, 118.752]" rotation="[0.0, 0.0, 10.0]" scale="[3.0, 2.0, 3.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="NAVMESH_BLOCKER_ALL_EXCLUDE_AMBIENT" id="VOL_BLOCKER_3">
+            <config position="[-306.846, 820.839, 122.103]" rotation="[0.0, 0.0, 10.0]" scale="[3.0, 5.0, 3.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="NAVMESH_BLOCKER_ALL_EXCLUDE_AMBIENT" id="VOL_BLOCKER_4">
+            <config position="[-316.976, 817.112, 122.103]" rotation="[0.0, 0.0, 100.0]" scale="[3.0, 5.0, 3.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="NAVMESH_BLOCKER_ALL_EXCLUDE_AMBIENT" id="VOL_BLOCKER_5">
+            <config position="[-310.118, 812.677, 119.969]" rotation="[0.0, 0.0, 10.0]" scale="[2.5, 7.0, 5.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="NAVMESH_BLOCKER_ALL_EXCLUDE_AMBIENT" id="VOL_BLOCKER_6">
+            <config position="[-310.167, 812.953, 121.0]" rotation="[0.0, 0.0, 100.0]" scale="[3.0, 7.0, 3.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_HUNTING_AREA">
+            <config position="[-89.795, 614.032, 115.806]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 20.0, 5.0]" type="BOX" />
+          </volume>
+        </volumes>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_ANIMAL_DEER_GRAZING" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_GUARD_0" UNK_895487CA="25.0" spawn_heading="90.0" spawn_position="[-160.47, 541.09, 113.73]" />
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_90BBA877="6000" UNK_ED97A989="WORLD_ANIMAL_DEER_GRAZING" UNK_E2A4987A="1" UNK_AF3C7779="GUARD" UNK_CA822909="VOL_GUARD_0" UNK_895487CA="25.0" spawn_heading="163.38" spawn_position="[-167.76, 547.84, 113.59]" UNK_73B71ADB="true" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_LATCHED" UNK_F5D3F1EC="PROP" spawn_heading="0.0" spawn_position="[-160.47, 541.09, 113.73]" />
+          <guard config="ANIMAL_CAGE_PADLOCKED_SMALL" UNK_F5D3F1EC="PROP" UNK_8238ACCE="5" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_heading="0.0" spawn_position="[-167.76, 547.84, 113.59]" UNK_EA838DDB="true" />
+          <guard config="GUARD_POACHER_HUNTER" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_STERNGUY_IDLES" UNK_FC1AA062="12" UNK_FE79F105="10" UNK_AB87921C="VOL_HUNTING_AREA" UNK_9374EF7C="true" spawn_heading="0.0" spawn_position="[-125.0, 592.9, 114.1]" />
+        </guards>
+        <UNK_69FD74EB>
+          <static_prop config="ANIMAL_CAGE_PADLOCK_ALT" spawn_position="[-167.76, 547.84, 113.59]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <static_prop config="ANIMAL_CAGE_PADLOCK_ALT" spawn_position="[-167.76, 547.84, 113.59]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <static_prop config="ANIMAL_CAGE_PADLOCK_ALT" spawn_position="[-167.76, 547.84, 113.59]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <static_prop config="ANIMAL_CAGE_PADLOCK_ALT" spawn_position="[-167.76, 547.84, 113.59]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+          <static_prop config="ANIMAL_CAGE_PADLOCK_ALT" spawn_position="[-167.76, 547.84, 113.59]" UNK_100B5E15="[0.0, 0.0, 0.0]" />
+        </UNK_69FD74EB>
+      </location>
+      <location id="MISSION_TESTBED_HERD_ANIMALS" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GUARD_0" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE">
+            <config position="[-164.47, 543.85, 113.64]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 10.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <objectives>
+          <objective config="HERD_ANIMAL_TARGET" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_ANIMAL_BUFFALO_GRAZING" spawn_heading="163.38" spawn_position="[-2335.57, 584.05, 119.82]" />
+        </objectives>
+        <guards>
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" outfit="META_ANIMAL_OUTFIT_BUFFALO_M" spawn_heading="0.0" spawn_position="[-2335.74, 581.97, 119.76]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2333.83, 583.56, 119.68]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2335.27, 586.53, 119.89]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2338.82, 585.04, 120.1]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" outfit="META_ANIMAL_OUTFIT_BUFFALO_M_000" spawn_heading="0.0" spawn_position="[-2340.42, 582.08, 120.12]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2338.19, 580.51, 119.89]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2335.28, 580.57, 119.68]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" outfit="META_ANIMAL_OUTFIT_BUFFALO_M_001" spawn_heading="0.0" spawn_position="[-2333.15, 582.36, 119.59]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2332.83, 584.86, 119.65]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2334.29, 587.08, 119.84]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2337.36, 588.71, 120.12]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" outfit="META_ANIMAL_OUTFIT_BUFFALO_M" spawn_heading="0.0" spawn_position="[-2341.87, 587.84, 120.42]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2343.26, 583.9, 120.39]" />
+        </guards>
+      </location>
+      <location id="MISSION_TESTBED_BAIT_AREA" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_D37BAD64="false" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_7CAE4BF3="CLEAR_AMBIENT_PEDS" id="VOL_GUARD_0" role="ENEMY_AREA">
+            <config position="[-309.389, 808.694, 120.381]" rotation="[0.0, 0.0, 10.0]" scale="[12.0, 21.5, 8.0]" type="BOX" />
+          </volume>
+          <volume UNK_7CAE4BF3="AVOIDANCE_AMBIENT_PEDS" id="VOL_GUARD_1">
+            <config position="[-309.389, 808.694, 120.381]" rotation="[0.0, 0.0, 10.0]" scale="[12.0, 21.5, 8.0]" type="BOX" />
+          </volume>
+          <volume id="VOL_GUARD_2">
+            <config position="[-167.76, 525.84, 113.59]" rotation="[0.0, 0.0, 10.0]" scale="[10.0, 10.0, 100.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_GUARD_3">
+            <config position="[-167.76, 525.84, 113.59]" rotation="[0.0, 0.0, 10.0]" scale="[30.0, 30.0, 100.0]" type="CYLINDER" />
+          </volume>
+          <volume id="VOL_HUNTING_AREA">
+            <config position="[-89.795, 614.032, 115.806]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 20.0, 5.0]" type="BOX" />
+          </volume>
+        </volumes>
+        <objectives>
+          <objective config="LEGENDARY_ANIMAL_BAIT_AREA" UNK_F5D3F1EC="ABSTRACT" UNK_80D7D5BE="VOL_GUARD_3" UNK_CA822909="VOL_GUARD_2" />
+        </objectives>
+        <guards>
+          <guard config="GUARD_POACHER_HUNTER" UNK_F40FF70A="true" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_STERNGUY_IDLES" UNK_B5B5379D="true" UNK_FC1AA062="12" UNK_FE79F105="10" UNK_AB87921C="VOL_HUNTING_AREA" UNK_9374EF7C="true" spawn_heading="0.0" spawn_position="[-167.76, 547.84, 113.59]" />
+          <guard config="GUARD_POACHER_HUNTER" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_STERNGUY_IDLES" UNK_B5B5379D="true" UNK_FC1AA062="12" UNK_FE79F105="10" UNK_AB87921C="VOL_HUNTING_AREA" UNK_9374EF7C="true" spawn_heading="0.0" spawn_position="[-125.0, 592.9, 114.1]" />
+          <guard config="GUARD_POACHER_HUNTER" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_HUMAN_STERNGUY_IDLES" UNK_FC1AA062="12" UNK_FE79F105="10" UNK_AB87921C="VOL_HUNTING_AREA" UNK_9374EF7C="true" spawn_heading="0.0" spawn_position="[-125.0, 582.9, 114.1]" />
+        </guards>
+      </location>
+      <location id="MISSION_TESTBED_HERD_ANIMALS" UNK_7C1FCD5E="MODEL_CONFIG_RESUPPLY_TRADER" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="ATTACK_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume id="VOL_GUARD_0" UNK_1CCE5139="0" UNK_732D401="OBJECTIVE">
+            <config position="[-164.47, 543.85, 113.64]" rotation="[0.0, 0.0, 0.0]" scale="[10.0, 10.0, 10.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <objectives>
+          <objective config="HERD_ANIMAL_TARGET" UNK_F5D3F1EC="PED" UNK_ED97A989="WORLD_ANIMAL_BUFFALO_GRAZING" spawn_heading="163.38" spawn_position="[-2335.57, 584.05, 119.82]" />
+        </objectives>
+        <guards>
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" outfit="META_ANIMAL_OUTFIT_BUFFALO_M" spawn_heading="0.0" spawn_position="[-2335.74, 581.97, 119.76]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2333.83, 583.56, 119.68]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2335.27, 586.53, 119.89]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2338.82, 585.04, 120.1]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" outfit="META_ANIMAL_OUTFIT_BUFFALO_M_000" spawn_heading="0.0" spawn_position="[-2340.42, 582.08, 120.12]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2338.19, 580.51, 119.89]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2335.28, 580.57, 119.68]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" outfit="META_ANIMAL_OUTFIT_BUFFALO_M_001" spawn_heading="0.0" spawn_position="[-2333.15, 582.36, 119.59]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2332.83, 584.86, 119.65]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2334.29, 587.08, 119.84]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2337.36, 588.71, 120.12]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" outfit="META_ANIMAL_OUTFIT_BUFFALO_M" spawn_heading="0.0" spawn_position="[-2341.87, 587.84, 120.42]" />
+          <guard config="HERD_ANIMAL_BYSTANDER" UNK_F5D3F1EC="PED" spawn_heading="0.0" spawn_position="[-2343.26, 583.9, 120.39]" />
+        </guards>
+      </location>
+      <location id="MISSION_TESTBED_CLUE_SEARCH_VOLUME" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000" UNK_E7B32F19="true">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_7CAE4BF3="CLEAR_AMBIENT_PEDS" id="VOL_SEARCH" role="SEARCH_AFTER_ENTERED">
+            <config position="[-165.47, 541.09, 113.73]" rotation="[0.0, 0.0, 10.0]" scale="[20.0, 20.0, 20.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" spawn_heading="90.0" spawn_position="[-160.47, 541.09, 113.73]" />
+        </objectives>
+        <guards>
+          <guard config="ON_THE_HUNT_CLUE_BEAR_KILL" UNK_A595AF4B="30000" UNK_F5D3F1EC="PROP" UNK_CA822909="VOL_SEARCH" spawn_heading="0.0" spawn_position="[-165.47, 541.09, 113.73]" />
+          <guard config="ON_THE_HUNT_CLUE_BEAR_KILL" UNK_A595AF4B="30000" UNK_F5D3F1EC="PROP" UNK_CA822909="VOL_SEARCH" spawn_heading="0.0" spawn_position="[-165.47, 543.09, 113.73]" />
+        </guards>
+      </location>
+      <location id="MISSION_TESTBED_CUTSCENE_TEST_LEGENDARY_ALLIGATOR" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="CUTSCENE_OVER" role="CUTSCENE_FINISHED">
+            <UNK_1331CF2C action="SHUT_DOWN_MISSION_FOR_ALL_PLAYERS" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[-160.47, 541.09, 113.73]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_PADLOCKED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_AFA1A396="true" UNK_8238ACCE="1" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_heading="48.7447" spawn_position="[-2429.69, -94.5984, 218.9899]" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_START" UNK_E2B28D77="MISSION_LAUNCHED">
+            <shots>
+              <shot anim_scene="script@mp@Naturalist@Animal_Sightings@legendary_alligator">
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[2183.4, -1062.1, 42.7]" />
+                </UNK_3AECE76F>
+                <playlists>
+                  <playlist name="PBL" />
+                </playlists>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location id="MISSION_TESTBED_CUTSCENE_TEST_LEGENDARY_BEAR" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="CUTSCENE_OVER" role="CUTSCENE_FINISHED">
+            <UNK_1331CF2C action="SHUT_DOWN_MISSION_FOR_ALL_PLAYERS" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[-160.47, 541.09, 113.73]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_PADLOCKED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_AFA1A396="true" UNK_8238ACCE="1" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_heading="48.7447" spawn_position="[-2429.69, -94.5984, 218.9899]" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_START" UNK_E2B28D77="MISSION_LAUNCHED">
+            <shots>
+              <shot anim_scene="script@mp@Naturalist@Animal_Sightings@legendary_bear">
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[-2331.6, 79.8, 219.1]" />
+                </UNK_3AECE76F>
+                <playlists>
+                  <playlist name="PBL" />
+                </playlists>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location id="MISSION_TESTBED_CUTSCENE_TEST_LEGENDARY_BEAVER" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="CUTSCENE_OVER" role="CUTSCENE_FINISHED">
+            <UNK_1331CF2C action="SHUT_DOWN_MISSION_FOR_ALL_PLAYERS" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[-160.47, 541.09, 113.73]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_PADLOCKED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_AFA1A396="true" UNK_8238ACCE="1" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_heading="48.7447" spawn_position="[-2429.69, -94.5984, 218.9899]" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_START" UNK_E2B28D77="MISSION_LAUNCHED">
+            <shots>
+              <shot anim_scene="script@mp@Naturalist@Animal_Sightings@legendary_beaver">
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[2797.9, 2329.6, 157.8]" />
+                </UNK_3AECE76F>
+                <playlists>
+                  <playlist name="PBL" />
+                </playlists>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location id="MISSION_TESTBED_CUTSCENE_TEST_LEGENDARY_BISON" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="CUTSCENE_OVER" role="CUTSCENE_FINISHED">
+            <UNK_1331CF2C action="SHUT_DOWN_MISSION_FOR_ALL_PLAYERS" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[-160.47, 541.09, 113.73]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_PADLOCKED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_AFA1A396="true" UNK_8238ACCE="1" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_heading="48.7447" spawn_position="[-2429.69, -94.5984, 218.9899]" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_START" UNK_E2B28D77="MISSION_LAUNCHED">
+            <shots>
+              <shot anim_scene="script@mp@Naturalist@Animal_Sightings@legendary_bison">
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[-2183.3, 571.2, 117.4]" />
+                </UNK_3AECE76F>
+                <playlists>
+                  <playlist name="PBL" />
+                </playlists>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location id="MISSION_TESTBED_CUTSCENE_TEST_LEGENDARY_BOAR" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="CUTSCENE_OVER" role="CUTSCENE_FINISHED">
+            <UNK_1331CF2C action="SHUT_DOWN_MISSION_FOR_ALL_PLAYERS" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[-160.47, 541.09, 113.73]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_PADLOCKED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_AFA1A396="true" UNK_8238ACCE="1" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_heading="48.7447" spawn_position="[-2429.69, -94.5984, 218.9899]" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_START" UNK_E2B28D77="MISSION_LAUNCHED">
+            <shots>
+              <shot anim_scene="script@mp@Naturalist@Animal_Sightings@legendary_boar">
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[-1757.5, -2396.4, 43.1]" />
+                </UNK_3AECE76F>
+                <playlists>
+                  <playlist name="PBL" />
+                </playlists>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location id="MISSION_TESTBED_CUTSCENE_TEST_LEGENDARY_BUCK" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="CUTSCENE_OVER" role="CUTSCENE_FINISHED">
+            <UNK_1331CF2C action="SHUT_DOWN_MISSION_FOR_ALL_PLAYERS" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[-160.47, 541.09, 113.73]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_PADLOCKED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_AFA1A396="true" UNK_8238ACCE="1" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_heading="48.7447" spawn_position="[-2429.69, -94.5984, 218.9899]" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_START" UNK_E2B28D77="MISSION_LAUNCHED">
+            <shots>
+              <shot anim_scene="script@mp@Naturalist@Animal_Sightings@legendary_buck">
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[2312.8, 2053.5, 207.7]" />
+                </UNK_3AECE76F>
+                <playlists>
+                  <playlist name="PBL" />
+                </playlists>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location id="MISSION_TESTBED_CUTSCENE_TEST_LEGENDARY_COUGAR" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="CUTSCENE_OVER" role="CUTSCENE_FINISHED">
+            <UNK_1331CF2C action="SHUT_DOWN_MISSION_FOR_ALL_PLAYERS" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[-160.47, 541.09, 113.73]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_PADLOCKED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_AFA1A396="true" UNK_8238ACCE="1" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_heading="48.7447" spawn_position="[-2429.69, -94.5984, 218.9899]" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_START" UNK_E2B28D77="MISSION_LAUNCHED">
+            <shots>
+              <shot anim_scene="script@mp@Naturalist@Animal_Sightings@legendary_cougar">
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[-5949.5, -3230.3, -13.3]" />
+                </UNK_3AECE76F>
+                <playlists>
+                  <playlist name="PBL" />
+                </playlists>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location id="MISSION_TESTBED_CUTSCENE_TEST_LEGENDARY_COYOTE" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="CUTSCENE_OVER" role="CUTSCENE_FINISHED">
+            <UNK_1331CF2C action="SHUT_DOWN_MISSION_FOR_ALL_PLAYERS" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[-160.47, 541.09, 113.73]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_PADLOCKED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_AFA1A396="true" UNK_8238ACCE="1" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_heading="48.7447" spawn_position="[-2429.69, -94.5984, 218.9899]" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_START" UNK_E2B28D77="MISSION_LAUNCHED">
+            <shots>
+              <shot anim_scene="script@mp@Naturalist@Animal_Sightings@legendary_coyote">
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[-772.6, -1298.1, 43.7]" />
+                </UNK_3AECE76F>
+                <playlists>
+                  <playlist name="PBL" />
+                </playlists>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location id="MISSION_TESTBED_CUTSCENE_TEST_LEGENDARY_ELK" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="CUTSCENE_OVER" role="CUTSCENE_FINISHED">
+            <UNK_1331CF2C action="SHUT_DOWN_MISSION_FOR_ALL_PLAYERS" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[-160.47, 541.09, 113.73]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_PADLOCKED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_AFA1A396="true" UNK_8238ACCE="1" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_heading="48.7447" spawn_position="[-2429.69, -94.5984, 218.9899]" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_START" UNK_E2B28D77="MISSION_LAUNCHED">
+            <shots>
+              <shot anim_scene="script@mp@Naturalist@Animal_Sightings@legendary_elk">
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[-1576.9, 3152.8, 480.2]" />
+                </UNK_3AECE76F>
+                <playlists>
+                  <playlist name="PBL" />
+                </playlists>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location id="MISSION_TESTBED_CUTSCENE_TEST_LEGENDARY_FOX" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="CUTSCENE_OVER" role="CUTSCENE_FINISHED">
+            <UNK_1331CF2C action="SHUT_DOWN_MISSION_FOR_ALL_PLAYERS" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[-160.47, 541.09, 113.73]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_PADLOCKED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_AFA1A396="true" UNK_8238ACCE="1" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_heading="48.7447" spawn_position="[-2429.69, -94.5984, 218.9899]" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_START" UNK_E2B28D77="MISSION_LAUNCHED">
+            <shots>
+              <shot anim_scene="script@mp@Naturalist@Animal_Sightings@legendary_fox">
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[2372.3, -1017.0, 44.0]" />
+                </UNK_3AECE76F>
+                <playlists>
+                  <playlist name="PBL" />
+                </playlists>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location id="MISSION_TESTBED_CUTSCENE_TEST_LEGENDARY_MOOSE" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="CUTSCENE_OVER" role="CUTSCENE_FINISHED">
+            <UNK_1331CF2C action="SHUT_DOWN_MISSION_FOR_ALL_PLAYERS" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[-160.47, 541.09, 113.73]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_PADLOCKED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_AFA1A396="true" UNK_8238ACCE="1" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_heading="48.7447" spawn_position="[-2429.69, -94.5984, 218.9899]" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_START" UNK_E2B28D77="MISSION_LAUNCHED">
+            <shots>
+              <shot anim_scene="script@mp@Naturalist@Animal_Sightings@legendary_moose">
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[-2088.9, -1671.0, 137.3]" />
+                </UNK_3AECE76F>
+                <playlists>
+                  <playlist name="PBL" />
+                </playlists>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location id="MISSION_TESTBED_CUTSCENE_TEST_LEGENDARY_PANTHER" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="CUTSCENE_OVER" role="CUTSCENE_FINISHED">
+            <UNK_1331CF2C action="SHUT_DOWN_MISSION_FOR_ALL_PLAYERS" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[-160.47, 541.09, 113.73]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_PADLOCKED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_AFA1A396="true" UNK_8238ACCE="1" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_heading="48.7447" spawn_position="[-2429.69, -94.5984, 218.9899]" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_START" UNK_E2B28D77="MISSION_LAUNCHED">
+            <shots>
+              <shot anim_scene="script@mp@Naturalist@Animal_Sightings@legendary_panther">
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[1163.7, -2247.8, 51.1]" />
+                </UNK_3AECE76F>
+                <playlists>
+                  <playlist name="PBL" />
+                </playlists>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location id="MISSION_TESTBED_CUTSCENE_TEST_LEGENDARY_RAM" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="CUTSCENE_OVER" role="CUTSCENE_FINISHED">
+            <UNK_1331CF2C action="SHUT_DOWN_MISSION_FOR_ALL_PLAYERS" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[-160.47, 541.09, 113.73]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_PADLOCKED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_AFA1A396="true" UNK_8238ACCE="1" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_heading="48.7447" spawn_position="[-2429.69, -94.5984, 218.9899]" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_START" UNK_E2B28D77="MISSION_LAUNCHED">
+            <shots>
+              <shot anim_scene="script@mp@Naturalist@Animal_Sightings@legendary_ram">
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[-3562.1, -3360.6, 12.6]" />
+                </UNK_3AECE76F>
+                <playlists>
+                  <playlist name="PBL" />
+                </playlists>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location id="MISSION_TESTBED_CUTSCENE_TEST_LEGENDARY_WOLF" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="0" id="CUTSCENE_OVER" role="CUTSCENE_FINISHED">
+            <UNK_1331CF2C action="SHUT_DOWN_MISSION_FOR_ALL_PLAYERS" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[-160.47, 541.09, 113.73]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_PADLOCKED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_AFA1A396="true" UNK_8238ACCE="1" UNK_E2A4987A="0" UNK_AF3C7779="STATIC_PROP" spawn_heading="48.7447" spawn_position="[-2429.69, -94.5984, 218.9899]" />
+        </guards>
+        <cutscenes>
+          <cutscene id="MISSION_START" UNK_E2B28D77="MISSION_LAUNCHED">
+            <shots>
+              <shot anim_scene="script@mp@Naturalist@Animal_Sightings@legendary_wolf">
+                <UNK_3AECE76F>
+                  <actor id="PLAYER_0" UNK_DDA8C3D3="0.0" UNK_EEFDFFA3="[39.4, 1687.9, 131.4]" />
+                </UNK_3AECE76F>
+                <playlists>
+                  <playlist name="PBL" />
+                </playlists>
+              </shot>
+            </shots>
+          </cutscene>
+        </cutscenes>
+      </location>
+      <location id="MISSION_TESTBED_CAGE_HIT_SMALL_TEST" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="1" UNK_CB06019E="GUARD" id="ANIM_ACTION" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="15.0">
+            <UNK_1331CF2C action="ANIM_SCENE_ACTION" id="ACTION_1" index="0" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[439.813, 431.518, 108.434]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_LATCHED_SMALL" UNK_F5D3F1EC="PROP" spawn_position="[439.813, 431.518, 108.434]" UNK_100B5E15="[0.0, 0.0, 324.54]" />
+          <guard config="GUARD_RM_WARN_REVOLVER" UNK_F5D3F1EC="PED" spawn_heading="238.9407" spawn_position="[435.2895, 432.3707, 108.7518]" UNK_B78360CD="false" />
+        </guards>
+        <UNK_EB3CE09F>
+          <anim_scene config="HIT_CAGE_SMALL">
+            <UNK_CA9CE014>
+              <UNK_C040F629 id="Cage" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" />
+              <UNK_C040F629 id="poacher" UNK_E2A4987A="1" UNK_AF3C7779="GUARD" />
+            </UNK_CA9CE014>
+          </anim_scene>
+        </UNK_EB3CE09F>
+      </location>
+      <location id="MISSION_TESTBED_CAGE_HIT_MEDIUM_TEST" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="1" UNK_CB06019E="GUARD" id="ANIM_ACTION" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="15.0">
+            <UNK_1331CF2C action="ANIM_SCENE_ACTION" id="ACTION_2" index="0" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[445.825, 427.817, 108.339]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_LATCHED_MEDIUM" UNK_F5D3F1EC="PROP" spawn_position="[445.825, 427.817, 108.339]" UNK_100B5E15="[0.0, 0.0, 324.54]" />
+          <guard config="GUARD_RM_WARN_REVOLVER" UNK_F5D3F1EC="PED" spawn_heading="238.9407" spawn_position="[442.5513, 428.5796, 108.3543]" UNK_B78360CD="false" />
+        </guards>
+        <UNK_EB3CE09F>
+          <anim_scene config="HIT_CAGE_MEDIUM">
+            <UNK_CA9CE014>
+              <UNK_C040F629 id="Cage" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" />
+              <UNK_C040F629 id="poacher" UNK_E2A4987A="1" UNK_AF3C7779="GUARD" />
+            </UNK_CA9CE014>
+          </anim_scene>
+        </UNK_EB3CE09F>
+      </location>
+      <location id="MISSION_TESTBED_CAGE_HIT_LARGE_TEST" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="1" UNK_CB06019E="GUARD" id="ANIM_ACTION" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="15.0">
+            <UNK_1331CF2C action="ANIM_SCENE_ACTION" id="ACTION_3" index="0" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[451.444, 423.506, 108.234]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_LATCHED_LARGE" UNK_F5D3F1EC="PROP" spawn_position="[451.444, 423.506, 108.234]" UNK_100B5E15="[0.0, 0.0, 324.54]" />
+          <guard config="GUARD_RM_WARN_REVOLVER" UNK_F5D3F1EC="PED" spawn_heading="238.9407" spawn_position="[447.8518, 424.415, 108.2453]" UNK_B78360CD="false" />
+        </guards>
+        <UNK_EB3CE09F>
+          <anim_scene config="HIT_CAGE_LARGE">
+            <UNK_CA9CE014>
+              <UNK_C040F629 id="Cage" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" />
+              <UNK_C040F629 id="poacher" UNK_E2A4987A="1" UNK_AF3C7779="GUARD" />
+            </UNK_CA9CE014>
+          </anim_scene>
+        </UNK_EB3CE09F>
+      </location>
+      <location id="MISSION_TESTBED_CAGE_HIT_XLARGE_TEST" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+          <trigger UNK_2A5A1C92="1" UNK_CB06019E="GUARD" id="ANIM_ACTION" UNK_61C44C33="true" role="PLAYER_WITHIN_DIST_TO_PED" UNK_4B061377="15.0">
+            <UNK_1331CF2C action="ANIM_SCENE_ACTION" id="ACTION_1" index="0" />
+          </trigger>
+        </triggers>
+        <objectives>
+          <objective config="CAGED_ANIMAL" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[458.569, 418.993, 108.177]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_LATCHED_XLARGE" UNK_F5D3F1EC="PROP" spawn_position="[458.569, 418.993, 108.177]" UNK_100B5E15="[0.0, 0.0, 324.54]" />
+          <guard config="GUARD_RM_WARN_REVOLVER" UNK_F5D3F1EC="PED" spawn_heading="238.9407" spawn_position="[455.2444, 420.0625, 108.1711]" UNK_B78360CD="false" />
+        </guards>
+        <UNK_EB3CE09F>
+          <anim_scene config="HIT_CAGE_XLARGE">
+            <UNK_CA9CE014>
+              <UNK_C040F629 id="Cage" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" />
+              <UNK_C040F629 id="poacher" UNK_E2A4987A="1" UNK_AF3C7779="GUARD" />
+            </UNK_CA9CE014>
+          </anim_scene>
+        </UNK_EB3CE09F>
+      </location>
+      <location id="MISSION_TESTBED_CAGE_OPEN_SMALL_TEST" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+        </triggers>
+        <objectives>
+          <objective config="LEGENDARY_BEAVER_CAGED" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[439.813, 431.518, 108.434]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_LATCHED_SMALL" UNK_F5D3F1EC="PROP" UNK_26376C22="0" spawn_position="[439.813, 431.518, 108.434]" UNK_100B5E15="[0.0, 0.0, 324.54]" />
+        </guards>
+        <UNK_EB3CE09F>
+          <anim_scene config="OPEN_CAGE_SMALL" role="PLAYER_PROP_INTERACTION" UNK_75C6AAB="CAGE">
+            <UNK_CA9CE014>
+              <UNK_C040F629 id="Cage" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" />
+            </UNK_CA9CE014>
+          </anim_scene>
+        </UNK_EB3CE09F>
+      </location>
+      <location id="MISSION_TESTBED_CAGE_OPEN_MEDIUM_TEST" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+        </triggers>
+        <objectives>
+          <objective config="LEGENDARY_BEAVER_CAGED" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[445.825, 427.817, 108.339]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_LATCHED_MEDIUM" UNK_F5D3F1EC="PROP" UNK_26376C22="0" spawn_position="[445.825, 427.817, 108.339]" UNK_100B5E15="[0.0, 0.0, 324.54]" />
+        </guards>
+        <UNK_EB3CE09F>
+          <anim_scene config="OPEN_CAGE_MEDIUM" role="PLAYER_PROP_INTERACTION" UNK_75C6AAB="CAGE">
+            <UNK_CA9CE014>
+              <UNK_C040F629 id="Cage" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" />
+            </UNK_CA9CE014>
+          </anim_scene>
+        </UNK_EB3CE09F>
+      </location>
+      <location id="MISSION_TESTBED_CAGE_OPEN_LARGE_TEST" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+        </triggers>
+        <objectives>
+          <objective config="LEGENDARY_BEAVER_CAGED" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[451.444, 423.506, 108.234]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_LATCHED_LARGE" UNK_F5D3F1EC="PROP" UNK_26376C22="0" spawn_position="[451.444, 423.506, 108.234]" UNK_100B5E15="[0.0, 0.0, 324.54]" />
+        </guards>
+        <UNK_EB3CE09F>
+          <anim_scene config="OPEN_CAGE_LARGE" role="PLAYER_PROP_INTERACTION" UNK_75C6AAB="CAGE">
+            <UNK_CA9CE014>
+              <UNK_C040F629 id="Cage" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" />
+            </UNK_CA9CE014>
+          </anim_scene>
+        </UNK_EB3CE09F>
+      </location>
+      <location id="MISSION_TESTBED_CAGE_OPEN_XLARGE_TEST" UNK_7C1FCD5E="MODEL_CONFIG_FRIENDLY_ANIMALS" UNK_5AB5EF23="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" UNK_E798E305="PRIMARY" role="MISSION_LAUNCHED" />
+        </triggers>
+        <objectives>
+          <objective config="LEGENDARY_BEAVER_CAGED" UNK_F5D3F1EC="PED" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" spawn_heading="90.0" spawn_position="[458.569, 418.993, 108.177]" />
+        </objectives>
+        <guards>
+          <guard config="ANIMAL_CAGE_LATCHED_XLARGE" UNK_F5D3F1EC="PROP" UNK_26376C22="0" spawn_position="[458.569, 418.993, 108.177]" UNK_100B5E15="[0.0, 0.0, 324.54]" />
+        </guards>
+        <UNK_EB3CE09F>
+          <anim_scene config="OPEN_CAGE_XLARGE" role="PLAYER_PROP_INTERACTION" UNK_75C6AAB="CAGE">
+            <UNK_CA9CE014>
+              <UNK_C040F629 id="Cage" UNK_E2A4987A="0" UNK_AF3C7779="GUARD" />
+            </UNK_CA9CE014>
+          </anim_scene>
+        </UNK_EB3CE09F>
+      </location>
+      <location id="MISSION_TESTBED_COACH_HOLDUP" model="MODEL_CONFIG_HEARTLANDS" UNK_21B34E9A="true" UNK_B2D756AA="9000000">
+        <UNK_AE702DE config="STANDARD" />
+        <UNK_78898F77>
+          <UNK_9BA8C03C config="DELIVER_VS_NONE" />
+        </UNK_78898F77>
+        <volumes>
+          <volume UNK_A9DF3D2="true" id="VOL_TURN_IN_0" role="TURN_IN">
+            <config UNK_7FD08239="FETCH_GOTO_OBJ_DESTINATION" position="[-3712.0, -2470.0, -14.0]" rotation="[0.0, 0.0, 103.808]" scale="[10.0, 10.0, 10.0]" type="CYLINDER" />
+          </volume>
+        </volumes>
+        <triggers>
+          <trigger id="MISSION_LAUNCHED" role="MISSION_LAUNCHED" />
+        </triggers>
+        <objectives>
+          <objective UNK_41559510="0" UNK_17B33D5="PASSENGER" config="OBJECTIVE_BAG" UNK_F5D3F1EC="PROP" spawn_position="[-3745.0, -2473.0, -13.0]" />
+        </objectives>
+        <guards>
+          <guard config="AMBIENT_STAGE_COACH2" UNK_F5D3F1EC="VEHICLE" spawn_heading="180" spawn_position="[-3740.0, -2466.0, -14.0]" />
+        </guards>
+        <passengers>
+          <passenger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="PASSENGER_VIP" UNK_F5D3F1EC="PED" />
+          <passenger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="BOUNTY_DRIVER_WARN_BANDIT_RECKLESS" UNK_94EA800F="20.0" UNK_F5D3F1EC="PED" UNK_35DDC98="true" UNK_B59BB1D4="20.0" />
+          <passenger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="PASSENGER_BOUNTY_ESCORT_REVOLVER" UNK_F5D3F1EC="PED" UNK_35DDC98="true" />
+          <passenger UNK_2A5A1C92="0" UNK_CB06019E="GUARD" config="PASSENGER_BOUNTY_ESCORT_REVOLVER" UNK_F5D3F1EC="PED" UNK_35DDC98="true" />
+        </passengers>
+      </location>
+    </locations>
+  </data>
+</root>

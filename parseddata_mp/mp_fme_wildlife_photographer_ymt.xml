@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <activity>
+    <locations>
+      <location UNK_813B03CC="Cumberland Forest + Northern Heartlands" id="CUMBERLAND_HEARTLAND">
+        <variations>
+          <variation UNK_4819D8E1="720000" id="STANDARD" />
+        </variations>
+        <volumes text="" />
+        <UNK_1F465FC1>
+          <UNK_AC9B1CBD id="0" model="A_C_BUFFALO_01" position="[1000.106, 657.828, 109.003]" UNK_83554DCD="BUFFALO" />
+          <UNK_AC9B1CBD id="1" model="A_C_BUFFALO_01" position="[969.521, 598.778, 96.604]" UNK_83554DCD="BUFFALO" />
+          <UNK_AC9B1CBD id="2" model="A_C_PRONGHORN_01" position="[104.3008, 274.8148, 114.3278]" UNK_83554DCD="PRONGHORN" />
+          <UNK_AC9B1CBD id="3" model="A_C_PRONGHORN_01" position="[261.063, 420.875, 118.435]" UNK_83554DCD="PRONGHORN" />
+          <UNK_AC9B1CBD id="4" model="A_C_HORSE_TENNESSEEWALKER_CHESTNUT" position="[484.457, 290.038, 110.255]" UNK_83554DCD="HORSE" />
+          <UNK_AC9B1CBD id="5" model="A_C_HORSE_TENNESSEEWALKER_CHESTNUT" position="[268.675, 300.072, 120.888]" UNK_83554DCD="HORSE" />
+          <UNK_AC9B1CBD id="6" model="A_C_HORSE_TENNESSEEWALKER_CHESTNUT" position="[507.931, 1509.567, 172.493]" UNK_83554DCD="HORSE" />
+          <UNK_AC9B1CBD id="7" model="A_C_HORSE_TENNESSEEWALKER_CHESTNUT" position="[886.856, 702.218, 104.255]" UNK_83554DCD="HORSE" />
+          <UNK_AC9B1CBD id="8" model="A_C_HORSE_TENNESSEEWALKER_CHESTNUT" position="[295.499, 827.892, 188.435]" UNK_83554DCD="HORSE" />
+          <UNK_AC9B1CBD id="9" model="A_C_HORSE_TENNESSEEWALKER_CHESTNUT" position="[523.814, 1097.017, 192.97]" UNK_83554DCD="HORSE" />
+          <UNK_AC9B1CBD id="10" model="A_C_DEER_01" position="[405.594, 576.205, 109.757]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="11" model="A_C_DEER_01" position="[23.015, 639.498, 121.733]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="12" model="A_C_DEER_01" position="[-31.707, 1018.732, 197.78]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="13" model="A_C_DEER_01" position="[-22.682, 1327.475, 176.099]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="14" model="A_C_DEER_01" position="[1118.911, 593.28, 87.069]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="15" model="A_C_DEER_01" position="[254.347, 166.194, 96.849]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="16" model="A_C_COYOTE_01" position="[836.08, 403.901, 118.858]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="17" model="A_C_COYOTE_01" position="[671.111, 802.093, 144.859]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="18" model="A_C_COYOTE_01" position="[570.792, 201.245, 125.324]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="19" model="A_C_COYOTE_01" position="[837.09, 604.329, 108.412]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="20" model="A_C_WOLF" position="[149.934, 820.536, 190.681]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="21" model="A_C_WOLF" position="[576.563, 1274.038, 199.589]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="22" model="A_C_WOLF" position="[847.27, 973.714, 122.728]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="23" model="A_C_WOLF" position="[686.263, 1432.067, 179.975]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="24" model="A_C_BUCK_01" position="[230.607, 686.293, 175.316]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="25" model="A_C_BUCK_01" position="[-85.84, 942.065, 194.674]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="26" model="A_C_BUCK_01" position="[76.581, 452.718, 156.695]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="27" model="A_C_BUCK_01" position="[631.72, 996.14, 185.982]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="28" model="A_C_BUCK_01" position="[880.376, 1266.402, 233.509]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="29" model="A_C_BUCK_01" position="[631.72, 996.14, 185.982]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="30" model="A_C_BUCK_01" position="[181.98, 551.615, 127.716]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="31" model="A_C_ELK_01" position="[22.37, 875.897, 210.471]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="32" model="A_C_ELK_01" position="[995.252, 1015.201, 149.997]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="33" model="A_C_ELK_01" position="[-137.149, 1171.132, 160.885]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="34" model="A_C_DEER_01" position="[402.474, 1508.318, 174.213]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="35" model="A_C_TURKEYWILD_01" position="[125.117, 1011.861, 208.398]" UNK_83554DCD="TURKEY" />
+          <UNK_AC9B1CBD id="36" model="A_C_TURKEYWILD_01" position="[367.089, 1032.644, 186.54]" UNK_83554DCD="TURKEY" />
+          <UNK_AC9B1CBD id="37" model="A_C_TURKEYWILD_01" position="[-190.241, 1071.017, 147.713]" UNK_83554DCD="TURKEY" />
+          <UNK_AC9B1CBD id="38" model="A_C_TURKEYWILD_01" position="[-20.308, 1241.234, 172.019]" UNK_83554DCD="TURKEY" />
+          <UNK_AC9B1CBD id="39" model="A_C_TURKEYWILD_01" position="[382.581, 1186.693, 176.22]" UNK_83554DCD="TURKEY" />
+          <UNK_AC9B1CBD id="40" model="A_C_RACCOON_01" position="[649.266, 555.109, 119.055]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="41" model="A_C_RACCOON_01" position="[443.541, 826.419, 145.685]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="42" model="A_C_RACCOON_01" position="[761.805, 1183.465, 143.433]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="43" model="A_C_FOX_01" position="[-180.959, 720.349, 118.567]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="44" model="A_C_FOX_01" position="[1144.157, 702.931, 89.325]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="45" model="A_C_FOX_01" position="[960.517, 378.949, 111.543]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="46" model="A_C_FOX_01" position="[917.443, 830.553, 114.32]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="47" model="A_C_FOX_01" position="[-111.1234, 486.8185, 112.1227]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="48" model="A_C_SKUNK_01" position="[-206.102, 847.973, 131.319]" UNK_83554DCD="SKUNK" />
+          <UNK_AC9B1CBD id="49" model="A_C_SKUNK_01" position="[1147.854, 850.027, 104.299]" UNK_83554DCD="SKUNK" />
+          <UNK_AC9B1CBD id="50" model="A_C_SKUNK_01" position="[267.71, 1459.782, 156.279]" UNK_83554DCD="SKUNK" />
+          <UNK_AC9B1CBD id="51" model="A_C_BIGHORNRAM_01" position="[13.537, 1154.795, 178.549]" UNK_83554DCD="RAM" />
+          <UNK_AC9B1CBD id="52" model="A_C_BIGHORNRAM_01" position="[186.051, 1414.992, 164.425]" UNK_83554DCD="RAM" />
+          <UNK_AC9B1CBD id="53" model="A_C_BIGHORNRAM_01" position="[333.013, 1390.822, 176.953]" UNK_83554DCD="RAM" />
+          <UNK_AC9B1CBD id="54" model="A_C_DOGAMERICANFOXHOUND_01" position="[450.051, 696.629, 115.487]" UNK_83554DCD="DOG" />
+          <UNK_AC9B1CBD id="55" model="A_C_DOGAMERICANFOXHOUND_01" position="[-232.033, 768.89, 116.54]" UNK_83554DCD="DOG" />
+          <UNK_AC9B1CBD id="56" model="A_C_DOGAMERICANFOXHOUND_01" position="[200.766, 980.409, 189.28]" UNK_83554DCD="DOG" />
+          <UNK_AC9B1CBD id="57" model="A_C_BEAR_01" position="[433.165, 1285.112, 188.158]" UNK_83554DCD="BEAR" />
+          <UNK_AC9B1CBD id="58" model="A_C_BEAR_01" position="[172.88, 1229.53, 187.548]" UNK_83554DCD="BEAR" />
+          <UNK_AC9B1CBD id="59" model="A_C_CHICKEN_01" position="[819.653, 855.366, 115.722]" UNK_83554DCD="CHICKEN" />
+          <UNK_AC9B1CBD id="60" model="A_C_SHEEP_01" position="[-195.767, 612.195, 112.397]" UNK_83554DCD="SHEEP" />
+          <UNK_AC9B1CBD id="61" model="A_C_GOAT_01" position="[887.645, 261.151, 116.102]" UNK_83554DCD="GOAT" />
+          <UNK_AC9B1CBD id="62" model="A_C_OX_01" position="[1089.961, 496.996, 94.358]" UNK_83554DCD="OX" />
+          <UNK_AC9B1CBD id="63" model="A_C_COW" position="[812.002, 883.358, 116.407]" UNK_83554DCD="COW" />
+        </UNK_1F465FC1>
+      </location>
+      <location UNK_813B03CC="Grizzlies East + Northern Roanoke" id="GRIZEAST_ROANOKE">
+        <variations>
+          <variation UNK_4819D8E1="720000" id="STANDARD" />
+        </variations>
+        <volumes text="" />
+        <UNK_1F465FC1>
+          <UNK_AC9B1CBD id="0" model="A_C_BEAVER_01" position="[2397.556, 718.704, 66.413]" UNK_83554DCD="BEAVER" />
+          <UNK_AC9B1CBD id="1" model="A_C_POSSUM_01" position="[1514.708, 1053.09, 178.747]" UNK_83554DCD="POSSUM" />
+          <UNK_AC9B1CBD id="2" model="A_C_PANTHER_01" position="[2495.523, 1656.401, 84.794]" UNK_83554DCD="PANTHER" />
+          <UNK_AC9B1CBD id="3" model="A_C_BADGER_01" position="[1956.361, 1876.543, 248.828]" UNK_83554DCD="BADGER" />
+          <UNK_AC9B1CBD id="4" model="A_C_BIGHORNRAM_01" position="[1877.109, 1865.406, 239.409]" UNK_83554DCD="RAM" />
+          <UNK_AC9B1CBD id="5" model="A_C_BEARBLACK_01" position="[2312.301, 914.559, 72.701]" UNK_83554DCD="BEAR" />
+          <UNK_AC9B1CBD id="6" model="A_C_BEARBLACK_01" position="[2152.448, 792.026, 156.384]" UNK_83554DCD="BEAR" />
+          <UNK_AC9B1CBD id="7" model="A_C_TURKEYWILD_01" position="[2476.646, 876.964, 73.729]" UNK_83554DCD="TURKEY" />
+          <UNK_AC9B1CBD id="8" model="A_C_TURKEYWILD_01" position="[2316.488, 690.687, 82.319]" UNK_83554DCD="TURKEY" />
+          <UNK_AC9B1CBD id="9" model="A_C_TURKEYWILD_01" position="[2349.047, 1802.243, 119.22]" UNK_83554DCD="TURKEY" />
+          <UNK_AC9B1CBD id="10" model="A_C_DEER_01" position="[2410.614, 899.24, 72.687]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="11" model="A_C_DEER_01" position="[2499.818, 997.155, 116.644]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="12" model="A_C_DEER_01" position="[1771.789, 1167.313, 216.186]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="13" model="A_C_DEER_01" position="[2376.695, 1142.219, 92.842]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="14" model="A_C_DEER_01" position="[2593.968, 1485.78, 85.399]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="15" model="A_C_DEER_01" position="[2183.902, 1752.565, 119.011]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="16" model="A_C_DEER_01" position="[2591.122, 928.217, 111.023]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="17" model="A_C_FOX_01" position="[2420.057, 849.275, 72.164]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="18" model="A_C_FOX_01" position="[2396.242, 974.257, 72.843]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="19" model="A_C_FOX_01" position="[2063.829, 823.53, 152.501]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="20" model="A_C_FOX_01" position="[1988.885, 1054.539, 150.671]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="21" model="A_C_FOX_01" position="[2132.697, 1465.46, 136.752]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="22" model="A_C_BUCK_01" position="[2380.245, 1015.296, 89.406]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="23" model="A_C_BUCK_01" position="[2197.759, 760.375, 104.558]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="24" model="A_C_BUCK_01" position="[1485.541, 943.781, 155.369]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="25" model="A_C_BUCK_01" position="[2186.171, 1178.626, 149.637]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="26" model="A_C_BUCK_01" position="[2256.231, 1329.929, 83.497]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="27" model="A_C_BUCK_01" position="[2256.231, 1329.929, 83.497]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="28" model="A_C_BUCK_01" position="[1946.225, 1770.982, 190.826]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="29" model="A_C_BUCK_01" position="[1597.556, 1534.917, 144.593]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="30" model="A_C_BUCK_01" position="[2461.51, 1517.432, 84.2]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="31" model="A_C_SKUNK_01" position="[2206.031, 893.944, 110.639]" UNK_83554DCD="SKUNK" />
+          <UNK_AC9B1CBD id="32" model="A_C_SKUNK_01" position="[1591.719, 907.643, 150.811]" UNK_83554DCD="SKUNK" />
+          <UNK_AC9B1CBD id="33" model="A_C_SKUNK_01" position="[2713.373, 1375.089, 102.533]" UNK_83554DCD="SKUNK" />
+          <UNK_AC9B1CBD id="34" model="A_C_SKUNK_01" position="[1498.968, 1238.195, 204.555]" UNK_83554DCD="SKUNK" />
+          <UNK_AC9B1CBD id="35" model="A_C_RACCOON_01" position="[2011.754, 708.891, 171.758]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="36" model="A_C_RACCOON_01" position="[1844.623, 704.787, 120.367]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="37" model="A_C_RACCOON_01" position="[2132.82, 1069.251, 120.889]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="38" model="A_C_RACCOON_01" position="[1994.659, 1187.366, 170.094]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="39" model="A_C_RACCOON_01" position="[1995.392, 1312.683, 195.788]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="40" model="A_C_ELK_01" position="[2295.989, 1033.614, 115.313]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="41" model="A_C_ELK_01" position="[1960.535, 927.852, 115.859]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="42" model="A_C_ELK_01" position="[2064.17, 1234.887, 167.6]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="43" model="A_C_ELK_01" position="[2553.649, 1197.469, 163.335]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="44" model="A_C_ELK_01" position="[2470.015, 1792.433, 84.743]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="45" model="A_C_ELK_01" position="[1674.651, 1441.098, 145.902]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="46" model="A_C_COYOTE_01" position="[2062.333, 938.75, 116.463]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="47" model="A_C_COYOTE_01" position="[1762.816, 1009.456, 127.727]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="48" model="A_C_COYOTE_01" position="[2305.311, 1119.313, 120.999]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="49" model="A_C_COYOTE_01" position="[2634.605, 1582.117, 128.869]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="50" model="A_C_WOLF" position="[1801.145, 767.694, 105.734]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="51" model="A_C_WOLF" position="[1658.442, 833.95, 142.883]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="52" model="A_C_WOLF" position="[2520.716, 1392.317, 100.837]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="53" model="A_C_WOLF" position="[2008.686, 1502.852, 166.805]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="54" model="A_C_WOLF" position="[1441.956, 1313.41, 161.88]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="55" model="A_C_HORSE_TENNESSEEWALKER_CHESTNUT" position="[1800.431, 889.54, 108.808]" UNK_83554DCD="HORSE" />
+          <UNK_AC9B1CBD id="56" model="A_C_HORSE_TENNESSEEWALKER_CHESTNUT" position="[1421.702, 1045.39, 174.369]" UNK_83554DCD="HORSE" />
+          <UNK_AC9B1CBD id="57" model="A_C_MOOSE_01" position="[2289.653, 1633.987, 84.079]" UNK_83554DCD="MOOSE" />
+          <UNK_AC9B1CBD id="58" model="A_C_MOOSE_01" position="[1784.584, 1337.178, 200.773]" UNK_83554DCD="MOOSE" />
+          <UNK_AC9B1CBD id="59" model="A_C_MOOSE_01" position="[1767.817, 1607.597, 170.454]" UNK_83554DCD="MOOSE" />
+          <UNK_AC9B1CBD id="60" model="A_C_BEAR_01" position="[2357.328, 1380.891, 105.412]" UNK_83554DCD="BEAR" />
+          <UNK_AC9B1CBD id="61" model="A_C_BEAR_01" position="[1559.479, 1375.003, 145.167]" UNK_83554DCD="BEAR" />
+          <UNK_AC9B1CBD id="62" model="A_C_BEAR_01" position="[1525.77, 1669.218, 139.916]" UNK_83554DCD="BEAR" />
+          <UNK_AC9B1CBD id="63" model="A_C_BEAR_01" position="[2286.381, 1067.91, 79.714]" UNK_83554DCD="BEAR" />
+        </UNK_1F465FC1>
+      </location>
+      <location UNK_813B03CC="Strawberry" id="STRAWBERRY">
+        <variations>
+          <variation UNK_4819D8E1="720000" id="STANDARD" />
+        </variations>
+        <volumes text="" />
+        <UNK_1F465FC1>
+          <UNK_AC9B1CBD id="0" model="A_C_DEER_01" position="[-1649.83, -526.21, 144.74]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="1" model="A_C_DEER_01" position="[-1659.4, -114.62, 171.35]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="2" model="A_C_DEER_01" position="[-1833.66, -1162.37, 73.06]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="3" model="A_C_DEER_01" position="[-2066.28, -940.18, 92.48]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="4" model="A_C_DEER_01" position="[-1263.13, -873.41, 50.1]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="5" model="A_C_DEER_01" position="[-1431.84, -246.52, 99.72]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="6" model="A_C_DEER_01" position="[-1655.983, -1004.679, 99.8398]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="7" model="A_C_DEER_01" position="[-1388.509, -882.8376, 93.8426]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="8" model="A_C_DEER_01" position="[-1273.766, -780.9685, 92.1939]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="9" model="A_C_DEER_01" position="[-1131.785, -954.5324, 63.0695]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="10" model="A_C_DEER_01" position="[-1802.212, -937.8889, 107.0431]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="11" model="A_C_DEER_01" position="[-1726.974, -312.0781, 179.5624]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="12" model="A_C_DEER_01" position="[-1750.324, -515.0967, 158.6865]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="13" model="A_C_DEER_01" position="[-1616.202, 132.2179, 123.7625]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="14" model="A_C_DEER_01" position="[-1300.847, -459.5895, 114.4608]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="15" model="A_C_DEER_01" position="[-1911.707, -795.5264, 117.4416]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="16" model="A_C_BUCK_01" position="[-1695.6, -594.1, 154.0]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="17" model="A_C_BUCK_01" position="[-1695.6, -594.1, 154.0]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="18" model="A_C_BUCK_01" position="[-1218.6, -424.78, 98.23]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="19" model="A_C_BUCK_01" position="[-1506.36, -1079.05, 65.19]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="20" model="A_C_BUCK_01" position="[-1289.093, 56.4993, 68.9579]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="21" model="A_C_BUCK_01" position="[-1566.57, -1046.776, 65.1077]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="22" model="A_C_BUCK_01" position="[-1320.8, -636.2715, 100.9792]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="23" model="A_C_BUCK_01" position="[-1946.859, -1072.381, 74.7102]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="24" model="A_C_BUCK_01" position="[-1330.362, 10.7409, 65.5878]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="25" model="A_C_BUCK_01" position="[-1166.781, -27.8544, 40.791]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="26" model="A_C_BUCK_01" position="[-1892.692, -667.0295, 122.3024]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="27" model="A_C_BUCK_01" position="[-1265.139, -342.4004, 106.9537]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="28" model="A_C_ELK_01" position="[-1750.572, 114.4627, 160.935]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="29" model="A_C_ELK_01" position="[-1649.053, -21.2281, 147.8379]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="30" model="A_C_ELK_01" position="[-1920.765, -231.4493, 188.7656]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="31" model="A_C_ELK_01" position="[-1398.988, -502.9034, 127.63]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="32" model="A_C_ELK_01" position="[-1584.9, -390.3097, 177.6871]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="33" model="A_C_ELK_01" position="[-1863.07, -533.0142, 175.7187]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="34" model="A_C_COYOTE_01" position="[-1321.85, -128.59, 98.56]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="35" model="A_C_COYOTE_01" position="[-2067.11, -394.19, 164.27]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="36" model="A_C_COYOTE_01" position="[-1822.03, -912.92, 105.39]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="37" model="A_C_COYOTE_01" position="[-1516.44, -26.96, 106.94]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="38" model="A_C_COYOTE_01" position="[-1608.198, -728.82, 135.45]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="39" model="A_C_COYOTE_01" position="[-1357.878, -961.4066, 72.1043]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="40" model="A_C_COYOTE_01" position="[-2115.738, -531.4157, 136.9173]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="41" model="A_C_COYOTE_01" position="[-1121.685, -781.9934, 62.2703]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="42" model="A_C_COYOTE_01" position="[-2109.06, -574.3023, 135.2632]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="43" model="A_C_COYOTE_01" position="[-1924.736, -685.2922, 116.3021]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="44" model="A_C_COYOTE_01" position="[-1105.104, -219.4462, 89.4299]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="45" model="A_C_COYOTE_01" position="[-1106.513, -352.2685, 95.6759]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="46" model="A_C_COYOTE_01" position="[-1049.099, -215.4703, 85.9868]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="47" model="A_C_COYOTE_01" position="[-1434.743, 54.7067, 89.3777]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="48" model="A_C_FOX_01" position="[-1778.401, -720.2311, 124.5774]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="49" model="A_C_FOX_01" position="[-1194.087, -200.1857, 93.1777]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="50" model="A_C_FOX_01" position="[-1206.817, -309.7279, 104.7763]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="51" model="A_C_FOX_01" position="[-1202.935, -707.1865, 73.5438]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="52" model="A_C_FOX_01" position="[-1596.797, -597.2851, 137.3038]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="53" model="A_C_FOX_01" position="[-1741.878, -42.2914, 178.5573]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="54" model="A_C_WOLF" position="[-2060.953, -683.6063, 105.9454]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="55" model="A_C_WOLF" position="[-2214.027, -432.1462, 162.0572]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="56" model="A_C_WOLF" position="[-2206.241, -431.5336, 162.1588]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="57" model="A_C_WOLF" position="[-1740.084, 73.6977, 147.2726]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="58" model="A_C_WOLF" position="[-1779.845, -297.2825, 181.3371]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="59" model="A_C_WOLF" position="[-1726.974, -312.0781, 179.5624]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="60" model="A_C_BEAR_01" position="[-1988.3, -300.7, 190.0]" UNK_83554DCD="BEAR" />
+          <UNK_AC9B1CBD id="61" model="A_C_BEAR_01" position="[-2086.41, -187.146, 201.05]" UNK_83554DCD="BEAR" />
+          <UNK_AC9B1CBD id="62" model="A_C_BEAR_01" position="[-1722.412, -234.5373, 181.4978]" UNK_83554DCD="BEAR" />
+          <UNK_AC9B1CBD id="63" model="A_C_BEAR_01" position="[-1773.612, -186.9171, 193.5868]" UNK_83554DCD="BEAR" />
+        </UNK_1F465FC1>
+      </location>
+      <location UNK_813B03CC="Bayou" id="BAYOU">
+        <variations>
+          <variation UNK_4819D8E1="720000" id="STANDARD" />
+        </variations>
+        <volumes text="" />
+        <UNK_1F465FC1>
+          <UNK_AC9B1CBD id="0" model="A_C_BUCK_01" position="[1604.757, -279.8666, 76.55739]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="1" model="A_C_DEER_01" position="[1715.229, -238.1438, 75.91765]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="2" model="A_C_DEER_01" position="[1793.363, 24.52636, 70.77705]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="3" model="A_C_DEER_01" position="[1799.649, 22.41266, 69.99952]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="4" model="A_C_FOX_01" position="[1829.594, 123.5599, 91.37679]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="5" model="A_C_BUCK_01" position="[1604.757, -279.8666, 76.55739]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="6" model="A_C_DEER_01" position="[1713.002, 261.8203, 83.73671]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="7" model="A_C_TURKEYWILD_01" position="[1950.975, 279.858, 73.14766]" UNK_83554DCD="TURKEYWILD" />
+          <UNK_AC9B1CBD id="8" model="A_C_RACCOON_01" position="[2008.861, 152.4398, 79.94063]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="9" model="A_C_BOAR_01" position="[2075.297, 167.1071, 73.81441]" UNK_83554DCD="BOAR" />
+          <UNK_AC9B1CBD id="10" model="A_C_DEER_01" position="[2136.323, 142.0691, 74.3648]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="11" model="A_C_TURKEYWILD_01" position="[2221.622, 88.54176, 58.38739]" UNK_83554DCD="TURKEYWILD" />
+          <UNK_AC9B1CBD id="12" model="A_C_BEARBLACK_01" position="[2306.062, 72.66309, 50.39337]" UNK_83554DCD="BEARBLACK" />
+          <UNK_AC9B1CBD id="13" model="A_C_BEARBLACK_01" position="[2301.486, 182.5498, 43.22066]" UNK_83554DCD="BEARBLACK" />
+          <UNK_AC9B1CBD id="14" model="A_C_FOX_01" position="[2202.759, 254.2544, 50.72517]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="15" model="A_C_TURKEYWILD_01" position="[2041.282, 344.4452, 84.70627]" UNK_83554DCD="TURKEYWILD" />
+          <UNK_AC9B1CBD id="16" model="A_C_RACCOON_01" position="[2138.646, 403.5793, 84.39713]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="17" model="A_C_DEER_01" position="[2210.185, 422.6371, 65.15429]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="18" model="A_C_FOX_01" position="[2260.649, 414.9772, 47.18412]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="19" model="A_C_BUCK_01" position="[2413.262, 375.7993, 57.11441]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="20" model="A_C_FOX_01" position="[2393.173, 342.5379, 59.73289]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="21" model="A_C_COYOTE_01" position="[2512.731, 289.0543, 72.31975]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="22" model="A_C_COYOTE_01" position="[2514.359, 294.0606, 72.82015]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="23" model="A_C_DEER_01" position="[2476.597, 155.0347, 41.80722]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="24" model="A_C_DEER_01" position="[2479.279, 151.773, 41.82051]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="25" model="A_C_BUCK_01" position="[2584.345, 205.8201, 62.62618]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="26" model="A_C_COYOTE_01" position="[2677.86, 198.5247, 54.80117]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="27" model="A_C_TURKEYWILD_01" position="[2696.761, 75.48963, 57.06807]" UNK_83554DCD="TURKEYWILD" />
+          <UNK_AC9B1CBD id="28" model="A_C_BOAR_01" position="[2755.05, 21.6818, 50.02344]" UNK_83554DCD="BOAR" />
+          <UNK_AC9B1CBD id="29" model="A_C_BOAR_01" position="[2644.726, -54.40226, 50.65576]" UNK_83554DCD="BOAR" />
+          <UNK_AC9B1CBD id="30" model="A_C_BOAR_01" position="[2713.741, -167.7368, 41.07444]" UNK_83554DCD="BOAR" />
+          <UNK_AC9B1CBD id="31" model="A_C_BOAR_01" position="[2633.179, -211.0677, 43.35527]" UNK_83554DCD="BOAR" />
+          <UNK_AC9B1CBD id="32" model="A_C_BOAR_01" position="[2519.377, -153.2483, 44.03564]" UNK_83554DCD="BOAR" />
+          <UNK_AC9B1CBD id="33" model="A_C_COYOTE_01" position="[2469.4, -84.84226, 44.94353]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="34" model="A_C_DEER_01" position="[2399.615, 40.73676, 41.19873]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="35" model="A_C_TURKEYWILD_01" position="[2416.405, -56.54226, 43.3296]" UNK_83554DCD="TURKEYWILD" />
+          <UNK_AC9B1CBD id="36" model="A_C_BOAR_01" position="[2412.218, -168.9296, 42.19145]" UNK_83554DCD="BOAR" />
+          <UNK_AC9B1CBD id="37" model="A_C_BOAR_01" position="[2348.981, -265.3131, 40.50528]" UNK_83554DCD="BOAR" />
+          <UNK_AC9B1CBD id="38" model="A_C_TURTLESNAPPING_01" position="[2496.008, -297.2745, 40.71214]" UNK_83554DCD="TURTLESNAPPING" />
+          <UNK_AC9B1CBD id="39" model="A_C_TURTLESNAPPING_01" position="[2606.292, -446.6169, 41.41831]" UNK_83554DCD="TURTLESNAPPING" />
+          <UNK_AC9B1CBD id="40" model="A_C_ALLIGATOR_01" position="[2694.425, -494.2098, 40.56962]" UNK_83554DCD="ALLIGATOR" />
+          <UNK_AC9B1CBD id="41" model="A_C_BOAR_01" position="[2544.078, -585.1032, 41.031]" UNK_83554DCD="BOAR" />
+          <UNK_AC9B1CBD id="42" model="A_C_COYOTE_01" position="[1727.044, -425.4924, 47.36712]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="43" model="A_C_TURKEYWILD_01" position="[1566.827, -399.649, 74.48264]" UNK_83554DCD="TURKEYWILD" />
+          <UNK_AC9B1CBD id="44" model="A_C_BUCK_01" position="[1498.085, -543.5343, 71.89723]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="45" model="A_C_TURKEYWILD_01" position="[1523.491, -571.2456, 63.68044]" UNK_83554DCD="TURKEYWILD" />
+          <UNK_AC9B1CBD id="46" model="A_C_SKUNK_01" position="[1675.269, -550.0804, 44.45702]" UNK_83554DCD="SKUNK" />
+          <UNK_AC9B1CBD id="47" model="A_C_SKUNK_01" position="[1686.134, -591.3441, 44.32146]" UNK_83554DCD="SKUNK" />
+          <UNK_AC9B1CBD id="48" model="A_C_ALLIGATOR_01" position="[1760.878, -632.753, 41.07679]" UNK_83554DCD="ALLIGATOR" />
+          <UNK_AC9B1CBD id="49" model="A_C_POSSUM_01" position="[1756.61, -566.2662, 42.28111]" UNK_83554DCD="POSSUM" />
+          <UNK_AC9B1CBD id="50" model="A_C_RACCOON_01" position="[1830.86, -657.2717, 41.43794]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="51" model="A_C_PANTHER_01" position="[1830.865, -704.6592, 41.11744]" UNK_83554DCD="PANTHER" />
+          <UNK_AC9B1CBD id="52" model="A_C_ALLIGATOR_01" position="[1747.689, -690.2134, 40.58468]" UNK_83554DCD="ALLIGATOR" />
+          <UNK_AC9B1CBD id="53" model="A_C_FOX_01" position="[1920.047, -615.4334, 41.77496]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="54" model="A_C_RACCOON_01" position="[1865.171, -524.9196, 43.14598]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="55" model="A_C_RACCOON_01" position="[1974.89, -684.5143, 41.99082]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="56" model="A_C_FOX_01" position="[2490.186, -725.0319, 40.85521]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="57" model="A_C_ALLIGATOR_01" position="[2146.469, -751.3113, 40.54325]" UNK_83554DCD="ALLIGATOR" />
+          <UNK_AC9B1CBD id="58" model="A_C_ALLIGATOR_01" position="[2167.14, -686.2096, 40.87376]" UNK_83554DCD="ALLIGATOR" />
+          <UNK_AC9B1CBD id="59" model="A_C_RACCOON_01" position="[2076.281, -472.5539, 40.78064]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="60" model="A_C_ALLIGATOR_01" position="[2126.855, -502.0556, 40.90032]" UNK_83554DCD="ALLIGATOR" />
+          <UNK_AC9B1CBD id="61" model="A_C_ALLIGATOR_01" position="[2234.245, -568.0607, 40.56203]" UNK_83554DCD="ALLIGATOR" />
+          <UNK_AC9B1CBD id="62" model="A_C_ALLIGATOR_01" position="[2286.45, -662.5942, 40.55207]" UNK_83554DCD="ALLIGATOR" />
+          <UNK_AC9B1CBD id="63" model="A_C_PANTHER_01" position="[2363.839, -793.8704, 40.52058]" UNK_83554DCD="PANTHER" />
+        </UNK_1F465FC1>
+      </location>
+      <location UNK_813B03CC="Great Plains" id="GREATPLAINS">
+        <variations>
+          <variation UNK_4819D8E1="720000" id="STANDARD" />
+        </variations>
+        <volumes text="" />
+        <UNK_1F465FC1>
+          <UNK_AC9B1CBD id="0" model="A_C_BOAR_01" position="[-1435.797, -2092.019, 48.90432]" UNK_83554DCD="BOAR" />
+          <UNK_AC9B1CBD id="1" model="A_C_RACCOON_01" position="[-1349.051, -1996.203, 44.55159]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="2" model="A_C_BOAR_01" position="[-1262.005, -1949.952, 42.50846]" UNK_83554DCD="BOAR" />
+          <UNK_AC9B1CBD id="3" model="A_C_RACCOON_01" position="[-1203.41, -1944.194, 42.30965]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="4" model="A_C_BADGER_01" position="[-1202.591, -1849.892, 59.28498]" UNK_83554DCD="BADGER" />
+          <UNK_AC9B1CBD id="5" model="A_C_SKUNK_01" position="[-1167.358, -1699.067, 72.24651]" UNK_83554DCD="SKUNK" />
+          <UNK_AC9B1CBD id="6" model="A_C_FOX_01" position="[-1227.679, -1465.218, 80.23045]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="7" model="A_C_BUFFALO_01" position="[-1320.253, -1578.221, 80.13518]" UNK_83554DCD="BUFFALO" />
+          <UNK_AC9B1CBD id="8" model="A_C_BUFFALO_01" position="[-1320.253, -1578.221, 80.13518]" UNK_83554DCD="BUFFALO" />
+          <UNK_AC9B1CBD id="9" model="A_C_BUFFALO_01" position="[-1338.736, -1613.41, 85.89166]" UNK_83554DCD="BUFFALO" />
+          <UNK_AC9B1CBD id="10" model="A_C_BUFFALO_01" position="[-1445.121, -1493.882, 87.62057]" UNK_83554DCD="BUFFALO" />
+          <UNK_AC9B1CBD id="11" model="A_C_FOX_01" position="[-1390.953, -1393.216, 92.73748]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="12" model="A_C_COYOTE_01" position="[-1345.157, -1322.507, 89.70085]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="13" model="A_C_BADGER_01" position="[-1258.303, -1213.885, 78.60369]" UNK_83554DCD="BADGER" />
+          <UNK_AC9B1CBD id="14" model="A_C_COYOTE_01" position="[-1197.314, -1166.358, 67.90157]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="15" model="A_C_DEER_01" position="[-1474.543, -1078.043, 74.23209]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="16" model="A_C_DEER_01" position="[-1577.093, -1073.968, 65.06159]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="17" model="A_C_RACCOON_01" position="[-1595.762, -988.8253, 76.77231]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="18" model="A_C_DEER_01" position="[-1664.388, -942.6902, 96.81528]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="19" model="A_C_RACCOON_01" position="[-1616.55, -1399.633, 81.11192]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="20" model="A_C_COYOTE_01" position="[-1608.639, -1472.05, 83.87147]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="21" model="A_C_DEER_01" position="[-1580.518, -1589.647, 81.77512]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="22" model="A_C_DEER_01" position="[-1573.872, -1649.674, 78.54053]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="23" model="A_C_COUGAR_01" position="[-1061.08, -1731.245, 75.38718]" UNK_83554DCD="COUGAR" />
+          <UNK_AC9B1CBD id="24" model="A_C_BADGER_01" position="[-1440.09, -1919.813, 49.26662]" UNK_83554DCD="BADGER" />
+          <UNK_AC9B1CBD id="25" model="A_C_DEER_01" position="[-1691.75, -2070.233, 47.17239]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="26" model="A_C_FOX_01" position="[-1654.008, -2157.944, 41.59948]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="27" model="A_C_TURKEYWILD_01" position="[-1724.887, -2187.684, 47.37924]" UNK_83554DCD="TURKEYWILD" />
+          <UNK_AC9B1CBD id="28" model="A_C_TURKEYWILD_01" position="[-1765.984, -2044.09, 47.6938]" UNK_83554DCD="TURKEYWILD" />
+          <UNK_AC9B1CBD id="29" model="A_C_TURKEYWILD_01" position="[-1839.459, -1740.558, 106.0862]" UNK_83554DCD="TURKEYWILD" />
+          <UNK_AC9B1CBD id="30" model="A_C_SKUNK_01" position="[-1821.482, -1630.177, 104.133]" UNK_83554DCD="SKUNK" />
+          <UNK_AC9B1CBD id="31" model="A_C_BUCK_01" position="[-1784.801, -1578.647, 96.76221]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="32" model="A_C_DEER_01" position="[-1790.847, -1506.116, 90.31679]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="33" model="A_C_SKUNK_01" position="[-1793.83, -1405.708, 91.97488]" UNK_83554DCD="SKUNK" />
+          <UNK_AC9B1CBD id="34" model="A_C_FOX_01" position="[-1828.324, -1207.06, 72.99847]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="35" model="A_C_COYOTE_01" position="[-1813.694, -1138.508, 88.7557]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="36" model="A_C_TURKEYWILD_01" position="[-1842.897, -1059.262, 82.92131]" UNK_83554DCD="TURKEYWILD" />
+          <UNK_AC9B1CBD id="37" model="A_C_MOOSE_01" position="[-1807.377, -905.8702, 104.7047]" UNK_83554DCD="MOOSE" />
+          <UNK_AC9B1CBD id="38" model="A_C_DEER_01" position="[-1908.869, -1012.942, 93.71806]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="39" model="A_C_ELK_01" position="[-2003.159, -967.2798, 100.397]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="40" model="A_C_DEER_01" position="[-1992.669, -1055.4, 73.78738]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="41" model="A_C_ELK_01" position="[-1904.669, -1182.212, 73.16824]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="42" model="A_C_ELK_01" position="[-1931.495, -1312.796, 106.4029]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="43" model="A_C_FOX_01" position="[-1837.104, -1519.934, 97.07233]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="44" model="A_C_SKUNK_01" position="[-1960.981, -1367.973, 111.7301]" UNK_83554DCD="SKUNK" />
+          <UNK_AC9B1CBD id="45" model="A_C_BEARBLACK_01" position="[-2007.637, -1338.982, 116.216]" UNK_83554DCD="BEARBLACK" />
+          <UNK_AC9B1CBD id="46" model="A_C_ELK_01" position="[-1942.81, -1512.539, 107.8755]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="47" model="A_C_ELK_01" position="[-1894.514, -1659.845, 107.2228]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="48" model="A_C_DEER_01" position="[-1866.997, -1812.398, 112.0895]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="49" model="A_C_BEAR_01" position="[-2091.791, -1961.715, 110.2981]" UNK_83554DCD="BEAR" />
+          <UNK_AC9B1CBD id="50" model="A_C_BEAR_01" position="[-2078.686, -2013.473, 95.83163]" UNK_83554DCD="BEAR" />
+          <UNK_AC9B1CBD id="51" model="A_C_BEAR_01" position="[-2041.726, -1800.665, 114.7028]" UNK_83554DCD="BEAR" />
+          <UNK_AC9B1CBD id="52" model="A_C_COYOTE_01" position="[-2122.488, -1782.792, 141.6043]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="53" model="A_C_FOX_01" position="[-2324.862, -1605.471, 147.7504]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="54" model="A_C_ELK_01" position="[-2309.255, -1543.56, 151.9259]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="55" model="A_C_COYOTE_01" position="[-2220.524, -1531.765, 146.6636]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="56" model="A_C_DEER_01" position="[-2180.272, -1607.627, 147.259]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="57" model="A_C_SKUNK_01" position="[-2028.507, -1509.438, 123.1932]" UNK_83554DCD="SKUNK" />
+          <UNK_AC9B1CBD id="58" model="A_C_ELK_01" position="[-2155.826, -1420.983, 135.5524]" UNK_83554DCD="ELK" />
+          <UNK_AC9B1CBD id="59" model="A_C_TURKEYWILD_01" position="[-2240.851, -1279.422, 134.3365]" UNK_83554DCD="TURKEYWILD" />
+          <UNK_AC9B1CBD id="60" model="A_C_BADGER_01" position="[-2169.904, -1239.781, 129.2878]" UNK_83554DCD="BADGER" />
+          <UNK_AC9B1CBD id="61" model="A_C_WOLF" position="[-2364.11, -1419.367, 147.191]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="62" model="A_C_WOLF" position="[-2381.673, -1412.126, 147.8358]" UNK_83554DCD="WOLF" />
+          <UNK_AC9B1CBD id="63" model="A_C_WOLF" position="[-2384.741, -1426.1, 149.6502]" UNK_83554DCD="WOLF" />
+        </UNK_1F465FC1>
+      </location>
+      <location UNK_813B03CC="New Austin" id="NEWAUSTIN">
+        <variations>
+          <variation UNK_4819D8E1="720000" id="STANDARD" />
+        </variations>
+        <volumes text="" />
+        <UNK_1F465FC1>
+          <UNK_AC9B1CBD id="0" model="A_C_FOX_01" position="[-2759.577, -3149.467, 2.07079]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="1" model="A_C_DEER_01" position="[-2581.823, -3067.114, 10.64095]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="2" model="A_C_FOX_01" position="[-2448.104, -3031.461, 11.62462]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="3" model="A_C_FOX_01" position="[-2288.307, -3002.161, -1.18169]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="4" model="A_C_DEER_01" position="[-2347.927, -2931.597, 7.6808]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="5" model="A_C_TURKEYWILD_01" position="[-2570.527, -2952.46, 68.5528]" UNK_83554DCD="TURKEYWILD" />
+          <UNK_AC9B1CBD id="6" model="A_C_COYOTE_01" position="[-2414.939, -2837.288, 66.29125]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="7" model="A_C_TURKEYWILD_01" position="[-2322.725, -2633.122, 66.29956]" UNK_83554DCD="TURKEYWILD" />
+          <UNK_AC9B1CBD id="8" model="A_C_DEER_01" position="[-2421.842, -2668.186, 70.18412]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="9" model="A_C_TURKEYWILD_01" position="[-2500.088, -2730.907, 72.49564]" UNK_83554DCD="TURKEYWILD" />
+          <UNK_AC9B1CBD id="10" model="A_C_DEER_01" position="[-2359.946, -2572.032, 70.11343]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="11" model="A_C_DEER_01" position="[-2245.686, -2560.534, 66.19956]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="12" model="A_C_COYOTE_01" position="[-2273.562, -2330.276, 63.18732]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="13" model="A_C_DEER_01" position="[-2293.401, -2284.52, 75.89103]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="14" model="A_C_DEER_01" position="[-2427.323, -2246.035, 63.18602]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="15" model="A_C_DEER_01" position="[-2577.913, -2243.807, 78.63511]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="16" model="A_C_BADGER_01" position="[-2582.283, -2281.452, 74.34995]" UNK_83554DCD="BADGER" />
+          <UNK_AC9B1CBD id="17" model="A_C_DEER_01" position="[-2596.199, -2413.067, 69.95824]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="18" model="A_C_RACCOON_01" position="[-2557.835, -2509.521, 69.62649]" UNK_83554DCD="RACCOON" />
+          <UNK_AC9B1CBD id="19" model="A_C_DEER_01" position="[-2557.79, -2582.633, 77.70849]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="20" model="A_C_FOX_01" position="[-2819.818, -2996.207, 71.11722]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="21" model="A_C_DEER_01" position="[-2785.229, -2669.834, 86.27563]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="22" model="A_C_FOX_01" position="[-2734.958, -2478.217, 67.70743]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="23" model="A_C_FOX_01" position="[-2880.869, -2231.425, 66.26431]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="24" model="A_C_BIGHORNRAM_01" position="[-2995.393, -2734.354, 87.22758]" UNK_83554DCD="BIGHORNRAM" />
+          <UNK_AC9B1CBD id="25" model="A_C_BIGHORNRAM_01" position="[-2956.249, -2581.688, 84.22504]" UNK_83554DCD="BIGHORNRAM" />
+          <UNK_AC9B1CBD id="26" model="A_C_BIGHORNRAM_01" position="[-2895.45, -2416.795, 52.74263]" UNK_83554DCD="BIGHORNRAM" />
+          <UNK_AC9B1CBD id="27" model="A_C_BIGHORNRAM_01" position="[-3023.252, -2292.949, 45.6778]" UNK_83554DCD="BIGHORNRAM" />
+          <UNK_AC9B1CBD id="28" model="A_C_BIGHORNRAM_01" position="[-3182.086, -2463.391, 72.17937]" UNK_83554DCD="BIGHORNRAM" />
+          <UNK_AC9B1CBD id="29" model="A_C_BUCK_01" position="[-3085.87, -2199.418, 75.18678]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="30" model="A_C_BIGHORNRAM_01" position="[-3031.755, -2442.156, 29.01505]" UNK_83554DCD="BIGHORNRAM" />
+          <UNK_AC9B1CBD id="31" model="A_C_COYOTE_01" position="[-2706.052, -2365.285, 45.0586]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="32" model="A_C_COUGAR_01" position="[-3026.804, -2786.504, 49.02759]" UNK_83554DCD="COUGAR" />
+          <UNK_AC9B1CBD id="33" model="A_C_DEER_01" position="[-3130.794, -2778.863, 18.17851]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="34" model="A_C_BOAR_01" position="[-3232.826, -3111.942, -2.67369]" UNK_83554DCD="BOAR" />
+          <UNK_AC9B1CBD id="35" model="A_C_BOAR_01" position="[-3322.719, -3002.02, 2.44265]" UNK_83554DCD="BOAR" />
+          <UNK_AC9B1CBD id="36" model="A_C_DEER_01" position="[-3411.504, -2981.747, 0.02782]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="37" model="A_C_DEER_01" position="[-3453.441, -2887.608, -3.35497]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="38" model="A_C_DEER_01" position="[-3453.113, -2892.647, -3.09389]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="39" model="A_C_BUCK_01" position="[-3454.894, -2881.977, -3.80333]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="40" model="A_C_BOAR_01" position="[-3488.469, -2802.812, -4.64223]" UNK_83554DCD="BOAR" />
+          <UNK_AC9B1CBD id="41" model="A_C_COYOTE_01" position="[-3517.48, -2724.314, -10.20374]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="42" model="A_C_FOX_01" position="[-3447.904, -2645.366, -12.9069]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="43" model="A_C_BUCK_01" position="[-3085.87, -2199.418, 75.18678]" UNK_83554DCD="BUCK" />
+          <UNK_AC9B1CBD id="44" model="A_C_COUGAR_01" position="[-3293.521, -2465.989, 15.59848]" UNK_83554DCD="COUGAR" />
+          <UNK_AC9B1CBD id="45" model="A_C_SKUNK_01" position="[-3391.806, -2500.349, -4.25018]" UNK_83554DCD="SKUNK" />
+          <UNK_AC9B1CBD id="46" model="A_C_COYOTE_01" position="[-3479.477, -2561.97, -13.44118]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="47" model="A_C_FOX_01" position="[-3521.002, -2591.643, -14.73163]" UNK_83554DCD="FOX" />
+          <UNK_AC9B1CBD id="48" model="A_C_DEER_01" position="[-3557.929, -2560.584, -14.78086]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="49" model="A_C_GILAMONSTER_01" position="[-3514.926, -2464.648, -14.51207]" UNK_83554DCD="GILAMONSTER" />
+          <UNK_AC9B1CBD id="50" model="A_C_ARMADILLO_01" position="[-3463.19, -2402.326, -9.66652]" UNK_83554DCD="ARMADILLO" />
+          <UNK_AC9B1CBD id="51" model="A_C_COYOTE_01" position="[-3460.948, -2314.582, -4.18972]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="52" model="A_C_GILAMONSTER_01" position="[-3415.924, -2250.041, -5.44276]" UNK_83554DCD="GILAMONSTER" />
+          <UNK_AC9B1CBD id="53" model="A_C_COYOTE_01" position="[-3393.528, -2304.696, -3.34036]" UNK_83554DCD="COYOTE" />
+          <UNK_AC9B1CBD id="54" model="A_C_BOAR_01" position="[-3325.84, -2333.841, 2.24301]" UNK_83554DCD="BOAR" />
+          <UNK_AC9B1CBD id="55" model="A_C_DEER_01" position="[-3273.085, -2300.072, 10.62799]" UNK_83554DCD="DEER" />
+          <UNK_AC9B1CBD id="56" model="A_C_BIGHORNRAM_01" position="[-3170.277, -2316.168, 36.60865]" UNK_83554DCD="BIGHORNRAM" />
+          <UNK_AC9B1CBD id="57" model="A_C_SKUNK_01" position="[-3243.691, -2189.591, 19.25985]" UNK_83554DCD="SKUNK" />
+          <UNK_AC9B1CBD id="58" model="A_C_COUGAR_01" position="[-3215.033, -2134.938, 29.22977]" UNK_83554DCD="COUGAR" />
+          <UNK_AC9B1CBD id="59" model="A_C_COUGAR_01" position="[-3144.714, -2129.209, 69.81458]" UNK_83554DCD="COUGAR" />
+          <UNK_AC9B1CBD id="60" model="A_C_BADGER_01" position="[-3231.045, -2082.598, 29.72582]" UNK_83554DCD="BADGER" />
+          <UNK_AC9B1CBD id="61" model="A_C_ARMADILLO_01" position="[-3330.551, -2744.664, -4.49517]" UNK_83554DCD="ARMADILLO" />
+          <UNK_AC9B1CBD id="62" model="A_C_GILAMONSTER_01" position="[-3383.617, -2785.161, -6.33613]" UNK_83554DCD="GILAMONSTER" />
+          <UNK_AC9B1CBD id="63" model="A_C_ARMADILLO_01" position="[-3319.939, -2868.416, -7.06636]" UNK_83554DCD="ARMADILLO" />
+        </UNK_1F465FC1>
+      </location>
+    </locations>
+  </activity>
+</root>
